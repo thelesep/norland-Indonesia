@@ -99,310 +99,310 @@ main_menu.new_game.province.kingdom.culture.tanaya,Tanaya
 main_menu.new_game.province.kingdom.culture.makha,Makha
 main_menu.new_game.province.kingdom.culture.voruns,Varn
 main_menu.new_game.province.neighbours.abandoned_town,Kota Terbengkalai
-main_menu.new_game.province.neighbours.empty,Choose Neighbor
-main_menu.new_game.family.banner.sign_color,Sign Color
-main_menu.new_game.family.banner.pattern,Pattern
-main_menu.new_game.family.banner.sign,Sign
-main_menu.new_game.family.look.body,Body
-main_menu.new_game.family.look.skin_color,Skin Color
-main_menu.new_game.family.look.hair_color,Hair Color
-main_menu.new_game.family.look.beard,Beard
-main_menu.new_game.family.look.haircut,Hairstyle
-main_menu.new_game.family.look.head,Head
-main_menu.new_game.family.look.sex,Gender
-main_menu.new_game.family.look.random,Random look
-main_menu.new_game.family.character_traits,CHARACTER TRAITS
-main_menu.new_game.family.skills,SKILLS
-main_menu.new_game.family.overall_skills,Overall Skills
-main_menu.new_game.soft_onboarding,Easy Start
-main_menu.new_game.family.members,Family Members
-main_menu.new_game.family.members.husband_wife_child,"Husband, wife, child"
-main_menu.new_game.family.members.two_sis_and_son,Two sisters and a son
-main_menu.new_game.family.members.two_bro,Two brothers
-main_menu.new_game.family.members.three_sisters,Three sisters
-main_menu.new_game.family.members.father_three_doughters,Father and daughters
-main_menu.new_game.family_settings,Family Settings
-main_menu.ng_world_should_generate,Generate World
-main_menu.ng_select_map,Select Map
-main_menu.ng_save_name,Enter save file name
-main_menu.save_load.delete,Delete
-main_menu.save_load.deleted,DELETED
-main_menu.save_load.save_as.desc2,Leave blank to save under the current map file name
-main_menu.save_load.save_as.desc,New save file name
-main_menu.save_load.save_as,New save
-main_menu.save_load.rewrite,Overwrite
-main_menu.save_load.save,Save
-main_menu.save_load.load,Load
-main_menu.save_load.autosave_morning,Morning
-main_menu.save_load.autosave_evening,Evening
-main_menu.mods,Mods
-main_menu.credits,Credits
+main_menu.new_game.province.neighbours.empty,Pilih Tetangga
+main_menu.new_game.family.banner.sign_color,Warna Tanda
+main_menu.new_game.family.banner.pattern,Pola
+main_menu.new_game.family.banner.sign,Tanda
+main_menu.new_game.family.look.body,Tubuh
+main_menu.new_game.family.look.skin_color,Warna Kulit
+main_menu.new_game.family.look.hair_color,Warna Rambut
+main_menu.new_game.family.look.beard,Janggut
+main_menu.new_game.family.look.haircut,Gaya Rambut
+main_menu.new_game.family.look.head,Kepala
+main_menu.new_game.family.look.sex,Jenis Kelamin
+main_menu.new_game.family.look.random,Tampilan Acak
+main_menu.new_game.family.character_traits,Sifat Karakter
+main_menu.new_game.family.skills,Keterampilan
+main_menu.new_game.family.overall_skills,Keterampilan Keseluruhan
+main_menu.new_game.soft_onboarding,Awal Mudah
+main_menu.new_game.family.members,Anggota Keluarga
+main_menu.new_game.family.members.husband_wife_child,"Suami, istri, anak"
+main_menu.new_game.family.members.two_sis_and_son,Dua saudari dan seorang putra
+main_menu.new_game.family.members.two_bro,Dua saudara
+main_menu.new_game.family.members.three_sisters,Tiga saudari
+main_menu.new_game.family.members.father_three_doughters,Ayah dan putri
+main_menu.new_game.family_settings,Pengaturan Keluarga
+main_menu.ng_world_should_generate,Hasilkan Dunia
+main_menu.ng_select_map,Pilih Peta
+main_menu.ng_save_name,Masukkan nama file simpanan
+main_menu.save_load.delete,Hapus
+main_menu.save_load.deleted,Dihapus
+main_menu.save_load.save_as.desc2,Biarkan kosong untuk menyimpan dengan nama file peta saat ini
+main_menu.save_load.save_as.desc,Nama file simpanan baru
+main_menu.save_load.save_as,Simpanan Baru
+main_menu.save_load.rewrite,Timpa
+main_menu.save_load.save,Simpan
+main_menu.save_load.load,Muat
+main_menu.save_load.autosave_morning,Pagi
+main_menu.save_load.autosave_evening,Sore
+main_menu.mods,Mod
+main_menu.credits,Kredit
 main_menu.discord,Discord
-main_menu.leave_feedback,Feedback
-main_menu.feedback.send,Provide
-main_menu.exit,Exit
-main_menu.settings,Settings
-main_menu.load_game,Load Game
+main_menu.leave_feedback,Masukan
+main_menu.feedback.send,Berikan
+main_menu.exit,Keluar
+main_menu.settings,Pengaturan
+main_menu.load_game,Muat Permainan
 main_menu.start_tutorial,Tutorial
-main_menu.start_new_game,New Game
-main_menu.continue_last_game,Continue
-main_menu.save_and_exit,Save & Exit
-main_menu.start,Start
-main_menu.back,Back
-menu.problems,Problems
-adv_tutorial.obj_build_sawmill_place_text,Build the Lumbermill here
-adv_tutorial.obj_build_field_place_text,Place the Rutabaga Field Here
-adv_tutorial.obj_build_taverna_place_text,Build the Tavern here
-adv_tutorial.obj_build_generic_place_text,Place here
-notification.tutorial.ambush,The bandits are attacking!
-loading_screen,Loading... Please wait.
-loading_screen.ingame.misc_loading,Loading Data
-loading_screen.ingame.gui_init,Creating GUI
-loading_screen.ingame.save_game_load,Loading Saved Game
-loading_screen.ingame.new_game_load,Initializing New Game
-loading_screen.ingame.gui_system,Initializing GUI System
-loading_screen.ingame.map_cells,Creating Map Cells
-loading_screen.ingame.trade_manager,Initializing Trade Manager
-loading_screen.ingame.local_map_controller,Loading Local Map Controller
-loading_screen.ingame.province_controller,Loading Province Data
-loading_screen.ingame.global_map,Loading External Map
-loading_screen.ingame.battle_injuty_lottery,Loading Combat Injury Chances
-loading_screen.ingame.game_system_init,Initializing In-Game Systems
-loading_screen.ingame_unloading,Unloading In-Game Resources
-loading_screen.caching_textures,Caching Textures
-loading_screen.game_vars,Loading Game Vars
-loading_screen.audio,Launching Audio System
-loading_screen.animations,Loading Animations
-loading_screen.building_assets,Loading Building Assets
-loading_screen.actor_assets,Loading Actor Assets
-loading_screen.traits,Loading Traits
-loading_screen.minds,Loading Minds
-loading_screen.tantrums,Loading Tantrums
-loading_screen.activity,Loading Activities
-loading_screen.game_data,Loading In-Game Data
-loading_screen.building_constructions,Loading Building Constructions
-loading_screen.banners,Loading Banners
-loading_screen.gui,Loading GUI
-loading_screen.hints,Loading Hints
-loading_screen.rich_string,Loading Rich String
-loading_screen.knowledge_localization,Loading Knowledge Localization
-loading_screen.saves_and_maps,Loading World and Save Lists
-loading_screen.done,Loading Complete.
-encyclopedia.help,HELP
-encyclopedia.category.battle,Combat
-encyclopedia.category.economics,Economics
-encyclopedia.category.characters,Characters
-encyclopedia.category.mechanics,Mechanics
-encyclopedia.category.hints,Hints
-encyclopedia.category.global_map,Map
-encyclopedia.search,Search...
-action_task.skill_training_caption,Teaching {skill_name}
-actor.relations.filter.location,Nearby
-actor.relations.filter.kings,Kings
-actor.relations.filter.friends,Friends
-actor.relations.filter.enemies,Enemies
-actor.relations.filter.can_seduce,Can be seduced
-action_task.category.king,King
-action_task.category.social,Social
-action_task.category.bishop,Bishop
-action_task.sub_category.social,Communication
-action_task.sub_category.intrigue,Intrigue
-actor.action_task.begging,Beg for forgiveness
-actor.action_task.nominate_enemy,Declare as an enemy
-actor.action_task_hunt,Fleshwolf hunting
-actor.action_task_sick_visit,Visit the sick
-actor.action_task.marriage,Marry
-actor.action_task.bribe,Bribe
-actor.action_task.punish,Punish
-actor.action_task.reward,Reward
-actor.action_task.rumors,Spread rumors
-actor.action_task.spent_time,Spend time
-actor.action_task.invite,Invite
-actor.action_task.teach,Educate
-actor.action_task.threat,Threaten
-actor.action_task.trade,Trade
-actor.action_task.make_free,Free
-actor.action_task.seduction,Seduce
-actor.action_task.donate,Gift to the king
-actor.action_task.kill,Kill
-actor.action_task.poison,Poison
-actor.action_task.play_dice,Play dice
-actor.action_task.depart,Exile
-actor.action_task.duel_call,Challenge to a duel
-actor.action_task.duel_provocation,Duel provocation
-actor.action_task.free_lord_hire,Hire a lord
-actor.action_task.send_guest,Send a guest
-actor.action_task.king_tribute,Offering
-actor.action_task.confession,Confess
-actor.action_task.kidnap,Capture
-actor.action_task.free_captive,Release
-actor.action_task.forced_sex,Force into sex
-actor.action_task.appoint_an_heir,Declare as heir
-actor.action_task.go_home,Send home
-actor.action_task.sex_with_dummy,Proposition
-actor.action_task.new_heir,Appoint as heir
-actor.action_task.canonization,Blessing
-actor.action_task.divorce,Divorce
-actor.action_task.consolation,Console
-actor.action_task.give_title_to_hired_free_lord,Grant a title
-actor.action_task.give_title_to_soldier,Grant a title
-actor.action_task.take_title,Revoke lordship title
-actor.action_task.join_captive,Release and accept
-actor.action_task.new_king,Pass the crown
-actor.appoint_in_town,In {town_name}
-actor.appoint_in_this_town,In this town
-actor.appoint.our_lords,Our lords
-actor.appoint.other_lords,Other lords
-actor.action.training,TRAINING
-actor.action.conversation,NEGOTIATIONS
-actor.action.army.on_local_map,On local map
-actor.action.army.on_global_map,On global map
-actor.action.army,ARMY
-actor.action.executor,ACTOR
-actor.action.executor_replace,REPLACE
-actor.action.teacher,TEACHER
-actor.action.chancellery_any,Any Chancellery
-actor.action.punishment,PUNISHMENT
-actor.action.teach,LEARN
-actor.action.person,WHOM?
-actor.action.different_actions,ACTION
-actor.action.trade,TRADE
-actor.action_task.invite_guest,Invite to your province
-actor.status.on_global_map,On the global map
-actor.status.on_global_map_lost,Missing
-actor.status.in_army,In a squad on the global map
-actor.status.in_travel,Traveling
-actor.status.in_object,In {object_name}
-actor.adjective.addicted_to_drink,Prone to drinking
-actor.adjective.ambitious,Ambitious
-actor.adjective.angry,Vengeful
-actor.adjective.arrogant,Arrogant
-actor.adjective.ascetic,Ascetic
-actor.adjective.bloodthirsty,Bloodthirsty
-actor.adjective.contemptuous,Contemptuous
-actor.adjective.contradictory,Contradictory
-actor.adjective.emotional,Emotional
-actor.adjective.envious,Envious
-actor.adjective.friendly,Friendly
-actor.adjective.frivolous,Frivolous
-actor.adjective.greedy,Greedy
-actor.adjective.indifferent,Indifferent
-actor.adjective.intemperate,Impulsive
-actor.adjective.jealous,Jealous
-actor.adjective.mean,Spiteful
-actor.adjective.melancholy,Melancholic
-actor.adjective.sarcastic,Sarcastic
-actor.adjective.subtle,Refined
-actor.adjective.trusting,Gullible
-actor.adjective.weakpowered,Weakling
+main_menu.start_new_game,Permainan Baru
+main_menu.continue_last_game,Lanjutkan
+main_menu.save_and_exit,Simpan & Keluar
+main_menu.start,Mulai
+main_menu.back,Kembali
+menu.problems,Masalah
+adv_tutorial.obj_build_sawmill_place_text,Bangun Penggergajian di sini
+adv_tutorial.obj_build_field_place_text,Tempatkan Ladang Lobak di sini
+adv_tutorial.obj_build_taverna_place_text,Bangun Kedai Minum di sini
+adv_tutorial.obj_build_generic_place_text,Tempatkan di sini
+notification.tutorial.ambush,Para bandit sedang menyerang!
+loading_screen,Memuat... Mohon tunggu.
+loading_screen.ingame.misc_loading,Memuat Data
+loading_screen.ingame.gui_init,Membuat GUI
+loading_screen.ingame.save_game_load,Memuat Permainan Tersimpan
+loading_screen.ingame.new_game_load,Menginisialisasi Permainan Baru
+loading_screen.ingame.gui_system,Menginisialisasi Sistem GUI
+loading_screen.ingame.map_cells,Membuat Sel Peta
+loading_screen.ingame.trade_manager,Menginisialisasi Manajer Perdagangan
+loading_screen.ingame.local_map_controller,Memuat Pengendali Peta Lokal
+loading_screen.ingame.province_controller,Memuat Data Provinsi
+loading_screen.ingame.global_map,Memuat Peta Eksternal
+loading_screen.ingame.battle_injuty_lottery,Memuat Peluang Cedera Tempur
+loading_screen.ingame.game_system_init,Menginisialisasi Sistem Dalam Game
+loading_screen.ingame_unloading,Membongkar Sumber Daya Dalam Game
+loading_screen.caching_textures,Menyimpan Tekstur
+loading_screen.game_vars,Memuat Variabel Permainan
+loading_screen.audio,Menjalankan Sistem Audio
+loading_screen.animations,Memuat Animasi
+loading_screen.building_assets,Memuat Aset Bangunan
+loading_screen.actor_assets,Memuat Aset Aktor
+loading_screen.traits,Memuat Sifat Karakter
+loading_screen.minds,Memuat Pikiran
+loading_screen.tantrums,Memuat Amukan
+loading_screen.activity,Memuat Aktivitas
+loading_screen.game_data,Memuat Data Dalam Game
+loading_screen.building_constructions,Memuat Konstruksi Bangunan
+loading_screen.banners,Memuat Spanduk
+loading_screen.gui,Memuat GUI
+loading_screen.hints,Memuat Petunjuk
+loading_screen.rich_string,Memuat String Kaya
+loading_screen.knowledge_localization,Memuat Lokalisasi Pengetahuan
+loading_screen.saves_and_maps,Memuat Daftar Dunia dan Simpanan
+loading_screen.done,Memuat Selesai.
+encyclopedia.help,Bantuan
+encyclopedia.category.battle,Pertempuran
+encyclopedia.category.economics,Ekonomi
+encyclopedia.category.characters,Karakter
+encyclopedia.category.mechanics,Mekanisme
+encyclopedia.category.hints,Petunjuk
+encyclopedia.category.global_map,Peta
+encyclopedia.search,Cari...
+action_task.skill_training_caption,Mengajar {skill_name}
+actor.relations.filter.location,Di Sekitar
+actor.relations.filter.kings,Raja
+actor.relations.filter.friends,Teman
+actor.relations.filter.enemies,Musuh
+actor.relations.filter.can_seduce,Dapat digoda
+action_task.category.king,Raja
+action_task.category.social,Sosial
+action_task.category.bishop,Uskup
+action_task.sub_category.social,Komunikasi
+action_task.sub_category.intrigue,Intrik
+actor.action_task.begging,Memohon pengampunan
+actor.action_task.nominate_enemy,Nyatakan sebagai musuh
+actor.action_task_hunt,Berburu Serigala Daging
+actor.action_task_sick_visit,Kunjungi orang sakit
+actor.action_task.marriage,Menikah
+actor.action_task.bribe,Menyuap
+actor.action_task.punish,Menghukum
+actor.action_task.reward,Memberi hadiah
+actor.action_task.rumors,Menyebarkan rumor
+actor.action_task.spent_time,Menghabiskan waktu
+actor.action_task.invite,Mengundang
+actor.action_task.teach,Mendidik
+actor.action_task.threat,Mengancam
+actor.action_task.trade,Berdagang
+actor.action_task.make_free,Membebaskan
+actor.action_task.seduction,Menggoda
+actor.action_task.donate,Hadiah untuk raja
+actor.action_task.kill,Membunuh
+actor.action_task.poison,Meracuni
+actor.action_task.play_dice,Bermain dadu
+actor.action_task.depart,Membuang
+actor.action_task.duel_call,Tantang duel
+actor.action_task.duel_provocation,Provokasi duel
+actor.action_task.free_lord_hire,Menyewa seorang bangsawan
+actor.action_task.send_guest,Mengirim tamu
+actor.action_task.king_tribute,Persembahan
+actor.action_task.confession,Mengaku dosa
+actor.action_task.kidnap,Menangkap
+actor.action_task.free_captive,Membebaskan
+actor.action_task.forced_sex,Memaksa berhubungan
+actor.action_task.appoint_an_heir,Nyatakan sebagai pewaris
+actor.action_task.go_home,Kirim pulang
+actor.action_task.sex_with_dummy,Usulan
+actor.action_task.new_heir,Angkat sebagai pewaris
+actor.action_task.canonization,Berkat
+actor.action_task.divorce,Bercerai
+actor.action_task.consolation,Menghibur
+actor.action_task.give_title_to_hired_free_lord,Memberi gelar
+actor.action_task.give_title_to_soldier,Memberi gelar
+actor.action_task.take_title,Cabut gelar bangsawan
+actor.action_task.join_captive,Bebaskan dan terima
+actor.action_task.new_king,Serahkan mahkota
+actor.appoint_in_town,Di {town_name}
+actor.appoint_in_this_town,Di kota ini
+actor.appoint.our_lords,Para bangsawan kita
+actor.appoint.other_lords,Bangsawan lain
+actor.action.training,Pelatihan
+actor.action.conversation,Negosiasi
+actor.action.army.on_local_map,Di peta lokal
+actor.action.army.on_global_map,Di peta global
+actor.action.army,Tentara
+actor.action.executor,Aktor
+actor.action.executor_replace,Ganti
+actor.action.teacher,Guru
+actor.action.chancellery_any,Kantor Kanselir mana saja
+actor.action.punishment,Hukuman
+actor.action.teach,Belajar
+actor.action.person,Siapa?
+actor.action.different_actions,Aksi
+actor.action.trade,Perdagangan
+actor.action_task.invite_guest,Undang ke provinsimu
+actor.status.on_global_map,Di peta global
+actor.status.on_global_map_lost,Hilang
+actor.status.in_army,Dalam pasukan di peta global
+actor.status.in_travel,Bepergian
+actor.status.in_object,Di {object_name}
+actor.adjective.addicted_to_drink,Cenderung suka minum
+actor.adjective.ambitious,Ambisius
+actor.adjective.angry,Pendendam
+actor.adjective.arrogant,Sombong
+actor.adjective.ascetic,Asketis
+actor.adjective.bloodthirsty,Haus darah
+actor.adjective.contemptuous,Meremehkan
+actor.adjective.contradictory,Kontradiktif
+actor.adjective.emotional,Emosional
+actor.adjective.envious,Iri
+actor.adjective.friendly,Bersahabat
+actor.adjective.frivolous,Ceria
+actor.adjective.greedy,Serakah
+actor.adjective.indifferent,Acuh tak acuh
+actor.adjective.intemperate,Impulsif
+actor.adjective.jealous,Cemburu
+actor.adjective.mean,Dengki
+actor.adjective.melancholy,Melankolis
+actor.adjective.sarcastic,Sarkastik
+actor.adjective.subtle,Berbudi halus
+actor.adjective.trusting,Mudah percaya
+actor.adjective.weakpowered,Lemah
 actor.appoint.skill.level,{level}
 actor.relation_hint_header,{name} ({age_string})
-actor.appoint.nominate_enemy.peasant,<red>Unprovoked attacks on a peasant will cause <hint=hint_terror_peasants>terror</hint></red>
-actor.appoint.nominate_enemy.lord,<red>Unprovoked attacks on a lord will cause <hint=hint_terror_lord>terror</hint></red>
-actor.appoint.nominate_enemy.guest,"<red>Attacking a guest, regardless of their actions, will be considered a violation of the sacred law of hospitality.</red>
+actor.appoint.nominate_enemy.peasant,<red>Serangan tanpa alasan terhadap petani akan menyebabkan <hint=hint_terror_peasants>teror</hint></red>
+actor.appoint.nominate_enemy.lord,<red>Serangan tanpa alasan terhadap bangsawan akan menyebabkan <hint=hint_terror_lord>teror</hint></red>
+actor.appoint.nominate_enemy.guest,"<red>Menyerang tamu, apa pun tindakan mereka, akan dianggap sebagai pelanggaran hukum sakral tentang keramahtamahan.</red>
 
-$ Relationship between {soul_uuid_performer_king} and {soul_uuid_target}: <red>{relations_modify_target}
+$ Hubungan antara {soul_uuid_performer_king} dan {soul_uuid_target}: <red>{relations_modify_target}
 
-</b>HINT</b>: To resolve conflicts, it's better to use a <hint=hint_duel>duel</hint>."
-actor.appoint.nominate_enemy.bishop,"<red>An attack on a member of the Loving Family, regardless of what they have done, will be considered a reason for your city to be punished by the <hint=hint_inquisitors>Inquisition</hint></red>"
-actor.age,{age} years old
-actor.age_short,{age} y.o
-actor.class.unarmed,Unarmed
-actor.class.l_archer,Light Archer
-actor.class.axeman,Axeman
-actor.class.guard,Guard
-actor.class.h_axeman,Heavy Axeman
-actor.class.faceless_axeman,Unholy Horde Fighter
-actor.class.h_hammerhead,Heavy Maceman
-actor.class.h_spearman,Heavy Spearman
-actor.class.h_swordman,Heavy Swordsman
-actor.class.hammerhead,Maceman
-actor.class.l_spearman,Light Spearman
-actor.class.outcast,Outcast
-actor.class.spearman,Spearman
-actor.class.swordman,Swordsman
-actor.class.light_archer,Lvl. 3-5 Archer without armor
-actor.class.light_hammerhead,Lvl. 3-5 Mace User without armor
-actor.class.light_spearman,Lvl. 3-5 Spearman without armor
-actor.class.light_axeman,Lvl. 3-5 Axeman with a shield and no armor
-actor.class.middle_archer,Lvl. 8-11 Archer in light armor
-actor.class.middle_hammerhead,Lvl. 8-11 Mace user in light armor with a shield
-actor.class.middle_spearman,Lvl. 8-11 Spearman in light armor with a shield
-actor.class.heavy_axeman,Lvl. 13-17 Axeman in heavy armor with a shield
-actor.class.heavy_swordman,Lvl. 13-17 Swordsman in heavy armor with a shield
-actor.class.lord,Lord Swordsman in heavy armor with a shield
-actor.dignity.king,Ruler
-actor.events,EVENTS
-actor.events_date,DATE
-actor.knowledge,KNOWLEDGE
-actor.hint.battle_skill,Combat Skill Level
-actor.hint.crimes.caption,Crimes
-actor.hint.injury.caption,Injuries
-actor.hint.injury.pain_level,Pain Level: {pain}
-actor.hint.injury.pain_threshold,<hint=hint_pain_level>Pain threshold:</hint> {pain_threshold}
-actor.hint.injury.risk_inflamation,* - Risk of Infection remains
-actor.hint.sin.caption,Sins
-actor.hint.sin.piety_impact,Influence on mood: {piety_impact}
-actor.impact_on_person,ACTION
-actor.inventory,INVENTORY
-actor.log.today,Today
-actor.log.days_before,Days ago: {day}
-actor.log.yesterday,Yesterday
-actor.loyalty,Loyalty {loyalty}%
-menu.battle_result.win,Victory!
-menu.battle_result.lose,Defeat
-menu.battle_result.deployed,Deployed
-menu.battle_result.died,Dead
-menu.battle_result.escaped,Escaped
-menu.battle_result.captured,Captured
-actor.menu.appoint.hunt,Hunting
+</b>PETUNJUK</b>: Untuk menyelesaikan konflik, sebaiknya gunakan <hint=hint_duel>duel</hint>."
+actor.appoint.nominate_enemy.bishop,"<red>Serangan terhadap anggota Keluarga Penuh Kasih, apa pun yang telah mereka lakukan, akan dianggap sebagai alasan bagi kota Anda untuk dihukum oleh <hint=hint_inquisitors>Inkuisisi</hint></red>"
+actor.age,{age} tahun
+actor.age_short,{age} th
+actor.class.unarmed,Tanpa Senjata
+actor.class.l_archer,Pemanah Ringan
+actor.class.axeman,Prajurit Kapak
+actor.class.guard,Penjaga
+actor.class.h_axeman,Prajurit Kapak Berat
+actor.class.faceless_axeman,Petarung Gerombolan Terkutuk
+actor.class.h_hammerhead,Prajurit Pemukul Berat
+actor.class.h_spearman,Prajurit Tombak Berat
+actor.class.h_swordman,Prajurit Pedang Berat
+actor.class.hammerhead,Prajurit Pemukul
+actor.class.l_spearman,Prajurit Tombak Ringan
+actor.class.outcast,Orang Buangan
+actor.class.spearman,Prajurit Tombak
+actor.class.swordman,Prajurit Pedang
+actor.class.light_archer,Lvl. 3-5 Pemanah tanpa armor
+actor.class.light_hammerhead,Lvl. 3-5 Pengguna Pemukul tanpa armor
+actor.class.light_spearman,Lvl. 3-5 Prajurit Tombak tanpa armor
+actor.class.light_axeman,Lvl. 3-5 Prajurit Kapak dengan perisai tanpa armor
+actor.class.middle_archer,Lvl. 8-11 Pemanah dengan armor ringan
+actor.class.middle_hammerhead,Lvl. 8-11 Pengguna Pemukul dengan armor ringan dan perisai
+actor.class.middle_spearman,Lvl. 8-11 Prajurit Tombak dengan armor ringan dan perisai
+actor.class.heavy_axeman,Lvl. 13-17 Prajurit Kapak dengan armor berat dan perisai
+actor.class.heavy_swordman,Lvl. 13-17 Prajurit Pedang dengan armor berat dan perisai
+actor.class.lord,Prajurit Pedang Bangsawan dengan armor berat dan perisai
+actor.dignity.king,Penguasa
+actor.events,Peristiwa
+actor.events_date,Tanggal
+actor.knowledge,Pengetahuan
+actor.hint.battle_skill,Tingkat Keterampilan Tempur
+actor.hint.crimes.caption,Kejahatan
+actor.hint.injury.caption,Cedera
+actor.hint.injury.pain_level,Tingkat Rasa Sakit: {pain}
+actor.hint.injury.pain_threshold,<hint=hint_pain_level>Ambang rasa sakit:</hint> {pain_threshold}
+actor.hint.injury.risk_inflamation,* - Risiko Infeksi tetap ada
+actor.hint.sin.caption,Dosa
+actor.hint.sin.piety_impact,Pengaruh pada suasana hati: {piety_impact}
+actor.impact_on_person,Aksi
+actor.inventory,Inventaris
+actor.log.today,Hari ini
+actor.log.days_before,Hari yang lalu: {day}
+actor.log.yesterday,Kemarin
+actor.loyalty,Loyalitas {loyalty}%
+menu.battle_result.win,Kemenangan!
+menu.battle_result.lose,Kekalahan
+menu.battle_result.deployed,Dikerahkan
+menu.battle_result.died,Mati
+menu.battle_result.escaped,Melarikan diri
+menu.battle_result.captured,Tertangkap
+actor.menu.appoint.hunt,Berburu
 actor.mind.count_scheme,{mind_caption} ({mind_count})
-actor.minds,THOUGHTS
-actor.moral,MOOD
-actor.motive.energy,Sleep
-actor.motive.food,Food
-actor.motive.rest,Rest
-actor.motive.religion,Piety
-actor.motive.sex,Sex
-actor.motive.care,Care
-actor.noun.adventurer,Adventurer
-actor.noun.depraved,Debauchee
-actor.noun.fatalist,Fatalist
-actor.noun.flatterer,Flatterer
-actor.noun.genius,Genius
+actor.minds,Pikiran
+actor.moral,Suasana Hati
+actor.motive.energy,Tidur
+actor.motive.food,Makanan
+actor.motive.rest,Istirahat
+actor.motive.religion,Kesalehan
+actor.motive.sex,Seks
+actor.motive.care,Perawatan
+actor.noun.adventurer,Petualang
+actor.noun.depraved,Hedonis
+actor.noun.fatalist,Fatalis
+actor.noun.flatterer,Penjilat
+actor.noun.genius,Jenius
 actor.noun.introvert,Introvert
-actor.noun.moron,Simpleton
-actor.noun.mystic,Mystic
-actor.noun.narcissist,Narcissist
-actor.noun.rude,Ruffian
-actor.noun.shameless,Deviant
-actor.noun.skeptic,Skeptic
-actor.noun.workaholic,Workaholic
-actor.opinion.choose_factions.province_hint,On the local map
-actor.opinion.interest,Interest:
-actor.opinion.interest.high,High
-actor.opinion.interest.low,Low
-actor.opinion.interest.middle,Medium
-actor.opinion.no_minds,No Thoughts
-actor.opinion.opinion_of,"Opinion of {name}: "
-actor.opinion.opinion_of_me,"{name}'s opinion of me: "
-actor.opinion.opinion_of_third_person,"{name_2}'s opinion of {name}: "
-actor.opinion.special.deadly_enemy,Mortal Enemy
-actor.opinion.special.enemy,Enemy
-actor.opinion.special.friend,Friend
-actor.opinion.special.like,Good relationship
-actor.opinion.special.love,Romantic Interest
-actor.part_of_nature,PERSONALITY TRAITS
-actor.punish.execute,Execute
-actor.punish.expel,Exile
-actor.punish.imprison,Keep as hostage
-actor.desire,DESIRE
-actor.skill.command,Command
-actor.skill.education,Teaching
-actor.skill.fight,Combat
-actor.skill.knowledge,Intelligence
-actor.skill.management,Management
-actor.skill.manners,Manners
+actor.noun.moron,Orang Sederhana
+actor.noun.mystic,Mistik
+actor.noun.narcissist,Narsisis
+actor.noun.rude,Penjahat
+actor.noun.shameless,Penyimpang
+actor.noun.skeptic,Skeptis
+actor.noun.workaholic,Pekerja Keras
+actor.opinion.choose_factions.province_hint,Di peta lokal
+actor.opinion.interest,Minat:
+actor.opinion.interest.high,Tinggi
+actor.opinion.interest.low,Rendah
+actor.opinion.interest.middle,Sedang
+actor.opinion.no_minds,Tidak Ada Pikiran
+actor.opinion.opinion_of,"Opini tentang {name}: "
+actor.opinion.opinion_of_me,"Opini {name} tentang saya: "
+actor.opinion.opinion_of_third_person,"Opini {name_2} tentang {name}: "
+actor.opinion.special.deadly_enemy,Musuh Bebuyutan
+actor.opinion.special.enemy,Musuh
+actor.opinion.special.friend,Teman
+actor.opinion.special.like,Hubungan Baik
+actor.opinion.special.love,Ketertarikan Romantis
+actor.part_of_nature,Sifat Kepribadian
+actor.punish.execute,Eksekusi
+actor.punish.expel,Pembuangan
+actor.punish.imprison,Tahan sebagai sandera
+actor.desire,Keinginan
+actor.skill.command,Perintah
+actor.skill.education,Pengajaran
+actor.skill.fight,Pertempuran
+actor.skill.knowledge,Kecerdasan
+actor.skill.management,Manajemen
+actor.skill.manners,Sopan Santun
 actor.skill.negotiation,Trade
 actor.skill.oratory,Persuasion
 actor.skill.points_remain,{number} experience points required to reach the next level

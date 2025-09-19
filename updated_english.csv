@@ -403,106 +403,106 @@ actor.skill.fight,Pertempuran
 actor.skill.knowledge,Kecerdasan
 actor.skill.management,Manajemen
 actor.skill.manners,Sopan Santun
-actor.skill.negotiation,Trade
-actor.skill.oratory,Persuasion
-actor.skill.points_remain,{number} experience points required to reach the next level
-actor.skills,SKILLS
-actor.skills_training,TRAINING
+actor.skill.negotiation,Perdagangan
+actor.skill.oratory,Persuasi
+actor.skill.points_remain,{number} poin pengalaman diperlukan untuk mencapai level berikutnya
+actor.skills,KETERAMPILAN
+actor.skills_training,PELATIHAN
 actor.skills.level,{level}
-actor.skill_category.rhetoric,Rhetoric
-actor.skill_category.economic,Economy
-actor.skill_category.philosophy,Philosophy
-actor.skill_category.warcraft,Warfare
+actor.skill_category.rhetoric,Retorika
+actor.skill_category.economic,Ekonomi
+actor.skill_category.philosophy,Filsafat
+actor.skill_category.warcraft,Perang
 actor.stata.bandit,Bandit
-actor.stata.thug,Cutthroat
-actor.states,STATES
-actor.strata.animal,Animal
-actor.strata.slave,Prisoner
-actor.traits,STATE
-building.hostel,Dormitory
-building.library,Library
-building.armorsmith,Armor Forge
-building.barracks,Barracks
-building.brewery,Brewery
+actor.stata.thug,Penjahat
+actor.states,NEGARA
+actor.strata.animal,Hewan
+actor.strata.slave,Tahanan
+actor.traits,NEGARA
+building.hostel,Asrama
+building.library,Perpustakaan
+building.armorsmith,Pabrik Baju Besi
+building.barracks,Barak
+building.brewery,Pabrik Bir
 building.caption_with_level,{building_name} Level {level}
-building.castle,Hall
-building.chancellery,Chancellery
-building.church,Temple
+building.castle,Aula
+building.chancellery,Kanselir
+building.church,Kuil
 building.altar,Altar
-building.coal_burner,Coal Furnace
-building.coal_furnace,Coal Furnace
-building.coal_mine,Coal Mine
-building.description.burned,This building has been destroyed by fire. It can only be demolished.
-building.farm,Farm
-building.forge,Weapon Forge
-building.hall_storage,Hall storage
-building.herbalist,Herbalist
-building.house,Peasant's house
-building.menu.appoint.church,SERMON
-building.menu.appoint.training,TRAINING
-building.menu.appoint.gallows,PUNISHMENT
-building.menu.appoint.chancellery,CHANCELLOR
-building.menu.appoint.culture,CULTURE
-building.menu.appoint.appoint_culture,appoint
-building.menu.castle.builders,BUILDERS
-building.menu.castle.servants,SERVANTS
-building.menu.gallows.terror,Terror
-building.menu.gallows.executers,EXECUTIONERS
-building.menu.in_stock,IN WAREHOUSE
-building.menu.required_resources,REQUIRED
+building.coal_burner,Tungku Batu Bara
+building.coal_furnace,Tungku Batu Bara
+building.coal_mine,Tambang Batu Bara
+building.description.burned,Bangunan ini telah hancur karena kebakaran. Hanya bisa dibongkar.
+building.farm,Ladang
+building.forge,Pabrik Senjata
+building.hall_storage,Penyimpanan Aula
+building.herbalist,Tabib
+building.house,Rumah Petani
+building.menu.appoint.church,KHOTBAH
+building.menu.appoint.training,PELATIHAN
+building.menu.appoint.gallows,HUKUMAN
+building.menu.appoint.chancellery,KANSELIR
+building.menu.appoint.culture,BUDAYA
+building.menu.appoint.appoint_culture,mengangkat
+building.menu.castle.builders,PEMBANGUN
+building.menu.castle.servants,PELAYAN
+building.menu.gallows.terror,Teror
+building.menu.gallows.executers,ALGOJO
+building.menu.in_stock,DI GUDANG
+building.menu.required_resources,DIBUTUHKAN
 building.menu.required_resources.count,{available}/{required}
-building.menu.residence.residents,RESIDENTS
-building.menu.service.attendance,Attendance
-building.menu.service.inspection,POLITICS
-building.menu.service.revenue,Revenue
-building.menu.combat_training.number_of_places,SIMULTANEOUS TRAINING
-building.menu.sold,SOLD
-building.menu.trader,TRADER
-building.menu.special_button.auto_repair,Auto Repair
-building.menu.special_button.abort,Abort
-building.menu.special_button.destroy,Destroy
-building.menu.special_button.relocate,Move
-building.menu.special_button.repair,Repair
-building.menu.special_button.upgrade,Upgrade
-building.menu.special_button.upgrade_workplace,+1 working place
-building.menu.status.breakdown,Breakdown
-building.menu.status.need_charge,Farm exhausted.
-building.menu.status.burned_full,Destroyed by fire.
-building.menu.status.burned_partially,Partially burned.
-building.menu.status.burning,Fire in the building!
-building.menu.status.church,Religious fanatics in the city: {fanatics_percent}%
-building.menu.status.construction,Construction in progress.
-building.menu.status.construction_template,{status} ({progress}%) Complete
-building.menu.status.demolition,Dismantling in progress.
-building.menu.status.extinguishing,Firefighting in progress.
-building.menu.status.harvest.after_tomorrow,The harvest will be gathered the day after tomorrow.
-building.menu.status.harvest.n_days,They will harvest the crops in {days} days.
-building.menu.status.harvest.today,"Today, they will harvest the crops."
-building.menu.status.harvest.tomorrow,"Tomorrow, they will harvest the crops."
-building.menu.status.no_tasks,Create an order in the Production menu.
-building.menu.status.fertilize,Fertility: {number}%
-building.menu.status.produce,In Production: {resource} ({progress}%)
-building.menu.status.raw_not_enough,Insufficient resources for production.
-building.menu.status.relocate,Relocate in progress.
-building.menu.status.repair,Repair in progress.
-building.menu.status.upgrade,Upgrade in progress.
-building.menu.status.work_time,Working hours from {work_hour_begin} to {work_hour_end}
-building.menu.status.works_fine,Working Normally
-building.menu.status.pig_farm_need_to_charge,Charging with Rutabaga is required
-building.menu.status.need_inspector,Requires an appointed manager
-building.menu.status.need_inspection,Instructions not received
-building.menu.status.need_paper_charge,Charging with Paper is required
-building.menu.tavern.allow_nectar,Allow Nectar
-building.menu.temple.donation,Donations
-building.menu.temple.priest,PRIEST
-building.menu.workplace.appoint_inspector,Assign
-building.menu.workplace.inspection,MANAGEMENT
-building.menu.workplace.priority,Priority
-building.menu.workplace.produced_today,PRODUCED TODAY
-building.menu.workplace.bonus_slave,Bonus from prisoners: {bonus_slave}
-building.menu.workplace.bonus_addicted,Bonus from addicted: {bonus_addicted}
-building.menu.workplace.bonus_culture,Bonus from {culture} expertise: {bonus_culture}
-building.menu.workplace.statistics,STATISTICS
+building.menu.residence.residents,PENDUDUK
+building.menu.service.attendance,Kehadiran
+building.menu.service.inspection,POLITIK
+building.menu.service.revenue,Pendapatan
+building.menu.combat_training.number_of_places,PELATIHAN SERENTAK
+building.menu.sold,TERJUAL
+building.menu.trader,PEDAGANG
+building.menu.special_button.auto_repair,Perbaikan Otomatis
+building.menu.special_button.abort,Batalkan
+building.menu.special_button.destroy,Hancurkan
+building.menu.special_button.relocate,Pindahkan
+building.menu.special_button.repair,Perbaiki
+building.menu.special_button.upgrade,Tingkatkan
+building.menu.special_button.upgrade_workplace,+1 tempat kerja
+building.menu.status.breakdown,Rusak
+building.menu.status.need_charge,Ladang habis.
+building.menu.status.burned_full,Hancur karena kebakaran.
+building.menu.status.burned_partially,Sebagian terbakar.
+building.menu.status.burning,Kebakaran di bangunan!
+building.menu.status.church,Fanatik agama di kota: {fanatics_percent}%
+building.menu.status.construction,Konstruksi sedang berlangsung.
+building.menu.status.construction_template,{status} ({progress}%) Selesai
+building.menu.status.demolition,Pembongkaran sedang berlangsung.
+building.menu.status.extinguishing,Pemadaman kebakaran sedang berlangsung.
+building.menu.status.harvest.after_tomorrow,Panen akan dilakukan lusa.
+building.menu.status.harvest.n_days,Mereka akan memanen tanaman dalam {days} hari.
+building.menu.status.harvest.today,Hari ini mereka akan memanen tanaman.
+building.menu.status.harvest.tomorrow,Besok mereka akan memanen tanaman.
+building.menu.status.no_tasks,Buat pesanan di menu Produksi.
+building.menu.status.fertilize,Kesuburan: {number}%
+building.menu.status.produce,Dalam Produksi: {resource} ({progress}%)
+building.menu.status.raw_not_enough,Sumber daya tidak mencukupi untuk produksi.
+building.menu.status.relocate,Pemindahan sedang berlangsung.
+building.menu.status.repair,Perbaikan sedang berlangsung.
+building.menu.status.upgrade,Peningkatan sedang berlangsung.
+building.menu.status.work_time,Jam kerja dari {work_hour_begin} hingga {work_hour_end}
+building.menu.status.works_fine,Bekerja Normal
+building.menu.status.pig_farm_need_to_charge,Pengisian dengan Rutabaga diperlukan
+building.menu.status.need_inspector,Membutuhkan manajer yang ditunjuk
+building.menu.status.need_inspection,Instruksi tidak diterima
+building.menu.status.need_paper_charge,Pengisian dengan Kertas diperlukan
+building.menu.tavern.allow_nectar,Izinkan Nectar
+building.menu.temple.donation,Donasi
+building.menu.temple.priest,PASTOR
+building.menu.workplace.appoint_inspector,Tugaskan
+building.menu.workplace.inspection,MANAJEMEN
+building.menu.workplace.priority,Prioritas
+building.menu.workplace.produced_today,DIPRODUKSI HARI INI
+building.menu.workplace.bonus_slave,Bonus dari tahanan: {bonus_slave}
+building.menu.workplace.bonus_addicted,Bonus dari pecandu: {bonus_addicted}
+building.menu.workplace.bonus_culture,Bonus dari keahlian {culture}: {bonus_culture}
+building.menu.workplace.statistics,STATISTIK
 building.menu.workplace.workers,WORKERS
 building.menu.workplace.workers.free,Peasants
 building.menu.workplace.workers.slaves,Prisoners

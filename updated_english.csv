@@ -503,979 +503,979 @@ building.menu.workplace.bonus_slave,Bonus dari tahanan: {bonus_slave}
 building.menu.workplace.bonus_addicted,Bonus dari pecandu: {bonus_addicted}
 building.menu.workplace.bonus_culture,Bonus dari keahlian {culture}: {bonus_culture}
 building.menu.workplace.statistics,STATISTIK
-building.menu.workplace.workers,WORKERS
-building.menu.workplace.workers.free,Peasants
-building.menu.workplace.workers.slaves,Prisoners
-building.menu.workplace.addicted,Addicted
-building.menu.patrollers,Patrol Banner
-building.menu.radius,Patrol Radius
-building.menu.combat_max,Max combat level
-building.menu.max_pain,MAXIMUM PAIN LEVEL
-menu.patrol_sign.description,Patrol place for warriors
-building.mine,Mine
-building.noble_house,Lord's house
-building.paper_factory,Paper Workshop
-building.slaves_barrack,Prison Ward
-building.temple.preach.doubt,Sermon of Doubt
-building.temple.preach.faith,Sermon of Faith
-building.farm.pig_farm_charge_abort,Cancel Сharging
-building.farm.pig_farm_charge,Charge with Rutabaga
-building.gallows.crimes,Crimes
-building.gallows.punishments,Punishments
-building.gallows.change,Change
-building.training_field,Training Ground
-building.woodcutter,Lumbermill
-building.workshop,Workshop
-building.gallows,Scaffold
-building.market,Market
-building.storage,Warehouse
-building.tavern,Tavern
-building.drug_deg,Drug Den
-building.rye_farm,Rye Field
-building.hop_farm,Hop Field
-building.swede_farm,Rutabaga Field
-building.pig_farm,Pig Farm
-building.mill,Mill
-building.alchimestry,Alchemy Lab
-building.melting_furnace,Smelting furnace
-building.patrol_sign,Night Patrol
-display_event.actor_complete_action_task_on_gm,{name} completed the task - {task_name}.
-display_event.actor_abort_action_task_on_gm,{name} failed to complete the task.
-display_event.actor_arrived_in_town_as_guest_on_gm,{name} arrived in {town_name}.
-display_event.actors_married,{name_1} and {name_2} are engaged.
-display_event.new_genius_king,Rumor: Conquerors
-display_event.defence_alliance.squad_arrived,The reinforcements from {faction_name} have arrived!
-display_event.defence_alliance.squad_created,Reinforcements have been assembled and placed under your command!
-display_event.defence_alliance.leave.time_expired,"The reinforcements' stay is over, they will go home."
-display_event.defence_alliance.leave.battle_finished,Reinforcements have assisted you and are going home.
-display_event.defence_alliance.leave.defence_alliance_broken,"Your alliance with {faction_name} has been dissolved, so the reinforcements are returning home prematurely."
-display_event.defence_alliance.leave.no_one_is_attacking_player,You're no longer under threat - the reinforcements are coming home.
-display_event.defence_alliance.leave.other_reason,Reinforcements are coming home early.
-display_event.got_title,{name} has been granted the title of lord.
-display_event.kid_need_title,{name} will soon require an available lordship title.
-display_event.storage_robbery_gold,Thieves have stolen {number} gold!
-display_event.squad_go_to_take_equipment,Warriors are retrieving their weapons from the storage. Please wait a moment...
-display_event.no_servants_in_hall,There are no servants in the hall!
-display_event.squad_take_all_equipment,The warriors are armed and ready!
-display_event.horde_apeears,Appearance of the Unholy Horde
-display_event.horde_gossip,Rumors: A new heretical cult in distant lands
-display_event.new_fraction,Birth of a new Noble House: {faction_name}
-display_event.fraction_death,Fall of a Noble House: {faction_name}
-display_event.horde_murder_faction,The Unholy Horde has destroyed yet another Noble House.
-display_event.horde_crisis_finish,The Unholy Horde has left the lands of Norland.
-display_event.forecast,Price forecast obtained {resource}
-display_event.village_tribute,{village_name}: Paying tribute
-display_event.bandits_at_the_gate,Hostile squad nearby!
-display_event.army_at_the_gate,Hostile squad nearby!
-display_event.enemy_attack_city,Enemy is launching an assault!
-display_event.free_lord_expired,The lord's contract has expired.
-display_event.free_lord_low_loyalty,Free lord has lost loyalty.
-display_event.terror_lords,Terror among the lords!
-display_event.terror_peasants,Terror among the peasants!
-display_event.bandits_prepare_to_attack,Bandits are preparing to attack your town.
-display_event.caravan_arrive,The Holy Caravan has arrived in the city.
-display_event.free_lord_arrive,A free lord is waiting to be hired.
-display_event.character_bleeding,A character is bleeding.
-display_event.fire,A fire has started.
-display_event.slaves_hungry,Check that you are providing enough food to the prisoners in the Finance menu
-display_event.dummy_little_beer,Check in the Finance menu that you are selling enough units of alcohol per day at a reasonable price.
-display_event.dummy_little_food,Check in the Finance menu that you are selling enough units of food per day at a reasonable price.
-display_event.dummy_many_homeless,Build more housing.
-display_event.high_fanaticism_level,Sermon of Doubt in the Temple can reduce fanaticism.
-display_event.low_dummy_happiness,Pay attention to the most frequent unhappy thoughts.
-display_event.not_enough_barracks,Build more barracks.
-display_event.not_enough_equipment,"Buy equipment from the caravan, or create it yourself."
-display_event.not_enough_taverns,Build more taverns.
-display_event.not_enough_temples,Build more temples.
-display_event.too_much_unemploe,"To reduce unemployment, lower the average mood and therefore migration by selling lower-quality food, less alcohol, and conducting Sermons of Doubt in the Temples."
-display_event.high_prices,Peasants prefer to buy from the Holy Caravan.
-display_event.hired_soldiers_arrive,Hired warriors have arrived.
-display_event.migrants_arrive,{number} migrants have arrived.
-display_event.knowledge_interaction,{name} is studying {knowledge}: {progress}%
-display_event.book_writing,{name} is writing a book {knowledge}: {progress}%
-display_event.not_enough_knowledge_paper,Not enough paper to write a book: {name}
-display_event.knowledge_too_hard_again,{name} can no longer learn: {knowledge}
-display_event.not_enough_resources,Insufficient resources.
-display_event.building_breakdown,The building is broken.
-display_event.farm_depleted,The farm soil has depleted.
-display_event.farm_soon_depleted,The farm soil will soon deplete.
-display_event.not_enough_workers,Insufficient workers.
-display_event.wheat_destroyed,Crops perished due to drought.
-display_event.building_needs_direct_contol,The building requires direct control to operate.
-display_event.building_without_inspector,The building needs a manager.
-display_event.order_complete,{value} {resource}: Order complete!
-display_event.building_without_instruction,Workers have not received instructions today.
-display_event.resources_stolen,Resources stolen! {value} {resource}
-display_event.thugs_appear,Cutthroats have appeared in the city.
-display_event.wolf_attack,Fleshwolf attack!
-display_event.no_meds,Medical Salve is finished!
-display_event.quest_result,Result: {quest_name}
-display_event.battle_result,Battle Results
-display_event.battle_start,New battle!
+building.menu.workplace.workers,PEKERJA
+building.menu.workplace.workers.free,Petani
+building.menu.workplace.workers.slaves,Tahanan
+building.menu.workplace.addicted,Pecandu
+building.menu.patrollers,Panji Patroli
+building.menu.radius,Radius Patroli
+building.menu.combat_max,Tingkat Tempur Maksimum
+building.menu.max_pain,TINGKAT RASA SAKIT MAKSIMUM
+menu.patrol_sign.description,Tempat Patroli untuk Prajurit
+building.mine,Tambang
+building.noble_house,Rumah Tuan
+building.paper_factory,Bengkel Kertas
+building.slaves_barrack,Bangsal Penjara
+building.temple.preach.doubt,Khotbah Keraguan
+building.temple.preach.faith,Khotbah Iman
+building.farm.pig_farm_charge_abort,Batalkan Pengisian
+building.farm.pig_farm_charge,Isi dengan Lobak
+building.gallows.crimes,Kejahatan
+building.gallows.punishments,Hukuman
+building.gallows.change,Ubah
+building.training_field,Lapangan Latihan
+building.woodcutter,Pabrik Kayu
+building.workshop,Bengkel
+building.gallows,Perancah
+building.market,Pasar
+building.storage,Gudang
+building.tavern,Tawerna
+building.drug_deg,Sarang Narkoba
+building.rye_farm,Ladang Gandum
+building.hop_farm,Ladang Hops
+building.swede_farm,Ladang Lobak
+building.pig_farm,Peternakan Babi
+building.mill,Kincir Angin
+building.alchimestry,Laboratorium Alkimia
+building.melting_furnace,Tungku Peleburan
+building.patrol_sign,Patroli Malam
+display_event.actor_complete_action_task_on_gm,{name} telah menyelesaikan tugas - {task_name}.
+display_event.actor_abort_action_task_on_gm,{name} gagal menyelesaikan tugas.
+display_event.actor_arrived_in_town_as_guest_on_gm,{name} tiba di {town_name}.
+display_event.actors_married,{name_1} dan {name_2} bertunangan.
+display_event.new_genius_king,Rumor: Penakluk
+display_event.defence_alliance.squad_arrived,Bantuan dari {faction_name} telah tiba!
+display_event.defence_alliance.squad_created,Bantuan telah dikumpulkan dan ditempatkan di bawah komando Anda!
+display_event.defence_alliance.leave.time_expired,"Masa tinggal bantuan telah berakhir, mereka akan pulang."
+display_event.defence_alliance.leave.battle_finished,Bantuan telah membantu Anda dan akan pulang.
+display_event.defence_alliance.leave.defence_alliance_broken,"Aliansi Anda dengan {faction_name} telah dibubarkan, sehingga bantuan kembali lebih awal."
+display_event.defence_alliance.leave.no_one_is_attacking_player,Anda tidak lagi dalam ancaman - bantuan akan pulang.
+display_event.defence_alliance.leave.other_reason,Bantuan pulang lebih awal.
+display_event.got_title,{name} telah diberikan gelar tuan.
+display_event.kid_need_title,{name} akan segera membutuhkan gelar tuan yang tersedia.
+display_event.storage_robbery_gold,Pencuri telah mencuri {number} emas!
+display_event.squad_go_to_take_equipment,Prajurit sedang mengambil senjata mereka dari gudang. Harap tunggu sebentar...
+display_event.no_servants_in_hall,Tidak ada pelayan di aula!
+display_event.squad_take_all_equipment,Prajurit telah bersenjata dan siap!
+display_event.horde_apeears,Kemunculan Gerombolan Terkutuk
+display_event.horde_gossip,Rumor: Kultus sesat baru di negeri jauh
+display_event.new_fraction,Kelahiran Rumah Bangsawan baru: {faction_name}
+display_event.fraction_death,Kejatuhan Rumah Bangsawan: {faction_name}
+display_event.horde_murder_faction,Gerombolan Terkutuk telah menghancurkan Rumah Bangsawan lainnya.
+display_event.horde_crisis_finish,Gerombolan Terkutuk telah meninggalkan tanah Norland.
+display_event.forecast,Prakiraan harga diperoleh {resource}
+display_event.village_tribute,{village_name}: Membayar upeti
+display_event.bandits_at_the_gate,Pasukan musuh di dekatnya!
+display_event.army_at_the_gate,Pasukan musuh di dekatnya!
+display_event.enemy_attack_city,Musuh melancarkan serangan!
+display_event.free_lord_expired,Kontrak tuan telah berakhir.
+display_event.free_lord_low_loyalty,Tuan bebas kehilangan loyalitas.
+display_event.terror_lords,Teror di antara para tuan!
+display_event.terror_peasants,Teror di antara para petani!
+display_event.bandits_prepare_to_attack,Perampok bersiap menyerang kota Anda.
+display_event.caravan_arrive,Kafilah Suci telah tiba di kota.
+display_event.free_lord_arrive,Tuan bebas menunggu untuk dipekerjakan.
+display_event.character_bleeding,Karakter sedang berdarah.
+display_event.fire,Kebakaran telah terjadi.
+display_event.slaves_hungry,Periksa di menu Keuangan bahwa Anda menyediakan cukup makanan untuk tahanan.
+display_event.dummy_little_beer,Periksa di menu Keuangan bahwa Anda menjual cukup unit alkohol per hari dengan harga yang wajar.
+display_event.dummy_little_food,Periksa di menu Keuangan bahwa Anda menjual cukup unit makanan per hari dengan harga yang wajar.
+display_event.dummy_many_homeless,Bangun lebih banyak perumahan.
+display_event.high_fanaticism_level,Khotbah Keraguan di Kuil dapat mengurangi fanatisme.
+display_event.low_dummy_happiness,Perhatikan pikiran tidak bahagia yang paling sering muncul.
+display_event.not_enough_barracks,Bangun lebih banyak barak.
+display_event.not_enough_equipment,"Beli peralatan dari kafilah, atau buat sendiri."
+display_event.not_enough_taverns,Bangun lebih banyak tawerna.
+display_event.not_enough_temples,Bangun lebih banyak kuil.
+display_event.too_much_unemploe,"Untuk mengurangi pengangguran, kurangi migrasi dengan menurunkan suasana hati penduduk melalui penjualan makanan berkualitas rendah, mengurangi pasokan alkohol, dan mengadakan Khotbah Keraguan di Kuil."
+display_event.high_prices,Petani lebih suka membeli dari Kafilah Suci.
+display_event.hired_soldiers_arrive,Prajurit bayaran telah tiba.
+display_event.migrants_arrive,{number} migran telah tiba.
+display_event.knowledge_interaction,{name} sedang mempelajari {knowledge}: {progress}%
+display_event.book_writing,{name} sedang menulis buku {knowledge}: {progress}%
+display_event.not_enough_knowledge_paper,Tidak cukup kertas untuk menulis buku: {name}
+display_event.knowledge_too_hard_again,{name} tidak bisa lagi mempelajari: {knowledge}
+display_event.not_enough_resources,Sumber daya tidak cukup.
+display_event.building_breakdown,Bangunan rusak.
+display_event.farm_depleted,Tanah pertanian telah terkuras.
+display_event.farm_soon_depleted,Tanah pertanian akan segera terkuras.
+display_event.not_enough_workers,Pekerja tidak cukup.
+display_event.wheat_destroyed,Tanaman mati karena kekeringan.
+display_event.building_needs_direct_contol,Bangunan memerlukan kontrol langsung untuk beroperasi.
+display_event.building_without_inspector,Bangunan membutuhkan manajer.
+display_event.order_complete,{value} {resource}: Pesanan selesai!
+display_event.building_without_instruction,Pekerja belum menerima instruksi hari ini.
+display_event.resources_stolen,Sumber daya dicuri! {value} {resource}
+display_event.thugs_appear,pembunuh berantai muncul di kota.
+display_event.wolf_attack,Serangan Serigala Daging!
+display_event.no_meds,Salep Medis telah selesai!
+display_event.quest_result,Hasil: {quest_name}
+display_event.battle_result,Hasil Pertempuran
+display_event.battle_start,Pertempuran baru!
 display_event.new_quest,{name}
-display_event.new_book,A new copy of a book is created: {knowledge}
-display_event.new_knowledge,Knowledge learned: {knowledge}
-display_event.slave_escape,A prisoner is attempting to escape.
-display_event.unhappy_lord,Your lord is unhappy.
-display_event.actor_dont_work,"Due to bad mood, {name} refuses to complete your tasks."
-display_event.reg_riot_soon,Fanatics demand blood: {target_name}!
-display_event.reg_riot_cancel,The fanatics are satisfied with the execution of {target_name}. There will be no rebellion.
-display_event.holy_family_become_enemy,You have fallen out of favour with the Matriarch!
-display_event.reg_riot_against_king,The fanatics believe that {target_name} must die.
-display_event.reg_riot_in_hour,The rebellion will start in a few hours!
-display_event.low_loyaled,The lord is leaving the province.
-display_event.bulglary_storage,Vagabonds robbed the Hall's warehouse.
-display_event.hall_robbed,Vagabonds infiltrated the Hall and stole Gold.
-display_event.library_robbed,Vagabonds infiltrated the Library and stole Books.
-display_event.lord_kidnapped,Vagabonds have kidnapped your lord!
-display_event.lord_killed,Bribed cutthroats have killed your lord!
-display_event.army_returned_from_global_map,The squad has returned.
-display_event.hirde_bandits_returned_from_global_map,The hired cutthroats have returned with the loot.
-display_event.kid_now_can_read,{name} grew up and became a teenager.
-display_event.bishop_arrived,The bishop has arrived in your settlement.
-display_event.bishop_leave_province,The bishop is leaving your settlement.
-display_event.faction_become_enemy,The faction {faction_name} has become our enemy.
-display_event.faction_soon_become_enemy,The faction {faction_name} will soon become our enemy.
-display_event.economy_statistics,Economic report
-display_event.dayly_statistic,Daily statistics
-display_event.daily_stat_main_pronlems,Frequent negative thoughts
-display_event.daily_stat_no_problems,No problems
-display_event.world_summary,World Summary
-display_event.world_summary_trade,Trade
-display_event.world_summary_marriage,Marriage
-display_event.world_summary_other,Other
-display_event.world_summary_politic,Policy
-display_event.religious_rebellion_start,A religious revolt has begun!
-display_event.slaves_rebellion,A prisoner revolt has begun!
-display_event.soldier_rebellion,The warriors rebellion has begun!
-display_event.loyalist_rage,The loyalists are starting a massacre!
-display_event.loyalist_rage_over,The loyalists have ended the massacre
-display_event.soldier_rebellion_finished,The warriors rebellion is over
-display_event.soldier_rebellion_crushed,The warriors rebellion has been successfully suppressed!
-display_event.religion_rebellion_crushed,The religious uprising has been successfully suppressed!
-display_event.religion_rebellion_finished,The religious uprising is over.
-display_event.slaves_rebellion_finished,The prisoner rebellion is over.
-display_event.slaves_rebellion_crushed,The prisoner rebellion has been successfully suppressed!
-display_event.culture_rage_today,{name}: will probably go on a riot against {name_2}
-display_event.culture_rage,{name}: They start a riot.
-display_event.culture_rage_over,Riot is over.
-display_event.no_new_events,No events.
-display_event.player_became_vassal,You have become a vassal of {sir_faction}.
-display_event.player_stopped_being_vassal,You are no longer a vassal of {ex_sir_faction}.
-display_event.enemy_go_to_attack_town_soon,It seems that {faction} is about to attack your town!
-display_event.enemy_go_to_attack_village,{faction} has sent an army to loot your village!
-display_event.enemy_go_to_attack_town,{faction} has sent an army to sack your city!
-display_event.bandits_go_to_attack_village,Forest bandits have marched on your village!
-display_event.bandits_go_to_attack_town,Forest bandits are heading to attack your town!
-display_event.bandits_looted_village,Forest bandits have looted your village!
-display_event.enemy_looted_village,{faction} has looted your village!
-display_event.heir_rebellion,The heir is rising in rebellion!
-display_event.new_heir,The new heir to the crown is {name}
-display_event.free_lord_was_hired,Free Lord {name} has been hired for {duration} days
-display_event.lord_captured,{name} from {faction_name} has been captured by {faction_name_2}
-display_event.captive_terror,{king_name} has learned about your interaction with {captive_name}. His attitude toward you has worsened.
-display_event.looted_books,Stolen books:
-display_event.character_part_of_nature_add,{name} has gained the personality trait {trait_name}
-display_event.character_part_of_nature_delete,{name} has lost the personality trait {trait_name}
-display_event.character_revail_skill_trait,{name} has achieved perfection in the skill {skill_name} and unlocked the skill trait {trait_name}
-display_event.dark_order,Your cutthroats have been bribed
-display_event.student_as_teacher,{student} has reached the level of {teacher} in the skill {skill}
-display_event.student_as_teacher_general,{student} reached {teacher} level in all skills
-display_event.murder_intention_add,{name} is plotting murder
-display_event.bishop_is_king_enemy,The king has become the enemy of the bishop
-display_event.kid_need_lesson,{name}: not learning
-display_event.lord_dead_in_travell,{name}: died on the journey
-display_event.other_faction_king_dead,The ruler of {faction} has died
-display_event.soldier_for_rises,There are soldiers to promote
-display_event.persons_forest_bandits,Forest bandits in your lands
-display_event.religious_punishment_soon,The Inquisition will arrive soon
-display_event.ceremony_start,Ceremony begins: {name}
-display_event.ceremony_today,"Today, the ceremony of {name} will take place."
-display_event.guest_duel,{name}: Challenged {lord} to a duel
-display_event.lord_seduced,{name} was seduced. His loyalty is under threat.
-display_event.lord_bribed,{name} has been bribed. Their loyalty is under threat.
-display_event.adopted_child_lord,{mother} died in childbirth and {king} decided to adopt the child into the family
-display_event.drunk_fight_start,{name}: started a drunken brawl
-display_event.nectar_rage_begin,{name}: in nectar rage!
-display_event.new_matriarch,New Мatriarch
-display_event.synod_relations_begin,Beginning of relationship with the Loving Family
-display_event.discovered_talent,{name}: Discovered a new talent during training!
-display_event.inspired_today,{names}: Inspiration!
-display_event.terror_culture,The people of {name} are suffering from cultural terror.
-display_event.culture_migration_increase,{name}: Consequences of War
-display_event.character_assimilated,{name}: changed their culture under the influence.
-display_event.death_is_near,{name}: Dying
-display_event.death_is_near_king,{name}: Monarch is dying
-display_event.death_is_near_king_heirs_power_struggle,{name}: The monarch is dying. The struggle for the throne among the heirs has begun!
-family.brother_sister_f,Sister
-family.brother_sister_m,Brother
-family.child_f,Daughter
-family.child_m,Son
-family.ex_paramour_f,Ex-lover
-family.ex_paramour_m,Ex-lover
-family.ex_spouce_f,Ex-spouse
-family.ex_spouce_m,Ex-spouse
-family.nephew_niece_f,Niece
-family.nephew_niece_m,Nephew
-family.paramour_f,Lover
-family.paramour_m,Lover
-family.parent_f,Mother
-family.parent_m,Father
-family.spouce_f,Spouse
-family.spouce_m,Spouse
-family.uncle_aunt_f,Aunt
-family.uncle_aunt_m,Uncle
-menu.appoint.inspection,Inspection
-menu.appoint.preaching,Sermon
-menu.appoint.soldiers_training,Warrior training
-menu.appoint.training,Training
-appoint.clerk_additional,From the chancellery
-menu.army,Army
-menu.army.commander,COMMANDER
-menu.army.create_army,Create
-menu.army.group.exp_mercenaries,EXPERIENCED MERCENARIES
-menu.army.group.mercenaries,KNIGHTS ({count})
-menu.army.group.militia,FROM PEASANTS ({count})
-menu.army.group.slave,FREE PRISONERS ({count})
-menu.army.group.rise,PROMOTE
-menu.army.hire,Hire
-menu.army.hire_soldier.caption,Hiring troops
-menu.army.lords,COMMANDERS
-menu.army.new_army_button,Army
-menu.army.new_army.caption,New army
-menu.army.new_army.create,Create
-menu.army.new_army.auto,Auto
-menu.army.new_army.warriors,WARRIORS ({count})
-menu.army.new_army.warehouse,IN STOCK
-menu.army.new_army.squad_equip,AT THE SQUAD
-menu.army.new_army.weapon,Weapons
-menu.army.new_army.armor,Armor
-menu.army.new_army.shield,Shields
-menu.army.patrol,Town patrol
-menu.army.soldiers,WARRIORS
-menu.army.without_equip,Without equipment
-menu.construction.category.army,Army
-menu.construction.category.housing,Housing
-menu.construction.category.production,Production
-menu.construction.category.resources,Resources
-menu.construction.category.service,Service
-menu.construction.category.decor,Decor
-menu.construction.hint.produce,Produces:
-menu.economy,Economy
-menu.economy.do_up_to,Do until
-menu.economy.do_up_to_x,Do until X
-menu.economy.in_construction,In construction
-menu.economy.make,Make
-menu.economy.make_x,Make X
-menu.economy.order_complete,The goal has been achieved
-menu.economy.required,Required
-menu.economy.resources,Resources
-menu.economy.sell,Amount
-menu.economy.sold,Sold
-menu.economy.used,Used
-menu.economy.workshops,Workshops
-menu.finance.by_price,Price per unit
-menu.finance.caption,Finance
-menu.finance.daily,Daily expenses
-menu.finance.daily_jobless,Unemployed ({count})
-menu.finance.daily_services,Service ({count})
-menu.finance.daily_soldiers,Warriors ({count})
-menu.finance.daily_workers,Peasants ({count})
-menu.finance.dayly_sales,Sales per day
-menu.finance.food,Food
-menu.finance.food_for_slaves,Prisoners ({count})
-menu.finance.market,Local market
-menu.finance.money,Money
-menu.finance.salary,Wages
-menu.finance.sell,Amount
-menu.finance.slaves,Prisoners
-menu.finance.taverns,Taverns
+display_event.new_book,Salinan baru buku dibuat: {knowledge}
+display_event.new_knowledge,Pengetahuan dipelajari: {knowledge}
+display_event.slave_escape,Seorang tahanan mencoba melarikan diri.
+display_event.unhappy_lord,Tuan Anda tidak senang.
+display_event.actor_dont_work,"Karena suasana hati yang buruk, {name} menolak menyelesaikan tugas Anda."
+display_event.reg_riot_soon,Kaum fanatik menuntut darah: {target_name}!
+display_event.reg_riot_cancel,Kaum fanatik puas dengan eksekusi {target_name}. Tidak akan ada pemberontakan.
+display_event.holy_family_become_enemy,Anda kehilangan kepercayaan dari Matriark!
+display_event.reg_riot_against_king,Kaum fanatik percaya bahwa {target_name} harus mati.
+display_event.reg_riot_in_hour,Pemberontakan akan dimulai dalam beberapa jam!
+display_event.low_loyaled,Tuan meninggalkan provinsi.
+display_event.bulglary_storage,Para gelandangan merampok gudang Aula.
+display_event.hall_robbed,Para gelandangan menyusup ke Aula dan mencuri Emas.
+display_event.library_robbed,Para gelandangan menyusup ke Perpustakaan dan mencuri Buku.
+display_event.lord_kidnapped,Para gelandangan telah menculik tuan Anda!
+display_event.lord_killed,Penutup jalanan yang disuap telah membunuh tuan Anda!
+display_event.army_returned_from_global_map,Pasukan telah kembali.
+display_event.hirde_bandits_returned_from_global_map,Penutup jalanan bayaran kembali dengan rampasan.
+display_event.kid_now_can_read,{name} telah dewasa dan menjadi remaja.
+display_event.bishop_arrived,Uskup telah tiba di pemukiman Anda.
+display_event.bishop_leave_province,Uskup meninggalkan pemukiman Anda.
+display_event.faction_become_enemy,Fraksi {faction_name} telah menjadi musuh kita.
+display_event.faction_soon_become_enemy,Fraksi {faction_name} akan segera menjadi musuh kita.
+display_event.economy_statistics,Laporan ekonomi
+display_event.dayly_statistic,Statistik harian
+display_event.daily_stat_main_pronlems,Pikiran negatif yang sering muncul
+display_event.daily_stat_no_problems,Tidak ada masalah
+display_event.world_summary,Ringkasan Dunia
+display_event.world_summary_trade,Perdagangan
+display_event.world_summary_marriage,Pernikahan
+display_event.world_summary_other,Lainnya
+display_event.world_summary_politic,Kebijakan
+display_event.religious_rebellion_start,Pemberontakan agama telah dimulai!
+display_event.slaves_rebellion,Pemberontakan tahanan telah dimulai!
+display_event.soldier_rebellion,Pemberontakan prajurit telah dimulai!
+display_event.loyalist_rage,Para loyalis memulai pembantaian!
+display_event.loyalist_rage_over,Para loyalis telah mengakhiri pembantaian
+display_event.soldier_rebellion_finished,Pemberontakan prajurit telah berakhir
+display_event.soldier_rebellion_crushed,Pemberontakan prajurit telah berhasil ditekan!
+display_event.religion_rebellion_crushed,Pemberontakan agama telah berhasil ditekan!
+display_event.religion_rebellion_finished,Pemberontakan agama telah berakhir.
+display_event.slaves_rebellion_finished,Pemberontakan tahanan telah berakhir.
+display_event.slaves_rebellion_crushed,Pemberontakan tahanan telah berhasil ditekan!
+display_event.culture_rage_today,{name}: kemungkinan akan memberontak melawan {name_2}
+display_event.culture_rage,{name}: Mereka memulai kerusuhan.
+display_event.culture_rage_over,Kerusuhan telah berakhir.
+display_event.no_new_events,Tidak ada peristiwa.
+display_event.player_became_vassal,Anda telah menjadi vassal dari {sir_faction}.
+display_event.player_stopped_being_vassal,Anda tidak lagi menjadi vassal dari {ex_sir_faction}.
+display_event.enemy_go_to_attack_town_soon,Sepertinya {faction} akan menyerang kota Anda!
+display_event.enemy_go_to_attack_village,{faction} telah mengirim pasukan untuk menjarah desa Anda!
+display_event.enemy_go_to_attack_town,{faction} telah mengirim pasukan untuk menghancurkan kota Anda!
+display_event.bandits_go_to_attack_village,Perampok hutan bergerak menuju desa Anda!
+display_event.bandits_go_to_attack_town,Perampok hutan menuju untuk menyerang kota Anda!
+display_event.bandits_looted_village,Perampok hutan telah menjarah desa Anda!
+display_event.enemy_looted_village,{faction} telah menjarah desa Anda!
+display_event.heir_rebellion,Pewaris bangkit dalam pemberontakan!
+display_event.new_heir,Pewaris baru mahkota adalah {name}
+display_event.free_lord_was_hired,Tuan Bebas {name} telah dipekerjakan selama {duration} hari
+display_event.lord_captured,{name} dari {faction_name} telah ditangkap oleh {faction_name_2}
+display_event.captive_terror,{king_name} telah mengetahui interaksi Anda dengan {captive_name}. Sikapnya terhadap Anda memburuk.
+display_event.looted_books,Buku yang dicuri:
+display_event.character_part_of_nature_add,{name} telah mendapatkan sifat kepribadian {trait_name}
+display_event.character_part_of_nature_delete,{name} telah kehilangan sifat kepribadian {trait_name}
+display_event.character_revail_skill_trait,{name} telah mencapai kesempurnaan dalam keterampilan {skill_name} dan membuka sifat keterampilan {trait_name}
+display_event.dark_order,Penutup jalanan Anda telah disuap
+display_event.student_as_teacher,{student} telah mencapai tingkat {teacher} dalam keterampilan {skill}
+display_event.student_as_teacher_general,{student} mencapai tingkat {teacher} di semua keterampilan
+display_event.murder_intention_add,{name} sedang merencanakan pembunuhan
+display_event.bishop_is_king_enemy,Raja telah menjadi musuh uskup
+display_event.kid_need_lesson,{name}: tidak belajar
+display_event.lord_dead_in_travell,{name}: meninggal dalam perjalanan
+display_event.other_faction_king_dead,Penguasa {faction} telah meninggal
+display_event.soldier_for_rises,Ada prajurit yang bisa dipromosikan
+display_event.persons_forest_bandits,Perampok hutan di wilayah Anda
+display_event.religious_punishment_soon,Inkuisisi akan segera tiba
+display_event.ceremony_start,Upacara dimulai: {name}
+display_event.ceremony_today,"Hari ini, upacara {name} akan berlangsung."
+display_event.guest_duel,{name}: Menantang {lord} untuk duel
+display_event.lord_seduced,{name} telah dirayu. Kesetiaannya terancam.
+display_event.lord_bribed,{name} telah disuap. Kesetiaannya terancam.
+display_event.adopted_child_lord,{mother} meninggal saat melahirkan dan {king} memutuskan untuk mengadopsi anak tersebut ke dalam keluarga
+display_event.drunk_fight_start,{name}: memulai perkelahian mabuk
+display_event.nectar_rage_begin,{name}: dalam amukan nektar!
+display_event.new_matriarch,Matriark Baru
+display_event.synod_relations_begin,Awal hubungan dengan Keluarga Penuh Kasih
+display_event.discovered_talent,{name}: Menemukan bakat baru selama pelatihan!
+display_event.inspired_today,{names}: Inspirasi!
+display_event.terror_culture,Rakyat {name} menderita karena teror budaya.
+display_event.culture_migration_increase,{name}: Akibat Perang
+display_event.character_assimilated,{name}: mengubah budayanya di bawah pengaruh.
+display_event.death_is_near,{name}: Sekarat
+display_event.death_is_near_king,{name}: Raja sedang sekarat
+display_event.death_is_near_king_heirs_power_struggle,{name}: Raja sedang sekarat. Perebutan tahta di antara para pewaris telah dimulai!
+family.brother_sister_f,Saudari
+family.brother_sister_m,Saudara
+family.child_f,Putri
+family.child_m,Putra
+family.ex_paramour_f,Mantan Kekasih
+family.ex_paramour_m,Mantan Kekasih
+family.ex_spouce_f,Mantan Pasangan
+family.ex_spouce_m,Mantan Pasangan
+family.nephew_niece_f,Keponakan Perempuan
+family.nephew_niece_m,Keponakan Laki-laki
+family.paramour_f,Kekasih
+family.paramour_m,Kekasih
+family.parent_f,Ibu
+family.parent_m,Ayah
+family.spouce_f,Pasangan
+family.spouce_m,Pasangan
+family.uncle_aunt_f,Bibi
+family.uncle_aunt_m,Paman
+menu.appoint.inspection,Pemeriksaan
+menu.appoint.preaching,Khotbah
+menu.appoint.soldiers_training,Pelatihan Prajurit
+menu.appoint.training,Pelatihan
+appoint.clerk_additional,Dari Kanselir
+menu.army,Tentara
+menu.army.commander,KOMANDAN
+menu.army.create_army,Buat
+menu.army.group.exp_mercenaries,TENTARA BAYARAN BERPENGALAMAN
+menu.army.group.mercenaries,KESATRIA ({count})
+menu.army.group.militia,DARI PETANI KECIL ({count})
+menu.army.group.slave,BEBASKAN TAHANAN ({count})
+menu.army.group.rise,ANGKAT
+menu.army.hire,Rekrut
+menu.army.hire_soldier.caption,Perekrutan Pasukan
+menu.army.lords,KOMANDAN
+menu.army.new_army_button,Tentara
+menu.army.new_army.caption,Tentara Baru
+menu.army.new_army.create,Buat
+menu.army.new_army.auto,Otomatis
+menu.army.new_army.warriors,PRAJURIT ({count})
+menu.army.new_army.warehouse,DI GUDANG
+menu.army.new_army.squad_equip,DI PASUKAN
+menu.army.new_army.weapon,Senjata
+menu.army.new_army.armor,Baju Zirah
+menu.army.new_army.shield,Perisai
+menu.army.patrol,Patroli Kota
+menu.army.soldiers,PRAJURIT
+menu.army.without_equip,Tanpa Peralatan
+menu.construction.category.army,Tentara
+menu.construction.category.housing,Perumahan
+menu.construction.category.production,Produksi
+menu.construction.category.resources,Sumber Daya
+menu.construction.category.service,Pelayanan
+menu.construction.category.decor,Dekorasi
+menu.construction.hint.produce,Menghasilkan:
+menu.economy,Ekonomi
+menu.economy.do_up_to,Lakukan hingga
+menu.economy.do_up_to_x,Lakukan hingga X
+menu.economy.in_construction,Sedang Dibangun
+menu.economy.make,Buat
+menu.economy.make_x,Buat X
+menu.economy.order_complete,Sasaran Telah Tercapai
+menu.economy.required,Diperlukan
+menu.economy.resources,Sumber Daya
+menu.economy.sell,Jumlah
+menu.economy.sold,Terjual
+menu.economy.used,Digunakan
+menu.economy.workshops,Bengkel
+menu.finance.by_price,Harga per Unit
+menu.finance.caption,Keuangan
+menu.finance.daily,Biaya Harian
+menu.finance.daily_jobless,Pengangguran ({count})
+menu.finance.daily_services,Pelayanan ({count})
+menu.finance.daily_soldiers,Prajurit ({count})
+menu.finance.daily_workers,Petani Kecil ({count})
+menu.finance.dayly_sales,Penjualan Harian
+menu.finance.food,Makanan
+menu.finance.food_for_slaves,Tahanan ({count})
+menu.finance.market,Pasar Lokal
+menu.finance.money,Uang
+menu.finance.salary,Gaji
+menu.finance.sell,Jumlah
+menu.finance.slaves,Tahanan
+menu.finance.taverns,Kedai Minum
 menu.finance.total,Total
-menu.finance.goods_availability.title,Availability of goods
-menu.finance.goods_availability.population,Residents:
-menu.finance.goods_availability.slaves,Prisoners:
-menu.finance.goods_availability.peasants,Inhabitants
-menu.finance.goods_availability.soldiers,Warriors
-menu.finance.goods_availability.food_for_sale,<hint=hint_food>Food</hint> for sale:
-menu.finance.goods_availability.drinks_for_sale,<hint=hint_alcohol>Alcohol</hint> for sale:
-menu.finance.goods_availability.food_for_slaves,<hint=hint_food>Food</hint> distributed:
-menu.finance.goods_availability.drinks_for_slaves,<hint=hint_alcohol>Alcohol</hint> distributed:
-menu.finance.goods_availability.savings,Average <hint=hint_wealth>wealth:</hint>
-menu.finance.goods_availability.sale_yesterday,<b>Total sold yesterday:</b>
-menu.appoint.victory_chance,Victory chance:
-menu.production,Production
-menu.tools.hint.army,Army
-menu.tools.hint.clan,Dynasty
-menu.tools.hint.construction,Construction
-menu.tools.hint.finance,Finance
-menu.tools.hint.statistics,Statistics
-menu.tools.hint.knowledge,Knowledge
-menu.tools.hint.production,Production
-menu.tools.hint.world,World
-menu.trade,Trade
-menu.trade.deal,Trade
-menu.trade.price_change_reason,{bonus_penalty_side} due to the difference in {skill_name} skill
-menu.trade.price_change_global_map,The price of some goods has risen due to events on the global map
-menu.trade.price_change_reason.bonus,in your favor
-menu.trade.price_change_reason.penalty,in favor of the trader
-menu.family.restrictions,Restrictions
-menu.family.tree,Family Tree
-menu.family.сhronicles,Chronicles
-menu.family.dogmas,Dogmas
-menu.battle_squad.is_allow_shoot,Authorize shooting
-menu.battle_squad.stats.on_legs,On legs:
-menu.battle_squad.stats.moral,Mood:
-menu.battle_squad.stats.equipment,Equipment:
-menu.battle_squad.stats.skill,Combat Skill:
-menu.battle_squad.hostage,Capturing hostages
-menu.battle_squad.surrender,Surrender
-menu.battle_squad.disband,Disband
-menu.battle_squad.header,BATTLE SQUAD
+menu.finance.goods_availability.title,Ketersediaan Barang
+menu.finance.goods_availability.population,Penduduk:
+menu.finance.goods_availability.slaves,Tahanan:
+menu.finance.goods_availability.peasants,Penduduk
+menu.finance.goods_availability.soldiers,Prajurit
+menu.finance.goods_availability.food_for_sale,<hint=hint_food>Makanan</hint> untuk dijual:
+menu.finance.goods_availability.drinks_for_sale,<hint=hint_alcohol>Alkohol</hint> untuk dijual:
+menu.finance.goods_availability.food_for_slaves,<hint=hint_food>Makanan</hint> didistribusikan:
+menu.finance.goods_availability.drinks_for_slaves,<hint=hint_alcohol>Alkohol</hint> didistribusikan:
+menu.finance.goods_availability.savings,Rata-rata <hint=hint_wealth>kekayaan:</hint>
+menu.finance.goods_availability.sale_yesterday,<b>Total terjual kemarin:</b>
+menu.appoint.victory_chance,Peluang Kemenangan:
+menu.production,Produksi
+menu.tools.hint.army,Tentara
+menu.tools.hint.clan,Dinasti
+menu.tools.hint.construction,Konstruksi
+menu.tools.hint.finance,Keuangan
+menu.tools.hint.statistics,Statistik
+menu.tools.hint.knowledge,Pengetahuan
+menu.tools.hint.production,Produksi
+menu.tools.hint.world,Dunia
+menu.trade,Perdagangan
+menu.trade.deal,Perdagangan
+menu.trade.price_change_reason,{bonus_penalty_side} karena perbedaan dalam keterampilan {skill_name}
+menu.trade.price_change_global_map,Harga beberapa barang telah naik karena peristiwa di peta global
+menu.trade.price_change_reason.bonus,menguntungkan Anda
+menu.trade.price_change_reason.penalty,menguntungkan pedagang
+menu.family.restrictions,Pembatasan
+menu.family.tree,Pohon Keluarga
+menu.family.сhronicles,Kronik
+menu.family.dogmas,Dogma
+menu.battle_squad.is_allow_shoot,Izinkan menembak
+menu.battle_squad.stats.on_legs,Berjalan:
+menu.battle_squad.stats.moral,Suasana Hati:
+menu.battle_squad.stats.equipment,Peralatan:
+menu.battle_squad.stats.skill,Keterampilan Bertarung:
+menu.battle_squad.hostage,Menangkap sandera
+menu.battle_squad.surrender,Menyerah
+menu.battle_squad.disband,Bubarkan
+menu.battle_squad.header,PASUKAN PERTEMPURAN
 menu.battle_squad.loot,LOOT
-menu.battle_squad.order,ORDER
-menu.battle_squad.is_protect_archers,Protect the archers
-menu.battle_squad.is_commander_stay_in_back,Stay in the back
-name.trader,Trader
-notification.miscarriage,{name} had a miscarriage.
-notification.actor_use_medicine,{name} used Medical Salve.
-notification.character_get_robbed,{name} was attacked by robbers.
-notification_character.immobilized,{name} is unable to move.
-notification.character_close_dead,{name_initiator} -> {name_target}: mourns inconsolably over the loss
-notification.character_crime,{name} is accused of a crime!
-notification.character_date,{name_initiator} and {name_target} are going on a date today
-notification.character_dead,{name} has passed away
-notification.character_disease_hard,{name} is seriously ill
-notification.character_gift,{name_initiator} -> {name_target}: gave a gift
-notification.character_intrigue_full,{name_initiator} -> {name_target}: the relationship with {name_third_person} has worsened as a result of the intrigue.
-notification.character_intrigue,{name_target} -> {name_third_person}: relationship has worsened due to intrigue
-notification.character_join_to_player,{name} joins your noble family
-notification.character_love,{name_initiator} -> {name_target}: has fallen in love
-notification.character_low_loyalty,{name}: Low loyalty
-notification.character_praise,{name_target} -> {name_third_person}: relationship has improved as a result of praise.
-notification.character_skill_new_level,{name} has gained a new level! {skill}: {level}
-notification.character_slander,{name_target} -> {name_third_person}: relationship has worsened due to slander
-notification.character_unconscious,{name} is unconscious
-notification.character_under_attack,{name} has entered the battle!
-notification.character_go_insight,{name} has received an enlightenment: {knowledge_name}
-notification.characters_start_fight,{name_initiator} and {name_target} have started a fight!
-notification.characters_start_duel,{name_initiator} and {name_target} have initiated a duel!
-notification.date_denied,{name_initiator} -> {name_target}: refusal for a date.
-notification.enemy_commander_dead,The enemy squad commander has been killed!
-notification.enemy_commander_surrender,The enemy commander has surrendered!
-notification.enemy_commander_retreat,The enemy squad commander is running away!
-notification.enemy_commander_unconscious,The enemy squad commander is unconscious!
-notification.guest_bribe_fail,{name}: the guest refused to accept a gift from your king
-notification.guest_bribe_success,{name}: the guest accepted a gift from your king
-notification.guest_attempted_bribe_succes,{name}: accepted a gift from {iniciator}. Loyalty decreased
-notification.guest_attempted_bribe_fail,{name}: didn't accept a gift from {iniciator}. Loyalty remained the same
-notification.character_start_action_task,{name} starts performing the task: {action_task}
-notification.guest_leaving,{name}: the guest is leaving the settlement
-notification.guest_leaving_danger_wound,{name}: a guest leaves the settlement due to a dangerous wound
-notification.guest_leaving_bad_mood,{name}: a guest leaves the settlement due to depression.
-notification.guest_arrive,{name}: the guest has arrived in the settlement
-notification.murder_fighting,{name_initiator} is in rage and fights to the death!
-notification.murder_night_murder,{name_initiator} is plotting an assassination
-notification.murder_poison_success,{name_target} has been poisoned
-notification.character_game_of_dice_win,{name_winner} -> {name_looser}: won the Holy Rings in dice
-notification.character_game_of_dice_loose,{name_looser} -> {name_winner}: lost the Holy Rings in dice
-notification.murder_poison_unsuccess,"{name_initiator} -> {name_target}: attempted to poison the enemy, but was discovered"
-notification.reward,{name_initiator} -> {name_target}: rewarded
-notification.rumors,{name_initiator} -> {name_target}: spread rumors about: {name_third_person}
-notification.rumors,{name_initiator} -> {name_target}: learned rumors
-notification.sex,{name_initiator} and {name_target} are spending time in bed
-notification.sex_treason,{name_initiator} is unfaithful to their spouse with {name_target}
-notification.tantrum_begin,{name}: nervous breakdown!
-notification.determination_begin,{name} decides to fulfill the desire!
-notification.madness_begin,{name}: fell into madness
-notification.tantrum_high_probability,{name}: high chance of a nervous breakdown!
-notification.tantrum_probability,{name}: chance of a nervous breakdown!
-notification.threat,{name_initiator} -> {name_target}: threatened
-notification.thugs_burglary,{name}: the cutthroats are breaking into the house!
-notification.character_is_pregnant,{name} is pregnant with {father_name}'s child
-notification.character_was_born,A child is born: {name}
-notification.kid_grow,{name} has come of age and becomes a lesser lord.
-notification.new_desire,{name} has discovered a strong desire within themselves
-notification.desire_strong,{name}: the desire has become even stronger
-notification.desire_complete,{name}: the desire has been fulfilled!
-notification.king_greetings,{name} greeted the king
-notification.lord_return,{name} has returned to the province
-notification.start_hate,{name_initiator} -> {name_target}: started hating
-notification.captive_escape,{name} is trying to escape from captivity!
-notification.captive_welcome,{name} has pledged loyalty to the {fraction_name} house
-notification.game_save,The game has been saved
-notification.got_knowledge_from_talk,{name} acquired knowledge during a conversation with {name_2}: {knowledge}
-punishment.blindness,Blindness
-punishment.execution,Execution
-punishment.exile,Exile
-punishment.mask_of_shame,Mask of shame
-punishment.enslavement,Imprisonment
-resource.battle_axe,Axes
-resource.ale,Flavorful Ale
-resource.moonshine,Moonshine
-resource.beer,Beer
-resource.bow,Bows
-resource.coal,Coal
-resource.crossbow,Crossbows
-resource.food,Flour
-resource.heavy_armor,Heavy armor
-resource.instruments,Tools
-resource.iron,Iron
-resource.knife,Dagger
-resource.light_armor,Light armor
-resource.medicine,Medical salve
-resource.nectar,Nectar
-resource.paper,Paper
-resource.rune,Holy rings
-resource.shield,Shields
-resource.sword,Swords
-resource.wood,Wood
-resource.wooden_hammer,Maces
-resource.wooden_spear,Spears
+menu.battle_squad.order,PERINTAH
+menu.battle_squad.is_protect_archers,Lindungi pemanah
+menu.battle_squad.is_commander_stay_in_back,Tetap di belakang
+name.trader,Pedagang
+notification.miscarriage,{name} mengalami keguguran.
+notification.actor_use_medicine,{name} menggunakan Salep Medis.
+notification.character_get_robbed,{name} diserang oleh perampok.
+notification_character.immobilized,{name} tidak dapat bergerak.
+notification.character_close_dead,{name_initiator} -> {name_target}: berduka tanpa henti atas kehilangan
+notification.character_crime,{name} dituduh melakukan kejahatan!
+notification.character_date,{name_initiator} dan {name_target} akan berkencan hari ini
+notification.character_dead,{name} telah meninggal dunia
+notification.character_disease_hard,{name} sakit parah
+notification.character_gift,{name_initiator} -> {name_target}: memberikan hadiah
+notification.character_intrigue_full,{name_initiator} -> {name_target}: hubungan dengan {name_third_person} memburuk akibat intrik.
+notification.character_intrigue,{name_target} -> {name_third_person}: hubungan memburuk karena intrik
+notification.character_join_to_player,{name} bergabung dengan keluarga bangsawan Anda
+notification.character_love,{name_initiator} -> {name_target}: telah jatuh cinta
+notification.character_low_loyalty,{name}: Loyalitas rendah
+notification.character_praise,{name_target} -> {name_third_person}: hubungan membaik karena pujian.
+notification.character_skill_new_level,{name} telah naik level! {skill}: {level}
+notification.character_slander,{name_target} -> {name_third_person}: hubungan memburuk karena fitnah
+notification.character_unconscious,{name} tidak sadarkan diri
+notification.character_under_attack,{name} telah memasuki pertempuran!
+notification.character_go_insight,{name} telah mendapatkan pencerahan: {knowledge_name}
+notification.characters_start_fight,{name_initiator} dan {name_target} memulai perkelahian!
+notification.characters_start_duel,{name_initiator} dan {name_target} memulai duel!
+notification.date_denied,{name_initiator} -> {name_target}: menolak ajakan kencan.
+notification.enemy_commander_dead,Komandan pasukan musuh telah terbunuh!
+notification.enemy_commander_surrender,Komandan musuh telah menyerah!
+notification.enemy_commander_retreat,Komandan pasukan musuh melarikan diri!
+notification.enemy_commander_unconscious,Komandan pasukan musuh tidak sadarkan diri!
+notification.guest_bribe_fail,{name}: tamu menolak menerima hadiah dari raja Anda
+notification.guest_bribe_success,{name}: tamu menerima hadiah dari raja Anda
+notification.guest_attempted_bribe_succes,{name}: menerima hadiah dari {iniciator}. Loyalitas menurun
+notification.guest_attempted_bribe_fail,{name}: tidak menerima hadiah dari {iniciator}. Loyalitas tetap sama
+notification.character_start_action_task,{name} mulai menjalankan tugas: {action_task}
+notification.guest_leaving,{name}: tamu meninggalkan pemukiman
+notification.guest_leaving_danger_wound,{name}: tamu meninggalkan pemukiman karena luka berat
+notification.guest_leaving_bad_mood,{name}: tamu meninggalkan pemukiman karena depresi.
+notification.guest_arrive,{name}: tamu telah tiba di pemukiman
+notification.murder_fighting,{name_initiator} sedang marah dan bertarung hingga mati!
+notification.murder_night_murder,{name_initiator} sedang merencanakan pembunuhan
+notification.murder_poison_success,{name_target} telah diracuni
+notification.character_game_of_dice_win,{name_winner} -> {name_looser}: memenangkan Cincin Suci dalam permainan dadu
+notification.character_game_of_dice_loose,{name_looser} -> {name_winner}: kehilangan Cincin Suci dalam permainan dadu
+notification.murder_poison_unsuccess,"{name_initiator} -> {name_target}: mencoba meracuni musuh, tetapi ketahuan"
+notification.reward,{name_initiator} -> {name_target}: memberikan penghargaan
+notification.rumors,{name_initiator} -> {name_target}: menyebarkan rumor tentang: {name_third_person}
+notification.rumors,{name_initiator} -> {name_target}: mengetahui rumor
+notification.sex,{name_initiator} dan {name_target} menghabiskan waktu di tempat tidur
+notification.sex_treason,{name_initiator} tidak setia kepada pasangannya dengan {name_target}
+notification.tantrum_begin,{name}: gangguan saraf!
+notification.determination_begin,{name} memutuskan untuk memenuhi keinginan!
+notification.madness_begin,{name}: jatuh ke dalam kegilaan
+notification.tantrum_high_probability,{name}: peluang tinggi untuk gangguan saraf!
+notification.tantrum_probability,{name}: peluang untuk gangguan saraf!
+notification.threat,{name_initiator} -> {name_target}: mengancam
+notification.thugs_burglary,{name}: penyamun sedang menerobos masuk ke rumah!
+notification.character_is_pregnant,{name} hamil dengan anak {father_name}
+notification.character_was_born,Seorang anak lahir: {name}
+notification.kid_grow,{name} telah dewasa dan menjadi tuan kecil.
+notification.new_desire,{name} telah menemukan keinginan kuat dalam dirinya
+notification.desire_strong,{name}: keinginan semakin kuat
+notification.desire_complete,{name}: keinginan telah terpenuhi!
+notification.king_greetings,{name} menyapa raja
+notification.lord_return,{name} telah kembali ke provinsi
+notification.start_hate,{name_initiator} -> {name_target}: mulai membenci
+notification.captive_escape,{name} mencoba melarikan diri dari penawanan!
+notification.captive_welcome,{name} telah bersumpah setia kepada rumah {fraction_name}
+notification.game_save,Permainan telah disimpan
+notification.got_knowledge_from_talk,{name} memperoleh pengetahuan selama percakapan dengan {name_2}: {knowledge}
+punishment.blindness,Kebutaan
+punishment.execution,Eksekusi
+punishment.exile,Pengasingan
+punishment.mask_of_shame,Topeng malu
+punishment.enslavement,Penahanan
+resource.battle_axe,Kapak
+resource.ale,Bir Rasa
+resource.moonshine,Minuman Keras
+resource.beer,Bir
+resource.bow,Busur
+resource.coal,Batu Bara
+resource.crossbow,Busur Silang
+resource.food,Tepung
+resource.heavy_armor,Baju Zirah Berat
+resource.instruments,Perkakas
+resource.iron,Besi
+resource.knife,Belati
+resource.light_armor,Baju Zirah Ringan
+resource.medicine,Salep Medis
+resource.nectar,Nektar
+resource.paper,Kertas
+resource.rune,Cincin Suci
+resource.shield,Perisai
+resource.sword,Pedang
+resource.wood,Kayu
+resource.wooden_hammer,Gada
+resource.wooden_spear,Tombak
 resource.hop,Hop
-resource.rye,Rye
-resource.steel,Steel
-resource.meat,Meat
+resource.rye,Gandum Hitam
+resource.steel,Baja
+resource.meat,Daging
 resource.sweden,Rutabaga
-resource.herb,Herb
-resource.producted_store,"In the production <hint=hint_building_stores>warehouses</hint>, there are currently: {count} (grey number next to the icon)"
-resource.on_fields_now,Ripening in the fields now: {count} (grey number next to the icon)
-resource.caravan_cost,The Holy Caravan sells this resource for <hint=hint_resource_gold>{cost_buy}</hint> and buys it for <hint=hint_resource_gold>{cost_sell}</hint>.
-screen_ui.day,Day {day}
-statistics.for_5_days,For 5 days
-statistics.for_today,For today
-statistics.for_yesterday,For yesterday
-time.hours,{hours} h.
-time.minutes,{minutes} min.
-work.melter,Smelter
-work.alchemist,Alchemist
-work.miller,Miller
-work.pig_farmer,Swineherd
-work.armorsmith,Armor Forge
-work.barman,Innkeeper
-work.drug_dealer,Drug dealer
-work.brewer,Brewer
-work.builder,Builder
-work.caravaneer,Caravaneer
-work.carpenter,Carpenter
-work.coal_furnace,Charcoal burner
-work.farmer,Farmer
-work.herbalist,Herbalist
-work.inspector,Inspector
-work.jobless,Jobless
-work.miner,Miner
-work.paper_factory,Paper Maker
-work.patrol,Patrol
-work.priest,Priest
-work.salesman,Merchant
-work.servant,Servant
-work.weaponsmith,Weaponsmith
-work.woodcutter,Lumberjack
-work.clerk,Clerk
-work.gallows_inspector,Scaffold inspector
-work.chancellery_inspector,Chancellor
-work.trainer,Trainer
-social_class.dummy,Peasant
-actor.loyalty_change_reason.happy,Good mood
-actor.loyalty_change_reason.unhappy,Bad mood
-actor.loyalty_change_reason.satisfied,Normal mood
-actor.loyalty_change_reason.gift,Received a reward
-actor.loyalty_change_reason.threat,Received threats
-actor.loyalty_change_reason.bribe,Received a bribe
-actor.loyalty_change_reason.terror,Terror
-actor.loyalty_change_reason.donate,Forced to give up rings
-actor.loyalty_change_reason.bad_relation_to_king,Bad relations with the king
-actor.loyalty_change_reason.good_relation_to_king,Good relations with the king
-actor.loyalty_change_reason.seduced,Seduced
-actor.loyalty_change_reason.seduce_task,Forced to seduce
-actor.loyalty_change_reason.seduced_me,I was seduced
-actor.loyalty_change_reason.bad_day,Bad day
-battle_squad.no_orders,No orders
-battle_squad.caption,Squad {commander_name}
-battle_squad.bandits_squad,Bandits' squad
-battle_squad.average_mood,Average mood
-battle_squad.average_skill,Average skill
-battle_squad.equipment,Equipment
-battle_squad.on_legs,Still standing
-knowledge.title,Knowledge
-knowledge.title_second,And their owners
-knowledge.technology,Technologies
-knowledge.dogmas,Dogmas
-knowledge.holders,KNOWLEDGE HOLDERS
-knowledge.usual,Ordinary Technology
-knowledge.advanced,Advanced Technology
-knowledge.ultra,Ultra Technology
-knowledge.study,Learn
-knowledge.write,Write
-knowledge.rewrite,Rewrite
-knowledge.book.good_info,Being studied in the knowledge menu
-knowledge.book.need_level,"To study, at least level {level} <hint=hint_skill_knowledge>Intelligence</hint> is recommended."
-knowledge.book.dialect,<b>The book is written in {dialect}</b>
-knowledge.book.dialect_speakers,Language speakers: {speakers}
-menu.knowledge.interaction,INTERACTION
-menu.knowledge.empty_menu,"No knowledge for interaction.
-They can be acquired from a merchant."
-menu.knowledge.actor,CHARACTER
-menu.knowledge.no_knowledge,No knowledge
+resource.herb,Herba
+resource.producted_store,"Di gudang produksi <hint=hint_building_stores></hint>, saat ini tersedia: {count} (angka abu-abu di samping ikon)"
+resource.on_fields_now,Sedang matang di ladang sekarang: {count} (angka abu-abu di samping ikon)
+resource.caravan_cost,Kafilah Suci menjual sumber daya ini seharga <hint=hint_resource_gold>{cost_buy}</hint> dan membelinya seharga <hint=hint_resource_gold>{cost_sell}</hint>.
+screen_ui.day,Hari {day}
+statistics.for_5_days,Selama 5 hari
+statistics.for_today,Untuk hari ini
+statistics.for_yesterday,Untuk kemarin
+time.hours,{hours} jam
+time.minutes,{minutes} menit
+work.melter,Pelebur
+work.alchemist,Alkimis
+work.miller,Penggiling
+work.pig_farmer,Peternak Babi
+work.armorsmith,Pandai Besi Armor
+work.barman,Pemilik Penginapan
+work.drug_dealer,Penjual Obat
+work.brewer,Pembuat Bir
+work.builder,Tukang Bangun
+work.caravaneer,Pengelola Karavan
+work.carpenter,Tukang Kayu
+work.coal_furnace,Pembakar Arang
+work.farmer,Petani
+work.herbalist,Ahli Herba
+work.inspector,Inspektur
+work.jobless,Pengangguran
+work.miner,Penambang
+work.paper_factory,Pembuat Kertas
+work.patrol,Patroli
+work.priest,Pendeta
+work.salesman,Pedagang
+work.servant,Pelayan
+work.weaponsmith,Pembuat Senjata
+work.woodcutter,Penebang Kayu
+work.clerk,Pegawai
+work.gallows_inspector,Inspektur Perancah
+work.chancellery_inspector,Kanselir
+work.trainer,Pelatih
+social_class.dummy,Petani Kecil
+actor.loyalty_change_reason.happy,Suasana hati baik
+actor.loyalty_change_reason.unhappy,Suasana hati buruk
+actor.loyalty_change_reason.satisfied,Suasana hati normal
+actor.loyalty_change_reason.gift,Menerima hadiah
+actor.loyalty_change_reason.threat,Menerima ancaman
+actor.loyalty_change_reason.bribe,Menerima suap
+actor.loyalty_change_reason.terror,Teror
+actor.loyalty_change_reason.donate,Dipaksa menyerahkan cincin
+actor.loyalty_change_reason.bad_relation_to_king,Hubungan buruk dengan raja
+actor.loyalty_change_reason.good_relation_to_king,Hubungan baik dengan raja
+actor.loyalty_change_reason.seduced,Dirayu
+actor.loyalty_change_reason.seduce_task,Dipaksa merayu
+actor.loyalty_change_reason.seduced_me,Saya dirayu
+actor.loyalty_change_reason.bad_day,Hari buruk
+battle_squad.no_orders,Tidak ada perintah
+battle_squad.caption,Pasukan {commander_name}
+battle_squad.bandits_squad,Pasukan Bandit
+battle_squad.average_mood,Suasana hati rata-rata
+battle_squad.average_skill,Keterampilan rata-rata
+battle_squad.equipment,Peralatan
+battle_squad.on_legs,Masih berdiri
+knowledge.title,Pengetahuan
+knowledge.title_second,Dan pemiliknya
+knowledge.technology,Teknologi
+knowledge.dogmas,Dogma
+knowledge.holders,PEMEGANG PENGETAHUAN
+knowledge.usual,Teknologi Biasa
+knowledge.advanced,Teknologi Lanjutan
+knowledge.ultra,Teknologi Ultra
+knowledge.study,Belajar
+knowledge.write,Tulis
+knowledge.rewrite,Tulis Ulang
+knowledge.book.good_info,Sedang dipelajari di menu pengetahuan
+knowledge.book.need_level,"Untuk mempelajari, disarankan setidaknya level {level} <hint=hint_skill_knowledge>Kecerdasan</hint>."
+knowledge.book.dialect,<b>Buku ditulis dalam {dialect}</b>
+knowledge.book.dialect_speakers,Penutur bahasa: {speakers}
+menu.knowledge.interaction,INTERAKSI
+menu.knowledge.empty_menu,"Tidak ada pengetahuan untuk interaksi.
+Dapat diperoleh dari pedagang."
+menu.knowledge.actor,KARAKTER
+menu.knowledge.no_knowledge,Tidak ada pengetahuan
 menu.knowledge.level,(lvl. {lvl})
 tech.building,{building_name}
-tech.building_2,{building_name} and {building_name_2}
-tech.building_resource,{building_name} and {resource_name}
+tech.building_2,{building_name} dan {building_name_2}
+tech.building_resource,{building_name} dan {resource_name}
 tech.resource,{resource_name}
-tech.upgrade,{building_name}: Upgrade
-tech.efficiency,{building_name}: Efficiency
-tech.soil,Efficient field fertilization
-tech.wood,Efficient logging
-tech.survive,Plant care
-tech.pigfarm,Proper pig feeding
-tech.repair,{building_name}. Economical repairs
-tech.save.res,{building_name}. Resource saving
-tech.no.break,{building_name}. Work without breakdowns
-tech.no.fire,{building_name}. Fire safety measures
-tech.no.trauma,{building_name}. Safety measures
-tech.fast.building,Fast construction
-tech.fast.build.less.wood,Wood. Economical construction
-tech.fast.build.less.iron,Iron. Economical construction
+tech.upgrade,{building_name}: Peningkatan
+tech.efficiency,{building_name}: Efisiensi
+tech.soil,Pemupukan ladang yang efisien
+tech.wood,Penebangan kayu yang efisien
+tech.survive,Perawatan tanaman
+tech.pigfarm,Pemberian makan babi yang tepat
+tech.repair,{building_name}. Perbaikan hemat biaya
+tech.save.res,{building_name}. Penghematan sumber daya
+tech.no.break,{building_name}. Bekerja tanpa gangguan
+tech.no.fire,{building_name}. Langkah-langkah keamanan kebakaran
+tech.no.trauma,{building_name}. Langkah-langkah keamanan
+tech.fast.building,Konstruksi cepat
+tech.fast.build.less.wood,Kayu. Konstruksi hemat biaya
+tech.fast.build.less.iron,Besi. Konstruksi hemat biaya
 tech.skill,{skill_name}. {tome}
-tech.criminal_intimidation,Intimidation of tramps
-tech.loyalist_more,Loyalty Basics
-tech.preach_better,Effective Preaching
-tech.slaves_happiness,Happiness of Prisoners
-tech.tanya_paper,Tanaya paper
-tech.crevav_swede,Braised Rutabaga
-tech.drought_fight,Fighting drought
-tech.longevity,Longevity
-tech.addiction_resist,How to deal with addiction
-tech.fanatic_pretend,False fanaticism
-tech.marah_ale,Makha Ale
-tech.right_nectar,The right nectar
-tech.fertilize_cost_less,Fertilize correctly
-tech.tree_more_wood,Correct cutting
-tech.better_meat,Cooking Meat
-tech.flirt_art,The art of flirting
-tech.voruns_moonshine,Varn Moonshine
-tech.dialect,{dialect_name} Language Dictionary
-tech.cutter,Headchopper
-tech.axe_mastery,Ax Proficiency
-tech.handfighter,Hand to hand combat
-tech.tanya_shield,Tanaya Shields
-tech.bow_mastery,Bowstring Mastery
-tech.mace_stun,Mace Stun
-tech.heavy_armor_wear,Wearing armor
-tech.polite_trade,Polite trade
-tech.sin_mind_reducer,How not to worry about sins
-tech.tome,Vol. {number}
-tech.common_good,Common good
-tech.joy_of_education,The Joy of Enlightenment
-dialect.common,Imperial Language
+tech.criminal_intimidation,Intimidasi terhadap gelandangan
+tech.loyalist_more,Dasar-dasar Loyalitas
+tech.preach_better,Penceramahan yang Efektif
+tech.slaves_happiness,Kebahagiaan Tahanan
+tech.tanya_paper,Kertas Tanaya
+tech.crevav_swede,Rutabaga Panggang
+tech.drought_fight,Melawan kekeringan
+tech.longevity,Umur Panjang
+tech.addiction_resist,Cara mengatasi kecanduan
+tech.fanatic_pretend,Fanatisme Palsu
+tech.marah_ale,Bir Makha
+tech.right_nectar,Nektar yang Tepat
+tech.fertilize_cost_less,Pemupukan yang Benar
+tech.tree_more_wood,Pemotongan yang Benar
+tech.better_meat,Memasak Daging
+tech.flirt_art,Seni Merayu
+tech.voruns_moonshine,Minuman Keras Varn
+tech.dialect,Kamus Bahasa {dialect_name}
+tech.cutter,Pemotong Kepala
+tech.axe_mastery,Kemahiran Kapak
+tech.handfighter,Pertarungan Tangan Kosong
+tech.tanya_shield,Perisai Tanaya
+tech.bow_mastery,Penguasaan Tali Busur
+tech.mace_stun,Pemingsanan dengan Gada
+tech.heavy_armor_wear,Memakai baju zirah
+tech.polite_trade,Perdagangan yang sopan
+tech.sin_mind_reducer,Cara tidak khawatir tentang dosa
+tech.tome,Jil. {number}
+tech.common_good,Kebaikan Bersama
+tech.joy_of_education,Kegembiraan Pencerahan
+dialect.common,Bahasa Kekaisaran
 dialect.tanaya,Tanaya
 dialect.voruns,Varn
 dialect.gwelts,Kaiden
 dialect.makha,Makha
-decor.signt_with_equipment,Equipped sign
-decor.bonfire,Bonfire
-decor.sign,Sign
-decor.sign_with_scull,Skull sign
-decor.stone,Stone
-decor.pile_of_skulls,Pile of bones
-decor.bush_1,Bush 1
-decor.bush_2,Bush 2
-decor.bush_3,Bush 3
-decor.floor_remove,Remove Road
-decor.sub.statue,Statues
-decor.sub.torch,Lighting
-decor.sub.floor,Floors
-decor.sub.other,Other
-decor.sub.trees,Plants
-decor.banner,Banner
-decor.statue,Statue
-decor.floor_1,Bright Stone
-decor.floor_2,Dark Stone
-decor.floor_3,Bright Wood
-decor.floor_4,Dark Wood
-decor.stone_arch,Stone Arch
-decor.torch,Torch
-decor.plant,Plant
-decor.bag,Sack
-decor.box,Crate
-decor.barrel,Barrel
-restrictions.activity.beer,Alcohol Consumption
-restrictions.activity.nectar,Nectar Consumption
-restrictions.activity.dice,Dice Game
-restrictions.activity.weapon,Weapon Wielding
-restrictions.activity.armor,Armor Wearing
-restrictions.eat.meat,Meat Consumption
-actor.hint.slave.age,Age: {age} years
-actor.hint.slave.past,Past:
-actor.culture,Culture: {culture}
-actor.hint.slave.combat_skill,Combat Skill: {skill}
-actor.hint.slave.traums,Injuries:
-actor.hint.slave.will_to_be_free,Yearning for freedom
-building.chancellery.need_charge,"To start work in the Chancellery, you need to supply paper"
-building.chancellery.charging,Workers are in the process of carrying paper
-building.chancellery.charged,"The Chancellery, is working
-Paper will last for {day} day(s)"
-building.chacnellery.charge_abort,Cancel paper charging
-building.chacnellery.charge,Charge with paper
-inspection.hint.today,Inspected today
-inspection.hint.yesterday,Inspected yesterday
-inspection.hint.not,Not inspected
-inspection.closest_time,Inspections will begin to end in {day}d {hour}h
-inspection.time,{day}d {hour}h
-inspection.remain_hours,{hour}h
-actor.loyalty.log,Loyalty Change
-menu.peoples.advice,Hints:
-menu.sodliers.lack_of_equipment,Lack of equipment:
-menu.migration.terror,<hint=hint_migration>Migration</hint> <red>has ceased</red> while <hint=hint_terror_peasants>terror</hint> <red>reigns</red> in the city.
-menu.migration.one_village_burned,<hint=hint_migration>Migration</hint> <red>has decreased</red> as a village in the province has been burned down. The village will be restored in a few days.
-menu.migration.all_village_burned,<hint=hint_migration>Migration</hint> <red>has been halted</red> as all the villages in the province have been burned down. The villages will be restored in a few days.
-menu.migration,$ Expected <hint=hint_migration>migrants</hint> today: {peasant_migrants_today}
-menu.migration.increased,<green>Migration increased</green>. The effect will last for {days} day(s) more.
-menu.migration.decreased,<red>Migration decreased</red>. The effect will last for {days} day(s) more.
-actor.hint.no_sins,No sins
-social_strata.dummy,Peasants
-social_strata.slaves,Prisoners
-social_strata.soldiers,Warriors
-social_strata.lords,Lords
-social_strata.animal,Animal
-building.social_availability,AVAILABLE FOR
-building.market_good_not_sell,DO NOT SELL
-menu.trade.slave_final_cost,Final Price
-menu.trade.slave_base_cost,Base Price
-menu.trade.slave_fertility_cost,Fertility
-menu.trade.slave_free_mind_cost,Doesn't miss loved ones
-menu.trade.slave_combat_cost,Combat Skills
-menu.trade.slave_age_cost,Age
-menu.trade.slave_disability_cost,Disability
-menu.trade.slave_slowdown_cost,Slowed
-menu.trade.slave_faction_cost,Multiplier
-actor.matching.agree_to_sex,{lord_name} will agree to go on a date with this lord
-actor.part_of_nature.heir,Heir
-actor.part_of_nature.commander,Commander
-actor.part_of_nature.queen,Ruler's spouse
-actor.name.hired_bandits,Hired cutthroat
-actor.personality_trait_locked,Undisclosed. Level up {skill_name} skill to level 15 to unlock this trait.
-king_role.strong_supporter,Supporter of Power
-king_role.trader,Materialist
-king_role.religious,Religious
-king_role.order_supporter,Defender of Order
-king_role.suggestable,Impressionable
-king_role.liberator,Liberator
+decor.signt_with_equipment,Tanda Dilengkapi
+decor.bonfire,Api Unggun
+decor.sign,Tanda
+decor.sign_with_scull,Tanda Tengkorak
+decor.stone,Batu
+decor.pile_of_skulls,Tumpukan Tulang
+decor.bush_1,Semak 1
+decor.bush_2,Semak 2
+decor.bush_3,Semak 3
+decor.floor_remove,Hapus Jalan
+decor.sub.statue,Patung
+decor.sub.torch,Pencahayaan
+decor.sub.floor,Lantai
+decor.sub.other,Lainnya
+decor.sub.trees,Tanaman
+decor.banner,Spanduk
+decor.statue,Patung
+decor.floor_1,Batu Cerah
+decor.floor_2,Batu Gelap
+decor.floor_3,Kayu Cerah
+decor.floor_4,Kayu Gelap
+decor.stone_arch,Lengkungan Batu
+decor.torch,Obor
+decor.plant,Tanaman
+decor.bag,Karung
+decor.box,Peti
+decor.barrel,Tong
+restrictions.activity.beer,Konsumsi Alkohol
+restrictions.activity.nectar,Konsumsi Nektar
+restrictions.activity.dice,Permainan Dadu
+restrictions.activity.weapon,Penggunaan Senjata
+restrictions.activity.armor,Pemakaian Baju Zirah
+restrictions.eat.meat,Konsumsi Daging
+actor.hint.slave.age,Usia: {age} tahun
+actor.hint.slave.past,Masa Lalu:
+actor.culture,Budaya: {culture}
+actor.hint.slave.combat_skill,Keterampilan Bertarung: {skill}
+actor.hint.slave.traums,Cedera:
+actor.hint.slave.will_to_be_free,Kerinduan akan kebebasan
+building.chancellery.need_charge,"Untuk memulai pekerjaan di Kanselir, Anda perlu menyediakan kertas"
+building.chancellery.charging,Pekerja sedang dalam proses mengangkut kertas
+building.chancellery.charged,"Kanselir sedang bekerja
+Kertas akan bertahan selama {day} hari"
+building.chacnellery.charge_abort,Batalkan pengisian kertas
+building.chacnellery.charge,Isi dengan kertas
+inspection.hint.today,Diperiksa hari ini
+inspection.hint.yesterday,Diperiksa kemarin
+inspection.hint.not,Belum diperiksa
+inspection.closest_time,Pemeriksaan akan selesai dalam {day} hari {hour} jam
+inspection.time,{day} hari {hour} jam
+inspection.remain_hours,{hour} jam
+actor.loyalty.log,Perubahan Loyalitas
+menu.peoples.advice,Petunjuk:
+menu.sodliers.lack_of_equipment,Kekurangan peralatan:
+menu.migration.terror,<hint=hint_migration>Migrasi</hint> <red>telah berhenti</red> sementara <hint=hint_terror_peasants>teror</hint> <red>berkuasa</red> di kota.
+menu.migration.one_village_burned,<hint=hint_migration>Migrasi</hint> <red>telah menurun</red> karena sebuah desa di provinsi telah dibakar. Desa akan dipulihkan dalam beberapa hari.
+menu.migration.all_village_burned,<hint=hint_migration>Migrasi</hint> <red>telah terhenti</red> karena semua desa di provinsi telah dibakar. Desa-desa akan dipulihkan dalam beberapa hari.
+menu.migration,$ Diharapkan <hint=hint_migration>migran</hint> hari ini: {peasant_migrants_today}
+menu.migration.increased,<green>Migrasi meningkat</green>. Efek ini akan berlangsung selama {days} hari lagi.
+menu.migration.decreased,<red>Migrasi menurun</red>. Efek ini akan berlangsung selama {days} hari lagi.
+actor.hint.no_sins,Tidak ada dosa
+social_strata.dummy,Petani
+social_strata.slaves,Tahanan
+social_strata.soldiers,Prajurit
+social_strata.lords,Tuan
+social_strata.animal,Hewan
+building.social_availability,TERSEDIA UNTUK
+building.market_good_not_sell,JANGAN JUAL
+menu.trade.slave_final_cost,Harga Akhir
+menu.trade.slave_base_cost,Harga Dasar
+menu.trade.slave_fertility_cost,Kesuburan
+menu.trade.slave_free_mind_cost,Tidak merindukan orang yang dicintai
+menu.trade.slave_combat_cost,Keterampilan Bertarung
+menu.trade.slave_age_cost,Usia
+menu.trade.slave_disability_cost,Cacat
+menu.trade.slave_slowdown_cost,Lambat
+menu.trade.slave_faction_cost,Pengganda
+actor.matching.agree_to_sex,{lord_name} akan setuju untuk berkencan dengan tuan ini
+actor.part_of_nature.heir,Pewaris
+actor.part_of_nature.commander,Komandan
+actor.part_of_nature.queen,Pasangan penguasa
+actor.name.hired_bandits,Penutup bayaran
+actor.personality_trait_locked,Tidak diungkapkan. Tingkatkan keterampilan {skill_name} ke level 15 untuk membuka sifat ini.
+king_role.strong_supporter,Pendukung Kekuasaan
+king_role.trader,Materialis
+king_role.religious,Religius
+king_role.order_supporter,Pembela Ketertiban
+king_role.suggestable,Mudah Tersentuh
+king_role.liberator,Pembebas
 king_role.lick,Egalitarian
-king_role.intriguant,Intriguer
-king_role.scientist,Wiseman
-menu.missing_equipment.no_problems,No problems
-actor.deep_social.evil_joke,Mockery
-actor.deep_social.good_joke,Joke
-actor.deep_social.deep_talk,Heart-to-heart conversation
-actor.deep_social.abuse,Insult
-actor.deep_social.slight,Ignore
-actor.deep_social.intrigue,Intrigue
-actor.deep_social.flattery,Flattery
-actor.deep_social.sorry,Apologies
-actor.deep_social.rumors,Rumors
-actor.inspection_queue,Inspection Queue
-knowledge.blocked_reason.population_required,{number_of_peoples}/{required_peoples} residents in the city
-knowledge.blocked_reason.knowledge_required,{knowledge_name} is unlocked
-knowledge.blocked_reason.building_required,"Building ""{building_name}"" constructed"
-knowledge.blocked_reason.play_days,The town exists for {days} days
-knowledge.blocked_reason.no,The conditions are met.
-ceremony.wedding,Wedding
-ceremony.funeral,Funeral
-ceremony.coronation,Coronation
-menu.choose_province.climate,Climate:
-menu.choose_province.safety,Safety:
-menu.choose_province.forest,Forest:
-menu.choose_province.villages,Villages:
-menu.choose_province.resources,Resources:
-menu.choose_province.moderate,Moderate
-menu.choose_province.many,Many
-menu.choose_province.high,High
-menu.playtest.welcome_caption,Welcome!
-menu.demo.welcome,"Welcome!
+king_role.intriguant,Pengintrik
+king_role.scientist,Bijaksana
+menu.missing_equipment.no_problems,Tidak ada masalah
+actor.deep_social.evil_joke,Olok-olok
+actor.deep_social.good_joke,Lelucon
+actor.deep_social.deep_talk,Percakapan dari hati ke hati
+actor.deep_social.abuse,Penghinaan
+actor.deep_social.slight,Abaikan
+actor.deep_social.intrigue,Intrik
+actor.deep_social.flattery,Pujian
+actor.deep_social.sorry,Permintaan Maaf
+actor.deep_social.rumors,Rumor
+actor.inspection_queue,Antrean Pemeriksaan
+knowledge.blocked_reason.population_required,{number_of_peoples}/{required_peoples} penduduk di kota
+knowledge.blocked_reason.knowledge_required,{knowledge_name} telah dibuka
+knowledge.blocked_reason.building_required,"Bangunan ""{building_name}"" telah dibangun"
+knowledge.blocked_reason.play_days,Kota telah berdiri selama {days} hari
+knowledge.blocked_reason.no,Kondisi telah terpenuhi.
+ceremony.wedding,Pernikahan
+ceremony.funeral,Pemakaman
+ceremony.coronation,Penobatan
+menu.choose_province.climate,Iklim:
+menu.choose_province.safety,Keamanan:
+menu.choose_province.forest,Hutan:
+menu.choose_province.villages,Desa-desa:
+menu.choose_province.resources,Sumber Daya:
+menu.choose_province.moderate,Sedang
+menu.choose_province.many,Banyak
+menu.choose_province.high,Tinggi
+menu.playtest.welcome_caption,Selamat Datang!
+menu.demo.welcome,"Selamat Datang!
 
-This demo includes a full game experience, limited to {demo_days_count} in-game days.
+Demo ini mencakup pengalaman permainan penuh, terbatas pada {demo_days_count} hari dalam permainan.
 
-Many things are still in progress, so we apologize in advance for any errors and issues you may encounter.
+Banyak hal masih dalam proses, jadi kami mohon maaf sebelumnya atas segala kesalahan dan masalah yang mungkin Anda temui.
 
-<right>Thank you,
-The Long Jaunt Team</right>"
-menu.demo.alpha,"<b>Early Access</b>
+<right>Terima kasih,
+Tim Long Jaunt</right>"
+menu.demo.alpha,"<b>Akses Awal</b>
 
-Many aspects of the game, such as:
+Banyak aspek permainan, seperti:
 
-$ Some languages
-$ Possible bugs
-$ Optimization
-$ etc.
+$ Beberapa bahasa
+$ Kemungkinan bug
+$ Optimasi
+$ dll.
 
-Are still a work in progress and will be improved."
-menu.playtest.welcome,"Thank you for accepting our invitation to play the playtest version of Norland.
+Masih dalam proses pengembangan dan akan ditingkatkan."
+menu.playtest.welcome,"Terima kasih telah menerima undangan kami untuk memainkan versi uji coba Norland.
 
-The game still occasionally crashes, there are errors in it, and it lacks updated interfaces, but functionally, this is the version we want to release in Early Access.
+Permainan ini masih sesekali mengalami crash, terdapat kesalahan, dan kekurangan antarmuka yang diperbarui, tetapi secara fungsional, ini adalah versi yang ingin kami rilis dalam Akses Awal.
 
-Please take 2 minutes to <b>leave feedback</b> at the end of the game (button in the main menu).
+Mohon luangkan 2 menit untuk <b>memberikan umpan balik</b> di akhir permainan (tombol di menu utama).
 
-The version has a limit of {demo_days_count} game days.
+Versi ini memiliki batas {demo_days_count} hari permainan.
 
-<right>Thank you,
-Long Jaunt Team</right>"
+<right>Terima kasih,
+Tim Long Jaunt</right>"
 menu.demo.under_logo,Demo
-menu.playtest.under_logo,Playtest Beta
-menu.story,"Norland, the year 2898 since the creation of the world.
+menu.playtest.under_logo,Beta Uji Coba
+menu.story,"Norland, tahun 2898 sejak penciptaan dunia.
 
-Two hundred years have passed since the great <b>Crimson Empire</b> perished in the flames of the religious war. Its former provinces have become the barbaric kingdoms, kept from mutual destruction only by the all-powerful <b>Church of Mother Sophia</b>.
+Dua ratus tahun telah berlalu sejak <b>Kekaisaran Crimson</b> besar musnah dalam kobaran perang agama. Bekas provinsinya telah menjadi kerajaan-kerajaan barbar, yang hanya terhindar dari kehancuran bersama karena kekuatan <b>Gereja Ibu Sophia</b> yang maha kuasa.
 
-While the holy prophets speak of the impending end of the world, in one of the small kingdoms, a dream of the birth of a new empire is taking shape..."
-menu.new_game_story,"After a long and exhausting journey, {soul_uuid_king} arrived home expecting to see his wife waiting at the doors of the hall. However, instead of her, his brother approached him. The expression on his face did not bode well.
+Sementara para nabi suci berbicara tentang akhir dunia yang akan segera tiba, di salah satu kerajaan kecil, mimpi tentang kelahiran kekaisaran baru mulai terbentuk..."
+menu.new_game_story,"Setelah perjalanan panjang dan melelahkan, {soul_uuid_king} tiba di rumah dengan harapan melihat istrinya menunggu di pintu aula. Namun, alih-alih istrinya, saudaranya mendekatinya. Ekspresi di wajahnya tidak menjanjikan kabar baik.
 
-""My king, I do not bring you joyful news.""
-""What happened, {soul_uuid_brother}? Do not delay, tell me the truth.""
-Unable to look the king in the eyes, {soul_uuid_brother} stuttered as he began to speak:
-""Bandits attacked us last night. We tried to defend ourselves, but there were too many of them. They have kidnapped your wife and now they demand a ransom.""
-""Then command a messenger to deliver whatever they ask for!""
-""But, my king, we are surrounded by enemies. While we are under vassalage's protection for now, you know that the old king's time is running short. If we do not have enough gold and resources, we won't be able to withstand. We need an army.""
-""So you suggest that I abandon {soul_uuid_wife}?""
-""As long as they have hope of receiving the ransom, they will not harm her.""
-""I need time to think it all through. Go now and await my instructions."""
-menu.new_game_story_header,The beginning of the story
-menu.demo.finish.header,End of story
-menu.demo.finish,"The demo version of Norland ends here...
+""Raja saya, saya tidak membawa kabar gembira.""
+""Apa yang terjadi, {soul_uuid_brother}? Jangan tunda, katakan yang sebenarnya.""
+Tidak mampu menatap mata raja, {soul_uuid_brother} tergagap saat mulai berbicara:
+""Perampok menyerang kami tadi malam. Kami mencoba bertahan, tetapi mereka terlalu banyak. Mereka telah menculik istrimu dan sekarang menuntut tebusan.""
+""Kalau begitu, perintahkan utusan untuk mengantarkan apa pun yang mereka minta!""
+""Tapi, raja saya, kita dikelilingi musuh. Meskipun kita masih di bawah perlindungan vassalage untuk saat ini, Anda tahu bahwa waktu raja lama sudah hampir habis. Jika kita tidak memiliki cukup emas dan sumber daya, kita tidak akan mampu bertahan. Kita membutuhkan pasukan.""
+""Jadi, kau menyarankan agar aku meninggalkan {soul_uuid_wife}?""
+""Selama mereka masih berharap menerima tebusan, mereka tidak akan menyakitinya.""
+""Aku butuh waktu untuk memikirkan semuanya. Pergi sekarang dan tunggu instruksku."""
+menu.new_game_story_header,Awal cerita
+menu.demo.finish.header,Akhir cerita
+menu.demo.finish,"Versi demo Norland berakhir di sini...
 
-You can try playing the game with more challenging starting settings or different lord skills.
+Anda dapat mencoba memainkan permainan dengan pengaturan awal yang lebih menantang atau keterampilan tuan yang berbeda.
 
-Thank you for playing through!"
-menu.demo.finish.back_to_menu,Back to the menu
-menu.settings.change_resolution.apply.header,Changing settings
-menu.settings.change_resolution.apply.body,"The screen resolution settings have been changed.
-To apply these settings, press '{accept_button_caption}', otherwise the settings will be automatically canceled in {time_remain_seconds} seconds."
-menu.hack_detected.header,Save file modification detected
-menu.hack_detected,"We cannot guarantee the proper functioning of the game after third-party modifications to save files.
+Terima kasih telah bermain!"
+menu.demo.finish.back_to_menu,Kembali ke menu
+menu.settings.change_resolution.apply.header,Mengubah pengaturan
+menu.settings.change_resolution.apply.body,"Pengaturan resolusi layar telah diubah.
+Untuk menerapkan pengaturan ini, tekan '{accept_button_caption}', jika tidak, pengaturan akan otomatis dibatalkan dalam {time_remain_seconds} detik."
+menu.hack_detected.header,Modifikasi file penyimpanan terdeteksi
+menu.hack_detected,"Kami tidak dapat menjamin fungsi permainan yang tepat setelah modifikasi file simpan oleh pihak ketiga.
 
-Bug reports are submitted to us, but we cannot determine with certainty whether the error occurred due to a game bug or due to third-party interference with the files.
+Laporan bug dikirimkan kepada kami, tetapi kami tidak dapat menentukan dengan pasti apakah kesalahan terjadi karena bug permainan atau karena campur tangan pihak ketiga pada file.
 
-This forces us to spend time searching for non-existent errors instead of fixing existing ones, which negatively affects the game's quality.
+Hal ini memaksa kami menghabiskan waktu mencari kesalahan yang tidak ada alih-alih memperbaiki yang ada, yang berdampak negatif pada kualitas permainan.
 
-Therefore, we are compelled to prohibit the modification of save files until the game is released."
-resource.not_available.by_synod,Improve your <hint=hint_relations_matriarch>relationship with Matriarch</hint> to {number} so that the holy caravan will start selling you this product.
-text.preposition,or
-menu.ambition.screen_title,King's Ambitions
-menu.ambition.text,The king decides that it is time to announce the ambitions that will determine the future of your noble family.
-ambition.conquer,Conquer
-ambition.allias,Form alliances
-ambition.populate_city,Settle a city
-ambition.gain_population,Increase population
-ambition.produce_goods,Produce resources
-menu.ambition.complete_title,Ambitions achieved!
-menu.ambition.complete,"Your king has achieved his goals and is now enjoying universal recognition and respect.
+Oleh karena itu, kami terpaksa melarang modifikasi file simpan hingga permainan dirilis."
+resource.not_available.by_synod,Perbaiki <hint=hint_relations_matriarch>hubungan Anda dengan Matriarch</hint> menjadi {number} agar kafilah suci mulai menjual produk ini kepada Anda.
+text.preposition,atau
+menu.ambition.screen_title,Ambisi Raja
+menu.ambition.text,Raja memutuskan bahwa sudah waktunya mengumumkan ambisi yang akan menentukan masa depan keluarga bangsawan Anda.
+ambition.conquer,Menaklukkan
+ambition.allias,Membentuk aliansi
+ambition.populate_city,Menyelesaikan kota
+ambition.gain_population,Meningkatkan populasi
+ambition.produce_goods,Menghasilkan sumber daya
+menu.ambition.complete_title,Ambisi tercapai!
+menu.ambition.complete,"Raja Anda telah mencapai tujuannya dan sekarang menikmati pengakuan dan rasa hormat universal.
 
-However, the ambition of kings knows no bounds, and soon new ambitions will occupy his mind..."
-ambtion.button.ok,Accept
-ambition.checkbox.conquer,<b>Conqueror.</b> Power leads to the prosperity of the dynasty. Add <b>{vas_num} vassals</b> to your Kingdom.
-ambition.checkbox.allias,<b>Unifier.</b> Only by helping each other can we stand strong. Expand your alliance of free cities to <b>{all_num} provinces</b>.
-ambition.checkbox.populate_city,Here's about settling cities.
-ambition.checkbox.gain_population,"<b>Fertile.</b> The more population, the more strength. Increase the population of the province by <b>{pop_num} people</b>."
-ambition.checkbox.produce_goods,<b>Economic.</b> The economy decides everything. Achieve <b>daily production</b> of goods worth <b><hint=hint_resource_gold>{prod_num}</hint></b>. (now <hint=hint_resource_gold>{now}</hint>)
-menu.battle.auto_battle,Auto Battle
-menu.battle.retreat,"Your army will retreat from the battle - this will be considered a defeat and will hit the mood of the warriors hard, but they will save their lives."
-menu.battle.manually_battle,Battle on the map
-ambition.title.conquer,Sharp sword
-ambition.title.allias,Iron fist
-ambition.title.gain_population,Big nest
-ambition.title.produce_goods,Barn book
-ambition.resume,Resume previous ambition
-menu.resource_statistics.legend.title,Statistics meaning
-menu.resource_statistics.legend.in_store,What was the amount of resources in the city's warehouse
-menu.resource_statistics.legend.production,How many resources were produced in a working day
-menu.resource_statistics.legend.used,"How many resources were spent on producing other resources and constructing buildings, and in the case of food and alcohol, how much was consumed by lords and slaves"
-menu.resource_statistics.legend.in_use,How many resources remain in the warehouses of production buildings and in the inventory of warriors
-menu.resource_statistics.legend.in_local_market,"How much was sold today in local markets, taverns and drug dens"
-menu.resource_statistics.legend.caravan,The results of trading with the Holy Caravan
-menu.resource_statistics.header.in_store,In Store
-menu.resource_statistics.header.production,Production
-menu.resource_statistics.header.used,Used
-menu.resource_statistics.header.in_use,In the warehouses of buildings and warriors
-menu.resource_statistics.header.in_local_market,Local Market
-menu.resource_statistics.header.caravan,Trade with the Holy Caravan
-menu.resource_statistics.no_data,The stats will appear tomorrow
-study.complex,General training
-soul.tab.logs,HISTORY
-tech.war_logistic,Military Logistics Vol. {vol}
-tech.prisoners,Captives
-building.menu.lvl,Lvl. {lvl}
-building.menu.resources,BUILDING STORAGE
-building.menu.workers_road_time,WORKERS ROAD TIME
-building.menu.to_workplace,To Workplace:
-building.menu.to_warehouse,To Warehouse:
-building.menu.priority,Priority
-building.menu.produced,PRODUCED
-building.menu.workers_bonus,Workers bonus:
-building.menu.manager_bonus,Manager bonus:
-building.menu.workers,WORKERS
-building.menu.instructions,INSTRUCTIONS
-building.menu.set_inspector,Appoint Manager
+Namun, ambisi raja tidak mengenal batas, dan segera ambisi baru akan menduduki pikirannya..."
+ambtion.button.ok,Terima
+ambition.checkbox.conquer,<b>Penakluk.</b> Kekuasaan membawa kemakmuran dinasti. Tambahkan <b>{vas_num} vassal</b> ke Kerajaan Anda.
+ambition.checkbox.allias,<b>Penyatuan.</b> Hanya dengan saling membantu kita bisa kuat. Perluas aliansi kota bebas Anda menjadi <b>{all_num} provinsi</b>.
+ambition.checkbox.populate_city,Ini tentang menyelesaikan kota.
+ambition.checkbox.gain_population,"<b>Subur.</b> Semakin banyak populasi, semakin kuat. Tingkatkan populasi provinsi sebesar <b>{pop_num} orang</b>."
+ambition.checkbox.produce_goods,<b>Ekonomi.</b> Ekonomi menentukan segalanya. Capai <b>produksi harian</b> barang senilai <b><hint=hint_resource_gold>{prod_num}</hint></b>. (sekarang <hint=hint_resource_gold>{now}</hint>)
+menu.battle.auto_battle,Pertempuran Otomatis
+menu.battle.retreat,"Pasukan Anda akan mundur dari pertempuran - ini akan dianggap kekalahan dan akan memukul suasana hati prajurit dengan keras, tetapi mereka akan menyelamatkan nyawa mereka."
+menu.battle.manually_battle,Pertempuran di peta
+ambition.title.conquer,Pedang Tajam
+ambition.title.allias,Tinju Besi
+ambition.title.gain_population,Sarang Besar
+ambition.title.produce_goods,Buku Lumbung
+ambition.resume,Lanjutkan ambisi sebelumnya
+menu.resource_statistics.legend.title,Makna Statistik
+menu.resource_statistics.legend.in_store,Berapa jumlah sumber daya di gudang kota
+menu.resource_statistics.legend.production,Berapa banyak sumber daya yang diproduksi dalam sehari kerja
+menu.resource_statistics.legend.used,"Berapa banyak sumber daya yang dihabiskan untuk memproduksi sumber daya lain dan membangun bangunan, dan dalam kasus makanan dan alkohol, berapa banyak yang dikonsumsi oleh tuan dan budak"
+menu.resource_statistics.legend.in_use,Berapa banyak sumber daya yang tersisa di gudang bangunan produksi dan di inventori prajurit
+menu.resource_statistics.legend.in_local_market,"Berapa banyak yang terjual hari ini di pasar lokal, kedai minum, dan sarang obat"
+menu.resource_statistics.legend.caravan,Hasil perdagangan dengan Kafilah Suci
+menu.resource_statistics.header.in_store,Di Toko
+menu.resource_statistics.header.production,Produksi
+menu.resource_statistics.header.used,Digunakan
+menu.resource_statistics.header.in_use,Di gudang bangunan dan prajurit
+menu.resource_statistics.header.in_local_market,Pasar Lokal
+menu.resource_statistics.header.caravan,Perdagangan dengan Kafilah Suci
+menu.resource_statistics.no_data,Statistik akan muncul besok
+study.complex,Pelatihan Umum
+soul.tab.logs,SEJARAH
+tech.war_logistic,Logistik Militer Jil. {vol}
+tech.prisoners,Tahanan
+building.menu.lvl,Tingkat. {lvl}
+building.menu.resources,PENYIMPANAN BANGUNAN
+building.menu.workers_road_time,WAKTU JALAN PEKERJA
+building.menu.to_workplace,Ke Tempat Kerja:
+building.menu.to_warehouse,Ke Gudang:
+building.menu.priority,Prioritas
+building.menu.produced,DIPRODUKSI
+building.menu.workers_bonus,Bonus Pekerja:
+building.menu.manager_bonus,Bonus Manajer:
+building.menu.workers,PEKERJA
+building.menu.instructions,INSTRUKSI
+building.menu.set_inspector,Angkat Manajer
 "building.menu,inspection_bonus",Bonus:
-building.menu.builld_first,Build This First
-building.menu.upgrade,Upgrade
-building.menu.ship_now,"Ship the Produced
-goods now"
-options_menu.audio.voice_volume,VOICE VOLUME
-building.prefer.noone,No priority
-building.prefer.nectar,Nectar addicter
-building.prefer.slaves,Prisoners
-building.prefer.loyalist,Loyalists
+building.menu.builld_first,Bangun Ini Dulu
+building.menu.upgrade,Peningkatan
+building.menu.ship_now,"Kirim Barang yang Diproduksi
+sekarang"
+options_menu.audio.voice_volume,VOLUME SUARA
+building.prefer.noone,Tidak ada prioritas
+building.prefer.nectar,Pecandu Nektar
+building.prefer.slaves,Tahanan
+building.prefer.loyalist,Pengikut Setia
 building.prefer.culture,{culture}
-building.prefer.all,Automatically
-display_event.communication_lost,{faction_name}: Communication Lost
-building.menu.terror_all,All {count}
-building.menu.terror_no,No
+building.prefer.all,Otomatis
+display_event.communication_lost,{faction_name}: Komunikasi Terputus
+building.menu.terror_all,Semua {count}
+building.menu.terror_no,Tidak
 building.menu.terror_culture,{culture} {count}
-building.menu.execution,EXECUTION
-building.menu.terror,Terror
-building.menu.daily_statistic,DAILY STATISTICS
-building.menu.intimidations,Intimidations
-building.menu.path_calculation,Calculating
-building.menu.path_cant_find,Can't find
-time.hour_minut,{hour}h {minut}m
+building.menu.execution,EKSEKUSI
+building.menu.terror,Teror
+building.menu.daily_statistic,STATISTIK HARIAN
+building.menu.intimidations,Intimidasi
+building.menu.path_calculation,Menghitung
+building.menu.path_cant_find,Tidak ditemukan
+time.hour_minut,{hour}j {minut}m
 time.minut,{minut}m
-actor.social_strata.dummy,Commoner
-notification.sex_treason_with_dummy,{name_initiator} cheats on his spouse with a commoner
-building.menu.building_resources,BUILDING RESOURCES
-chancellery.inspection_bonus,The production bonus from inspections is equivalent to the level of the Management skill of the lord in charge of the Chancellery: {bonus}%.
-menu.army.new_army.warriors_count,{warriors_count} Warriors
-menu.army.new_army.weapons_count,{weapons_count} Weapons
-tech.poisoner,Poison Secrets
-menu.building.church.morning_service_stat,STATISTICS OF THE LAST SERMON
-menu.building.church.gathering_time,Gathering time:
-menu.building.church.congregation,Congregation:
-menu.building.church.sermons,SERMONS
-menu.buidling.church.fanatics,Fanatics: +{count}
-menu.buidling.church.agnostics,Agnostics: +{count}
-building.menu.workplace.clerks,CLERKS
-building.menu.refill_auto,Refill Automatically
-building.menu.inspections_delivered,Instructions delivered: {count}
-building.menu.living.residents,RESIDENTS ({current} / {max})
-building.menu.sold_today,SOLD TODAY
-building.menu.guards,GUARDS
-family.son_of,Son of
-family.daughter_of,Daughter of
-display_event.mountains_bandits_prepare_to_attack,Marauders are preparing to attack your city
-actor.mood,Mood
-building.description.library,Here the lords work with knowledge
-building.description.decor,Pleasing to the eye
-building.description.altar,Place of ceremonies and burnings
-building.menu.crimes_prevented,Crimes Prevented
-norland.plot_day_4_header,The New Empire
-norland.plot_day_4_body,"Civilization disappears gradually. The process can last for centuries and ordinary citizens don't notice anything until the very end. But a ruler knowledgeable in history must understand that only by uniting warring kingdoms can he prevent the onset of dark ages.
+actor.social_strata.dummy,Rakyat Biasa
+notification.sex_treason_with_dummy,{name_initiator} selingkuh dengan rakyat biasa dari pasangannya
+building.menu.building_resources,SUMBER DAYA BANGUNAN
+chancellery.inspection_bonus,Bonus produksi dari pemeriksaan setara dengan level keterampilan Manajemen tuan yang bertanggung jawab atas Kanselir: {bonus}%.
+menu.army.new_army.warriors_count,{warriors_count} Prajurit
+menu.army.new_army.weapons_count,{weapons_count} Senjata
+tech.poisoner,Rahasia Racun
+menu.building.church.morning_service_stat,STATISTIK KHOTBAH TERAKHIR
+menu.building.church.gathering_time,Waktu Berkumpul:
+menu.building.church.congregation,Jemaat:
+menu.building.church.sermons,KHOTBAH
+menu.buidling.church.fanatics,Fanatik: +{count}
+menu.buidling.church.agnostics,Agnostik: +{count}
+building.menu.workplace.clerks,PETUGAS
+building.menu.refill_auto,Isi Ulang Otomatis
+building.menu.inspections_delivered,Instruksi yang dikirim: {count}
+building.menu.living.residents,PENDUDUK ({current} / {max})
+building.menu.sold_today,TERJUAL HARI INI
+building.menu.guards,PENJAGA
+family.son_of,Putra dari
+family.daughter_of,Putri dari
+display_event.mountains_bandits_prepare_to_attack,Perampok sedang mempersiapkan serangan ke kota Anda
+actor.mood,Suasana Hati
+building.description.library,Di sini para tuan bekerja dengan pengetahuan
+building.description.decor,Menyenangkan untuk dilihat
+building.description.altar,Tempat upacara dan pembakaran
+building.menu.crimes_prevented,Kejahatan yang Dicegah
+norland.plot_day_4_header,Kekaisaran Baru
+norland.plot_day_4_body,"Peradaban menghilang secara bertahap. Proses ini bisa berlangsung berabad-abad dan warga biasa tidak menyadari apa pun hingga akhir. Tapi seorang penguasa yang berpengetahuan tentang sejarah harus memahami bahwa hanya dengan menyatukan kerajaan-kerajaan yang bertikai, ia bisa mencegah datangnya zaman kegelapan.
 
-Norland is now at a crossroads. The Church has long been unable to cope with the variety challenges its people face. Frequent wars, famine, and disease have become commonplace. Technologies and knowledge are not yet lost, but if nothing is done, they will soon disappear, and with them, civilization will vanish.
+Norland sekarang berada di persimpangan jalan. Gereja sudah lama tidak mampu mengatasi berbagai tantangan yang dihadapi rakyatnya. Perang yang sering, kelaparan, dan penyakit telah menjadi hal biasa. Teknologi dan pengetahuan belum hilang, tapi jika tidak ada yang dilakukan, mereka segera akan lenyap, dan bersamanya, peradaban akan lenyap.
 
-There is always hope, but for that, you must:
+Selalu ada harapan, tapi untuk itu, Anda harus:
 
-$ Unite <b>{goal_number}</b> Norland provinces under your control - either as a king of a vassal state or as the leader of a alliance of free cities.
-$ Proclaim yourself the new Emperor and challenge the Church's Inquisition."
-norland.plot.end_game_header,The New Empire: The Final Battle
-norland.plot.end_game,"""The map of Norland lies before me. On it - {goal_number} kings who obey me and respect me. It's time to take the crown of the empire and challenge the Church of Mother Sophia. When the Inquisition breaks its teeth on my army, the whole world will recognize me as Emperor, and the Faith Stone will fall at my feet. So, the final trial awaits.""
+$ Satukan <b>{goal_number}</b> provinsi Norland di bawah kendali Anda - baik sebagai raja negara vassal atau sebagai pemimpin aliansi kota bebas.
+$ Nyatakan diri Anda sebagai Kaisar baru dan tantang Inkuisisi Gereja."
+norland.plot.end_game_header,Kekaisaran Baru: Pertempuran Akhir
+norland.plot.end_game,"""Peta Norland terbentang di hadapan saya. Di atasnya - {goal_number} raja yang taat dan menghormati saya. Saatnya mengambil mahkota kekaisaran dan menantang Gereja Ibu Sophia. Ketika Inkuisisi mematahkan giginya pada pasukan saya, seluruh dunia akan mengakui saya sebagai Kaisar, dan Batu Iman akan jatuh di kaki saya. Jadi, ujian akhir menanti.""
 
-$ When you are ready, proclaim yourself the emperor of the new empire (king's action).
-$ Defeat the Holy Inquisition on the battlefield to secure the title and win the game."
-ambitions.province_under_control,"<b>The New Empire</b>
+$ Ketika Anda siap, nyatakan diri Anda sebagai kaisar kekaisaran baru (tindakan raja).
+$ Kalahkan Inkuisisi Suci di medan perang untuk mengamankan gelar dan memenangkan permainan."
+ambitions.province_under_control,"<b>Kekaisaran Baru</b>
 
-Unite <b>{goal_number}</b> provinces of Norland - either as the king of a vassal kingdom or as the leader of the alliance of free states.
+Satukan <b>{goal_number}</b> provinsi Norland - baik sebagai raja kerajaan vassal atau sebagai pemimpin aliansi negara bebas.
 
-Provinces under control: {under_control} / {total_province}"
-display_event.global_map_ai_ask_help,King {king_name} of {faction_name} asks for help against {danger_faction_name}
-display_event.global_map_ai_declare_peace,King {king_name} of {faction_name} proposes a peace treaty
-display_event.global_map_ai_invite_to_alliance,King {king_name} of {faction_name} offers to join the alliance
-main_menu.continue_without_tutorial,Start without tutorial
-display_event.build_library,Build a library
-main_menu.warning,Warning!
-display_event.retrieve_bishop,Bishop leaves province
-display_event.holy_family_below_zero,You have lost the favour of the Matriarch!
-resource.product_requirement.technology,Study the technology <b>{technology}</b>
-resource.product_requirement.building,Build a building <b>{building}</b>
-main_menu.continue_start_tutorial,Start with tutorial
-main_menu.new_game.family.members.default,Two brothers and a wife
-actor.faction_from,from {town}
-new_game.province_difficulty.easy,Easy
+Provinsi di bawah kendali: {under_control} / {total_province}"
+display_event.global_map_ai_ask_help,Raja {king_name} dari {faction_name} meminta bantuan melawan {danger_faction_name}
+display_event.global_map_ai_declare_peace,Raja {king_name} dari {faction_name} mengusulkan perjanjian damai
+display_event.global_map_ai_invite_to_alliance,Raja {king_name} dari {faction_name} menawarkan bergabung dengan aliansi
+main_menu.continue_without_tutorial,Mulai tanpa tutorial
+display_event.build_library,Bangun perpustakaan
+main_menu.warning,Peringatan!
+display_event.retrieve_bishop,Uskup meninggalkan provinsi
+display_event.holy_family_below_zero,Anda telah kehilangan kasih sayang Matriarch!
+resource.product_requirement.technology,Pelajari teknologi <b>{technology}</b>
+resource.product_requirement.building,Bangun bangunan <b>{building}</b>
+main_menu.continue_start_tutorial,Mulai dengan tutorial
+main_menu.new_game.family.members.default,Dua saudara dan seorang istri
+actor.faction_from,dari {town}
+new_game.province_difficulty.easy,Mudah
 new_game.province_difficulty.normal,Normal
-new_game.province_difficulty.hard,Hard
-new_game.province_difficulty.recommended,Recommended for beginner players
-display_event.loan_will_be_expired_soon,Need to pay back {faction_name} soon
-main_menu.new_game.family.recommended_for_newbs,Recommended skill settings for a balanced game
-new_game.province_difficulty.header,Difficulty:
-secret_deals_effect,<b>{secret_deals_knowledge}</b>: <green>Neighbourly relations won't go bad</green>.
-building.menu.terror_fanatics,Fanatics {count}
-global_map.relation_aftermath,$ Relationship with neighbors: <red>{rel_de}</red>
-global_map.relation_aftermath_with_soul,$ Relationship with {soul_uuid_king}: <red>{rel_de}</red>
-global_map.aftermath,<b>Consequences</b>:
-tech.kaiden_army,Kaiden Army
-tech.makha_trade,Makha trade
-tech.makha_fanatic_terror,Fanatics terror
-tech.econom_writing,Cost-effective writing
-tech.faith_defender,Faith defence
-tech.kaiden_training,Kaiden training
-tech.kaiden_loyalist,Eternal Loyalists
-tech.makha_secret_deals,Secret deals
-display_event.holy_protection_will_removed_soon,The Protection of the Loving Family will soon be lifted!
-display_event.holy_protection_was_removed,The Protection of the Loving Family has been lifted!
-display_event.holy_protection,The Protection of the Loving Family
-display_event.swede_typh_allowed,Rutabaga Typhus
-tutorial_events.disabled,Disabled
-tutorial_events.articles_only,Articles only
-tutorial_events.articles_and_advices,Articles and Advice
-soul.from_faction,{soul_uuid} from {faction_uuid}
-gui.living_place.appoint.header,Populate
-actor.loyalty_2,Loyalty
-actor.important_persons,IMPORTANT PERSONS
-encyclopedia.popup_window.okay,Got it
-encyclopedia.popup_window.read_full,Next
-actor.opinion.interest_simple,Interest
-free_lord.first_hire,{first_hire_discount}% discount on first hire
-menu.knowledge.longer_time,"Due to low learning skills, it takes longer to learn!
+new_game.province_difficulty.hard,Sulit
+new_game.province_difficulty.recommended,Direkomendasikan untuk pemain pemula
+display_event.loan_will_be_expired_soon,Perlu membayar kembali {faction_name} segera
+main_menu.new_game.family.recommended_for_newbs,Pengaturan keterampilan yang direkomendasikan untuk permainan seimbang
+new_game.province_difficulty.header,Kesulitan:
+secret_deals_effect,<b>{secret_deals_knowledge}</b>: <green>Hubungan tetangga tidak akan memburuk</green>.
+building.menu.terror_fanatics,Fanatik {count}
+global_map.relation_aftermath,$ Hubungan dengan tetangga: <red>{rel_de}</red>
+global_map.relation_aftermath_with_soul,$ Hubungan dengan {soul_uuid_king}: <red>{rel_de}</red>
+global_map.aftermath,<b>Akibat</b>:
+tech.kaiden_army,Tentara Kaiden
+tech.makha_trade,Perdagangan Makha
+tech.makha_fanatic_terror,Teror Fanatik
+tech.econom_writing,Penulisan Hemat Biaya
+tech.faith_defender,Pertahanan Iman
+tech.kaiden_training,Pelatihan Kaiden
+tech.kaiden_loyalist,Pengikut Setia Abadi
+tech.makha_secret_deals,Kesepakatan Rahasia
+display_event.holy_protection_will_removed_soon,Perlindungan Keluarga yang Penuh Kasih segera dicabut!
+display_event.holy_protection_was_removed,Perlindungan Keluarga yang Penuh Kasih telah dicabut!
+display_event.holy_protection,Perlindungan Keluarga yang Penuh Kasih
+display_event.swede_typh_allowed,Tifus Rutabaga
+tutorial_events.disabled,Dinonaktifkan
+tutorial_events.articles_only,Hanya Artikel
+tutorial_events.articles_and_advices,Artikel dan Saran
+soul.from_faction,{soul_uuid} dari {faction_uuid}
+gui.living_place.appoint.header,Pendudukan
+actor.loyalty_2,Loyalitas
+actor.important_persons,ORANG PENTING
+encyclopedia.popup_window.okay,Mengerti
+encyclopedia.popup_window.read_full,Lanjut
+actor.opinion.interest_simple,Bunga
+free_lord.first_hire,Diskon {first_hire_discount}% untuk perekrutan pertama
+menu.knowledge.longer_time,"Karena keterampilan belajar rendah, butuh waktu lebih lama untuk belajar!
 
-Knowledge level {tech_level}
-Lord level {lord_level}"
-menu.knowledge.write_time,Writing a book will take <b>{learn_time}h</b>
-menu.knowledge.learn_time,$ Studying this book will take <b>{learn_time}h</b>
-building.patrol_sign_day,Day Patrol
-tech.slaves_contain,Keeping prisoners
-time.days,{days}d
-actor.action_task.spent_time_diplomacy,Envoy's Visit
-display_event.culture_approve,{culture} approves of the king's actions
-menu.trade.less_tax_for_amy,"*Thanks to the Faith Defense knowledge, the tax is reduced by {discount}%"
-menu.army.tax_for_soldier,"<b>Upon hiring this warrior</b>
-$ Based on his Combat skill, the <hint=hint_tutorial_church_tax>Church's tax on your army</hint> will increase by <hint=hint_resource_gold>{soldier_tax}</hint>. The total tax is now <hint=hint_resource_gold>{overal_tax}</hint> per day."
-options_menu.game.camera_speed,CAMERA SPEED
-actor.action_task.wise_talk,Wise conversation
-display_event.senility_begin,{name}: fell into senile dementia!
-display_event.character_loss_skill_trait,"{name}: as a result of skill {skill_name} degradation, the talent {trait_name} has been lost"
-display_event.character_loss_knowledge,{name}: as a result of aging forgot {knowledge}
-knowledge.unavailable_knowledge,Unavailable Knowledge
-building.menu.mine_resources,RESERVES
-building.menu.mine_mined,Iron mined: {mined} / {limit}
-display_event.mine.limit_reached,The mine's reserves are exhausted
-display_event.mine.limit_soon,The mine is depleting
-display_event.fetility_loss_from_tree,The soil fertility has decreased
-statistics_menu.province.resources,Provincial resources
-statistics_menu.province.trees_cuted,Forests cut down:
-statistics_menu.province.ground_fertility,Soil fertility:
-statistics_menu.province.iron_mines,Iron deposit
-statistics_menu.province.no_mine,The Mine is not built:
-trade_agreements.header,Trade Agreements
-trade_agreements.today_balance,Trade Today:
-trade_agreements.auto_trade,Trade Automatically
-trade_agreements.no_trade_agreements,You have no active trade contracts
-statistics_menu.province.mine_n,Mine {n}:
-statistics_menu.province.not_builded,Not built
-knowledge.category.economic,Economic
-knowledge.category.textbooks,Textbooks
-knowledge.category.cultural_knowledge,Cultural knowledge
-display_event.character_loss_skill,{name}: the skill {skill_name} has degraded to level {level} due to aging
-menu.tools.hint.trade_agreements,Trade
-display_event.trade_agreements_result,Foreign Trade Report
-menu.trade.market_saturation.header,Market Saturation
-menu.trade.market_saturation.saturation,<hint=hint_trade_dynamic_prices>Market Saturation</hint> with the Product:
-menu.trade.market_saturation.price,The impact of saturation on the price:
+Tingkat pengetahuan {tech_level}
+Tingkat tuan {lord_level}"
+menu.knowledge.write_time,Menulis buku akan memakan waktu <b>{learn_time} jam</b>
+menu.knowledge.learn_time,$ Mempelajari buku ini akan memakan waktu <b>{learn_time} jam</b>
+building.patrol_sign_day,Patroli Siang
+tech.slaves_contain,Menjaga tahanan
+time.days,{days} hari
+actor.action_task.spent_time_diplomacy,Kunjungan Utusan
+display_event.culture_approve,{culture} menyetujui tindakan raja
+menu.trade.less_tax_for_amy,"*Berkat pengetahuan Pertahanan Iman, pajak dikurangi sebesar {discount}%"
+menu.army.tax_for_soldier,"<b>Setelah merekrut prajurit ini</b>
+$ Berdasarkan keterampilan Bertarungnya, <hint=hint_tutorial_church_tax>pajak Gereja terhadap pasukan Anda</hint> akan meningkat sebesar <hint=hint_resource_gold>{soldier_tax}</hint>. Total pajak sekarang <hint=hint_resource_gold>{overal_tax}</hint> per hari."
+options_menu.game.camera_speed,KECEPATAN KAMERA
+actor.action_task.wise_talk,Percakapan Bijak
+display_event.senility_begin,{name}: jatuh ke dalam demensia senil!
+display_event.character_loss_skill_trait,"{name}: akibat degradasi keterampilan {skill_name}, bakat {trait_name} telah hilang"
+display_event.character_loss_knowledge,{name}: akibat penuaan lupa {knowledge}
+knowledge.unavailable_knowledge,Pengetahuan Tidak Tersedia
+building.menu.mine_resources,CADANGAN
+building.menu.mine_mined,Besi ditambang: {mined} / {limit}
+display_event.mine.limit_reached,Cadangan tambang telah habis
+display_event.mine.limit_soon,Tambang sedang menipis
+display_event.fetility_loss_from_tree,Kesuburan tanah telah menurun
+statistics_menu.province.resources,Sumber Daya Provinsi
+statistics_menu.province.trees_cuted,Hutan yang ditebang:
+statistics_menu.province.ground_fertility,Kesuburan Tanah:
+statistics_menu.province.iron_mines,Endapan Besi
+statistics_menu.province.no_mine,Tambang belum dibangun:
+trade_agreements.header,Perjanjian Perdagangan
+trade_agreements.today_balance,Perdagangan Hari Ini:
+trade_agreements.auto_trade,Perdagangan Otomatis
+trade_agreements.no_trade_agreements,Anda tidak memiliki kontrak perdagangan aktif
+statistics_menu.province.mine_n,Tambang {n}:
+statistics_menu.province.not_builded,Belum Dibangun
+knowledge.category.economic,Ekonomi
+knowledge.category.textbooks,Buku Teks
+knowledge.category.cultural_knowledge,Pengetahuan Budaya
+display_event.character_loss_skill,{name}: keterampilan {skill_name} telah menurun ke level {level} akibat penuaan
+menu.tools.hint.trade_agreements,Perdagangan
+display_event.trade_agreements_result,Laporan Perdagangan Luar Negeri
+menu.trade.market_saturation.header,Kejenuhan Pasar
+menu.trade.market_saturation.saturation,<hint=hint_trade_dynamic_prices>Kejenuhan Pasar</hint> dengan Produk:
+menu.trade.market_saturation.price,Dampak kejenuhan terhadap harga:
 menu.trade.market_saturation.relaxaction,Daily consumption:
 menu.trade.market_saturation.warning,"<red>The offer has exceeded the <hint=hint_market_volume>local demand</hint>, leading to a market saturation and a reduction of price!</red>"
 display_event.new_prophecy,Matriarch: New Prophecy

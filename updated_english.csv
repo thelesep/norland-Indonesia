@@ -1476,628 +1476,628 @@ display_event.trade_agreements_result,Laporan Perdagangan Luar Negeri
 menu.trade.market_saturation.header,Kejenuhan Pasar
 menu.trade.market_saturation.saturation,<hint=hint_trade_dynamic_prices>Kejenuhan Pasar</hint> dengan Produk:
 menu.trade.market_saturation.price,Dampak kejenuhan terhadap harga:
-menu.trade.market_saturation.relaxaction,Daily consumption:
-menu.trade.market_saturation.warning,"<red>The offer has exceeded the <hint=hint_market_volume>local demand</hint>, leading to a market saturation and a reduction of price!</red>"
-display_event.new_prophecy,Matriarch: New Prophecy
-display_event.prophecy_started,The prophecy has come true! {prophecy}
-prophecy.wolf_attack,Fleshwolf Invasion
-prophecy.bandits_capm,Army of Deserters
-prophecy.fields_sick_one,Crop Infection
-prophecy.cholera_epidemy,Smallpox Epidemic
-prophecy.xenophoby,Xenophobia Outbreak
-prophecy.crocks_wave,Invasion of Vagabonds
-prophecy.fanatics_wave,Yellow Fanatics
-prophecy.fields_sick_all,Hungry Days
-prophecy.tree_bug,Wood Beetle
-prophecy.rats_invasion,Rat Invasion
-display_event.prophecy_soon,The prophecy will soon come true: {prophecy}
-display_event.prophecy_complete,The disaster has ended: {prophecy}
-prophecy.matriarch.soon_prophecy_1,"The Matriarch predicts that in {d1}-{d2} days, your province will be struck by a disaster <b>{prophecy}</b>"
-prophecy.matriarch.soon_prophecy_2,"The Matriarch predicts that in {d2} days, your province will be struck by a disaster <b>{prophecy}</b>"
-prophecy.matriarch.letter_caption,Prophecy
-prophecy.matriarch.letter_text,"In {d1}-{d2} days, the Church's seers expect the following disaster in your lands:"
-display_event.prophecy_soon_unknown,Rumors of an imminent disaster
-opinion_mind.interest_to,Interest to {name_2}:
-opinion_mind.interest_of_me,Interest {name_2} to me:
-opinion_mind.interest_sex_ready,<center>{name_1} is <green>ready</green> to go on a date with {name_2} (Interest {interest_sign} <green>{interest_threshold}</green>)</center>
-opinion_mind.interest_sex_not_ready,<center>{name_1} is <red>not ready</red> to go on a date with {name_2} (Interest {interest_sign} <red>{interest_threshold}</red>)</center>
-display_event.market_depth_increased,The market volume for all goods has increased
-building.menu.escape_prevented,Escapes Prevented
-mutator.no_prophecy,No prophecies
-display_notification.auto_trade,Sending messengers for trade agreements
-knowledge.blocked_reason.production_building_count,{count} production buildings built
-display_tooltip.pause,PAUSE
-menu.knowledge.culture_knowledge,Knowledge of {culture_name} culture.
-statistics_menu.province.market_depth.header,External Market
-statistics_menu.province.market_depth.additional_depth,Additional <hint=hint_market_volume_bonus>market volume</hint>: {percent}%
-display_event.old_age_begin,{name}: became old
-display_event.contraband_begin,Speculation Detected
-statistics_menu.contraband_label,Speculation
-decor.dark_altar,Gibbet
-decor.dark_cage,Cage
-decor.dark_garbage,Bloody rag
-decor.dark_stake_with_head,Punished
-decor.dark_statue_sculls,Admonition
-decor.dark_statue_skeleton,Dead god
+menu.trade.market_saturation.relaxaction,Konsumsi Harian:
+menu.trade.market_saturation.warning,"<red>Penawaran telah melebihi <hint=hint_market_volume>permintaan lokal</hint>, menyebabkan saturasi pasar dan penurunan harga!</red>"
+display_event.new_prophecy,Matriark: Nubuat Baru
+display_event.prophecy_started,Nubuat telah terwujud! {prophecy}
+prophecy.wolf_attack,Invasi Fleshwolf
+prophecy.bandits_capm,Pasukan Deserter
+prophecy.fields_sick_one,Infeksi Tanaman
+prophecy.cholera_epidemy,Wabah Cacar
+prophecy.xenophoby,Ledakan Xenofobia
+prophecy.crocks_wave,Invasi Pengembara
+prophecy.fanatics_wave,Fanatik Kuning
+prophecy.fields_sick_all,Hari-Hari Kelaparan
+prophecy.tree_bug,Kumbang Kayu
+prophecy.rats_invasion,Invasi Tikus
+display_event.prophecy_soon,Nubuat akan segera terwujud: {prophecy}
+display_event.prophecy_complete,Bencana telah berakhir: {prophecy}
+prophecy.matriarch.soon_prophecy_1,"Matriark meramalkan bahwa dalam {d1}-{d2} hari, provinsi Anda akan dilanda bencana <b>{prophecy}</b>"
+prophecy.matriarch.soon_prophecy_2,"Matriark meramalkan bahwa dalam {d2} hari, provinsi Anda akan dilanda bencana <b>{prophecy}</b>"
+prophecy.matriarch.letter_caption,Nubuat
+prophecy.matriarch.letter_text,"Dalam {d1}-{d2} hari, peramal Gereja mengharapkan bencana berikut di tanah Anda:"
+display_event.prophecy_soon_unknown,Rumor tentang bencana yang akan segera datang
+opinion_mind.interest_to,Ketertarikan terhadap {name_2}:
+opinion_mind.interest_of_me,Ketertarikan {name_2} terhadap saya:
+opinion_mind.interest_sex_ready,<center>{name_1} <green>siap</green> untuk kencan dengan {name_2} (Ketertarikan {interest_sign} <green>{interest_threshold}</green>)</center>
+opinion_mind.interest_sex_not_ready,<center>{name_1} <red>belum siap</red> untuk kencan dengan {name_2} (Ketertarikan {interest_sign} <red>{interest_threshold}</red>)</center>
+display_event.market_depth_increased,Volume pasar untuk semua barang telah meningkat
+building.menu.escape_prevented,Pelarian Dicegah
+mutator.no_prophecy,Tidak Ada Nubuat
+display_notification.auto_trade,Mengirim utusan untuk perjanjian perdagangan
+knowledge.blocked_reason.production_building_count,{count} bangunan produksi dibangun
+display_tooltip.pause,JEDA
+menu.knowledge.culture_knowledge,Pengetahuan tentang budaya {culture_name}.
+statistics_menu.province.market_depth.header,Pasar Eksternal
+statistics_menu.province.market_depth.additional_depth,Volume pasar tambahan <hint=hint_market_volume_bonus>:</hint> {percent}%
+display_event.old_age_begin,{name}: menjadi tua
+display_event.contraband_begin,Spekulasi Terdeteksi
+statistics_menu.contraband_label,Spekulasi
+decor.dark_altar,Pemanggangan
+decor.dark_cage,Kandang
+decor.dark_garbage,Kain Berdarah
+decor.dark_stake_with_head,Dihukum
+decor.dark_statue_sculls,Peringatan
+decor.dark_statue_skeleton,Tuhan Mati
 decor.dark_statue_wolf,Totem
-decor.dark_tree,Dead tree
-decor.dark_tree_2,Stripped tree
-decor.dark_tree_3,Stump
-decor.sub.dark,Intimidation
-options_menu.audio.master_volume,MASTER VOLUME
-options_menu.audio.video_volume,VIDEO VOLUME
-decor.sub.dark_2,Bones
-actor.part_of_nature.trader,Trader
-display_event.forest_bandits_will_attack_soon,Rumors: forest bandits plan an attack
-menu.trade.vassal_tax_from_player,"Population: {pop} people
+decor.dark_tree,Pohon Mati
+decor.dark_tree_2,Pohon Telanjang
+decor.dark_tree_3,Tunggul
+decor.sub.dark,Intimidasi
+options_menu.audio.master_volume,VOLUME UTAMA
+options_menu.audio.video_volume,VOLUME VIDEO
+decor.sub.dark_2,Tulang
+actor.part_of_nature.trader,Pedagang
+display_event.forest_bandits_will_attack_soon,Rumor: perampok hutan merencanakan serangan
+menu.trade.vassal_tax_from_player,"Populasi: {pop} orang
 
-<b>Total tax amount per day:</b> <hint=hint_resource_gold>{sum}</hint>"
-menu.trade.vassal_tax_to_player_line,"{faction_uuid}: population {pop} people, tax <hint=hint_resource_gold>{sum}</hint>
+<b>Total jumlah pajak per hari:</b> <hint=hint_resource_gold>{sum}</hint>"
+menu.trade.vassal_tax_to_player_line,"{faction_uuid}: populasi {pop} orang, pajak <hint=hint_resource_gold>{sum}</hint>
 "
-menu.trade.vassal_tax_to_player_result,<b>Total tax amount per day:</b> <hint=hint_resource_gold>{sum}</hint>
-actor.action_task.garant_wakeup,The character is guaranteed to wake up thanks to the trait <hint=hint_anxious>anxious</hint>.
-actor.hint.injury.courage_threshold,<hint=hint_moral_level>Сourage threshold:</hint> {number}
-video.sub1,"Nearly two hundred years have passed "
-video.sub2,since the end of the devastating religious war.
-video.sub3,"The Empire fell,"
-video.sub4,and its former provinces eventually became barbaric kingdoms.
-video.sub5,"The Church managed to revive hope,"
-video.sub6,and peace and prosperity reigned over the ruins of the former civilization.
-video.sub7,"Over time, the influence of the church only grew."
-video.sub8,"But history is cyclical, and power cannot remain in one set of hands for long. "
-video.sub9,Wars between kingdoms flare up one after another.
-video.sub10,"Hunger and poverty force people to abandon their homes "
-video.sub11,and seek refuge in neighboring settlements.
-video.sub12,"Can your dynasty unite the kingdoms "
-video.sub13,and halt the advance of the dark ages?
-video.sub14,"From this moment on, history is written by you."
-game.end.body,"In your settlement, there are no adult lords left capable of giving sensible instructions.
+menu.trade.vassal_tax_to_player_result,<b>Total jumlah pajak per hari:</b> <hint=hint_resource_gold>{sum}</hint>
+actor.action_task.garant_wakeup,Karakter dijamin bangun berkat sifat <hint=hint_anxious>cemas</hint>.
+actor.hint.injury.courage_threshold,<hint=hint_moral_level>Ambang keberanian:</hint> {number}
+video.sub1,"Hampir dua ratus tahun telah berlalu "
+video.sub2,sejak akhir perang agama yang menghancurkan.
+video.sub3,"Kekaisaran jatuh,"
+video.sub4,dan mantan provinsinya akhirnya menjadi kerajaan barbar.
+video.sub5,"Gereja berhasil menghidupkan kembali harapan,"
+video.sub6,dan perdamaian serta kemakmuran memerintah di atas reruntuhan peradaban lama.
+video.sub7,"Seiring waktu, pengaruh gereja semakin bertambah."
+video.sub8,"Tetapi sejarah bersifat siklikal, dan kekuasaan tidak bisa tetap di tangan satu kelompok untuk waktu lama. "
+video.sub9,Perang antar kerajaan meletus satu demi satu.
+video.sub10,"Kelaparan dan kemiskinan memaksa orang meninggalkan rumah mereka "
+video.sub11,dan mencari perlindungan di pemukiman tetangga.
+video.sub12,"Bisakah dinasti Anda menyatukan kerajaan-kerajaan "
+video.sub13,dan menghentikan kemajuan zaman kegelapan?
+video.sub14,"Mulai saat ini, sejarah ditulis oleh Anda."
+game.end.body,"Di pemukiman Anda, tidak ada lagi tuan tanah dewasa yang mampu memberikan instruksi masuk akal.
 
-All underage lords will be adopted by the Church and will merge into its ranks.
+Semua tuan tanah di bawah umur akan diadopsi oleh Gereja dan bergabung ke dalam barisannya.
 
-With this, the story of your noble family is concluded."
-game.end.caption,You've lost!
-building.menu.paper_in_stock,"Papers in stock: 
+Dengan ini, cerita keluarga bangsawan Anda berakhir."
+game.end.caption,Anda kalah!
+building.menu.paper_in_stock,"Kertas di stok: 
 {current} / {need}"
-notification.insight.text,"The character suddenly realized that they possess the following knowledge:
+notification.insight.text,"Karakter tiba-tiba menyadari bahwa mereka memiliki pengetahuan berikut:
 
 <b>{knowledge_name}</b>"
-actor.action_task.punish.free_lord,<red>Unreasonable punishment of a free lord will lead to condemnation from neighbors</red>
-display_event.heir_can_soon_rise,The heir {name} may soon rise!
-display_event.slaves_can_soon_rise,The prisoners may soon start a rebellion!
-display_event.loyalists_can_soon_rage,The loyalists might start a massacre!
-display_event.soldiers_deserting,Your warriors are deserting the city!
-display_event.fanatics_can_soon_rise,Fanatics may soon start an uprising!
-display_event.bishop_can_soon_rise,The bishop may soon start a fanatics' uprising!
-mind.remain_time,Expires in {remain_time}
-unsupported_saves.header,Unsupported Save Files Detected
-unsupported_saves.body,"<b>Norland</b> is actively being developed and continuously improved. Unfortunately, we are not always able to maintain compatibility with older save files, especially while the game has not yet been released in early access.
+actor.action_task.punish.free_lord,<red>Hukuman tidak wajar terhadap tuan tanah bebas akan menyebabkan kecaman dari tetangga</red>
+display_event.heir_can_soon_rise,Ahli waris {name} mungkin segera bangkit!
+display_event.slaves_can_soon_rise,Para tahanan mungkin segera memulai pemberontakan!
+display_event.loyalists_can_soon_rage,Para loyalis mungkin memulai pembantaian!
+display_event.soldiers_deserting,Prajurit Anda sedang membelot dari kota!
+display_event.fanatics_can_soon_rise,Fanatik mungkin segera memulai pemberontakan!
+display_event.bishop_can_soon_rise,Uskup mungkin segera memulai pemberontakan fanatik!
+mind.remain_time,Berakhir dalam {remain_time}
+unsupported_saves.header,File Simpan Tidak Didukung Terdeteksi
+unsupported_saves.body,"<b>Norland</b> sedang dikembangkan secara aktif dan terus ditingkatkan. Sayangnya, kami tidak selalu bisa mempertahankan kompatibilitas dengan file simpan lama, terutama saat permainan belum dirilis dalam early access.
 
-All unsupported save files have been moved to the ""unsupported_saves"" folder.
+Semua file simpan tidak didukung telah dipindahkan ke folder ""unsupported_saves"".
 
-We apologize for any inconvenience."
-menu.construction.category.roads,Roads
-tooltip.construction.place_roads,Place the road
-tooltip.construction.remove_roads,Remove the road
-tooltip.construction.hold_shift.start,Hold
-tooltip.construction.hold_shift.end,for a straight line
-mutator.longlive,Longevity
-ambition.recommend_for_start,(Recommended)
-notification.lord_escaped,{name}: left province
-notification.messenger_escaped,Messenger left province
-notification.messenger_return,Messenger returned to province
-actor.status.back_to_home_town,Returning to their hometown
+Kami minta maaf atas ketidaknyamanan ini."
+menu.construction.category.roads,Jalan
+tooltip.construction.place_roads,Tempatkan jalan
+tooltip.construction.remove_roads,Hapus jalan
+tooltip.construction.hold_shift.start,Tahan
+tooltip.construction.hold_shift.end,untuk garis lurus
+mutator.longlive,Umur Panjang
+ambition.recommend_for_start,(Direkomendasikan)
+notification.lord_escaped,{name}: meninggalkan provinsi
+notification.messenger_escaped,Utusan meninggalkan provinsi
+notification.messenger_return,Utusan kembali ke provinsi
+actor.status.back_to_home_town,Kembali ke kampung halaman
 actor.status.action_task_in_process,{order_name}
-army.status.attack_in_process,Attacks {target_name}
-army.status.reinforcement_in_process,Reinforcements for {target_name}
-mind.remain_time_exhaustion,Death from hunger in: {remain_time_hours} hours.
-mind.remain_time_starvation,Time until physical exhaustion: {remain_time_hours} hours.
-display_event.soul_missing,{name}: Missing
-ceremony.emperor_coronation,Coronation of Emperor
-statistics.peoples.line.mood,Mood
-statistics.peoples.line.capital,Capital
-statistics.peoples.line.sick,Sick People
-statistics.peoples.line.hungry,Hungry People
-statistics.peoples.line.strongly_tired,Severely Tired
-statistics.peoples.line.homeless,Homeless
-statistics.peoples.line.fanatics,Fanatics
-statistics.peoples.line.nectar_addicted,Nectar Addicted
-statistics.peoples.line.loyalists,Loyalists
-statistics.peoples.category.happiness,HAPPINESS
-statistics.peoples.category.groups,GROUPS
-statistics.peoples.category.cultures,CULTURES
-trade.soldiers_tax.caption,Tax on warriors
-trade.vassal_tax.to_player,Tribute from your vassals
-trade.vassal_tax.from_player,Tribute to your suzerain
-actor.action_task.emperor_coronation,Declare Yourself Emperor
-statistics.tab.resources,Resources
-statistics.tab.peoples,People
-display_event.emperor_inquizition_soon,The Inquisition is on its way
-statistics.resources.category.currency,CURRENCY
-statistics.resources.category.food_and_drinks,FOOD AND DRINKS
-statistics.resources.category.extracted,EXTRACTED RESOURCES
-statistics.resources.category.manufactured,MANUFACTURED RESOURCES
-statistics.resources.category.weapon_and_armor,WEAPONS AND ARMOR
-statistics.resources.special_hint.consumed,Consumed by Lords and Prisoners
-menu.ending.titile.emperor.fail,Defeat!
-menu.ending.text.emperor.fail,"You could not withstand the Inquisition.
+army.status.attack_in_process,Menyerang {target_name}
+army.status.reinforcement_in_process,Penguatan untuk {target_name}
+mind.remain_time_exhaustion,Kematian akibat kelaparan dalam: {remain_time_hours} jam.
+mind.remain_time_starvation,Waktu hingga kelelahan fisik: {remain_time_hours} jam.
+display_event.soul_missing,{name}: Hilang
+ceremony.emperor_coronation,Penobatan Kaisar
+statistics.peoples.line.mood,Suasana Hati
+statistics.peoples.line.capital,Ibu Kota
+statistics.peoples.line.sick,Orang Sakit
+statistics.peoples.line.hungry,Orang Kelaparan
+statistics.peoples.line.strongly_tired,Sangat Lelah
+statistics.peoples.line.homeless,Tanpa Tempat Tinggal
+statistics.peoples.line.fanatics,Fanatik
+statistics.peoples.line.nectar_addicted,Kecanduan Nektar
+statistics.peoples.line.loyalists,Loyalis
+statistics.peoples.category.happiness,KEBAHAGIAAN
+statistics.peoples.category.groups,KELOMPOK
+statistics.peoples.category.cultures,BUDDYA
+trade.soldiers_tax.caption,Pajak pada prajurit
+trade.vassal_tax.to_player,Upeti dari bawahan Anda
+trade.vassal_tax.from_player,Upeti kepada atasan Anda
+actor.action_task.emperor_coronation,Nyatakan Diri Anda sebagai Kaisar
+statistics.tab.resources,Sumber Daya
+statistics.tab.peoples,Rakyat
+display_event.emperor_inquizition_soon,Inkuisisi sedang dalam perjalanan
+statistics.resources.category.currency,MATA UANG
+statistics.resources.category.food_and_drinks,MAKANAN DAN MINUMAN
+statistics.resources.category.extracted,Sumber Daya yang Diekstrak
+statistics.resources.category.manufactured,Sumber Daya Manufaktur
+statistics.resources.category.weapon_and_armor,SENJATA DAN BAJU ZIRAH
+statistics.resources.special_hint.consumed,Dikonsumsi oleh Tuan dan Tahanan
+menu.ending.titile.emperor.fail,Kekalahan!
+menu.ending.text.emperor.fail,"Anda tidak dapat menahan Inkuisisi.
 
-Your province is burned, your state dissolved, and all kings have learned their lesson and will not dare to challenge the Church for a long time.
+Provinsi Anda dibakar, negara Anda dibubarkan, dan semua raja telah belajar pelajaran mereka dan tidak akan berani menantang Gereja untuk waktu yang lama.
 
-To ensure that no one can oppose the Loving Family in the future, the Inquisition also burns all books and forbids literacy under the threat of death.
+Untuk memastikan bahwa tidak ada yang bisa menentang Keluarga Penuh Kasih di masa depan, Inkuisisi juga membakar semua buku dan melarang melek huruf di bawah ancaman kematian.
 
-Norland plunges into the abyss of the Dark Ages..."
-menu.ending.titile.emperor.win,Victory!
-menu.ending.text.emperor.win,"You have successfully founded a new empire and stripped the Church of its absolute power. The names of the kings in your dynasty will be recorded in the chronicles for centuries.
+Norland terjun ke jurang Zaman Kegelapan..."
+menu.ending.titile.emperor.win,Kemenangan!
+menu.ending.text.emperor.win,"Anda telah berhasil mendirikan kekaisaran baru dan merampas kekuasaan absolut Gereja. Nama-nama raja dalam dinasti Anda akan dicatat dalam kronik selama berabad-abad.
 
-The threat of the Dark Ages has passed, and a new dawn is rising."
-menu.ending.ok,End Game
-ambition.engame.emperor,"Proclaim your king Emperor and challenge the Loving Family to win the game.
+Ancaman Zaman Kegelapan telah berlalu, dan fajar baru sedang terbit."
+menu.ending.ok,Akhiri Permainan
+ambition.engame.emperor,"Umumkan raja Anda sebagai Kaisar dan tantang Keluarga Penuh Kasih untuk memenangkan permainan.
 
-(Action unlocked in your monarch's menu)"
-display_event.press_right_click_to_close,"$ Press <b>RMB</b> to close the message "
+(Aksi dibuka di menu monarki Anda)"
+display_event.press_right_click_to_close,"$ Tekan <b>RMB</b> untuk menutup pesan "
 encyclopedia.press_right_click_to_unpin," "
-display_event.soldier_tax_increased,Army tax increased
-menu.choose_province.extends_borders.header,Creation of States
+display_event.soldier_tax_increased,Pajak tentara ditingkatkan
+menu.choose_province.extends_borders.header,Pembentukan Negara
 menu.choose_province.extends_borders.body,"<img=hint_extends_borders></img>
-You can start the game as an independent province or immediately create your vassal kingdom by annexing neighbors.
+Anda dapat memulai permainan sebagai provinsi independen atau segera membuat kerajaan bawahan Anda dengan menganeksasi tetangga.
 
-To do this, click the <b>buttons on the borders.</b>
+Untuk melakukan ini, klik <b>tombol di perbatasan.</b>
 
-You can also create similar kingdoms for other kings by selecting their provinces and expanding their borders."
-actor.action.inspector.executor,SELECT MANAGER
-display_event.terror_no_more_criminal_and_jobless,Terror is getting out of control!
-actor.age.child,Small child
-actor.part_of_nature.king,Ruler
-actor.class.heavy_archers,Lvl. 13-17 Crossbowman in heavy armour
-mutator.iron_excess,Excess iron
-mutator.old_grudge,Old Grudges
-display_event.players_vassal_left,Your vassal {faction_name} is no longer part of the kingdom
-display_event.players_ally_left,Your ally {faction_name} is no longer part of the alliance
-main_menu.new_game.province.header.start,Start the game
-statistics_menu.province.no_iron_mines,There are no iron deposits.
-statistics.resources.category.currency.army_tax,Warrior tax
-statistics.resources.category.currency.tribute_from_your_vassals,Tribute from your vassals
-statistics.resources.category.currency.your_vassal_tribute,Your tribute to the suzerain
-actor.loyalty.no_changes,"Over the past 24 hours, loyalty has not changed"
-encyclopedia.press_right_click_to_pin,$ Press <b>RMB</b> to pin or unpin
+Anda juga dapat membuat kerajaan serupa untuk raja lain dengan memilih provinsi mereka dan memperluas perbatasan mereka."
+actor.action.inspector.executor,PILIH PENGELOLA
+display_event.terror_no_more_criminal_and_jobless,Teror semakin tidak terkendali!
+actor.age.child,Anak Kecil
+actor.part_of_nature.king,Penguasa
+actor.class.heavy_archers,Tingkat. 13-17 Pemanah Salib Berzirah Berat
+mutator.iron_excess,Besi Berlebih
+mutator.old_grudge,Dendam Lama
+display_event.players_vassal_left,Bawahan Anda {faction_name} tidak lagi bagian dari kerajaan
+display_event.players_ally_left,Sekutu Anda {faction_name} tidak lagi bagian dari aliansi
+main_menu.new_game.province.header.start,Mulai Permainan
+statistics_menu.province.no_iron_mines,Tidak ada endapan besi.
+statistics.resources.category.currency.army_tax,Pajak Prajurit
+statistics.resources.category.currency.tribute_from_your_vassals,Upeti dari bawahan Anda
+statistics.resources.category.currency.your_vassal_tribute,Upeti Anda kepada atasan
+actor.loyalty.no_changes,"Selama 24 jam terakhir, kesetiaan tidak berubah"
+encyclopedia.press_right_click_to_pin,$ Tekan <b>RMB</b> untuk menyematkan atau melepas sematan
 encyclopedia.press_lmb_to_mark_unread," "
-encyclopedia.press_lmb_to_mark_read,$ Press <b>LMB</b> to mark as read or unread
-building.menu.ordered,ORDERED
+encyclopedia.press_lmb_to_mark_read,$ Tekan <b>LMB</b> untuk menandai sebagai dibaca atau belum dibaca
+building.menu.ordered,DIPESESAN
 building.menu.bonus,BONUS
-building.menu.no_orders,No orders
-building.menu.order_line,{order_type}: <hint={resource_hint}>{resource_count}</hint>. Remaining: {produced_count}
-building.menu.status.raw_waiting,Waiting for resources from the province's warehouse
+building.menu.no_orders,Tidak Ada Pesanan
+building.menu.order_line,{order_type}: <hint={resource_hint}>{resource_count}</hint>. Sisa: {produced_count}
+building.menu.status.raw_waiting,Menunggu sumber daya dari gudang provinsi
 main_menu.wiki,Wiki
-menu.actor.free_lord,Free lord
-actor.stata.knight,Knight
-main_menu.external_links,External Links:
+menu.actor.free_lord,Tuan Bebas
+actor.stata.knight,Ksatria
+main_menu.external_links,Tautan Eksternal:
 main_menu.external_links.twitter,X (Twitter)
-main_menu.external_links.report_bug,Bug Report
-tutorial.enemy.attack,Attack
-video.endgame.sub1,The Crimson Throne is now yours.
-video.endgame.sub2,"The Church has lost its political power, and now you appoint the Matriarch."
-video.endgame.sub3,"The era of brutal wars has ended, and conflicts are now resolved solely by the emperor's court."
-video.endgame.sub4,"The forests are free of bandits, libraries no longer burn, and free trade flourishes."
-video.endgame.sub5,Nations have forgotten their disputes and engage in peaceful labor.
-video.endgame.sub6,"Yet one must remember that empires are not eternal, and ancient chronicles can tell us of their falls."
-video.endgame.sub7,Only a fool would claim to know what the gods have in store for us in the future.
-autosave_modes.two_in_one,2 times per day
-autosave_modes.one_in_one,1 time per day
-autosave_modes.one_in_two,1 time every 2 days
-video.endgame.sub8,"""The king's might is greater than human, and his arm is very long."" — Herodotus, Histories"
-actor.action_task.force_eat,Eat
-options_menu.game.autosave_modes,AUTOSAVE
-display_event.lord_want_to_kill_someone,{lord_name}: Planning a murder
-work.caravanner,Caravanner
-global_map.object.army.garrison,Army
-global_map.object.army.on_global_map,On global map
-global_map.object.army.nobody,NO ONE
-menu.tools.hint.menu,Pause
-main_menu.new_game.province.neighbours.ally,Ally
-main_menu.new_game.province.neighbours.vassal,Vassal
-main_menu.new_game.province.neighbours.suzrain,Suzerain
-main_menu.new_game.province.neighbours.alliance_leader,Head of Alliance
-main_menu.new_game.province.neighbours.independent,Independent
-main_menu.new_game.province.neighbours.pacifism.ambitious,Ambitious
-main_menu.new_game.province.neighbours.pacifism.random,Random
-main_menu.new_game.province.neighbours.town_sell,The city sells
-main_menu.new_game.province.neighbours.town_buy,The city buys
-main_menu.new_game.province.neighbours.sell.random,Randomly
-main_menu.new_game.province.player.village.1,First village
-main_menu.new_game.province.player.village.2,Second village
-main_menu.new_game.province.player.village.random,Random
-mutator.lazy_workers,Lazy workers
-building.status.inspection_inactive,Inactive
-advisor.wood,Not enough wood.
-advisor.alcohol,The peasants are too tired.
-advisor.nectar,Nectar is running low.
-advisor.housing,Not enough housing.
-advisor.tasks,The lord is too busy.
-advisor.patrols,Too many vagabonds in the city.
-advisor.scafod,Crimes go unresolved.
-advisor.low_money,The treasury is nearly empty.
-advisor.matriarch,The church is discontented.
-advisor.prestige,Prestige is low.
-advisor.teach_children,The children are not being educated.
-advisor.marry,It's time for the lord to marry.
-advisor.chancellery,We need a Chancellery.
-advisor.loyality,A lord's loyalty is decreasing.
-advisor.slaves_unhappy,The prisoners are unhappy.
-advisor.peasants_unhappy,Migration has stopped
-advisor.culture_unhappy,Members of some cultures are unhappy.
-advisor.warriros_unhappy,Warriors are unhappy.
-advisor.depression,A lord is in depression.
-advisor.feud,There is rivalry among lords.
-advisor.train_sodiers,Soldiers are not being trained.
-advisor.knowledge,Books are not being studied.
-advisor.produce_goods,Production is stagnant.
-advisor.homeless,A lord has no housing.
-advisor.efffective,A building could operate more efficiently.
-advisor.bandit_camp,A bandit camp is growing.
-advisor.dont_like,We have a dangerous neighbor.
-advisor.intrigues,An enemy is plotting.
-advisor.desire,A lord is consumed by desire.
-advisor.one_title,Only one title remains.
-advisor.enemy,An enemy is waiting for the right moment.
-advisor.slaves_hungry,The prisoners are starving.
-advisor.peasants_hungry,The peasants are starving.
-advisor.not_enought_tavernas,We need taverns.
-advisor.no_temples,We need temples.
-advisor.no_barracks,We need barracks.
-advisor.rutabaga_poison,Rutabaga Typhoid Epidemic
-advisor.inflamed_wound_lords,Inflamed wound
-advisor.inflamed_wound_warriors,Soldiers have inflamed wounds.
-advisor.free_lord_expire_soon,Contract expires.
-advisor.no_problems,There are no problems.
-advisor.no_tavernas,Taverns are not functioning.
-advisor.no_altar,People have nowhere to pray.
-advisor.no_allcohol_production,Alcohol production is absent.
-advisor.no_food_production,Food production is absent.
-advisor.upgrade_woorcutter,Our lumbermills need upgrading.
-advisor.small_army,We have a very weak army.
-advisor.low_fertility,We face a threat of reduced fertility.
-advisor.low_iron,Iron reserves are depleting.
-advisor.slaves_run,Prisoners are poorly guarded.
-advisor.no_work,There are many unemployed.
-advisor.contraband,Speculation is happening in the city.
-advisor.fanatics_rebellion,Fanatics close to uprising.
-advisor.bishop_rebellion,The bishop is planning an uprising.
-advisor.onboard_1,Build a Lumbermill.
-advisor.onboard_2,Harvest the Rye crop.
-advisor.onboard_3,Start making Flour.
-advisor.onboard_4,Harvest the Hops crop.
-advisor.onboard_5,Start brewing Beer.
-advisor.onboard_6,Build a Mine.
-advisor.onboard_7,Arrange a trade agreement.
-advisor.onboard_8,Reach a population of 40 people.
-advisor.onboard_9,Create a state.
-advisor.clerks,Clerks not assigned.
-advisor.no_paper,"The Chancellery is lacking Paper. "
-advisor.wolves,Fleshwolves are attacking workers.
-advisor.onboard_4_1,Hire a free lord.
-advisor.onboard_6_1,Start making Tools.
-advisor.emperor_coronation,Become the Emperor.
-advisor.desire_to_kill,The lord is planning a murder.
-trait.hint.risk_of_infection,Risk of infection remains.
+main_menu.external_links.report_bug,Laporan Bug
+tutorial.enemy.attack,Serang
+video.endgame.sub1,Takhta Merah sekarang milik Anda.
+video.endgame.sub2,"Gereja telah kehilangan kekuasaan politiknya, dan sekarang Anda menunjuk Matriark."
+video.endgame.sub3,"Era perang brutal telah berakhir, dan konflik sekarang diselesaikan hanya oleh pengadilan kaisar."
+video.endgame.sub4,"Hutan bebas dari perampok, perpustakaan tidak lagi dibakar, dan perdagangan bebas berkembang."
+video.endgame.sub5,Bangsa-bangsa telah melupakan perselisihan mereka dan terlibat dalam pekerjaan damai.
+video.endgame.sub6,"Namun, seseorang harus ingat bahwa kekaisaran tidak abadi, dan kronik kuno dapat memberi tahu kita tentang kejatuhan mereka."
+video.endgame.sub7,Hanya orang bodoh yang mengklaim tahu apa yang disiapkan para dewa untuk kita di masa depan.
+autosave_modes.two_in_one,2 kali per hari
+autosave_modes.one_in_one,1 kali per hari
+autosave_modes.one_in_two,1 kali setiap 2 hari
+video.endgame.sub8,"""Kekuatan raja lebih besar daripada manusia, dan lengannya sangat panjang."" — Herodotus, Sejarah"
+actor.action_task.force_eat,Makan
+options_menu.game.autosave_modes,SIMpan OTOMATIS
+display_event.lord_want_to_kill_someone,{lord_name}: Merencanakan Pembunuhan
+work.caravanner,Karavaner
+global_map.object.army.garrison,Tentara
+global_map.object.army.on_global_map,Di peta global
+global_map.object.army.nobody,TIDAK ADA SIAPA-PUN
+menu.tools.hint.menu,Jeda
+main_menu.new_game.province.neighbours.ally,Sekutu
+main_menu.new_game.province.neighbours.vassal,Bawahan
+main_menu.new_game.province.neighbours.suzrain,Atasan
+main_menu.new_game.province.neighbours.alliance_leader,Kepala Aliansi
+main_menu.new_game.province.neighbours.independent,Independen
+main_menu.new_game.province.neighbours.pacifism.ambitious,Ambisus
+main_menu.new_game.province.neighbours.pacifism.random,Acak
+main_menu.new_game.province.neighbours.town_sell,Kota menjual
+main_menu.new_game.province.neighbours.town_buy,Kota membeli
+main_menu.new_game.province.neighbours.sell.random,Secara Acak
+main_menu.new_game.province.player.village.1,Desa Pertama
+main_menu.new_game.province.player.village.2,Desa Kedua
+main_menu.new_game.province.player.village.random,Acak
+mutator.lazy_workers,Pekerja Malas
+building.status.inspection_inactive,Tidak Aktif
+advisor.wood,Kayu tidak cukup.
+advisor.alcohol,Para petani terlalu lelah.
+advisor.nectar,Nektar hampir habis.
+advisor.housing,Perumahan tidak cukup.
+advisor.tasks,Tuan terlalu sibuk.
+advisor.patrols,Terlalu banyak pengembara di kota.
+advisor.scafod,Kejahatan tidak terselesaikan.
+advisor.low_money,Perbendaharaan hampir kosong.
+advisor.matriarch,Gereja tidak puas.
+advisor.prestige,Prestise rendah.
+advisor.teach_children,Anak-anak tidak mendapat pendidikan.
+advisor.marry,Sudah waktunya tuan menikah.
+advisor.chancellery,Kita membutuhkan Kancelari.
+advisor.loyality,Kesetiaan seorang tuan menurun.
+advisor.slaves_unhappy,Para tahanan tidak bahagia.
+advisor.peasants_unhappy,Migrasi telah berhenti
+advisor.culture_unhappy,Anggota beberapa budaya tidak bahagia.
+advisor.warriros_unhappy,Prajurit tidak bahagia.
+advisor.depression,Seorang tuan sedang depresi.
+advisor.feud,Ada persaingan di antara tuan-tuan.
+advisor.train_sodiers,Prajurit tidak dilatih.
+advisor.knowledge,Buku tidak dipelajari.
+advisor.produce_goods,Produksi stagnan.
+advisor.homeless,Seorang tuan tidak punya perumahan.
+advisor.efffective,Sebuah bangunan bisa beroperasi lebih efisien.
+advisor.bandit_camp,Kemah perampok sedang berkembang.
+advisor.dont_like,Kita punya tetangga berbahaya.
+advisor.intrigues,Seorang musuh sedang merencanakan.
+advisor.desire,Seorang tuan diliputi hasrat.
+advisor.one_title,Hanya satu gelar yang tersisa.
+advisor.enemy,Seorang musuh menunggu momen yang tepat.
+advisor.slaves_hungry,Para tahanan kelaparan.
+advisor.peasants_hungry,Para petani kelaparan.
+advisor.not_enought_tavernas,Kita membutuhkan kedai minum.
+advisor.no_temples,Kita membutuhkan kuil.
+advisor.no_barracks,Kita membutuhkan barak.
+advisor.rutabaga_poison,Wabah Tifoid Rutabaga
+advisor.inflamed_wound_lords,Luka Meradang
+advisor.inflamed_wound_warriors,Prajurit punya luka meradang.
+advisor.free_lord_expire_soon,Kontrak berakhir.
+advisor.no_problems,Tidak ada masalah.
+advisor.no_tavernas,Kedai minum tidak berfungsi.
+advisor.no_altar,Orang-orang tidak punya tempat untuk berdoa.
+advisor.no_allcohol_production,Produksi alkohol tidak ada.
+advisor.no_food_production,Produksi makanan tidak ada.
+advisor.upgrade_woorcutter,Pabrik kayu kita perlu ditingkatkan.
+advisor.small_army,Kita punya tentara yang sangat lemah.
+advisor.low_fertility,Kita menghadapi ancaman penurunan kesuburan.
+advisor.low_iron,Cadangan besi sedang menipis.
+advisor.slaves_run,Para tahanan dijaga dengan buruk.
+advisor.no_work,Ada banyak pengangguran.
+advisor.contraband,Spekulasi sedang terjadi di kota.
+advisor.fanatics_rebellion,Fanatik hampir memberontak.
+advisor.bishop_rebellion,Uskup sedang merencanakan pemberontakan.
+advisor.onboard_1,Bangun Pabrik Kayu.
+advisor.onboard_2,Panen tanaman Rye.
+advisor.onboard_3,Mulai membuat Tepung.
+advisor.onboard_4,Panen tanaman Hops.
+advisor.onboard_5,Mulai meracik Bir.
+advisor.onboard_6,Bangun Tambang.
+advisor.onboard_7,Atur perjanjian perdagangan.
+advisor.onboard_8,Capai populasi 40 orang.
+advisor.onboard_9,Buat negara.
+advisor.clerks,Petugas tidak ditugaskan.
+advisor.no_paper,"Kancelari kekurangan Kertas. "
+advisor.wolves,Fleshwolf sedang menyerang pekerja.
+advisor.onboard_4_1,Rekrut tuan bebas.
+advisor.onboard_6_1,Mulai membuat Alat.
+advisor.emperor_coronation,Menjadi Kaisar.
+advisor.desire_to_kill,Tuan sedang merencanakan pembunuhan.
+trait.hint.risk_of_infection,Risiko infeksi masih ada.
 trait.infertility,Menopause
-trait.beauty_beautyful,Beautiful
-trait.beauty_pretty,Attractive
-trait.beauty_ugly,Unattractive
-trait.beauty_unpretty,Homely
-trait.beer_addiction,Alcohol dependence
+trait.beauty_beautyful,Cantik
+trait.beauty_pretty,Menarik
+trait.beauty_ugly,Tidak Menarik
+trait.beauty_unpretty,Biasa-biasa saja
+trait.beer_addiction,Ketergantungan Alkohol
 trait.beer_hangover,Hangover
-trait.blindness,Blinded
-trait.blood_poisoning,Gangrene
-trait.bruise,Bruise
-trait.bruise_light,Minor bruise
-trait.burglary,Burglary
-trait.burn_heavy,Severe burn
-trait.burn_light,Minor burn
-trait.burn_middle,Moderate burn
-trait.character_attack,Attack on a lord
-trait.cut,Cut
-trait.cut_down,Decapitated head
-trait.dead,Dead
-trait.deadly_fight,Attempted murder
-trait.deep_wound,Deep wound
-trait.doubting,Agnostic
-trait.dummy_bastard,Bastard born of a peasant
-trait.lord_bastard,Bastard of a lord
-trait.encephalitistrait,Encephalitis
-trait.exhalation,Exhausted
-trait.fatigue,Fatigued
-trait.fear_of_punishment,Fear of punishment
-trait.fight_with_king,Fight with the king
-trait.heavy_bleeding,Severe bleeding
-trait.homeless,Homeless
-trait.immobilization,Immobilized
-trait.injury_arm,Hand injury
-trait.injury_face,Facial injury
-trait.injury_leg,Leg injury
-trait.injury_rib,Rib injury
-trait.inspection_friendly,Received instructions
-trait.internal_bleeding,Internal bleeding
-trait.kid,Child
-trait.leprosy,Leprosy
-trait.loss_of_eye,Loss of an eye
-trait.loss_of_hand,Loss of a hand
-trait.love,Infatuated
-trait.medium_bleeding,Moderate bleeding
-trait.mortal_wound,Fatal wound
-trait.murder,Murder
-trait.murder_of_aristocrat,Murder of a lord
-trait.nectar_addiction,Nectar addiction
-trait.nectar_hangover,Nectar hangover
-trait.night_murder,Nighttime murder
-trait.night_murder_attempt,Attempted murder at night
-trait.oldman,Elderly
-trait.painful_shock,Pain shock
-trait.philosopher,Philosopher
-trait.poison_attempt,Attempted poisoning
-trait.poison_begin_stage,Early stage of poisoning
-trait.poison_middle_stage,Intermediate stage of poisoning
-trait.poison_last_stage,Final stage of poisoning
-trait.pregnant,Pregnant (Stage 1/3)
-trait.pregnant_medium,Pregnant (Stage 2/3)
-trait.pregnant_heavy,Pregnant (Stage 3/3)
-trait.religious_fanatic,Religious fanatic
-trait.robbery,Robbery
-trait.robbery_attempt,Attempted robbery
-trait.sin_abuse,Insulted
+trait.blindness,Buta
+trait.blood_poisoning,Gangren
+trait.bruise,Memar
+trait.bruise_light,Memar Ringan
+trait.burglary,Pencurian Rumah
+trait.burn_heavy,Luka Bakar Parah
+trait.burn_light,Luka Bakar Ringan
+trait.burn_middle,Luka Bakar Sedang
+trait.character_attack,Serangan terhadap tuan
+trait.cut,Luka Sayat
+trait.cut_down,Kepala Terpotong
+trait.dead,Mati
+trait.deadly_fight,Percobaan Pembunuhan
+trait.deep_wound,Luka Dalam
+trait.doubting,Agnostik
+trait.dummy_bastard,Anak Haram dari Petani
+trait.lord_bastard,Anak Haram dari Tuan
+trait.encephalitistrait,Ensefalitis
+trait.exhalation,Kehabisan Tenaga
+trait.fatigue,Lelah
+trait.fear_of_punishment,Takut Hukuman
+trait.fight_with_king,Bertarung dengan Raja
+trait.heavy_bleeding,Pendarahan Parah
+trait.homeless,Tanpa Tempat Tinggal
+trait.immobilization,Tidak Bisa Bergerak
+trait.injury_arm,Cedera Tangan
+trait.injury_face,Cedera Wajah
+trait.injury_leg,Cedera Kaki
+trait.injury_rib,Cedera Tulang Rusuk
+trait.inspection_friendly,Menerima Instruksi
+trait.internal_bleeding,Pendarahan Internal
+trait.kid,Anak
+trait.leprosy,Kusta
+trait.loss_of_eye,Kehilangan Mata
+trait.loss_of_hand,Kehilangan Tangan
+trait.love,Terpesona
+trait.medium_bleeding,Pendarahan Sedang
+trait.mortal_wound,Luka Mematikan
+trait.murder,Pembunuhan
+trait.murder_of_aristocrat,Pembunuhan Tuan
+trait.nectar_addiction,Kecanduan Nektar
+trait.nectar_hangover,Hangover Nektar
+trait.night_murder,Pembunuhan Malam Hari
+trait.night_murder_attempt,Percobaan Pembunuhan di Malam Hari
+trait.oldman,Lansia
+trait.painful_shock,Syok Nyeri
+trait.philosopher,Filsuf
+trait.poison_attempt,Percobaan Keracunan
+trait.poison_begin_stage,Tahap Awal Keracunan
+trait.poison_middle_stage,Tahap Menengah Keracunan
+trait.poison_last_stage,Tahap Akhir Keracunan
+trait.pregnant,Hamil (Tahap 1/3)
+trait.pregnant_medium,Hamil (Tahap 2/3)
+trait.pregnant_heavy,Hamil (Tahap 3/3)
+trait.religious_fanatic,Fanatik Agama
+trait.robbery,Perampokan
+trait.robbery_attempt,Percobaan Perampokan
+trait.sin_abuse,Dihina
 trait.sin_caption,{trait_name}
-trait.sin_criminal,Criminal
-trait.sin_cuthroat,Cutthroat
-trait.sin_fight,Fight
-trait.sin_forbidden_sex,Forbidden sex
-trait.sin_seduce,Seduction
-trait.sin_bribe,Bribe
-trait.sin_divorce,Divorce
-trait.sin_unfair_attack,Unfair attack
-trait.sin_dark_action,Dark deeds
-trait.slave,Prisoner
-trait.slave_roped,Bound
-trait.roped_by_thugs,Bound by assassins
-trait.slowness,Concussion
-trait.starvation,Starving
-trait.stunning,Dazed
-trait.terror,Victim of terror
-trait.unconscious,Unconscious
-trait.weak_bleeding,Minor bleeding
-trait.scars,Scarred
-trait.person,Personality
-trait.scars_ugly,Mutilated
-trait.tantrum,Nervous breakdown
-trait.throne_desire,Desire for the throne
-trait.inflamed_wound,Infected wound
-trait.sin_begin_terror,Initiated terror
-trait.sin_murder,Vile murder
-trait.sin_forbidden_child,Forbidden child
-trait.sin_evil_joke,Cruel joke
-trait.captive,Prisoner
-trait.early_bald,Early balding
-trait.bald,Bald
+trait.sin_criminal,Kriminal
+trait.sin_cuthroat,Pembunuh
+trait.sin_fight,Perkelahian
+trait.sin_forbidden_sex,Hubungan Seks Terlarang
+trait.sin_seduce,Rayuan
+trait.sin_bribe,Suap
+trait.sin_divorce,Perceraian
+trait.sin_unfair_attack,Serangan Tidak Adil
+trait.sin_dark_action,Perbuatan Gelap
+trait.slave,Tahanan
+trait.slave_roped,Terikat
+trait.roped_by_thugs,Terikat oleh Pembunuh Bayaran
+trait.slowness,Geger Otak
+trait.starvation,Kelaparan
+trait.stunning,Pusing
+trait.terror,Korban Teror
+trait.unconscious,Tidak Sadar
+trait.weak_bleeding,Pendarahan Ringan
+trait.scars,Berbekas Luka
+trait.person,Kepribadian
+trait.scars_ugly,Cacad
+trait.tantrum,Krisis Saraf
+trait.throne_desire,Keinginan untuk Takhta
+trait.inflamed_wound,Luka Terinfeksi
+trait.sin_begin_terror,Memulai Teror
+trait.sin_murder,Pembunuhan Keji
+trait.sin_forbidden_child,Anak Terlarang
+trait.sin_evil_joke,Lelucon Kejam
+trait.captive,Tahanan
+trait.early_bald,Kebotakan Awal
+trait.bald,Botak
 trait.savant,Savant
-trait.nervous,Nervous
-trait.stupidity,Mental impairment
-trait.hard_childbirth,Difficult childbirth
-trait.low_fertility,Low fertility
-trait.high_fertility,High fertility
+trait.nervous,Gugup
+trait.stupidity,Gangguan Mental
+trait.hard_childbirth,Kelahiran Sulit
+trait.low_fertility,Kesuburan Rendah
+trait.high_fertility,Kesuburan Tinggi
 trait.gay,Gay
-trait.bald,Balding
-trait.calm,Calm
-trait.addiction_resist,Resistance to addictions
-trait.empath,Empathetic
-trait.strong_will,Strong will
-trait.brave,Reckless
-trait.monogam,Monogamous
-trait.suggestible,Suggestible
-trait.addiction_low_resist,Tendency to addiction
-trait.home_tyran,Domestic tyrant
-trait.lustful,Lustful
-trait.envious,Envious
-trait.cynic,Cynical
-trait.gambler,Gambling addiction
-trait.ascet,Ascetic
-trait.contemptuous,Contemptuous
-trait.coward,Coward
-trait.gluttony,Gluttonous
-trait.drug_hater,Hatred of substances
-trait.misandrist,Misandrist
-trait.misagonist,Misogynist
-trait.blissful,Blissful
-trait.early_gray,Premature graying
-trait.sarcastic,Sarcastic
-trait.religious,Devout
-trait.pacifist,Pacifist
-trait.anxious,Anxious
-trait.fearless,Fearless
-trait.protector,City Defender
-trait.poisoner,Poisoner
-trait.cutter,Head chopper
-trait.charisma,Charismatic
-trait.precise_language,Precise Language
+trait.bald,Membotak
+trait.calm,Tenang
+trait.addiction_resist,Resistensi terhadap Kecanduan
+trait.empath,Empati
+trait.strong_will,Kekuatan Kemauan
+trait.brave,Ceroboh
+trait.monogam,Monogami
+trait.suggestible,Mudah Disarankan
+trait.addiction_low_resist,Kecenderungan Kecanduan
+trait.home_tyran,Tirani Rumah Tangga
+trait.lustful,Penuh Nafsu
+trait.envious,Iri Hati
+trait.cynic,Sinisme
+trait.gambler,Kecanduan Judi
+trait.ascet,Asketis
+trait.contemptuous,Meremehkan
+trait.coward,Penakut
+trait.gluttony,Rakus
+trait.drug_hater,Kebencian terhadap Zat
+trait.misandrist,Misantri
+trait.misagonist,Misoginis
+trait.blissful,Bahagia
+trait.early_gray,Uban Dini
+trait.sarcastic,Sarkastik
+trait.religious,Saleh
+trait.pacifist,Pasiifis
+trait.anxious,Cemas
+trait.fearless,Tak Takut
+trait.protector,Pembela Kota
+trait.poisoner,Pemberi Racun
+trait.cutter,Pemotong Kepala
+trait.charisma,Karismatik
+trait.precise_language,Bahasa Tepat
 trait.diplomat,Diplomat
-trait.forecaster,Forecaster
-trait.insightful,Insightful
-trait.combat_teacher,Combat instructor
-trait.greedy,Greedy
-trait.sublimation,Sublimation
-trait.disinhereted,Former heir
-trait.saint,Saint
-trait.determination,Test of resolve
-trait.depression,Depression
-trait.gray_head,Gray hair
-trait.swede_typh_st_1,Rutabaga Typhus - Initial stage
-trait.swede_typh_st_2,Rutabaga Typhus - Crisis
-trait.swede_typh_st_3,Rutabaga Typhus - Recovery
-trait.madness,Madness
-trait.light_cut,Slight cut
-trait.pierced_arm,Pierced arm
-trait.pierced_shoulder,Pierced shoulder
-trait.pierced_leg,Pierced leg
-trait.pierced_lung,Pierced lung
-trait.nectar_rage,Nectar madness
-trait.suspect,Criminal
-trait.criminal_intimidated,Intimidated
-trait.matriarch,Matriarch
-trait.lord_lowborn,Lowborn
-trait.loyalist,Loyalist
-trait.inspired,Inspired
-trait.hemophilia,Hemophilia
-trait.ex_bandit,Former bandit
-trait.under_culture_terror,Culture terror
-trait.genius_king,Ambitious conqueror
-trait.dying_from_old,Approaching death
-trait.great_teacher,Enlightener
-trait.senility,Senile
-trait.cholera_st_1,Smallpox - Initial stage
-trait.cholera_st_2,Smallpox - Crisis
-trait.cholera_st_3,Smallpox - Recovery
-trait.typh_immunity,Immunity to infections
-trait.untitled_lord,Lesser lord
-hello.neutral.1,"Ruler {name},"
-hello.neutral.2,"Ruler of the land {faction_name},"
-hello.neutral.3,"Sir,"
-hello.neutral.4,"Noble ruler {name},"
-hello.neutral.5,"My noble neighbor,"
-hello.neutral.6,To my respected neighbor:
-hello.neutral.7,To the rightful ruler of the land {faction_name}:
-hello.neutral.8,Greetings!
-hello.good.1,"Dear {name},"
-hello.good.2,"My sincere friend {name},"
-hello.good.3,"My beloved friend {name},"
-hello.good.4,"{name}, my friend,"
-hello.good.5,"I greet you, {name}!"
-hello.vassal.1,"{name}, my lawful vassal,"
-hello.vassal.2,To my vassal:
-hello.vassal.3,To my servant:
-hello.suzeren.1,To my generous overlord:
-hello.suzeren.2,To my lord:
-hello.suzeren.3,To my sovereign:
-hello.bad.1,"Bastard of a prisoner and a harlot,"
-hello.bad.2,"Coward and murderer,"
-hello.bad.3,"Vile deceiver,"
-hello.bad.4,To my enemy:
-hello.bad.5,To the dishonorable bandit:
-hello.bad.6,"Head of the pigfarm known as {faction_name},"
-letter.sign.1,"Signed by my own hand,"
-letter.sign.2,"Signed in the presence of the bishop,"
-letter.sign.3,"I pray for your soul,"
-letter.sign.4,"Signed by me and no one else,"
-letter.sign.5,"Signed and sealed,"
-letter.sign.6,"Signed,"
-letter.king_name,King {name}
-letter.lord_name,Lord {name}
+trait.forecaster,Peramal
+trait.insightful,Penuh Wawasan
+trait.combat_teacher,Pelatih Tempur
+trait.greedy,Keserakahan
+trait.sublimation,Sublimasi
+trait.disinhereted,Ahli Waris Mantan
+trait.saint,Orang Suci
+trait.determination,Ujian Keteguhan
+trait.depression,Depresi
+trait.gray_head,Rambut Uban
+trait.swede_typh_st_1,Tifus Rutabaga - Tahap Awal
+trait.swede_typh_st_2,Tifus Rutabaga - Krisis
+trait.swede_typh_st_3,Tifus Rutabaga - Pemulihan
+trait.madness,Kegilaan
+trait.light_cut,Sayatan Ringan
+trait.pierced_arm,Tusukan Lengan
+trait.pierced_shoulder,Tusukan Bahu
+trait.pierced_leg,Tusukan Kaki
+trait.pierced_lung,Tusukan Paru-paru
+trait.nectar_rage,Kegilaan Nektar
+trait.suspect,Kriminal
+trait.criminal_intimidated,Terintimidasi
+trait.matriarch,Matriark
+trait.lord_lowborn,Ketuaunan Rendah
+trait.loyalist,Loyalis
+trait.inspired,Terinspirasi
+trait.hemophilia,Hemofilia
+trait.ex_bandit,Perampok Mantan
+trait.under_culture_terror,Teror Budaya
+trait.genius_king,Penakluk Ambisius
+trait.dying_from_old,Mendekati Kematian
+trait.great_teacher,Pencerah
+trait.senility,Lanjut Usia
+trait.cholera_st_1,Cacar - Tahap Awal
+trait.cholera_st_2,Cacar - Krisis
+trait.cholera_st_3,Cacar - Pemulihan
+trait.typh_immunity,Kebal terhadap Infeksi
+trait.untitled_lord,Tuan Rendah
+hello.neutral.1,"Penguasa {name},"
+hello.neutral.2,"Penguasa tanah {faction_name},"
+hello.neutral.3,"Yang Mulia,"
+hello.neutral.4,"Penguasa Mulia {name},"
+hello.neutral.5,"Tetangga Mulia saya,"
+hello.neutral.6,Kepada tetangga terhormat saya:
+hello.neutral.7,Kepada penguasa sah tanah {faction_name}:
+hello.neutral.8,Salam!
+hello.good.1,"Yang Terhormat {name},"
+hello.good.2,"Teman Tulus saya {name},"
+hello.good.3,"Sahabat saya {name},"
+hello.good.4,"{name}, teman saya,"
+hello.good.5,"Saya menyapa Anda, {name}!"
+hello.vassal.1,"{name}, bawahan sah saya,"
+hello.vassal.2,Kepada bawahan saya:
+hello.vassal.3,Kepada pelayan saya:
+hello.suzeren.1,Kepada tuan atas yang murah hati saya:
+hello.suzeren.2,Kepada tuan saya:
+hello.suzeren.3,Kepada penguasa saya:
+hello.bad.1,"Anak haram dari tahanan dan pelacur,"
+hello.bad.2,"Penakut dan pembunuh,"
+hello.bad.3,"Penipu Busuk,"
+hello.bad.4,Kepada musuh saya:
+hello.bad.5,Kepada perampok tak bermoral:
+hello.bad.6,"Kepala peternakan babi yang dikenal sebagai {faction_name},"
+letter.sign.1,"Ditandatangani dengan tangan saya sendiri,"
+letter.sign.2,"Ditandatangani di hadapan uskup,"
+letter.sign.3,"Saya berdoa untuk jiwamu,"
+letter.sign.4,"Ditandatangani oleh saya dan tidak ada yang lain,"
+letter.sign.5,"Ditandatangani dan disegel,"
+letter.sign.6,"Ditandatangani,"
+letter.king_name,Raja {name}
+letter.lord_name,Tuan {name}
 letter.from_lord.gone.1,"~
-How long I endured your disrespect. I swear I loved and defended this city. But enough, I'm leaving to those who can appreciate my merits!"
+Sudah berapa lama saya menahan ketidakhormatan Anda. Saya bersumpah saya mencintai dan membela kota ini. Tapi cukup, saya pergi kepada mereka yang bisa menghargai jasa saya!"
 letter.from_lord.gone.2,"~
-It is not fitting for the king to neglect his loyal aides. I'm leaving, and I swear to the heavens, I will never return here! Farewell!"
+Tidak pantas bagi raja untuk mengabaikan pembantu setianya. Saya pergi, dan saya bersumpah kepada langit, saya tidak akan pernah kembali ke sini! Selamat tinggal!"
 letter.now_enemy.0,"~
-I write to inform you that I shall no longer turn a blind eye to your transgressions. Choosing the path of war was your decision. Now, let Holy Sophia determine who shall claim victory between us."
+Saya menulis untuk memberi tahu Anda bahwa saya tidak akan lagi memejamkan mata terhadap pelanggaran Anda. Memilih jalan perang adalah keputusan Anda. Sekarang, biarlah Santa Sofia menentukan siapa yang akan meraih kemenangan di antara kita."
 letter.now_enemy.1,"~
-The time has come to rid the world of a thief and murderer like you. And even if you were to fall to your knees, begging for mercy, it shall not be granted. Only your skull shall serve as a worthy trophy for me."
+Saatnya membersihkan dunia dari pencuri dan pembunuh seperti Anda. Dan bahkan jika Anda jatuh berlutut, memohon ampun, itu tidak akan diberikan. Hanya tengkorak Anda yang akan menjadi trofi layak bagi saya."
 letter.now_enemy.2,"~
-I shall exert every effort to erase even the memory of you and your entire family from the minds of people. Holy Sophia shall aid me, and you are destined for a joyless end and oblivion."
+Saya akan berusaha sekuat tenaga untuk menghapus bahkan kenangan tentang Anda dan seluruh keluarga Anda dari ingatan orang-orang. Santa Sofia akan membantuku, dan Anda ditakdirkan untuk akhir yang tanpa sukacita dan dilupakan."
 letter.now_enemy.3,"~
-Your end is near."
+Akhir Anda sudah dekat."
 letter.now_enemy.4,"~
-Someone must halt you and the evil you bring upon the world. I believe Holy Sophia has chosen me for this role. Who am I to defy her will?"
+Seseorang harus menghentikan Anda dan kejahatan yang Anda bawa ke dunia. Saya percaya Santa Sofia telah memilih saya untuk peran ini. Siapa saya untuk menentang kehendak-Nya?"
 letter.now_enemy.5,"~
-When I vanquish you, the world shall become purer, and people will celebrate this event, offering their gratitude to me. I believe I can already hear the tolling of bells in honor of your demise. Can you?"
+Ketika saya mengalahkan Anda, dunia akan menjadi lebih murni, dan orang-orang akan merayakan peristiwa ini, menawarkan rasa syukur kepada saya. Saya percaya saya sudah bisa mendengar denting lonceng untuk menghormati kematian Anda. Bisakah Anda?"
 letter.dead_sister.1,"~
-With deep sorrow, I learn that my sister {soul_uuid_target} has died. I won't know the reason for her death, will I? Now, no good deeds of yours will restore our former friendship!"
+Dengan duka mendalam, saya mengetahui bahwa saudari saya {soul_uuid_target} telah meninggal. Saya tidak akan tahu alasan kematiannya, bukan? Sekarang, tidak ada perbuatan baik Anda yang akan memulihkan persahabatan kita dulu!"
 letter.dead_sister.2,"~
-I found out today that my sister {soul_uuid_target} has died. Why did no one protect her as you promised? Are you somehow involved in her death? Believe me, I will uncover the truth!"
+Saya mengetahui hari ini bahwa saudari saya {soul_uuid_target} telah meninggal. Mengapa tidak ada yang melindunginya seperti yang Anda janjikan? Apakah Anda terlibat dalam kematiannya? Percayalah, saya akan mengungkap kebenarannya!"
 letter.dead_daughter.1,"~
-How could you allow the death of my daughter {soul_uuid_target}? You swore to me to protect her! I suspect that betrayal was the cause of her death. How can I ever forgive you for this?"
+Bagaimana Anda bisa membiarkan kematian putri saya {soul_uuid_target}? Anda bersumpah kepada saya untuk melindunginya! Saya curiga pengkhianatan adalah penyebab kematiannya. Bagaimana saya bisa memaafkan Anda untuk ini?"
 letter.dead_daughter.2,"~
-I asked you to protect my daughter {soul_uuid_target}. Now she is no longer with us. You won't admit the cause of her death, I'm sure! The only thing I wish is for her fate to befall you!"
+Saya meminta Anda melindungi putri saya {soul_uuid_target}. Sekarang dia tidak lagi bersama kita. Anda tidak akan mengakui penyebab kematiannya, saya yakin! Satu-satunya yang saya inginkan adalah nasibnya menimpa Anda!"
 letter.hi_daughter.1,"~
-I am writing to you with a request to convey to my daughter {soul_uuid_target} how much we miss her and how deeply we love her. May Mother Sophia bless us to see her soon!"
+Saya menulis kepada Anda dengan permintaan untuk menyampaikan kepada putri saya {soul_uuid_target} betapa kami merindukannya dan betapa dalamnya kami mencintainya. Semoga Ibu Sofia memberkati kami untuk bertemu dengannya segera!"
 letter.hi_sister.1,"~
-How quickly time flies; it seems like we just married {soul_uuid_target} off not long ago. Please convey that we have one wish: to see her again soon."
+Waktu berlalu begitu cepat; sepertinya baru kemarin kami menikahkan {soul_uuid_target}. Tolong sampaikan bahwa kami punya satu harapan: bertemu dengannya lagi segera."
 letter.break_alliance_1,"~
-I advise you to sever the alliance with {soul_uuid_target}. You know that they are my enemy, but I do not wish for you to become my enemy as well. You will have to choose between us."
+Saya menyarankan Anda memutus aliansi dengan {soul_uuid_target}. Anda tahu bahwa mereka adalah musuh saya, tapi saya tidak ingin Anda menjadi musuh saya juga. Anda harus memilih di antara kami."
 letter.break_alliance_1,"~
-I do not intend to command you, but I consider it my duty to offer advice. You must break the alliance with {soul_uuid_target}, for the friends of my enemies become my enemies as well. So, make your choice!"
+Saya tidak berniat memerintah Anda, tapi saya menganggapnya sebagai kewajiban untuk memberi nasihat. Anda harus memutus aliansi dengan {soul_uuid_target}, karena teman musuh saya menjadi musuh saya juga. Jadi, buatlah pilihan Anda!"
 letter.bandits_1,"~
-Bandits from your provinces are attacking my villages and terrorizing the peasants. I am surrounded by enemies, and I have neither the time nor the desire to deal with this scum. I implore you to handle them swiftly."
+Perampok dari provinsi Anda sedang menyerang desa-desa saya dan mengorok petani. Saya dikelilingi musuh, dan saya tidak punya waktu maupun keinginan untuk menangani sampah ini. Saya mohon Anda menanganinya dengan cepat."
 letter.bandits_2,"~
-Bandits from your provinces do not allow my peasants to live in peace. They rob and kill, sparing neither women nor children. It's time for you to deal with them, and if you ignore my request, it will be on your own conscience!"
+Perampok dari provinsi Anda tidak membiarkan petani saya hidup damai. Mereka merampok dan membunuh, tidak mengampuni wanita maupun anak-anak. Saatnya Anda menanganinya, dan jika Anda mengabaikan permintaan saya, itu akan menjadi beban hati nurani Anda sendiri!"
 letter.conflict_1,"~
-I seldom seek assistance, as I consider it a sign of weakness. However, a serious conflict has arisen with our neighbor. So, I ask you to take my side and come to my aid. I won't forget this favor, I promise."
+Saya jarang meminta bantuan, karena saya menganggapnya tanda kelemahan. Namun, konflik serius telah muncul dengan tetangga kita. Jadi, saya minta Anda mengambil pihak saya dan datang menolong. Saya tidak akan melupakan bantuan ini, saya janji."
 letter.conflict_2,"~
-I prefer to resolve disputes peacefully, but others choose the path of discord. I need your support in the conflict with our neighbor. I hope I can count on you."
+Saya lebih suka menyelesaikan sengketa secara damai, tapi orang lain memilih jalan perselisihan. Saya butuh dukungan Anda dalam konflik dengan tetangga kita. Saya harap saya bisa mengandalkan Anda."
 letter.break_vassal_1,"~
-Your vassal {soul_uuid_target} is my enemy, and I refrain from attacking him solely because of you. I hope our relationship means more to you than the coins he pays you. End your vassalage with him!"
+Bawahan Anda {soul_uuid_target} adalah musuh saya, dan saya menahan diri dari menyerangnya hanya karena Anda. Saya harap hubungan kita lebih berarti bagi Anda daripada koin yang dia bayar. Akhiri hubungan bawahan Anda dengannya!"
 letter.break_vassal_2,"~
-Terminate your vassalage with {soul_uuid_target}. He believes he is protected by you and takes advantage of it. Many of his actions are unjustifiable. I value our relationship, believe me, but I won't let him go unpunished!"
-letter.post.dead,Postscript: I extend my heartfelt condolences for your loss.
-letter.post.wedding,"Postscript: Congratulations on your wedding! When we meet, I hope you'll treat me to a glass of beer!"
-letter.post.hunt,"Postscript: I remembered how we used to hunt in the woods. It was so much fun! At one point, my whole life flashed before my eyes!"
-letter.post.hi_friend,Postscript: Please convey my deepest regards to {soul_uuid_target}. I hope he won't stay abroad for too long. His loved ones miss him dearly.
-letter.post.battle_loose,"Postscript: I heard about that battle. I'm sorry. Don't give up, as we've all endured defeats."
-letter.post.dice_win,Postscript: Remember how I emptied your pockets when we were playing dice? Perhaps we could have another match when the opportunity arises!
-letter.post.battle_win_together,"Postscript: I'll never forget how we won that battle against our neighbor! Now, that was a victory!"
-letter.post.nice_trade,"Postscript: By the way, the goods you sent me were excellent. Thank you my friend!"
-letter.post.ex_player_lord,Postscript: Your former lord {soul_uuid_target} sends word that he's immensely glad to be rid of you. What did you do to upset him so much?
-letter.post.new_kid,Postscript: I've been informed that you've had a child. {soul_uuid_target} is an excellent name! May Holy Sophia bless him!
-letter.post.battle_win,"Postscript: I heard about your victory. Accept my congratulations! It was quite impressive, as I've heard."
-letter.post.high_prestige,Postscript: Nothing fills me with as much pride as meeting the king of such a prestigious family!
-letter.post.drunk,Postscript: Do you remember how I collapsed on the floor after our wild revelry? My wife still reminds me of that.
-letter.post.thanks_for_help,Postscript: And thank you for the help you provided me! It came in very handy!
-letter.post.ex_ai_lord,Postscript: And convey to {soul_uuid_target} that I remember everything! Betrayal is not forgotten!
-letter.post.enemy.battle_with_me_loose,"Postscript: Nothing warms my heart like the memory of your shameful defeat at the hands of my sword! When I'm feeling down, I recall that moment."
-letter.post.enemy.battle_loose_enemy,"Postscript: How I laughed when I heard about how you lost that battle! On that day, all my peasants drank free ale. Truly, Sophia is just."
-letter.post.coward,"Postscript: Do you remember how you backed out and refused to face me? Believe me, all the neighbors heard about it! Among us, there has never been such a foolish and cowardly king."
-letter.post.enemy.village_destroyed,Postscript: How you amused me when I found out you couldn't even defend your own village! I wonder what your peasants think of your rule?
-letter.post.enemy.battle_loose,"Postscript: I bet you have trouble sleeping after such a shameful defeat! Honestly, I thought your opponent didn't stand a chance. Thank Mother Sophia I was wrong!"
-letter.post.enemy.battle_win,Postscript: It's strange to hear about your victory. What did you bribe Mother Sophia with? She must be helping you somehow.
-letter.post.enemy.vassal,"Postscript: It's amazing you didn't become a vassal sooner! Perhaps only rats run around in your empty chests and barracks? Well, obedience is the lot of the weak."
-letter.post.enemy.low_prestige,Postscript: I've heard they call you the most worthless lord in our region? Not surprising. Maybe you spend your nights in the barn?
-letter.post.enemy.betrayal,Postscript: Do you think I'll forget how you betrayed me? I pray to the Holy Mother that you don't die before I have the chance to seek revenge on you!
-prophecy.letter_announce.wolf_attack,"The bones foretold a disaster. The invisible moon will rise, and blood will freeze from the hungry howl of the fleshwolf! Beware of wild beasts, and be prepared for their attack, for it won't be long now!"
-prophecy.letter_announce.bandits_capm,"I saw a red glow at sunset. It's the color of blood! I threw the bones, and they told me that those who are afraid of their death will seek others at your home."
-prophecy.letter_announce.fields_sick_one,"I had a prophetic dream last night. Instead of green crops, I saw black ravens. They are the harbingers of hunger and death, coming to your home!"
-prophecy.letter_announce.cholera_epidemy,"The other day we made a sacrifice, and the blood of the slaughtered calf did not spray in a crimson stream; a foul-smelling black liquid flowed from it. Diseases will come to your settlements soon!"
-prophecy.letter_announce.xenophoby,"The sacred text opened on a page where people throw themselves at each other like wild beasts, and the cries of children are heard from the flames of fire. Holy Sophia warns you!"
-prophecy.letter_announce.crocks_wave,Last night I had a dream. A shadow in a hood leaned over me. A dagger flashed in her hand. Beware of vagabonds; I am sure it's a sign from above!
-prophecy.letter_announce.fanatics_wave,"The seers say they saw in the clouds mad people standing with burning crosses in their hands. There are many of them, and rage fills their hearts!"
-prophecy.letter_announce.fields_sick_all,The moon does not rise for ten days in a row. The ancient books say this is a harbinger of crop failure and hunger. May Holy Sophia help you!
-prophecy.letter_announce.tree_bug,I had a bad dream. Dark trunks of leafless trees like motionless statues stood instead of your green forests. I hope you know what to do!
-prophecy.letter_announce.rats_invasion,"In nectar oblivion, I had a vision. On the altar, I saw a rat devouring the flesh of a newly born lamb. I foretell hunger and troubles in your kingdom!"
-prophecy.letter.finish,Our caravaneers say that the black shadow of calamity has receded. I hope all your loved ones are alive and well. But I'm afraid this is not the last trial that Mother Sophia sends us for our sins.
-letter.sign.matriarch,"With tenderness in my heart,
-Matriarch"
-letter.post.diplomat_1,"Verily, a favorable outcome, I must confess, I did not anticipate. Yet, I am exceedingly glad that our enmity lies in the past. What is past is to be forgotten, is it not so?"
-letter.post.diplomat_2,"Your efforts to restore peace between our kingdoms, I must acknowledge, I esteem. However, the nobility of your deed does not entail my trust henceforth."
-letter.post.vassal_out_1,"Know that I am no longer inclined to submit to you. And if you seek the reason for my disobedience, look in the mirror. In my hour of need, I received no aid from you. Henceforth, your kingdom is diminished."
-letter.post.vassal_out_2,"The vow of military assistance was given by you when I agreed to become your vassal. And what in return? The tribute appointed by you, I faithfully paid, yet in a dire moment, you abandoned me. Henceforth, I am not your vassal."
-letter.emperor,"We regret that your pride has led you to such blasphemy that you decided to destroy the divine order of the world established by Mother Sophia herself. Unfortunately, admonitions are useless here. The Strict Father and his fellow inquisitors are preparing to set out. May Sophia forgive you!"
-letter.start.matriarch,Beloved Child!
-letter.tax_increase,"Our hearts fill with joy as we, the Loving Family, watch your political successes. Just yesterday, your dynasty was weeding rutabaga, and now you are the head of state, dictating your will to your neighbors! Therefore, I am confident that our initiative to slightly increase the tax on your warriors will not be an unbearable burden for you!"
-letter.army_tax_increase_footer,"Due to your entry into the greater political arena and increased influence, the Loving Family believes you should contribute more for the security of the roads.
+Akhiri hubungan bawahan Anda dengan {soul_uuid_target}. Dia percaya dia dilindungi oleh Anda dan memanfaatkannya. Banyak tindakannya tidak bisa dibenarkan. Saya menghargai hubungan kita, percayalah, tapi saya tidak akan membiarkannya lolos tanpa hukuman!"
+letter.post.dead,Catatan Tambahan: Saya menyampaikan belasungkawa yang tulus atas kehilangan Anda.
+letter.post.wedding,"Catatan Tambahan: Selamat atas pernikahan Anda! Saat kita bertemu, saya harap Anda mentraktir saya segelas bir!"
+letter.post.hunt,"Catatan Tambahan: Saya ingat bagaimana kita dulu berburu di hutan. Sangat menyenangkan! Pada satu titik, seluruh hidup saya berkelebat di depan mata!"
+letter.post.hi_friend,Catatan Tambahan: Tolong sampaikan penghormatan terdalam saya kepada {soul_uuid_target}. Saya harap dia tidak tinggal di luar negeri terlalu lama. Orang-orang terkasihnya sangat merindukannya.
+letter.post.battle_loose,"Catatan Tambahan: Saya mendengar tentang pertempuran itu. Saya turut sedih. Jangan menyerah, karena kita semua pernah mengalami kekalahan."
+letter.post.dice_win,Catatan Tambahan: Ingatkah bagaimana saya mengosongkan kantong Anda saat kita bermain dadu? Mungkin kita bisa bertanding lagi saat ada kesempatan!
+letter.post.battle_win_together,Catatan Tambahan: Saya tidak akan pernah lupa bagaimana kita memenangkan pertempuran itu melawan tetangga! Itu benar-benar kemenangan!
+letter.post.nice_trade,"Catatan Tambahan: Ngomong-ngomong, barang yang Anda kirimkan sangat bagus. Terima kasih, teman saya!"
+letter.post.ex_player_lord,Catatan Tambahan: Mantan tuan Anda {soul_uuid_target} mengirim kabar bahwa dia sangat senang terbebas dari Anda. Apa yang Anda lakukan hingga membuatnya sangat kesal?
+letter.post.new_kid,Catatan Tambahan: Saya diberitahu bahwa Anda telah memiliki anak. {soul_uuid_target} adalah nama yang bagus! Semoga Santa Sofia memberkatinya!
+letter.post.battle_win,"Catatan Tambahan: Saya mendengar tentang kemenangan Anda. Terima selamat saya! Itu cukup mengesankan, seperti yang saya dengar."
+letter.post.high_prestige,Catatan Tambahan: Tidak ada yang membuat saya begitu bangga selain bertemu raja dari keluarga bergengsi seperti itu!
+letter.post.drunk,Catatan Tambahan: Apakah Anda ingat bagaimana saya ambruk di lantai setelah pesta liar kita? Istri saya masih mengingatkan saya tentang itu.
+letter.post.thanks_for_help,Catatan Tambahan: Dan terima kasih atas bantuan yang Anda berikan! Itu sangat berguna!
+letter.post.ex_ai_lord,Catatan Tambahan: Dan sampaikan kepada {soul_uuid_target} bahwa saya ingat semuanya! Pengkhianatan tidak dilupakan!
+letter.post.enemy.battle_with_me_loose,"Catatan Tambahan: Tidak ada yang menghangatkan hati saya seperti kenangan kekalahan memalukan Anda di tangan pedang saya! Saat saya sedih, saya mengingat momen itu."
+letter.post.enemy.battle_loose_enemy,"Catatan Tambahan: Bagaimana saya tertawa saat mendengar bagaimana Anda kalah dalam pertempuran itu! Pada hari itu, semua petani saya minum ale gratis. Sungguh, Sofia adil."
+letter.post.coward,"Catatan Tambahan: Apakah Anda ingat bagaimana Anda mundur dan menolak menghadapi saya? Percayalah, semua tetangga mendengarnya! Di antara kita, tidak pernah ada raja yang begitu bodoh dan penakut."
+letter.post.enemy.village_destroyed,Catatan Tambahan: Bagaimana Anda menghibur saya saat saya tahu Anda bahkan tidak bisa membela desa sendiri! Saya penasaran apa yang dipikirkan petani Anda tentang pemerintahan Anda?
+letter.post.enemy.battle_loose,"Catatan Tambahan: Saya yakin Anda sulit tidur setelah kekalahan memalukan seperti itu! Jujur, saya pikir lawan Anda tidak punya kesempatan. Syukurlah kepada Ibu Sofia saya salah!"
+letter.post.enemy.battle_win,Catatan Tambahan: Aneh mendengar tentang kemenangan Anda. Apa yang Anda suap Ibu Sofia? Dia pasti membantu Anda entah bagaimana.
+letter.post.enemy.vassal,"Catatan Tambahan: Menakjubkan Anda tidak menjadi bawahan lebih cepat! Mungkin hanya tikus yang berlarian di peti kosong dan barak Anda? Yah, ketaatan adalah nasib orang lemah."
+letter.post.enemy.low_prestige,Catatan Tambahan: Saya dengar mereka menyebut Anda tuan paling tak berguna di wilayah kita? Tidak mengejutkan. Mungkin Anda menghabiskan malam di gudang?
+letter.post.enemy.betrayal,Catatan Tambahan: Apakah Anda pikir saya akan lupa bagaimana Anda mengkhianati saya? Saya berdoa kepada Ibu Suci agar Anda tidak mati sebelum saya punya kesempatan membalas dendam kepada Anda!
+prophecy.letter_announce.wolf_attack,"Tulang-tulang meramalkan bencana. Bulan tak terlihat akan terbit, dan darah akan membeku dari lolongan lapar fleshwolf! Waspadai binatang buas, dan siapkan diri untuk serangan mereka, karena itu tidak akan lama lagi!"
+prophecy.letter_announce.bandits_capm,"Saya melihat cahaya merah saat matahari terbenam. Itu warna darah! Saya melempar tulang, dan mereka memberi tahu saya bahwa mereka yang takut kematian mereka akan mencari orang lain di rumah Anda."
+prophecy.letter_announce.fields_sick_one,"Saya bermimpi profetik tadi malam. Alih-alih tanaman hijau, saya melihat gagak hitam. Mereka adalah pembawa kelaparan dan kematian, yang datang ke rumah Anda!"
+prophecy.letter_announce.cholera_epidemy,"Beberapa hari lalu kami melakukan pengorbanan, dan darah anak sapi yang disembelih tidak menyembur dalam aliran merah tua; cairan hitam berbau busuk mengalir darinya. Penyakit akan datang ke pemukiman Anda segera!"
+prophecy.letter_announce.xenophoby,"Teks suci terbuka di halaman di mana orang-orang saling melempar seperti binatang buas, dan jeritan anak-anak terdengar dari api. Santa Sofia memperingatkan Anda!"
+prophecy.letter_announce.crocks_wave,Tadi malam saya bermimpi. Bayangan bertudung condong ke arah saya. Belati berkilat di tangannya. Waspadai pengembara; saya yakin itu tanda dari atas!
+prophecy.letter_announce.fanatics_wave,"Para peramal mengatakan mereka melihat di awan orang-orang gila berdiri dengan salib terbakar di tangan mereka. Banyak dari mereka, dan kemarahan memenuhi hati mereka!"
+prophecy.letter_announce.fields_sick_all,Bulan tidak terbit selama sepuluh hari berturut-turut. Buku-buku kuno mengatakan ini adalah pembawa kegagalan panen dan kelaparan. Semoga Santa Sofia membantu Anda!
+prophecy.letter_announce.tree_bug,Saya bermimpi buruk. Batang gelap pohon tanpa daun seperti patung tak bergerak berdiri alih-alih hutan hijau Anda. Saya harap Anda tahu apa yang harus dilakukan!
+prophecy.letter_announce.rats_invasion,"Dalam pelupaan nektar, saya mendapat penglihatan. Di altar, saya melihat tikus melahap daging domba yang baru lahir. Saya meramalkan kelaparan dan masalah di kerajaan Anda!"
+prophecy.letter.finish,Para karavaner kami mengatakan bahwa bayangan hitam bencana telah surut. Saya harap semua orang terkasih Anda hidup dan sehat. Tapi saya takut ini bukan ujian terakhir yang dikirim Ibu Sofia kepada kita atas dosa kita.
+letter.sign.matriarch,"Dengan kelembutan di hati saya,
+Matriark"
+letter.post.diplomat_1,"Sungguh, hasil yang menguntungkan, saya harus akui, saya tidak antisipasi. Namun, saya sangat senang bahwa permusuhan kita terletak di masa lalu. Apa yang lalu harus dilupakan, bukan begitu?"
+letter.post.diplomat_2,"Upaya Anda untuk memulihkan perdamaian antara kerajaan kita, saya harus akui, saya hargai. Namun, kemuliaan perbuatan Anda tidak berarti saya percaya selanjutnya."
+letter.post.vassal_out_1,"Tahu bahwa saya tidak lagi condong tunduk kepada Anda. Dan jika Anda mencari alasan ketidaktaatan saya, lihat di cermin. Di saat saya butuh, saya tidak mendapat bantuan dari Anda. Mulai sekarang, kerajaan Anda berkurang."
+letter.post.vassal_out_2,"Sumpah bantuan militer diberikan oleh Anda saat saya setuju menjadi bawahan Anda. Dan apa balasannya? Upeti yang ditunjuk oleh Anda, saya bayar dengan setia, namun di saat kritis, Anda tinggalkan saya. Mulai sekarang, saya bukan bawahan Anda."
+letter.emperor,"Kami menyesal bahwa kesombongan Anda telah membawa Anda ke penistaan seperti itu sehingga Anda memutuskan untuk menghancurkan tatanan ilahi dunia yang dibangun oleh Ibu Sofia sendiri. Sayangnya, nasihat sia-sia di sini. Ayah Ketat dan rekan inkuisitornya sedang bersiap berangkat. Semoga Sofia memaafkan Anda!"
+letter.start.matriarch,Anak Tercinta!
+letter.tax_increase,"Hati kami dipenuhi sukacita saat kami, Keluarga Penuh Kasih, menyaksikan kesuksesan politik Anda. Baru kemarin, dinasti Anda mencabut rumput rutabaga, dan sekarang Anda kepala negara, mendiktekan kehendak kepada tetangga! Oleh karena itu, saya yakin inisiatif kami untuk sedikit meningkatkan pajak pada prajurit Anda tidak akan menjadi beban yang tak tertahankan bagi Anda!"
+letter.army_tax_increase_footer,"Karena masuknya Anda ke arena politik yang lebih besar dan pengaruh yang meningkat, Keluarga Penuh Kasih percaya Anda harus berkontribusi lebih untuk keamanan jalan.
 
-The Church is increasing the tax on warriors, which will now be {new_tax} per unit of combat skill for each warrior (previously {old_tax})."
-faction.player_village,Peasants
-faction.faceless,Unholy Horde
-faction.forest_bandits,Forest bandits
-faction.mercenaries,Mercenaries
-faction.wolves,Fleshwolves
-faction.inquisition,Inquisition
-faction.traders,Holy Caravan
-faction.traders_slaves,Slaves of the Holy Caravan
-faction.free_lords,Free lords
-faction.holy_synod,Loving Family
-faction.rebellious_zealots,Rebellious fanatics
-faction.rebellious_slaves,Rebellious slaves
-faction.rebellious_soldiers,Rebellious soldiers
-faction.rebellious_heir,Separatists
-faction.mountain_bandits,Marauders
-faction.hired_bandits,Hired bandits
-faction.abandoned,Abandoned Settlement
-faction.low_loyalty,Renegades
+Gereja meningkatkan pajak pada prajurit, yang sekarang {new_tax} per unit keterampilan tempur untuk setiap prajurit (sebelumnya {old_tax})."
+faction.player_village,Petani
+faction.faceless,Hor Hampa
+faction.forest_bandits,Perampok Hutan
+faction.mercenaries,Tentara Bayaran
+faction.wolves,Fleshwolf
+faction.inquisition,Inkuisisi
+faction.traders,Karavan Suci
+faction.traders_slaves,Budak Karavan Suci
+faction.free_lords,Tuan Bebas
+faction.holy_synod,Keluarga Penuh Kasih
+faction.rebellious_zealots,Fanatik Pemberontak
+faction.rebellious_slaves,Budak Pemberontak
+faction.rebellious_soldiers,Prajurit Pemberontak
+faction.rebellious_heir,Separatist
+faction.mountain_bandits,Perampok
+faction.hired_bandits,Perampok Bayaran
+faction.abandoned,Pemukiman Terbengkalai
+faction.low_loyalty,Pemberontak
 faction.name.0,Silverhaven
 faction.name.1,Dust Valley
 faction.name.2,Windpeak
@@ -2174,869 +2174,869 @@ faction.name.72,Sunlit Alley
 faction.name.73,Misty Brook
 faction.name.74,Lost Sentinel
 faction.name.75,Goldenspike
-faction.deserted_soldiers,Deserters
-faction.player_untitled,Lesser lords
-0map.appoint.sub_category.others,Other
-9map.appoint.sub_category.expansion,Expansion
-8map.appoint.sub_category.others,Other
-product_change_price.neighbore_town_attacked,"Due to the attack on {faction_uuid_town}, the price is higher by <red>{price_factor}%</red>."
-no_defence_allies,No allies
-map.category.lords,Lords
-map.hostage_player,Ransom for a hostage
-map.lord_low_loyalty,Lord is ready to leave
-map.lord_rebellion.nobody_support,None
-map.lord_rebellion_heir,Heir's rebellion
-map.lord_rebellion_king,Protection against rebellion
-map.hire_bandits,Hiring bandits
-map.solders_gift,Offer help
-map.appoint.events,Events
-map.category.criminals,Dark deeds
-map.category.politics,Politics
-map.category.attack,Attack
-map.category.marriage,Marriage
-map.category.trade,Trade
-map.abandoned_town,Abandoned city
-map.marriage_female,Bride to be married off
-map.marriage_male,Groom to be married off
-map.loan,Money lending
-map.king_tribute,Threat of plunder
-map.king_tribute_light,Polite demand for tribute
-map.demand_tribute,Polite demand for tribute
-map.assault_fair,Plunder the city
-map.assault_unfair,Plunder the city
-map.city_burn_ai,Threat of destruction
-map.demand_peace,Proposal of a peace treaty
-map.declared_peace_broken,Peace treaty dissolved
-map.trade_agreement_broken,Trade agreement terminated
-map.declared_peace,Peace has been established
-map.demand_defence_alliance_to_player,Alliance proposal
-map.declared_defence_alliance,Alliance of Free Cities
-map.demand_defence_ally_army,Request for assistance
-map.demand_vassal_waiting,Awaiting response
-map.demand_vassal_attack_waiting,Awaiting attack
-map.demand_vassal_light_player,Demand vassalage
-map.demand_vassal_player,Demand vassalage
-map.help_against_faceless,Aid against the Unholy Horde
-map.demand_kill_own_bandits_camp,Demand to eliminate bandits
-map.conquest,Restoring vassalage
-map.king_attack,Demand for a siege
-map.demand_attack,Demand for a siege
-map.slaves_offer,Sale of prisoners
-map.trade_offer,Trade offer
-map.trade_request,Trade request
-map.village,Village
-map.village_neighbore,Village of a neighboring king
-map.village.short,"A small settlement with no access to trade, iron, or advanced tools."
-map.burned_village,Burned village
-map.burned_village.short,"A plundered and burned village. After some time, the residents who hid in the surrounding forests will return and rebuild it, but for now, there is no one here."
-map.protect,Threat of attack
-map.protect.short,A group of bandits is gathering near the village.
-map.tribute,Tribute
-map.tribute.short,- The village has gathered its harvest and is ready to pay tribute to you.
-map.mill,Mill improvement
-map.mill.short,The village elder plans to improve the village mill.
-map.hungry,Famine
-map.hungry.short,There is a poor harvest in the village. Food is needed.
-map.sick,Pestilence
-map.sick.short,An outbreak of disease. Medicines are urgently needed.
-map.meat,New pigsty
-map.meat.short,The residents are asking for help to build a pigsty.
-map.bandits_camp,Camp of forest bandits
-map.bandits_camp.short,Inhabited by forest bandits. They will occasionally attack your settlement.
-map.bandits_hostage,Hostage - {lord_name}
-map.bandits_hostage.short,A lord is held hostage and a ransom is demanded.
-map.wolfes,Fleshwolves near
-map.wolfes.short,"A pack of fleshwolves has blocked the roads to your settlement. However, they may soon leave."
-map.slaves,Fugitive prisoners
-map.slaves.short,A group of runaway prisoners from {city_name} has been spotted near your town.
-map.fanatics,Group of flagellants
-map.fanatics.short,A small group of flagellant pilgrims is asking for food.
-map.theif,Thief on the run
-map.theif.short,"A thief has been spotted nearby, who recently worked in {city_name} town."
-map.lord_in_run,Fleeing lord
-map.lord_in_run.short,A lord from {house_name_1} has escaped captivity from {house_name_2}. Pursuers are close.
-map.lord_in_run_2,Fleeing lord
-maplord_in_run_2.short,The lord of {house_name_1} is pursued by bandits. His forces are running low.
-map.lord_in_run_3,Fleeing lord
-map.lord_in_run_3.short,The lord of {house_name_1} faction has decided to leave home and seek refuge.
+faction.deserted_soldiers,Deserter
+faction.player_untitled,Tuan-tuan Rendah
+0map.appoint.sub_category.others,Lainnya
+9map.appoint.sub_category.expansion,Ekspansi
+8map.appoint.sub_category.others,Lainnya
+product_change_price.neighbore_town_attacked,"Karena serangan pada {faction_uuid_town}, harga lebih tinggi sebesar <red>{price_factor}%</red>."
+no_defence_allies,Tidak Ada Sekutu
+map.category.lords,Tuan-tuan
+map.hostage_player,Tebusan untuk Sandera
+map.lord_low_loyalty,Tuan siap pergi
+map.lord_rebellion.nobody_support,Tidak Ada
+map.lord_rebellion_heir,Pemberontakan Ahli Waris
+map.lord_rebellion_king,Perlindungan terhadap Pemberontakan
+map.hire_bandits,Merekrut Perampok
+map.solders_gift,Tawarkan Bantuan
+map.appoint.events,Peristiwa
+map.category.criminals,Perbuatan Gelap
+map.category.politics,Politik
+map.category.attack,Serangan
+map.category.marriage,Pernikahan
+map.category.trade,Perdagangan
+map.abandoned_town,Kota Terbengkalai
+map.marriage_female,Pengantin Wanita yang Akan Dinikahkan
+map.marriage_male,Pengantin Pria yang Akan Dinikahkan
+map.loan,Peminjaman Uang
+map.king_tribute,Ancaman Perampokan
+map.king_tribute_light,Permintaan Upeti yang Sopan
+map.demand_tribute,Permintaan Upeti yang Sopan
+map.assault_fair,Rampas Kota
+map.assault_unfair,Rampas Kota
+map.city_burn_ai,Ancaman Penghancuran
+map.demand_peace,Usul Perjanjian Damai
+map.declared_peace_broken,Perjanjian Damai Dibatalkan
+map.trade_agreement_broken,Perjanjian Perdagangan Dibatalkan
+map.declared_peace,Perdamaian Telah Tercipta
+map.demand_defence_alliance_to_player,Usul Aliansi
+map.declared_defence_alliance,Aliansi Kota Bebas
+map.demand_defence_ally_army,Permintaan Bantuan
+map.demand_vassal_waiting,Menunggu Tanggapan
+map.demand_vassal_attack_waiting,Menunggu Serangan
+map.demand_vassal_light_player,Tuntut Kewajiban Bawahan
+map.demand_vassal_player,Tuntut Kewajiban Bawahan
+map.help_against_faceless,Bantuan Melawan Hor Hampa
+map.demand_kill_own_bandits_camp,Tuntut Penghapusan Perampok
+map.conquest,Memulihkan Kewajiban Bawahan
+map.king_attack,Tuntut Pengepungan
+map.demand_attack,Tuntut Pengepungan
+map.slaves_offer,Penjualan Tahanan
+map.trade_offer,Tawaran Perdagangan
+map.trade_request,Permintaan Perdagangan
+map.village,Desa
+map.village_neighbore,Desa Raja Tetangga
+map.village.short,"Pemukiman kecil tanpa akses ke perdagangan, besi, atau alat canggih."
+map.burned_village,Desa yang Dibakar
+map.burned_village.short,"Desa yang dirampas dan dibakar. Setelah beberapa waktu, penduduk yang bersembunyi di hutan sekitar akan kembali dan membangunnya kembali, tapi untuk saat ini, tidak ada siapa-siapa di sini."
+map.protect,Ancaman Serangan
+map.protect.short,Sekelompok perampok sedang berkumpul di dekat desa.
+map.tribute,Upeti
+map.tribute.short,- Desa telah memanen hasil panennya dan siap membayar upeti kepada Anda.
+map.mill,Peningkatan pabrik
+map.mill.short,Tetua desa berencana untuk meningkatkan pabrik desa.
+map.hungry,Kelaparan
+map.hungry.short,Panen buruk di desa. Makanan dibutuhkan.
+map.sick,Wabah
+map.sick.short,Wabah penyakit. Obat-obatan sangat dibutuhkan.
+map.meat,Kandang Babi Baru
+map.meat.short,Penduduk meminta bantuan untuk membangun kandang babi.
+map.bandits_camp,Kemah Perampok Hutan
+map.bandits_camp.short,Dihuni oleh perampok hutan. Mereka sesekali akan menyerang pemukiman Anda.
+map.bandits_hostage,Sandera - {lord_name}
+map.bandits_hostage.short,Seorang tuan disandera dan tebusan diminta.
+map.wolfes,Fleshwolf di Dekat
+map.wolfes.short,"Sekelompok fleshwolf telah memblokir jalan ke pemukiman Anda. Namun, mereka mungkin segera pergi."
+map.slaves,Tahanan Pelarian
+map.slaves.short,Sekelompok tahanan kabur dari {city_name} terlihat di dekat kota Anda.
+map.fanatics,Kelompok Penggemar Flagel
+map.fanatics.short,Kelompok kecil peziarah penggemar flagel meminta makanan.
+map.theif,Pencuri yang Kabur
+map.theif.short,"Seorang pencuri terlihat di dekat sini, yang baru-baru ini bekerja di kota {city_name}."
+map.lord_in_run,Tuan yang Kabur
+map.lord_in_run.short,Seorang tuan dari {house_name_1} telah melarikan diri dari penahanan {house_name_2}. Pengejar sudah dekat.
+map.lord_in_run_2,Tuan yang Kabur
+maplord_in_run_2.short,Tuan dari {house_name_1} dikejar oleh perampok. Pasukannya hampir habis.
+map.lord_in_run_3,Tuan yang Kabur
+map.lord_in_run_3.short,Tuan dari faksi {house_name_1} telah memutuskan untuk meninggalkan rumah dan mencari perlindungan.
 map.lovers_in_run," "
-map.lovers_in_run.short,Two young men from different houses fell in love with each other and ran away.
-map.caravan,Protected caravan
-map.caravan.short,A caravan of {house_name_1} with prisoners and goods is on its way to {city_name_2}.
+map.lovers_in_run.short,Dua pemuda dari rumah berbeda saling jatuh cinta dan kabur.
+map.caravan,Karavan yang Dilindungi
+map.caravan.short,Karavan dari {house_name_1} dengan tahanan dan barang sedang menuju {city_name_2}.
 map.dispute," "
-map.dispute.short,Two houses are arguing over ownership of the village. You can support one of them.
-map.bride,A bride is looking for a match.
-map.bride.short,"{soul_uuid_bride} has reached the age of marriage, and the king is looking for a suitable partner for her."
-map.groom,A groom is looking for a match.
-map.groom.short,"{soul_uuid_groom} has reached the age of marriage, and the king is looking for a suitable partner for him."
+map.dispute.short,Dua rumah sedang bertengkar atas kepemilikan desa. Anda bisa mendukung salah satunya.
+map.bride,Pengantin Wanita Mencari Calon
+map.bride.short,"{soul_uuid_bride} telah mencapai usia pernikahan, dan raja sedang mencari pasangan yang cocok untuknya."
+map.groom,Pengantin Pria Mencari Calon
+map.groom.short,"{soul_uuid_groom} telah mencapai usia pernikahan, dan raja sedang mencari pasangan yang cocok untuknya."
 map.q_hermit," "
 map.long.q_hermit," "
 map.q_hermit.short," "
 map.risk.q_hermit," "
-map.menu.quest.description,DESCRIPTION
-map.menu.quest.details,Details
-map.menu.quest.consequences,Possible consequences
-map.menu.quest.reward,POSSIBLE REWARD
-map.menu.quest.reward_or,or
-map.menu.status.days_left,{remain_days} days left
-map.menu.modal.result.success,Success!
-map.menu.modal.result.fail,Failure!
-map.menu.modal.ok,Okay
-map.menu.status.timeless,Indefinite
-map.menu.status.go_home,Returning home
-map.menu.quest.ignore,Ignoring
-map.menu.quest.waiting,Waiting
-map.menu.quest.time_over,The agreement has expired
-map.menu.quest.tragic,Tragic accident
-map.menu.quest.bad_opinion,Bad relationships
-map.menu.quest.hostage_rescue,Rescue of a hostage
-map.menu.button.create_army,Create new squad
-map.menu.button.send_army,Send
-map.menu.prepare_to_battle.header,Battle at {place}
-map.menu.prepare_to_battle.in_town,at the gates of {town_name}
-map.menu.prepare_to_battle.near_town,near {town_name}
-map.menu.prepare_to_battle.battle_begin,Battle has begun
-map.menu.town.guest_lords,Lords as guests
-map.menu.town.information,Information
-map.menu.town.economic,Economy
-map.menu.town.army,Army
-map.menu.army_composition,Composition of the army
-map.menu.town.local_lords,Lords
-map.menu.town.ruling_family,Ruling family
-map.menu.town.status.hostile,Hostile
-map.menu.town.status.friendly,Friendly
-map.menu.town.status.neutral,Neutral
-map.menu.town.status.independent,Independent
-map.menu.town.status.vassal,Vassal
-map.menu.town.status.suzerain,Suzerain
-map.menu.town.relations,Relationships
-map.menu.messenger,Messenger
-map.army,Army
-map.declared_trade_agreement,Trade agreement
-map.forcing_neutrality,Forcing neutrality
-map.personal_conflict,Conflict between neighbors
-map.help_against_bandits,Help against bandits
-map.help_against_mountains_bandits,Help against marauders
-map.neutralization_order,Neutralization order
-map.menu.town.status.ally,In the Alliance
-map.menu.town.status.alliance_leader,Alliance head
-map.stolen_rings_offer,Stolen Holy Rings
-map.holy_defence_was_removed,"<red>The Protection of the Loving Family has been removed!</red>
+map.menu.quest.description,DESKRIPSI
+map.menu.quest.details,Detail
+map.menu.quest.consequences,Konsekuensi Mungkin
+map.menu.quest.reward,HADIAH YANG MUNGKIN
+map.menu.quest.reward_or,atau
+map.menu.status.days_left,{remain_days} hari tersisa
+map.menu.modal.result.success,Berhasil!
+map.menu.modal.result.fail,Gagal!
+map.menu.modal.ok,Oke
+map.menu.status.timeless,Tak Terbatas
+map.menu.status.go_home,Kembali ke Rumah
+map.menu.quest.ignore,Mengabaikan
+map.menu.quest.waiting,Menunggu
+map.menu.quest.time_over,Perjanjian Telah Kedaluwarsa
+map.menu.quest.tragic,Kecelakaan Tragis
+map.menu.quest.bad_opinion,Hubungan Buruk
+map.menu.quest.hostage_rescue,Pembebasan Sandera
+map.menu.button.create_army,Buat Regu Baru
+map.menu.button.send_army,Kirim
+map.menu.prepare_to_battle.header,Pertempuran di {place}
+map.menu.prepare_to_battle.in_town,di gerbang {town_name}
+map.menu.prepare_to_battle.near_town,di dekat {town_name}
+map.menu.prepare_to_battle.battle_begin,Pertempuran Dimulai
+map.menu.town.guest_lords,Tuan-tuan sebagai Tamu
+map.menu.town.information,Informasi
+map.menu.town.economic,Ekonomi
+map.menu.town.army,Tentara
+map.menu.army_composition,Komposisi Tentara
+map.menu.town.local_lords,Tuan-tuan
+map.menu.town.ruling_family,Keluarga Penguasa
+map.menu.town.status.hostile,Permusuhan
+map.menu.town.status.friendly,Ramah
+map.menu.town.status.neutral,Netral
+map.menu.town.status.independent,Independen
+map.menu.town.status.vassal,Bawahan
+map.menu.town.status.suzerain,Atasan
+map.menu.town.relations,Hubungan
+map.menu.messenger,Utusan
+map.army,Tentara
+map.declared_trade_agreement,Perjanjian Perdagangan
+map.forcing_neutrality,Memaksa Netralitas
+map.personal_conflict,Konflik Antar Tetangga
+map.help_against_bandits,Bantuan Melawan Perampok
+map.help_against_mountains_bandits,Bantuan Melawan Perampok
+map.neutralization_order,Perintah Netralisasi
+map.menu.town.status.ally,Dalam Aliansi
+map.menu.town.status.alliance_leader,Kepala Aliansi
+map.stolen_rings_offer,Cincin Suci yang Dicuri
+map.holy_defence_was_removed,"<red>Perlindungan Keluarga Penuh Kasih telah dihapus!</red>
 
-Aggressive action means that you no longer require the <hint=hint_holy_protection>Protection of the Loving Family</hint>."
-map.holy_defence_will_be_removed,<hint=hint_holy_protection>The Protection of the Loving Family</hint> will be removed!
-map.trade.offer.alias,City sells: {resource_name}
-map.trade.request.alias,City buys: {resource_name}
-map.menu.town.king_family,KING'S FAMILY
-map.menu.town.guests,GUESTS
-map.menu.town.faction_lords,{town}'s LORDS
-map.menu.town.vassal_of,Vassal of
-map.menu.town.ally_of,Ally of
-map.player_vassal_rebellion,Rebel vassal
-product_change_price.rats_invasion,"Due to the <hint=hint_prophecy_rats_invasion>rat Invasion</hint>, the price is higher by <red>{price_factor}%</red>."
-product_change_price.tree_bug,"Due to the <hint=hint_prophecy_tree_bug>wood beetle</hint>, the price is higher by <red>{price_factor}%</red>."
-product_change_price.fields_sick,"Due to <hint=hint_prophecy_fields_sick_one>crop infection</hint>, the price is higher by <red>{price_factor}%</red>."
-map.universal_help.danger_army,<center>The aggressor's army:</center>
-map.appoint.estimated_time,Estimated time to complete the task: {estimated_time}
-map.appoint.estimated_time_army,The road will take {estimated_time}
-map.appoint.tasks,Actions
-map.category.improve_relations,Improving Relationships
-map.guest.remain_stay_time,"<tight><center><b>The character is out of town</b></center>.
+Aksi agresif berarti Anda tidak lagi memerlukan <hint=hint_holy_protection>Perlindungan Keluarga Penuh Kasih</hint>."
+map.holy_defence_will_be_removed,<hint=hint_holy_protection>Perlindungan Keluarga Penuh Kasih</hint> akan dihapus!
+map.trade.offer.alias,Kota menjual: {resource_name}
+map.trade.request.alias,Kota membeli: {resource_name}
+map.menu.town.king_family,KELUARGA RAJA
+map.menu.town.guests,TAMU
+map.menu.town.faction_lords,Tuan-tuan {town}
+map.menu.town.vassal_of,Bawahan dari
+map.menu.town.ally_of,Sekutu dari
+map.player_vassal_rebellion,Bawahan Pemberontak
+product_change_price.rats_invasion,"Karena <hint=hint_prophecy_rats_invasion>Invasi Tikus</hint>, harga lebih tinggi sebesar <red>{price_factor}%</red>."
+product_change_price.tree_bug,"Karena <hint=hint_prophecy_tree_bug>kumbang kayu</hint>, harga lebih tinggi sebesar <red>{price_factor}%</red>."
+product_change_price.fields_sick,"Karena <hint=hint_prophecy_fields_sick_one>infeksi tanaman</hint>, harga lebih tinggi sebesar <red>{price_factor}%</red>."
+map.universal_help.danger_army,<center>Tentara Penyerang:</center>
+map.appoint.estimated_time,Estimasi waktu penyelesaian tugas: {estimated_time}
+map.appoint.estimated_time_army,Jalan akan memakan waktu {estimated_time}
+map.appoint.tasks,Aksi
+map.category.improve_relations,Memperbaiki Hubungan
+map.guest.remain_stay_time,"<tight><center><b>Karakter sedang berada di luar kota</b></center>.
 
-</tight>This character is currently a guest in the city of {faction_uuid}.
+</tight>Karakter ini saat ini adalah tamu di kota {faction_uuid}.
 
-They will presumably be home in {remain_time}."
-map.your_province,Your province
-map.burn_town_waiting,Preparing to burn the city
-map.last_female_in_faction,You have the last unmarried woman left
-map.defence_alliance_leaving_ai,Conflict with an Ally
-map.defence_alliance_leaving_player,Conflict with the Alliance Leader
-product_change_price.temporary,Temporary price increase for <red>{price_factor}%</red>
-actor.deep_social_alias.abuse_1,{name_initiator} humiliated {name_target}
-actor.deep_social_alias.abuse_2,{name_initiator} insulted {name_target}
-actor.deep_social_alias.abuse_3,{name_initiator} berated {name_target}
-actor.deep_social_alias.abuse_4,{name_initiator} wiped their feet on {name_target}
-actor.deep_social_alias.abuse_5,{name_initiator} trampled {name_target} in the mud
-actor.deep_social_alias.abuse_6,{name_initiator} emotionally destroyed {name_target}
-actor.deep_social_alias.abuse_7,{name_initiator} silenced {name_target}
-actor.deep_social_alias.deep_talk_1,{name_initiator} praised {name_target}
-actor.deep_social_alias.deep_talk_2,{name_initiator} had a heartfelt conversation with {name_target}
-actor.deep_social_alias.deep_talk_3,{name_initiator} comforted {name_target}
-actor.deep_social_alias.deep_talk_4,{name_initiator} cheered up {name_target}
-actor.deep_social_alias.deep_talk_5,{name_initiator} thanked {name_target}
-actor.deep_social_alias.deep_talk_6,{name_initiator} complimented {name_target}
-actor.deep_social_alias.deep_talk_7,{name_initiator} gave credit to {name_target}
-actor.deep_social_alias.evil_joke_1,{name_initiator} mocked {name_target}
-actor.deep_social_alias.evil_joke_2,{name_initiator} made {name_target} look like a fool
-actor.deep_social_alias.evil_joke_3,{name_initiator} teased {name_target}
-actor.deep_social_alias.evil_joke_4,{name_initiator} ridiculed {name_target}
-actor.deep_social_alias.evil_joke_5,{name_initiator} parodied {name_target}
-actor.deep_social_alias.evil_joke_6,{name_initiator} sarcastically mocked {name_target}
-actor.deep_social_alias.flattery_1,{name_initiator} flattered {name_target}
-actor.deep_social_alias.flattery_2,{name_initiator} buttered up {name_target}
-actor.deep_social_alias.flattery_3,{name_initiator} ingratiated themself with {name_target}
-actor.deep_social_alias.flattery_4,{name_initiator} groveled before {name_target}
-actor.deep_social_alias.flattery_5,{name_initiator} insincerely admired {name_target}
-actor.deep_social_alias.flattery_6,{name_initiator} extolled {name_target}
-actor.deep_social_alias.flattery_7,{name_initiator} massaged {name_target}'s ego
-actor.deep_social_alias.good_joke_1,{name_initiator} traded witticisms with {name_target}
-actor.deep_social_alias.good_joke_2,{name_initiator} told a new joke to {name_target}
-actor.deep_social_alias.good_joke_3,{name_initiator} had a good laugh with {name_target}
-actor.deep_social_alias.good_joke_4,{name_initiator} shared an anecdote with {name_target}
-actor.deep_social_alias.good_joke_5,{name_initiator} showed a parody to {name_target}
-actor.deep_social_alias.intrigue_1,{name_initiator} shared rumors with {name_target}
-actor.deep_social_alias.intrigue_2,{name_initiator} revealed the whole truth to {name_target}
-actor.deep_social_alias.intrigue_3,{name_initiator} confirmed {name_target}'s fears
-actor.deep_social_alias.intrigue_4,{name_initiator} shared a secret with {name_target}
-actor.deep_social_alias.intrigue_5,{name_initiator} opened {name_target}'s eyes
-actor.deep_social_alias.intrigue_6,{name_initiator} revealed the essence of {name_target}
-actor.deep_social_alias.intrigue_7,{name_initiator} subtly hinted to {name_target}
-actor.deep_social_alias.slight_1,{name_initiator} disregarded {name_target}
-actor.deep_social_alias.slight_2,{name_initiator} ignored {name_target}
-actor.deep_social_alias.slight_3,{name_initiator} put {name_target} in their place
-actor.deep_social_alias.slight_4,{name_initiator} pretended not to hear {name_target}
-actor.deep_social_alias.sorry_1,{name_initiator} apologized to {name_target}
-actor.deep_social_alias.bye_1,"{name_initiator} says goodbye to {name_target} before leaving.
+Mereka kemungkinan akan pulang dalam {remain_time}."
+map.your_province,Provinsi Anda
+map.burn_town_waiting,Bersiap Membakar Kota
+map.last_female_in_faction,Anda memiliki satu-satunya wanita yang belum menikah tersisa
+map.defence_alliance_leaving_ai,Konflik dengan Sekutu
+map.defence_alliance_leaving_player,Konflik dengan Pemimpin Aliansi
+product_change_price.temporary,Kenaikan harga sementara sebesar <red>{price_factor}%</red>
+actor.deep_social_alias.abuse_1,{name_initiator} mempermalukan {name_target}
+actor.deep_social_alias.abuse_2,{name_initiator} menghina {name_target}
+actor.deep_social_alias.abuse_3,{name_initiator} memarah {name_target}
+actor.deep_social_alias.abuse_4,{name_initiator} menginjak {name_target} seperti keset
+actor.deep_social_alias.abuse_5,{name_initiator} menginjak {name_target} ke lumpur
+actor.deep_social_alias.abuse_6,{name_initiator} menghancurkan {name_target} secara emosional
+actor.deep_social_alias.abuse_7,{name_initiator} membungkam {name_target}
+actor.deep_social_alias.deep_talk_1,{name_initiator} memuji {name_target}
+actor.deep_social_alias.deep_talk_2,{name_initiator} berbincang dari hati dengan {name_target}
+actor.deep_social_alias.deep_talk_3,{name_initiator} menghibur {name_target}
+actor.deep_social_alias.deep_talk_4,{name_initiator} menghibur {name_target}
+actor.deep_social_alias.deep_talk_5,{name_initiator} berterima kasih kepada {name_target}
+actor.deep_social_alias.deep_talk_6,{name_initiator} memuji {name_target}
+actor.deep_social_alias.deep_talk_7,{name_initiator} memberi penghargaan kepada {name_target}
+actor.deep_social_alias.evil_joke_1,{name_initiator} mengejek {name_target}
+actor.deep_social_alias.evil_joke_2,{name_initiator} membuat {name_target} tampak bodoh
+actor.deep_social_alias.evil_joke_3,{name_initiator} menggoda {name_target}
+actor.deep_social_alias.evil_joke_4,{name_initiator} mengejek {name_target}
+actor.deep_social_alias.evil_joke_5,{name_initiator} memparodikan {name_target}
+actor.deep_social_alias.evil_joke_6,{name_initiator} mengejek {name_target} secara sarkastik
+actor.deep_social_alias.flattery_1,{name_initiator} merayu {name_target}
+actor.deep_social_alias.flattery_2,{name_initiator} merayu {name_target}
+actor.deep_social_alias.flattery_3,{name_initiator} mencari muka dengan {name_target}
+actor.deep_social_alias.flattery_4,{name_initiator} merangkak di hadapan {name_target}
+actor.deep_social_alias.flattery_5,{name_initiator} mengagumi {name_target} secara tidak tulus
+actor.deep_social_alias.flattery_6,{name_initiator} memuji setinggi-tingginya {name_target}
+actor.deep_social_alias.flattery_7,{name_initiator} memuji ego {name_target}
+actor.deep_social_alias.good_joke_1,{name_initiator} bertukar lelucon cerdas dengan {name_target}
+actor.deep_social_alias.good_joke_2,{name_initiator} menceritakan lelucon baru kepada {name_target}
+actor.deep_social_alias.good_joke_3,{name_initiator} tertawa bersama {name_target}
+actor.deep_social_alias.good_joke_4,{name_initiator} berbagi cerita pendek dengan {name_target}
+actor.deep_social_alias.good_joke_5,{name_initiator} menunjukkan parodi kepada {name_target}
+actor.deep_social_alias.intrigue_1,{name_initiator} berbagi rumor dengan {name_target}
+actor.deep_social_alias.intrigue_2,{name_initiator} mengungkapkan seluruh kebenaran kepada {name_target}
+actor.deep_social_alias.intrigue_3,{name_initiator} mengonfirmasi ketakutan {name_target}
+actor.deep_social_alias.intrigue_4,{name_initiator} berbagi rahasia dengan {name_target}
+actor.deep_social_alias.intrigue_5,{name_initiator} membuka mata {name_target}
+actor.deep_social_alias.intrigue_6,{name_initiator} mengungkap esensi {name_target}
+actor.deep_social_alias.intrigue_7,{name_initiator} memberi isyarat halus kepada {name_target}
+actor.deep_social_alias.slight_1,{name_initiator} meremehkan {name_target}
+actor.deep_social_alias.slight_2,{name_initiator} mengabaikan {name_target}
+actor.deep_social_alias.slight_3,{name_initiator} menempatkan {name_target} pada tempatnya
+actor.deep_social_alias.slight_4,{name_initiator} berpura-pura tidak mendengar {name_target}
+actor.deep_social_alias.sorry_1,{name_initiator} meminta maaf kepada {name_target}
+actor.deep_social_alias.bye_1,"{name_initiator} mengucapkan selamat tinggal kepada {name_target} sebelum pergi.
 "
-actor.deep_social_alias.bye_2,{name_initiator} promises {name_target} they will return as soon as possible.
-actor.deep_social_alias.bye_3,{name_target} wishes {name_initiator} a safe journey.
-actor.deep_social_alias.flirt_1,{name_initiator} is trying to seduce {name_target}
-actor.deep_social_alias.flirt_2,{name_initiator} is inviting {name_target} on a date
-actor.deep_social_alias.flirt_3,{name_initiator} is dangerously flirting with {name_target}
-actor.deep_social_alias.flirt_4,{name_initiator} is promising {name_target} a hot night
-opinion_mind_interest.hint_title,Interest: {interest}
-opinion_mind_interest.zodiak_signs,Smell
-opinion_mind_interest.beauty,Appearance
-opinion_mind_interest.age,Сharm of youth
-opinion_mind_interest.drank,Influence of alcohol
-opinion_mind_interest.love,In love
-opinion_mind_interest.religious_fan,Religious disagreements
-opinion_mind_interest.scars,Scars
-opinion_mind_interest.ugly,Disfigured
-opinion_mind_interest.romantic,Need for sex
-opinion_mind_interest.opinion,Relationships
-opinion_mind_interest.manners,Manners
-opinion_mind_interest.guest,Guest
-opinion_mind_interest.has_paramour,Feelings toward current partner
+actor.deep_social_alias.bye_2,{name_initiator} berjanji kepada {name_target} bahwa mereka akan kembali secepat mungkin.
+actor.deep_social_alias.bye_3,{name_target} mengucapkan perjalanan selamat kepada {name_initiator}.
+actor.deep_social_alias.flirt_1,{name_initiator} sedang mencoba merayu {name_target}
+actor.deep_social_alias.flirt_2,{name_initiator} sedang mengajak {name_target} kencan
+actor.deep_social_alias.flirt_3,{name_initiator} sedang menggoda {name_target} dengan berbahaya
+actor.deep_social_alias.flirt_4,{name_initiator} sedang berjanji malam panas kepada {name_target}
+opinion_mind_interest.hint_title,Ketertarikan: {interest}
+opinion_mind_interest.zodiak_signs,Bau
+opinion_mind_interest.beauty,Penampilan
+opinion_mind_interest.age,Pesona Pemuda
+opinion_mind_interest.drank,Pengaruh Alkohol
+opinion_mind_interest.love,Cinta
+opinion_mind_interest.religious_fan,Perselisihan Agama
+opinion_mind_interest.scars,Bekas Luka
+opinion_mind_interest.ugly,Cacat
+opinion_mind_interest.romantic,Kebutuhan Seks
+opinion_mind_interest.opinion,Hubungan
+opinion_mind_interest.manners,Tata Krama
+opinion_mind_interest.guest,Tamu
+opinion_mind_interest.has_paramour,Perasaan terhadap Pasangan Saat Ini
 opinion_mind_rumor_prefix,Rumor: {rumor}
-opinion_mind.abuse,Insulted me
-opinion_mind.abuse_paramour,Insulted partner
-opinion_mind.adultery,Unaware of my infidelity
-opinion_mind.blinded_relative,Blinded a loved one
-opinion_mind.bribe_me,Bribed me
-opinion_mind.chitchat,Small talk
-opinion_mind.close_relative,Close relative
-opinion_mind.convicted_of_adultery,Partner's betrayal
-opinion_mind.coward,Coward
-opinion_mind.criminal,Involved in crimes
-opinion_mind.deep_talk,Had a deep conversation
-opinion_mind.drunk_fight,Drunken fight
-opinion_mind.beat_me,Beat me
-opinion_mind.envy_happy,Too happy!
-opinion_mind.envy_runes,Envious of Rings
-opinion_mind.envy_for_babys,Envy of progeny
-opinion_mind.envy_for_victory,Envy of victories
-opinion_mind.evil_joke,Mocked me!
-opinion_mind.ex_paramour,Former partner
-opinion_mind.executed_relative,Executed a loved one
-opinion_mind.punished_me,Punished me!
-opinion_mind.flattery,Flattered me
-opinion_mind.flirt,Upcoming date
-opinion_mind.game_of_dice_loose,Won against me in dice!
-opinion_mind.gift,Gave me a gift
-opinion_mind.good_commander,Successful commander
-opinion_mind.good_joke,Had a great laugh together!
-opinion_mind.king_gift,Gave me a royal gift
-opinion_mind.heir_envy,Desire for the throne
-opinion_mind.hunt_together,Hunted together
-opinion_mind.intrigue,Dirty rumors
-opinion_mind.sorry,Apologized
-opinion_mind.jealousy,Rival!
-opinion_mind.love,I'm crazy about him!
-opinion_mind.negative_rumor_1,Eats at night
-opinion_mind.negative_rumor_10,Planning to leave forever
-opinion_mind.negative_rumor_11,Suffering from a venereal disease
-opinion_mind.negative_rumor_12,Wets the bed
-opinion_mind.negative_rumor_13,Hoards trash
-opinion_mind.negative_rumor_14,Secret atheist
-opinion_mind.negative_rumor_15,Sleeps on a mat by the door
-opinion_mind.negative_rumor_16,Secret pyromaniac
-opinion_mind.negative_rumor_17,Rarely bathes
-opinion_mind.negative_rumor_18,Always finishes leftovers
-opinion_mind.negative_rumor_19,Walks naked at night
-opinion_mind.negative_rumor_2,Picks nose
-opinion_mind.negative_rumor_20,Possessed by an evil spirit
-opinion_mind.negative_rumor_21,Worships a stump
-opinion_mind.negative_rumor_22,Unable to engage in sex
-opinion_mind.negative_rumor_23,Scratches armpits
-opinion_mind.negative_rumor_24,Eats insects
-opinion_mind.negative_rumor_25,Screams at night
-opinion_mind.negative_rumor_3,Peeks at the servant
-opinion_mind.negative_rumor_4,Passes gas
-opinion_mind.negative_rumor_6,Drinks a lot
-opinion_mind.negative_rumor_7,Badmouths behind people's back
-opinion_mind.negative_rumor_8,Steals utensils
-opinion_mind.negative_rumor_9,Going bald
-opinion_mind.night_murder,Vicious killer
-opinion_mind.other_relatives,Other relatives
-opinion_mind.paramour,Soulmate
-opinion_mind.paranoid_hate,Paranoid hatred
-opinion_mind.personality_arrogant,Scorns for poverty
-opinion_mind.personality_contradictory_hate,Unexplained hatred
-opinion_mind.personality_contradictory_love,Unexplained love
-opinion_mind.personality_mismatch,Unpleasant personality
-opinion_mind.personality_mismatch_heavy,Extremely unpleasant personality
-opinion_mind.positive_rumor_1,Secretly writes poetry
-opinion_mind.positive_rumor_10,Secret romantic
-opinion_mind.positive_rumor_11,Regrets the past
-opinion_mind.positive_rumor_12,Sees the dead
-opinion_mind.positive_rumor_13,Terminally ill
-opinion_mind.positive_rumor_15,Adores children
-opinion_mind.positive_rumor_16,Keeps a pet rat
-opinion_mind.positive_rumor_17,Has hypnosis abilities
-opinion_mind.positive_rumor_18,Secretly in love
-opinion_mind.positive_rumor_2,Tender in bed
-opinion_mind.positive_rumor_3,Hidden depression
-opinion_mind.positive_rumor_4,Haunted by guilt
-opinion_mind.positive_rumor_5,Plants flowers
-opinion_mind.positive_rumor_6,Dreams of learning to fly
-opinion_mind.positive_rumor_7,Collects belt buckles
-opinion_mind.positive_rumor_8,Secretly helps the sick
-opinion_mind.positive_rumor_9,Can do it five times in one night
-opinion_mind.pretender_envy,Envy of the heir
-opinion_mind.refuse_flirt,Refused a date
-opinion_mind.refuse_flirt_full,Rejected me! How dare he!
-opinion_mind.reward_me,Rewarded me
-opinion_mind.sex,Spent the night together!
-opinion_mind.shame_relative,Disgraced a loved one
-opinion_mind.slight,Disregarded me
-opinion_mind.spouse,Spouse
-opinion_mind.suspicion_of_adultery,Suspected adultery
-opinion_mind.try_to_kill_me,Tried to kill me!
-opinion_mind.manners_good,Well-mannered
-opinion_mind.manners_too_high,Too well-mannered
-opinion_mind.manners_too_low,Uncouth peasant
-opinion_mind.pregnancy_father,Father of my child
-opinion_mind.pregnancy_mother,Mother of my child
-opinion_mind.dummy_bastard,Bastard child of a peasant
-opinion_mind.lord_bastard,Bastard child of a lord
-opinion_mind.child,My child
-opinion_mind.parent,My parent
-opinion_mind.rescued_from_captivity,Rescued me from captivity!
-opinion_mind.speeping_with_my_partner,Sleeping with my partner!
-opinion_mind.uncle,Uncle/Aunt
-opinion_mind.nephew,Nephew/Niece
-opinion_mind.brother,Brother/Sister
-opinion_mind.related_marriage,Related through marriage
-opinion_mind.returned_debt,Returned a debt
-opinion_mind.not_returned_debt,Betrayed my trust
-opinion_mind.not_returned_debt_neighbor,Failed to repay a debt to a neighbor
-opinion_mind.player_paid_tribute,Paid me tribute
-opinion_mind.player_refuse_to_pay,Refused to pay
-opinion_mind.king_demand_pay,Extorted tribute from me
-opinion_mind.attacked_me,Attacked me
-opinion_mind.attack_neighbors,Attacks neighbors
-opinion_mind.attack_traity,Aggression against me
-opinion_mind.attack_traity_neighbors,Aggression against a neighbor
-opinion_mind.attack_coward,Failed to show up for a duel
-opinion_mind.vassal,My vassal
-opinion_mind.senior,My senior
-opinion_mind.vassal_duty_did,Fulfilled vassal's duty
-opinion_mind.betrayal,Betrayed me
-opinion_mind.betray_vassal_oath,Broke vassal's oath
-opinion_mind.king_bastard,Bastards should not wear a crown!
-opinion_mind.king_woman,Women should not wear a crown!
-opinion_mind.greetings_me,Greeted me
-opinion_mind.loot_my_village,Looted my village
-opinion_mind.friend_of_bandits,Makes deals with forest bandits
-opinion_mind.enemy_of_bandits,Defeats forest bandits
-opinion_mind.killed_wolves,Killed a wolf pack
-opinion_mind.kicked_out,Exiled me
-opinion_mind.take_title,Deprived me of my title
-opinion_mind.kicked_out_my_lord,Exiled my lord
-opinion_mind.discharge,Relief of relations
-opinion_mind.free_lord_terror,Attempt on the free lord's life
-opinion_mind.my_teacher,My teacher
-opinion_mind.dictator_habits,Dictatorial tendencies
-opinion_mind.threatened_me,Threatened me
-opinion_mind.crime_criminal_not_punished,A criminal goes unpunished
-opinion_mind.friend_of_my_child,Child's friend
-opinion_mind.best_friend_of_my_child,Child's best friend
-opinion_mind.enemy_of_my_child,Child's enemy
-opinion_mind.worst_enemy_of_my_child,Child's deadliest enemy
-opinion_mind.friend_of_my_spouce,Spouse's friend
-opinion_mind.best_friend_of_my_spouce,Spouse's best friend
-opinion_mind.enemy_of_my_spouce,Spouse's enemy
-opinion_mind.worst_enemy_of_my_spouce,Spouse's deadliest enemy
-opinion_mind.sex_with_other,My love slept with someone else
-opinion_mind.caring_parent,Caring parent
-opinion_mind.good_child,Obedient offspring
-opinion_mind.start_friend,Old ally
-opinion_mind.start_sympathy,Sympathy
-opinion_mind.start_dislike,Antipathy
-opinion_mind.start_enemy,Sworn enemy
-opinion_mind.too_smart,Too clever
-opinion_mind.sinner,Sinner (Fanaticism)
-opinion_mind.was_punished,Was punished
-opinion_mind.trade_with_enemy,Traded with my enemy
-opinion_mind.dont_kill_bandits,Failed to eliminate bandits
-opinion_mind.kill_not_own_bandits,Meddles in others' affairs
-opinion_mind.killed_my_friend,Killed my friend
-opinion_mind.killed_my_enemy,Killed my enemy
-opinion_mind.first_night_together,First night together
-opinion_mind.loot_vassal_village,Plundered a vassal's village
-opinion_mind.trade_with_me,Successful deal
-opinion_mind.victorious_generosity,Generosity of the victor
-opinion_mind.knocked_up_my_daughter,Impregnated my daughter
-opinion_mind.rebelled_against_kin,Rose against their own king
-opinion_mind.traitors_slander,Slander of turncoats
-opinion_mind.not_control_own_bandits,Does not control their bandits
-opinion_mind.unholly_hospitality,Violated the sanctity of hospitality
-opinion_mind.demand_vassalage_to_me,Tried to subdue me
-opinion_mind.mind_kidnaper,Kidnapper
-opinion_mind.mind_kidnaper_neighbore,Kidnapped neighbor's lord
-opinion_mind.mind_assassinate,Sent assassins
-opinion_mind.mind_assassinate_neighbore,Sent assassins to neighbor
-opinion_mind.dead_captive,The hostage has died
-opinion_mind.captive_hold,Holds a hostage
-opinion_mind.release_captive,Released a hostage
-opinion_mind.captive_terror,Tortures a hostage
-opinion_mind.lord_rebellion_support_heir_to_heir,Supported a rebellion
-opinion_mind.lord_rebellion_support_king_to_heir,Did not support a rebellion
-opinion_mind.lord_rebellion_support_heir_to_king,Did not support rightful authority
-opinion_mind.lord_rebellion_support_king_to_king,Supported rightful authority
-opinion_mind.poaching_my_lords,Poaches my lords
-opinion_mind.betrayed_home,Betrayed their own home
-opinion_mind.book_stealer,Stole books
-opinion_mind.gold_stealer,Committed a robbery
-opinion_mind.refuse_light_vassals,Refused vassalage
-opinion_mind.showed_weakness,Showed weakness
-opinion_mind.guest_death_for_owners,Suspicious death of a family member
-opinion_mind.guest_death_for_opponents,Suspicious death of a guest
-opinion_mind.faceless,Unholy Horde
-opinion_mind.not_faceless,Not Unholy Horde
-opinion_mind.hate_males,Hatred of men
-opinion_mind.hate_females,Hatred of women
-opinion_mind.blissful,Blissful
-opinion_mind.saint,Saintly
-opinion_mind.drug_addict,Addict
-opinion_mind.coward,Coward
-opinion_mind.help_against_facelesse,Aided against the Unholy Horde
-opinion_mind.tried_to_poison,Attempted poisoning
-opinion_mind.tried_to_poison_my_member,Tried to poison my lord
-opinion_mind.greedy,Greedy
-opinion_mind.king_role_weaker_than_me,Weaker than me (Kaiden)
-opinion_mind.king_role_stronger_than_me,Stronger than me (Kaiden)
-opinion_mind.king_role_poorer_than_me,Poorer than me (Makha)
-opinion_mind.king_role_reacher_than_me,Richer than me (Makha)
-opinion_mind.king_role_agnostic,Agnostic (Tanaya)
-opinion_mind.king_role_fanatic,Fanatic (Tanaya)
-opinion_mind.king_role_bandit_torelate,Puts up with bandits (Kaiden)
-opinion_mind.king_role_fight_with_bandit,Fights with bandits (Kaiden)
-opinion_mind.king_role_many_slaves,Many prisoners (Varns)
-opinion_mind.king_role_no_slaves,No prisoners (Varns)
-opinion_mind.king_role_vassal,Vassal (Varns)
-opinion_mind.king_role_suzerain,Suzerain (Varns)
-opinion_mind.king_role_dumber_than_me,Dumber than me (Makha)
-opinion_mind.king_role_smarter_than_me,Smarter than me (Makha)
-opinion_mind.women_king,Woman on the throne
-opinion_mind.disinherited_me,Deprived me of inheritance
-opinion_mind.illigal_heir,Illegitimate heir
-opinion_mind.few_fanatics,Lack of fanatics
-opinion_mind.few_churchs,Not enough temples
-opinion_mind.enough_fanatics,Many fanatics in the city
-opinion_mind.enough_churchs,Sufficient number of temples
-opinion_mind.blissful,Blissful
-opinion_mind.provoke_duel,Provoked a duel
-opinion_mind.provoke_duel_neighbore,Provoked a duel with the neighbor
-opinion_mind.declare_peace,Peace treaty
-opinion_mind.trade_agreement,Trade agreement
-opinion_mind.cruel_ruler,Treacherous ruler
-opinion_mind.bishop_frogivness,Has been forgiven
-opinion_mind.enemy_of_bandits_bishop,Destroyed the bandit camp
-opinion_mind.pitty,Pity
-opinion_mind.help_in_rescue,Help in liberation
-opinion_mind.lord_lowborn,Low nobility
-opinion_mind.matriarch_fanatic_mind,Number of fanatics in the city ({percent})
-opinion_mind.friend_lost_title,Deprived my friend of title
-opinion_mind.bishop_opinion,Bishop's opinion
-opinion_mind.defence_alliance_lost_soldier,Losses among reinforcements
-opinion_mind.defence_alliance_lost_lord,Reinforcement commander lost
-opinion_mind.defence_alliance_broken,Alliance broken
-opinion_mind.defence_alliance,Is part of the same alliance as me
-opinion_mind.defence_alliance_send_army,Honors the alliance
-opinion_mind.defence_alliance_broken_neighbore,Betrayed an ally
-opinion_mind.new_bishop,New episcopate
-opinion_mind.enemy_of_my_ally,Enemy of my ally
-opinion_mind.ally_of_my_enemy,Ally of my enemy
-opinion_mind.same_culture,Same culture
-opinion_mind.xenophobic_culture,Hated culture
-opinion_mind.slander_to_other_king,Had a grudge against another king
-opinion_mind.slander_from_other_king,Slandered
-opinion_mind.help_in_vassal_riot_to_vassal,Helped in the struggle for independence
-opinion_mind.help_in_vassal_riot_to_sir,Helped a rebellious vassal
-opinion_mind.help_in_lords_family_attack_to_victim,Helped in the defense of a city.
-opinion_mind.help_in_lords_family_attack_to_attacker,Helped fend off our attack
-opinion_mind.help_in_lords_family_destroy_to_victim,Helped save the city from destruction
-opinion_mind.help_in_lords_family_destroy_to_attacker,Helped save the city from destruction
-opinion_mind.help_in_mountais_bandits_attack,Helped destroy marauders
-opinion_mind.helped_tanaya_king,Helps the kings of Tanaya
-opinion_mind.helped_makha_king,Helps the kings of Makkha
-opinion_mind.rival_for_power,Rival for power
-opinion_mind.crown_desire,Wish of the crown
-opinion_mind.bishop_to_fanatic,Fanatic
-opinion_mind.bishop_to_agnostic,Agnostic
-opinion_mind.transfered_king,Gave away the crown
-opinion_mind.distrust,Distrust
-opinion_mind.try_to_vassal_my_vassal,Trying to conquer my vassal
-opinion_mind.contempt_of_genius,Any other ruler is a nonentity!
-opinion_mind.force_neutrality_my_ally,Forced the neutrality of an ally
-opinion_mind.force_neutrality_my_vassal,Forced the neutrality of a vassal
-opinion_mind.force_neutrality_me,Forced me to remain neutral
-opinion_mind.force_neutrality_to_leader,Broke an agreement
-opinion_mind.competitor_for_influence,Competitor for influence
-opinion_mind.ally_was_attacked,Attacked my ally
-opinion_mind.vassal_was_attacked,Attacked my vassal
-opinion_mind.spouses_opinion_about_king,Spouse's opinion
-opinion_mind.sir_of_my_enemy,Suzerain of my enemy
-opinion_mind.ally_of_my_enemy,Ally of my enemy
-opinion_mind.bishop_is_dead,Suspicious death of a bishop
-opinion_mind.purification_by_fire,Subjected to purification by fire
-opinion_mind.personal_conflict_ignore,Scared of being involved in a conflict
-opinion_mind.personal_conflict_support_me,Supported me in a conflict
-opinion_mind.personal_conflict_support_enemy,Supported my enemy in a conflict
-opinion_mind.betray_sir_oath,Broke the suzerain's oath
-opinion_mind.lord_neutralised,Helped get rid of troublesome lord
-opinion_mind.apostate,Apostate
-opinion_mind.purchase_stolen_rings,Bought the Rings that were stolen from me!
-opinion_mind.took_my_house,Took my house!
-opinion_mind.family_relative_strange_dead,Death of a relative
-opinion_mind.want_to_burn_my_town,He wants to burn my city!
-opinion_mind.want_to_burn_town_unfair_neighbores,Aggression against a neighbor
-opinion_mind.defence_alliance_not_help,Betrayed an ally
-opinion_mind.praise_from_other_king,Praise from a neighbor
-opinion_mind.demand_tribute_neighbors,Demanding tribute from neighbors
-opinion_mind.king_diplomacy,Communication with envoy
-opinion_mind.strong_sir_army,The might of the suzerain's army
-opinion_mind.allowed_death_of_close,Allowed the death of a loved one
-opinion_mind.crown_envy,Envious of crown
-opinion_mind.forced_marriage,Forced marriage
-opinion_mind.ex_heir_enemy,Former contender for the throne
-opinion_mind.king_defied_church,Challenged the authority of the Church
-opinion_mind.agnostic_to_fanatic,Damn fanatic (Agnosticism)
-opinion_mind.fanatic_to_agnostic,Damn agnostic (Fanaticism)
-opinion_mind.untitled_to_others,"Envy of the title "
-opinion_mind.others_to_untitled,Contempt for the lesser lord
-activity_state.ambush_panic.go_to,Escapes danger
-activity_state.ambush_panic.waiting,Experiencing a panic attack
-activity_state.ambush_prepare,Preparing for an attack
-activity_state.atm.go_to,Goes to carry the body
-activity_state.atm.process,Carrying the body
-activity_state.battle_follow_enemy,Pursuing the enemy
-activity_state.battle_process,Fighting
-activity_state.battle_squad_commander,Commanding a squad
-activity_state.battle_squad_go_to_formation,Goes to the commander
-activity_state.battle_squad_in_formation,Part of a squad
-activity_state.battle_win,Rejoices in victory
-activity_state.book_reading.go_to,Goes to read poetry
-activity_state.book_reading.process,Reading poetry
-activity_state.burning.process,Burning in agony
-activity_state.caravaneer.trade.go_to,Goes to trade
-activity_state.caravaneer.trade.process,Ready to trade
-activity_state.slave.trade.go_to,Goes to caravaneer
-activity_state.free_lord.go_to,Waiting to be hired
-activity_state.slave.suicide,Сommitting suicide
-activity_state.church.go_to,Goes to the temple
-activity_state.church.morning_service.process,Sermon Of Joy
-activity_state.church.morning_service.waiting,Waiting for sermon
-activity_state.church.pray,Praying
-activity_state.conversation.go_to,Goes to talk to {name}
-activity_state.criminal.burglary.go_to,Goes to break into a house
-activity_state.criminal.burglary.lockpicking,Breaking the lock
-activity_state.criminal.burglary.process,Robs a house
-activity_state.criminal.burglary.waiting,Waiting for an accomplice
-activity_state.criminal.night_murder,Goes to kill an enemy
-activity_state.criminal.robbery,Looking for a victim to rob
-activity_state.criminal.storage_robbery.go_to,Goes to rob a warehouse
-activity_state.criminal.storage_robbery.process,Robbing the warehouse
-activity_state.dead,Dead
-activity_state.deep_social.go_to,Goes to socialize
-activity_state.deep_social.process,Socializing
-activity_state.deep_social.waiting,Waiting for someone to talk to
-activity_state.dice_of_fate.go_to,Goes to divine with bones
-activity_state.dice_of_fate.process,Divining with bones
-activity_state.dreaming.go_to,Goes to daydream
-activity_state.dreaming.process,Daydreaming
-activity_state.drinking.go_to,Goes to drink beer
-activity_state.drinking.process,Drinking beer
-activity_state.drinking_nectar.go_to,Goes to drink nectar
-activity_state.drinking_nectar.process,Drinking nectar
-activity_state.eating.go_to,Goes to eat
-activity_state.eating.process,Eating
-activity_state.fight_trainer.go_to,Goes to supervise training
-activity_state.fight_trainer.process,Supervising training
-activity_state.fight_training.go_to,Goes to train
-activity_state.fight_training.waiting,Waiting for a sparring partner
-activity_state.finish_off_enemy,Finishing off the enemy
-activity_state.firefight.go_to,Runs to extinguish a fire
-activity_state.firefight.process,Extinguishing the fire
-activity_state.game_of_dice.go_to,Goes to play dice
-activity_state.game_of_dice.process,Playing dice
-activity_state.game_of_dice.waiting,Waiting for an opponent
-activity_state.home_pray.go_to,Goes to pray at home
-activity_state.inspector.go_to,Goes for an inspection
-activity_state.inspector.process,Conducting an inspection
-activity_state.leaving_to_forest.go_to,Leaving the settlement
-activity_state.music.listen.go_to,Goes to listen to music
-activity_state.music.listen.process,Listening to music
-activity_state.music.play.go_to,Goes to play music
-activity_state.music.play.process,Playing music
-activity_state.nothing,Doing nothing
-activity_state.order.attack,Attacking {name}
-activity_state.order.building_burning.go_to,Goes to set {building} on fire
-activity_state.order.building_burning.process,Setting {building} on fire
-activity_state.order.building_robbery.go_to,Goes to loot {building}
-activity_state.order.building_robbery.process,Loots {building}
-activity_state.order.follow,Pursuing {name}
-activity_state.order.moving,Advancing
-activity_state.order.travel_prepare.go_to,Advancing for provisions
-activity_state.order.travel_prepare.process,Taking provisions
-activity_state.pain_shock,Unconscious from pain shock
-activity_state.patrol,Patrolling
-activity_state.punish_watching.go_to,Goes to watch the punishment
-activity_state.punish_watching.process,Watching the punishment
-activity_state.punish.go_to,Leading a criminal
-activity_state.punish.process,Administering punishment
-activity_state.punish.search,Goes after the criminal
-activity_state.punish.target.go_to,Goes to the scaffold
-activity_state.punish.target.waiting,Awaiting punishment
-activity_state.punish.witness.go_to,Goes to interrogate a witness
-activity_state.punish.witness.process,Interrogating a witness
-activity_state.punish.witness.target.process,Giving testimony
-activity_state.punish.work_wait,Waiting for work
-activity_state.punish.intimidate,Goes to intimidate
-activity_state.intimidate.process,Intimidating
-activity_state.retreat,Fleeing
-activity_state.rtm.go_to,Goes for resources
-activity_state.rtm.process,Transferring resources
-activity_state.salary.go_to,Goes for wages
-activity_state.sex.go_to,Goes to have sex
-activity_state.sex.process,Having sex
-activity_state.sex.waiting,Waiting for a partner
-activity_state.shopping.go_to,Goes to the market
-activity_state.shopping.process,Buying goods
-activity_state.sick_visit.go_to,Goes to visit the sick
-activity_state.sick_visit.process,Visiting the sick
-activity_state.sick_visit.target.process,Happy about the visit
-activity_state.sick_visit.target.waiting,Waiting for a visit
-activity_state.skill_training.go_to,Goes to train {skill_name}
-activity_state.skill_training.process,Training {skill_name}
-activity_state.sleeping.fatigue.process,Sleeping from exhaustion
-activity_state.sleeping.go_to,Goes to sleep
-activity_state.sleeping.on_ground.process,Sleeping on the ground
-activity_state.sleeping.process,Sleeping
-activity_state.social_relaxation.go_to,Goes to contemplate
-activity_state.social_relaxation.process_1,Planning the future
-activity_state.social_relaxation.process_2,Reflecting on the past
-activity_state.social_relaxation.process_3,Enjoying the moment
-activity_state.social_relaxation.process_4,Having thoughts of death
-activity_state.social_relaxation.process_5,Contemplating destiny
-activity_state.social_relaxation.process_6,Thinking about loved ones
-activity_state.social_relaxation.process_7,Reflecting on deeds
-activity_state.social_relaxation.process_8,Doubting existence
-activity_state.spend_time.drinking.go_to,Goes to drink beer in company
-activity_state.spend_time.drinking.process,Drinking beer in company
-activity_state.spend_time.hunt.go_to,Goes to hunt
-activity_state.spend_time.hunt.waiting,Waiting for a hunting partner
-activity_state.spend_time.music.go_to,Goes to play music in company
-activity_state.spend_time.music.process,Playing music in company
-activity_state.spend_time.pray.go_to,Goes to pray in company
-activity_state.spend_time.pray.process,Praying in company
-activity_state.spend_time.waiting,Waiting for someone
-activity_state.spend_time.walking.process,Walking in company
-activity_state.take_equipment.go_to,Goes to get equipment
-activity_state.tantrum.binge.go_to,Goes to begin drinking spree
-activity_state.tantrum.binge.process,Drinking spree
-activity_state.tantrum.crazy_pray.go_to,Immersed in a religious trance
-activity_state.tantrum.crazy_pray.process,In a religious trance
-activity_state.tantrum.rage.process,Looking for someone to beat up
-activity_state.tantrum.self_immolation.go_to,Planning to purify by fire
-activity_state.trade.go_to,Goes to trade with a caravanner
-activity_state.unconscious,Unconscious
-activity_state.use_bandage,Stops the bleeding
-activity_state.use_medicine.go_to,Goes for medicine
-activity_state.use_medicine.process,Taking medicine
-activity_state.walking,Strolling
+opinion_mind.abuse,Menghina saya
+opinion_mind.abuse_paramour,Menghina pasangan
+opinion_mind.adultery,Tidak Sadar Perselingkuhan Saya
+opinion_mind.blinded_relative,Membutakan Orang Tercinta
+opinion_mind.bribe_me,Menyuap Saya
+opinion_mind.chitchat,Obrolan Ringan
+opinion_mind.close_relative,Kerabat Dekat
+opinion_mind.convicted_of_adultery,Pengkhianatan Pasangan
+opinion_mind.coward,Penakut
+opinion_mind.criminal,Terlibat dalam Kejahatan
+opinion_mind.deep_talk,Memiliki Percakapan Mendalam
+opinion_mind.drunk_fight,Perkelahian Mabuk
+opinion_mind.beat_me,Memukuli Saya
+opinion_mind.envy_happy,Terlalu Bahagia!
+opinion_mind.envy_runes,Iri dengan Cincin
+opinion_mind.envy_for_babys,Iri dengan Keturunan
+opinion_mind.envy_for_victory,Iri dengan Kemenangan
+opinion_mind.evil_joke,Mengejek Saya!
+opinion_mind.ex_paramour,Pasangan Mantan
+opinion_mind.executed_relative,Menghukum Mati Orang Tercinta
+opinion_mind.punished_me,Menghukum Saya!
+opinion_mind.flattery,Merayu Saya
+opinion_mind.flirt,Kencan yang Akan Datang
+opinion_mind.game_of_dice_loose,Menang Melawan Saya dalam Permainan Dadu!
+opinion_mind.gift,Memberi Saya Hadiah
+opinion_mind.good_commander,Komandan Sukses
+opinion_mind.good_joke,Tertawa Bersama dengan Hebat!
+opinion_mind.king_gift,Memberi Saya Hadiah Kerajaan
+opinion_mind.heir_envy,Keinginan untuk Takhta
+opinion_mind.hunt_together,Berburu Bersama
+opinion_mind.intrigue,Rumor Kotor
+opinion_mind.sorry,Meminta Maaf
+opinion_mind.jealousy,Saingan!
+opinion_mind.love,Saya Gila Dengannya!
+opinion_mind.negative_rumor_1,Makan di Malam Hari
+opinion_mind.negative_rumor_10,Merencanakan Pergi Selamanya
+opinion_mind.negative_rumor_11,Menderita Penyakit Kelamin
+opinion_mind.negative_rumor_12,Mengompol di Tempat Tidur
+opinion_mind.negative_rumor_13,Menyimpan Sampah
+opinion_mind.negative_rumor_14,Ateis Rahasia
+opinion_mind.negative_rumor_15,Tidur di Tikar di Dekat Pintu
+opinion_mind.negative_rumor_16,Piyromaniak Rahasia
+opinion_mind.negative_rumor_17,Jarang Mandi
+opinion_mind.negative_rumor_18,Selalu Menyelesaikan Sisa Makanan
+opinion_mind.negative_rumor_19,Berjalan Telanjang di Malam Hari
+opinion_mind.negative_rumor_2,Mengorek Hidung
+opinion_mind.negative_rumor_20,Dikuasai Roh Jahat
+opinion_mind.negative_rumor_21,Memuja Tunggul
+opinion_mind.negative_rumor_22,Tidak Mampu Berhubungan Seks
+opinion_mind.negative_rumor_23,Menggaruk Ketiak
+opinion_mind.negative_rumor_24,Makan Serangga
+opinion_mind.negative_rumor_25,Berteriak di Malam Hari
+opinion_mind.negative_rumor_3,Mengintip Pelayan
+opinion_mind.negative_rumor_4,Kentut
+opinion_mind.negative_rumor_6,Minum Banyak
+opinion_mind.negative_rumor_7,Menggunjing di Belakang
+opinion_mind.negative_rumor_8,Mencuri Peralatan Makan
+opinion_mind.negative_rumor_9,Membotak
+opinion_mind.night_murder,Pembunuh Kejam
+opinion_mind.other_relatives,Kerabat Lain
+opinion_mind.paramour,Pasangan Jiwa
+opinion_mind.paranoid_hate,Kebencian Paranoid
+opinion_mind.personality_arrogant,Meremehkan karena Kemiskinan
+opinion_mind.personality_contradictory_hate,Kebencian Tak Terjelaskan
+opinion_mind.personality_contradictory_love,Cinta Tak Terjelaskan
+opinion_mind.personality_mismatch,Kepribadian Tidak Menyenangkan
+opinion_mind.personality_mismatch_heavy,Kepribadian Sangat Tidak Menyenangkan
+opinion_mind.positive_rumor_1,Secara Rahasia Menulis Puisi
+opinion_mind.positive_rumor_10,Romantis Rahasia
+opinion_mind.positive_rumor_11,Menyesali Masa Lalu
+opinion_mind.positive_rumor_12,Melihat Orang Mati
+opinion_mind.positive_rumor_13,Sakit Parah
+opinion_mind.positive_rumor_15,Sangat Sayang Anak-anak
+opinion_mind.positive_rumor_16,Memelihara Tikus Peliharaan
+opinion_mind.positive_rumor_17,Memiliki Kemampuan Hipnosis
+opinion_mind.positive_rumor_18,Cinta Secara Rahasia
+opinion_mind.positive_rumor_2,Lembut di Ranjang
+opinion_mind.positive_rumor_3,Depresi Tersembunyi
+opinion_mind.positive_rumor_4,Dihantui Rasa Bersalah
+opinion_mind.positive_rumor_5,Menanam Bunga
+opinion_mind.positive_rumor_6,Mimpi Belajar Terbang
+opinion_mind.positive_rumor_7,Mengumpulkan Gesper Sabuk
+opinion_mind.positive_rumor_8,Secara Rahasia Membantu Orang Sakit
+opinion_mind.positive_rumor_9,Bisa Melakukannya Lima Kali dalam Satu Malam
+opinion_mind.pretender_envy,Iri dengan Ahli Waris
+opinion_mind.refuse_flirt,Menolak Kencan
+opinion_mind.refuse_flirt_full,Menolak Saya! Beraninya Dia!
+opinion_mind.reward_me,Memberi Hadiah kepada Saya
+opinion_mind.sex,Menghabiskan Malam Bersama!
+opinion_mind.shame_relative,Mempermalukan Orang Tercinta
+opinion_mind.slight,Meremehkan Saya
+opinion_mind.spouse,Pasangan
+opinion_mind.suspicion_of_adultery,Dicurigai Selingkuh
+opinion_mind.try_to_kill_me,Mencoba Membunuh Saya!
+opinion_mind.manners_good,Berperilaku Baik
+opinion_mind.manners_too_high,Terlalu Berperilaku Baik
+opinion_mind.manners_too_low,Petani Kasar
+opinion_mind.pregnancy_father,Ayah Anak Saya
+opinion_mind.pregnancy_mother,Ibu Anak Saya
+opinion_mind.dummy_bastard,Anak Haram dari Petani
+opinion_mind.lord_bastard,Anak Haram dari Tuan
+opinion_mind.child,Anak Saya
+opinion_mind.parent,Orang Tua Saya
+opinion_mind.rescued_from_captivity,Menyelamatkan Saya dari Penahanan!
+opinion_mind.speeping_with_my_partner,Tidur dengan Pasangan Saya!
+opinion_mind.uncle,Paman/Bibi
+opinion_mind.nephew,Keponakan
+opinion_mind.brother,Saudara Laki-laki/Saudara Perempuan
+opinion_mind.related_marriage,Terkait melalui Pernikahan
+opinion_mind.returned_debt,Mengembalikan Utang
+opinion_mind.not_returned_debt,Mengkhianati Kepercayaan Saya
+opinion_mind.not_returned_debt_neighbor,Gagal Membayar Utang kepada Tetangga
+opinion_mind.player_paid_tribute,Membayar Upeti kepada Saya
+opinion_mind.player_refuse_to_pay,Menolak Membayar
+opinion_mind.king_demand_pay,Memeras Upeti dari Saya
+opinion_mind.attacked_me,Menyerang Saya
+opinion_mind.attack_neighbors,Menyerang Tetangga
+opinion_mind.attack_traity,Agresi terhadap Saya
+opinion_mind.attack_traity_neighbors,Agresi terhadap Tetangga
+opinion_mind.attack_coward,Gagal Muncul untuk Duel
+opinion_mind.vassal,Bawahan Saya
+opinion_mind.senior,Atasan Saya
+opinion_mind.vassal_duty_did,Memenuhi Kewajiban Bawahan
+opinion_mind.betrayal,Mengkhianati Saya
+opinion_mind.betray_vassal_oath,Melanggar Sumpah Bawahan
+opinion_mind.king_bastard,Anak Haram Tidak Boleh Memakai Mahkota!
+opinion_mind.king_woman,Wanita Tidak Boleh Memakai Mahkota!
+opinion_mind.greetings_me,Menyapa Saya
+opinion_mind.loot_my_village,Merampok Desa Saya
+opinion_mind.friend_of_bandits,Bernegosiasi dengan Perampok Hutan
+opinion_mind.enemy_of_bandits,Mengalahkan Perampok Hutan
+opinion_mind.killed_wolves,Membunuh Kawanan Serigala
+opinion_mind.kicked_out,Mengasingkan Saya
+opinion_mind.take_title,Merampas Gelar Saya
+opinion_mind.kicked_out_my_lord,Mengasingkan Tuan Saya
+opinion_mind.discharge,Perbaikan Hubungan
+opinion_mind.free_lord_terror,Upaya Pembunuhan terhadap Tuan Bebas
+opinion_mind.my_teacher,Guru Saya
+opinion_mind.dictator_habits,Kecenderungan Diktatorial
+opinion_mind.threatened_me,Mengancam Saya
+opinion_mind.crime_criminal_not_punished,Kriminal Bebas Tanpa Hukuman
+opinion_mind.friend_of_my_child,Teman Anak
+opinion_mind.best_friend_of_my_child,Sahabat Anak
+opinion_mind.enemy_of_my_child,Musuh Anak
+opinion_mind.worst_enemy_of_my_child,Musuh Paling Mematikan Anak
+opinion_mind.friend_of_my_spouce,Teman Pasangan
+opinion_mind.best_friend_of_my_spouce,Sahabat Pasangan
+opinion_mind.enemy_of_my_spouce,Musuh Pasangan
+opinion_mind.worst_enemy_of_my_spouce,Musuh Paling Mematikan Pasangan
+opinion_mind.sex_with_other,Cinta Saya Tidur dengan Orang Lain
+opinion_mind.caring_parent,Orang Tua yang Peduli
+opinion_mind.good_child,Keturunan yang Patuh
+opinion_mind.start_friend,Sekutu Lama
+opinion_mind.start_sympathy,Simpati
+opinion_mind.start_dislike,Antipati
+opinion_mind.start_enemy,Musuh Bersumpah
+opinion_mind.too_smart,Terlalu Cerdas
+opinion_mind.sinner,Dosa (Fanatisme)
+opinion_mind.was_punished,Dihukum
+opinion_mind.trade_with_enemy,Berdagang dengan Musuh Saya
+opinion_mind.dont_kill_bandits,Gagal Menghilangkan Perampok
+opinion_mind.kill_not_own_bandits,Ikut Campur Urusan Orang Lain
+opinion_mind.killed_my_friend,Membunuh Teman Saya
+opinion_mind.killed_my_enemy,Membunuh Musuh Saya
+opinion_mind.first_night_together,Malam Pertama Bersama
+opinion_mind.loot_vassal_village,Merampok Desa Bawahan
+opinion_mind.trade_with_me,Kesepakatan Sukses
+opinion_mind.victorious_generosity,Kemurahan Hati Pemenang
+opinion_mind.knocked_up_my_daughter,Membuahi Putri Saya
+opinion_mind.rebelled_against_kin,Memberontak Melawan Raja Sendiri
+opinion_mind.traitors_slander,Fitnah terhadap Pengkhianat
+opinion_mind.not_control_own_bandits,Tidak Mengendalikan Perampok Mereka
+opinion_mind.unholly_hospitality,Melanggar Kesucian Keramahan
+opinion_mind.demand_vassalage_to_me,Mencoba Menaklukkan Saya
+opinion_mind.mind_kidnaper,Penculik
+opinion_mind.mind_kidnaper_neighbore,Menculik Tuan Tetangga
+opinion_mind.mind_assassinate,Mengirim Pembunuh Bayaran
+opinion_mind.mind_assassinate_neighbore,Mengirim Pembunuh Bayaran ke Tetangga
+opinion_mind.dead_captive,Sandera Telah Meninggal
+opinion_mind.captive_hold,Memegang Sandera
+opinion_mind.release_captive,Melepaskan Sandera
+opinion_mind.captive_terror,Menyiksa Sandera
+opinion_mind.lord_rebellion_support_heir_to_heir,Mendukung Pemberontakan
+opinion_mind.lord_rebellion_support_king_to_heir,Tidak Mendukung Pemberontakan
+opinion_mind.lord_rebellion_support_heir_to_king,Tidak Mendukung Otoritas yang Sah
+opinion_mind.lord_rebellion_support_king_to_king,Mendukung Otoritas yang Sah
+opinion_mind.poaching_my_lords,Mencuri Tuan-tuan Saya
+opinion_mind.betrayed_home,Mengkhianati Rumah Sendiri
+opinion_mind.book_stealer,Mencuri Buku
+opinion_mind.gold_stealer,Melakukan Perampokan
+opinion_mind.refuse_light_vassals,Menolak Kewajiban Bawahan
+opinion_mind.showed_weakness,Menunjukkan Kelemahan
+opinion_mind.guest_death_for_owners,Kematian Mencurigakan Anggota Keluarga
+opinion_mind.guest_death_for_opponents,Kematian Mencurigakan Tamu
+opinion_mind.faceless,Hor Hampa
+opinion_mind.not_faceless,Bukan Hor Hampa
+opinion_mind.hate_males,Kebencian terhadap Pria
+opinion_mind.hate_females,Kebencian terhadap Wanita
+opinion_mind.blissful,Bahagia
+opinion_mind.saint,Orang Suci
+opinion_mind.drug_addict,Pecandu
+opinion_mind.coward,Penakut
+opinion_mind.help_against_facelesse,Membantu Melawan Hor Hampa
+opinion_mind.tried_to_poison,Upaya Keracunan
+opinion_mind.tried_to_poison_my_member,Mencoba Meracuni Tuan Saya
+opinion_mind.greedy,Keserakahan
+opinion_mind.king_role_weaker_than_me,Lebih Lemah dari Saya (Kaiden)
+opinion_mind.king_role_stronger_than_me,Lebih Kuat dari Saya (Kaiden)
+opinion_mind.king_role_poorer_than_me,Lebih Miskin dari Saya (Makha)
+opinion_mind.king_role_reacher_than_me,Lebih Kaya dari Saya (Makha)
+opinion_mind.king_role_agnostic,Agnostik (Tanaya)
+opinion_mind.king_role_fanatic,Fanatik (Tanaya)
+opinion_mind.king_role_bandit_torelate,Menerima Perampok (Kaiden)
+opinion_mind.king_role_fight_with_bandit,Bertarung dengan Perampok (Kaiden)
+opinion_mind.king_role_many_slaves,Banyak Tahanan (Varns)
+opinion_mind.king_role_no_slaves,Tidak Ada Tahanan (Varns)
+opinion_mind.king_role_vassal,Bawahan (Varns)
+opinion_mind.king_role_suzerain,Atasan (Varns)
+opinion_mind.king_role_dumber_than_me,Lebih Bodoh dari Saya (Makha)
+opinion_mind.king_role_smarter_than_me,Lebih Pintar dari Saya (Makha)
+opinion_mind.women_king,Wanita di Takhta
+opinion_mind.disinherited_me,Merampas Warisan Saya
+opinion_mind.illigal_heir,Ahli Waris Tidak Sah
+opinion_mind.few_fanatics,Kurangnya Fanatik
+opinion_mind.few_churchs,Kuil Tidak Cukup
+opinion_mind.enough_fanatics,Banyak Fanatik di Kota
+opinion_mind.enough_churchs,Jumlah Kuil yang Cukup
+opinion_mind.blissful,Bahagia
+opinion_mind.provoke_duel,Memprovokasi Duel
+opinion_mind.provoke_duel_neighbore,Memprovokasi Duel dengan Tetangga
+opinion_mind.declare_peace,Perjanjian Damai
+opinion_mind.trade_agreement,Perjanjian Perdagangan
+opinion_mind.cruel_ruler,Penguasa Licik
+opinion_mind.bishop_frogivness,Telah Diampuni
+opinion_mind.enemy_of_bandits_bishop,Menghancurkan Kemah Perampok
+opinion_mind.pitty,Kasihan
+opinion_mind.help_in_rescue,Bantuan dalam Pembebasan
+opinion_mind.lord_lowborn,Kebangsawanan Rendah
+opinion_mind.matriarch_fanatic_mind,Jumlah Fanatik di Kota ({percent})
+opinion_mind.friend_lost_title,Merampas Gelar Teman Saya
+opinion_mind.bishop_opinion,Pendapat Uskup
+opinion_mind.defence_alliance_lost_soldier,Kerugian di Kalangan Penguatan
+opinion_mind.defence_alliance_lost_lord,Komandan Penguatan Hilang
+opinion_mind.defence_alliance_broken,Aliansi Putus
+opinion_mind.defence_alliance,Bagian dari Aliansi yang Sama dengan Saya
+opinion_mind.defence_alliance_send_army,Menghormati Aliansi
+opinion_mind.defence_alliance_broken_neighbore,Mengkhianati Sekutu
+opinion_mind.new_bishop,Episkopat Baru
+opinion_mind.enemy_of_my_ally,Musuh Sekutu Saya
+opinion_mind.ally_of_my_enemy,Sekutu Musuh Saya
+opinion_mind.same_culture,Budaya Sama
+opinion_mind.xenophobic_culture,Budaya Dibenci
+opinion_mind.slander_to_other_king,Menyimpan Dendam terhadap Raja Lain
+opinion_mind.slander_from_other_king,Fitnah
+opinion_mind.help_in_vassal_riot_to_vassal,Membantu dalam Perjuangan Kemerdekaan
+opinion_mind.help_in_vassal_riot_to_sir,Membantu Bawahan Pemberontak
+opinion_mind.help_in_lords_family_attack_to_victim,Membantu dalam Pertahanan Kota.
+opinion_mind.help_in_lords_family_attack_to_attacker,Membantu Menangkis Serangan Kami
+opinion_mind.help_in_lords_family_destroy_to_victim,Membantu Menyelamatkan Kota dari Penghancuran
+opinion_mind.help_in_lords_family_destroy_to_attacker,Membantu Menyelamatkan Kota dari Penghancuran
+opinion_mind.help_in_mountais_bandits_attack,Membantu Menghancurkan Perampok
+opinion_mind.helped_tanaya_king,Membantu Raja-raja Tanaya
+opinion_mind.helped_makha_king,Membantu Raja-raja Makkha
+opinion_mind.rival_for_power,Saingan untuk Kekuasaan
+opinion_mind.crown_desire,Keinginan Mahkota
+opinion_mind.bishop_to_fanatic,Fanatik
+opinion_mind.bishop_to_agnostic,Agnostik
+opinion_mind.transfered_king,Memberikan Mahkota
+opinion_mind.distrust,Ketidakpercayaan
+opinion_mind.try_to_vassal_my_vassal,Mencoba Menaklukkan Bawahan Saya
+opinion_mind.contempt_of_genius,Penguasa Lain Hanyalah Tak Berguna!
+opinion_mind.force_neutrality_my_ally,Memaksa Netralitas Sekutu
+opinion_mind.force_neutrality_my_vassal,Memaksa Netralitas Bawahan
+opinion_mind.force_neutrality_me,Memaksa Saya Tetap Netral
+opinion_mind.force_neutrality_to_leader,Melanggar Perjanjian
+opinion_mind.competitor_for_influence,Pesaing untuk Pengaruh
+opinion_mind.ally_was_attacked,Menyerang Sekutu Saya
+opinion_mind.vassal_was_attacked,Menyerang Bawahan Saya
+opinion_mind.spouses_opinion_about_king,Pendapat Pasangan
+opinion_mind.sir_of_my_enemy,Atasan Musuh Saya
+opinion_mind.ally_of_my_enemy,Sekutu Musuh Saya
+opinion_mind.bishop_is_dead,Kematian Mencurigakan Uskup
+opinion_mind.purification_by_fire,Dijadikan Pemurnian dengan Api
+opinion_mind.personal_conflict_ignore,Takut Terlibat dalam Konflik
+opinion_mind.personal_conflict_support_me,Mendukung Saya dalam Konflik
+opinion_mind.personal_conflict_support_enemy,Mendukung Musuh Saya dalam Konflik
+opinion_mind.betray_sir_oath,Melanggar Sumpah Atasan
+opinion_mind.lord_neutralised,Membantu Menyingkirkan Tuan Bermasalah
+opinion_mind.apostate,Murtad
+opinion_mind.purchase_stolen_rings,Membeli Cincin yang Dicuri dari Saya!
+opinion_mind.took_my_house,Mengambil Rumah Saya!
+opinion_mind.family_relative_strange_dead,Kematian Kerabat
+opinion_mind.want_to_burn_my_town,Dia Ingin Membakar Kota Saya!
+opinion_mind.want_to_burn_town_unfair_neighbores,Agresi terhadap Tetangga
+opinion_mind.defence_alliance_not_help,Mengkhianati Sekutu
+opinion_mind.praise_from_other_king,Pujian dari Tetangga
+opinion_mind.demand_tribute_neighbors,Menuntut Upeti dari Tetangga
+opinion_mind.king_diplomacy,Komunikasi dengan Utusan
+opinion_mind.strong_sir_army,Kekuatan Tentara Atasan
+opinion_mind.allowed_death_of_close,Membiarkan Kematian Orang Tercinta
+opinion_mind.crown_envy,Iri dengan Mahkota
+opinion_mind.forced_marriage,Pernikahan Paksa
+opinion_mind.ex_heir_enemy,Pesaing Mantan untuk Takhta
+opinion_mind.king_defied_church,Menantang Otoritas Gereja
+opinion_mind.agnostic_to_fanatic,Fanatik Sial (Agnostisisme)
+opinion_mind.fanatic_to_agnostic,Agnostik Sial (Fanatisme)
+opinion_mind.untitled_to_others,"Iri dengan Gelar "
+opinion_mind.others_to_untitled,Meremehkan Tuan Rendah
+activity_state.ambush_panic.go_to,Melarikan Diri dari Bahaya
+activity_state.ambush_panic.waiting,Mengalami Serangan Panik
+activity_state.ambush_prepare,Bersiap untuk Serangan
+activity_state.atm.go_to,Pergi Membawa Jasad
+activity_state.atm.process,Membawa Jasad
+activity_state.battle_follow_enemy,Mengejar Musuh
+activity_state.battle_process,Bertarung
+activity_state.battle_squad_commander,Memimpin Regu
+activity_state.battle_squad_go_to_formation,Pergi ke Komandan
+activity_state.battle_squad_in_formation,Bagian dari Regu
+activity_state.battle_win,Merayakan Kemenangan
+activity_state.book_reading.go_to,Pergi Membaca Puisi
+activity_state.book_reading.process,Membaca Puisi
+activity_state.burning.process,Terbakar dalam Rasa Sakit
+activity_state.caravaneer.trade.go_to,Pergi Berdagang
+activity_state.caravaneer.trade.process,Siap Berdagang
+activity_state.slave.trade.go_to,Pergi ke Karavaner
+activity_state.free_lord.go_to,Menunggu Direkrut
+activity_state.slave.suicide,Bunuh Diri
+activity_state.church.go_to,Pergi ke Kuil
+activity_state.church.morning_service.process,Khotbah Sukacita
+activity_state.church.morning_service.waiting,Menunggu Khotbah
+activity_state.church.pray,Berdoa
+activity_state.conversation.go_to,Pergi Berbicara dengan {name}
+activity_state.criminal.burglary.go_to,Pergi Merusak Masuk Rumah
+activity_state.criminal.burglary.lockpicking,Memecahkan Kunci
+activity_state.criminal.burglary.process,Merampok Rumah
+activity_state.criminal.burglary.waiting,Menunggu Rekan
+activity_state.criminal.night_murder,Pergi Membunuh Musuh
+activity_state.criminal.robbery,Mencari Korban untuk Dirampok
+activity_state.criminal.storage_robbery.go_to,Pergi Merampok Gudang
+activity_state.criminal.storage_robbery.process,Merampok Gudang
+activity_state.dead,Mati
+activity_state.deep_social.go_to,Pergi Bersosialisasi
+activity_state.deep_social.process,Bersosialisasi
+activity_state.deep_social.waiting,Menunggu Seseorang untuk Diajak Bicara
+activity_state.dice_of_fate.go_to,Pergi Meramal dengan Tulang
+activity_state.dice_of_fate.process,Meramal dengan Tulang
+activity_state.dreaming.go_to,Pergi Melamun
+activity_state.dreaming.process,Melamun
+activity_state.drinking.go_to,Pergi Minum Bir
+activity_state.drinking.process,Minum Bir
+activity_state.drinking_nectar.go_to,Pergi Minum Nektar
+activity_state.drinking_nectar.process,Minum Nektar
+activity_state.eating.go_to,Pergi Makan
+activity_state.eating.process,Makan
+activity_state.fight_trainer.go_to,Pergi Mengawasi Latihan
+activity_state.fight_trainer.process,Mengawasi Latihan
+activity_state.fight_training.go_to,Pergi Berlatih
+activity_state.fight_training.waiting,Menunggu Mitra Sparring
+activity_state.finish_off_enemy,Menyelesaikan Musuh
+activity_state.firefight.go_to,Berlari Memadamkan Api
+activity_state.firefight.process,Memadamkan Api
+activity_state.game_of_dice.go_to,Pergi Bermain Dadu
+activity_state.game_of_dice.process,Bermain Dadu
+activity_state.game_of_dice.waiting,Menunggu Lawan
+activity_state.home_pray.go_to,Pergi Berdoa di Rumah
+activity_state.inspector.go_to,Pergi Inspeksi
+activity_state.inspector.process,Melakukan Inspeksi
+activity_state.leaving_to_forest.go_to,Meninggalkan Pemukiman
+activity_state.music.listen.go_to,Pergi Mendengarkan Musik
+activity_state.music.listen.process,Mendengarkan Musik
+activity_state.music.play.go_to,Pergi Bermain Musik
+activity_state.music.play.process,Bermain Musik
+activity_state.nothing,Tidak Melakukan Apa-apa
+activity_state.order.attack,Menyerang {name}
+activity_state.order.building_burning.go_to,Pergi Membakar {building}
+activity_state.order.building_burning.process,Membakar {building}
+activity_state.order.building_robbery.go_to,Pergi Merampok {building}
+activity_state.order.building_robbery.process,Merampok {building}
+activity_state.order.follow,Mengejar {name}
+activity_state.order.moving,Maju
+activity_state.order.travel_prepare.go_to,Maju untuk Bekal
+activity_state.order.travel_prepare.process,Mengambil Bekal
+activity_state.pain_shock,Tidak Sadar karena Syok Nyeri
+activity_state.patrol,Berpatroli
+activity_state.punish_watching.go_to,Pergi Menonton Hukuman
+activity_state.punish_watching.process,Menonton Hukuman
+activity_state.punish.go_to,Memimpin Kriminal
+activity_state.punish.process,Melaksanakan Hukuman
+activity_state.punish.search,Pergi Mengejar Kriminal
+activity_state.punish.target.go_to,Pergi ke Runtunan
+activity_state.punish.target.waiting,Menunggu Hukuman
+activity_state.punish.witness.go_to,Pergi Menginterogasi Saksi
+activity_state.punish.witness.process,Menginterogasi Saksi
+activity_state.punish.witness.target.process,Memberi Kesaksian
+activity_state.punish.work_wait,Menunggu Pekerjaan
+activity_state.punish.intimidate,Pergi Mengintimidasi
+activity_state.intimidate.process,Mengintimidasi
+activity_state.retreat,Melarikan Diri
+activity_state.rtm.go_to,Pergi Mengambil Sumber Daya
+activity_state.rtm.process,Memindahkan Sumber Daya
+activity_state.salary.go_to,Pergi Mengambil Upah
+activity_state.sex.go_to,Pergi Berhubungan Seks
+activity_state.sex.process,Berhubungan Seks
+activity_state.sex.waiting,Menunggu Pasangan
+activity_state.shopping.go_to,Pergi ke Pasar
+activity_state.shopping.process,Membeli Barang
+activity_state.sick_visit.go_to,Pergi Mengunjungi Orang Sakit
+activity_state.sick_visit.process,Mengunjungi Orang Sakit
+activity_state.sick_visit.target.process,Senang atas Kunjungan
+activity_state.sick_visit.target.waiting,Menunggu Kunjungan
+activity_state.skill_training.go_to,Pergi Berlatih {skill_name}
+activity_state.skill_training.process,Melatih {skill_name}
+activity_state.sleeping.fatigue.process,Tidur karena Kehabisan Tenaga
+activity_state.sleeping.go_to,Pergi Tidur
+activity_state.sleeping.on_ground.process,Tidur di Tanah
+activity_state.sleeping.process,Tidur
+activity_state.social_relaxation.go_to,Pergi Merenung
+activity_state.social_relaxation.process_1,Merencanakan Masa Depan
+activity_state.social_relaxation.process_2,Merenungkan masa lalu
+activity_state.social_relaxation.process_3,Menikmati saat ini
+activity_state.social_relaxation.process_4,Memikirkan kematian
+activity_state.social_relaxation.process_5,Merenungkan takdir
+activity_state.social_relaxation.process_6,Memikirkan orang-orang tercinta
+activity_state.social_relaxation.process_7,Merenungkan perbuatan
+activity_state.social_relaxation.process_8,Meragukan keberadaan
+activity_state.spend_time.drinking.go_to,Pergi minum bir bersama
+activity_state.spend_time.drinking.process,Minum bir bersama
+activity_state.spend_time.hunt.go_to,Pergi berburu
+activity_state.spend_time.hunt.waiting,Menunggu mitra berburu
+activity_state.spend_time.music.go_to,Pergi bermain musik bersama
+activity_state.spend_time.music.process,Bermain musik bersama
+activity_state.spend_time.pray.go_to,Pergi berdoa bersama
+activity_state.spend_time.pray.process,Berdoa bersama
+activity_state.spend_time.waiting,Menunggu seseorang
+activity_state.spend_time.walking.process,Berjalan bersama
+activity_state.take_equipment.go_to,Pergi mengambil peralatan
+activity_state.tantrum.binge.go_to,Pergi memulai pesta minum
+activity_state.tantrum.binge.process,Pesta minum
+activity_state.tantrum.crazy_pray.go_to,Tenggelam dalam trans religius
+activity_state.tantrum.crazy_pray.process,Dalam trans religius
+activity_state.tantrum.rage.process,Mencari seseorang untuk dipukuli
+activity_state.tantrum.self_immolation.go_to,Merencanakan pemurnian dengan api
+activity_state.trade.go_to,Pergi berdagang dengan karavaner
+activity_state.unconscious,Tidak Sadar
+activity_state.use_bandage,Menghentikan pendarahan
+activity_state.use_medicine.go_to,Pergi mengambil obat
+activity_state.use_medicine.process,Mengonsumsi obat
+activity_state.walking,Berjalan-jalan
 activity_state.dancing," "
-activity_state.wolf_walking,Exploring the forest
-activity_state.work.go_to,Goes to work
-activity_state.work.process,Working
-activity_state.chancellaty_interact.go_to,Goes to study knowledge
-activity_state.chancellaty_interact.interact,Studying knowledge
-activity_state.slave_free.go_to,Goes to free a prisoner
-activity_state.slave_free.making_free,Freeing a prisoner
-activity_state.slave_free.wait,Waiting for liberation
-activity_state.pig_slaughter.go_to,Goes to slaughter pigs
-activity_state.tantrum.tantrum_insult,Goes to argue
-activity_state.tantrum.depression,In depression
-activity_state.tantrum.long_walk,Walking in depression
-activity_state.tantrum.self_harm.go_to,Goes to harm themself
-activity_state.tantrum.self_harm.process,Inflicting harm on themself
-activity_state.tantrum.tantrum_beating,Goes to beat someone up
-activity_state.clerk.wait_for_work,Waiting for tasks
-activity_state.clerk.talk_inspector,Receiving a task
-activity_state.clerk.give_order,Assigning a task
-activity_state.gallows_inspector.go_to,Goes to manage the Scaffold
-activity_state.gallows_inspector.process,Managing the Scaffold
-activity_state.chancellry.go_to,Goes to manage the Chancellery
-activity_state.chancellry.process,Managing the Chancellery
-activity_state.duel.go_to,Goes to a duel
-activity_state.duel.waiting,Waiting for the duel to begin
-activity_state.duel_watch.go_to,Goes to watch the duel
-activity_state.duel_watch.process,Watching the duel
-activity_state.bishop.transfer_runes,Giving rings to the caravan
-activity_state.enslave,Binding a hostage
-activity_state.awaiting_inspector,Awaiting the inspector
-activity_state.awaiting_building_site,Awaiting an object for construction
-activity_state.criminal.kidnap.go_to,Goes to kidnap a lord
-activity_state.criminal.lord_kill.go_to,Goes to kill a lord
-activity_state.criminal.lord_kill.process,Killing a lord
-activity_state.criminal.kidnap.process,Binding a lord
-activity_state.criminal.captive.go_to,Goes to capture a lord
-activity_state.criminal.captive.process,Capturing a lord
-activity_state.criminal.steal_library.go_to,Goes to rob the library
-activity_state.criminal.steal_library.process,Robbing the library
-activity_state.criminal.steal_hall.go_to,Goes to rob the hall
-activity_state.criminal.steal_hall.process,Robbing the hall
-activity_state.criminal.kidnap.go_to,Goes to capture a lord
-activity_state.criminal.captive.process,Captures a lord
-activity_state.tantrum.ring_robbery.go_to,Goes to rob building
-activity_state.tantrum.ring_robbery.lockpicking,Breaking into the lock
-activity_state.tantrum.ring_robbery.process,Robbing
-activity_state.tantrum.eating.go_to,Goes to eat meat
-activity_state.tantrum.eating.process,Eating meat
-activity_state.tantrum.spent_time.go_to,Goes to spend time together
-activity_state.tantrum.house_grab.go_to,Goes to take someone's home
-activity_state.tantrum.make_gift.go_to,Goes to make a gift
-activity_state.ceremony.watch,Observes the ceremony
-activity_state.funeral_ceremony.process,Participates in the ceremony of burning
-activity_state.wedding_ceremony.process,Participates in the wedding ceremony
-activity_state.coronotaion_ceremony.process,Participates in the coronation
-activity_state.ceremony.go_to,Attends the ceremony
-activity_state.ceremony.waiting,Awaits the beginning of the ceremony
-activity_state.archer_shooting,Shooting a bow
-activity_state.unleashing,Unleashes an ally
-activity_state.stay_back,Commands the squad from afar
-activity_state.village_headman_transfer_resources,Carries the tribute to the warehouse
-activity_state.go_to_breakdown,Goes to destroy
-activity_state.breakdown_process,Destroys
-activity_state.wolf_prophecy_attack,Attacks the province
-activity_state.contraband.go_to,Engaged in speculation
-activity_state.contraband.process,Engaged in speculation
-activity_state.out_of_burning.go_to,Leaves the burning building
-mind.abuse,I have been insulted!
-mind.agnostic,Agnostic
-mind.battle_commander_bonus,Commander skills
-mind.battle_commander_dead,My commander is dead!
-mind.battle_commander_retreat,My commander has fled!
-mind.battle_enemy_commander_dead,Enemy commander killed!
-mind.battle_enemy_commander_retreat,Enemy commander has fled!
-mind.battle_enemy_soldier_retreat,Enemy warrior has fled!
-mind.battle_loose,Defeat in battle
-mind.battle_soldier_retreat,Warrior from the squad has fled!
-mind.battle_soldier_surrender,Warrior from the squad has surrendered!
-mind.battle_soldier_dead,Warrior from the squad has been killed!
-mind.battle_commander_surrender,My commander has surrendered!
-mind.battle_enemy_commander_surrender,Enemy commander has surrendered!
-mind.battle_enemy_soldier_surrender,Enemy warrior has surrendered!
-mind.battle_enemy_soldier_dead,Enemy warrior has been killed!
-mind.battle_win,Victory in battle
-mind.catharsis,Catharsis
-mind.close_actor_dead,Death of a loved one
-mind.close_actor_heavy_disease,Serious illness of a loved one
-mind.close_actor_low_mid_disease,Concern for the health of a loved one
-mind.close_actor_punish,Punishment of a loved one
-mind.conversation_fatigue,Fatigue from negotiations
-mind.conversation_reward,Awarded
-mind.conversation_threat,Subjected to threats
-mind.conversation.rumors,Discussed rumors
-mind.crime_criminal_not_punished,Criminal goes unpunished
-mind.crime_punished,Has been punished
-mind.crime_unfairly_punished,Victim of abuse
-mind.crime_victim,Victim of a crime
-mind.deep_talk,Had a meaningful conversation!
-mind.dice_of_fate_bad_luck,Bones predict loss!
-mind.dice_of_fate_luck,Bones promise me luck!
-mind.disease_death_inevitable,Death is inevitable
-mind.disease_easy,Mild illness
-mind.disease_hard,Severe illness
-mind.disease_middle,Moderate illness
-mind.drank,Effect of alcohol
-mind.drank_nectar,Effect of nectar
-mind.beer_addiction,Craving for beer
-mind.nectar_addiction,Craving for nectar
-mind.enemy_actor_dead,Death of an enemy
-mind.enemy_actor_heavy_disease,Hope for the death of an enemy
-mind.envy_happy,Envious
-mind.evil_joke,Was laughed at!
-mind.execution_watch,Spectacle of an execution
-mind.exhaustion,Exhaustion
-mind.faction_actor_dead,Death of a family member
-mind.fanatic,Fanatically religious
-mind.fight_positive,Let off steam!
-mind.flattery,Flattered
-mind.force_action_task,Stress from coercion
-mind.seduce_task,Sex without emotion
-mind.game_of_dice_loose,Lost in a dice game
-mind.game_of_dice_win,Won in a dice game
-mind.good_joke,Told a joke
-mind.hangover,Hangover
-mind.nectar_hangover,Nectar hangover
-mind.force_donate,Was forced to sacrifice
-mind.hate,Hatred
-mind.homeless,Homelessness
-mind.hunt,Successful hunt
-mind.immobilization,Immobility
-mind.lot_of_rings,Very many Rings
-mind.low_rings,Few Rings
-mind.loyalty_low,Low loyalty
-mind.many_rings,Many Rings
-mind.morning_service,Sermon of Joy
-mind.motive.energy.1,Sleepiness
-mind.motive.energy.2,Severe sleep deprivation
-mind.motive.food.1,Had a hearty meal
-mind.motive.food.2,Mild hunger
-mind.motive.food.3,Hunger
-mind.motive.food.4,Severe hunger
-mind.motive.rest.1,Full of energy
-mind.motive.rest.2,Mild fatigue
-mind.motive.rest.3,Moderate fatigue
-mind.motive.rest.4,Fatal fatigue
-mind.motive.religion.1,Piety
-mind.motive.religion.2,Bliss
-mind.motive.religion.3,Holy Sophia has forsaken me
-mind.motive.religion.4,Goddess will punish me!
-mind.motive.sex.1,Mild loneliness
-mind.motive.sex.2,Sexual desire
-mind.motive.sex.3,Sexual obsession
-mind.motive.care.1,Lack of parental attention
-mind.motive.care.2,Misses parents
-mind.motive.care.3,Abandoned by parents
-mind.new_town_resident,Optimism of a new resident
-mind.night_murder,Vile murder
-mind.no_rings,No rings
-mind.no_salary,Did not receive a salary
-mind.pain,Pain from injury
-mind.personality_blockhead,Joy of foolishness
-mind.personality_bloodthirsty_fight,Involved in a fight
-mind.personality_bloodthirsty_saw_fight,Smell of blood
-mind.personality_greedy,Joy of wealth
-mind.quality_of_life_high,Life is fulfilling
-mind.religious_pain,Joy of Pain
-mind.sex_bribe_dummy,Dirty sex
-mind.sex_bribe_slave,Sex for money
-mind.sex_orgasm,Had an orgasm
-mind.sick_was_visit,Empathy for illness
+activity_state.wolf_walking,Mengeksplorasi hutan
+activity_state.work.go_to,Pergi bekerja
+activity_state.work.process,Bekerja
+activity_state.chancellaty_interact.go_to,Pergi mempelajari pengetahuan
+activity_state.chancellaty_interact.interact,Mempelajari pengetahuan
+activity_state.slave_free.go_to,Pergi membebaskan tahanan
+activity_state.slave_free.making_free,Membebaskan tahanan
+activity_state.slave_free.wait,Menunggu pembebasan
+activity_state.pig_slaughter.go_to,Pergi menyembelih babi
+activity_state.tantrum.tantrum_insult,Pergi berdebat
+activity_state.tantrum.depression,Sedang depresi
+activity_state.tantrum.long_walk,Berjalan dalam depresi
+activity_state.tantrum.self_harm.go_to,Pergi melukai diri sendiri
+activity_state.tantrum.self_harm.process,Melukai diri sendiri
+activity_state.tantrum.tantrum_beating,Pergi memukuli seseorang
+activity_state.clerk.wait_for_work,Menunggu tugas
+activity_state.clerk.talk_inspector,Menerima tugas
+activity_state.clerk.give_order,Menugaskan tugas
+activity_state.gallows_inspector.go_to,Pergi mengelola Runtunan
+activity_state.gallows_inspector.process,Mengelola Runtunan
+activity_state.chancellry.go_to,Pergi mengelola Kancelari
+activity_state.chancellry.process,Mengelola Kancelari
+activity_state.duel.go_to,Pergi ke duel
+activity_state.duel.waiting,Menunggu duel dimulai
+activity_state.duel_watch.go_to,Pergi menonton duel
+activity_state.duel_watch.process,Menonton duel
+activity_state.bishop.transfer_runes,Memberikan cincin kepada karavan
+activity_state.enslave,Mengikat sandera
+activity_state.awaiting_inspector,Menunggu inspektur
+activity_state.awaiting_building_site,Menunggu benda untuk konstruksi
+activity_state.criminal.kidnap.go_to,Pergi menculik bangsawan
+activity_state.criminal.lord_kill.go_to,Pergi membunuh bangsawan
+activity_state.criminal.lord_kill.process,Membunuh bangsawan
+activity_state.criminal.kidnap.process,Mengikat bangsawan
+activity_state.criminal.captive.go_to,Pergi menangkap bangsawan
+activity_state.criminal.captive.process,Menangkap bangsawan
+activity_state.criminal.steal_library.go_to,Pergi merampok perpustakaan
+activity_state.criminal.steal_library.process,Merampok perpustakaan
+activity_state.criminal.steal_hall.go_to,Pergi merampok aula
+activity_state.criminal.steal_hall.process,Merampok aula
+activity_state.criminal.kidnap.go_to,Pergi menangkap bangsawan
+activity_state.criminal.captive.process,Menangkap bangsawan
+activity_state.tantrum.ring_robbery.go_to,Pergi merampok bangunan
+activity_state.tantrum.ring_robbery.lockpicking,Memecahkan kunci
+activity_state.tantrum.ring_robbery.process,Merampok
+activity_state.tantrum.eating.go_to,Pergi makan daging
+activity_state.tantrum.eating.process,Makan daging
+activity_state.tantrum.spent_time.go_to,Pergi menghabiskan waktu bersama
+activity_state.tantrum.house_grab.go_to,Pergi mengambil rumah seseorang
+activity_state.tantrum.make_gift.go_to,Pergi membuat hadiah
+activity_state.ceremony.watch,Mengamati upacara
+activity_state.funeral_ceremony.process,Berpartisipasi dalam upacara pembakaran
+activity_state.wedding_ceremony.process,Berpartisipasi dalam upacara pernikahan
+activity_state.coronotaion_ceremony.process,Berpartisipasi dalam upacara penobatan
+activity_state.ceremony.go_to,Menghadiri upacara
+activity_state.ceremony.waiting,Menunggu dimulainya upacara
+activity_state.archer_shooting,Membidik panah
+activity_state.unleashing,Melepaskan sekutu
+activity_state.stay_back,Memerintah regu dari kejauhan
+activity_state.village_headman_transfer_resources,Membawa upeti ke gudang
+activity_state.go_to_breakdown,Pergi menghancurkan
+activity_state.breakdown_process,Menghancurkan
+activity_state.wolf_prophecy_attack,Menyerang provinsi
+activity_state.contraband.go_to,Terlibat dalam spekulasi
+activity_state.contraband.process,Terlibat dalam spekulasi
+activity_state.out_of_burning.go_to,Meninggalkan bangunan yang terbakar
+mind.abuse,Saya telah dihina!
+mind.agnostic,Agnostik
+mind.battle_commander_bonus,Keterampilan Komandan
+mind.battle_commander_dead,Komandan saya mati!
+mind.battle_commander_retreat,Komandan saya melarikan diri!
+mind.battle_enemy_commander_dead,Komandan musuh terbunuh!
+mind.battle_enemy_commander_retreat,Komandan musuh melarikan diri!
+mind.battle_enemy_soldier_retreat,Prajurit musuh melarikan diri!
+mind.battle_loose,Kekalahan dalam pertempuran
+mind.battle_soldier_retreat,Prajurit dari regu melarikan diri!
+mind.battle_soldier_surrender,Prajurit dari regu menyerah!
+mind.battle_soldier_dead,Prajurit dari regu terbunuh!
+mind.battle_commander_surrender,Komandan saya menyerah!
+mind.battle_enemy_commander_surrender,Komandan musuh menyerah!
+mind.battle_enemy_soldier_surrender,Prajurit musuh menyerah!
+mind.battle_enemy_soldier_dead,Prajurit musuh terbunuh!
+mind.battle_win,Kemenangan dalam pertempuran
+mind.catharsis,Katarisis
+mind.close_actor_dead,Kematian orang tercinta
+mind.close_actor_heavy_disease,Penyakit serius orang tercinta
+mind.close_actor_low_mid_disease,Kekhawatiran atas kesehatan orang tercinta
+mind.close_actor_punish,Hukuman orang tercinta
+mind.conversation_fatigue,Kelelahan dari negosiasi
+mind.conversation_reward,Diperdakan
+mind.conversation_threat,Mengancam
+mind.conversation.rumors,Membahas rumor
+mind.crime_criminal_not_punished,Kriminal bebas tanpa hukuman
+mind.crime_punished,Telah dihukum
+mind.crime_unfairly_punished,Korban penyalahgunaan
+mind.crime_victim,Korban kejahatan
+mind.deep_talk,Memiliki percakapan bermakna!
+mind.dice_of_fate_bad_luck,Tulang meramalkan kerugian!
+mind.dice_of_fate_luck,Tulang menjanjikan keberuntungan!
+mind.disease_death_inevitable,Kematian tak terelakkan
+mind.disease_easy,Penyakit ringan
+mind.disease_hard,Penyakit parah
+mind.disease_middle,Penyakit sedang
+mind.drank,Efek alkohol
+mind.drank_nectar,Efek nektar
+mind.beer_addiction,Keinginan bir
+mind.nectar_addiction,Keinginan nektar
+mind.enemy_actor_dead,Kematian musuh
+mind.enemy_actor_heavy_disease,Harapan kematian musuh
+mind.envy_happy,Iri hati
+mind.evil_joke,Diejek!
+mind.execution_watch,Tontonan eksekusi
+mind.exhaustion,Kelelahan
+mind.faction_actor_dead,Kematian anggota keluarga
+mind.fanatic,Fanatik religius
+mind.fight_positive,Melepaskan ketegangan!
+mind.flattery,Dirayu
+mind.force_action_task,Stres dari paksaan
+mind.seduce_task,Seks tanpa emosi
+mind.game_of_dice_loose,Kalah dalam permainan dadu
+mind.game_of_dice_win,Menang dalam permainan dadu
+mind.good_joke,Menceritakan lelucon
+mind.hangover,Pecah belah
+mind.nectar_hangover,Hangover nektar
+mind.force_donate,Dipaksa berkorban
+mind.hate,Kebencian
+mind.homeless,Tanpa rumah
+mind.hunt,Perburuan sukses
+mind.immobilization,Ketidakbergerakan
+mind.lot_of_rings,Sangat banyak Cincin
+mind.low_rings,Sedikit Cincin
+mind.loyalty_low,Kesetiaan rendah
+mind.many_rings,Banyak Cincin
+mind.morning_service,Khotbah Sukacita
+mind.motive.energy.1,Mengantuk
+mind.motive.energy.2,Kurang tidur parah
+mind.motive.food.1,Makan dengan lahap
+mind.motive.food.2,Lapar ringan
+mind.motive.food.3,Lapar
+mind.motive.food.4,Lapar parah
+mind.motive.rest.1,Penuh energi
+mind.motive.rest.2,Kelelahan ringan
+mind.motive.rest.3,Kelelahan sedang
+mind.motive.rest.4,Kelelahan mematikan
+mind.motive.religion.1,Ketaatan
+mind.motive.religion.2,Kebahagiaan
+mind.motive.religion.3,Santa Sofia telah meninggalkan saya
+mind.motive.religion.4,Dewi akan menghukum saya!
+mind.motive.sex.1,Kesepian ringan
+mind.motive.sex.2,Hasrat seksual
+mind.motive.sex.3,Obsesi seksual
+mind.motive.care.1,Kurang perhatian orang tua
+mind.motive.care.2,Merindukan orang tua
+mind.motive.care.3,Ditinggalkan orang tua
+mind.new_town_resident,Optimisme penduduk baru
+mind.night_murder,Pembunuhan keji
+mind.no_rings,Tidak ada cincin
+mind.no_salary,Tidak menerima gaji
+mind.pain,Sakit dari luka
+mind.personality_blockhead,Kebahagiaan kebodohan
+mind.personality_bloodthirsty_fight,Terlibat perkelahian
+mind.personality_bloodthirsty_saw_fight,Bau darah
+mind.personality_greedy,Kebahagiaan kekayaan
+mind.quality_of_life_high,Hidup memuaskan
+mind.religious_pain,Kebahagiaan Rasa Sakit
+mind.sex_bribe_dummy,Seks kotor
+mind.sex_bribe_slave,Seks demi uang
+mind.sex_orgasm,Mencapai orgasme
+mind.sick_was_visit,Empati terhadap penyakit
 mind.slight,I am being neglected!
 mind.starvation,Starvation
 mind.terror,Terror

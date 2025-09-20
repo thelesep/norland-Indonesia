@@ -12,14 +12,14 @@ const command = args[0];
 const fileArg = args[1];
 const outputDir = 'output_json';
 const updatedCSV = 'updated_english.csv';
-const chunkSize = 100;  // Ukuran chunk, bisa diubah jika perlu
+const chunkSize = 50;  // Ukuran chunk, bisa diubah jika perlu
 
 // Pastikan folder output_json ada
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir);
 }
 
-// Fungsi ekstraksi data ke JSON per chunkSize data, hanya values dalam array minified
+// Fungsi ekstraksi data ke JSON per chunkSize data, hanya values dalam array rapi (formatted)
 function extractEnglishToJson(inputFile) {
   return new Promise((resolve) => {
     const results = [];
@@ -32,10 +32,10 @@ function extractEnglishToJson(inputFile) {
         let chunkIndex = 1;
         for (let i = 0; i < results.length; i += chunkSize) {
           const chunk = results.slice(i, i + chunkSize);
-          fs.writeFileSync(`${outputDir}/data_${chunkIndex}.json`, JSON.stringify(chunk));  // Minified JSON
+          fs.writeFileSync(`${outputDir}/data_${chunkIndex}.json`, JSON.stringify(chunk, null, 2));  // Rapi JSON dengan indentasi
           chunkIndex++;
         }
-        console.log("Data values berhasil diekstrak ke file JSON minified di folder output_json.");
+        console.log("Data values berhasil diekstrak ke file JSON rapi di folder output_json.");
         resolve();
       });
   });

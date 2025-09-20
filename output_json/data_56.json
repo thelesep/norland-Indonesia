@@ -1,0 +1,22 @@
+[
+  "[hint_mind_caption]\nA lot of money is always a good thing! I hope I can keep it safe!\n\nReason: The character has accumulated a lot of <hint=hint_resource_gold>Gold</hint>.\n\n<b>Hint:</b> If the character’s condition reaches <hint=hint_resource_gold>{very_rich_coins}</hint>, they will gain an even stronger positive thought.",
+  "[hint_mind_caption]\nHoly Sophia, I’m rich! This is just an incredible feeling!\n\nReason: The character has accumulated a very large amount of <hint=hint_resource_gold>Gold.</hint>",
+  "Unavailable\nThis character doesn't have a pet.",
+  "Unavailable\nThis character doesn't have a pet.",
+  "Unavailable  \nThe performer must be a <hint=hint_encyclopedia_puppet>puppet</hint>.",
+  "The Puppet Committed a Crime  \nThe <hint=hint_encyclopedia_puppet>puppet</hint> {soul_uuid} committed a crime on your orders and, fearing prosecution, left their home. {soul_uuid} will now become a <hint=hint_untitled_lord>lesser lord</hint> in your household.",
+  "Made a Gift\n{soul_uuid_politic} gave {soul_uuid_target} a small amount of money to draw him into his circle of <hint=hint_followers>followers.</hint>",
+  "Flattered the Lord\n{soul_uuid_politic} flattered {soul_uuid_target} to draw them into his circle of <hint=hint_followers>followers.</hint>",
+  "Received a Donation\n{soul_uuid_politic} received a donation for his ongoing political activity from his <hint=hint_followers>follower</hint> {soul_uuid_target}",
+  "Edit Squad\nOpens the squad editing menu, where you can change the composition of your warriors and adjust their equipment.",
+  "Surrender\nThe squad will lay down their arms and raise their hands. \n\nIn critical situiations this may save the commander's life.",
+  "Disband\nThe squad will be disbanded, and the warriors will return their equipment to the storage.",
+  "Residents Buy from the Holy Caravan\nIf possible, villagers will try to buy goods directly from the Holy Caravan, if those goods are cheaper and more accessible there than on the local market.\n\nLuxury resources such as <hint=hint_resource_meat>Meat</hint> or <hint=hint_resource_ale>Flavorful Ale</hint> will only be bought if villagers have saved a significant amount of <hint=hint_resource_gold>{very_rich_threshold}.</hint> or if they lack other food or alcohol.\n\nLords can buy <hint=hint_resource_rune>Holy Rings</hint> from the caravan if they have enough Gold.\n\n<b>Hint:</b> That money could be yours. Study the “Internal Trade” knowledge to build your own <hint=hint_bld_market>Market.</hint>",
+  "Followers\nLords who consider the politician a friend (their opinion of him is above <green>+25</green>), but who are not friends of your king or another politician.\n\n$ These lords, along with the warriors loyal to them, will support the politician’s rebellion in case of conflict with your king.  \n$ If the politician is eliminated, they will become strongly hostile toward your king.",
+  "No Politicians\nThe modifier disables the appearance of politicians – rival lords on your local map who may compete for the crown.\n\nThis is an important part of the game, so disable this option only if you are sure about what you're doing.\"",
+  "Bishop donated to a politician\n{soul_uuid_iniciator} made a donation to {soul_uuid_target} for political activity.\n\nPerhaps the Church has decided to back him, since {soul_uuid_target} is a <hint=hint_persons_fanatic>fanatic</hint> and your ruler is not.",
+  "Upgrade  \n$ The number of living spaces will increase to {number_of_living_places}.",
+  "Grant the title of Priest\nThe King turns the character over to the <hint=hint_sofia_cult>Church</hint>.\n\nThe Church is always happy whenever sacrifices are made in the name of Mother Sophia, and thus it will be eternally grateful:\n$ Relations with the <hint=hint_relations_matriarch>Matriarch</hint>: <green>{mat_rel}</green>\n$ Gift from the Matriarch: <hint=hint_resource_gold>{amount}</hint>\n\nThe character will leave your province forever.",
+  "Arm Your Squad\n\n<b>Lords</b> and <b>knights</b> choose their own weapons from your storage, while warriors can be armed manually.\n\nWarriors take weapons and armor in turn. When hovering over a weapon, the next warrior to receive it will be highlighted.\n\n1. Click the axe icon in the menu to arm all warriors.\n2. Finish by clicking Create at the bottom of the menu.",
+  "Commander Equipment\nLords and knights choose their own equipment from your storage."
+]

@@ -1,12 +1,12 @@
 [
-  "Hostage\nThey cannot take this action, because they are detained.",
-  "Confession\nConfess to the bishop in exchange for a small offering.\n\n<b>Cost:</b> <hint=hint_resource_rune>{conf_price}</hint>\n\nThe following <hint=hint_sin>sins</hint> will be absolved:\n{sins}",
-  "Confession is not available.\nThe lord has not sinned recently",
-  "Blessing\nFor {days} days, the church grants your king forgiveness for all his sins.\n\n$ Your ruler will not suffer when committing sins.\n$ <hint=hint_persons_fanatic>Fanatics</hint> among your peasants will be eager to join your army.\n$ Relationships of all your lords to their ruler will greatly improve, and subjects will be happier.\n\n<b>Cost:</b> <hint=hint_resource_gold>{price}</hint>",
-  "Poor relationship\nTo receive the <hint=hint_saint>blessing</hint>, the <hint=hint_relations_matriarch>Matriarch's opinion</hint> of your ruler must be greater than <green>{threshold}</green>.",
-  "Unavailable\nThis character has already received a <hint=hint_saint>blessing</hint>.",
-  "Divorce\nAnnul the marriage between {soul_uuid_target} and {soul_uuid_spouce}.\n\nAs a result, the characters will be able to enter into new marriages.\n\n<b>Cost:</b> <hint=hint_resource_rune>{price}</hint>",
-  "Comfort\nThe bishop will comfort a character who is grieving over the loss of a loved one with the right words and alleviate their pain.\n\nOutcome: Thoughts of the loss of a loved one will significantly weaken.",
-  "Beg for Forgiveness\nBy the grace of Mother Sophia, the bishop is willing to listen and forgive the transgressions of the character... if they prove their sincerity through sacrifice.\n\nAs a result, the bishop's attitude toward {soul_uuid_target} will improve by <green>{rel_plus}</green>.\n\n<b>Cost:</b> <hint=hint_resource_rune>{price}</hint>\n\n",
-  "Unavailable\nThe bishop does not consider {soul_uuid_target} to be an enemy, so {soul_uuid_target} does not need forgiveness."
+  "Sandera\nMereka tidak dapat melakukan tindakan ini, karena mereka ditahan.",
+  "Pengakuan Dosa\nPengakui dosa kepada uskup dengan imbalan persembahan kecil.\n\n<b>Biaya:</b> <hint=hint_resource_rune>{conf_price}</hint>\n\nDosa-dosa <hint=hint_sin>dosa</hint> berikut akan diampuni:\n{sins}",
+  "Pengakuan dosa tidak tersedia.\nPenguasa tidak berdosa baru-baru ini",
+  "Berkah\nSelama {days} hari, gereja memberikan pengampunan kepada raja Anda atas semua dosanya.\n\n$ Penguasa Anda tidak akan menderita saat berbuat dosa.\n$ <hint=hint_persons_fanatic>Fanatik</hint> di antara petani Anda akan bersemangat untuk bergabung dengan pasukan Anda.\n$ Hubungan semua penguasa Anda dengan penguasa mereka akan sangat membaik, dan subjek akan lebih bahagia.\n\n<b>Biaya:</b> <hint=hint_resource_gold>{price}</hint>",
+  "Hubungan Buruk\nUntuk menerima <hint=hint_saint>berkah</hint>, <hint=hint_relations_matriarch>Pendapat Matriark</hint> tentang penguasa Anda harus lebih besar dari <green>{threshold}</green>.",
+  "Tidak Tersedia\nKarakter ini sudah menerima <hint=hint_saint>berkah</hint>.",
+  "Pembatalan Pernikahan\nBatalkan pernikahan antara {soul_uuid_target} dan {soul_uuid_spouce}.\n\nAkibatnya, karakter-karakter akan dapat memasuki pernikahan baru.\n\n<b>Biaya:</b> <hint=hint_resource_rune>{price}</hint>",
+  "Menghibur\nUskup akan menghibur karakter yang berduka atas kehilangan orang yang dicintai dengan kata-kata yang tepat dan meringankan rasa sakit mereka.\n\nHasil: Pikiran tentang kehilangan orang yang dicintai akan melemah secara signifikan.",
+  "Minta Pengampunan\nDengan rahmat Ibu Sophia, uskup bersedia mendengarkan dan mengampuni pelanggaran karakter... jika mereka membuktikan ketulusan mereka melalui pengorbanan.\n\nAkibatnya, sikap uskup terhadap {soul_uuid_target} akan membaik sebesar <green>{rel_plus}</green>.\n\n<b>Biaya:</b> <hint=hint_resource_rune>{price}</hint>\n\n",
+  "Tidak Tersedia\nUskup tidak menganggap {soul_uuid_target} sebagai musuh, sehingga {soul_uuid_target} tidak membutuhkan pengampunan."
 ]

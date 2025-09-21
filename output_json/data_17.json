@@ -1,12 +1,12 @@
 [
-  "Coal Furnace\nHere, <hint=hint_resource_coal>Coal</hint> is produced.",
-  "Mine\nHere, <hint=hint_resource_iron>Iron</hint> is extracted.\nIt can only be located on an iron deposit.",
-  "Coal Furnace\nHere, <hint=hint_resource_coal>Coal</hint> is produced.",
-  "Smelting Furnace\nHere, <hint=hint_resource_steel>Steel</hint> is smelted.",
-  "~\nThe harvest is collected every 3 days, and sometimes it may perish if there hasn't been rain for a long time.\n\nEvery {fert_days} days, it requires fertilization by burning <hint=hint_resource_wood>{fert_number}</hint>.",
-  "Rye Field\nHere, <hint=hint_resource_rye>Rye</hint> is grown.\n\n[hint_field_fert]",
-  "Hop Field\nHere, <hint=hint_resource_hop>Hops</hint> are grown.\n\n[hint_field_fert]",
-  "Rutabaga Field\nHere, <hint=hint_resource_rutabaga>Rutabagas</hint> are grown.\n\nThe harvest is collected every day.\n\nEvery {fert_days} days, fields require fertilization by burning <hint=hint_resource_wood>{fert_number}</hint>.",
-  "Mill\nHere, <hint=hint_resource_food>Flour</hint> is produced.",
-  "Pig Farm\nHere, pigs are raised for <hint=hint_resource_meat>Meat</hint>.\n\nThe pig population is slaughtered every 6 days.\n\nThe start of the breeding cycle requires a supply of <hint=hint_resource_rutabaga>50</hint> as feed for the pigs."
+  "Tungku Batu Bara\nDi sini, <hint=hint_resource_coal>Batu Bara</hint> diproduksi.",
+  "Tambang\nDi sini, <hint=hint_resource_iron>Besi</hint> diekstrak.\nHanya dapat ditempatkan di atas deposit besi.",
+  "Tungku Batu Bara\nDi sini, <hint=hint_resource_coal>Batu Bara</hint> diproduksi.",
+  "Tungku Peleburan\nDi sini, <hint=hint_resource_steel>Baja</hint> dilebur.",
+  "~\nPanen dikumpulkan setiap 3 hari, dan terkadang mungkin rusak jika tidak ada hujan untuk waktu yang lama.\n\nSetiap {fert_days} hari, memerlukan pemupukan dengan membakar <hint=hint_resource_wood>{fert_number}</hint>.",
+  "Ladang Rye\nDi sini, <hint=hint_resource_rye>Rye</hint> ditanam.\n\n[hint_field_fert]",
+  "Ladang Hop\nDi sini, <hint=hint_resource_hop>Hop</hint> ditanam.\n\n[hint_field_fert]",
+  "Ladang Rutabaga\nDi sini, <hint=hint_resource_rutabaga>Rutabaga</hint> ditanam.\n\nPanen dikumpulkan setiap hari.\n\nSetiap {fert_days} hari, ladang memerlukan pemupukan dengan membakar <hint=hint_resource_wood>{fert_number}</hint>.",
+  "Penggilingan\nDi sini, <hint=hint_resource_food>Tepung</hint> diproduksi.",
+  "Peternakan Babi\nDi sini, babi dipelihara untuk <hint=hint_resource_meat>Daging</hint>.\n\nPopulasi babi disembelih setiap 6 hari.\n\nAwal siklus pembiakan memerlukan pasokan <hint=hint_resource_rutabaga>50</hint> sebagai pakan untuk babi."
 ]

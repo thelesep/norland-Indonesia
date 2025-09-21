@@ -1011,7 +1011,7 @@ $ If a vagabond who committed a crime is caught by <hint=hint_persons_guard>patr
 $ Build a <hint=hint_bld_scafod>Scaffold</hint> to punish captured <hint=hint_crimer>criminals</hint> for the amusement of onlookers.
 $ Committed crimes lower the peasants's mood."
 hint_relations,"Relationships
-Relationships between characters are measured on a scale from <red>-100<red> to <green>+100</green> and can change as a result of <hint=hint_thought_social>social thoughts</hint> and <hint=hint_conversation>deep conversations</hint>.
+Relationships between characters are measured on a scale from <red>-100</red> to <green>+100</green> and can change as a result of <hint=hint_thought_social>social thoughts</hint> and <hint=hint_conversation>deep conversations</hint>.
 
 $ Relationships above <green>+{rel_friend}</green> are considered to be <hint=hint_friendship>friends</hint>.
 $ Relationships below <red>{rel_enemy}</red> are <hint=hint_enemy>enemies</hint>.

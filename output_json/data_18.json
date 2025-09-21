@@ -1,12 +1,12 @@
 [
-  "Herbalist\nHerbalists collect <hint=hint_resource_herb>Herbs</hint> in the nearby forest.",
-  "Bridge\nUsed to cross to the other side.",
-  "Bush\nJust a decoration.",
-  "Disturbing Decoration\nAn ornament that can instill a sense of <hint=hint_terror>terror</hint> in some characters.",
-  "Soothing Decoration\nAn ornament that can evoke a positive <hint=hint_thought>thought</hint>.",
-  "Hospital\nPatients receive care here, which greatly reduces the recovery time of wounds or illnesses.",
-  "Bath\nCures <hint=hint_vshi>lice</hint>, which is not only unpleasant but can also be a source of <hint=hint_plague>foul plague</hint>.\n\nRequires <hint=hint_resource_soap>Soap</hint> and <hint=hint_resource_wood>Wood</hint> to operate.",
-  "Library\nRequired for working with knowledge.",
-  "Decoration\nDoes not affect the game, but serves as a visual delight.",
-  "Night Patrol\nMarks the area of <hint=hint_persons_guard>patrolling</hint>.\n\nPlace this in important locations, such as lords' houses, the city center, and warwehouses, to protect these ares from <hint=hint_crime>crimes</hint>. Night patrols also prevent prisoner escapes.\n\nGuards from among your warriors will automatically go out on patrol in the <b>evening</b>."
+  "Ahli Rempah\nAhli rempah mengumpulkan <hint=hint_resource_herb>Rempah</hint> di hutan terdekat.",
+  "Jembatan\nDigunakan untuk menyeberang ke sisi lain.",
+  "Semak\nHanya dekorasi.",
+  "Dekorasi Mengganggu\nOrnamen yang dapat menimbulkan rasa <hint=hint_terror>teror</hint> pada beberapa karakter.",
+  "Dekorasi Menenangkan\nOrnamen yang dapat membangkitkan <hint=hint_thought>pikiran</hint> positif.",
+  "Rumah Sakit\nPasien menerima perawatan di sini, yang sangat mengurangi waktu pemulihan luka atau penyakit.",
+  "Mandi\nMenyembuhkan <hint=hint_vshi>kutu</hint>, yang tidak hanya tidak menyenangkan tetapi juga bisa menjadi sumber <hint=hint_plague>wabah busuk</hint>.\n\nMemerlukan <hint=hint_resource_soap>Sabun</hint> dan <hint=hint_resource_wood>Kayu</hint> untuk beroperasi.",
+  "Perpustakaan\nDiperlukan untuk bekerja dengan pengetahuan.",
+  "Dekorasi\nTidak memengaruhi permainan, tetapi berfungsi sebagai kesenangan visual.",
+  "Patroli Malam\nMenandai area <hint=hint_persons_guard>patroli</hint>.\n\nLetakkan ini di lokasi penting, seperti rumah para penguasa, pusat kota, dan gudang, untuk melindungi area ini dari <hint=hint_crime>kejahatan</hint>. Patroli malam juga mencegah pelarian narapidana.\n\nGarda dari antara prajurit Anda akan secara otomatis keluar patroli pada <b>malam hari</b>."
 ]

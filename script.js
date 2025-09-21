@@ -114,7 +114,7 @@ async function updateCsvWithTranslation(inputCsv, translationFile) {
           ![...origPlaceholders].every(ph => transPlaceholders.has(ph))) {
         const missing = [...origPlaceholders].filter(ph => !transPlaceholders.has(ph));
         const extra = [...transPlaceholders].filter(ph => !origPlaceholders.has(ph));
-        let errDetail = `Row ${idx + 1} (Key "${originalRows[idx].Key}"): Placeholders tidak match.`;
+        let errDetail = `data_${chunkIndex}.json row ${j + 2} (Key "${originalRows[idx].Key}"): Placeholders tidak match.`;
         if (missing.length > 0) errDetail += ` Hilang: ${missing.join(', ')}`;
         if (extra.length > 0) errDetail += ` Ekstra: ${extra.join(', ')}`;
         valueErrors.push(errDetail);
@@ -124,15 +124,33 @@ async function updateCsvWithTranslation(inputCsv, translationFile) {
       const origDollarCount = (originalValue.match(/\$/g) || []).length;
       const transDollarCount = (transValue.match(/\$/g) || []).length;
       if (origDollarCount !== transDollarCount) {
-        valueErrors.push(`Row ${idx + 1} (Key "${originalRows[idx].Key}"): Jumlah $ tidak match. Original: ${origDollarCount}, Trans: ${transDollarCount}`);
+        valueErrors.push(`data_${chunkIndex}.json row ${j + 2} (Key "${originalRows[idx].Key}"): Jumlah $ tidak match. Original: ${origDollarCount}, Trans: ${transDollarCount}`);
       }
 
-      // Verifikasi tag (urutan dan isi harus sama)
+      // Verifikasi tag (urutan dan isi harus sama, termasuk frekuensi)
       const tagRegex = /<[^>]+>/g;
       const origTags = originalValue.match(tagRegex) || [];
       const transTags = transValue.match(tagRegex) || [];
       if (origTags.length !== transTags.length || !origTags.every((tag, index) => tag === transTags[index])) {
-        valueErrors.push(`Row ${idx + 1} (Key "${originalRows[idx].Key}"): Tag tidak match. Original tags: ${origTags.join(', ')}; Trans tags: ${transTags.join(', ')}`);
+        const origTagFreq = origTags.reduce((acc, tag) => { acc[tag] = (acc[tag] || 0) + 1; return acc; }, {});
+        const transTagFreq = transTags.reduce((acc, tag) => { acc[tag] = (acc[tag] || 0) + 1; return acc; }, {});
+        const allTags = new Set([...Object.keys(origTagFreq), ...Object.keys(transTagFreq)]);
+        let freqMismatches = [];
+        for (let tag of allTags) {
+          const o = origTagFreq[tag] || 0;
+          const t = transTagFreq[tag] || 0;
+          if (o !== t) {
+            freqMismatches.push(`Tag ${tag} muncul ${t} kali di terjemahan, seharusnya ${o} kali`);
+          }
+        }
+        let tagErr = `data_${chunkIndex}.json row ${j + 2} (Key "${originalRows[idx].Key}"): Tag tidak match.`;
+        if (freqMismatches.length > 0) {
+          tagErr += ` ${freqMismatches.join('; ')}.`;
+        }
+        if (freqMismatches.length === 0 && !origTags.every((tag, index) => tag === transTags[index])) {
+          tagErr += ` Urutan tag berbeda.`;
+        }
+        valueErrors.push(tagErr);
       }
     }
 
@@ -162,7 +180,7 @@ async function updateCsvWithAllTranslations(inputCsv) {
   try {
     const originalRows = await getCsvRows(inputCsv);
 
-    // Gabung semua translations dari JSON files secara urut (data_1, data_2, dst.)
+    // Dapatkan list file JSON secara urut
     const jsonFiles = fs.readdirSync(outputDir)
       .filter(f => f.endsWith('.json'))
       .sort((a, b) => {
@@ -171,50 +189,80 @@ async function updateCsvWithAllTranslations(inputCsv) {
         return aIdx - bIdx;
       });
 
-    let allTranslations = [];
-    jsonFiles.forEach(file => {
+    // Verifikasi placeholders, $, dan tag per chunk
+    let valueErrors = [];
+    let currentStartIndex = 0;
+    for (const file of jsonFiles) {
+      const chunkIndex = parseInt(file.match(/data_(\d+)\.json/)[1]);
       const translations = JSON.parse(fs.readFileSync(path.join(outputDir, file), 'utf8'));
-      allTranslations = allTranslations.concat(translations);
-    });
+      const chunkLength = translations.length;
 
-    // Verifikasi length sama
-    if (originalRows.length !== allTranslations.length) {
-      console.error(`Verifikasi gagal: Jumlah rows di CSV (${originalRows.length}) tidak sama dengan total items di JSON (${allTranslations.length}).`);
-      process.exit(1);
+      // Verifikasi length per chunk
+      const expectedLength = Math.min(chunkSize, originalRows.length - currentStartIndex);
+      if (chunkLength !== expectedLength) {
+        console.error(`Verifikasi gagal untuk ${file}: Panjang (${chunkLength}) tidak match expected (${expectedLength}).`);
+        process.exit(1);
+      }
+
+      // Verifikasi per item di chunk ini
+      for (let j = 0; j < chunkLength; j++) {
+        const idx = currentStartIndex + j;
+        const originalValue = originalRows[idx].English || '';
+        const transValue = translations[j];
+        const origPlaceholders = extractPlaceholders(originalValue);
+        const transPlaceholders = extractPlaceholders(transValue);
+        
+        if (origPlaceholders.size !== transPlaceholders.size || 
+            ![...origPlaceholders].every(ph => transPlaceholders.has(ph))) {
+          const missing = [...origPlaceholders].filter(ph => !transPlaceholders.has(ph));
+          const extra = [...transPlaceholders].filter(ph => !origPlaceholders.has(ph));
+          let errDetail = `${file} row ${j + 2} (Key "${originalRows[idx].Key}"): Placeholders tidak match.`;
+          if (missing.length > 0) errDetail += ` Hilang: ${missing.join(', ')}`;
+          if (extra.length > 0) errDetail += ` Ekstra: ${extra.join(', ')}`;
+          valueErrors.push(errDetail);
+        }
+
+        // Verifikasi jumlah $
+        const origDollarCount = (originalValue.match(/\$/g) || []).length;
+        const transDollarCount = (transValue.match(/\$/g) || []).length;
+        if (origDollarCount !== transDollarCount) {
+          valueErrors.push(`${file} row ${j + 2} (Key "${originalRows[idx].Key}"): Jumlah $ tidak match. Original: ${origDollarCount}, Trans: ${transDollarCount}`);
+        }
+
+        // Verifikasi tag (urutan dan isi harus sama, termasuk frekuensi)
+        const tagRegex = /<[^>]+>/g;
+        const origTags = originalValue.match(tagRegex) || [];
+        const transTags = transValue.match(tagRegex) || [];
+        if (origTags.length !== transTags.length || !origTags.every((tag, index) => tag === transTags[index])) {
+          const origTagFreq = origTags.reduce((acc, tag) => { acc[tag] = (acc[tag] || 0) + 1; return acc; }, {});
+          const transTagFreq = transTags.reduce((acc, tag) => { acc[tag] = (acc[tag] || 0) + 1; return acc; }, {});
+          const allTags = new Set([...Object.keys(origTagFreq), ...Object.keys(transTagFreq)]);
+          let freqMismatches = [];
+          for (let tag of allTags) {
+            const o = origTagFreq[tag] || 0;
+            const t = transTagFreq[tag] || 0;
+            if (o !== t) {
+              freqMismatches.push(`Tag ${tag} muncul ${t} kali di terjemahan, seharusnya ${o} kali`);
+            }
+          }
+          let tagErr = `${file} row ${j + 2} (Key "${originalRows[idx].Key}"): Tag tidak match.`;
+          if (freqMismatches.length > 0) {
+            tagErr += ` ${freqMismatches.join('; ')}.`;
+          }
+          if (freqMismatches.length === 0 && !origTags.every((tag, index) => tag === transTags[index])) {
+            tagErr += ` Urutan tag berbeda.`;
+          }
+          valueErrors.push(tagErr);
+        }
+      }
+
+      currentStartIndex += chunkLength;
     }
 
-    // Verifikasi placeholders, $, dan tag per index
-    let valueErrors = [];
-    for (let i = 0; i < originalRows.length; i++) {
-      const originalValue = originalRows[i].English || '';
-      const transValue = allTranslations[i];
-      const origPlaceholders = extractPlaceholders(originalValue);
-      const transPlaceholders = extractPlaceholders(transValue);
-      
-      if (origPlaceholders.size !== transPlaceholders.size || 
-          ![...origPlaceholders].every(ph => transPlaceholders.has(ph))) {
-        const missing = [...origPlaceholders].filter(ph => !transPlaceholders.has(ph));
-        const extra = [...transPlaceholders].filter(ph => !origPlaceholders.has(ph));
-        let errDetail = `Row ${i + 1} (Key "${originalRows[i].Key}"): Placeholders tidak match.`;
-        if (missing.length > 0) errDetail += ` Hilang: ${missing.join(', ')}`;
-        if (extra.length > 0) errDetail += ` Ekstra: ${extra.join(', ')}`;
-        valueErrors.push(errDetail);
-      }
-
-      // Verifikasi jumlah $
-      const origDollarCount = (originalValue.match(/\$/g) || []).length;
-      const transDollarCount = (transValue.match(/\$/g) || []).length;
-      if (origDollarCount !== transDollarCount) {
-        valueErrors.push(`Row ${i + 1} (Key "${originalRows[i].Key}"): Jumlah $ tidak match. Original: ${origDollarCount}, Trans: ${transDollarCount}`);
-      }
-
-      // Verifikasi tag (urutan dan isi harus sama)
-      const tagRegex = /<[^>]+>/g;
-      const origTags = originalValue.match(tagRegex) || [];
-      const transTags = transValue.match(tagRegex) || [];
-      if (origTags.length !== transTags.length || !origTags.every((tag, index) => tag === transTags[index])) {
-        valueErrors.push(`Row ${i + 1} (Key "${originalRows[i].Key}"): Tag tidak match. Original tags: ${origTags.join(', ')}; Trans tags: ${transTags.join(', ')}`);
-      }
+    // Verifikasi total length
+    if (currentStartIndex !== originalRows.length) {
+      console.error(`Verifikasi gagal: Total items di JSON (${currentStartIndex}) tidak sama dengan rows di CSV (${originalRows.length}).`);
+      process.exit(1);
     }
 
     if (valueErrors.length > 0) {
@@ -223,8 +271,15 @@ async function updateCsvWithAllTranslations(inputCsv) {
     }
 
     // Jika semua match, update per index
-    for (let i = 0; i < originalRows.length; i++) {
-      originalRows[i].English = allTranslations[i];
+    currentStartIndex = 0;
+    for (const file of jsonFiles) {
+      const translations = JSON.parse(fs.readFileSync(path.join(outputDir, file), 'utf8'));
+      const chunkLength = translations.length;
+      for (let j = 0; j < chunkLength; j++) {
+        const idx = currentStartIndex + j;
+        originalRows[idx].English = translations[j];
+      }
+      currentStartIndex += chunkLength;
     }
 
     // Tulis kembali ke CSV

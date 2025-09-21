@@ -2524,174 +2524,174 @@ hint_nt_notenough_barraks,"Tidak Cukup Barak
 <hint=hint_bld_barracks>Barak</hint> tidak dapat menampung semua <hint=hint_persons_warriors>prajurit</hint> yang disewa dan mereka harus tidur di luar atau di lantai Kuil, yang buruk memengaruhi suasana hati mereka.
 
 Bangun lebih banyak Barak."
-hint_nt_farmgobad,"The soil will soon be depleted
-Farmers have noticed signs of soil depletion in the fields, which means it will need to be plowed again in a couple of days.
+hint_nt_farmgobad,"Tanah akan segera habis
+Petani telah melihat tanda-tanda kehabisan tanah di ladang, yang berarti itu perlu dibajak lagi dalam beberapa hari.
 
-Prepare <hint=hint_resource_wood>Wood</hint> in advance (it is burned in the fields to make the soil fertile)."
-hint_nt_wolfattack,"Fleshwolf attack
-Advice: Send your lords on <hint=hint_action_task>hunts</hint> more frequently to control the fleshwolf population.
+Siapkan <hint=hint_resource_wood>Kayu</hint> terlebih dahulu (itu dibakar di ladang untuk membuat tanah subur)."
+hint_nt_wolfattack,"Serangan Fleshwolf
+Saran: Kirim para penguasa Anda untuk <hint=hint_action_task>berburu</hint> lebih sering untuk mengendalikan populasi fleshwolf.
 
-You can also sell more <hint=hint_resource_knife>Daggers</hint> to the peasants at the <hint=hint_bld_market>Market</hint> so that they can defend themselves.
+Anda juga dapat menjual lebih banyak <hint=hint_resource_knife>Belati</hint> kepada petani di <hint=hint_bld_market>Pasar</hint> sehingga mereka dapat membela diri.
 
-Click {input.key.mb_left} to go to the event location."
-hint_nt_peasant_use_caravan,"Purchasing food from the caravan
-It seems that peasants prefer buying <hint=hint_food>food</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint>, and now your <hint=hint_resource_gold>Gold</hint> is slipping away.
+Klik {input.key.mb_left} untuk pergi ke lokasi acara."
+hint_nt_peasant_use_caravan,"Membeli makanan dari karavan
+Sepertinya petani lebih suka membeli <hint=hint_food>makanan</hint> dari <hint=hint_holy_caravan>Karavan Suci</hint>, dan sekarang <hint=hint_resource_gold>Emas</hint> Anda sedang hilang.
 
-Make sure that:
-$ You have constructed a <hint=hint_bld_market>Market</hint>.
-$ There is a worker assigned to the market.
-$ The prices of food in your market are lower than those of the Holy Caravan.
-$ All types of food are available in your market.
+Pastikan bahwa:
+$ Anda telah membangun <hint=hint_bld_market>Pasar</hint>.
+$ Ada pekerja yang ditugaskan ke pasar.
+$ Harga makanan di pasar Anda lebih rendah daripada Karavan Suci.
+$ Semua jenis makanan tersedia di pasar Anda.
 
 "
-hint_nt_actor_complete_action_task_on_gm,"The task has been completed
-{soul_uuid} has successfully completed the assigned task ""{task_name}"" in the city of {faction_uuid} and is heading home.
+hint_nt_actor_complete_action_task_on_gm,"Tugas telah selesai
+{soul_uuid} telah berhasil menyelesaikan tugas yang ditugaskan ""{task_name}"" di kota {faction_uuid} dan sedang menuju pulang.
 
-You can assign them another task before they return."
-hint_nt_actor_abort_action_task_on_gm,"Unable to complete the task
-For some reason, {soul_uuid} was unable to complete the assigned task ""{task_name}"" in the city of {faction_uuid}."
-hint_nt_actor_arrived_in_town_as_guest_on_gm,"A lord has arrived in the city
-{soul_uuid} has arrived in the city of {faction_uuid} and is starting the assigned task."
-hint_nt_fanatics_perc,"Religious fanatics
-<hint=hint_persons_fanatic>Religious fanatics</hint> have many advantages, but if they become unhappy, they may incite an <hint=hint_pogrom>uprising</hint>.
+Anda dapat menugaskan tugas lain kepada mereka sebelum mereka kembali."
+hint_nt_actor_abort_action_task_on_gm,"Tidak Mampu Menyelesaikan Tugas
+Untuk alasan tertentu, {soul_uuid} tidak mampu menyelesaikan tugas yang ditugaskan ""{task_name}"" di kota {faction_uuid}."
+hint_nt_actor_arrived_in_town_as_guest_on_gm,"Seorang Penguasa Telah Tiba di Kota
+{soul_uuid} telah tiba di kota {faction_uuid} dan mulai melakukan tugas yang ditugaskan."
+hint_nt_fanatics_perc,"<hint=hint_persons_fanatic>Fanatik religius</hint>
+Fanatik religius memiliki banyak keuntungan, tetapi jika mereka menjadi tidak bahagia, mereka mungkin memicu <hint=hint_pogrom>pemberontakan</hint>.
 
-You can influence their numbers by preaching <hint=hint_sermon_agnostic>Doubt</hint> or <hint=hint_sermon_faith>Faith</hint> in <hint=hint_bld_temple>Temples</hint>."
-hint_nt_religion_riot,"Many fanatics!
-Almost half of the population in the city are <hint=hint_persons_fanatic>religious fanatics</hint>.
+Anda dapat memengaruhi jumlah mereka dengan khotbah <hint=hint_sermon_agnostic>Keraguan</hint> atau <hint=hint_sermon_faith>Iman</hint> di <hint=hint_bld_temple>Kuil</hint>."
+hint_nt_religion_riot,"Banyak Fanatik!
+Hampir setengah populasi di kota adalah <hint=hint_persons_fanatic>Fanatik religius</hint>.
 
-It might be worth reducing their numbers through the use of <hint=hint_sermon_agnostic>doubtful preaching</hint> in the <hint=hint_bld_temple>Temples</hint> before any <hint=hint_pogrom>uprisings</hint> occur."
-hint_nt_servants,"For lords to eat and drink, they need <hint=hint_persons_servants>servants</hint> who will bring food from the warehouse in <hint=hint_bld_castle>Hall</hint> and to their <hint=hint_bld_noble_house>houses</hint>. 
+Mungkin layak mengurangi jumlah mereka melalui penggunaan <hint=hint_sermon_agnostic>khotbah keraguan</hint> di <hint=hint_bld_temple>Kuil</hint> sebelum terjadi <hint=hint_pogrom>pemberontakan</hint>."
+hint_nt_servants,"Agar para penguasa makan dan minum, mereka membutuhkan <hint=hint_persons_servants>pelayan</hint> yang akan membawa makanan dari gudang di <hint=hint_bld_castle>Aula</hint> dan ke <hint=hint_bld_noble_house>rumah</hint> mereka. 
 
-Servants are hired in the Hall menu."
-hint_nt_dummy_low_food,"Hungry peasants
-There is a high percentage of <hint=hint_starvation>hungry</hint> peasants in the city!
+Pelayan disewa di menu Aula."
+hint_nt_dummy_low_food,"Petani Lapar
+Ada persentase tinggi <hint=hint_starvation>petani lapar</hint> di kota!
 
-They need to consume at least one unit of <hint=hint_food>food</hint> per day.
+Mereka perlu mengonsumsi setidaknya satu unit <hint=hint_food>makanan</hint> per hari.
 
-In the <hint=hint_finance_menu>Economy Menu</hint>, ensure that:
-$ You are distributing enough food to them.
-$ If you are paying them a <hint=hint_salary>wage</hint> ensure it is sufficient for purchasing food."
-hint_nt_dummy_low_beer,"Low Alcohol Consumption
-Only 20% of peasants in the city consume <hint=hint_alcohol>alcohol</hint>.  
+Di <hint=hint_finance_menu>Menu Ekonomi</hint>, pastikan bahwa:
+$ Anda mendistribusikan cukup makanan kepada mereka.
+$ Jika Anda membayar mereka <hint=hint_salary>upah</hint> pastikan itu cukup untuk membeli makanan."
+hint_nt_dummy_low_beer,"Konsumsi Alkohol Rendah
+Hanya 20% petani di kota yang mengonsumsi <hint=hint_alcohol>alkohol</hint>.  
 
-Alcohol is the simplest way to increase average mood, which is necessary to encourage <hint=hint_migration>migration</hint>.  
+Alkohol adalah cara termudah untuk meningkatkan suasana hati rata-rata, yang diperlukan untuk mendorong <hint=hint_migration>migrasi</hint>.  
 
-$ Ensure you are distributing enough alcohol in the <hint=hint_finance_menu>Economy Menu</hint>.  
-$ If you are paying <hint=hint_salary>wages</hint>, ensure they are sufficient for purchasing alcohol at least once every few days."
-hint_nt_dummy_many_homeless,"Homeless peasants
-There is a high percentage of homeless peasants in the city!
-Build additional <hint=hint_bld_house>houses</hint>, as homeless peasants are unhappy."
-hint_nt_slave_escape,"Prisoner escape
-Prisoners may sometimes attempt to escape when they are unhappy and yearn for freedom.
+$ Pastikan Anda mendistribusikan cukup alkohol di <hint=hint_finance_menu>Menu Ekonomi</hint>.  
+$ Jika Anda membayar <hint=hint_salary>upah</hint>, pastikan itu cukup untuk membeli alkohol setidaknya sekali setiap beberapa hari."
+hint_nt_dummy_many_homeless,"Petani Tunawisma
+Ada persentase tinggi petani tunawisma di kota!
+Bangun <hint=hint_bld_house>rumah</hint> tambahan, karena petani tunawisma tidak bahagia."
+hint_nt_slave_escape,"Pelarian Narapidana
+Narapidana terkadang mencoba melarikan diri ketika mereka tidak bahagia dan merindukan kebebasan.
 
 <img=hint_nt_slave_escape></img>
 
-To prevent this, place <hint=hint_persons_guard>guards</hint> at the entrance to the <hint=hint_bld_slaves_barrack>Prisoners Ward</hint> and near the buildings where they work."
-hint_nt_events_unhappy_lord,"Lords' Mood
-If a lord's <hint=hint_mood>mood</hint> remains below <red>25</red> (you may also notice that the background color behind their portrait at the top is red), they will become unhappy.
+Untuk mencegah ini, letakkan <hint=hint_persons_guard>garda</hint> di pintu masuk ke <hint=hint_bld_slaves_barrack>Blok Penjara</hint> dan di dekat bangunan tempat mereka bekerja."
+hint_nt_events_unhappy_lord,"Suasana Hati Para Penguasa
+Jika <hint=hint_mood>suaana hati</hint> seorang penguasa tetap di bawah <red>25</red> (Anda juga mungkin melihat bahwa warna latar belakang di belakang potret mereka di atas berwarna merah), mereka akan menjadi tidak bahagia.
 
 <img=hint_nt_events_unhappy_lord></img>
 
-$ In this state, the lord will not perform your <hint=hint_action>tasks</hint>, including <hint=hint_inspection>building management</hint>.
-$ Unhappy lords may develop depression, leading to a <hint=hint_tantrum>nervous breakdown</hint>, and their <hint=hint_loyalty>loyalty</hint> will decrease.
-$ In an unhappy mood, they are also more prone to insulting others and and other poor behavior, which can create a negativity snowball that makes other lords unhappy.
-$ A lord who spends most of their time in a good mood (above <green>80</green>) may become a <hint=hint_loyalist>loyalist</hint> or gain <hint=hint_insight>insight</hint> and <hint=hint_inspired>inspiration</hint>.
+$ Dalam keadaan ini, penguasa tidak akan melakukan <hint=hint_action>tugas</hint> Anda, termasuk <hint=hint_inspection>manajemen bangunan</hint>.
+$ Penguasa tidak bahagia mungkin mengembangkan depresi, mengarah ke <hint=hint_tantrum>penyakit mental</hint>, dan <hint=hint_loyalty>kesetiaan</hint> mereka akan menurun.
+$ Dalam suasana hati tidak bahagia, mereka juga lebih rentan menghina orang lain dan perilaku buruk lainnya, yang dapat menciptakan bola salju negatif yang membuat penguasa lain tidak bahagia.
+$ Seorang penguasa yang menghabiskan sebagian besar waktu dalam suasana hati baik (di atas <green>80</green>) mungkin menjadi <hint=hint_loyalist>loyalis</hint> atau mendapatkan <hint=hint_insight>wawasan</hint> dan <hint=hint_inspired>inspirasi</hint>.
 
-Tips for improving mood:
-$ Ensure your lords have access to higher quality products such as <hint=hint_resource_meat>Meat</hint> and <hint=hint_resource_ale>Ale</hint>.
-$ Encourage them to spend time or go hunting with a happier lord.
-$ Turn them into a fanatic by preaching the <hint=hint_sermon_faith>sermon of faith</hint> in Temples.
-$ Initiate <hint=hint_nt_terror_culture>terror</hint> against the culture the lord hates or pursue policies aligned with their cultural values.
+Tips untuk meningkatkan suasana hati:
+$ Pastikan para penguasa Anda memiliki akses ke produk berkualitas lebih tinggi seperti <hint=hint_resource_meat>Daging</hint> dan <hint=hint_resource_ale>Ale</hint>.
+$ Dorong mereka untuk menghabiskan waktu atau berburu dengan penguasa yang lebih bahagia.
+$ Jadikan mereka fanatik dengan khotbah <hint=hint_sermon_faith>khotbah iman</hint> di Kuil.
+$ Mulai <hint=hint_nt_terror_culture>teror</hint> terhadap budaya yang dibenci penguasa atau kejar kebijakan yang selaras dengan nilai budaya mereka.
 
-<b>Hint:</b> Hover over the red thoughts in the Needs tab to find out what they're missing."
-hint_nt_event_building_without_instruction,"Hint
+<b>Petunjuk:</b> Arahkan kursor ke pikiran merah di tab Kebutuhan untuk mengetahui apa yang mereka kurangi."
+hint_nt_event_building_without_instruction,"Petunjuk
 
-Not all buildings have received <hint=hint_inspection>instructions</hint> today, and they may start becoming less productive tomorrow.
+Tidak semua bangunan telah menerima <hint=hint_inspection>instruksi</hint> hari ini, dan mereka mungkin mulai menjadi kurang produktif besok.
 
-Check the assigned lord in the Hall, or, if there are too many buildings, consider building a <hint=hint_bld_chancellery>Chancellery</hint>.
+Periksa penguasa yang ditugaskan di Aula, atau, jika ada terlalu banyak bangunan, pertimbangkan membangun <hint=hint_bld_chancellery>Kanselari</hint>.
 
-$ Click on the notification to see the buildings."
-hint_nt_event_building_without_inspector,"Instructions
-Workers in production buildings do not know what to do unless one of the lords gives them <hint=hint_inspection>instructions</hint>.
+$ Klik pada notifikasi untuk melihat bangunan."
+hint_nt_event_building_without_inspector,"Instruksi
+Pekerja di bangunan produksi tidak tahu apa yang harus dilakukan kecuali salah satu penguasa memberi mereka <hint=hint_inspection>instruksi</hint>.
 
-Assign a lord as the manager in the building menu, and they will distribute instructions to the workers daily.
+Tugaskan penguasa sebagai manajer di menu bangunan, dan mereka akan mendistribusikan instruksi kepada pekerja setiap hari.
 
-$ Click on the notification to see the buildings."
-hint_nt_no_meds,"You have run out of Medical Salve
-Urgently replenish your supply of <hint=hint_resource_med>Medical Salve</hint> by purchasing it from the <hint=hint_holy_caravan>Holy Caravan</hint> or producing it yourself in the <hint=hint_bld_alchemistry>Alchemy Lab</hint>.
+$ Klik pada notifikasi untuk melihat bangunan."
+hint_nt_no_meds,"Anda kehabisan Salep Medis
+Segera isi ulang persediaan <hint=hint_resource_med>Salep Medis</hint> Anda dengan membelinya dari <hint=hint_holy_caravan>Karavan Suci</hint> atau memproduksinya sendiri di <hint=hint_bld_alchemistry>Laboratorium Alkimia</hint>.
 
-If you don't have Medical Salve, any serious <hint=hint_wounds>wounds</hint> can lead to <hint=hint_poisoned>gangrene</hint> and then to the character's death!"
-hint_nt_slaves_starving,"Prisoners are starving!
-<tight>$ Make sure you have enough <hint=hint_bld_slaves_barrack>Prison Wards</hint> for all of them.
+Jika Anda tidak memiliki Salep Medis, <hint=hint_wounds>luka</hint> serius apa pun dapat mengarah ke <hint=hint_poisoned>Luka Busuk</hint> dan kemudian ke kematian karakter!"
+hint_nt_slaves_starving,"Tahanan Kelaparan!
+<tight>$ Pastikan Anda memiliki cukup <hint=hint_bld_slaves_barrack>Blok Penjara</hint> untuk semua mereka.
 
-$ Ensure that the Prison Wards have warden workers assigned to them.
-$ Verify that you have allocated an adequate amount of food for your number of prisoners in the <hint=hint_finance_menu>Economy Menu</hint></tight>"
-hint_nt_kid_now_can_read,"Teenager
-The character has grown up. Now they can study books in the <hint=hint_knowledge_menu>Knowledge menu</hint>.
+$ Pastikan Blok Penjara memiliki pekerja penjaga yang ditugaskan kepada mereka.
+$ Verifikasi bahwa Anda telah mengalokasikan jumlah makanan yang memadai untuk jumlah tahanan Anda di <hint=hint_finance_menu>Menu Ekonomi</hint></tight>"
+hint_nt_kid_now_can_read,"Remaja
+Karakter telah dewasa. Sekarang mereka dapat mempelajari buku di <hint=hint_knowledge_menu>Menu Pengetahuan</hint>.
 
-Additionally, you can assign him a Wise Conversation with an educated lord to transfer <hint=hint_idea>knowledge</hint> (teenagers are particularly receptive to it)."
-hint_display_event_storage_robbery_gold,"Robbery!
-You can try to recover the stolen items by assembling a <hint=hint_army>squad</hint> and attacking the thieves."
-hint_display_event_nectar_rage_begin,"Nectar Rage
-After consuming <hint=hint_resource_nectar>Nectar</hint>, the character will enter a state of rage and attack anyone in their field of vision.
+Selain itu, Anda dapat menugaskan Percakapan Bijak dengan penguasa berpendidikan untuk mentransfer <hint=hint_idea>pengetahuan</hint> (remaja sangat reseptif terhadapnya)."
+hint_display_event_storage_robbery_gold,"Pencurian!
+Anda dapat mencoba memulihkan barang curian dengan mengumpulkan <hint=hint_army>regu</hint> dan menyerang pencuri."
+hint_display_event_nectar_rage_begin,"Nektar Rage
+Setelah mengonsumsi <hint=hint_resource_nectar>Nektar</hint>, karakter akan memasuki keadaan amarah dan menyerang siapa pun dalam jangkauan penglihatan mereka.
 
-The more often the character consumes nectar, the more likely they will experience a Nectar Rage episode."
-hint_display_drunk_fight_start,"Drunken aggression
-Today, they drank too much <hint=hint_alcohol>alcohol</hint> and started a fight.
+Semakin sering karakter mengonsumsi nektar, semakin mungkin mereka mengalami episode Nektar Rage."
+hint_display_drunk_fight_start,"Agresi Mabuk
+Hari ini, mereka minum terlalu banyak <hint=hint_alcohol>alkohol</hint> dan memulai pertarungan.
 
-There is a small chance of this happening each time the character is unhappy and drinks alcohol. Pay attention to their heaviest thoughts to make this occur less frequently."
-hint_nt_free_lord_expired,"Your contract with the free lord has ended
-The free lord has fulfilled their part of the contract and will soon leave your city. You can try to hire them again if you are satisfied with their services."
-hint_nt_free_lord_low_loyalty,"The free lord has terminated the contract prematurely
-The free lord has decided to break the contract due to low loyalty, and they will soon leave your city."
-hint_nt_lod_mising,"Lord Missing
-During the battle, your lord {uuid_lord} fled from the battlefield, and now their whereabouts are unknown.
+Ada kemungkinan kecil hal ini terjadi setiap kali karakter tidak bahagia dan minum alkohol. Perhatikan pikiran terberat mereka untuk membuat ini terjadi lebih jarang."
+hint_nt_free_lord_expired,"Kontrak Anda dengan penguasa bebas telah berakhir
+Penguasa bebas telah memenuhi bagian kontrak mereka dan segera akan meninggalkan kota Anda. Anda dapat mencoba menyewa mereka lagi jika Anda puas dengan layanan mereka."
+hint_nt_free_lord_low_loyalty,"Penguasa bebas telah mengakhiri kontrak lebih awal
+Penguasa bebas telah memutuskan untuk memutus kontrak karena kesetiaan rendah, dan mereka segera akan meninggalkan kota Anda."
+hint_nt_lod_mising,"Penguasa Hilang
+Selama pertempuran, penguasa Anda {uuid_lord} melarikan diri dari medan perang, dan sekarang keberadaan mereka tidak diketahui.
 
-However, they will likely return to the settlement in a couple of days."
-hint_nt_faction_become_enemy,"New Enemy
-King {soul_uuid_king} from the city of {faction_uuid} is now in a state of war with you.
+Namun, mereka kemungkinan akan kembali ke pemukiman dalam beberapa hari."
+hint_nt_faction_become_enemy,"Musuh Baru
+Raja {soul_uuid_king} dari kota {faction_uuid} sekarang dalam keadaan perang dengan Anda.
 
-You can expect armed attacks on your villages and your city, as well as various intrigues against you."
-hint_nt_faction_soon_become_enemy,"New Adversary
-Ruler {soul_uuid_king} from the city of {faction_uuid} has become hostile toward you.
+Anda dapat mengharapkan serangan bersenjata pada desa dan kota Anda, serta berbagai intrik terhadap Anda."
+hint_nt_faction_soon_become_enemy,"Lawan Baru
+Penguasa {soul_uuid_king} dari kota {faction_uuid} telah menjadi permusuhan terhadap Anda.
 
-While they may not attack you yet, they may engage in hostile intrigues and actions."
-hint_province_peasants_statistics,"Peasant Statistics
-<center>For the current day</center>
+Meskipun mereka mungkin belum menyerang Anda, mereka mungkin terlibat dalam intrik dan tindakan permusuhan."
+hint_province_peasants_statistics,"Statistik Petani
+<center>Untuk hari ini</center>
 
-$ Peasants left: {peasant_left}
-$ Became <hint=hint_persons_criminal>vagabonds</hint>: {peasant_criminal}
-$ Became <hint=hint_persons_cuthroat>cutthroats</hint>: {peasant_thug}
-$ Became <hint=hint_persons_fanatic>fanatics</hint>: {peasant_fanatic}
-$ Expected <hint=hint_migration>migrants</hint>: {peasant_migrant}"
-hint_nt_world_summary,"World Summary
-<center>Events for the current day</center>
+$ Petani pergi: {peasant_left}
+$ Menjadi <hint=hint_persons_criminal>pengembara</hint>: {peasant_criminal}
+$ Menjadi <hint=hint_persons_cuthroat>pembunuh berantai</hint>: {peasant_thug}
+$ Menjadi <hint=hint_persons_fanatic>Fanatik</hint>: {peasant_fanatic}
+$ Migran yang diharapkan <hint=hint_migration>migrasi</hint>: {peasant_migrant}"
+hint_nt_world_summary,"Ringkasan Dunia
+<center>Peristiwa untuk hari ini</center>
 {events}
 
-<center>Events from neighboring regions</center>
+<center>Peristiwa dari wilayah tetangga</center>
 {neighbore_events}"
-hint_nt_economic_summary,"Economic Summary
-<center>For the current day</center>
+hint_nt_economic_summary,"Ringkasan Ekonomi
+<center>Untuk hari ini</center>
 
-$ Gold balance: <hint=hint_resource_gold>{gold_change}</hint>
-$ Paid <hint=hint_salary>wages</hint>: <hint=hint_resource_gold>{salary}</hint>
-$ <hint=hint_re_prod>Resources produced</hint>: <hint=hint_resource_gold>{prod_sum}</hint>
-$ <hint=hint_re_saled>Goods sold</hint> in local markets: <hint=hint_resource_gold>{sale_sum}</hint>
-$ <hint=hint_re_built>Resources invested</hint> in the economy: <hint=hint_resource_gold>{build_sum}</hint>
+$ Saldo Emas: <hint=hint_resource_gold>{gold_change}</hint>
+$ Upah dibayar <hint=hint_salary>upah</hint>: <hint=hint_resource_gold>{salary}</hint>
+$ <hint=hint_re_prod>Sumber Daya Diproduksi</hint>: <hint=hint_resource_gold>{prod_sum}</hint>
+$ <hint=hint_re_saled>Barang Dijual</hint> di pasar lokal: <hint=hint_resource_gold>{sale_sum}</hint>
+$ <hint=hint_re_built>Sumber Daya Diinvestasikan</hint> dalam ekonomi: <hint=hint_resource_gold>{build_sum}</hint>
 
-<b>Instructions not received:</b>
+<b>Instruksi tidak diterima:</b>
 {buildings_list_no_instruction}
 
-<b>Broken or non-functioning:</b>
+<b>Rusak atau tidak berfungsi:</b>
 {buildings_list_broken}
 
-<b>Insufficient workers:</b>
+<b>Kurang pekerja:</b>
 {buildings_list_not_enought_workers}
 
-<b>Fields on the verge of depletion:</b>
+<b>Ladang di ambang kehabisan:</b>
 {buildings_list_depleted_soon}
 
-$ Press <b>RMB</b> to close the notification."
+$ Tekan <b>RMB</b> untuk menutup notifikasi."
 hint_re_prod,"Resources Produced
 $ Shows the value of all resources produced by all buildings in a day.
 $ Measured in gold, based on the selling price of the caravan.

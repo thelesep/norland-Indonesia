@@ -1,12 +1,12 @@
 [
-  "Blissful\n$ Everyone loves this character.\n$ <hint=hint_need_piety>Piety</hint> is restored to their interlocutors during conversations. They will avoid engaging in negative communication.\n\n<b>Cause:</b> Experienced a nervous breakdown.",
-  "Premature graying\n$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>\n\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
-  "Graying\n$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>",
-  "Sarcastic\n$ Increased likelihood of a mean joke.\n\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
-  "Devout\n$ Becomes a fanatic permanently.\n\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
-  "Pacifist\n$ Unhappy when having to command troops.\n\n<b>Cause:</b> Experienced defeat in battle.",
-  "Anxious\n$ Always wakes up during a home invasion.\n\n<b>Cause:</b> Experienced a home invasion or captivity.",
-  "Greedy\n$ Dresses in rags.\n$ Positive thoughts from <hint=hint_resource_gold>money</hint> are twice as strong.\n$ Other lords have a lower opinion of lords with this trait.\n\n<b>Cause:</b> Had no <hint=hint_resource_gold>money</hint> for {greedy_days} days",
-  "Sublimation\n$ Tiredness from work is 3 times weaker.\n$ 20% higher chance of a nervous breakdown.\n$ Does not suffer from lack of sex.\n\n<b>Cause:</b> Long period of time without sex",
-  "Former heir\nWas once the heir to the throne, but has been stripped of that status.\n\nIf their loyalty drops, they may lead a <hint=hint_nt_heir_rebellion_former>rebellion of the former heir</hint>."
+  "Sangat bahagia\n$ Semua orang mencintai karakter ini.\n$ <hint=hint_need_piety>Kesalehan</hint> dipulihkan kepada lawan bicara mereka selama percakapan. Mereka akan menghindari terlibat dalam komunikasi negatif.\n\n<b>Penyebab:</b> Mengalami penyakit mental.",
+  "Uban Dini\n$ <hint=hint_interest>Minat</hint> terhadap karakter <red>-10</red>\n\n<b>Penyebab:</b> Mengalami penyakit mental atau seseorang yang dekat meninggal.",
+  "Uban\n$ <hint=hint_interest>Minat</hint> terhadap karakter <red>-10</red>",
+  "Sarkastik\n$ Kemungkinan lebih tinggi membuat lelucon jahat.\n\n<b>Penyebab:</b> Mengalami penyakit mental atau seseorang yang dekat meninggal.",
+  "Saleh\n$ Menjadi fanatik secara permanen.\n\n<b>Penyebab:</b> Mengalami penyakit mental atau seseorang yang dekat meninggal.",
+  "Pasifis\n$ Tidak bahagia saat harus memerintah pasukan.\n\n<b>Penyebab:</b> Mengalami kekalahan dalam pertempuran.",
+  "Cemas\n$ Selalu terbangun selama serangan rumah atau penahanan.\n\n<b>Penyebab:</b> Mengalami serangan rumah atau penahanan.",
+  "Keserakahan\n$ Berpakaian compang-camping.\n$ Pikiran positif dari <hint=hint_resource_gold>Emas</hint> dua kali lebih kuat.\n$ Para penguasa lain memiliki pendapat lebih rendah terhadap penguasa dengan sifat ini.\n\n<b>Penyebab:</b> Tidak memiliki <hint=hint_resource_gold>Emas</hint> selama {greedy_days} hari",
+  "Sublimasi\n$ Kelelahan dari kerja 3 kali lebih lemah.\n$ 20% kemungkinan lebih tinggi penyakit mental.\n$ Tidak menderita kekurangan seks.\n\n<b>Penyebab:</b> Periode waktu lama tanpa seks",
+  "Ahli Waris Mantan\nPernah menjadi ahli waris mahkota, tapi status itu telah dicabut.\n\nJika kesetiaan mereka turun, mereka mungkin memimpin <hint=hint_nt_heir_rebellion_former>pemberontakan ahli waris mantan</hint>."
 ]

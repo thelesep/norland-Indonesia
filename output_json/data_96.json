@@ -1,12 +1,12 @@
 [
-  "Low fertility\nThe chance of getting pregnant is 30% lower.",
-  "High fertility\nThe chance of getting pregnant is 30% higher.",
-  "Gay\nFalls in love with people of their own gender.",
-  "Savant\nHas very high proficiency in one or two skills, but they cannot be trained further.",
-  "Bald\n-20 to <hint=hint_interest>interest</hint>.",
-  "Childhood\nThe quality of a character's childhood is determined by the number of happy or unhappy days in the character's life before they turn {age_adult}.",
-  "~\nReason: unhappy <hint=hint_childhood_desc>childhood</hint>.",
-  "~\nReason: happy <hint=hint_childhood_desc>childhood</hint>.",
-  "~\n\nReason: inherited from parent {parent}",
-  "Nervous\nAll <hint=hint_tantrum>nervous breakdowns</hint> are severe."
+  "Kesuburan Rendah\nKemungkinan hamil 30% lebih rendah.",
+  "Kesuburan Tinggi\nKemungkinan hamil 30% lebih tinggi.",
+  "Gay\nJatuh cinta dengan orang-orang sejenis.",
+  "Savant\nMemiliki kemahiran sangat tinggi dalam satu atau dua keterampilan, tapi tidak bisa dilatih lebih lanjut.",
+  "Kebotakan\n-20 untuk <hint=hint_interest>minat</hint>.",
+  "Masa Kecil\nKualitas masa kecil karakter ditentukan oleh jumlah hari bahagia atau tidak bahagia dalam kehidupan karakter sebelum mereka berusia {age_adult}.",
+  "~\nAlasan: masa kecil <hint=hint_childhood_desc>tidak bahagia</hint>.",
+  "~\nAlasan: masa kecil <hint=hint_childhood_desc>bahagia</hint>.",
+  "~\n\nAlasan: diwarisi dari orang tua {parent}",
+  "Cemas\nSemua <hint=hint_tantrum>penyakit mental</hint> bersifat parah."
 ]

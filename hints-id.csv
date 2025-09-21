@@ -4832,476 +4832,476 @@ $ Anda dapat berdagang dengan <hint=hint_holy_caravan>Karavan Suci</hint>, tapi 
 $ Atau, Anda dapat merakit regu dan menyerang kamp <hint=hint_persons_forest_bandits>perampok hutan</hint>.
 
 Ada banyak cara lagi untuk mendapatkan Emas dalam permainan - manipulasi harga, vasalitas, merampok tetangga, menulis dan menjual buku, pemerasan, tebusan untuk pengantin wanita, dan sebagainya."
-hint_nt_events_tutorial,"Pemberitahuan
-$ Klik pada pemberitahuan dengan {input.key.mb_left} untuk navigasi ke masalah atau buka jendela acara.
-$ Klik pada pemberitahuan atau artikel dengan {input.key.mb_right} untuk menutupnya.
+hint_nt_events_tutorial,"Notifications
+$ Click on a notification with the {input.key.mb_left} to navigate to the problem or open the event window.
+$ Click on a notification or article with the {input.key.mb_right} to close it.
 
-$ Anda juga dapat mengklik pemberitahuan yang muncul di bagian atas tengah layar."
+$ You can also click on notifications that appear at the top center of the screen."
 hint_tutorial_earning," "
-hint_encyclopedia_solid_hints,"Tautan dalam Petunjuk
-$ Setelah beberapa detik melayang di atas petunjuk, petunjuk tersebut membeku di tempatnya.
-$ Sekarang Anda dapat melayang di atas kata <hint=hint_encyclopedia_solid_hints_over>kata yang disorot</hint> mana pun dalam petunjuk tersebut untuk mendapatkan petunjuk baru.
-$ Anda dapat menyesuaikan waktu membeku untuk petunjuk di pengaturan game.
-$ Jika Anda mengklik kata yang disorot dengan tombol tengah mouse, petunjuk akan segera muncul ""membeku""."
-hint_encyclopedia_solid_hints_over,"Ya,
-Itu benar!
+hint_encyclopedia_solid_hints,"Links in hints
+$ After a couple of seconds of hovering over a hint, it freezes in place.
+$ Now you can hover over any <hint=hint_encyclopedia_solid_hints_over>highlighted word</hint> in that hint to get a new hint.
+$ You can adjust the freeze time for hints in the game settings.
+$ If you click the highlighted word with the middle mouse button, the hint will immediately appear ""frozen""."
+hint_encyclopedia_solid_hints_over,"Yes,
+That's correct!
 
-Petunjuk ini mungkin berisi tautan ke petunjuk lain dan seterusnya."
-hint_tut_hotkeys,"Tombol Pintas
-$ <b>F5</b> - Simpan Cepat
-$ {input.key.mb_right} - Tutup menu terbuka apa pun.
-$ {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} - Kecepatan Game. {input.action.speed_pause} - Jeda
-$ {input.action.menu_map} - Peta Dunia
-$ {input.key.mb_right} pada bangunan: Menu Cepat untuk menunjuk pengelola.
-$ {input.action.gui_add_more} (tekan) - pindahkan item dalam batch 10."
-hint_encyclopedia_enemies,"Melawan Musuh
-Jika tetangga Anda telah menjadi musuh tapi terlalu kuat untuk solusi militer, ada cara lain untuk melemahkan pasukan mereka.
+This hint may contain links to other hints and so on."
+hint_tut_hotkeys,"Hotkeys
+$ <b>F5</b> - Quick save
+$ {input.key.mb_right} - Close any open menu.
+$ {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} - Game Speed. {input.action.speed_pause} - Pause
+$ {input.action.menu_map} - World map
+$ {input.key.mb_right} on a building: Quick menu for assigning a manager.
+$ {input.action.gui_add_more} (held) - move items in batches of 10."
+hint_encyclopedia_enemies,"Fighting Enemies
+If your neighbor has become your enemy but is too strong for a military solution, there are other ways to weaken their army.
 
 <img=hint_encyclopedia_enemies></img>
 
-$ Serbu desa-desa mereka. Ini akan memperlambat pertumbuhan populasi dan oleh karena itu pendapatan Emas, yang akan membatasi kemampuan mereka merekrut prajurit.
-$ Di menu provinsi, gunakan perbuatan gelap - sewa perampok untuk merampok Aula, yang juga akan mengurangi kemampuan perekrutan mereka.
-$ Netralkan komandan mereka dengan intrik. Targetkan penguasa mereka dengan Keterampilan Komando tertinggi.
-$ Coba suap pewaris - mereka mungkin memulai pemberontakan, yang akan sangat mengurangi pasukan provinsi dan jumlah penguasa.
-$ Anda bisa tiba-tiba menyerang kota musuh saat pasukan mereka jauh. Namun, ini dianggap sebagai perilaku tidak terhormat.
-$ Akhirnya, Anda bisa menunggu waktu berbahaya dan kumpulkan kekuatan dengan menjadi bawahan seseorang, yang akan melindungi Anda dari musuh."
-hint_tutorial_friend_of_friend,"Hubungan Kompleks
-Karakter dalam game memperlakukan teman-teman teman mereka dengan baik dan musuh teman mereka dengan buruk.
+$ Raid their villages. This will slow down population growth and therefore gold income, which will limit their ability to hire warriors.
+$ In the province menu, use dark deeds  - hire bandits to rob the hall, which will also reduce their hiring capabilities.
+$ Neutralize their commander with intrigues. Target their lord with the highest Command skill.
+$ Try to bribe the heir - they might start a rebellion, which will greatly reduce the province's army and number of lords.
+$ You can suddenly attack an enemy city while its army is far away. However, this is considered dishonorable behavior.
+$ Finally, you can sit out the dangerous time and gather strength by becoming someone's vassal, which will protect you from enemies."
+hint_tutorial_friend_of_friend,"Complex Relationships
+Characters in the game treat their friends' friends well and their friends' enemies poorly.
 
-Apakah Anda ingin meningkatkan hubungan dengan seseorang yang memiliki pendapat negatif terhadap raja Anda (misalnya, raja tetangga atau uskup)?
+Do you want to improve relations with someone who has a negative opinion of your king (for example, a neighboring king or a bishop)?
 
-$ Perhatikan salah satu penguasa Anda yang sedang suasana hati baik atau penguasa gender berlawanan yang sangat diminati oleh target.
-$ Pupuk persahabatan antara raja Anda dan penguasa perantara ini. Biarkan mereka menghabiskan waktu bersama saat keduanya sedang suasana hati baik (misalnya, di malam hari).
-$ Pupuk persahabatan antara penguasa perantara dan target Anda. Sekarang target juga akan berpikir tinggi terhadap raja Anda, karena perantara hanya akan berbicara positif tentang temannya!"
-hint_tutorial_rebellions,"Pemberontakan
-Pemberontakan berbagai kelas populasi menimbulkan bahaya besar bagi para penguasa Anda.
+$ Pay attention to one of your lords who is in a good mood or a lord of the opposite gender whom the target is highly interested in.
+$ Foster a friendship between your king and this intermediary lord. Have them spend time together when both are in a good mood (for example, in the evening).
+$ Foster a friendship between the intermediary lord and your target. Now the target will think highly of your king as well, as the intermediary will only speak positively about their friend!"
+hint_tutorial_rebellions,"Rebellions
+Rebellions of various classes of the population pose a great danger to your lords.
 
 <img=hint_tutorial_rebellions></img>
 
-$ <hint=hint_persons_slave>Tahanan</hint> dan <hint=hint_persons_warriors>Prajurit</hint> mungkin memberontak jika rata-rata <hint=hint_mood>suasana hati</hint> mereka selama sehari jatuh di bawah 25 (yaitu, mereka tidak bahagia).
-$ <hint=hint_persons_fanatic>Fanatik</hint> agama mungkin <hint=hint_pogrom>memulai pemberontakan</hint> jika petani tidak bahagia. Dalam kasus ini, fanatik dari semua kelas - prajurit, tahanan, dan bahkan penguasa - terlibat dalam pemberontakan. Pemberontakan semacam itu juga bisa dimulai oleh <hint=hint_bishop>Uskup</hint> jika ia memiliki musuh bebuyutan di antara para penguasa Anda. Oleh karena itu, semakin sedikit fanatik di kota, semakin aman.
-$ Pewaris atau mantan pewaris mungkin <hint=hint_nt_heir_rebellion>memberontak</hint> jika <hint=hint_loyalty>kesetiaan</hint> mereka kepada raja turun ke nol dan mereka tidak bersahabat. Dalam kasus ini, sebagian pasukan akan bergabung dengan pemberontak."
-hint_encyclopedia_conversation,"Percakapan Mendalam
+$ <hint=hint_persons_slave>Prisoners</hint> and <hint=hint_persons_warriors>Warriors</hint> may rebel if their average <hint=hint_mood>mood</hint> over a day falls below 25 (i.e., they are unhappy).
+$ Religious <hint=hint_persons_fanatic>fanatics</hint> may <hint=hint_pogrom>start an uprising</hint> if peasants are unhappy. In this case, fanatics of all classes - warriors, prisoners, and even lords - are involved in the rebellion. Such a rebellion can also be started by a <hint=hint_bishop>bishop</hint> if he has a mortal enemy among your lords. Therefore, the fewer fanatics in the city, the safer it is.
+$ The heir or former heir may <hint=hint_nt_heir_rebellion>rebel</hint> if their <hint=hint_loyalty>loyalty</hint> to the king drops to zero and they are not on friendly terms. In this case, a portion of the army will join in with the rebel."
+hint_encyclopedia_conversation,"Deep Conversation
 [hint_conversation]"
-hint_encyclopedia_migration,"Migrasi
+hint_encyclopedia_migration,"Migration
 [hint_migration]"
-hint_encyclopedia_idea,"Pengetahuan
+hint_encyclopedia_idea,"Knowledge
 [hint_idea]"
-hint_encyclopedia_interest,"Minat
+hint_encyclopedia_interest,"Interest
 [hint_interest]"
-hint_encyclopedia_teaching,"Pendidikan
-Karakter dapat meningkatkan <hint=hint_skills>keterampilan</hint> mereka dengan <hint=hint_learning>belajar</hint> bersama karakter lain atau dengan melakukan aksi terkait keterampilan tersebut (misalnya, mempelajari pengetahuan meningkatkan tingkat <hint=hint_skill_knowledge>Kecerdasan</hint>).
+hint_encyclopedia_teaching,"Education
+Characters can improve their <hint=hint_skills>skills</hint> by <hint=hint_learning>learning</hint> with other characters or by performing actions related to that skill (for example, studying knowledge increases the <hint=hint_skill_knowledge>Intelligence</hint> level).
 
 <img=hint_encyclopedia_teaching></img>
 
-Anak-anak memperoleh pengalaman dari pelatihan beberapa kali lebih banyak daripada orang dewasa.
+Children gain several times more experience from training than adults.
 
-$ Cari seorang anak dan mulailah pendidikan mereka di menu Karakter.
+$ Find a child and start their education in the Character menu.
 
-<b>Petunjuk</b> Para penguasa Anda juga dapat dilatih oleh tamu. Dengan hubungan baik, Anda dapat mengundang para penguasa terampil dari pemukiman tetangga."
-hint_encyclopedia_sin,"Dosa
+<b>Hint</b> Your lords can also be trained by guests. With good relationships, you can invite skilled lords from neighboring settlements."
+hint_encyclopedia_sin,"Sin
 [hint_sin]"
-hint_encyclopedia_loyalty,"Kesetiaan
+hint_encyclopedia_loyalty,"Loyalty
 [hint_loyalty]"
-hint_encyclopedia_desire,"Keinginan
+hint_encyclopedia_desire,"Desire
 [hint_desire]"
-hint_tutorial_traits,"Sifat Kepribadian
-Setiap penguasa memiliki sifat kepribadian unik
+hint_tutorial_traits,"Personality Traits
+Each lord has unique personality traits
 
 <img=hint_tutorial_traits></img>
 
-$ Sifat bawaan diberikan saat lahir dan dapat diwarisi sebagian dari orang tua.
-$ Sifat didikan muncul saat mereka tumbuh besar; kualitasnya tergantung pada apakah karakter bahagia atau tidak bahagia selama masa kecil.
-$ Sifat kehidupan mungkin muncul sepanjang hidup sebagai hasil dari situasi rumit yang dialami karakter.
-$ Akhirnya, sifat bakat diberikan saat menaikkan level <hint=hint_skills>keterampilan</hint> yang ditandai dengan <hint=hint_talant>bakat</hint> hingga level 15."
-hint_encyclopedia_tantrum,"Penyakit Mental
+$ Inborn traits are given at birth and can be partially inherited from parents.
+$ Upbringing traits appear as they grow up; their quality depends on whether the character was happy or unhappy during childhood.
+$ Life traits may appear throughout life as a result of complex situations the character encounters.
+$ Finally, talent traits are granted when leveling up a <hint=hint_skills>skill</hint> marked with <hint=hint_talant>talent</hint> up to level 15."
+hint_encyclopedia_tantrum,"Nervous Breakdown
 [hint_tantrum]"
-hint_encyclopedia_terror,"Teror
+hint_encyclopedia_terror,"Terror
 [hint_terror]"
-hint_encyclopedia_patrols,"Patroli
+hint_encyclopedia_patrols,"Patrols
 [hint_persons_guard]"
-hint_encyclopedia_nectar,"Efek Nektar
-Di <hint=hint_bld_alchemistry>Laboratorium Alkimia</hint>, <hint=hint_resource_nectar>Nektar</hint> dapat diproduksi.
+hint_encyclopedia_nectar,"The Effect of Nectar
+In the <hint=hint_bld_alchemistry>Alchemy Lab</hint>, <hint=hint_resource_nectar>Nectar</hint> can be produced.
 
-Ini menyebabkan kecanduan tapi dapat secara signifikan mempercepat perkembangan pemukiman Anda.
+It leads to addiction but can significantly accelerate the development of your settlement.
 
-Efek dalam {hours} jam setelah konsumsi:
-$ Sebuah <hint=hint_thought>pikiran</hint> positif yang sangat kuat diinduksi.
-$ Semua keterampilan sementara ditingkatkan sebesar {skill_improve}.
-$ Kecepatan gerak meningkat sebesar {speed_improve}.
+Effects within {hours} hours after consumption:
+$ A very strong positive <hint=hint_thought>thought</hint> is induced.
+$ All skills are temporarily improved by {skill_improve}.
+$ Movement speed is increased by {speed_improve}.
 
-Namun, seseorang bisa cepat menjadi <hint=hint_addict>pecandu</hint> terhadap nektar, jadi konsumsinya oleh para penguasa secara default dibatasi (Menu Dinasti).
+However, one can quickly become <hint=hint_addict>addicted</hint> to nectar, so its consumption by lords is by default limited (Dynasty menu).
 
-Anda juga dapat menyesuaikan siapa yang boleh mengunjungi <hint=hint_bld_drug_deg>Sarang Narkoba</hint> untuk membatasi konsumsinya oleh kelas tertentu."
-hint_encyclopedia_slave_escape,"Pelarian Tahanan
+You can also adjust who can visit <hint=hint_bld_drug_deg>Dens</hint> to limit its consumption by certain classes."
+hint_encyclopedia_slave_escape,"Prisoners Escape
 [hint_nt_slave_escape]"
-hint_encyclopedia_scafold,"Panggung Gantung
+hint_encyclopedia_scafold,"Scaffold
 [hint_bld_scafod]"
-hint_encyclopedia_persons_criminal,"Pengembara
+hint_encyclopedia_persons_criminal,"Vagabonds
 [hint_persons_criminal]"
-hint_tut_3,"Para Penguasa
-Anda mengelola keluarga para penguasa yang tinggal di kota ini (pakaian merah). Potret mereka ditampilkan di bagian atas.
+hint_tut_3,"Lords
+You manage a family of lords who live in this city (red clothes). Their portraits are shown at the top.
 
 <img=hint_tut_3></img>
 
-$ Anda dapat memberikan <hint=hint_action>tugas</hint> kepada para penguasa Anda dengan menugaskan mereka melalui tombol AKSI atau INSTRUKSI di menu Karakter dan Bangunan, masing-masing.
-$ Para penguasa <b>tidak akan</b> melakukan tugas Anda jika mereka <hint=hint_unhappy>tidak bahagia</hint>. Periksa <hint=hint_thought>pikiran</hint> dan <hint=hint_desire>keinginan</hint> mereka untuk menjaga suasana hati mereka.
+$ You can give your lords <hint=hint_action>tasks</hint> by assigning them through the ACTION or INSTRUCTIONS button in the Character and Building menus, respectively.
+$ Lords will <b>not</b> perform your tasks if they are <hint=hint_unhappy>unhappy</hint>. Check their <hint=hint_thought>thoughts</hint> and <hint=hint_desire>desires</hint> to maintain their mood.
 
-<b>Petunjuk:</b> Satu penguasa dapat ditunjuk untuk mengelola beberapa bangunan."
-hint_tut_4,"Petani
+<b>Hint:</b> One lord can be appointed to manage multiple buildings."
+hint_tut_4,"Peasants
 [hint_persons_peasant]"
-hint_encyclopedia_bishop,"Uskup
+hint_encyclopedia_bishop,"Bishop
 [hint_bishop]"
-hint_tutorial_guest,"Tamu
-Kota Anda sering menerima pengunjung dari kota-kota tetangga.
+hint_tutorial_guest,"Guest
+Your city often receives visitors from neighboring cities.
 
 <img=hint_tutorial_guest></img>
 
-$ Biasanya, tamu memiliki rencana berbeda selama kunjungan mereka: beberapa hanya ingin bersosialisasi dan bermain dadu, beberapa mencari petualangan seksual, dan beberapa ingin menyogok para penguasa Anda, memusuhi satu sama lain, atau bahkan menculik salah satu dari mereka.
-$ Jika seorang raja tetangga datang, ini kesempatan baik untuk meningkatkan hubungan antara para penguasa Anda.
-$ Cari tahu bagaimana Anda dapat berinteraksi dengan mereka dengan melihat opsi di menu Karakter mereka.
-$Tamu juga dapat memberikan pelajaran dengan biaya kecil yang dibayar dengan Cincin."
-hint_encyclopedia_persons_slave,"Tahanan
+$ Usually, guests have different plans during their visit: some just want to socialize and play dice, some seek sexual adventures, and some want to bribe your lords, turn them against each other, or even kidnap one of them.
+$ If a neighboring king comes, this is a good chance to improve relations between your rulers.
+$ Find out how you can interact with them by looking at the options in their Character menu.
+$Guests can give also lessons for a small fee paid in Rings."
+hint_encyclopedia_persons_slave,"Prisoners
 [hint_persons_slave]"
-hint_encyclopedia_persons_cuthroat,"Pembunuh Berantai
+hint_encyclopedia_persons_cuthroat,"Сutthroats
 [hint_persons_cuthroat]"
-hint_tutorial_free_lord,"Penguasa Bebas
-Para penguasa yang meninggalkan atau dicampakkan dari keluarga mereka dan tidak bergabung dengan yang lain. Mereka tiba bersama <hint=hint_holy_caravan>Karavan Suci</hint> dan dapat direkrut dengan <hint=hint_resource_rune>Cincin Suci</hint>.
+hint_tutorial_free_lord,"Freelance Lord
+Lords who left or were disowned from their family and did not join another. They arrive with the <hint=hint_holy_caravan>Holy Caravans</hint> and can be hired with <hint=hint_resource_rune>Holy Rings</hint>.
 
 <img=hint_tutorial_free_lord></img>
 
-$ Kontrak akan berlangsung selama 10 hari, setelah itu <b>penguasa tersebut akan pergi</b>.
-$ Penguasa bebas dapat ditugaskan tugas apa pun - mengajar, ikut kampanye melawan perampok, mengelola bangunan, memfasilitasi perdagangan, dan banyak lagi.
-$ Ia dapat diundang ke dalam keluarga Anda dan diberi <hint=hint_title>gelar.</hint>."
-hint_encyclopedia_persons_fanatic,"Fanatik
+$ The contract will last for 10 days, after which <b>the lord will leave</b>.
+$ Freelance lords can be assigned any tasks - teaching, going on campaigns against bandits, managing buildings, facilitating trade, and more.
+$ He can be invited into your family and granted a <hint=hint_title>title.</hint>."
+hint_encyclopedia_persons_fanatic,"Fanatics
 [hint_persons_fanatic]"
-hint_tutorial_kidnaped,"Sandera
-Anda dapat menculik tamu di provinsi Anda atau memerintahkan penculikan penguasa dari kota tetangga. Dalam kasus pertama, Anda akan melanggar hukum keramahan, dan ini akan sangat memperburuk hubungan dengan <b>semua tetangga</b>, bukan hanya dengan penguasa rumah yang dimiliki sandera.
+hint_tutorial_kidnaped,"Hostage
+You can kidnap a guest in your province or order the kidnapping of a lord from a neighboring city. In the first case, you will violate the law of hospitality, and this will greatly worsen relations with <b>all neighbors</b>, not only with the ruler of the house to which the hostage belongs.
 
 <img=hint_tutorial_kidnaped></img>
  
-$ Sandera dapat ditugaskan hampir semua tugas di kota, kecuali yang militer.
-$ Saat ditangkap, <hint=hint_loyalty>kesetiaan </hint> sandera diatur ke -100, tapi jika Anda tingkatkan ke 0, mereka akan setuju tinggal di rumah bangsawan Anda.
-$ Jika sandera tidak bahagia, mereka akan mencoba melarikan diri. Anda dapat menghilangkan opsi ini dengan membutakan mereka, tapi ini akan sangat membatasi kemampuan mereka.
-$ Sebagai aturan, raja orang yang diculik akan menetapkan hadiah untuk pengembalian mereka.
+$ The hostage can be assigned to almost any tasks in the city, except for military ones.
+$ When captured, the hostage's <hint=hint_loyalty>loyalty </hint> is set to -100, but if you raise it to 0, they will agree to stay in your noble house.
+$ If the hostage is unhappy, they will try to escape. You can eliminate this option by blinding them, but this will greatly limit their capabilities.
+$ As a rule, the king of the kidnapped person will set a reward for their return.
 
-Para penguasa tidak ramah dan berbagai penjahat juga mungkin mencoba menculik para penguasa Anda untuk ditebus dengan Emas."
-hint_encyclopedia_persons_king,"Raja
+Unfriendly rulers and various criminals may also try to kidnap your lords to ransom them off for gold."
+hint_encyclopedia_persons_king,"King
 [hint_persons_king]"
-hint_tutorial_army,"Prajurit
-Anda dapat menggunakan prajurit untuk ekspedisi di peta global dan untuk pertahanan pemukiman Anda.
+hint_tutorial_army,"Warriors
+You can use warriors for expeditions on the global map and for the defense of your settlement.
 
 <img=hint_tutorial_army></img>
  
-$ Anda dapat merekrut tentara bayaran, tapi mahal.
-$ Anda dapat merekrut petani dan tahanan Anda, tapi mereka perlu pelatihan di <hint=hint_bld_training_ground>Lapangan Latihan</hint>, karena biasanya mereka memiliki Keterampilan Tempur rendah.
-$ Semua prajurit baru membutuhkan persenjataan. Anda dapat membeli peralatan dari <hint=hint_holy_caravan>Karavan Suci</hint> atau membuatnya sendiri. Untuk ini, beli <hint=hint_book>buku</hint> dari Karavan dan pelajari pengetahuan yang diperlukan.
-$ Selain itu, petani takut mati, dan butuh waktu bagi mereka untuk terbiasa dengan peran baru mereka. Sebelum itu, mereka akan sangat pengecut.
+$ You can hire mercenaries, but it's expensive.
+$ You can recruit your peasants and prisoners, but they will need training at the <hint=hint_bld_training_ground>Training Ground</hint>, as they usually have low Combat skill.
+$ All new warriors require armaments. You can buy equipment from the <hint=hint_holy_caravan>Holy Caravan</hint> or create it yourself. To do this, buy <hint=hint_book>Books</hint> from the Caravan and study the necessary knowledge.
+$ Additionally, peasants are afraid of dying, and it takes time for them to get used to their new role. Before that, they will be very cowardly.
 "
-hint_tutorial_wounds,"Perawatan Luka
-Kadang <hint=hint_wounds>luka</hint> hanyalah memar dan potongan ringan, tapi <hint=hint_wounds_open>luka meradang</hint> bisa berbahaya karena bisa bernanah dalam beberapa hari, menyebabkan <hint=hint_poisoned>Luka Busuk</hint>.
+hint_tutorial_wounds,"Wound Treatment
+Sometimes <hint=hint_wounds>wounds</hint> are merely bruises and minor cuts, but <hint=hint_wounds_open>inflamed wounds</hint> can be dangerous as they can fester within a couple of days, causing <hint=hint_poisoned>gangrene</hint>.
 
 <img=hint_tutorial_wounds></img>
 
-Luka Busuk tidak bisa disembuhkan dan mematikan, jadi karakter yang mencapai tahap ini akan segera mati. Untuk mencegah ini, luka harus dirawat dengan <hint=hint_resource_med>Salep Medis</hint> sebelum mencapai titik itu. Karakter yang terluka melakukan ini sendiri, dan tidak perlu aksi langsung dari Anda.
+Gangrene is incurable and fatal, so a character who reaches this stage will soon die. To prevent this, wounds must be treated with <hint=hint_resource_med>Medical Salve</hint> before they reach that point. Wounded characters do this on their own, and no direct action on your part is necessary.
 
-Salep Medis disimpan di gudang, dan para penguasa dan prajurit yang terluka akan mengambilnya sendiri saat dibutuhkan.
+Medical Salve is stored in a warehouse, and injured lords and warriors will retrieve it themselves when they need it.
 
-$ Sangat penting agar Anda selalu punya beberapa botol Salep Medis!"
-hint_encyclopedia_sodiers_happiness,"Suasana Hati Prajurit
+$ It is very important that you always have a few bottles of Medical Salve!"
+hint_encyclopedia_sodiers_happiness,"Warrior mood
 [hint_sodiers_happiness]"
-hint_encyclopedia_pain,"Sakit
+hint_encyclopedia_pain,"Pain
 [hint_pain]"
-hint_tutorial_combat,"Perhitungan Pertempuran
-Dalam pertempuran, karakter bergantian menyerang satu sama lain.
+hint_tutorial_combat,"Battle Calculation
+In battle, characters take turns attacking each other.
 
 <img=hint_tutorial_combat></img>
 
-Tergantung pada senjata penyerang dan zirah pembela, paket ""tiket"" berukuran berbeda dilemparkan ke dalam ""kantong"" kiasan, dan satu tiket diambil dari kantong ini - ini hasil serangan.
+Depending on the attacker's weapon and the defender's armor, different-sized packets of ""tickets"" are thrown into a figurative ""bag,"" and one ticket is drawn from this bag - this is the result of the attack.
 
-Misalnya, belati menambahkan 10 tiket ""potong"" ke kantong, sementara Baju Zirah Ringan menambahkan 10 tiket ""diblokir oleh zirah"". Dengan demikian, ada 50% (10:10) kemungkinan serangan mengenai target dan pembela menerima potongan. Baju Zirah Berat menambahkan paket 30 tiket ""serangan diblokir"" ke kantong, jadi kemungkinan potongan dalam kasus ini akan jauh lebih rendah.
+For example, a dagger adds 10 ""cut"" tickets to the bag, while light armor adds 10 ""blocked by armor"" tickets. Thus, there will be a 50% (10:10) chance that the attack will hit the target and the defender will receive a cut. Heavy armor adds a packet of 30 ""attack blocked"" tickets to the bag, so the chance of a cut in this case will be significantly lower.
 
-$ Selain itu, perbedaan antara <hint=hint_skill_combat>Keterampilan Tempur</hint> karakter yang bertarung menambahkan jumlah ""serangan dihindari"" tiket proporsional ke kantong.
-$ Tiket-tiket ini mencakup tidak hanya luka atau memblokir serangan, tapi juga kerusakan senjata dan zirah, dan pingsan."
-hint_tutorial_weapons,"Kemahiran Senjata
-Seiring bertumbuhnya <hint=hint_skill_combat>Keterampilan Tempur</hint> prajurit Anda, mereka juga belajar menggunakan senjata dan zirah yang semakin kompleks.
+$ Additionally, the difference between the <hint=hint_skill_combat>Combat skill</hint> of the fighting characters adds a proportional number of ""dodged attack"" tickets to the bag.
+$ These tickets include not only wounds or parrying attacks, but also weapon and armor damage, and stun."
+hint_tutorial_weapons,"Weapon Proficiency
+As your warriors' <hint=hint_skill_combat>Combat skill</hint> grows, they also learn to use increasingly complex weapons and armor.
 
-$ Setiap prajurit memiliki kelas, dan kelas itu menentukan persenjataan apa yang bisa mereka gunakan secara efektif.
-$ Prajurit di bawah level 5 hanya bisa menangani <hint=hint_resource_knife>Belati</hint>, <hint=hint_resource_wooden_spear>Tombak Kayu</hint>, dan <hint=hint_resource_wooden_hammer>Palu Kayu</hint>.
-$ Prajurit level 5 ke atas bisa menangani senjata berat seperti <hint=hint_resource_sword>Pedang</hint> dan <hint=hint_resource_battle_axe>Kapak</hint>, serta menggunakan <hint=hint_resource_light_armor>Baju Zirah Ringan</hint> dan <hint=hint_resource_shield>Perisai</hint>.
-$ Prajurit level 10 ke atas bisa menangani <hint=hint_resource_heavy_armor>Baju Zirah Berat</hint> dan menggunakan <hint=hint_resource_knife>Belati</hint> sebagai senjata sekunder jika yang utama rusak.
+$ Each warrior has a class, and that class dictates what armaments they can use effectively.
+$ Warriors below level 5 can only handle <hint=hint_resource_knife>Daggers</hint>, <hint=hint_resource_wooden_spear>Spears</hint>, and <hint=hint_resource_wooden_hammer>Clubs</hint>.
+$ Warriors of level 5 and above can handle heavy weapons such as <hint=hint_resource_sword>Swords</hint> and <hint=hint_resource_battle_axe>Axes</hint>, as well as use <hint=hint_resource_light_armor>Light Armor</hint> and <hint=hint_resource_shield>Shields</hint>.
+$ Warriors of level 10 and above can handle <hint=hint_resource_heavy_armor>Heavy Armor</hint> and use <hint=hint_resource_knife>Daggers</hint> as a secondary weapon in case the primary one breaks.
 
-Prajurit meningkatkan level keterampilan tempur mereka dalam pertempuran atau dengan berlatih di <hint=hint_bld_training_ground>Lapangan Latihan</hint>.
-$ Saat mencapai level 5, mereka bisa dipromosikan di menu Tentara dengan memilih spesialisasi senjata mereka."
-hint_encyclopedia_pain_threshold,"Pendarahan
+Warriors improve their combat skill level in battles or by training at the <hint=hint_bld_training_ground>Training Ground</hint>.
+$ When they reach level 5, they can be promoted in the Army menu by selecting their weapon specialization."
+hint_encyclopedia_pain_threshold,"Bleeding
 [hint_bleeding]"
-hint_encyclopedia_courage,"Moral Prajurit
+hint_encyclopedia_courage,"The Warrior's Morale
 [hint_moral_level]"
-hint_encyclopedia_captives,"Tahanan Perang
-Jika seorang karakter kehilangan kesadaran selama pertempuran dan regu mereka kalah, prajurit pemenang mengikat mereka dan membawa mereka sebagai tawanan.
+hint_encyclopedia_captives,"Captives
+If a character loses consciousness during a battle and their squad loses, the victorious warriors tie them up and take them captive.
 
 <img=hint_encyclopedia_captives></img>
  
-Petani membawa tawanan ke pemukiman, di mana mereka menjadi narapidana.
+Peasants take the captives to the settlement, where they become prisoners.
 
-<b>Petunjuk.</b> Karena tawanan semacam itu biasanya memiliki Keterampilan Tempur tinggi, menggunakannya sebagai tenaga kerja tidak terlalu masuk akal. Lebih masuk akal untuk menjual mereka atau merekrut mereka ke dalam pasukan Anda."
-hint_tutorial_marriage,"Pernikahan
-Ketika generasi penguasa saat ini meninggal, Anda mungkin menemukan diri Anda dalam situasi sulit jika mereka belum memiliki anak.
+<b>Hint.</b> Since such captives typically have high combat skills, using them as a workforce is not very sensible. It makes sense to either sell them or recruit them into your army."
+hint_tutorial_marriage,"Marriage
+When the current generation of lords dies, you may find yourself in a difficult situation if they haven't had any children.
 
 <img=hint_tutorial_marriage></img>
 
-Solusi terbaik untuk ini adalah pernikahan sah, di mana pasangan suami istri secara teratur memenuhi kewajiban mereka untuk mengandung anak, terlepas dari hubungan mereka.
+The best solution for this is a legitimate marriage, in which the spouses regularly fulfill their duty to conceive children, regardless of their relationship.
 
-Untuk melakukan ini, pilih pasangan untuk para penguasa Anda di peta global.
-$ Pernikahan sangat meningkatkan hubungan antara keluarga bangsawan, jadi perhatikan keluarga pasangan tersebut.
-$ Mas kawin tergantung pada keterampilan dan status rumahnya. Perhatikan bakat dalam keterampilan (ditandai dengan bintang) - mereka diwarisi oleh anak-anak.
-$ Jika Anda menikahkan pengantin perempuan, dia akan pergi ke kota suaminya, dan Anda akan menerima mas kawin serta peningkatan hubungan."
-hint_encyclopedia_vassal,"Pengikutsawahan
+To do this, choose a spouse for your lords on the global map.
+$ Marriage greatly improves relations between houses, so pay attention to the spouse's family.
+$ The bride price depends on her skills and the status of her house. Pay attention to talents in skills (marked with stars) - they are inherited by children.
+$ If you marry off a bride, she will go to her husband's city, and you will receive a bride price and an improvement in relations."
+hint_encyclopedia_vassal,"Vassalage
 [hint_vassal]"
-hint_tutorial_kings_relations,"Tetangga
-Hubungan peta global antara provinsi tetangga disajikan sebagai hubungan pribadi antara Raja-raja. Mereka ditampilkan di sebelah nama Raja di bawah potret provinsi di menu provinsi.
+hint_tutorial_kings_relations,"Neighbors
+Global map relationships between neighboring provinces are presented as personal relationships between Kings. They are displayed next to the King's name under the province's portrait in the province menu.
 
 <img=hint_tutorial_kings_relations></img>
 
-Tergantung pada hubungan, aksi yang tersedia terhadap tetangga dan perilaku mereka terhadap Anda keduanya akan berubah.
+Depending on the relationship, the available actions toward neighbors and their behavior toward you will both change.
  
-$ <hint=hint_faction_relations_friend>Persahabatan:</hint> di atas <green>+25</green>. Tetangga ini terbuka untuk banyak opsi diplomatik damai dan pengaturan saling menguntungkan.
-$ <hint=hint_faction_relations_neutral>Netralitas</hint> dari <red>-15</red> hingga <green>+25</green>. Hubungan standar dengan tetangga.
-$ <hint=hint_faction_relations_opponent>Permusuhan</hint> di bawah <red>-15</red>. Tetangga ini mulai merencanakan melawan Anda.
-$ <hint=hint_faction_relations_enemy>Kebencian</hint> di bawah <red>-25</red>. Tetangga ini berada dalam keadaan konflik bersenjata melawan Anda.
+$ <hint=hint_faction_relations_friend>Friendship:</hint> above <green>+25</green>. This neighbor is open to many peaceful diplomatic options and mutually beneficial arrangements.
+$ <hint=hint_faction_relations_neutral>Neutrality</hint> from <red>-15</red> to <green>+25</green>. Standard relationships with neighbors.
+$ <hint=hint_faction_relations_opponent>Hostility</hint> below <red>-15</red>. This neighbor begins plotting against you.
+$ <hint=hint_faction_relations_enemy>Enmity</hint> below <red>-25</red>. This neighbor is in a state of armed conflict against you.
  
-<b>Petunjuk:</b> Arahkan mouse ke angka hubungan di menu pemukiman tetangga untuk mengetahui detail hubungan."
-hint_encyclopedia_persons_forest_bandits,"Perampok Hutan
+<b>Hint:</b> Hover the mouse over the relationship number in the neighboring settlement menu to learn the details of the relationship."
+hint_encyclopedia_persons_forest_bandits,"Forest Bandits
 [hint_persons_forest_bandits]"
-hint_tutorial_cities_on_map,"Perkembangan Kota
-Kota-kota terdekat di peta berkembang sesuai hukum tertentu.
+hint_tutorial_cities_on_map,"City Development
+Nearby cities on the map develop according to certain laws.
  
-$ Semakin banyak penguasa dewasa di pemukiman, semakin cepat populasi pekerjanya tumbuh (Petani dan Tahanan).
-$ Semakin tinggi populasi, semakin banyak Emas yang diproduksi (Anggaran ditampilkan di bagian atas menu, di bawah nama pemukiman).
-$ Sebagian Emas yang diproduksi dibelanjakan untuk membeli pasukan. Jika raja pemukiman bertengkar dengan seseorang, porsi ini lebih tinggi.
+$ The more adult lords in a settlement, the faster its working population grows (peasants and prisoners).
+$ The higher the population, the more gold it produces (The budget is displayed in the top part of the menu, below the name of the settlement).
+$ Part of the produced gold is spent on purchasing an army. If the king of the settlement is at odds with someone, this portion is higher.
  
-<b>Petunjuk:</b> Jelajahi kemungkinan interaksi di menu pemukiman."
+<b>Hint:</b> Explore the possibilities for interaction in the settlement's menu."
 hint_encyclopedia_unholy_horde,"Unholy Horde
 [hint_unholy_horde]"
-hint_encyclopedia_sender,"Utusan
+hint_encyclopedia_sender,"Messenger
 [hint_sender]"
-hint_tutorial_roles,"Prasangka Raja
-Setiap raja memiliki prasangka tertentu yang memengaruhi hubungan mereka dengan semua tetangga
+hint_tutorial_roles,"King's Biases
+Each king has certain biases that affect their relationships with all their neighbors
 
-$ Prasangka raja dijelaskan dalam status pemukiman. Arahkan mouse ke sana untuk mengetahui detail lebih lanjut."
-hint_encyclopedia_movment,"Gerakan Peta
-Untuk mengirim pasukan menyerang kota tetangga atau mengirim penguasa Anda ke sana:
+$ The king's biases are described in the settlement status. Hover over it with your mouse to learn more details."
+hint_encyclopedia_movment,"Map Movement
+To send an army to attack a neighboring city or send your lord there:
  
-1. Pilih kota, kamp, atau objek lain yang diinginkan di peta.
-2. Di menu <b>Aksi</b> kota, pilih aksi dan pelaku (Anda bisa membuat pasukan yang diperlukan di sana).
+1. Select the desired city, camp, or other object on the map.
+2. In the city's <b>Action</b> menu, choose the action and the performer (you can create the necessary army right there).
 
 <img=hint_encyclopedia_movment></img>
  
-$ Penguasa dan karakter individu bergerak cepat di peta dan tidak bisa diserang.
-$ Pasukan bergerak lambat, dan pasukan musuh akan bertempur saat bertemu.
-$ Pasukan dengan tahanan di belakang bergerak lebih lambat lagi dan bisa dikejar."
-hint_tutorial_cheat,"Pengkhianatan dan Jatuh Cinta  
-Seorang karakter mungkin jatuh cinta pada orang lain di bawah kondisi dan keadaan tertentu.  
+$ Individual lords and characters move quickly on the map and cannot be attacked.
+$ Armies move slowly, and hostile armies will engage in battle when they cross paths.
+$ Armies with prisoners in tow are even slower and can be caught up to."
+hint_tutorial_cheat,"Betrayal and Falling in Love  
+A character may fall in love with someone else under certain conditions and circumstances.  
 
 <img=hint_tutorial_cheat></img>  
 
-Kondisi untuk jatuh cinta:  
-$ <hint=hint_interest>Minat</hint> terhadap mereka di atas 60  
-$ Mereka tidak jatuh cinta pada orang lain  
-$ Karakter belum berhubungan seks dalam waktu lama (ada pikiran yang sesuai)  
+Conditions for falling in love:  
+$ <hint=hint_interest>Interest</hint> in them is above 60  
+$ They are not in love with someone else  
+$ The character hasn’t had sex in a long time (there’s a corresponding thought)  
 
-Seorang karakter mungkin selingkuh pada pasangan atau pasangannya di bawah kondisi berikut:  
-$ Mereka tidak lagi jatuh cinta padanya  
-$ Karakter belum berhubungan seks dalam waktu lama (ada pikiran yang sesuai)"
-hint_tutorial_title,"Gelar
+A character may cheat on their partner or spouse under the following conditions:  
+$ They are no longer in love with them  
+$ The character hasn’t had sex in a long time (there’s a corresponding thought)"
+hint_tutorial_title,"Titles
 [hint_title]"
-hint_tutorial_war,"Pengaruh Perang
-Jika sebuah kota di provinsi tetangga diserang, ini memicu aliran pengungsi ke kota-kota tetangga, termasuk milik Anda.
+hint_tutorial_war,"Influence of War
+If a city in a neighboring province is under attack, it triggers a flow of refugees to neighboring cities, including yours.
 
 <img=hint_tutorial_war></img>
 
-Budaya pengungsi akan sesuai dengan <hint=hint_culture>budaya</hint> provinsi tersebut.
+The culture of the refugees will correspond to the <hint=hint_culture>culture</hint> of that province.
 
-Selain itu, di Karavan Suci dan dunia, harga produk yang dijual oleh provinsi ini <b>meningkat 50%</b>. (dapat dilihat di kontrak perdagangan untuk penjualan)."
-hint_tutorial_culture,"Budaya
+Additionally, in the Holy Caravan and the world, the price of the product sold by this province <b>increases by 50%</b>. (it can be seen in trade contracts for sale)."
+hint_tutorial_culture,"Cultures
 [hint_culture]"
-hint_workers_efficency,"Efisiensi Bangunan
-Produktivitas bangunan dapat ditingkatkan dengan metode selain keterampilan penguasa yang mengelola.
+hint_workers_efficency,"Building Efficiency
+The productivity of buildings can be increased by methods other than the skill of the managing lord.
 
 <img=hint_workers_efficency></img>
 
-$ Meningkatkan bangunan tidak hanya menyediakan ruang kerja tambahan tapi juga memberikan bonus kinerja.
-$ Jalan meningkatkan kecepatan gerak, mengurangi kehilangan waktu kerja.
-$ <hint=hint_persons_slave>Tahanan</hint> bekerja 3 jam lebih lama daripada petani - hingga pukul 9 malam.
+$ Upgrading a building not only provides an additional workspace but also grants a performance bonus.
+$ Roads increase movement speed, reducing the loss of working time.
+$ <hint=hint_persons_slave>Prisoners</hint> work 3 hours longer than peasants do - until 9 PM.
 
-Anda dapat mengatur prioritas penugasan tipe populasi berbeda di bangunan produksi di menu setiap bangunan."
-hint_tutorial_matriarch,"Matriark
+You can set the assignment priority of different population types in a production building in each building's menu."
+hint_tutorial_matriarch,"Matriarch
 [hint_relations_matriarch]"
-hint_tutorial_states,"Negara
-Di Norland, ada dua tipe negara utama - kerajaan bawahan dan aliansi kota-kota bebas. Dalam kedua kasus, ada kepala negara dan provinsi dependen yang menukar kemerdekaan dengan perlindungan.
+hint_tutorial_states,"States
+In Norland, there are two main types of states - vassal kingdoms and alliances of free cities. In both cases, there is a head of state and dependent provinces that trade independence for protection.
 
 <img=hint_tutorial_states></img>
 
-<b>Kerajaan Bawahan</b>. Tanda mahkota.
-$ Bersatu oleh kekuatan raja. Aksi agresif ini tidak begitu disukai oleh Matriark.
-$ Bawahan membayar upeti dalam Emas dan kehilangan hak kebijakan luar negeri. Suzerain wajib melindungi bawahan mereka.
-$ Kerajaan-kerajaan ini bisa berkembang pesat dengan menaklukkan tetangga secara langsung.
+<b>Vassal Kingdoms</b>. Crown sign.
+$ United by the force of the king. This aggressive action is not very favored by the Matriarch.
+$ Vassals pay tribute in gold and lose the right to a foreign policy. The suzerain is obliged to protect their vassals.
+$ These kingdoms can expand rapidly by directly conquering their neighbors.
 
-<b>Aliansi Kota-Kota Bebas</b>. Tanda sayap.
-$ Mereka berkembang cukup sederhana - memerlukan hubungan baik dengan kepala aliansi.
-$ Semua kota sekutu wajib mengirim pasukan untuk membela anggota aliansi lainnya.
-$ Anggota aliansi, termasuk pemimpinnya, tidak bisa menelan siapa pun secara paksa.
-$ Tidak ada pembatasan perdagangan dalam aliansi, dan kepala aliansi mendapat diskon saat berdagang dengan anggota lain."
-hint_tutorial_slander,"Fitnah
-Fitnah memiliki biayanya dan memerlukan hubungan baik dengan korban, tapi kadang ini satu-satunya cara menghancurkan negara tetangga kuat tanpa menggunakan kekerasan.
+<b>Alliances of Free Cities</b>. Wings sign.
+$ They expand quite simply - it requires having good relations with the head of the alliance.
+$ All allied cities are obliged to send an army to defend other members of the alliance.
+$ Members of the alliance, including its leader, cannot forcibly annex anyone.
+$ There are no trade restrictions within alliances, and the head of the alliance receives a discount when trading with other members."
+hint_tutorial_slander,"Slander
+Slander has its costs and requires good relations with the victim, but sometimes it's the only way to destroy a strong neighboring state without resorting to force.
 
 <img=hint_tutorial_slander></img>
 
-Dengan merusak hubungan antara tetangga Anda, Anda bisa menurunkannya di bawah <red>-25</red>, yang berarti kebencian:
-$ Jika ini hubungan antara raja-raja independen, ini berarti awal aksi militer.
-$ Jika ini hubungan bawahan ke suzerain, maka bawahan akan memberontak.
-$ Jika ini hubungan antara anggota aliansi dan pemimpinnya, maka anggota akan keluar dari aliansi.
+By deteriorating relations between your neighbors, you can lower them below <red>-25</red>, which will mean enmity:
+$ If this is a relationship between independent kings, this means the beginning of military actions.
+$ If this is a relationship of a vassal to a suzerain, then the vassal will revolt.
+$ If this is a relationship between a member of the alliance and its leader, then the member will leave the alliance.
 
-Fitnah tersedia di bagian ""Politik"" menu kota di peta dunia."
-hint_tutorial_ambitions,"Ambisi
-Setiap raja memiliki ambisi. Jika tidak dikejar, seiring waktu raja akan mulai merasa seperti kegagalan. Namun, mencapainya memberikan dorongan moral yang kuat.
+Slander is available in the ""Politics"" section of the city's menu on the world map."
+hint_tutorial_ambitions,"Ambitions
+Every king has ambitions. If they are not pursued, over time the king will begin to feel like a failure. However, achieving them provides a strong morale boost.
 
 <img=hint_tutorial_ambitions></img>
 
-$ Jika Anda telah memilih ambisi di bidang produksi, Anda perlu mempelajari pengetahuan dan membangun bangunan lebih kompleks untuk memproduksi barang mahal.
-$ Ambisi di bidang populasi dicapai dengan memuaskan kebutuhan Petani - perumahan, makanan enak, dan alkohol enak.
-$ Ambisi politik dicapai dengan menciptakan negara yang dipimpin oleh raja Anda. Klik pada kota di peta global, dan lihat di bagian Politik untuk mengetahui apa yang diperlukan untuk menjadikan provinsi ini bawahan dan melampirkannya ke kerajaan Anda atau menciptakan aliansi dengannya."
-hint_tutorial_fertility,"Kesuburan Tanah
-Awalnya, peta tempat kota Anda berada dalam keseimbangan ekologis. Namun, menebang pohon hingga kurang dari {fertility_threshold}% dari jumlah aslinya menyebabkan penurunan kesuburan tanah, karena pohon melindungi tanah dari erosi. Ini, pada gilirannya, mengurangi produktivitas ladang dan pengumpulan rempah hutan.
+$ If you have chosen ambitions in the field of production, you need to study knowledge and build more complex buildings to produce expensive goods.
+$ Ambitions in the population sphere are achieved by satisfying the needs of peasants - housing, good food, and good alcohol.
+$ Political ambitions are achieved by creating states headed by your king. Click on a city on the global map, and look in the Politics section to find out what is needed to either vassalize this province and annex them to your kingdom or create an alliance with it."
+hint_tutorial_fertility,"Soil Fertility
+Initially, the map on which your city is located is in ecological balance. However, cutting down trees to less than {fertility_threshold}% of their original number leads to a decrease in soil fertility, as trees protect the soil from erosion. This, in turn, reduces the productivity of fields and the gathering of forest herbs.
 
 <img=hint_tutorial_fertility></img>
 
-Hutan memiliki kemampuan regenerasi - pohon baru muncul di sebelah yang lain, sehingga semakin besar area hutan, semakin cepat pemulihannya.
+The forest has the ability to regenerate - new trees appear next to others, thus the larger the forest area, the faster it will recover.
 
-Namun, seiring bertumbuhnya kota Anda, Anda harus membuat pilihan antara kesuburan ladang dan penebangan intensif, mengkompensasi kekurangan sumber daya lain melalui perdagangan eksternal.
+However, as your city grows, you will have to make a choice between the fertility of the fields and intensive logging, compensating for the lack of another resource through external trade.
 
-Anda dapat melihat tingkat deforestasi saat ini dan kesuburan tanah di <hint=hint_statistic_menu>Menu Statistik</hint>."
-hint_tutorial_iron_depleted,"Cadangan Besi
-Cadangan <hint=hint_resource_iron>Besi</hint> di <hint=hint_bld_mine>Tambang</hint> tidak tak terbatas. Setiap level peningkatan Tambang memberi akses ke pasokan Besi terbatas, dan biaya meningkat dari level ke level karena penambang harus menggali lebih dalam ke bumi.
+You can see the current level of deforestation and soil fertility in the <hint=hint_statistic_menu>Statistics menu</hint>."
+hint_tutorial_iron_depleted,"Iron Reserves
+<hint=hint_resource_iron>Iron</hint> reserves in <hint=hint_bld_mine>Mines</hint> are not infinite. Each level of Mine improvement gives you access to a limited supply of Iron, and the cost increases from level to level as miners have to dig deeper into the earth.
 
 <img=hint_tutorial_iron_depleted></img>
 
-Setelah menghabiskan sumber daya di level 3, Tambang benar-benar habis, dan satu-satunya sumber Besi Anda adalah perdagangan.
+After depleting the resource at level 3, the Mine is completely exhausted, and your only source of Iron will be trade.
 
-Anda dapat melihat berapa banyak Besi yang tersisa di <hint=hint_statistic_menu>Menu Statistik</hint> dan di menu Tambang."
-hint_tutorial_market_volume,"Permintaan Pasar
+You can see how much Iron is left in the <hint=hint_statistic_menu>Statistics menu</hint> and in the Mine menu."
+hint_tutorial_market_volume,"Market Demand
 [hint_market_volume]"
-hint_tutorial_loyalist,"Loyalis
+hint_tutorial_loyalist,"Loyalists
 [hint_loyalist]"
-hint_tutorial_addict,"Pecandu Nektar
+hint_tutorial_addict,"Nectar-addicts
 [hint_addict]"
-hint_tutorial_mood,"Suasana Hati
+hint_tutorial_mood,"Mood
 [hint_mood]"
-hint_tutorial_agnostic,"Agnostik
+hint_tutorial_agnostic,"Agnostics
 [hint_persons_agnostic]"
-hint_tutorial_kid,"Anak
+hint_tutorial_kid,"Child
 [hint_kid]"
-hint_tutorial_external_trade,"Perdagangan Luar Negeri
-Perdagangan dengan karavan memiliki keterbatasannya, jadi Anda selalu bisa berdagang dengan tetangga di peta dengan menandatangani kontrak (berlangsung 10 hari) di menu provinsi tetangga.
+hint_tutorial_external_trade,"Foreign Trade
+Trading with a caravan has its limitations, so you can always trade with neighbors on the map by signing contracts (lasting 10 days) in the neighboring province menu.
 
 <img=hint_tutorial_external_trade></img>
 
-$ Untuk memulai perdagangan, diperlukan agar hubungan dengan penguasa Anda tidak <red>negatif</red> atau Anda bagian dari <b>aliansi kota-kota bebas</b> yang sama.
-$ Untuk menyiapkan kontrak paling menguntungkan, pilih penguasa yang memiliki keterampilan <hint=hint_skill_negotiations>Perdagangan</hint> tertinggi - tapi waspadai bahwa Anda akan berhadapan dengan penguasa sekaliber di sisi lain.
-$ Hanya ada beberapa provinsi di peta yang menjual <hint=hint_resource_iron>Besi</hint> yang langka.
-$ Jika pasokan provinsi tetap stabil dan mencakup sumber daya dasar, maka permintaan berubah dari waktu ke waktu—misalnya, saat provinsi tumbuh.
-$ Volume perdagangan meningkat seiring populasi provinsi dan menurun jika desa-desa dirampok.
-$ Perdagangan luar negeri tidak <hint=hint_trade_dynamic_prices>jenuh</hint> pasar dengan barang, jadi Anda bisa menjual sebanyak yang Anda suka.
-$ Semua perdagangan ditampilkan di menu perdagangan luar negeri di bagian bawah layar. Anda bisa mengaktifkan perdagangan otomatis harian di sana."
-hint_tutorial_church_tax,"Pajak atas prajurit
-Pihak Gereja memungut pajak dari pasukanmu dan menggunakan dana tersebut untuk menjaga keamanan jalan, memungkinkan para penguasa bepergian antar kota tanpa takut serangan perampok.
+$ To start trading, it is required that relations with your ruler are either not <red>negative</red> or that you are part of the same <b>free cities alliance</b>.
+$ To set up the most beneficial contract, you should select the lord who has the highest <hint=hint_skill_negotiations>Trade</hint> skill - but be aware that you will be dealing with a lord of the same caliber on the other side.
+$ There are only a few provinces on the map that sell the scarce <hint=hint_resource_iron>Iron</hint>.
+$ If the supply of provinces remains stable and includes basic resources, then demand changes from time to time—for example, when the province grows.
+$ The trade volume increases with the population of the province and decreases if villages are plundered.
+$ Foreign trade does not <hint=hint_trade_dynamic_prices>saturate</hint> the market with goods, so you can sell as much as you like.
+$ All trades are displayed in the foreign trade menu at the bottom of the screen. You can enable daily automatic trades there."
+hint_tutorial_church_tax,"Tax on warriors
+The Church levies taxes on your army and uses these funds to maintain the safety of the roads, allowing lords to travel between cities without fear of bandit attacks.
 
 <img=hint_sodiers_happiness></img>
 
-$ Pajak tergantung pada total keterampilan tempur prajuritmu.
-$ Pajak dihitung setiap hari, menumpuk hingga kedatangan <hint=hint_holy_caravan>Karavan Suci</hint>.
-$ Jumlah pajak untuk setiap prajurit ditentukan oleh keterampilan tempur mereka <b>pada saat perekrutan</b> dan tidak meningkat seiring pertumbuhan keterampilan mereka.
-$ Matriark mungkin menaikkan pajak jika <hint=hint_tutorial_states>negara</hint>mu tumbuh secara signifikan.
-$ Kamu bisa melihat pajak pasukan saat ini di tooltip untuk ikon Pasukan di sudut kiri atas.
+$ The tax depends on the total combat skill of your warriors.
+$ The tax is calculated daily, accumulating until the arrival of the <hint=hint_holy_caravan>Holy Caravan</hint>.
+$ The amount taxed for each warrior is determined by their combat skill <b>at the time of recruitment</b> and does not increase as their skill grows.
+$ The Matriarch may raise the tax if your <hint=hint_tutorial_states>state</hint> grows significantly.
+$ You can see the current army tax in the tooltip for the Army icon in the top left corner.
 
-<b>Petunjuk:</b> Jika keuanganmu tidak stabil, sebaiknya merekrut prajurit yang relatif lemah dan kemudian melatih mereka di <hint=hint_bld_training_ground>Lapangan Latihan</hint>. Saat keterampilan tempur mereka meningkat, pajak atas mereka tidak akan naik."
-hint_tutorial_emperor,"Penobatan Kaisar
-Ketika negaramu mencapai ukuran 12 provinsi, kamu bisa menyatakan rajamu sebagai kaisar.
+<b>Hint:</b> If your finances are unstable, it is best to hire relatively weak warriors and then train them at the <hint=hint_bld_training_ground>Training Ground</hint>. As their combat skill increases, the tax on them will not rise."
+hint_tutorial_emperor,"Coronation of the Emperor
+When your state reaches the size of 12 provinces, you can declare your king as the emperor.
 
 <img=hint_tutorial_emperor></img>
 
-Untuk melakukan ini, pilih Penobatan Kaisar di menu rajamu. Tindakan ini akan menantang <hint=hint_synode>Keluarga Penuh Kasih</hint>, dan dalam beberapa hari, kamu bisa mengharapkan regu <hint=hint_inqusitors>Inkuisitor</hint> yang mencoba membakar provinsimu hingga rata dengan tanah.
+To do this, select the Coronation of the Emperor in your king's menu. This action will challenge the <hint=hint_synode>Loving Family</hint>, and within a few days, you can expect a squad of <hint=hint_inqusitors>Inquisitors</hint> to attempt to burn your province to the ground.
 
-Selain itu, setelah upacara, semua subjekmu akan mengalami pikiran negatif yang kuat karena takut terhadap gereja. Namun, beberapa kelompok penduduk akan lebih terlindungi dari efek ini:
-$ <hint=hint_persons_agnostic>Agnostik</hint> tidak sangat percaya pada Sophia, dan pikiran negatif mereka hanya setengah sekuat normal.
-$ <hint=hint_loyalist>Loyalis</hint> percaya buta pada Kaisar Baru, sehingga ketakutan mereka akan lima kali lebih lemah.
-$ <hint=hint_persons_fanatic>Fanatik</hint>, dengan syarat raja menerima berkah, akan menganggapnya sebagai nabi baru dan bahkan mendapatkan pikiran positif.
-$ <hint=hint_addict>Orang yang bergantung pada Nektar</hint> kurang rentan terhadap pikiran semacam itu, karena kesenangan yang didapat dari Nektar melebihi rasa takut mereka.
+Additionally, after the ceremony, all your subjects will experience a strong negative thought due to fear of the church. However, some population groups will be better protected from this effect:
+$ <hint=hint_persons_agnostic>Agnostics</hint> do not strongly believe in Sophia, and their negative thought will be only half as strong as normal.
+$ <hint=hint_loyalist>Loyalists</hint> blindly believe in the new Emperor, so their fear will be five times weaker.
+$ <hint=hint_persons_fanatic>Fanatics</hint>, provided the king received a blessing, will consider him the new prophet and even gain a positive thought.
+$ <hint=hint_addict>Nectar-dependents</hint> are less susceptible to such thoughts, as the pleasure derived from Nectar outweighs their sense of fear.
 
-Ini adalah tantangan terakhir dalam permainan, setelah itu tidak ada jalan kembali. Kamu akan mengalahkan regu hukuman Inkuisitor dan memenangkan permainan, atau kamu akan kalah. Bagaimanapun juga, permainan akan berakhir."
-hint_tutorial_knight,"Ksatria
+This is the final challenge in the game, after which there is no return. You will either defeat the punitive squad of Inquisitors and win the game, or you will lose. In any case, the game will end."
+hint_tutorial_knight,"Knights
 [hint_knight]"
-hint_tutorial_two_squads,"Regu Gabungan
-Kamu bisa mengirim dua regu atau lebih sekaligus untuk menyerang target di peta dunia.
+hint_tutorial_two_squads,"Composite Squads
+You can send two or more squads at once to attack a target on the world map.
 
 <img=hint_tutorial_two_squads></img>
 
-Untuk melakukan ini, buat regu-regu tersebut dan centang yang ingin kamu kirim sebelum mengirimkannya.
+To do this, create the squads and check the ones you want to send before dispatching.
 
-Regu-regu ini akan bepergian bersama dan berpartisipasi dalam pertempuran sebagai unit terpisah. Dengan cara ini, regu kedua bisa menyerang pemanah musuh sementara regu pertamamu bertarung melawan infanteri.
+These squads will travel together and participate in the battle as separate units. This way, the second squad can attack the enemy archers while your first squad fights the infantry.
 
-<b>Petunjuk:</b> Untuk menghindari mempertaruhkan para penguasamu, rekrut <hint=hint_knight>ksatria</hint> di menu Pasukan."
-hint_tutorial_inspiration,"Inspirasi
-Jika seorang penguasa bangun dalam suasana hati yang bahagia (di atas 80%), ada peluang {chance}% bahwa mereka akan mendapatkan keadaan Inspirasi (ikon sayap).
+<b>Hint:</b> To avoid risking your lords, hire <hint=hint_knight>knights</hint> in the Army menu."
+hint_tutorial_inspiration,"Inspiration
+If a lord wakes up in a happy mood (above 80%), there is a {chance}% chance that they will gain the state of Inspiration (wing icon).
 
 <img=hint_inspiration></img>
 
-Dalam keadaan ini, semua keterampilan sangat meningkat, menjadikannya waktu ideal untuk menggunakan penguasa tersebut untuk aktivitas seperti negosiasi perdagangan atau tindakan tempur.
+In this state, all skills are greatly increased, making it an ideal time to use the lord for activities such as trade negotiations or combat actions.
 
-Inspirasi berlangsung selama satu hari dan hilang ketika karakter tidur. Itu juga bisa lenyap jika suasana hati karakter menjadi tidak bahagia."
-hint_tutorial_in_state,"Bagian dari Negara
-Terkadang ketika kamu perlu mengumpulkan kekuatan dan ada musuh kuat di dekatnya, masuk akal untuk tidak membuat Negara sendiri tapi bergabung dengan yang sudah ada.
+Inspiration lasts for one day and disappears when the character goes to sleep. It can also vanish if the character's mood becomes unhappy."
+hint_tutorial_in_state,"Part of the State
+Sometimes when you need to gather strength and there are strong enemies nearby, it makes sense not to create your own State but to join an existing one.
 
 <img=hint_tutorial_in_state></img>
 
-$ Kamu bisa meminta bergabung dengan Aliansi Kota Bebas melalui menu tindakan provinsi utama (ikon dengan sayap). Di dalam aliansi, kamu akan memastikan perlindunganmu, meningkatkan <hint=hint_market_volume>permintaan lokal</hint>, dan bisa berdagang dengan anggotanya. Satu-satunya kewajiban adalah menjaga hubungan baik dengan kepala aliansi dan mengirim pasukan ketika anggota lain membutuhkan perlindungan.
-$ Ketika kamu dipaksa menjadi vassal, masuk akal untuk mempertimbangkan pilihanmu. Kamu akan membayar upeti kepada suzerainmu, tapi kamu bisa menghemat pasukanmu, karena suzerainmu harus melindungimu. Selain itu, <hint=hint_market_volume>permintaan lokal</hint> juga akan meningkat (namun, tidak ada opsi perdagangan bebas di dalam kerajaan vassal).
+$ You can request to join the Free Cities Alliance through the main province action menu (icon with wings). Within the alliance, you will ensure your protection, increase <hint=hint_market_volume>local demand</hint>, and be able to trade with its members. The only obligation is to maintain good relations with the head of the alliance and to send troops when another member needs protection.
+$ When you are coerced into vassalage, it makes sense to consider your options. You will pay tribute to your suzerain, but you can save on your army, as your suzerain will have to protect you. Besides, <hint=hint_market_volume>local demand</hint> will also increase (however, there is no free trade option within vassal kingdoms).
 
-Tentu saja, menjadi bagian dari Negara lain membawamu lebih jauh dari tujuan utama permainan—menyatukan provinsi-provinsi Norland dan menjadi Kaisar. Tapi dalam situasi tertentu, opsi ini bisa menjadi penyelamat dan istirahat yang diperlukan."
-hint_tutorial_hunt,"Berburu
-Untuk meningkatkan hubungan, kamu bisa meminta para penguasa menghabiskan waktu bersama. Namun, jika <hint=hint_skill_manners>Etika</hint> seorang penguasa kurang, perburuan bersama mungkin menjadi opsi yang lebih baik.
+Of course, being part of another State takes you further from the ultimate goal of the game—to unite the provinces of Norland and become Emperor. But in certain situations, this option can be a lifesaver and a necessary respite."
+hint_tutorial_hunt,"Hunting
+To improve relationships, you can ask lords to spend time together. However, if a lord's <hint=hint_skill_manners>Manners</hint> are lacking, a joint hunt might be the better option.
 
 <img=hint_tutorial_hunt></img>
 
-$ Selama perburuan, dua penguasa akan menemukan dan menyerang <hint=hint_fleshwolf>Fleshwolf</hint>. Ini membawa risiko cedera, tapi kamu akan mendapatkan sedikit <hint=hint_resource_meat>Daging</hint> yang sangat baik.
-$ Pikiran positif timbal balik setelah perburuan kuat dan tahan lama. Selain itu, setelah Fleshwolf dikalahkan, para pemburu akan melakukan <hint=hint_conversation>percakapan mendalam</hint> - tidak selalu menyenangkan.
-$ Berburu adalah alat yang baik untuk membangun hubungan di peta dunia. Kamu bisa mengirim salah satu penguasamu untuk berburu dengan penguasa mana pun yang tinggal di kota lain - misalnya, untuk memenangkan hati penguasa pedagang atau pasangan raja, yang pendapatnya juga penting."
-hint_tutorial_orders,"Perintah Langsung
-Dengan mengklik ikon di daftar tugas di atas menu karakter, kamu bisa memerintahkan penguasa untuk segera melakukan tugas yang diperlukan.
+$ During the hunt, two lords will find and attack a <hint=hint_fleshwolf>fleshwolf</hint>. This carries the risk of injury, but you will get some excellent <hint=hint_resource_meat>Meat</hint>.
+$ The mutual positive thought after the hunt is strong and long-lasting. Additionally, after the fleshwolf is defeated, the hunters will have a <hint=hint_conversation>deep conversation</hint> - not always pleasant.
+$ Hunting is a good tool to build relationships on the world map. You can send any of your lords to hunt with any lord living in another city - for example, to win the favor of a merchant lord or the king's spouse, whose opinion also matters."
+hint_tutorial_orders,"Direct Orders
+By clicking on the icon in the to-do list at the top of the character menu, you can command the lord to immediately undertake a necessary task.
 
 <img=hint_tutorial_orders></img>
 
-Biasanya, para penguasa memutuskan sendiri kapan melakukan apa, tapi terkadang kamu bisa memerintahkannya untuk segera menangani tugas jika ada kebutuhan mendesak.
+Usually, lords decide for themselves when to do what, but sometimes you can order him to attend to a task immediately if there is an urgent need.
 
-$ Di awal daftar tugas, tugas-tugas yang kamu tugaskan kepadanya ditampilkan.
-$ Ketika kebutuhan seorang penguasa mulai mengganggunya, tugas untuk mengatasi kebutuhan ini juga muncul di sana. Klik ikon untuk membuatnya menjatuhkan segalanya dan pergi memenuhi kebutuhan itu."
-hint_tutorial_pass_crown,"Melepas Mahkota
-Ketika penguasa memiliki terlalu banyak musuh, kamu selalu bisa melepas mahkota kepada orang lain.
+$ At the beginning of the to-do list, the tasks you assigned to him are displayed.
+$ When a lord's need starts to bother him, tasks to address these needs also appear there. Click on the icon to make him drop everything and go fulfill that need."
+hint_tutorial_pass_crown,"Passing the Crown
+When your ruler has too many enemies, you can always pass the crown to someone else.
 
 <img=hint_tutorial_pass_crown></img>
 
-Karena hubungan dengan tetangga dan matriark adalah hubungan pribadi dengan monarkmu, kamu bisa meresetnya dengan melepas mahkota.
+Since relations with neighbors and the matriarch are personal relationships with your monarch, you can reset them by passing the crown.
 
-Ini akan menyebabkan gesekan signifikan antara penguasa lama dan baru, tapi semua hubungan eksternal sekarang akan dibangun dari awal."
-hint_tutorial_relations_tab,"Tab Hubungan
-Untuk melihat apa yang dipikirkan karakter satu sama lain, pergi ke tab hubungan di menu karakter.
+This will cause significant friction between the former and new ruler, but all external relations will now be established from scratch."
+hint_tutorial_relations_tab,"Relations Tab
+To see what characters think of each other, go to the relations tab in the character menu.
 
 <img=hint_tutorial_relations_tab></img>
 
-$ Arahkan kursor ke potret karakter mana pun untuk melihat <hint=hint_thought_social>pemikiran sosial</hint> mana yang berkontribusi pada <hint=hint_relations>hubungan</hint> mereka dengannya.
-$ Faktor-faktor yang memengaruhi <hint=hint_interest>minat</hint> juga dijelaskan di sana.
-$ Di atas, ada filter hubungan - misalnya, kamu bisa melihat hubungan dengan karakter dari rumah bangsawan lain atau hubungan antar raja-raja.
-$ Kamu juga bisa melihat hubungan dengan karakter penting dengan mengarahkan kursor ke potret mereka di tab utama."
+$ Hover over any character's portrait to see which <hint=hint_thought_social>social thoughts</hint> contribute to their <hint=hint_relations>relationship</hint> with them.
+$ Factors influencing <hint=hint_interest>interest</hint> are also described there.
+$ At the top, there are relationship filters - for example, you can view relationships with characters from other noble houses or relationships between kings.
+$ You can also see relationships with important characters by hovering over their portrait on the main tab."
 hint_tutorial_hate,"Hate
 When one character’s relationship with another falls below <red>-25</red>, they start to feel hatred. This may end in murder, leaving you with one corpse and one criminal hated by the entire family.
 
@@ -5333,629 +5333,629 @@ They are about to be defeated!"
 hint_mind_battle_enemy_commander_retreat,"[hint_mind_caption]
 Just a little more, and they will run away too!"
 hint_mind_battle_enemy_soldier_retreat,"[hint_mind_caption]
-Haha! Penakut!"
+Haha! Cowards!"
 hint_mind_battle_enemy_soldier_dead,"[hint_mind_caption]
-Aku melihat seorang prajurit musuh di dekat sini jatuh! Hanya sedikit lagi, dan kemenangan akan menjadi milik kita!"
+I saw an enemy warrior nearby fall! Just a bit longer, and victory will be ours!"
 hint_mind_battle_loose,"[hint_mind_caption]
-Hari ini, keberuntungan tidak berpihak pada kita...
+Today, luck was not on our side...
 [hint_mind_remain_time]"
 hint_mind_battle_soldier_retreat,"[hint_mind_caption]
-Rekan prajuritku melarikan diri! Keadaan tampak suram!"
+My fellow warrior fled! Things are looking grim!"
 hint_mind_battle_soldier_dead,"[hint_mind_caption]
-Kita semakin sedikit dan sedikit lagi!"
+We are getting fewer and fewer!"
 hint_mind_battle_win,"[hint_mind_caption]
-Hurrah, kita telah menang! Kemuliaan bagi sang raja!
+Hurray, we have won! Glory to the king!
 [hint_mind_remain_time]"
 hint_mind_catharsis,"[hint_mind_caption]
-Setelah <hint=hint_tantrum>amukan</hint> baru-baru ini, aku merasa lega... Tapi untuk berapa lama?
+After the recent <hint=hint_tantrum>meltdown</hint>, I feel relieved... But for how long?
 [hint_mind_remain_time]"
 hint_mind_close_actor_hostage,"[hint_mind_caption]
-{name} ditangkap, kita harus membebaskannya!"
+{name} is captured, we must set him free!"
 hint_mind_close_actor_dead,"[hint_mind_caption]
-Aku benar-benar tidak bisa percaya bahwa {name} tidak lagi bersama kita...
+I just can't believe that {name} is no longer with us...
 [hint_mind_remain_time]"
 hint_mind_close_actor_heavy_disease,"[hint_mind_caption]
-Aku tidak yakin apakah {name} bisa <hint=hint_sick>pulih</hint>... Aku harap kita punya cukup <hint=hint_heal>perbekalan penyembuhan</hint>..."
+I'm not sure if {name} will be able to <hint=hint_sick>recover</hint>... I hope we have enough <hint=hint_heal>healing supplies</hint>..."
 hint_mind_close_actor_low_mid_disease,"[hint_mind_caption]
-{name} sedang <hint=hint_sick>sakit</hint>, dan saya khawatir. Saya harap kita punya cukup sumber daya untuk <hint=hint_heal>perawatan</hint>..."
+{name} is <hint=hint_sick>ill</hint>, and I'm worried. I hope we have enough resources for <hint=hint_heal>treatment</hint>..."
 hint_mind_close_actor_punish,"[hint_mind_caption]
-{name} telah <hint=hint_punish>dihukum</hint>. Mungkin itu pantas, tapi itu tidak membuat saya merasa lebih baik!
+{name} has been <hint=hint_punish>punished</hint>. Perhaps it was deserved, but it doesn't make me feel any better!
 [hint_mind_remain_time]"
 hint_mind_conversation_fatigue,"[hint_mind_caption]
-Obrolan ini sangat melelahkan! Saya harap kita masih punya <hint=hint_resource_beer>Bir</hint> dingin yang tersisa...
+This chatter is so exhausting! I hope we have some cold <hint=hint_resource_beer>Beer</hint> left...
 
-Alasan: <hint=hint_th_speach_fatigue>Kelelahan Bicara</hint>.
+Reason: <hint=hint_th_speach_fatigue>Speech fatigue</hint>.
 [hint_mind_remain_time]"
 hint_mind_inspection_fatigue,"[hint_mind_caption]
-Menjelaskan kepada para bodoh ini apa yang harus mereka lakukan sangat melelahkan! Saya harap kita masih punya <hint=hint_resource_beer>Bir</hint> dingin yang tersisa...
+Explaining to these fools what they should do is so tiresome! I hope we have some cold <hint=hint_resource_beer>Beer</hint> left...
 
-Alasan: <hint=hint_th_inspection_fatigue>Kelelahan Inspeksi</hint>.
+Reason: <hint=hint_th_inspection_fatigue>Inspection fatigue</hint>.
 [hint_mind_remain_time]"
 hint_mind_knowledge_fatigue,"[hint_mind_caption]
-Fiuh... Semua pengetahuan ini... Saya benar-benar kelelahan...
+Phew... All this knowledge... I'm really exhausted...
 
-Alasan: <hint=hint_th_study_fatigue>Kelelahan Belajar</hint>.
+Reason: <hint=hint_th_study_fatigue>Study fatigue</hint>.
 [hint_mind_remain_time]"
 hint_mind_work_fatigue,"[hint_mind_caption]
-Saya sangat kelelahan dari pekerjaan hari ini!
+I'm terribly exhausted from work today!
 
-Alasan: <hint=hint_th_fatigue>Kelelahan Kerja</hint>.
+Reason: <hint=hint_th_fatigue>Work fatigue</hint>.
 [hint_mind_remain_time]"
 hint_mind_conversation_reward,"[hint_mind_caption]
-Senang sekali ketika <hint=hint_persons_king>raja</hint> <hint=hint_action_task_reward>memberi hadiah</hint> atas usaha kita!
+It's nice when the <hint=hint_persons_king>king</hint> <hint=hint_action_task_reward>rewards</hint> your efforts!
 [hint_mind_remain_time]"
 hint_mind_conversation_threat,"[hint_mind_caption]
- <hint=hint_persons_king>Raja</hint> percaya bahwa saya bisa mengkhianatinya... Saya takut, tapi saya meyakinkannya tentang <hint=hint_loyalty>kesetiaan</hint> saya!
+ <hint=hint_persons_king>The king</hint> believes that I could betray him... I'm scared, but I assured him of my <hint=hint_loyalty>loyalty</hint>!
 [hint_mind_remain_time]"
 hint_mind_conversation_rumors,"[hint_mind_caption]
-Sangat menyenangkan berbicara tentang seseorang di belakang punggungnya...
+It's so enjoyable to talk about someone behind their back...
 [hint_mind_remain_time]"
 hint_mind_crime_criminal_not_punished,"[hint_mind_caption]
-{name} harus menghadapi hukuman atas <hint=hint_crime>kejahatan</hint> mereka. Itu keadilan!
+{name} must face punishment for their <hint=hint_crime>crimes</hint>. It's justice!
 [hint_mind_remain_time]"
 hint_mind_crime_punished,"[hint_mind_caption]
-Aku telah <hint=hint_punish>dihukum</hint>!
+I have been <hint=hint_punish>punished</hint>!
 [hint_mind_remain_time]"
 hint_mind_crime_unfairly_punished,"[hint_mind_caption]
-Aku telah <hint=hint_punish>dihukum</hint> tanpa alasan! Semua orang tahu itu!
+I have been <hint=hint_punish>punished</hint> for nothing! Everyone knows it!
 [hint_mind_remain_time]"
 hint_mind_crime_victim,"[hint_mind_caption]
-Perasaan tak berdaya ini mengerikan... Sungguh tidak menyenangkan menjadi korban sebuah <hint=hint_crime>kejahatan</hint>!
+This feeling of helplessness is awful... It's unpleasant to be a victim of a <hint=hint_crime>crime</hint>!
 [hint_mind_remain_time]"
 hint_mind_deep_talk,"[hint_mind_caption]
-Apa yang lebih baik daripada sebuah <hint=hint_speech_friendly>percakapan ramah</hint>?
+What could be better than a <hint=hint_speech_friendly>friendly conversation</hint>?
 [hint_mind_remain_time]"
 hint_mind_dice_of_fate_bad_luck,"[hint_mind_caption]
-Kombinasi buruk! Kombinasi buruk!
+Bad combination! Bad combination!
 [hint_mind_remain_time]"
 hint_mind_dice_of_fate_luck,"[hint_mind_caption]
-Ibu Sophia memihakku!
+Mother Sophia favors me!
 [hint_mind_remain_time]"
 hint_mind_disease_death_inevitable,"[hint_mind_caption]
-Sudah waktunya mengucapkan selamat tinggal pada dunia ini...
+It's time to bid farewell to this world...
 [hint_mind_remain_time]"
 hint_mind_disease_easy,"[hint_mind_caption]
-<hint=hint_sick>Sakit</hint> tapi sepertinya tidak terlalu serius.
+<hint=hint_sick>It hurts</hint>but it doesn't seem too serious.
 [hint_mind_remain_time]"
 hint_mind_disease_hard,"[hint_mind_caption]
-Sophia yang Suci, <hint=hint_sick>sakit</hint> itu! Semoga aku sembuh!
+Holy Sophia, that <hint=hint_sick>pain</hint>! I hope I get better!
 [hint_mind_remain_time]"
 hint_mind_drank,"[hint_mind_caption]
-Ini minuman enak sekali <hint=hint_alcohol>alkohol</hint>! Mungkin aku minum satu lagi?
+This is damn good <hint=hint_alcohol>drink</hint>! Maybe I'll have another?
 
-Alasan: Alkohol yang dikonsumsi: {number}.
+Reason: Alcohol consumed: {number}.
 [hint_mind_remain_time]"
 hint_mind_drank_nectar,"[hint_mind_caption]
-Saya merasakan gelombang kekuatan yang luar biasa! <hint=hint_resource_nectar>Nektar</hint> bekerja ajaib!
+I'm feeling an extraordinary surge of strength! <hint=hint_resource_nectar>Nectar</hint> works wonders!
 
-Alasan: Nektar dikonsumsi: {number}.
+Reason: Nectar consumed: {number}.
 [hint_mind_remain_time]"
 hint_mind_beer_addiction,"[hint_mind_caption]
-Saya SANGAT mendesak membutuhkan minuman!
+I URGENTLY need a drink!
 
-Alasan: <hint=hint_alcoholism>Alkoholisme</hint>.
+Reason: <hint=hint_alcoholism>Alcoholism</hint>.
 [hint_mind_remain_time]"
 hint_mind_gambler_no_play,"[hint_mind_caption]
-Sudah lama sekali saya tidak bermain dadu... Saya mendesak perlu menguji keberuntungan saya!
+I haven't played dice in so long... I urgently need to test my luck!
 
-Alasan: <hint=hint_gambler>Kecanduan Judi</hint>."
+Reason: <hint=hint_gambler>Gambling addiction</hint>."
 hint_mind_nectar_addiction,"[hint_mind_caption]
-Saya benar-benar sekarat tanpa <hint=hint_resource_nectar>Nektar</hint>! Di mana saya bisa mendapatkannya?
+I'm just dying without <hint=hint_resource_nectar>Nectar</hint>! Where can I get some?
 
-Alasan: <hint=hint_addict>Kecanduan Nektar</hint>.
+Reason: <hint=hint_addict>Nectar addiction</hint>.
 [hint_mind_remain_time]"
 hint_mind_enemy_actor_dead,"[hint_mind_caption]
-Saya harap {name} sedang di neraka sekarang. Makhluk itu mendapat apa yang pantas diterimanya!
+I hope {name} is in hell right now. That creature got what they deserved!
 [hint_mind_remain_time]"
 hint_mind_enemy_actor_heavy_disease,"[hint_mind_caption]
-Sepertinya {name} sedang merasa tidak enak badan... Ha! Saya harap itu berakhir buruk!
+It seems like {name} is feeling unwell... Ha! I hope it ends badly!
 [hint_mind_remain_time]"
 hint_mind_envy_happy,"[hint_mind_caption]
-{name} sama sekali tidak pantas memiliki apa yang dimilikinya! Semuanya seharusnya menjadi milik saya, dengan hak!
+{name} doesn't deserve what they have at all! It should all be mine, by right!
 [hint_mind_remain_time]"
 hint_mind_evil_joke,"[hint_mind_caption]
-Itu lucu sekali! Saya tidak tahan dengan <hint=hint_speech_mockery>ejekan</hint> seperti itu!
+That's hilarious! I can't stand such <hint=hint_speech_mockery>mockery</hint>!
 [hint_mind_remain_time]"
 hint_mind_execution_watch,"[hint_mind_caption]
-Memuaskan melihat kemenangan <hint=hint_punish>keadilan</hint>!
+It's satisfying to witness the triumph of <hint=hint_punish>justice</hint>!
 [hint_mind_remain_time]"
 hint_mind_exhaustion,"[hint_mind_caption]
-<hint=hint_hungry>Lapar</hint> akan segera membunuh saya... Saya butuh setidaknya sedikit <hint=hint_food>makanan</hint>!
+<hint=hint_hungry>Hunger</hint> will soon kill me... I need at least a little bit of <hint=hint_food>food</hint>!
 
-Alasan: <hint=hint_need_food>Kebutuhan makanan</hint>, keadaan kelaparan.
+Reason: <hint=hint_need_food>Need for food</hint>, state of starvation.
 [hint_mind_remain_time]"
 hint_mind_faction_actor_dead,"[hint_mind_caption]
-{name} tidak lagi di antara kita... Terlepas dari hubungan kita, ini adalah kerugian bagi keluarga kita.
+{name} is no longer with us... Regardless of our relationship, it is a loss for our family.
 [hint_mind_remain_time]"
 hint_mind_fanatic,"[hint_mind_caption]
-Ibu Sophia, kasihilah hamba-Mu! Terimalah penderitaanku sebagai hadiah!
+Mother Sophia, have mercy on your slave! Accept as a gift my suffering!
 
-Alasan: <hint=hint_persons_fanatic>Fanatik agama</hint>."
+Reason: <hint=hint_persons_fanatic>Religious fanatic</hint>."
 hint_mind_fight_positive,"[hint_mind_caption]
-Entah bagaimana, jiwaku terasa lebih ringan sekarang...
+Somehow, my soul feels lighter now... 
 
-Alasan: Bertarung dengan <hint=hint_enemy>musuh</hint> ({name}).
+Reason: Fight with the <hint=hint_enemy>enemy</hint> ({name}).
 [hint_mind_remain_time]"
 hint_mind_flattery,"[hint_mind_caption]
-{name} begitu baik mengakui kebajikanku...
+{name} was so kind to acknowledge my virtues...
 
-Alasan: <hint=hint_speech_flattery>Sanjungan</hint>.
+Reason: <hint=hint_speech_flattery>Flattery</hint>.
 [hint_mind_remain_time]"
 hint_mind_force_action_task,"[hint_mind_caption]
-Aku tahu lebih baik apa yang harus kulakukan dan kapan waktu terbaiknya!
+I know better what to do and when is best to do it!
 
-Alasan: Dipaksa melakukan <hint=hint_action>tugas</hint>.
+Reason: Forced to do <hint=hint_action>task</hint>.
 [hint_mind_remain_time]"
 hint_mind_seduce_task,"[hint_mind_caption]
-Ini perlu dilakukan...
+It was necessary to do this... 
 
-Alasan: Tugas <hint=hint_action_task_seduce>godaan</hint>.
+Reason: Task <hint=hint_action_task_seduce>seduce</hint>.
 [hint_mind_remain_time]"
 hint_mind_game_of_dice_loose,"[hint_mind_caption]
-Sial, keberuntungan tidak berpihak padaku! Baiklah, aku akan menebusnya!
+Damn, luck wasn't on my side! Well, I'll make up for it!
 [hint_mind_remain_time]"
 hint_mind_game_of_dice_win,"[hint_mind_caption]
-Hari ini adalah hari keberuntunganku!
+Today is my lucky day!
 [hint_mind_remain_time]"
 hint_mind_good_joke,"[hint_mind_caption]
-Hahaha! Aku masih ingat <hint=hint_speech_joke>lelucon</hint> ini!
+Hahaha! I still remember this <hint=hint_speech_joke>joke</hint>!
 [hint_mind_remain_time]"
 hint_mind_hangover,"[hint_mind_caption]
-Sophia Suci, kepalaku!
+Holy Sophia, my head!
 
-Alasan: Mengonsumsi <hint=hint_resource_beer>Bir</hint> kemarin: {number}
+Reason: Consumed <hint=hint_resource_beer>Beer</hint> yesterday: {number}
 [hint_mind_remain_time]"
 hint_mind_nectar_hangover,"[hint_mind_caption]
-Apa mimpi buruk, aku merasa sangat sakit!
+What a nightmare, I feel so sick!
 
-Alasan: Mengonsumsi <hint=hint_resource_nectar>Nektar</hint> kemarin: {number}
+Reason: Consumed <hint=hint_resource_nectar>Nectar</hint>yesterday: {number}
 [hint_mind_remain_time]"
 hint_mind_force_donate,"[hint_mind_caption]
-Mungkin raja berpikir <hint=hint_resource_rune>Cincin Suci</hint>ku miliknya?
+Maybe the king thinks my <hint=hint_resource_rune> Holy Rings</hint> belong to him?
 
-Alasan: Dipaksa untuk <hint=hint_action_task_donate>menyumbang</hint> {number} Cincin Suci.
+Reason: Forced to <hint=hint_action_task_donate>donate</hint> {number} Holy Rings.
 [hint_mind_remain_time]"
 hint_mind_hate,"[hint_mind_caption]
-{name} adalah <hint=hint_enemy>musuh</hint> sumpahku! Aku benci kamu!"
+{name} is my sworn <hint=hint_enemy>enemy</hint>! I hate you!"
 hint_mind_homeless,"[hint_mind_caption]
-Apakah benar-benar tidak ada tempat tidur dan atap di atas kepalaku yang bisa ditemukan di kota ini?"
+Is there really no bed and roof over my head to be found in this town?"
 hint_mind_hunt,"[hint_mind_caption]
-Fleshwolf itu tidak punya kesempatan melawan pemburu seperti aku!
+That fleshwolf didn't stand a chance against a hunter like me!
 [hint_mind_remain_time]"
 hint_mind_immobilization,"[hint_mind_caption]
-Aku tidak bisa bergerak! Aku harap seseorang merawatku!"
+I can't move! I hope someone takes care of me!"
 hint_mind_no_rings,"[hint_mind_caption]
-Apakah aku terlihat seperti petani? Ini sangat merendahkan! Aku butuh setidaknya <hint=hint_resource_rune>5</hint>!
+Do I look like a peasant? It's so demeaning! I need at least <hint=hint_resource_rune>5</hint>!
 
-<b>Petunjuk:</b> Jika seorang karakter memiliki kurang dari 5 <hint=hint_resource_rune>Cincin Suci</hint>, mereka mulai menderita rasa kemiskinan. Di sisi lain, jika mereka memiliki 15 atau, lebih baik lagi, lebih dari 25 Cincin Suci, status sosial mereka meningkat, yang membuat mereka senang."
+<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy Rings</hint>, they start suffering from a sense of poverty. On the other hand, if they have 15 or, even better, more than 25 Holy Rings, their social status is elevated, which pleases them."
 hint_mind_low_rings,"[hint_mind_caption]
-<hint=hint_resource_rune>Cincin Suci</hint>ku hampir habis... Apakah aku tidak pantas dihormati?
+My <hint=hint_resource_rune>Holy Rings</hint> are running out... Do I not deserve respect?
 
-<b>Petunjuk:</b> Jika seorang karakter memiliki kurang dari 5 <hint=hint_resource_rune>Cincin Suci</hint>, mereka mulai menderita kesadaran kemiskinan. Di sisi lain, jika mereka memiliki 15 atau, lebih baik lagi, lebih dari 25 cincin suci, status sosial mereka meningkat, yang membuat mereka senang."
+<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy Rings</hint>, they start to suffer from awareness of poverty. On the other hand, if they have 15 or, even better, more than 25 Sacred rings, their social status increases, which pleases them."
 hint_mind_many_rings,"[hint_mind_caption]
-Sepertinya aku telah mengumpulkan cukup banyak <hint=hint_resource_rune>cincin suci</hint>. Tidak buruk, tidak buruk...
+It seems I've accumulated quite a few <hint=hint_resource_rune>Holy rings</hint>. Not bad, not bad...
 
-<b>Petunjuk:</b> Jika seorang karakter memiliki kurang dari 5 <hint=hint_resource_rune>cincin suci</hint>, mereka mulai menderita kesadaran kemiskinan. Di sisi lain, jika mereka memiliki 15 atau, lebih baik lagi, lebih dari 25 cincin suci, status sosial mereka meningkat, yang membuat mereka senang."
+<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy rings</hint>, they start to suffer from awareness of poverty. On the other hand, if they have 15 or, even better, more than 25 Holy rings, their social status increases, which pleases them."
 hint_mind_lot_of_rings,"[hint_mind_caption]
-Kekayaan... Rasa yang luar biasa!
+Wealth... Such a wonderful feeling!
 
-<b>Petunjuk:</b> Jika seorang karakter memiliki kurang dari 5 <hint=hint_resource_rune>cincin suci</hint>, mereka mulai menderita kesadaran kemiskinan. Di sisi lain, jika mereka memiliki 15 atau, lebih baik lagi, lebih dari 25 cincin suci, status sosial mereka meningkat, yang membuat mereka senang."
+<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy rings</hint>, they begin to suffer from a realization of poverty. On the other hand, if they have 15 or, even better, more than 25 Holy rings, their social status increases, which pleases them."
 hint_mind_morning_service,"[hint_mind_caption]
-Perasaan harapan untuk bersatu dengan Ibu Sophia ini! <hint=hint_sermon_usual_preach>Khotbah Sukacita</hint> begitu menggembirakan!
+This feeling of hope for unity with Mother Sophia! <hint=hint_sermon_usual_preach>The Sermon of Joy</hint> is so uplifting!
 [hint_mind_remain_time]"
 hint_mind_motive_energy_1,"[hint_mind_caption]
-Benar-benar sudah waktunya bagi saya untuk istirahat.
+It's really time for me to rest.
 
-Alasan: <hint=hint_need_sleep>Kebutuhan tidur</hint>."
+Reason: <hint=hint_need_sleep>Need for sleep</hint>."
 hint_mind_motive_energy_2,"[hint_mind_caption]
-Saya sangat membutuhkan tidur. Saya hampir tidak bisa berdiri!
+I urgently need to sleep. I can barely stand on my feet!
 
-Alasan: <hint=hint_need_sleep>Kebutuhan tidur</hint>."
+Reason: <hint=hint_need_sleep>Need for sleep</hint>."
 hint_mind_motive_food_1,"[hint_mind_caption]
-Perasaan menyenangkan karena puas dengan makanan.
+A pleasant feeling of being satisfied with food.
 
-Alasan: kebutuhan <hint=hint_need_food>Kebutuhan makanan</hint> yang terpenuhi sepenuhnya."
+Reason: fully replenished <hint=hint_need_food>Need for food</hint>."
 hint_mind_motive_food_2,"[hint_mind_caption]
-Waktunya untuk camilan!
+Time for a snack!
 
-Alasan: <hint=hint_need_food>Kebutuhan makanan</hint>."
+Reason: <hint=hint_need_food>Need for food</hint>."
 hint_mind_motive_food_3,"[hint_mind_caption]
-Saya perlu makan sesuatu dengan segera!
+I need to eat something urgently!
 
-Alasan: <hint=hint_need_food>Kebutuhan makanan</hint>."
+Reason: <hint=hint_need_food>Need for food</hint>."
 hint_mind_motive_food_4,"[hint_mind_caption]
-Saya kelaparan!
+I'm dying of hunger!
 
-Alasan: <hint=hint_need_food>Kebutuhan makanan</hint>."
+Reason: <hint=hint_need_food>Need for food</hint>."
 hint_mind_motive_rest_1,"[hint_mind_caption]
-Hah... Yah, tidak terlalu buruk, saya masih punya sedikit energi tersisa.
+Phew... Well, it's not so bad, I still have some energy left.
 
-Alasan: <hint=hint_need_fun>Kebutuhan istirahat</hint>."
+Reason: <hint=hint_need_fun>Need for rest</hint>."
 hint_mind_motive_rest_2,"[hint_mind_caption]
-Saya pikir saya belum minum apa-apa selama satu atau dua hari... Saya pantas mendapatkan ini!
+I think I haven't drunk anything for a day or two... I deserve this!
 
-Alasan: <hint=hint_need_fun>Kebutuhan istirahat</hint>."
+Reason: <hint=hint_need_fun>Need for rest</hint>."
 hint_mind_motive_rest_3,"[hint_mind_caption]
-Saya bahkan tidak bisa mengingat kapan terakhir kali saya minum! Di mana cawan saya?
+I can't even remember the last time I had a drink! Where's my tankard?
 
-Alasan: <hint=hint_need_fun>Kebutuhan istirahat</hint>.
+Reason: <hint=hint_need_fun>Need for rest</hint>.
 
-<b>Petunjuk</b>: Pastikan karakter memiliki akses ke <hint=hint_alcohol>alkohol</hint>."
+<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>."
 hint_mind_motive_rest_4,"[hint_mind_caption]
-Aku tidak bisa bekerja lagi! Aku ingin minum!
+I can't work anymore! I want a drink!
 
-Alasan: <hint=hint_need_fun>Kebutuhan untuk istirahat</hint>.
+Reason: <hint=hint_need_fun>Need for rest</hint>.
 
-<b>Petunjuk</b>: Pastikan karakter memiliki akses ke <hint=hint_alcohol>alkohol</hint>."
+<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>."
 hint_mind_motive_fun_1,"[hint_mind_caption]
-Itu menyenangkan!
+It was fun!
 
-Alasan: Kebutuhan untuk istirahat <hint=hint_need_fun>Kebutuhan untuk istirahat</hint> terpenuhi sepenuhnya."
+Reason: Fully fulfilled <hint=hint_need_fun>Need for rest</hint>."
 hint_mind_motive_fun_2,"[hint_mind_caption]
-Aku perlu mencari hiburan...
+I need to find some entertainment...
 
-Alasan: <hint=hint_need_fun>Kebutuhan untuk istirahat</hint>."
+Reason: <hint=hint_need_fun>Need for rest</hint>."
 hint_mind_motive_fun_3,"[hint_mind_caption]
-Semuanya begitu melelahkan. Aku sangat perlu bersantai!
+Everything is so tiresome. I urgently need to relax!
 
-Alasan: <hint=hint_need_fun>Kebutuhan untuk istirahat</hint>."
+Reason: <hint=hint_need_fun>Need for rest</hint>."
 hint_mind_motive_religion_1,"[hint_mind_caption]
-Ibu Suci Sophia, berkatilah aku! Ibu Suci Sophia, lindungilah aku!
+Holy Mother Sophia, bless me! Holy Mother Sophia, protect me!
 
-Alasan: kebutuhan untuk kesalehan <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint> terpenuhi sepenuhnya."
+Reason: fully fulfilled <hint=hint_need_piety>Need for piety</hint>."
 hint_mind_motive_religion_2,"[hint_mind_caption]
-Ibu Sophia mencintaiku!
+Mother Sophia loves me!
 
-Alasan: terpenuhi <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>."
+Reason: fulfilled <hint=hint_need_piety>Need for piety</hint>."
 hint_mind_motive_religion_2,"[hint_mind_caption]
-Aku sudah lama tidak pengakuan dosa... Aku perlu bertobat!
+I haven't been to confession in a while... I need to repent!
 
-Alasan: <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>."
+Reason: <hint=hint_need_piety>Need for piety</hint>."
 hint_mind_motive_religion_3,"[hint_mind_caption]
-Ibu Suci Sophia, ampunilah dosaku!
+Holy Mother Sophia, forgive me for my sins!
 
-Alasan: <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>.
+Reason: <hint=hint_need_piety>Need for piety</hint>.
 
-<b>Petunjuk:</b> Bangun sebuah <hint=hint_bld_temple>Kuil</hint> dan pastikan dapat diakses oleh semua orang."
+<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone."
 hint_mind_motive_religion_4,"[hint_mind_caption]
-Ibu Suci Sophia, ampunilah dosaku!
+Holy Mother Sophia, forgive me for my sins!
 
-Alasan: <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>.
+Reason: <hint=hint_need_piety>Need for piety</hint>.
 
-<b>Petunjuk:</b> Bangun sebuah <hint=hint_bld_temple>Kuil</hint> dan pastikan dapat diakses oleh semua orang."
+<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone."
 hint_mind_motive_sex_1,"[hint_mind_caption]
-Aku sudah lama tidak merasakan kehangatan manusia...
+I haven't felt human warmth in a long time...
 
-Alasan: <hint=hint_need_sex>Kebutuhan seksual</hint>."
+Reason: <hint=hint_need_sex>Need for sex</hint>."
 hint_mind_motive_sex_2,"[hint_mind_caption]
-Saya ingin bercinta. Ya, saya ingin bercinta!
+I want sex. Yes, I want sex!
 
-Reason: <hint=hint_need_sex>Kebutuhan Seksual</hint>."
+Reason: <hint=hint_need_sex>Need for sex</hint>."
 hint_mind_motive_sex_3,"[hint_mind_caption]
-Sembarang orang saja! Saya tak tahan lagi!
+Anyone will do! I can't take it anymore!
 
-Reason: <hint=hint_need_sex>Kebutuhan Seksual</hint>."
+Reason: <hint=hint_need_sex>Need for sex</hint>."
 hint_mind_motive_care_1,"[hint_mind_caption]
-Orang tua saya tidak memperhatikan saya... Mungkin mereka terlalu sibuk.
+My parents don't notice me... Maybe they're too busy.
 
-Reason: <hint=hint_need_care>Kebutuhan Perawatan</hint>."
+Reason: <hint=hint_need_care>Need for care</hint>."
 hint_mind_motive_care_2,"[hint_mind_caption]
-Mengapa Bunda dan Ayah tidak berbicara denganku? Aku merasa sangat kesepian!
+Why don't Mom and Dad talk to me? I feel so lonely!
 
-Reason: <hint=hint_need_care>Kebutuhan Perawatan</hint>."
+Reason: <hint=hint_need_care>Need for care</hint>."
 hint_mind_motive_care_3,"[hint_mind_caption]
-Orang tua saya membenciku! Apa yang telah kulakukan salah?
+My parents hate me! What have I done wrong?
 
-Reason: <hint=hint_need_care>Kebutuhan Perawatan</hint>."
+Reason: <hint=hint_need_care>Need for care</hint>."
 hint_mind_new_town_resident,"[hint_mind_caption]
-Saya harap saya akan bahagia di sini!
+I hope I'll be happy here!
 [hint_mind_remain_time]"
 hint_mind_night_murder,"[hint_mind_caption]
-Saya membunuh seseorang saat mereka tidur... Itu keji, saya tahu!
+I killed a person in their sleep... It's despicable, I know!
 
-Reason: Melakukan pembunuhan keji di malam hari.
+Reason: Committed a wicked murder at night.
 [hint_mind_remain_time]"
 hint_mind_no_salary,"[hint_mind_caption]
-Saya butuh uang saya!
+I need my money!
 [hint_mind_remain_time]"
 hint_mind_pain,"[hint_mind_caption]
-Aaaah! Sakit!
+Aaaah! It hurts!
 [hint_mind_remain_time]"
 hint_mind_personality_blockhead,"[hint_mind_caption]
 Ooh! Eh? Haha!
 
-Reason: Sifat karakter - Kegembiraan pada hal konyol.
+Reason: Character trait - Joy of silliness.
 
 "
 hint_mind_personality_bloodthirsty_fight,"[hint_mind_caption]
-Apa yang lebih baik daripada pertarungan yang bagus?
+What could be better than a good fight?
 
-Alasan: Sifat karakter - Pencita Darah.
+Reason: Character trait - Bloodthirsty.
 [hint_mind_remain_time]"
 hint_mind_personality_bloodthirsty_saw_fight,"[hint_mind_caption]
-Saya melihat darah mengalir... Oh ya, itu gemilang!
+I saw the blood spill... Oh yes, it was glorious!
 
-Alasan: Sifat karakter - Pencita Darah.
+Reason: Character trait - Bloodthirsty.
 [hint_mind_remain_time]"
 hint_mind_personality_greedy,"[hint_mind_caption]
-Saya yang terkaya di keluarga, dan tak ada yang lebih baik dari perasaan ini!
+I'm the richest in the family, and there's nothing better than this feeling!
 
-Alasan: Memiliki sifat Rakus dan memiliki <hint=hint_resource_rune>Cincin Suci</hint> terbanyak di antara anggota keluarga.
+Reason: Has the Greedy trait and owns the most <hint=hint_resource_rune>Holy Rings</hint> among the family members.
 [hint_mind_remain_time]"
 hint_mind_quality_of_life_high,"[hint_mind_caption]
-Saya senang hidup dalam kelimpahan! Kota ini adalah yang terbaik di Bumi!
+I am happy to live in abundance! This city is the best on Earth!
 
-Alasan: <hint=hint_rich>kekayaan material</hint>."
+Reason: <hint=hint_rich>Material wealth</hint>."
 hint_mind_religious_pain,"[hint_mind_caption]
-Saya tahu, Holy Sophia mencintaiku! Rasa sakit ini adalah berkahnya!
+I know, Holy Sophia loves me! This pain is her blessing!
 
-Alasan: <hint=hint_persons_fanatic>Fanatik agama</hint>."
+Reason: <hint=hint_persons_fanatic>Religious fanatic</hint>."
 hint_mind_sex_bribe_coercion_dummy,"[hint_mind_caption]
-Ini tidak layak untuk seorang tuan...
+This is unworthy of a lord...
 
-Alasan: Hubungan seks dengan petani.
+Reason: Sex with a peasant.
 [hint_mind_remain_time]"
 hint_mind_sex_bribe_intimate,"[hint_mind_caption]
-Saya tahu {name} menentang ini!
+I know {name} was against this!
 
-Alasan: Orang dekat dipaksa berhubungan seks.
+Reason: Close one was coerced into sex.
 [hint_mind_remain_time]"
 hint_mind_sex_bribe_slave,"[hint_mind_caption]
-Tapi sekarang ada cukup uang untuk waktu yang lama...
+But now there's enough money for a long time...
 [hint_mind_remain_time]"
 hint_mind_sex_coercion_fail,"[hint_mind_caption]
-Itu sakit, tapi kehormatanku terjaga!
+It hurts, but my honor is preserved!
 [hint_mind_remain_time]"
 hint_mind_sex_coercion_success,"[hint_mind_caption]
-Apa yang bisa saya lakukan terhadap kekerasan?
+What could I have done against violence?
 [hint_mind_remain_time]"
 hint_mind_sex_orgasm,"[hint_mind_caption]
-Fiuh... Itu tadi sesuatu!
+Phew... That was something!
 [hint_mind_remain_time]"
 hint_mind_sick_was_visit,"[hint_mind_caption]
-Ketika saya <hint=hint_sick>sakit</hint>, kata-kata simpati apa pun membantu...
+When I'm <hint=hint_sick>sick</hint>, any sympathetic word helps...
 [hint_mind_remain_time]"
 hint_mind_slight,"[hint_mind_caption]
-{name} berpura-pura saya tidak ada! Itu sangat tidak menyenangkan!
+{name} is pretending I don't exist! It's so unpleasant!
 [hint_mind_remain_time]"
 hint_mind_starvation,"[hint_mind_caption]
-Saya belum melihat makanan apa pun selama beberapa hari... Berapa lama lagi saya bisa bertahan sebelum mati?
+I haven't seen any food for several days... How much longer can I hold on before I die?
 
-Alasan: Tidak makan untuk waktu yang lama.
+Reason: Not eating for a long time.
 [hint_mind_remain_time]"
 hint_mind_terror,"[hint_mind_caption]
-Saya takut saya yang berikutnya!
+I'm afraid I'll be next!
 
-Alasan: <hint=hint_terror>teror</hint> di antara kelas populasi ini.
+Reason: <hint=hint_terror>terror</hint> among this class of population.
 [hint_mind_remain_time]"
 hint_mind_toothache,"[hint_mind_caption]
-Sial, itu sangat sakit!"
+Damn, it hurts so much!"
 hint_mind_try_to_posion_me,"[hint_mind_caption]
-{name} mencoba meracuni saya! Untungnya, mereka tampaknya tidak tahu apa yang mereka lakukan!
+{name} attempted to poison me! Luckily, they don't seem to know what they're doing!
 
-Alasan: Upaya gagal untuk meracuni karakter.
+Reason: Failed attempt to poison the character.
 [hint_mind_remain_time]"
 hint_mind_ugly_scars,"[hint_mind_caption]
-Saya tahu saya jelek..."
+I know I'm ugly..."
 hint_mind_paramour,"[hint_mind_caption]
-Senang memiliki orang yang dicintai!"
+It's nice to have a beloved person!"
 hint_mind_ex_paramour,"[hint_mind_caption]
-Kami tidak lagi bersama.
+We are no longer together.
 [hint_mind_remain_time]"
 hint_mind_love,"[hint_mind_caption]
-{name} adalah arti hidupku!"
+{name} is the meaning of my life!"
 hint_mind_refuse_flirt_full,"[hint_mind_caption]
-{name}, cinta hidupku, menolak pergi kencan denganku! Perasaanku hancur!
+{name}, the love of my life, refuses to go on a date with me! My feelings are crushed!
 [hint_mind_remain_time]"
 hint_mind_refuse_flirt,"[hint_mind_caption]
-Sebenarnya aku juga tidak terlalu ingin! {name} akan menyesalinya!
+Didn't really want to anyway! {name} will regret it!
 [hint_mind_remain_time]"
 hint_mind_flirt,"[hint_mind_caption]
-{name} akan berbisik namaku hari ini! Oh ya!"
+{name} will be whispering my name today! Oh yes!"
 hint_mind_convicted_of_adultery,"[hint_mind_caption]
-{name}, cintaku! Bagaimana ini mungkin?!
+{name}, my love! How is this possible?!
 
-Alasan: Pasangan selingkuh dengan karakter dengan {soul_uuid_other}, dan karakter mengetahuinya.
+Reason: Partner is cheating on the character with {soul_uuid_other}, and the character found out about it.
 [hint_mind_remain_time]"
 hint_mind_adultery,"[hint_mind_caption]
-Aku tahu, aku monster... {name}, maukah kau memaafkanku jika aku mengaku?
+I know, I'm a monster... {name}, will you forgive me if I confess?
 
-Alasan: Berselingkuh dengan pasangan dengan {soul_uuid_other}.
+Reason: Cheated on partner with {soul_uuid_other}.
 [hint_mind_remain_time]"
 hint_mind_suspicion_of_adultery,"[hint_mind_caption]
-Aku merasa {name} berselingkuh denganku... Tidak, aku tidak bisa menghadapi ini!
+I feel like {name} is cheating on me... No, I can't handle this!
 
-Alasan: Pasangan selingkuh dengan karakter dengan {soul_uuid_other}, tapi karakter tidak punya bukti.
+Reason: Partner is cheating on the character with {soul_uuid_other}, but the character has no evidence.
 [hint_mind_remain_time]"
 hint_mind_restrictions,"[hint_mind_caption]
-Tidak ada yang berhak memberitahuku apa yang boleh dan apa yang tidak!
+No one has the right to tell me what is allowed and what is not!
 
-Alasan: Pembatasan di <hint=hint_dynasty_menu>Dynasty menu</hint>."
+Reason: Restriction in the <hint=hint_dynasty_menu>Dynasty menu</hint>."
 hint_mind_want_to_breakout,"[hint_mind_caption]
-Aku berharap bisa bertemu mereka semua lagi! Tapi sepertinya aku harus menunggu...
+I wish I could see them all again! But it seems I'll have to wait...
 [hint_mind_remain_time]"
 hint_mind_breakout_happy,"[hint_mind_caption]
-Hanya mantan Narapidana yang mengerti perasaan ini!
+Only a former prisoner understands this feeling!
 [hint_mind_remain_time]"
 hint_mind_child_born,"[hint_mind_caption]
-Saya telah memulai kehidupan baru!
+I've started a new life!
 [hint_mind_remain_time]"
 hint_mind_meat_eating,"[hint_mind_caption]
-Oh, enak sekali!
+Oh, delicious!
 
-Alasan: Mengonsumsi <hint=hint_resource_meat>Daging</hint>.
+Reason: Consumed <hint=hint_resource_meat>Meat</hint>.
 [hint_mind_remain_time]"
 hint_mind_swede_eating,"[hint_mind_caption]
-Hanya babi yang bisa mengunyah dan menelan ini!
+Only pigs can chew and swallow this!
 
-Alasan: Mengonsumsi <hint=hint_resource_rutabaga>Rutabaga</hint>.
+Reason: Consumed <hint=hint_resource_rutabaga>Rutabaga</hint>.
 [hint_mind_remain_time]"
 hint_mind_ale_drinking,"[hint_mind_caption]
-Rasa di bibir saya seolah-olah malaikat mencium saya di musim semi! Dan sedikit aroma beri liar...
+The taste on my lips is as if an angel kissed me in spring! And a hint of wild berries...
 
-Alasan: mengonsumsi <hint=hint_resource_ale>Ale</hint> yang lezat.
+Reason: consumed flavorful <hint=hint_resource_ale>Ale</hint>.
 [hint_mind_remain_time]"
 hint_mind_moonshine_drinking,"[hint_mind_caption]
-Minuman yang kuat! Meskipun rasanya cukup biasa saja...
+Potent stuff! Though the taste is pretty mediocre...
 
-Alasan: mengonsumsi <hint=hint_resource_moonshine>Moonshine</hint>.
+Reason: consumed <hint=hint_resource_moonshine>Moonshine</hint>.
 [hint_mind_remain_time]"
 hint_mind_desire_success,"[hint_mind_caption]
-Saya diliputi rasa puas!
+I am overwhelmed with a sense of satisfaction!
 
-Alasan: Memenuhi <hint=hint_desire>keinginan</hint>.
+Reason: Fulfilled <hint=hint_desire>desire</hint>.
 [hint_mind_remain_time]"
 hint_mind_anguished_desire,"[hint_mind_caption]
-Saya harus melakukannya dengan segala cara!
+I must do it at all costs!
 
-Alasan: <hint=hint_desire_obsession>obsesi</hint>.
+Reason: <hint=hint_desire_obsession>obsession</hint>.
 [hint_mind_remain_time]"
 hint_mind_obsession_desire,"[hint_mind_caption]
-Sepanjang hari, itu satu-satunya yang bisa saya pikirkan. Saya akan gila jika tidak mewujudkan rencana saya!
+All day long, it's the only thing I can think about. I'll go crazy if I don't fulfill my plan!
 
-Alasan: <hint=hint_desire_obsession>obsesi</hint> yang intens."
+Reason: Intense <hint=hint_desire_obsession>obsession</hint>."
 hint_mind_loyalty_low,"[hint_mind_caption]
-Saya merasa tidak dihargai di sini... Itu menyiksa saya.
+I feel like I'm not appreciated here... It's tormenting me.
 
-Alasan: Rendah <hint=hint_loyality>kesetiaan</hint>.
+Reason: Low <hint=hint_loyality>loyalty</hint>.
 
 "
 hint_mind_rescued_from_captivity,"[hint_mind_caption]
-Saya pikir itu akhir, tapi sekarang saya bebas!
+I thought it was the end, but now I'm free!
 [hint_mind_remain_time]"
 hint_mind_patrolling_fatigue,"[hint_mind_caption]
-Lelah dari patroli
+Tired from patrolling
 
-Saya telah berada di <hint=hint_persons_guard>patroli</hint> sepanjang malam, dan saya sangat lelah!
+I've been on <hint=hint_persons_guard>patrol</hint> all night, and I'm very tired!
 
-<b>Petunjuk:</b> Prajurit ditugaskan dan diganti dalam patroli secara otomatis. Untuk mengurangi beban keseluruhan, kurangi jumlah penjaga di menu <hint=hint_bld_patrol_sign>Bendera Patroli</hint>.
+<b>Hint:</b> Warriors are assigned and changed in patrols automatically. To reduce the overall load, decrease the number of guards in the <hint=hint_bld_patrol_sign>Patrol Banner</hint> menu.
 [hint_mind_remain_time]"
 hint_mind_fear_of_death,"[hint_mind_caption]
-Saya hanya seorang petani, bukan prajurit! Saya akan dibunuh dalam pertempuran pertama!
+I'm just a peasant, not a warrior! I'll be killed in the very first battle!
 [hint_mind_remain_time]"
 hint_mind_cleaned_from_sin,"[hint_mind_caption]
-Uskup telah memaafkan dosa-dosa saya, dan saya sekali lagi suci di hadapan dewi!
+The bishop has absolved me of my sins, and I am once again pure before the goddess!
 
-Terima kasih, Sophia Suci!"
+Thank you, Holy Sophia!"
 hint_mind_no_weapons,"[hint_mind_caption]
-Masuk ke pertempuran tanpa senjata adalah kegilaan!"
+Going into battle without a weapon is madness!"
 hint_sin_shame,"[hint_mind_caption]
-Saya merasa sangat malu atas dosa-dosa saya di hadapan Ibu Sophia!
+I feel so ashamed of my sins before Mother Sophia!
 
-<b>Petunjuk:</b> Ber اعترaf kepada <hint=hint_bishop>uskup</hint> untuk memaafkan dosa-dosa Anda."
+<b>Hint:</b> Confess to the <hint=hint_bishop>bishop</hint> to have your sins forgiven."
 hint_mind_no_rings,"[hint_mind_caption]
-Saya sama sekali tidak punya apa-apa untuk dipasang di jari-jari saya! Saya bisa merasakan tatapan merendahkan itu!
+I have absolutely nothing to put on my fingers! I can just feel those contemptuous glances!
 
-Alasan: Kurangnya Cincin Suci.
+Reason: Lack of Holy Rings.
 
-<b>Petunjuk:</b> Minta raja memberikan mereka beberapa cincin."
+<b>Hint:</b> Ask the king to give them some rings."
 hint_bandits_profit_premonition,"[hint_mind_caption]
-Ada sesuatu untuk dirayakan di tempat ini!"
+There is something to feast on in this place!"
 hint_mind_king_greetings,"[hint_mind_caption]
-Selalu senang melihat wajah baru!"
+Always happy to see a new face!"
 hint_mind_pregnancy_miscarriage,"[hint_mind_caption]
-Berat, tapi saya tahu anak saya di surga, melayani Sophia Suci!"
+It's tough, but I know that my child is in heaven, serving Holy Sophia!"
 hint_mind_have_friend,"[hint_mind_caption]
-Sungguh baik memiliki seseorang untuk diandalkan!"
+How good it is to have someone to rely on!"
 hint_mind_few_fanatics,"[hint_mind_caption]
-Iman tidak cukup kuat di kota ini... Apa yang bisa dilakukan untuk membuat pengikut yang bersemangat bertambah?"
+Faith is not strong enough in this city... What can be done to make fervent followers increase?"
 hint_mind_separate_living_place,"[hint_mind_caption]
-Sungguh menyenangkan bahwa saya tidak lagi mendengar dengkuran tetangga dan bau makanan mereka!"
+How good it is that I will no longer hear the snoring of neighbors and the smell of their food!"
 hint_mind_captive,"[hint_mind_caption]
-Masa depan saya dalam penahanan tidak menjanjikan apa-apa yang baik..."
+My future in captivity doesn't promise anything good..."
 hint_mind_happy_of_stupidity,"[hint_mind_caption]
 Bam-pa-ram-pam-pam!
 Bam-bam!"
 hint_mind_disinherited,"[hint_mind_caption]
-Saya adalah ahli waris yang sah! Saya!"
+I am the rightful heir! Me!"
 hint_mind_heir_became,"[hint_mind_caption]
-Di lubuk hati, saya selalu tahu bahwa saya layak mendapatkan ini!"
+Deep down, I always knew that I deserved this!"
 hint_mind_my_king_is_saint,"[hint_mind_caption]
-Sophia Suci telah memberkahi kota kita!"
+Holy Sophia has blessed our city!"
 hint_mind_not_enough_equipment,"[hint_mind_caption]
-Tanpa senjata, saya merasa seperti tanpa pakaian!"
+Without weapons, I feel like I'm without clothes!"
 hint_mind_swede_typh,"[hint_mind_caption]
-Sakit perut parah!
+Severe abdominal pain!
 
-Sophia Suci, aku mohon, bantulah aku bertahan hidup!
+Holy Sophia, I beg you, help me survive!
 
-<b>Hint:</b> Pada tab utama, di bagian Sifat, kamu bisa melihat tahap saat ini dari penyakit tersebut."
+<b>Hint:</b> On the main tab, in the Traits section, you can see the current stage of the disease."
 hint_mind_commander_stay_in_back,"[hint_mind_caption]
-Komandan tinggal di belakang dan tidak mempertaruhkan nyawanya bersama kami!"
+The commander stays behind and doesn't risk his life with us!"
 hint_mind_criminal_intimidated,"[hint_mind_caption]
-Lebih baik jangan melakukan apa pun yang melanggar hukum... Setidaknya, untuk saat ini."
+It's better not to do anything illegal... At least, for now."
 hint_mind_fanatic_service_skip,"[hint_mind_caption]
-Saya tidak bisa menghadiri khotbah.... Sungguh mengerikan! Saya harap kuil tambahan segera dibangun!
+I couldn't make it to the sermon.... It's just awful! I hope additional temples are built soon!
 
-Alasan: <hint=hint_persons_fanatic>Fanatik Agama</hint>."
+Reason: <hint=hint_persons_fanatic>Religious fanatic</hint>."
 hint_mind_got_title,"[hint_mind_caption]
-Saya telah menjadi penguasa sejati Norland!"
+I have become a true lord of Norland!"
 hint_mind_friend_lost_title,"[hint_mind_caption]
-Raja telah mencabut gelar teman saya... Apa yang akan terjadi pada mereka sekarang?"
+The king has stripped my friend of lordship... What will happen to them now?"
 hint_mind_sorrow_for_king,"[hint_mind_caption]
-Penguasa kita telah meninggal dunia! Apa yang akan menjadi nasib kita sekarang? Duka, duka!
+Our ruler has passed away! What will become of us now? Grief, grief!
 
-Alasan: <hint=hint_loyalist>Loyalis</hint>."
+Reason: <hint=hint_loyalist>Loyalist</hint>."
 hint_mind_matriarch_dont_love_king,"[hint_mind_caption]
-Kata orang, Matriark tidak mendukung raja kita... Hanya taubat yang bisa membawanya kembali ke dalam lipatan Gereja Suci!
+They say the Matriarch doesn't favor our king... Only repentance can bring him back into the fold of the Holy Church!
 
-Alasan: <hint=hint_persons_fanatic>Fanatik Agama</hint>."
+Reason: <hint=hint_persons_fanatic>Religious fanatic</hint>."
 hint_mind_prestiged_best,"[hint_mind_caption]
-Saya bahagia menjadi anggota keluarga bangsawan yang begitu dihormati dan bergengsi!
+I am happy to be a member of such a respected and prestigious noble family!
 
-Alasan: Keluarga Anda memiliki peringkat <hint=hint_prestige>presti</hint> tertinggi di antara tetangga."
+Reason: Your family has the highest <hint=hint_prestige>prestige</hint> rating among neighbors."
 hint_mind_prestiged_worst,"[hint_mind_caption]
-Tidak ada yang menghormati keluarga kita... Kita hidup di lubang mengerikan. Sangat menindas!
+No one respects our family... We live in a wretched hole. It's very oppressive!
 
-Alasan: Keluarga Anda memiliki peringkat <hint=hint_prestige>presti</hint> terendah di antara tetangga."
+Reason: Your family has the lowest <hint=hint_prestige>prestige</hint> rating among neighbors."
 hint_mind_successful_king,"[hint_mind_caption]
-Raja kita selalu mendapatkan apa yang diinginkannya! Semua tetangga kita iri kepada kita!
+Our king always gets what he wants! All our neighbors envy us!
 
-Alasan: Raja telah memenuhi ambisinya."
+Reason: The king fulfilled his ambitions."
 hint_mind_spirit_of_freedom,"[hint_mind_caption]
-Setelah bertahun-tahun kebebasan di hutan, hidup di barak sangat menindas!
+After many years of freedom in the forest, life in the barracks is oppressive!
 
-Alasan: Seorang mantan perampok hutan yang bertugas di tentara."
+Reason: A former forest bandit serving in the army."
 hint_mind_under_culture_terror,"[hint_mind_caption]
-Orang-orang dari budaya saya sedang dibantai! Untuk apa?
+People of my culture are being annihilated! For what?
 
-Alasan: Teror terhadap budaya ini telah dimulai."
+Reason: Terror against this culture has begun."
 hint_mind_best_culture_gwelts,"[hint_mind_caption]
-Raja kita memahami seni perang! Sebagai Jawa sejati, saya bangga padanya!
+Our king understands the art of war! As a true Kaiden, I am proud of him!
 
-Alasan: Nilai-nilai <hint=hint_culture_gwelts>Jawa</hint>."
+Reason: Values of the <hint=hint_culture_gwelts>Kaiden</hint>."
 hint_mind_best_culture_tanaia,"[hint_mind_caption]
-Matriark menganggap kota kita saleh... Apa yang lebih baik untuk jiwa seorang Madura sejati?
+The Matriarch considers our city righteous... What could be better for the soul of a true Tanayan?
 
-Alasan: Nilai-nilai <hint=hint_culture_tanaya>Madura</hint>."
+Reason: Values of the <hint=hint_culture_tanaya>Tanaya</hint>."
 hint_mind_best_culture_makha,"[hint_mind_caption]
-Hidup di kota paling bergengsi, dengan iri hati dari tetangga... Sebagai Dayak, saya tak bisa menahan kegembiraan akan hal ini.
+Living in the most prestigious city, with envy from neighbors... As a Makha, I can't help but rejoice in this.
 
-Alasan: Nilai-nilai <hint=hint_culture_makha>Dayak</hint>."
+Reason: Values of the <hint=hint_culture_makha>Makha</hint>."
 hint_mind_best_culture_voruns,"[hint_mind_caption]
-Begitu banyak orang di sekitar... Hati setiap Sunda dipenuhi sukacita dari ini!
+So many people around... The heart of every Varn is filled with joy from this!
 
-Alasan: Nilai-nilai <hint=hint_culture_voruns>Sunda</hint>."
+Reason: Values of the <hint=hint_culture_voruns>Varns</hint>."
 hint_worst_culture_gwelts,"[hint_mind_caption]
-Pasukan kita begitu kecil sehingga sekelompok Tahanan bisa mengalahkannya! Sungguh aib!
+Our army is so small that a bunch of prisoners could defeat it! What a disgrace!
  
-Alasan: Nilai-nilai <hint=hint_culture_gwelts>Jawa</hint>."
+Reason: Values of the <hint=hint_culture_gwelts>Kaiden</hint>."
 hint_worst_culture_tanaya,"[hint_mind_caption]
-Begitu banyak orang berdosa di kota ini, sehingga Matriark tidak begitu mencintai kami? Ini sangat mengkhawatirkan...
+So many sinners in this city, that the Matriarch doesn't love us so much? It's very concerning...
 
-Alasan: Nilai-nilai <hint=hint_culture_tanaya>Madura</hint>."
+Reason: Values of the <hint=hint_culture_tanaya>Tanaya</hint>."
 hint_worst_culture_makha,"[hint_mind_caption]
-Ini bukan kota, melainkan kampung pinggiran provinsi. Saya malu mengatakan di mana saya tinggal.
+This is not a city, but a provincial backwater. I'm ashamed to say where I live.
 
-Alasan: nilai-nilai <hint=hint_culture_makha>Dayak</hint>"
+Reason: values of <hint=hint_culture_makha>Makha</hint>"
 hint_worst_culture_voruns,"[hint_mind_caption]
-Kami begitu sedikit. Apakah raja tidak mengerti ke mana ini membawa?
+There are so few of us. Doesn't the king understand where this leads?
 
-Alasan: Nilai-nilai <hint=hint_culture_voruns>Sunda</hint>."
+Reason: Values of the <hint=hint_culture_voruns>Varns</hint>."
 hint_king_other_culture,"[hint_mind_caption]
-Bagaimana seseorang bisa tidur tenang ketika mereka berkuasa?
+How can one sleep peacefully when they are in power?
 
-Alasan: Penguasa termasuk dalam budaya yang berbeda."
+Reason: The ruler belongs to a different culture."
 hint_mind_fight_for_freedom,"[hint_mind_caption]
 For freedom!!!"
 hint_mind_too_many_xeno_culture,"[hint_mind_caption]
@@ -11824,50 +11824,50 @@ $ {soul_uuid_heir} will initiate a rebellion, but only {heir_rebellion_soldiers_
 <b>Cost:</b> <hint=hint_resource_gold>{heir_bribe_cost}</hint>"
 hint_unavailable_gold,"Not Enough Gold
 Requires <hint=hint_resource_gold>{count}</hint>."
-hint_production_unavailable_task_already_exists,"Tugas sudah dibuat  
-Sebuah tugas untuk memproduksi sumber daya ini sudah dibuat."
-hint_action_take_gold,"Ambil Emas
-Penguasa Anda akan mengambil <hint=hint_resource_gold>{count}</hint> dari perbendaharaan ke sakunya sendiri.
+hint_production_unavailable_task_already_exists,"Task already created  
+A task to produce this resource has already been created."
+hint_action_take_gold,"Take Gold
+Your ruler will take <hint=hint_resource_gold>{count}</hint> from the treasury into their own pocket.
 
-<b>Akibatnya:</b>
-$ Mereka akan mendapatkan pikiran positif <green>{mind}</green>."
-hint_action_put_gold,"Setor Emas  
-Penguasa Anda akan menyetor <hint=hint_resource_gold>{count}</hint> ke perbendaharaan dari sakunya sendiri.
+<b>As a result:</b>
+$ They will gain a positive thought <green>{mind}</green>."
+hint_action_put_gold,"Deposit Gold  
+Your ruler will deposit <hint=hint_resource_gold>{count}</hint> into the treasury from their own pocket.
 
-<b>Akibatnya:</b>
-$ Mereka akan mendapatkan pikiran negatif <red>{mind}</red>."
-hint_action_take_ring,"Ambil Cincin Suci
-Penguasa Anda akan mengambil <hint=hint_resource_rune>{count}</hint> dari perbendaharaan ke sakunya sendiri.
+<b>As a result:</b>
+$ They will gain a negative thought <red>{mind}</red>."
+hint_action_take_ring,"Take Holy Rings
+Your ruler will take <hint=hint_resource_rune>{count}</hint> from the treasury into their own pocket.
 
-<b>Akibatnya:</b>
-$ Mereka akan mendapatkan pikiran positif <green>{mind}</green>."
-hint_action_put_ring,"Setor Cincin Suci
-Penguasa Anda akan menyetor <hint=hint_resource_rune>{count}</hint> ke perbendaharaan dari sakunya sendiri.
+<b>As a result:</b>
+$ They will gain a positive thought <green>{mind}</green>."
+hint_action_put_ring,"Deposit Holy Rings
+Your ruler will deposit <hint=hint_resource_rune>{count}</hint> into the treasury from their own pocket.
 
-<b>Akibatnya:</b>
-$ Mereka akan mendapatkan pikiran negatif <red>{mind}</red>."
+<b>As a result:</b>
+$ They will gain a negative thought <red>{mind}</red>."
 hint_advisor_food_not_distributed,"[hint_advisor_caption]  
-Jenis karakter baru, {group_name}, telah muncul di kota. Namun, mereka tidak menerima <hint=hint_food>makanan</hint> dan segera akan kelaparan.  
+A new type of character, {group_name}, has appeared in the city. However, they are not receiving <hint=hint_food>food</hint> and will soon begin to starve.  
 
-$ Buka <b>Menu Ekonomi</b> dan atur distribusi makanan harian,  
-$ Atau Anda dapat mengonfigurasi distribusi <hint=hint_resource_gold>Emas</hint> di sana dan secara bersamaan atur penjualan makanan di pasar lokal (Opsi ini tidak tersedia untuk tahanan dan memerlukan pengetahuan ""Upah"".)"
+$ Open the <b>Economy Menu</b> and set up a daily food distribution,  
+$ Or you can configure <hint=hint_resource_gold>Gold</hint> distribution there and simultaneously set up food sales on the local market (This option is not available for prisoners and requires the ""Wages"" knowledge.)"
 hint_advisor_food_not_for_sale,"[hint_advisor_caption]  
-{group_name} tidak dapat membeli <hint=hint_food>Makanan</hint>, meskipun mereka menerima <hint=hint_resource_gold>Emas</hint> setiap hari.  
+{group_name} cannot buy <hint=hint_food>Food</hint>, even though they receive <hint=hint_resource_gold>Gold</hint> every day.  
 
-$ Konfigurasi penjualan makanan dan harga di pasar lokal di <b>Menu Ekonomi</b> sehingga upah mereka cukup untuk membeli bekal,  
-$ Atau Anda dapat dengan sederhana mengatur distribusi makanan harian di menu yang sama."
+$ Configure food sales and prices on local markets in the <b>Economy Menu</b> so their wages are sufficient to purchase provisions,  
+$ Or you can simply set up daily food distribution in the same menu."
 hint_mind_take_gold,"[hint_mind_caption]
-Pencapaian saya tidak ada artinya dibandingkan dengan hadiah kecil ini!
+My achievements are nothing compared to this small reward!
 
-Alasan: Karakter tersebut mengambil <hint=hint_resource_gold>Emas</hint> dari perbendaharaan provinsi ke sakunya sendiri."
+Reason: The character took <hint=hint_resource_gold>Gold</hint> from the province's treasury into their own pocket."
 hint_mind_put_gold,"[hint_mind_caption]
-Ya, saya tahu, saya seharusnya menyumbangkan emas ini ke kota! Namun...
+Yes, I know, I should have donated this gold to the city! And yet...
 
-Alasan: Karakter tersebut memberikan <hint=hint_resource_gold>Emas</hint> ke perbendaharaan provinsi dari sakunya sendiri."
+Reason: The character gave <hint=hint_resource_gold>Gold</hint> to the province's treasury from their own pocket."
 hint_mind_take_ring,"[hint_mind_caption]
-Hanya beberapa Cincin sebagai hadiah sederhana atas usaha saya... Siapa yang akan menuduh saya tamak?
+Just a few Rings as a modest reward for my efforts... Who would accuse me of greed?
 
-Alasan: Karakter tersebut mengambil <hint=hint_resource_rune>Cincin Suci</hint> dari perbendaharaan provinsi ke sakunya sendiri."
+Reason: The character took <hint=hint_resource_rune>Holy Rings</hint> from the province's treasury into their own pocket."
 hint_mind_put_ring,"[hint_mind_caption]
 It was a necessary measure... But couldn’t they have thought to obtain these Rings somewhere else?
 

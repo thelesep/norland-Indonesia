@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nI want sex. Yes, I want sex!\n\nReason: <hint=hint_need_sex>Need for sex</hint>.",
-  "[hint_mind_caption]\nAnyone will do! I can't take it anymore!\n\nReason: <hint=hint_need_sex>Need for sex</hint>.",
-  "[hint_mind_caption]\nMy parents don't notice me... Maybe they're too busy.\n\nReason: <hint=hint_need_care>Need for care</hint>.",
-  "[hint_mind_caption]\nWhy don't Mom and Dad talk to me? I feel so lonely!\n\nReason: <hint=hint_need_care>Need for care</hint>.",
-  "[hint_mind_caption]\nMy parents hate me! What have I done wrong?\n\nReason: <hint=hint_need_care>Need for care</hint>.",
-  "[hint_mind_caption]\nI hope I'll be happy here!\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nI killed a person in their sleep... It's despicable, I know!\n\nReason: Committed a wicked murder at night.\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nI need my money!\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nAaaah! It hurts!\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nOoh! Eh? Haha!\n\nReason: Character trait - Joy of silliness.\n\n"
+  "[hint_mind_caption]\nSaya ingin bercinta. Ya, saya ingin bercinta!\n\nReason: <hint=hint_need_sex>Kebutuhan Seksual</hint>.",
+  "[hint_mind_caption]\nSembarang orang saja! Saya tak tahan lagi!\n\nReason: <hint=hint_need_sex>Kebutuhan Seksual</hint>.",
+  "[hint_mind_caption]\nOrang tua saya tidak memperhatikan saya... Mungkin mereka terlalu sibuk.\n\nReason: <hint=hint_need_care>Kebutuhan Perawatan</hint>.",
+  "[hint_mind_caption]\nMengapa Bunda dan Ayah tidak berbicara denganku? Aku merasa sangat kesepian!\n\nReason: <hint=hint_need_care>Kebutuhan Perawatan</hint>.",
+  "[hint_mind_caption]\nOrang tua saya membenciku! Apa yang telah kulakukan salah?\n\nReason: <hint=hint_need_care>Kebutuhan Perawatan</hint>.",
+  "[hint_mind_caption]\nSaya harap saya akan bahagia di sini!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya membunuh seseorang saat mereka tidur... Itu keji, saya tahu!\n\nReason: Melakukan pembunuhan keji di malam hari.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya butuh uang saya!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAaaah! Sakit!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nOoh! Eh? Haha!\n\nReason: Sifat karakter - Kegembiraan pada hal konyol.\n\n"
 ]

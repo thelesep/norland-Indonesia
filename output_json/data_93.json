@@ -1,12 +1,12 @@
 [
-  "Insult\nThe character insulted someone. It is unworthy behavior.\n\nThe sin will be forgotten in: {time}.",
-  "Sin\nThe character has <hint=hint_sin>sinned</hint>, and now their conscience torments them.\n\n$ Maximum <hint=hint_need_piety>piety</hint> is limited to {X} until the sin is absolved.\n$ Sin can be absolved through <hint=hint_confession>confession</hint> in the <hint=hint_bld_temple>Temple</hint>.\n\nCurrent <hint=hint_sin>sins</hint> on the character's conscience:\n{list}\n\nSins will be forgotten in: {time}.",
+  "Penghinaan\nKarakter menghina seseorang. Ini adalah perilaku yang tidak pantas.\n\nDosa tersebut akan dilupakan dalam: {time}.",
+  "Dosa\nKarakter telah <hint=hint_sin>berdosa</hint>, dan sekarang hati nuraninya menyiksa mereka.\n\n$ Maksimum <hint=hint_need_piety>kesalehan</hint> dibatasi hingga {X} hingga dosa tersebut diampuni.\n$ Dosa dapat diampuni melalui <hint=hint_confession>pengakuan dosa</hint> di <hint=hint_bld_temple>Kuil</hint>.\n\nDosa <hint=hint_sin>dosa</hint> saat ini di hati nurani karakter:\n{list}\n\nDosa akan dilupakan dalam: {time}.",
   "hint_persons_criminal",
   "hint_persons_cuthroat",
-  "Fight\nThe character got into a fight and feels guilty about it.\n\nThe sin will be forgotten in: {time}",
-  "Immoral sex\nThe character engaged in paid sexual activities. This is morally wrong.\n\nThe sin will be forgotten in: {time}",
-  "Bound\nThe character is bound and awaits their fate.\n\nSoon, they will become a <hint=hint_persons_slave>prisoner</hint>.",
-  "Concussion\nDue to a blow to the head, the character has lost their sense of spatial orientation.\n\n$ <hint=hint_skill_combat>Combat skill</hint> is reduced by half.\n$ Movement speed is decreased.\n\nIt will end in: {time}.",
-  "Severe hunger\nWhile it is not dangerous at the moment, it can soon lead to emaciation and eventually death from starvation.\n\nEmaciation in: {time}.",
-  "Stunned\nThe character is stunned as a result of a blow. After regaining consciousness, they will be slowed down for some time.\n\nRegains consciousness in: {time}."
+  "Perkelahian\nKarakter terlibat dalam perkelahian dan merasa bersalah karenanya.\n\nDosa tersebut akan dilupakan dalam: {time}",
+  "Seks Tidak Bermoral\nKarakter terlibat dalam aktivitas seksual berbayar. Ini salah secara moral.\n\nDosa tersebut akan dilupakan dalam: {time}",
+  "Terikat\nKarakter terikat dan menunggu nasibnya.\n\nSegera, mereka akan menjadi seorang <hint=hint_persons_slave>narapidana</hint>.",
+  "Geger Otak\nAkibat pukulan ke kepala, karakter kehilangan orientasi spasialnya.\n\n$ Keterampilan <hint=hint_skill_combat>Tempur</hint> berkurang setengah.\n$ Kecepatan gerak menurun.\n\nAkan berakhir dalam: {time}.",
+  "Lapar Parah\nMeskipun saat ini tidak berbahaya, ini bisa segera menyebabkan kurus kering dan akhirnya kematian akibat kelaparan.\n\nKurus Kering dalam: {time}.",
+  "Terpukul\nKarakter terpukul akibat pukulan. Setelah sadar kembali, mereka akan melambat untuk beberapa waktu.\n\nSadar kembali dalam: {time}."
 ]

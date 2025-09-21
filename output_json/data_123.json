@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nWhat could be better than a good fight?\n\nReason: Character trait - Bloodthirsty.\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nI saw the blood spill... Oh yes, it was glorious!\n\nReason: Character trait - Bloodthirsty.\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nI'm the richest in the family, and there's nothing better than this feeling!\n\nReason: Has the Greedy trait and owns the most <hint=hint_resource_rune>Holy Rings</hint> among the family members.\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nI am happy to live in abundance! This city is the best on Earth!\n\nReason: <hint=hint_rich>Material wealth</hint>.",
-  "[hint_mind_caption]\nI know, Holy Sophia loves me! This pain is her blessing!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
-  "[hint_mind_caption]\nThis is unworthy of a lord...\n\nReason: Sex with a peasant.\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nI know {name} was against this!\n\nReason: Close one was coerced into sex.\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nBut now there's enough money for a long time...\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nIt hurts, but my honor is preserved!\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\nWhat could I have done against violence?\n[hint_mind_remain_time]"
+  "[hint_mind_caption]\nApa yang lebih baik daripada pertarungan yang bagus?\n\nAlasan: Sifat karakter - Pencita Darah.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya melihat darah mengalir... Oh ya, itu gemilang!\n\nAlasan: Sifat karakter - Pencita Darah.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya yang terkaya di keluarga, dan tak ada yang lebih baik dari perasaan ini!\n\nAlasan: Memiliki sifat Rakus dan memiliki <hint=hint_resource_rune>Cincin Suci</hint> terbanyak di antara anggota keluarga.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya senang hidup dalam kelimpahan! Kota ini adalah yang terbaik di Bumi!\n\nAlasan: <hint=hint_rich>kekayaan material</hint>.",
+  "[hint_mind_caption]\nSaya tahu, Holy Sophia mencintaiku! Rasa sakit ini adalah berkahnya!\n\nAlasan: <hint=hint_persons_fanatic>Fanatik agama</hint>.",
+  "[hint_mind_caption]\nIni tidak layak untuk seorang tuan...\n\nAlasan: Hubungan seks dengan petani.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya tahu {name} menentang ini!\n\nAlasan: Orang dekat dipaksa berhubungan seks.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nTapi sekarang ada cukup uang untuk waktu yang lama...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nItu sakit, tapi kehormatanku terjaga!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nApa yang bisa saya lakukan terhadap kekerasan?\n[hint_mind_remain_time]"
 ]

@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nI can't work anymore! I want a drink!\n\nReason: <hint=hint_need_fun>Need for rest</hint>.\n\n<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>.",
-  "[hint_mind_caption]\nIt was fun!\n\nReason: Fully fulfilled <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\nI need to find some entertainment...\n\nReason: <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\nEverything is so tiresome. I urgently need to relax!\n\nReason: <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\nHoly Mother Sophia, bless me! Holy Mother Sophia, protect me!\n\nReason: fully fulfilled <hint=hint_need_piety>Need for piety</hint>.",
-  "[hint_mind_caption]\nMother Sophia loves me!\n\nReason: fulfilled <hint=hint_need_piety>Need for piety</hint>.",
-  "[hint_mind_caption]\nI haven't been to confession in a while... I need to repent!\n\nReason: <hint=hint_need_piety>Need for piety</hint>.",
-  "[hint_mind_caption]\nHoly Mother Sophia, forgive me for my sins!\n\nReason: <hint=hint_need_piety>Need for piety</hint>.\n\n<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone.",
-  "[hint_mind_caption]\nHoly Mother Sophia, forgive me for my sins!\n\nReason: <hint=hint_need_piety>Need for piety</hint>.\n\n<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone.",
-  "[hint_mind_caption]\nI haven't felt human warmth in a long time...\n\nReason: <hint=hint_need_sex>Need for sex</hint>."
+  "[hint_mind_caption]\nAku tidak bisa bekerja lagi! Aku ingin minum!\n\nAlasan: <hint=hint_need_fun>Kebutuhan untuk istirahat</hint>.\n\n<b>Petunjuk</b>: Pastikan karakter memiliki akses ke <hint=hint_alcohol>alkohol</hint>.",
+  "[hint_mind_caption]\nItu menyenangkan!\n\nAlasan: Kebutuhan untuk istirahat <hint=hint_need_fun>Kebutuhan untuk istirahat</hint> terpenuhi sepenuhnya.",
+  "[hint_mind_caption]\nAku perlu mencari hiburan...\n\nAlasan: <hint=hint_need_fun>Kebutuhan untuk istirahat</hint>.",
+  "[hint_mind_caption]\nSemuanya begitu melelahkan. Aku sangat perlu bersantai!\n\nAlasan: <hint=hint_need_fun>Kebutuhan untuk istirahat</hint>.",
+  "[hint_mind_caption]\nIbu Suci Sophia, berkatilah aku! Ibu Suci Sophia, lindungilah aku!\n\nAlasan: kebutuhan untuk kesalehan <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint> terpenuhi sepenuhnya.",
+  "[hint_mind_caption]\nIbu Sophia mencintaiku!\n\nAlasan: terpenuhi <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>.",
+  "[hint_mind_caption]\nAku sudah lama tidak pengakuan dosa... Aku perlu bertobat!\n\nAlasan: <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>.",
+  "[hint_mind_caption]\nIbu Suci Sophia, ampunilah dosaku!\n\nAlasan: <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>.\n\n<b>Petunjuk:</b> Bangun sebuah <hint=hint_bld_temple>Kuil</hint> dan pastikan dapat diakses oleh semua orang.",
+  "[hint_mind_caption]\nIbu Suci Sophia, ampunilah dosaku!\n\nAlasan: <hint=hint_need_piety>Kebutuhan untuk kesalehan</hint>.\n\n<b>Petunjuk:</b> Bangun sebuah <hint=hint_bld_temple>Kuil</hint> dan pastikan dapat diakses oleh semua orang.",
+  "[hint_mind_caption]\nAku sudah lama tidak merasakan kehangatan manusia...\n\nAlasan: <hint=hint_need_sex>Kebutuhan seksual</hint>."
 ]

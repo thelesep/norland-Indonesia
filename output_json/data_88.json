@@ -1,12 +1,12 @@
 [
-  "Pierced lung\n<hint=hint_wounds>Arrow wound</hint>.\n\n$ Causes <hint=hint_pain>pain</hint>.\n \n[hint_injury_remain_time]",
-  "Cut\nA small <hint=hint_wounds>wound</hint>\n\n$ Causes <hint=hint_pain>pain</hint>.\n $ Will leave a <hint=hint_scars>scar</hint> after healing.\n\n[hint_injury_remain_time]",
-  "Decapitation\nIt's a very serious matter.",
-  "Deep wound\nA dangerous <hint=hint_wounds>wound</hint>.\n\n$ Causes intense <hint=hint_pain>pain</hint>.\n$ After healing, will leave 3 <hint=hint_scars>scars</hint>.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n \n[hint_injury_remain_time]",
-  "Loss of hand\nA dangerous <hint=hint_wounds>wound</hint> and a lifelong injury.\n\n$ Causes intense <hint=hint_pain>pain</hint>.\n$ Combat <hint=hint_skill_combat>skill</hint> reduced by 50%.\n$ Character cannot perform physical work.\n$ Character cannot use a shield.\n$ Upon losing both hands, a character cannot use weapons.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]",
-  "Arm fracture\n$ Causes intense <hint=hint_pain>pain</hint>.\n$ Limits the use of weapons.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
-  "Facial injury\nPainful, but not life-threatening.\n\n$ Causes intense <hint=hint_pain>pain</hint>.\n$ After healing, it will leave 5 <hint=hint_scars>scars</hint>.\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
-  "Leg fracture\n$ Causes intense <hint=hint_pain>pain</hint>.\n$ Slows down the character's movement.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
-  "Rib fracture\n<hint=hint_pain>Painful</hint>, but not life-threatening.\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
-  "Eye loss\nA dangerous <hint=hint_wounds>wound</hint> and a lifelong injury.\n\n$ Causes severe <hint=hint_pain>pain</hint>.\n$ Decreases <hint=hint_skill_combat>Combat Skill</hint>.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]"
+  "Paru-paru Tertusuk\n<hint=hint_wounds>Luka Panah</hint>.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint>.\n \n[hint_injury_remain_time]",
+  "Potongan\nSebuah <hint=hint_wounds>luka</hint> kecil\n\n$ Menyebabkan <hint=hint_pain>sakit</hint>.\n $ Akan meninggalkan <hint=hint_scars>bekas luka</hint> setelah sembuh.\n\n[hint_injury_remain_time]",
+  "Pemotongan Kepala\nIni adalah masalah yang sangat serius.",
+  "Luka Dalam\nSebuah <hint=hint_wounds>luka</hint> yang berbahaya.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> yang intens.\n$ Setelah sembuh, akan meninggalkan 3 <hint=hint_scars>bekas luka</hint>.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n \n[hint_injury_remain_time]",
+  "Kehilangan Tangan\nSebuah <hint=hint_wounds>luka</hint> yang berbahaya dan cedera seumur hidup.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> yang intens.\n$ Keterampilan <hint=hint_skill_combat>Tempur</hint> berkurang 50%.\n$ Karakter tidak dapat melakukan pekerjaan fisik.\n$ Karakter tidak dapat menggunakan Perisai.\n$ Jika kehilangan kedua tangan, karakter tidak dapat menggunakan senjata.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]",
+  "Patah Tulang Lengan\n$ Menyebabkan <hint=hint_pain>sakit</hint> yang intens.\n$ Membatasi penggunaan senjata.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
+  "Cedera Wajah\nMenyebabkan sakit, tapi tidak mengancam jiwa.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> yang intens.\n$ Setelah sembuh, akan meninggalkan 5 <hint=hint_scars>bekas luka</hint>.\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
+  "Patah Tulang Kaki\n$ Menyebabkan <hint=hint_pain>sakit</hint> yang intens.\n$ Memperlambat gerakan karakter.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
+  "Patah Tulang Rusuk\n<hint=hint_pain>Sakit</hint>, tapi tidak mengancam jiwa.\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
+  "Kehilangan Mata\nSebuah <hint=hint_wounds>luka</hint> yang berbahaya dan cedera seumur hidup.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> yang parah.\n$ Menurunkan <hint=hint_skill_combat>Keterampilan Tempur</hint>.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]"
 ]

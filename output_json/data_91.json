@@ -1,12 +1,12 @@
 [
-  "Night assassination\nThe character broke into the victim's house at night to kill them.\n\nVictim: {soul_uuid_victim}",
+  "Pembunuhan Malam\nKarakter menyusup masuk ke rumah korban di malam hari untuk membunuh mereka.\n\nKorban: {soul_uuid_victim}",
   "[hint_night_murder]",
-  "Robbery\nOccurs at night on the street.\n\nVictim: {soul_uuid_victim}",
-  "Robbery\nTakes place at night on the street.\n\nVictim: {soul_uuid_victim}",
-  "Suspect\nThe character is suspected of committing a crime.\n\nBuild a <hint=hint_bld_scafod>Scaffold</hint> so that the <hint=hint_persons_executer>executioners</hint> can interrogate them, take them for identification, and punish them if found guilty.\n\nAn attack on this character will be considered an act of terror, as the suspect's guilt is not confirmed.",
-  "Intimidated\nThis character has been intimidated by <hint=hint_persons_executer>executioners</hint> and will be too afraid to commit crimes on the next day.",
+  "Perampokan\nTerjadi di malam hari di jalan.\n\nKorban: {soul_uuid_victim}",
+  "Perampokan\nBerlangsung di malam hari di jalan.\n\nKorban: {soul_uuid_victim}",
+  "Tersangka\nKarakter dicurigai melakukan kejahatan.\n\nBangun <hint=hint_bld_scafod>Panggung Gantung</hint> agar <hint=hint_persons_executer>algojo</hint> dapat menginterogasi mereka, membawa mereka untuk identifikasi, dan menghukum mereka jika terbukti bersalah.\n\nSerangan terhadap karakter ini akan dianggap sebagai tindakan teror, karena kesalahan tersangka belum dikonfirmasi.",
+  "Terintimidasi\nKarakter ini telah diintimidasi oleh <hint=hint_persons_executer>algojo</hint> dan akan terlalu takut untuk melakukan kejahatan pada hari berikutnya.",
   "[hint_th_speach_fatigue]",
-  "Bastard\nThis character was born as a result of a low or extramarital affair of one of the lords.\n\nIn the family, they are disliked, and they also have minimal chances of inheriting the throne.",
-  "Bastard\nThis character was born as a result of a low liaison between one of the lords and a lord from another family (or a free lord).\n\nThey are disliked in the family, and they also have minimal chances of inheriting the throne.",
-  "Homeless\nUntil you build enough housing for them, this character will suffer greatly."
+  "Anak Haram\nKarakter ini lahir sebagai hasil dari hubungan rendah atau selingkuh dari salah satu para penguasa.\n\nDalam keluarga, mereka tidak disukai, dan mereka juga memiliki peluang minimal untuk mewarisi mahkota.",
+  "Anak Haram\nKarakter ini lahir sebagai hasil dari hubungan rendah antara salah satu para penguasa dan penguasa dari keluarga lain (atau penguasa bebas).\n\nMereke tidak disukai dalam keluarga, dan mereka juga memiliki peluang minimal untuk mewarisi mahkota.",
+  "Tanpa Rumah\nHingga Anda membangun cukup perumahan untuk mereka, karakter ini akan menderita sangat."
 ]

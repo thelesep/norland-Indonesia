@@ -1,12 +1,12 @@
 [
-  "Terror victim\n[hint_terror_peasants]\n\nEnds in: {time}.",
-  "Terror victim\n[hint_terror_lord]\n\nEnds in: {time}",
-  "Unconscious\n[hint_uncons]\n\nWill regain consciousness in: {time}.",
+  "Korban Teror\n[hint_terror_peasants]\n\nBerakhir dalam: {time}.",
+  "Korban Teror\n[hint_terror_lord]\n\nBerakhir dalam: {time}",
+  "Tidak Sadar\n[hint_uncons]\n\nAkan sadar kembali dalam: {time}.",
   " ",
-  "Scarred\n$ <hint=hint_interest>Interest</hint> in the character {value}",
-  "Foul plague\n[hint_plague]\n\nDeath in: {time}",
+  "Berbekas Luka\n$ <hint=hint_interest>Minat</hint> terhadap karakter {value}",
+  "Wabah Busuk\n[hint_plague]\n\nKematian dalam: {time}",
   " ",
   " ",
-  "Hospital care\nAfter receiving medical care at the hospital, the recovery and healing time of wounds is significantly reduced.",
-  "Cleaned up\nThe character is briefly protected from <hint=hint_vshi>lice</hint> and also gains a bonus to <hint=hint_interest>interest</hint>."
+  "Perawatan Rumah Sakit\nSetelah menerima perawatan medis di rumah sakit, waktu pemulihan dan penyembuhan luka secara signifikan berkurang.",
+  "Dibersihkan\nKarakter sementara terlindung dari <hint=hint_vshi>kutu</hint> dan juga mendapatkan bonus terhadap <hint=hint_interest>minat</hint>."
 ]

@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nIt's better not to do anything illegal... At least, for now.",
-  "[hint_mind_caption]\nI couldn't make it to the sermon.... It's just awful! I hope additional temples are built soon!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
-  "[hint_mind_caption]\nI have become a true lord of Norland!",
-  "[hint_mind_caption]\nThe king has stripped my friend of lordship... What will happen to them now?",
-  "[hint_mind_caption]\nOur ruler has passed away! What will become of us now? Grief, grief!\n\nReason: <hint=hint_loyalist>Loyalist</hint>.",
-  "[hint_mind_caption]\nThey say the Matriarch doesn't favor our king... Only repentance can bring him back into the fold of the Holy Church!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
-  "[hint_mind_caption]\nI am happy to be a member of such a respected and prestigious noble family!\n\nReason: Your family has the highest <hint=hint_prestige>prestige</hint> rating among neighbors.",
-  "[hint_mind_caption]\nNo one respects our family... We live in a wretched hole. It's very oppressive!\n\nReason: Your family has the lowest <hint=hint_prestige>prestige</hint> rating among neighbors.",
-  "[hint_mind_caption]\nOur king always gets what he wants! All our neighbors envy us!\n\nReason: The king fulfilled his ambitions.",
-  "[hint_mind_caption]\nAfter many years of freedom in the forest, life in the barracks is oppressive!\n\nReason: A former forest bandit serving in the army."
+  "[hint_mind_caption]\nLebih baik jangan melakukan apa pun yang melanggar hukum... Setidaknya, untuk saat ini.",
+  "[hint_mind_caption]\nSaya tidak bisa menghadiri khotbah.... Sungguh mengerikan! Saya harap kuil tambahan segera dibangun!\n\nAlasan: <hint=hint_persons_fanatic>Fanatik Agama</hint>.",
+  "[hint_mind_caption]\nSaya telah menjadi penguasa sejati Norland!",
+  "[hint_mind_caption]\nRaja telah mencabut gelar teman saya... Apa yang akan terjadi pada mereka sekarang?",
+  "[hint_mind_caption]\nPenguasa kita telah meninggal dunia! Apa yang akan menjadi nasib kita sekarang? Duka, duka!\n\nAlasan: <hint=hint_loyalist>Loyalis</hint>.",
+  "[hint_mind_caption]\nKata orang, Matriark tidak mendukung raja kita... Hanya taubat yang bisa membawanya kembali ke dalam lipatan Gereja Suci!\n\nAlasan: <hint=hint_persons_fanatic>Fanatik Agama</hint>.",
+  "[hint_mind_caption]\nSaya bahagia menjadi anggota keluarga bangsawan yang begitu dihormati dan bergengsi!\n\nAlasan: Keluarga Anda memiliki peringkat <hint=hint_prestige>presti</hint> tertinggi di antara tetangga.",
+  "[hint_mind_caption]\nTidak ada yang menghormati keluarga kita... Kita hidup di lubang mengerikan. Sangat menindas!\n\nAlasan: Keluarga Anda memiliki peringkat <hint=hint_prestige>presti</hint> terendah di antara tetangga.",
+  "[hint_mind_caption]\nRaja kita selalu mendapatkan apa yang diinginkannya! Semua tetangga kita iri kepada kita!\n\nAlasan: Raja telah memenuhi ambisinya.",
+  "[hint_mind_caption]\nSetelah bertahun-tahun kebebasan di hutan, hidup di barak sangat menindas!\n\nAlasan: Seorang mantan perampok hutan yang bertugas di tentara."
 ]

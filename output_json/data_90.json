@@ -1,12 +1,12 @@
 [
-  "Depression\nThe lord is experiencing deep depression, and if their mood is not lifted, they will have a <hint=hint_tantrum>nervous breakdown</hint> in {time}.",
-  "Menopause\nMakes pregnancy impossible.",
-  "Crimes\nThe character has committed the following <hint=hint_crime>crimes</hint>:\n{list}\n\nEvidence will be lost in: {time}",
-  "Attempted poisoning\nThe character attempted to poison another person, but failed.\n\nVictim: {soul_uuid_victim}",
-  "Burglary attempt\nThe character attempted to break into someone's house to steal valuables.\n\nVictim: {soul_uuid_victim}",
-  "Lord's attack\nThe character attacked one of the members of your noble family.\n\nVictim: {soul_uuid_victim}",
-  "Killing in a brawl\nThe character lost control in the heat of the moment.\n\nVictim: {soul_uuid_victim}",
-  "Brawl with the ruler\nThe figure of the monarch is inviolable.\n\nVictim: {soul_uuid_victim}",
-  "Murder\nConsciously took someone's life.\n\nVictim: {soul_uuid_victim}",
-  "Lord's murder\nBrutally\n\nVictim: {soul_uuid_victim}"
+  "Depresi\nPenguasa sedang mengalami depresi mendalam, dan jika suasana hati mereka tidak ditingkatkan, mereka akan mengalami <hint=hint_tantrum>penyakit mental</hint> dalam {time}.",
+  "Menopause\nMembuat kehamilan tidak mungkin.",
+  "Kejahatan\nKarakter telah melakukan <hint=hint_crime>kejahatan</hint> berikut:\n{list}\n\nBukti akan hilang dalam: {time}",
+  "Upaya Keracunan\nKarakter mencoba meracuni orang lain, tapi gagal.\n\nKorban: {soul_uuid_victim}",
+  "Upaya Pencurian Rumah\nKarakter mencoba menyusup masuk ke rumah seseorang untuk mencuri barang berharga.\n\nKorban: {soul_uuid_victim}",
+  "Serangan terhadap Penguasa\nKarakter menyerang salah satu anggota keluarga bangsawan Anda.\n\nKorban: {soul_uuid_victim}",
+  "Pembunuhan dalam Perkelahian\nKarakter kehilangan kendali dalam panasnya momen.\n\nKorban: {soul_uuid_victim}",
+  "Perkelahian dengan Penguasa\nSosok monarki tidak boleh dilanggar.\n\nKorban: {soul_uuid_victim}",
+  "Pembunuhan\nSecara sadar mengambil nyawa seseorang.\n\nKorban: {soul_uuid_victim}",
+  "Pembunuhan Penguasa\nDengan kejam\n\nKorban: {soul_uuid_victim}"
 ]

@@ -1,12 +1,12 @@
 [
-  "Allow the Red Mass\nGive the archons 3 prisoners so they can perform the Red Mass in your province, honoring the <hint=hint_dead_god_herecy>Dead God</hint>.\n\n$ The Bishop will report this to the Matriarch, and his relations with your king will decrease by: <red>{rel_dec}</red>\n$ Your ruler will receive the blessing of the Dead God, which often reveals unexpected aspects of their personality and abilities.",
-  "Unwellness\nUpon waking up in the morning, your ruler {soul_uuid} realized that he has lost interest in sex.\n\nMore precisely, he is unable to engage in it anymore due to strange physiological reasons.\n\nMost likely, the witch you recently handed over to the church managed to cast her curse.\n\nThis condition will last for {days} days.",
-  "Unable to summon\n{faction_uuid} is not an enemy to {faction_uuid_target} and refuses to spill the blood of its people.",
-  "Unable to summon\nYou have already summoned the army of {faction_uuid}.",
-  "Unable to summon\nThe army of {faction_uuid} is currently present in your province.",
-  "Unable to summon\nThe army of {faction_uuid} is currently on a military campaign. Wait until they return home.",
-  "Unavailable\nThis army contains other kings who were summoned for a specific purpose, so it must be disbanded before assigning new tasks",
-  "Unavailable\nThis army is currently engaged in battle.",
-  "Disband units\nDisband the units of other kings that are present in the army.",
-  "Unable to summon\nAssistance in this matter is beyond the obligations of other kings."
+  "Izinkan Red Mass\nBerikan 3 narapidana kepada para archons agar mereka dapat melakukan Red Mass di provinsimu, menghormati <hint=hint_dead_god_herecy>Dead God</hint>.\n\n$ Uskup akan melaporkan ini kepada Matriark, dan hubungannya dengan rajamu akan menurun sebesar: <red>{rel_dec}</red>\n$ Penguasa Anda akan menerima berkah dari Dead God, yang sering kali mengungkap aspek tak terduga dari kepribadian dan kemampuan mereka.",
+  "Kondisi Tidak Sehat\nSetelah bangun di pagi hari, penguasa Anda {soul_uuid} menyadari bahwa ia telah kehilangan minat pada kebutuhan seksual.\n\nLebih tepatnya, ia tidak lagi mampu melakukannya karena alasan fisiologis aneh.\n\nKemungkinan besar, penyihir yang baru saja Anda serahkan kepada Pihak Gereja berhasil melemparkan kutukannya.\n\nKondisi ini akan berlangsung selama {days} hari.",
+  "Tidak Dapat Dipanggil\n{faction_uuid} bukan musuh bagi {faction_uuid_target} dan menolak untuk menumpahkan darah rakyatnya.",
+  "Tidak Dapat Dipanggil\nAnda sudah memanggil pasukan {faction_uuid}.",
+  "Tidak Dapat Dipanggil\nPasukan {faction_uuid} saat ini berada di provinsimu.",
+  "Tidak Dapat Dipanggil\nPasukan {faction_uuid} saat ini sedang dalam kampanye militer. Tunggu hingga mereka kembali ke rumah.",
+  "Tidak Tersedia\nPasukan ini berisi raja-raja lain yang dipanggil untuk tujuan tertentu, sehingga harus dibubarkan sebelum menugaskan tugas baru",
+  "Tidak Tersedia\nPasukan ini saat ini sedang bertempur.",
+  "Bubarkan Unit\nBubarkan unit-unit raja-raja lain yang ada di pasukan tersebut.",
+  "Tidak Dapat Dipanggil\nBantuan dalam hal ini berada di luar kewajiban raja-raja lain."
 ]

@@ -1,12 +1,12 @@
 [
-  "Diplomatic efforts have restored your relations with the ruler {soul_uuid_king}.\n\n$ Now {soul_uuid_king}'s relations toward you: {current_relations}",
-  "~\nLet me assure you that our differences have been settled, and I intend to maintain a peaceful stance toward you. However, this does not mean we are now the best of friends.",
-  "~\nWell, I suppose I have more pressing concerns than feuding with you. Consider that I have sheathed my sword. But do not think that I have forgotten everything.",
-  "Warriors refuse to go on patrol\nDue to a bad <hint=hint_mood>mood</hint>, some warriors refuse to go on patrol.\n\n<b>Tip:</b> Hover over the warriors’ icon in the upper left corner to find out their most frequent negative thoughts affecting their mood.",
-  "~\nThe new ruler of the province is writing to you. It seems that, as a result of your interference, both claimants to the throne have reunited with Mother Sophia, so now you’ll be dealing with me. And try not to meddle in the affairs of our province again!",
-  "Both rivals in the struggle for the throne have perished.\n\nThe ruler of the {faction_uuid} province is now {soul_uuid_king}.",
-  "Order completed\nThe minstrel has fulfilled your request and performed a <b>religious hymn</b>.\n\n{value} listeners were inspired by the power of his art and decided to devote their lives to Mother Sophia, becoming <hint=hint_persons_fanatic>fanatics</hint>.",
-  "Order completed\nThe minstrel has fulfilled your request and performed a <b>lyrical poem</b>.\n\n{value} listeners were inspired by the power of his art and received a boost in mood.",
-  "Order completed\nThe minstrel has fulfilled your request and performed a <b>heroic song</b>.\n\n{value} listeners were inspired by the power of his art and decided to become <hint=hint_loyalist>loyalists</hint>.",
-  "Order completed\nThe minstrel has fulfilled your request and performed a <b>moral tale</b>.\n\n{value} <hint=hint_persons_criminal>vagabonds</hint> were inspired by the power of his art and decided to return to an honest life."
+  "Upaya diplomatik telah memulihkan hubungan Anda dengan penguasa {soul_uuid_king}.\n\n$ Sekarang hubungan {soul_uuid_king} terhadap Anda: {current_relations}",
+  "~\nIzinkan saya meyakinkan Anda bahwa perbedaan kami telah diselesaikan, dan saya berniat mempertahankan sikap damai terhadap Anda. Namun, ini tidak berarti kami sekarang adalah teman terbaik.",
+  "~\nYah, saya kira saya punya masalah yang lebih mendesak daripada bertengkar dengan Anda. Anggap saja saya telah menyimpan pedang saya. Tapi jangan berpikir bahwa saya telah melupakan segalanya.",
+  "Prajurit menolak pergi patroli\nKarena <hint=hint_mood>suasana hati</hint> yang buruk, beberapa prajurit menolak pergi patroli.\n\n<b>Tip:</b> Arahkan kursor ke ikon prajurit di sudut kiri atas untuk mengetahui pikiran negatif mereka yang paling sering memengaruhi suasana hati mereka.",
+  "~\nPenguasa baru provinsi sedang menulis kepada Anda. Tampaknya, akibat campur tangan Anda, kedua pengklaim tahta telah bersatu kembali dengan Ibu Sophia, jadi sekarang Anda akan berurusan dengan saya. Dan cobalah untuk tidak ikut campur lagi dalam urusan provinsi kami!",
+  "Kedua rival dalam perebutan tahta telah binasa.\n\nPenguasa provinsi {faction_uuid} sekarang adalah {soul_uuid_king}.",
+  "Pesanan selesai\nPenyanyi pengembara telah memenuhi permintaan Anda dan mempersembahkan <b>himne religius</b>.\n\n{value} pendengar terinspirasi oleh kekuatan seni mereka dan memutuskan untuk mendedikasikan hidup mereka kepada Ibu Sophia, menjadi <hint=hint_persons_fanatic>Fanatik</hint>.",
+  "Pesanan selesai\nPenyanyi pengembara telah memenuhi permintaan Anda dan mempersembahkan <b>puisi lirik</b>.\n\n{value} pendengar terinspirasi oleh kekuatan seni mereka dan menerima peningkatan suasana hati.",
+  "Pesanan selesai\nPenyanyi pengembara telah memenuhi permintaan Anda dan mempersembahkan <b>lagu heroik</b>.\n\n{value} pendengar terinspirasi oleh kekuatan seni mereka dan memutuskan untuk menjadi <hint=hint_loyalist>loyalis</hint>.",
+  "Pesanan selesai\nPenyanyi pengembara telah memenuhi permintaan Anda dan menceritakan <b>cerita moral</b>.\n\n{value} <hint=hint_persons_criminal>pengembara</hint> terinspirasi oleh kekuatan seni mereka dan memutuskan untuk kembali ke kehidupan yang jujur."
 ]

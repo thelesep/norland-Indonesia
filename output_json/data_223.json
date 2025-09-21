@@ -1,12 +1,12 @@
 [
-  "Unavailable\nThe character leaves the city",
-  "Threat of pillaging\n{optional_type_of_danger}\n\nTherefore the village elder of {village_name} is asking for your help.\n\nYou can send your army to help them defend themselves.\n\n<b>Consequences</b>\n$ If you fail to protect the village, it will be burned, and the tribute collection will resume only in a few days.",
-  "~\n{village_name} village has repelled the attack and will continue to pay you tribute.",
-  "~\nThe village of {village_name} was burned. It will recover in a few days, but for now it will not be paying you tribute.",
-  "~\n<red><hint=hint_persons_forest_bandits>Forest bandits</hint> are planning to pillage your village.</red>",
-  "~\n<red>{enemy_soul_uuid_king} from {enemy_faction_uuid} is planning to pillage your village.</red>",
-  "[hint_mind_caption]\nI'm about to reach my goal!\n\n<b>Reason:</b> In the process of fulfilling the desire.",
-  "Knowledge at risk\nAs a result of recent losses among the lords, there is no one left who has the following <hint=hint_idea>knowledge</hint>:\n\n{lost_list}\n\nIf you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory.\n\nDays until complete loss of knowledge: {days}",
-  "Letter from the Matriarch\nClick to read",
-  "~\nEveryone here thanks you! May Mother Sophia bless you for your kindness and help! The whole village is praying for your soul, as best we can!"
+  "Tidak Tersedia\nKarakter meninggalkan kota",
+  "Ancaman Perampokan\n{optional_type_of_danger}\n\nOleh karena itu, tetua desa {village_name} meminta bantuan Anda.\n\nAnda dapat mengirim pasukan Anda untuk membantu mereka membela diri.\n\n<b>Konsekuensi</b>\n$ Jika Anda gagal melindungi desa, desa itu akan dibakar, dan pengumpulan upeti akan dilanjutkan hanya dalam beberapa hari.",
+  "~\nDesa {village_name} telah menangkis serangan dan akan terus membayar upeti kepada Anda.",
+  "~\nDesa {village_name} telah dibakar. Ia akan pulih dalam beberapa hari, tetapi untuk saat ini tidak akan membayar upeti kepada Anda.",
+  "~\n<red><hint=hint_persons_forest_bandits>Perampok hutan</hint> berencana merampok desa Anda.</red>",
+  "~\n<red>{enemy_soul_uuid_king} dari {enemy_faction_uuid} berencana merampok desa Anda.</red>",
+  "[hint_mind_caption]\nSaya hampir mencapai tujuan saya!\n\n<b>Alasan:</b> Dalam proses memenuhi keinginan.",
+  "Pengetahuan dalam Bahaya\nAkibat kerugian baru-baru ini di antara para penguasa, tidak ada yang tersisa yang memiliki <hint=hint_idea>pengetahuan</hint> berikut:\n\n{lost_list}\n\nJika Anda masih memiliki buku dengan pengetahuan ini, sekarang saatnya membiarkan para penguasa lain mempelajarinya, karena dalam beberapa hari pengetahuan ini akan hilang dari ingatan kolektif.\n\nHari hingga hilangnya total pengetahuan: {days}",
+  "Surat dari Matriark\nKlik untuk membaca",
+  "~\nSemua orang di sini berterima kasih kepada Anda! Semoga Ibu Sophia memberkati Anda atas kebaikan dan bantuan Anda! Seluruh desa berdoa untuk jiwamu, sebisanya kami!"
 ]

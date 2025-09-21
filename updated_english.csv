@@ -9642,1287 +9642,1287 @@ Di sini Anda dapat melihat regu Anda sendiri dan regu musuh, serta keseimbangan 
 Anda dapat mundur dari pertempuran jika tampaknya tidak bisa dimenangkan, mainkan pertempuran secara otomatis, atau perintahkan regu Anda secara pribadi dalam pertempuran.
 
 $ Klik tombol tengah untuk memulai pertempuran"
-adv_tutorial_2.army_at_gates_3,"On the battlefield
+adv_tutorial_2.army_at_gates_3,"Di medan perang
 
-When you initiate the attack, your squad is positioned on the left, while the enemy is on the right.
+Ketika Anda memulai serangan, regu Anda diposisikan di sebelah kiri, sementara musuh berada di sebelah kanan.
 
-1. Click on your squad's banner to control them.
-2. Use {input.action.squad_order_attack} to move the selected squad. To attack the enemy squad, click {input.action.squad_order_attack} on their banner.
-3. <b>Wait</b> for the battle results."
-adv_tutorial_2.encyclopedia,"Help menu
+1. Klik bendera regu Anda untuk mengendalikannya.
+2. Gunakan {input.action.squad_order_attack} untuk memindahkan regu yang dipilih. Untuk menyerang regu musuh, klik {input.action.squad_order_attack} pada bendera mereka.
+3. <b>Tunggu</b> hasil pertempuran."
+adv_tutorial_2.encyclopedia,"Menu Bantuan
 
-During the game, you can always seek assistance by opening the Help menu.
+Selama permainan, Anda selalu dapat mencari bantuan dengan membuka Menu Bantuan.
 
-$ Sometimes, hints related to your current situation will appear here. You can disable this in the settings menu (ESC).
-$ After a few seconds of the hint being displayed, it becomes frozen in place, and you can hover over the highlighted words to receive additional hints."
+$ Terkadang, petunjuk terkait situasi saat ini akan muncul di sini. Anda dapat menonaktifkannya di menu pengaturan (ESC).
+$ Setelah beberapa detik petunjuk ditampilkan, ia akan membeku di tempatnya, dan Anda dapat mengarahkan kursor ke kata-kata yang disorot untuk menerima petunjuk tambahan."
 adv_tutorial_2.the_end_title,"~
-Congratulations!"
-adv_tutorial_2.the_end,"Congratulations!
-You have completed the basic training.
+Selamat!"
+adv_tutorial_2.the_end,"Selamat!
+Anda telah menyelesaikan pelatihan dasar.
 
-You can now continue the current game at <b>easy difficulty level</b>
+Sekarang Anda dapat melanjutkan permainan saat ini pada <b>tingkat kesulitan mudah</b>
 
-OR
+ATAU
 
-Through the main menu, start a new game by <b>creating your noble family</b> and customizing the political map and difficulty to your liking."
+Melalui menu utama, mulai permainan baru dengan <b>membuat keluarga bangsawan Anda</b> dan menyesuaikan peta politik serta kesulitan sesuai keinginan Anda."
 adv_tutorial_2.the_end.back_to_main_menu,"~
-Main menu"
-adv_tutorial_2.obj_correct_beer_1,"Finance menu 
+Menu Utama"
+adv_tutorial_2.obj_correct_beer_1,"Menu Keuangan 
 
-Peasants first try to buy food, and then use the remaining money on alcohol if they can afford it. By regulating prices and resource availability, you can influence their consumption of these resources, which affects their mood and financial savings (displayed on the right).
+Petani pertama-tama mencoba membeli makanan, dan kemudian menggunakan sisa uang untuk alkohol jika mereka mampu membelinya. Dengan mengatur harga dan ketersediaan sumber daya, Anda dapat memengaruhi konsumsi mereka terhadap sumber daya ini, yang memengaruhi suasana hati dan tabungan keuangan mereka (ditampilkan di sebelah kanan).
 {split}
-Currently, workers' wages are 8 gold coins, the price of Rutabaga is 4 coins, and the price of Moonshine is 7 coins. This is not enough for peasants to buy both Rutabaga and Moonshine daily, so they will have to save for several days to go to the Tavern.
+Saat ini, upah pekerja adalah 8 koin emas, harga Rutabaga adalah 4 koin, dan harga Moonshine adalah 7 koin. Ini tidak cukup bagi petani untuk membeli Rutabaga dan Moonshine setiap hari, sehingga mereka harus menabung selama beberapa hari untuk pergi ke Kedai.
 
-1. Let's reduce the price of Moonshine to 4 gold coins so that workers can buy it every day with their wages. This will make them happier.
-2. Close the Finance menu."
-adv_tutorial_2.the_end.continue_game,Continue on easy difficulty
-hint_action_give_title_to_untitled_lord,"Grant the title of lord
-The King bestows <hint=hint_title>the title</hint> upon {soul_uuid_1}, and they will become a full-fledged member of the family.
+1. Mari kita turunkan harga Moonshine menjadi 4 koin emas agar pekerja dapat membelinya setiap hari dengan upah mereka. Ini akan membuat mereka lebih bahagia.
+2. Tutup Menu Keuangan."
+adv_tutorial_2.the_end.continue_game,Lanjutkan pada tingkat kesulitan mudah
+hint_action_give_title_to_untitled_lord,"Berikan gelar penguasa
+Raja menganugerahkan <hint=hint_title>gelar</hint> kepada {soul_uuid_1}, dan mereka akan menjadi anggota keluarga yang berhak penuh.
 
-<b>Consequences</b>
-$ {soul_uuid_1} will receive the title and join {faction_uuid}
-$ The number of available titles will decrease by 1."
-hint_action_task_turn_untitled_lord_into_free_lord,"Grant the title of Free Lord
-The King grants them the status of <hint=hint_tutorial_free_lord>Free Lord</hint>.
+<b>Konsekuensi</b>
+$ {soul_uuid_1} akan menerima gelar dan bergabung dengan {faction_uuid}
+$ Jumlah gelar yang tersedia akan berkurang sebanyak 1."
+hint_action_task_turn_untitled_lord_into_free_lord,"Berikan gelar Penguasa Bebas
+Raja menganugerahkan mereka status <hint=hint_tutorial_free_lord>Penguasa Bebas</hint>.
 
-The character will initially wait in case you want to hire them (the price will be <hint=hint_resource_rune>{price}</hint>) and then will leave the province forever.
+Karakter tersebut awalnya akan menunggu jika Anda ingin merekrut mereka (harga akan menjadi <hint=hint_resource_rune>{price}</hint>) dan kemudian akan meninggalkan provinsi selamanya.
 
-But who knows, maybe you will meet again?"
-hint_action_task_move_untitled_lord_to_holy_family,"Grant the title of Priest
-The King turns the character over to the <hint=hint_sofia_cult>Church</hint>.
+Tapi siapa tahu, mungkin kalian akan bertemu lagi?"
+hint_action_task_move_untitled_lord_to_holy_family,"Berikan gelar Pendeta
+Raja menyerahkan karakter tersebut kepada <hint=hint_sofia_cult>Pihak Gereja</hint>.
 
-The Church is always happy whenever sacrifices are made in the name of Mother Sophia, and thus it will be eternally grateful:
-$ Relations with the <hint=hint_relations_matriarch>Matriarch</hint>: <green>{mat_rel}</green>
-$ Gift from the Matriarch: <hint=hint_resource_rune>{rune_amount}</hint>
+Pihak Gereja selalu bahagia setiap kali pengorbanan dilakukan atas nama Mother Sophia, dan sehingga ia akan abadi bersyukur:
+$ Hubungan dengan <hint=hint_relations_matriarch>Matriark</hint>: <green>{mat_rel}</green>
+$ Hadiah dari Matriark: <hint=hint_resource_rune>{rune_amount}</hint>
 
-The character will leave your province forever."
-hint_action_task_turn_untitled_lord_into_knight,"Grant knighthood
-The King grants the status of <hint=hint_knight>Knight</hint>.
+Karakter tersebut akan meninggalkan provinsi Anda selamanya."
+hint_action_task_turn_untitled_lord_into_knight,"Berikan Ksatria
+Raja memberikan status <hint=hint_knight>Ksatria</hint>.
 
-The character will join your warriors as a knight. This will be free of charge.
+Karakter tersebut akan bergabung dengan prajurit Anda sebagai ksatria. Ini akan gratis.
 
-Their efficiency in this status depends on their <hint=hint_skill_combat>Combat</hint> and <hint=hint_skill_command>Command</hint> skills."
+Efisiensi mereka dalam status ini bergantung pada <hint=hint_skill_combat>Keterampilan Tempur</hint> dan <hint=hint_skill_command>Keterampilan Komando</hint> mereka."
 hint_mind_friend_exiled_from_faction,"[hint_mind_caption]
-The King expelled my friend from the family"
-hint_display_event_untitled_lord_leave_soon,"Lesser Lord is about to leave
-{soul_uuid_lord} is planning to leave as they don't find your settlement promising for themselves.
+Raja mengusir teman saya dari keluarga"
+hint_display_event_untitled_lord_leave_soon,"Penguasa Rendahan Hendak Pergi
+{soul_uuid_lord} berencana pergi karena mereka tidak menemukan pemukiman Anda menjanjikan bagi diri mereka sendiri.
 
-They will most likely join a neighboring King or become a free lord.
+Mereka kemungkinan besar akan bergabung dengan Raja tetangga atau menjadi penguasa bebas.
 
-$ You have {time_left} hours to determine their fate.
+$ Anda memiliki {time_left} jam untuk menentukan nasib mereka.
 
 {optional_philistine}
-The character has the following knowledge:
+Karakter ini memiliki pengetahuan berikut:
 {optional_list_of_knowledge}"
-hint_display_event_new_untitled_lord,"New Lesser Lord
-{soul_uuid_lord} has been granted the title of <hint=hint_untitled_lord>lesser lord</hint>.
+hint_display_event_new_untitled_lord,"Penguasa Rendahan Baru
+{soul_uuid_lord} telah diberikan gelar <hint=hint_untitled_lord>penguasa rendahan</hint>.
 
-They will continue to live in your settlement until you decide their fate or until they choose to leave."
-hint_display_event_untitled_lord_leave,"Lesser Lord is leaving
-The King hasn't been gracious to {soul_uuid_lord}, and they decided to try their luck elsewhere.
+Mereka akan terus tinggal di pemukiman Anda sampai Anda memutuskan nasib mereka atau sampai mereka memilih untuk pergi."
+hint_display_event_untitled_lord_leave,"Penguasa Rendahan Sedang Pergi
+Raja tidak murah hati kepada {soul_uuid_lord}, dan mereka memutuskan untuk mencoba keberuntungan di tempat lain.
 
-They will most likely join a neighboring King or become a free lord."
-hint_instrutions_help,"Instruction Setup
-$ <b>Hire an assistant</b>. One lord can comfortably manage more than 10 buildings, and you can also hire a Free Lord to assist them.
-$ <b>Upgrade buildings.</b> It's better to upgrade existing buildings than build new ones. This not only provides a productivity bonus but also reduces travel time.
-$ <b>Shorten the path.</b> Since the managing lord must visit many buildings, it's best to construct these buildings in one area, close to warehouses and the Temple. For example, to the north of the Hall.
+Mereka kemungkinan besar akan bergabung dengan Raja tetangga atau menjadi penguasa bebas."
+hint_instrutions_help,"Pengaturan Instruksi
+$ <b>Pekerjakan asisten</b>. Satu penguasa dapat dengan nyaman mengelola lebih dari 10 bangunan, dan Anda juga dapat mempekerjakan Penguasa Bebas untuk membantu mereka.
+$ <b>Tingkatkan bangunan.</b> Lebih baik meningkatkan bangunan yang ada daripada membangun yang baru. Ini tidak hanya memberikan bonus produktivitas tetapi juga mengurangi waktu perjalanan.
+$ <b>Pendekkan jalur.</b> Karena penguasa pengelola harus mengunjungi banyak bangunan, lebih baik membangun bangunan-bangunan ini di satu area, dekat dengan gudang dan Kuil. Misalnya, di utara Aula.
 
-This way, you can easily maintain 25+ buildings in operation until you unlock the Chancellery."
-hint_tutorial_instruction_help,"Instruction Setup
+Dengan cara ini, Anda dapat dengan mudah mempertahankan 25+ bangunan beroperasi sampai Anda membuka Kanselari."
+hint_tutorial_instruction_help,"Pengaturan Instruksi
 
 <img=hint_tutorial_instruction_help></img>
 
 [hint_instrutions_help]"
-hint_wise_help,"Knowledge Transfer
-$ <b>When a lord dies, their knowledge is lost</b>, so it's best to prepare for this in advance by distributing knowledge among several characters.
-$ Characters share knowledge with each other during <b>Wise Conversations</b>.
-$ They do this automatically with their friends and children, but you can also <b>initiate it manually from the character menu</b>.
-$ <b>This also works with guests</b> and other lords on the world map—sometimes they have very interesting knowledge to share."
-hint_tutorial_wise_help,"Knowledge Transfer
+hint_wise_help,"Transfer Pengetahuan
+$ <b>Ketika seorang penguasa meninggal, pengetahuan mereka hilang</b>, jadi lebih baik mempersiapkan ini sebelumnya dengan mendistribusikan pengetahuan di antara beberapa karakter.
+$ Karakter berbagi pengetahuan satu sama lain selama <b>Percakapan Bijak</b>.
+$ Mereka melakukan ini secara otomatis dengan teman dan anak-anak mereka, tapi Anda juga dapat <b>memulai secara manual dari menu karakter</b>.
+$ <b>Ini juga berfungsi dengan tamu</b> dan penguasa lain di peta dunia—kadang mereka memiliki pengetahuan yang sangat menarik untuk dibagikan."
+hint_tutorial_wise_help,"Transfer Pengetahuan
 
 <img=hint_tutorial_wise_help></img>
 
 [hint_wise_help]"
-hint_unavailable_actor_without_weapon,"No equipment
-{soul_uuid} has no weapons."
-hint_action_task_unavailable_leaving_town,"Unavailable
-The character leaves the city"
-hint_village_attack_description,"Threat of pillaging
+hint_unavailable_actor_without_weapon,"Tidak Ada Peralatan
+{soul_uuid} tidak memiliki senjata apa pun."
+hint_action_task_unavailable_leaving_town,"Tidak Tersedia
+Karakter meninggalkan kota"
+hint_village_attack_description,"Ancaman Perampokan
 {optional_type_of_danger}
 
-Therefore the village elder of {village_name} is asking for your help.
+Oleh karena itu, tetua desa {village_name} meminta bantuan Anda.
 
-You can send your army to help them defend themselves.
+Anda dapat mengirim pasukan Anda untuk membantu mereka membela diri.
 
-<b>Consequences</b>
-$ If you fail to protect the village, it will be burned, and the tribute collection will resume only in a few days."
+<b>Konsekuensi</b>
+$ Jika Anda gagal melindungi desa, desa itu akan dibakar, dan pengumpulan upeti akan dilanjutkan hanya dalam beberapa hari."
 hint_village_attack_success,"~
-{village_name} village has repelled the attack and will continue to pay you tribute."
+Desa {village_name} telah menangkis serangan dan akan terus membayar upeti kepada Anda."
 hint_village_attack_fail,"~
-The village of {village_name} was burned. It will recover in a few days, but for now it will not be paying you tribute."
+Desa {village_name} telah dibakar. Ia akan pulih dalam beberapa hari, tetapi untuk saat ini tidak akan membayar upeti kepada Anda."
 hint_global_map_danger_forest_village,"~
-<red><hint=hint_persons_forest_bandits>Forest bandits</hint> are planning to pillage your village.</red>"
+<red><hint=hint_persons_forest_bandits>Perampok hutan</hint> berencana merampok desa Anda.</red>"
 hint_global_map_danger_ai_village,"~
-<red>{enemy_soul_uuid_king} from {enemy_faction_uuid} is planning to pillage your village.</red>"
+<red>{enemy_soul_uuid_king} dari {enemy_faction_uuid} berencana merampok desa Anda.</red>"
 hint_mind_making_desire,"[hint_mind_caption]
-I'm about to reach my goal!
+Saya hampir mencapai tujuan saya!
 
-<b>Reason:</b> In the process of fulfilling the desire."
-hint_nt_knowledge_lost,"Knowledge at risk
-As a result of recent losses among the lords, there is no one left who has the following <hint=hint_idea>knowledge</hint>:
+<b>Alasan:</b> Dalam proses memenuhi keinginan."
+hint_nt_knowledge_lost,"Pengetahuan dalam Bahaya
+Akibat kerugian baru-baru ini di antara para penguasa, tidak ada yang tersisa yang memiliki <hint=hint_idea>pengetahuan</hint> berikut:
 
 {lost_list}
 
-If you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory.
+Jika Anda masih memiliki buku dengan pengetahuan ini, sekarang saatnya membiarkan para penguasa lain mempelajarinya, karena dalam beberapa hari pengetahuan ini akan hilang dari ingatan kolektif.
 
-Days until complete loss of knowledge: {days}"
-hint_display_event_letter_from_matriarch,"Letter from the Matriarch
-Click to read"
+Hari hingga hilangnya total pengetahuan: {days}"
+hint_display_event_letter_from_matriarch,"Surat dari Matriark
+Klik untuk membaca"
 hint_letter_village_help_result,"~
-Everyone here thanks you! May Mother Sophia bless you for your kindness and help! The whole village is praying for your soul, as best we can!"
-hint_village_attack_send_help,"Sending help
-Form a squad and send them to help.
+Semua orang di sini berterima kasih kepada Anda! Semoga Ibu Sophia memberkati Anda atas kebaikan dan bantuan Anda! Seluruh desa berdoa untuk jiwamu, sebisanya kami!"
+hint_village_attack_send_help,"Mengirim Bantuan
+Bentuk sebuah pasukan dan kirim mereka untuk membantu.
 
-$ They will participate in the upcoming battle and then return home."
-hint_village_attack_send_help_success,"Call for help
+$ Mereka akan berpartisipasi dalam pertempuran mendatang dan kemudian kembali ke rumah."
+hint_village_attack_send_help_success,"Meminta Bantuan
 {optional_type_of_danger}
 
-Your troops have come as reinforcements to the village of {village_name} and will remain in the town for 3 days or until the first battle."
-hint_village_attack_aborted_result,"The danger is behind us
-{village_name} is now safe, as the enemy has changed their plans and is no longer going to attack it. Your troops are on their way home."
+Pasukan Anda telah datang sebagai bala bantuan ke desa {village_name} dan akan tetap di kota selama 3 hari atau hingga pertempuran pertama."
+hint_village_attack_aborted_result,"Bahaya telah berlalu
+{village_name} sekarang aman, karena musuh telah mengubah rencana mereka dan tidak lagi akan menyerangnya. Pasukan Anda sedang dalam perjalanan pulang."
 hint_mind_close_remember,"[hint_mind_caption]
-I know that Mother Sophia welcomes everyone into her embrace, but it's so sad when those who we loved are no longer with us!
+Saya tahu bahwa Ibu Sophia menyambut semua orang ke dalam pelukannya, tapi sangat sedih ketika orang-orang yang kita cintai tidak lagi bersama kita!
 
-{name}, I will always remember you!"
+{name}, saya akan selalu mengingatmu!"
 hint_mind_grave_visit,"[hint_mind_caption]
-May the flame of the candle I lit at your grave ease the pain of loss!
+Semoga nyala lilin yang saya nyalakan di makam Anda meredakan rasa sakit kehilangan!
 
-{name}, I will always remember you!"
-hint_bld_grave,"Grave
-The grave of a deceased lord with a memorial tombstone.
+{name}, saya akan selalu mengingatmu!"
+hint_bld_grave,"Makam
+Makam seorang penguasa yang telah meninggal dengan batu nisan peringatan.
 
-For those who were close with the deceased, visiting the grave helps them cope with sad memories."
-hint_building_destroy_unavailable_fire,"Impossible to demolish
-A building cannot be demolished while it's on fire"
-hint_building_destroy_unavailable_enemies,"Impossible to demolish
-A building cannot be demolished while there are enemies in town"
+Bagi mereka yang dekat dengan yang meninggal, mengunjungi makam membantu mereka mengatasi kenangan sedih."
+hint_building_destroy_unavailable_fire,"Tidak mungkin dihancurkan
+Sebuah bangunan tidak bisa dihancurkan saat sedang terbakar"
+hint_building_destroy_unavailable_enemies,"Tidak mungkin dihancurkan
+Sebuah bangunan tidak bisa dihancurkan saat ada musuh di kota"
 hint_mind_enemy_grave_visit,"[hint_mind_caption]
-It feels so good, to visit the grave of my enemy and experience that joy once again!"
-hint_unavailable_action_with_defence_army,"This action is impossible
-You cannot perform this action while your army is in this town"
-hint_unavailable_trade_agreement_too_many,"Unavailable
-To maintain the health of global trade, the Loving Family blesses you with the ability to conclude only {max_count} trade agreements."
-hint_wish_travel,"Go on a Journey
-The lord has never gone beyond the borders of your province and is very eager to know how people live in other places.
+Merasa sangat menyenangkan, mengunjungi makam musuh saya dan merasakan kegembiraan itu sekali lagi!"
+hint_unavailable_action_with_defence_army,"Tindakan ini tidak mungkin
+Anda tidak bisa melakukan tindakan ini saat pasukan Anda berada di kota ini"
+hint_unavailable_trade_agreement_too_many,"Tidak Tersedia
+Untuk menjaga kesehatan perdagangan global, Keluarga Penuh Kasih memberkati Anda dengan kemampuan untuk menyimpulkan hanya {max_count} perjanjian perdagangan."
+hint_wish_travel,"Berangkat dalam Perjalanan
+Sang penguasa belum pernah melampaui batas provinsi Anda dan sangat ingin mengetahui bagaimana kehidupan orang-orang di tempat lain.
 
 [hint_MORAL_DEBUFF]
 
-The desire will be fulfilled if you send the character to another city on the world map.
+Keinginan ini akan terpenuhi jika Anda mengirim karakter tersebut ke kota lain di peta dunia.
 
 [hint_its_a_dream]"
-hint_wish_drink_ale,"Drink Flavorful Ale
-The lord really wants to drink some <hint=hint_resource_ale>Flavorful Ale</hint>. He literally dreams about it at night!
+hint_wish_drink_ale,"Minum Flavorful Ale
+Sang penguasa benar-benar ingin minum sedikit <hint=hint_resource_ale>Flavorful Ale</hint>. Ia benar-benar bermimpi tentang itu di malam hari!
 
 [hint_MORAL_DEBUFF]
 
-Make sure you have some Flavorful Ale in stock.
+Pastikan Anda memiliki stok Flavorful Ale.
 
 [hint_its_a_dream]"
-hint_wish_drink_nectar,"Try the Nectar
-The character has never tried <hint=hint_resource_nectar>Nectar</hint> but has heard a lot about its marvelous properties.
+hint_wish_drink_nectar,"Mencoba Nektar
+Karakter tersebut belum pernah mencoba <hint=hint_resource_nectar>Nectar</hint> tetapi telah mendengar banyak tentang sifat-sifat ajaibnya.
 
 [hint_MORAL_DEBUFF]
 
-Make sure you have some Nectar in stock.
+Pastikan Anda memiliki stok Nektar.
 
 [hint_its_a_dream]"
-hint_wish_study_language,"Learn a Language
-This lord has a strong desire to learn more about another culture, which requires him to learn a language.
+hint_wish_study_language,"Belajar Bahasa
+Penguasa ini memiliki keinginan kuat untuk belajar lebih banyak tentang budaya lain, yang mengharuskannya belajar sebuah bahasa.
 
 [hint_MORAL_DEBUFF]
 
-To fulfill this desire, buy a language textbook from the <hint=hint_holy_caravan>Holy Caravan</hint> and then assign the lord to study it in the <hint=hint_knowledge_menu>Knowledge Menu</hint>.
+Untuk memenuhi keinginan ini, beli buku teks bahasa dari <hint=hint_holy_caravan>Karavan Suci</hint> dan kemudian tetapkan penguasa untuk mempelajarinya di <hint=hint_knowledge_menu>Menu Pengetahuan</hint>.
 
 [hint_its_a_dream]"
-hint_wish_grave_visit,"A Grave for a Loved One
-The character is deeply distressed that after the passing of their loved one ({soul_uuid_target}); they can't visit their grave to light a memorial candle and reminisce.
+hint_wish_grave_visit,"Makam untuk Orang Tercinta
+Karakter tersebut sangat terganggu karena setelah kematian orang tercintanya ({soul_uuid_target}); mereka tidak bisa mengunjungi makamnya untuk menyalakan lilin peringatan dan mengenang.
 
 [hint_MORAL_DEBUFF]
 
-<b>Build</b> the grave of the deceased character through the Construction menu <b>and wait</b> for the character to visit it.
+<b>Bangun</b> makam karakter yang telah meninggal melalui menu Konstruksi <b>dan tunggu</b> hingga karakter tersebut mengunjunginya.
 
 [hint_its_a_obsession]"
-hint_wish_dice_win,"Win a Game of Dice
-The lord very much wants to experience the feeling of triumph over chance, and that's why he needs to win a game of dice.
+hint_wish_dice_win,"Menang Permainan Dadu
+Sang penguasa sangat ingin merasakan sensasi kemenangan atas keberuntungan, dan itulah mengapa ia perlu memenangkan permainan dadu.
 
 [hint_MORAL_DEBUFF]
 
-Assign him to a dice game with another character (to increase the chances of winning, the opponent should be significantly less clever).
+Tetapkan ia untuk permainan dadu dengan karakter lain (untuk meningkatkan peluang menang, lawan harus jauh lebih kurang cerdas).
 
 [hint_its_a_dream]"
-hint_wish_happiness,"Happiness for a Loved One
-The lord wants nothing for himself, only for the character he loves {soul_uuid_target} to be <hint=hint_nt_events_unhappy_lord>happy</hint>.
+hint_wish_happiness,"Kebahagiaan untuk Orang Tercinta
+Sang penguasa tidak menginginkan apa pun untuk dirinya sendiri, hanya agar karakter yang dicintainya {soul_uuid_target} menjadi <hint=hint_nt_events_unhappy_lord>bahagia</hint>.
 
 [hint_MORAL_DEBUFF]
 
-To fulfill this desire, {soul_uuid_target} must become happy.
+Untuk memenuhi keinginan ini, {soul_uuid_target} harus menjadi bahagia.
 
 [hint_its_a_dream]"
-hint_wish_child_take_title,"Desire for a Title for the Child
-The lord wants nothing for himself, only for his beloved child {soul_uuid_target} to receive the title of a lord.
+hint_wish_child_take_title,"Keinginan untuk Gelar bagi Anak
+Sang penguasa tidak menginginkan apa pun untuk dirinya sendiri, hanya agar anak tercintanya {soul_uuid_target} menerima gelar penguasa.
 
 [hint_MORAL_DEBUFF]
 
 [hint_its_a_dream]"
-hint_wish_child_mary,"Desire for a Family for the Child
-The lord wants nothing for himself, only for his beloved child {soul_uuid_target} to have a family.
+hint_wish_child_mary,"Keinginan untuk Keluarga bagi Anak
+Sang penguasa tidak menginginkan apa pun untuk dirinya sendiri, hanya agar anak tercintanya {soul_uuid_target} memiliki keluarga.
 
 [hint_MORAL_DEBUFF]
 
-To fulfill this desire, {soul_uuid_target} must get married.
+Untuk memenuhi keinginan ini, {soul_uuid_target} harus menikah.
 
 [hint_its_a_dream]"
-hint_wish_culture_terror,"Desire for Terror
-The lord believes that the residents of the hostile culture {culture} have crossed all boundaries and need to be stopped.
+hint_wish_culture_terror,"Keinginan untuk Teror
+Penguasa percaya bahwa penduduk budaya yang bermusuhan {culture} telah melampaui semua batas dan perlu dihentikan.
 
 [hint_MORAL_DEBUFF]
 
-To fulfill this desire, start terrorizing the {culture} culture in the <hint=hint_bld_scafod>Scaffold</hint> menu.
+Untuk memenuhi keinginan ini, mulailah mengterrorisasi budaya {culture} di menu <hint=hint_bld_scafod>Panggung Gantung</hint>.
 
 [hint_its_a_dream]"
-hint_wish_child_divorce,"Desire for Divorce
-The character passionately wishes to divorce their spouse ({soul_uuid_target}) because they hate and despise them.
+hint_wish_child_divorce,"Keinginan untuk Perceraian
+Karakter dengan penuh gairah ingin bercerai dari pasangannya ({soul_uuid_target}) karena mereka membenci dan merendahkan mereka.
 
 [hint_MORAL_DEBUFF]
 
-A divorce can be arranged through the <hint=hint_bishop>Bishop</hint> menu in the character's actions.
+Perceraian dapat diatur melalui menu <hint=hint_bishop>Uskup</hint> dalam tindakan karakter.
 
 [hint_its_a_obsession]"
-hint_wish_enemy_grave,"A Grave for the Enemy
-The character dreams that their recently deceased enemy ({soul_uuid_target}) has a grave where they can relish their triumph.
+hint_wish_enemy_grave,"Makam untuk Musuh
+Karakter bermimpi bahwa musuh mereka yang baru saja meninggal ({soul_uuid_target}) memiliki makam di mana mereka bisa menikmati kemenangan mereka.
 
 [hint_MORAL_DEBUFF]
 
-<b>Build</b> the grave of the deceased character through the Construction menu <b>and wait</b> for the character to visit it.
+<b>Bangun</b> makam karakter yang meninggal melalui menu Konstruksi <b>dan tunggu</b> hingga karakter mengunjunginya.
 
 [hint_its_a_dream]"
 hint_mind_caprice,"[hint_mind_caption]
-It would be great if my dream came true!
+Sungguh luar biasa jika mimpi saya menjadi kenyataan!
 
-Reason: The character has a <hint=hint_desire_dream>dream</hint>."
+Alasan: Karakter memiliki sebuah <hint=hint_desire_dream>mimpi</hint>."
 hint_mind_caprice_success,"[hint_mind_caption]
-My dream came true!
+Mimpi saya menjadi kenyataan!
 
-Life is wonderful!"
-hint_nt_obession_appear,"New Obsession
-The character's mind has been overtaken by an <hint=hint_desire_obsession>obsession</hint> with a desire.
+Hidup sungguh indah!"
+hint_nt_obession_appear,"Obsesi Baru
+Pikiran karakter telah dikuasai oleh sebuah <hint=hint_desire_obsession>obsesi</hint> dengan sebuah keinginan.
 
-Over time, the strength of the obsession will grow, causing them more suffering, which may bring about a nervous breakdown or an attempt by the character to solve the problem on their own.
+Seiring waktu, kekuatan obsesi akan bertambah, menyebabkan penderitaan lebih besar, yang mungkin membawa pada penyakit mental atau upaya karakter untuk menyelesaikan masalah sendiri.
 
-<b>Hint:</b> You can learn about the character's current desire at the bottom of the main tab in their menu."
-hint_tutorial_clercs_net,"Chancellery Network
-Clerks from one <hint=hint_bld_chancellery>Chancellery</hint> can manage other Chancelleries.
+<b>Petunjuk:</b> Anda dapat mengetahui keinginan saat ini karakter di bagian bawah tab utama di menu mereka."
+hint_tutorial_clercs_net,"Jaringan Kanselari
+Pegawai dari satu <hint=hint_bld_chancellery>Kanselari</hint> dapat mengelola Kanselari lainnya.
 
 <img=hint_tutorial_clercs_net></img>
 
-If one Chancellery is not enough for you, you can build more and assign their management not to a lord but to a clerk from your first Chancellery. This way, all the production bonuses provided by the lord managing the first Chancellery are saved. This way you can build a bureaucratic network.
+Jika satu Kanselari tidak cukup untuk Anda, Anda dapat membangun lebih banyak dan menugaskan pengelolaannya bukan kepada penguasa tetapi kepada pegawai dari Kanselari pertama Anda. Dengan cara ini, semua bonus produksi yang diberikan oleh penguasa yang mengelola Kanselari pertama tetap terjaga. Dengan cara ini Anda dapat membangun jaringan birokrasi.
 
-<b>Hint</b>: Zoom out as much as possible to see an overview of buildings, including their managers. Remember that you can assign managers by <b>right-clicking</b> on a building."
-hint_nt_lords_against_terror,"Culture Terror
+<b>Petunjuk</b>: Zoom out sebanyak mungkin untuk melihat gambaran umum bangunan, termasuk pengelolanya. Ingat bahwa Anda dapat menugaskan pengelola dengan <b>klik kanan</b> pada bangunan."
+hint_nt_lords_against_terror,"Teror Budaya
 {optional_culture_terror}"
-hint_desire_obsession,"Obsession
-A strong <hint=hint_desire>desire</hint> that usually shows up as a reaction to a certain event.
+hint_desire_obsession,"Obsesi
+Sebuah <hint=hint_desire>keinginan</hint> yang kuat yang biasanya muncul sebagai reaksi terhadap suatu peristiwa tertentu.
 
-$ An obsession creates a strong negative thought that torments the character until the desire is fulfilled.
-$ The intensity of this thought increases over time and can lead to a nervous breakdown.
-$ Some obsessions may provoke the character to take decisive action, and they may attempt to fulfill them on their own (for example, they might try to kill an enemy)."
-hint_desire_dream,"Dream
-A weak <hint=hint_desire>desire</hint> that sometimes arises in a character when they reflect on their goals.
+$ Obsesi menciptakan pikiran negatif yang kuat yang menyiksa karakter hingga keinginan terpenuhi.
+$ Intensitas pikiran ini meningkat seiring waktu dan dapat menyebabkan penyakit mental.
+$ Beberapa obsesi mungkin memprovokasi karakter untuk mengambil tindakan tegas, dan mereka mungkin mencoba memenuhinya sendiri (misalnya, mereka mungkin mencoba membunuh musuh)."
+hint_desire_dream,"Mimpi
+Sebuah <hint=hint_desire>keinginan</hint> yang lemah yang kadang muncul pada karakter ketika mereka merenungkan tujuan mereka.
 
-$ The thought of a dream does not greatly trouble the character and does not change over time.
-$ However, if the dream is fulfilled, the character will receive <hint=hint_tutorial_inspiration>Inspiration</hint> for the entire day."
-hint_cant_build_no_gold,"No gold
-Need more gold to build"
+$ Pikiran tentang mimpi tidak terlalu mengganggu karakter dan tidak berubah seiring waktu.
+$ Namun, jika mimpi terpenuhi, karakter akan menerima <hint=hint_tutorial_inspiration>Inspirasi</hint> untuk seluruh hari."
+hint_cant_build_no_gold,"Tidak ada Emas
+Butuh lebih banyak Emas untuk membangun"
 hint_its_a_dream,"~
-$ This desire is a <hint=hint_desire_dream>dream</hint>."
+$ Keinginan ini adalah sebuah <hint=hint_desire_dream>mimpi</hint>."
 hint_its_a_obsession,"~
-$ This desire is an <hint=hint_desire_obsession>obsession</hint>."
-hint_ambition_unavasilable_by_complete,"Unavailable
-This ambition has already been fulfilled"
-hint_nt_relatives_worse_relations,"Relatives have worsened the relations
-As a result of events, during which the character {soul_uuid_suffered} suffered, the relatives from their hometown have worsened their attitude towards your King, as they believe he is responsible for the well-being of all his subjects.
+$ Keinginan ini adalah sebuah <hint=hint_desire_obsession>obsesi</hint>."
+hint_ambition_unavasilable_by_complete,"Tidak Tersedia
+Ambisi ini sudah terpenuhi"
+hint_nt_relatives_worse_relations,"Kerabat telah memperburuk hubungan
+Akibat peristiwa di mana karakter {soul_uuid_suffered} menderita, kerabat dari kampung halaman mereka telah memperburuk sikap mereka terhadap Raja Anda, karena mereka percaya dia bertanggung jawab atas kesejahteraan semua rakyatnya.
 
-List of relatives:
+Daftar kerabat:
 {relatives_list}"
-hint_nt_lord_not_have_time_for_chancellery,"Manager is not making it in time
-The manager assigned to the Chancellery is not able to reach it in time to issue instructions to the clerks. Most likely, he is also assigned as a manager in other buildings, which leaves him short on time.
+hint_nt_lord_not_have_time_for_chancellery,"Pengelola tidak sempat tepat waktu
+Pengelola yang ditugaskan ke Kanselari tidak mampu mencapainya tepat waktu untuk memberikan instruksi kepada para juru tulis. Kemungkinan besar, dia juga ditugaskan sebagai pengelola di bangunan lain, yang membuatnya kekurangan waktu.
 
-Check which buildings he is assigned to and cancel those assignments, leaving only the Chancellery, as it requires a full day’s work.
+Periksa bangunan mana yang dia tugaskan dan batalkan tugas tersebut, hanya sisakan Kanselari, karena itu membutuhkan pekerjaan seharian penuh.
 
-<b>Hint:</b> Assigning clerks instead of having the lord manager personally visit it will not affect the building’s efficiency"
-hint_unavailable_relocate_building_enemies,"Unable to move
-You cannot move a building while enemy units are in the city"
-hint_got_nickname_alcohol,"New Nickname
-Due to a rather obvious penchant for alcohol, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_nectar,"New Nickname
-Due to a rather obvious penchant for nectar, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_flee,"New Nickname
-As a result of displaying cowardice in battle, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_win_battle,"New Nickname
-As a result of a series of convincing victories in battle, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_inspector,"New Nickname
-For successfully managing buildings for a long time, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_smart,"New Nickname
-Due to a lot of acquired knowledge, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_teacher,"New Nickname
-Due to a long and successful period of mentoring, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_judge,"New Nickname
-For successfully managing the Scaffold for a long time, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_terror,"New Nickname
-As a result of ongoing terror, character {soul_uuid} has received nickname “{nickname}”."
-hint_got_nickname_duelist,"New Nickname
-As a result of a series of victories in duels, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_neuros,"New Nickname
-As a result of a nervous breakdown, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_traveller,"New Nickname
-Due to frequent travels, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_scars,"New Nickname
-For having many scars, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_deer,"New Nickname
-Due to their spouse’s infidelity, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_loser,"New Nickname
-As a result of a harmful addiction to dice games, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_blind,"New Nickname
-Due to their blindness, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_lost_eye,"New Nickname
-Due to the loss of an eye, character {soul_uuid} has received nickname “{nickname}""."
-hint_got_nickname_lost_arm,"New Nickname
-Due to the loss of a hand, the character {soul_uuid} has received the nickname “{nickname}""."
-hint_locked_knowledge,"Unavailable Knowledge
-This knowledge is currently unavailable. The <hint=hint_holy_caravan>Holy Caravan</hint> will bring books containing this knowledge for sale if certain conditions are met.
+<b>Petunjuk:</b> Menugaskan juru tulis daripada pengelola tuan mengunjungi secara pribadi tidak akan mempengaruhi efisiensi bangunan"
+hint_unavailable_relocate_building_enemies,"Tidak Bisa Dipindah
+Anda tidak bisa memindahkan bangunan saat ada unit musuh di kota"
+hint_got_nickname_alcohol,"Julukan Baru
+Karena kecenderungan yang cukup jelas terhadap alkohol, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_nectar,"Julukan Baru
+Karena kecenderungan yang cukup jelas terhadap Nektar, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_flee,"Julukan Baru
+Akibat menunjukkan pengecutan dalam pertempuran, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_win_battle,"Julukan Baru
+Akibat serangkaian kemenangan meyakinkan dalam pertempuran, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_inspector,"Julukan Baru
+Karena berhasil mengelola bangunan untuk waktu yang lama, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_smart,"Julukan Baru
+Karena banyak pengetahuan yang diperoleh, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_teacher,"Julukan Baru
+Karena periode panjang dan sukses dalam pembinaan, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_judge,"Julukan Baru
+Karena berhasil mengelola Panggung Gantung untuk waktu yang lama, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_terror,"Julukan Baru
+Akibat teror yang berkelanjutan, karakter {soul_uuid} telah menerima julukan “{nickname}”."
+hint_got_nickname_duelist,"Julukan Baru
+Akibat serangkaian kemenangan dalam duel, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_neuros,"Julukan Baru
+Akibat penyakit mental, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_traveller,"Julukan Baru
+Karena perjalanan yang sering, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_scars,"Julukan Baru
+Karena memiliki banyak bekas luka, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_deer,"Julukan Baru
+Karena perselingkuhan pasangannya, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_loser,"Julukan Baru
+Akibat kecanduan berbahaya terhadap permainan dadu, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_blind,"Julukan Baru
+Karena kebutaannya, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_lost_eye,"Julukan Baru
+Karena kehilangan mata, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_got_nickname_lost_arm,"Julukan Baru
+Karena kehilangan tangan, karakter {soul_uuid} telah menerima julukan “{nickname}""."
+hint_locked_knowledge,"Pengetahuan Tidak Tersedia
+Pengetahuan ini saat ini tidak tersedia. <hint=hint_holy_caravan>Karavan Suci</hint> akan membawa buku-buku yang berisi pengetahuan ini untuk dijual jika kondisi tertentu terpenuhi.
 
-Hover over the knowledge to see the conditions in its description."
-hint_action_assasins_guest_give_child,"Sacrifice the Firstborn
-The priest of <hint=hint_dahamat_cult>goddess Dahamat</hint> has arrived in your province in search of new souls. If you are willing to offer him the <b>King's firstborn</b>, the cult will be able to kill any of your enemies in any part of Norland.
+Arahkan kursor ke pengetahuan untuk melihat kondisi-kondisinya dalam deskripsinya."
+hint_action_assasins_guest_give_child,"Korbankan Anak Sulung
+Pendeta <hint=hint_dahamat_cult>dewi Dahamat</hint> telah tiba di wilayah Anda mencari jiwa-jiwa baru. Jika Anda bersedia menyerahkan <b>anak sulung Raja</b> kepadanya, kultus tersebut akan mampu membunuh musuh Anda di mana saja di Norland.
 
-$ You will never see the child you sacrifice to the cult again.
-$ Afterward, you will be able to discreetly eliminate any enemy. The death will appear natural, and no one will suspect you."
-hint_action_assassination,"Secret Assassination
-You have sacrificed the child to the <hint=hint_dahamat_cult>cult of Dahamat</hint>, and now the cult priests are ready to fulfill their promise.
+$ Anda tidak akan pernah melihat lagi anak yang Anda korbankan kepada kultus tersebut.
+$ Setelahnya, Anda akan dapat menghabisi musuh mana pun secara diam-diam. Kematian itu akan tampak alami, dan tidak ada yang akan mencurigai Anda."
+hint_action_assassination,"Pembunuhan Rahasia
+Anda telah mengorbankan anak tersebut kepada <hint=hint_dahamat_cult>kultus Dahamat</hint>, dan kini para pendeta kultus siap memenuhi janji mereka.
 
-$ If you choose this action, this character will be secretly killed within a day.
-$ The death will appear natural, and no one will suspect you.
-$ After this, the promise will be considered fulfilled"
-hint_nt_guest_arrive,"A special guest has arrived
-A special guest has arrived in your province. They may stay for a couple of days or leave as soon as today.
+$ Jika Anda memilih tindakan ini, karakter ini akan dibunuh secara rahasia dalam waktu satu hari.
+$ Kematian itu akan tampak alami, dan tidak ada yang akan mencurigai Anda.
+$ Setelah ini, janji tersebut dianggap telah dipenuhi"
+hint_nt_guest_arrive,"Tam u Khusus Telah Tiba
+Tam u khusus telah tiba di wilayah Anda. Mereka mungkin tinggal selama beberapa hari atau pergi secepat hari ini.
 
-You can find out what interactions are available with them by clicking the Action button in their menu."
-hint_watch_tower_archers,"Defence Tower
-The warriors in the tower shoot farther and more accurately than usual. They will start shooting automatically as soon as the enemy enters their range.
+Anda dapat mengetahui interaksi apa yang tersedia dengan mereka dengan mengklik tombol Aksi di menu mereka."
+hint_watch_tower_archers,"Menara Pertahanan
+Para prajurit di menara menembak lebih jauh dan lebih akurat daripada biasanya. Mereka akan mulai menembak secara otomatis segera setelah musuh memasuki jangkauan mereka.
 
-$ Assign the number of warriors to occupy the tower and determine the weapons they will use.
-$ You can set up automatic archer deployment to the tower when the enemy is near the city, or manually summon them using the button on the right.
-$ After being summoned, the warriors will need time to collect their assigned weapons from the warehouse and reach the tower.
-$ You can also command them to target enemy archers first (by default, they target the least protected melee warriors).
-$ Warriors assigned to the towers will have a special icon on their portrait in the Army menu."
-hint_action_hire_escaped_lord,"Invite to the Family
-The character will become part of your noble family as a <hint=hint_untitled_lord>lesser lord</hint>.
+$ Tetapkan jumlah prajurit untuk menduduki menara dan tentukan senjata yang akan mereka gunakan.
+$ Anda dapat menyiapkan penempatan pemanah otomatis ke menara ketika musuh mendekati kota, atau memanggil mereka secara manual menggunakan tombol di sebelah kanan.
+$ Setelah dipanggil, para prajurit akan membutuhkan waktu untuk mengambil senjata yang ditetapkan dari gudang dan mencapai menara.
+$ Anda juga dapat memerintahkan mereka untuk mengincar pemanah musuh terlebih dahulu (secara default, mereka mengincar prajurit jarak dekat yang paling tidak terlindungi).
+$ Prajurit yang ditugaskan ke menara akan memiliki ikon khusus pada potret mereka di menu Pasukan."
+hint_action_hire_escaped_lord,"Undang ke Keluarga
+Karakter tersebut akan menjadi bagian dari keluarga bangsawan Anda sebagai <hint=hint_untitled_lord>penguasa rendahan</hint>.
 
-{soul_uuid} will worsen their relations with your ruler by {rel_de}."
-hint_nt_escaped_lord_arrive,"Lesser lord on the run
-The <hint=hint_untitled_lord>lesser lord</hint> {soul_uuid_lord} from the neighboring province of {faction_uuid} requests to be accepted into your family.
+{soul_uuid} akan memperburuk hubungan mereka dengan penguasa Anda sebesar {rel_de}."
+hint_nt_escaped_lord_arrive,"Penguasa Rendahan yang Melarikan Diri
+Penguasa <hint=hint_untitled_lord>penguasa rendahan</hint> {soul_uuid_lord} dari provinsi tetangga {faction_uuid} meminta diterima ke dalam keluarga Anda.
 
-It seems he has a conflict with his liege, so your decision to accept him may strain relations with the ruler {soul_uuid}.
+Sepertinya ia memiliki konflik dengan tuannya, sehingga keputusan Anda untuk menerimanya mungkin akan memperburuk hubungan dengan penguasa {soul_uuid}.
 {optional_click_to_read_message}"
-hint_bld_watch_tower,"Archer Tower
-A <hint=hint_watch_tower_archers>defence tower</hint> where you can assign <hint=hint_persons_warriors>warriors</hint>. Archers in the tower shoot farther and more accurately than usual.
+hint_bld_watch_tower,"Menara Pemanah
+Sebuah <hint=hint_watch_tower_archers>menara pertahanan</hint> di mana Anda dapat menugaskan <hint=hint_persons_warriors>prajurit</hint>. Pemanah di menara menembak lebih jauh dan lebih akurat daripada biasanya.
 
-$ Ranged weapons are required to equip the warriors in the tower.
-$ This tower holds {arch_number} archers."
-hint_watch_tower_summon,"Summon Archers
-Call warriors to this tower.
+$ Senjata jarak jauh diperlukan untuk melengkapi prajurit di menara ini.
+$ Menara ini menampung {arch_number} pemanah."
+hint_watch_tower_summon,"Panggil Pemanah
+Panggil prajurit ke menara ini.
 
-You will need to wait a bit while they collect their assigned weapons and reach the tower."
-hint_watch_tower_summon_abort,"Disband Archers
-The warriors will leave the tower and return their weapons to the warehouse"
-hint_watch_tower_checkbox_shoot_in_archers,"Target Archers
-When checked, the archers in the tower will prioritize targeting enemy archers."
-hint_watch_tower_checkbox_auto_summon,"Automatic Summon
-When checked, if an enemy appears on the province map, the warriors will automatically collect weapons from the warehouse and occupy the tower."
-hint_dahamat_cult,"Cult of Dahamat
-Dahamat is an ancient fertility goddess of the Makha people, who was displaced by the cult of Mother Sophia during early imperial times.
+Anda perlu menunggu sebentar sementara mereka mengumpulkan senjata yang ditugaskan dan mencapai menara."
+hint_watch_tower_summon_abort,"Pecat Pemanah
+Prajurit akan meninggalkan menara dan mengembalikan senjata mereka ke Gudang"
+hint_watch_tower_checkbox_shoot_in_archers,"Target Pemanah
+Jika dicentang, pemanah di menara akan memprioritaskan penargetan pemanah musuh."
+hint_watch_tower_checkbox_auto_summon,"Panggilan Otomatis
+Jika dicentang, jika musuh muncul di peta provinsi, prajurit akan secara otomatis mengumpulkan senjata dari Gudang dan menduduki menara."
+hint_dahamat_cult,"Kultus Dahamat
+Dahamat adalah dewi kesuburan kuno dari suku Dayak, yang digantikan oleh kultus Ibu Sophia selama masa kekaisaran awal.
 
-Although the sacred groves and ancient altars of Dahamat were desecrated and replaced by temples of Mother Sophia, the priests of Dahamat were not completely eradicated. They transformed their cult into a secret, highly exclusive society. While Mother Sophia inherited many traits of the old Dahamat, the later cult of the old goddess took on more sinister features, allowing its followers to survive until recent times.
+Meskipun hutan suci dan altar kuno Dahamat dirusak dan diganti oleh kuil-kuil Ibu Sophia, para pendeta Dahamat tidak sepenuhnya musnah. Mereka mengubah kultus mereka menjadi masyarakat rahasia yang sangat eksklusif. Meskipun Ibu Sophia mewarisi banyak sifat dari Dahamat yang lama, kultus dewi lama tersebut kemudian mengambil ciri-ciri yang lebih jahat, memungkinkan pengikutnya bertahan hingga masa kini.
 
-The cult priests, in particular, possess the ability to secretly kill anyone, whether a lord or King, anywhere in Norland. Ignorant rumors attribute a supernatural nature to this skill, while more enlightened lords speak of their centuries-honed acting skills. They mimic anyone, mastering accents, gestures, and clothing, enabling the cult’s assassins to infiltrate the most secure places and use an ancient poison that leaves no trace.
+Para pendeta kultus, khususnya, memiliki kemampuan untuk membunuh siapa pun secara rahasia, baik tuan tanah maupun Raja, di mana saja di Norland. Rumor bodoh mengaitkan sifat supranatural pada keterampilan ini, sementara para penguasa yang lebih tercerahkan berbicara tentang keterampilan akting mereka yang diasah selama berabad-abad. Mereka meniru siapa pun, menguasai aksen, gerakan, dan pakaian, memungkinkan para pembunuh kultus menyusup ke tempat-tempat paling aman dan menggunakan racun kuno yang tidak meninggalkan jejak.
 
-Cult priests often visit cities, offering their services in exchange for the firstborns of noble Kings, who are then raised in their religion.
+Para pendeta kultus sering mengunjungi kota-kota, menawarkan jasa mereka dengan imbalan anak sulung dari raja-raja bangsawan, yang kemudian dibesarkan dalam agama mereka.
 
-The actual whereabouts of the Dahamat priests remain a mystery, despite the Holy Inquisition's interest, possibly due to some Kings' reluctance to engage in conflict with the cult."
-hint_watch_tower_lack_of_weapon,"Not Enough Weapons
-Assign more ranged weapons in the tower menu to ensure there are enough of them for all the warriors."
-hint_impotence,"Impotence
-For an unknown reason, the character can no longer engage in sexual activity."
-hint_longlive,"Longevity
-Thanks to special knowledge, this character’s life will be extended by {number} years."
-hint_male_birth,"Blessing of Sophia
-By the will of Mother Sophia, all of this character’s children will be boys."
-hint_resource_crossbow,"Crossbow
-Ranged weapon.
+Lokasi sebenarnya dari para pendeta Dahamat tetap menjadi misteri, meskipun menarik perhatian Inkuisisi Suci, mungkin karena keengganan beberapa Raja untuk terlibat konflik dengan kultus tersebut."
+hint_watch_tower_lack_of_weapon,"Senjata Tidak Cukup
+Tugaskan lebih banyak senjata jarak jauh di menu menara untuk memastikan ada cukup untuk semua prajurit."
+hint_impotence,"Impotensi
+Karena alasan yang tidak diketahui, karakter tidak lagi dapat melakukan aktivitas seksual."
+hint_longlive,"Umur Panjang
+Berkat pengetahuan khusus, umur karakter ini akan diperpanjang {number} tahun."
+hint_male_birth,"Berkah Sophia
+Dengan kehendak Ibu Sophia, semua anak karakter ini akan laki-laki."
+hint_resource_crossbow,"Busur Silang
+Senjata jarak jauh.
 
-$ Successfully pierces and destroys armor and shields.
-$ Compared to <hint=hint_resource_bow>Bow</hint>, it is much less effective against unarmored targets, as it loads twice as slowly.
+$ Berhasil menembus dan menghancurkan zirah dan perisai.
+$ Dibandingkan dengan <hint=hint_resource_bow>Busur</hint>, kurang efektif terhadap target tanpa zirah, karena memuat dua kali lebih lambat.
 
-<b>Production</b>
-$ Produced in <hint=hint_bld_workshop>Workshop</hint>.
-$ Requires <hint=hint_resource_wood>1</hint> and <hint=hint_resource_steel>1</hint> to create."
-hint_action_depart_uniq_guest,"Expel
-Expel the guest. You might avoid negative consequences from their stay, but you could also miss out on interesting opportunities."
-hint_action_hire_mountain_knight,"Hire the Knight
-By hiring this fugitive marauder, you will gain an exceptionally powerful knight capable of leading your troops.
+<b>Produksi</b>
+$ Diproduksi di <hint=hint_bld_workshop>Bengkel</hint>.
+$ Membutuhkan <hint=hint_resource_wood>1</hint> dan <hint=hint_resource_steel>1</hint> untuk dibuat."
+hint_action_depart_uniq_guest,"Usir
+Usir tamu tersebut. Anda mungkin menghindari konsekuensi negatif dari kunjungan mereka, tapi Anda juga bisa melewatkan peluang menarik."
+hint_action_hire_mountain_knight,"Rekrut Ksatria
+Dengan merekrut begal buronan ini, Anda akan mendapatkan ksatria yang sangat kuat yang mampu memimpin pasukan Anda.
 
-However, you will soon have to withstand an attack from {warriors_min} - {warriors_max} of their former <hint=hint_person_maroders>marauder</hint> kin."
-hint_action_trade_with_knowledge_trade,"Trade Books
-A Scriptonic trades in unique books that cannot be purchased anywhere else."
-hint_action_witch_give,"Witch: Deliver to Justice
-You hand the witch over to the church, after which she will be executed.
+Namun, Anda segera harus menahan serangan dari {warriors_min} - {warriors_max} mantan <hint=hint_person_maroders>marauder</hint> kerabat mereka."
+hint_action_trade_with_knowledge_trade,"Perdagangan Buku
+Seorang Scriptonics berdagang buku unik yang tidak bisa dibeli di tempat lain."
+hint_action_witch_give,"Penyihir: Serahkan ke Keadilan
+Anda menyerahkan penyihir itu ke gereja, setelah itu dia akan dieksekusi.
 
-$ Relations with the <hint=hint_relations_matriarch>Matriarch</hint>: <green>+{rel_inc}</green>"
-hint_action_witch_save,"Witch: Bribe the Bishop
-You convince the Bishop to overlook the witch's arrival in your settlement. In return, the witch will be grateful to you.
+$ Hubungan dengan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{rel_inc}</green>"
+hint_action_witch_save,"Penyihir: Suap Uskup
+Anda meyakinkan Uskup untuk mengabaikan kedatangan penyihir di pemukiman Anda. Sebagai imbalannya, penyihir akan berterima kasih kepada Anda.
 
-$ Bribe cost: <hint=hint_resource_rune>{cost}</hint>"
-hint_action_bandit_slave_buy,"Ransom the Prisoner
-After the ransom, he will become your prisoner and will keep the secret of his origin until you free him.
+$ Biaya suap: <hint=hint_resource_rune>{cost}</hint>"
+hint_action_bandit_slave_buy,"Tebus Narapidana
+Setelah tebusan, dia akan menjadi narapidana Anda dan akan menyimpan rahasia asal-usulnya sampai Anda membebaskannya.
 
-$ Ransom cost: <hint=hint_resource_rune>{gold}</hint>"
-hint_action_buy_dog,"Buy a Dog
-The lord who purchases a dog will receive a loyal companion that will be with him for life.
+$ Biaya tebusan: <hint=hint_resource_rune>{gold}</hint>"
+hint_action_buy_dog,"Beli Anjing
+Penguasa yang membeli anjing akan menerima pendamping setia yang akan bersamanya seumur hidup.
 
-$ Price: <hint=hint_resource_rune>{cost}</hint>"
-hint_action_sacrifice_allow,"Allow the Red Mass
-Give the archons 3 prisoners so they can perform the Red Mass in your province, honoring the <hint=hint_dead_god_herecy>Dead God</hint>.
+$ Harga: <hint=hint_resource_rune>{cost}</hint>"
+hint_action_sacrifice_allow,"Izinkan Red Mass
+Berikan 3 narapidana kepada para archons agar mereka dapat melakukan Red Mass di provinsimu, menghormati <hint=hint_dead_god_herecy>Dead God</hint>.
 
-$ The Bishop will report this to the Matriarch, and his relations with your king will decrease by: <red>{rel_dec}</red>
-$ Your ruler will receive the blessing of the Dead God, which often reveals unexpected aspects of their personality and abilities."
-hint_nt_witch_king_got_impotence,"Unwellness
-Upon waking up in the morning, your ruler {soul_uuid} realized that he has lost interest in sex.
+$ Uskup akan melaporkan ini kepada Matriark, dan hubungannya dengan rajamu akan menurun sebesar: <red>{rel_dec}</red>
+$ Penguasa Anda akan menerima berkah dari Dead God, yang sering kali mengungkap aspek tak terduga dari kepribadian dan kemampuan mereka."
+hint_nt_witch_king_got_impotence,"Kondisi Tidak Sehat
+Setelah bangun di pagi hari, penguasa Anda {soul_uuid} menyadari bahwa ia telah kehilangan minat pada kebutuhan seksual.
 
-More precisely, he is unable to engage in it anymore due to strange physiological reasons.
+Lebih tepatnya, ia tidak lagi mampu melakukannya karena alasan fisiologis aneh.
 
-Most likely, the witch you recently handed over to the church managed to cast her curse.
+Kemungkinan besar, penyihir yang baru saja Anda serahkan kepada Pihak Gereja berhasil melemparkan kutukannya.
 
-This condition will last for {days} days."
-hint_unavailable_join_army_not_enemy,"Unable to summon
-{faction_uuid} is not an enemy to {faction_uuid_target} and refuses to spill the blood of its people."
-hint_unavailable_join_army_already_summoned,"Unable to summon
-You have already summoned the army of {faction_uuid}."
-hint_unavailable_join_army_in_player_town,"Unable to summon
-The army of {faction_uuid} is currently present in your province."
-hint_unavailable_join_army_on_road,"Unable to summon
-The army of {faction_uuid} is currently on a military campaign. Wait until they return home."
-hint_unavailable_send_army_has_supporters,"Unavailable
-This army contains other kings who were summoned for a specific purpose, so it must be disbanded before assigning new tasks"
-hint_unavailable_send_army_in_battle,"Unavailable
-This army is currently engaged in battle."
-hint_separate_supporters_squads,"Disband units
-Disband the units of other kings that are present in the army."
-hint_unavailable_join_army_not_attack,"Unable to summon
-Assistance in this matter is beyond the obligations of other kings."
-hint_number_of_supporters,"Support Units
-You can summon your allies or vassals for this attack. They may either join your army or embark on the campaign independently.
+Kondisi ini akan berlangsung selama {days} hari."
+hint_unavailable_join_army_not_enemy,"Tidak Dapat Dipanggil
+{faction_uuid} bukan musuh bagi {faction_uuid_target} dan menolak untuk menumpahkan darah rakyatnya."
+hint_unavailable_join_army_already_summoned,"Tidak Dapat Dipanggil
+Anda sudah memanggil pasukan {faction_uuid}."
+hint_unavailable_join_army_in_player_town,"Tidak Dapat Dipanggil
+Pasukan {faction_uuid} saat ini berada di provinsimu."
+hint_unavailable_join_army_on_road,"Tidak Dapat Dipanggil
+Pasukan {faction_uuid} saat ini sedang dalam kampanye militer. Tunggu hingga mereka kembali ke rumah."
+hint_unavailable_send_army_has_supporters,"Tidak Tersedia
+Pasukan ini berisi raja-raja lain yang dipanggil untuk tujuan tertentu, sehingga harus dibubarkan sebelum menugaskan tugas baru"
+hint_unavailable_send_army_in_battle,"Tidak Tersedia
+Pasukan ini saat ini sedang bertempur."
+hint_separate_supporters_squads,"Bubarkan Unit
+Bubarkan unit-unit raja-raja lain yang ada di pasukan tersebut."
+hint_unavailable_join_army_not_attack,"Tidak Dapat Dipanggil
+Bantuan dalam hal ini berada di luar kewajiban raja-raja lain."
+hint_number_of_supporters,"Unit Pendukung
+Anda dapat memanggil sekutu atau vasal Anda untuk serangan ini. Mereka dapat bergabung dengan pasukan Anda atau memulai kampanye secara independen.
 
-$ The number of units you can summon depends on your king's <hint=hint_skill_command>Command</hint> skill. For every {skill} levels, you can summon 1 unit.
-$ If you are a suzerain, all of your vassals' units are available for summoning.
-$ If you are a member of a city alliance, only those allies hostile to the target will agree to join the campaign.
-$ The loot will be divided among all units participating in the campaign."
-hint_unavailable_join_army_supporters_limit,"Unable to summon
-Your king's <hint=hint_skill_command>Command</hint> skill is insufficient to add another allied unit to the army.
+$ Jumlah unit yang dapat Anda panggil tergantung pada keterampilan <hint=hint_skill_command>Komando</hint> raja Anda. Untuk setiap {skill} tingkat, Anda dapat memanggil 1 unit.
+$ Jika Anda adalah suzerain, semua unit vasal Anda tersedia untuk dipanggil.
+$ Jika Anda adalah anggota aliansi kota, hanya sekutu yang memusuhi target yang akan setuju bergabung dalam kampanye.
+$ Rampasan perang akan dibagi di antara semua unit yang berpartisipasi dalam kampanye."
+hint_unavailable_join_army_supporters_limit,"Tidak Dapat Memanggil
+Keterampilan <hint=hint_skill_command>Komando</hint> raja Anda tidak mencukupi untuk menambahkan unit sekutu lain ke pasukan.
 
-<b>Hint:</b> For every {skill} levels, you can summon 1 unit."
-hint_supporter_army_will_gain_all_reward,"By Other Hands
-<b>Attention:</b> Since your armies are not involved, all loot will be divided among the other participants."
-hint_supporter_army_will_gain_part_of_reward,"Equal Share
-<b>Attention:</b> All loot will be divided equally among all participants."
-hint_demand_player_send_army_to_attack_description,"Demand to Fulfill Vassal Duty
-Your suzerain {soul_uuid_king} from {faction_uuid} demands that you join them in the attack on the province of {faction_uuid_target}. You must send a squad to join the suzerain's forces.
+<b>Petunjuk:</b> Untuk setiap {skill} tingkat, Anda dapat memanggil 1 unit."
+hint_supporter_army_will_gain_all_reward,"Oleh Tangan Lain
+<b>Perhatian:</b> Karena pasukan Anda tidak terlibat, semua rampasan perang akan dibagi di antara peserta lain."
+hint_supporter_army_will_gain_part_of_reward,"Pembagian yang Adil
+<b>Perhatian:</b> Semua rampasan perang akan dibagi secara merata di antara semua peserta."
+hint_demand_player_send_army_to_attack_description,"Tuntutan untuk Memenuhi Tugas Vasal
+Suzerain Anda {soul_uuid_king} dari {faction_uuid} menuntut Anda bergabung dengan mereka dalam serangan ke provinsi {faction_uuid_target}. Anda harus mengirim regu untuk bergabung dengan pasukan suzerain.
 
-The reward gained during the campaign will be divided equally among all participants.
+Hadiah yang diperoleh selama kampanye akan dibagi secara merata di antara semua peserta.
 
-If you fail to fulfill your vassal duty, then:
-$ Relations with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
-hint_demand_player_send_army_to_attack_send_army,"Send Squad
-Send an squad to fulfill your vassal duty."
+Jika Anda gagal memenuhi tugas vasal Anda, maka:
+$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
+hint_demand_player_send_army_to_attack_send_army,"Kirim Regu
+Kirim regu untuk memenuhi tugas vasal Anda."
 hint_demand_player_send_army_to_attack_ignore,"~
-Your suzerain {soul_uuid_king} did not wait for your troops. You have broken your vassal oath.
+Suzerain Anda {soul_uuid_king} tidak menunggu pasukan Anda. Anda telah melanggar sumpah vasal Anda.
 
-$ Relations with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
+$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
 hint_demand_player_send_army_to_attack_success,"~
-You have sent your troops to your suzerain. They will soon head into battle as part of the united army."
-hint_nt_witch_came,"Witch
-The witch asks for your shelter and protection from <hint=hint_bishop>Bishop</hint>, in exchange for her gratitude. She promises not to stay long.
+Anda telah mengirim pasukan Anda ke suzerain Anda. Mereka segera akan bergerak ke medan perang sebagai bagian dari pasukan gabungan."
+hint_nt_witch_came,"Penyihir
+Penyihir meminta perlindungan dan tempat berlindung Anda dari <hint=hint_bishop>Uskup</hint>, sebagai imbalan atas rasa terima kasihnya. Dia berjanji tidak akan tinggal lama.
 
-$ You can bribe the Bishop so he doesn't notice the witch's presence. In return, you will receive a gift from the witch.  
-$ You can report to the Bishop about your desire to execute the witch. Your relations with the <hint=hint_relations_matriarch>Matriarch</hint> will improve, but the witch may have enough time to curse your king.
+$ Anda dapat menyuap Uskup agar dia tidak menyadari kehadiran penyihir. Sebagai imbalannya, Anda akan menerima hadiah dari penyihir.  
+$ Anda dapat melaporkan kepada Uskup tentang keinginan Anda untuk mengeksekusi penyihir. Hubungan Anda dengan <hint=hint_relations_matriarch>Matriark</hint> akan membaik, tetapi penyihir mungkin memiliki waktu yang cukup untuk mengutuk raja Anda.
 
-<b>Hint:</b> The decision regarding the witch must be made in the Bishop's menu."
-hint_ask_player_send_army_to_attack_description,"Request to Send Army
-{soul_uuid_king} from {faction_uuid} is allied with you, and he invites you to join him in the attack on the province of {faction_uuid_target}. If you wish, you can send a squad to join his army.
+<b>Petunjuk:</b> Keputusan mengenai penyihir harus dibuat di menu Uskup."
+hint_ask_player_send_army_to_attack_description,"Permintaan untuk Mengirim Pasukan
+{soul_uuid_king} dari {faction_uuid} bersekutu dengan Anda, dan dia mengundang Anda bergabung dengannya dalam serangan ke provinsi {faction_uuid_target}. Jika diinginkan, Anda dapat mengirim regu untuk bergabung dengan pasukannya.
 
-The reward gained during the campaign will be divided equally among all participants.
+Hadiah yang diperoleh selama kampanye akan dibagi secara merata di antara semua peserta.
 
-If you send troops, then:
-$ Relations with {soul_uuid_king}: <green>{send_army_rel_im}</green>"
-hint_ask_player_send_army_to_attack_send_army,"Send Squad
-Send a squad to assist your ally.
+Jika Anda mengirim pasukan, maka:
+$ Hubungan dengan {soul_uuid_king}: <green>{send_army_rel_im}</green>"
+hint_ask_player_send_army_to_attack_send_army,"Kirim Regu
+Kirim regu untuk membantu sekutu Anda.
 
-$ Relations with {soul_uuid_king}: <green>{send_army_rel_im}</green>"
+$ Hubungan dengan {soul_uuid_king}: <green>{send_army_rel_im}</green>"
 hint_ask_player_send_army_to_attack_ignore,"~
-Your ally {soul_uuid_king} did not wait for your assistance.
+Sekutu Anda {soul_uuid_king} tidak menunggu bantuan Anda.
 
-Since such help is not part of your alliance obligations, this will not affect your relations."
+Karena bantuan semacam itu bukan bagian dari kewajiban aliansi Anda, ini tidak akan memengaruhi hubungan Anda."
 hint_ask_send_army_to_attack_success,"~
-You have sent troops to your ally. They will soon head into battle as part of the united army.
+Anda telah mengirim pasukan ke sekutu Anda. Mereka segera akan bergerak ke medan perang sebagai bagian dari pasukan gabungan.
 
-$ Relations with {soul_uuid_king}: <green>{send_army_rel_im}</green>"
-hint_nt_guest_arrive_assassin,"Priest of Dahamat
-This person is a priest of the ancient <hint=hint_dahamat_cult>goddess Dahamat</hint>. It is a secret cult that possesses the skill of covert assassination.
+$ Hubungan dengan {soul_uuid_king}: <green>{send_army_rel_im}</green>"
+hint_nt_guest_arrive_assassin,"Pendeta Dahamat
+Orang ini adalah pendeta dewi kuno <hint=hint_dahamat_cult>dewi Dahamat</hint>. Ini adalah kultus rahasia yang memiliki keterampilan pembunuhan rahasia.
 
-The priest has arrived in your province in search of new souls. If you are willing to offer him the <b>King's firstborn</b>, the cult will be able to kill any of your enemies in any part of Norland.
+Pendeta telah tiba di provinsi Anda untuk mencari jiwa-jiwa baru. Jika Anda bersedia menawarkannya <b>Sulung Raja</b>, kultus akan dapat membunuh musuh mana pun di wilayah mana pun di Norland.
 
-$ You will never see the child you sacrifice to the cult again.
-$ Afterward, you will be able to discreetly eliminate any enemy. The death will appear natural, and no one will suspect you."
-hint_nt_guest_arrive_dog_seller,"Dog Merchant
-No one knows where these creatures come from, but they are known for their friendliness and loyalty to their owners.
+$ Anda tidak akan pernah melihat anak yang Anda korbankan ke kultus lagi.
+$ Setelah itu, Anda akan dapat menghilangkan musuh mana pun secara diam-diam. Kematian akan tampak alami, dan tidak ada yang akan mencurigai Anda."
+hint_nt_guest_arrive_dog_seller,"Pedagang Anjing
+Tidak ada yang tahu dari mana makhluk-makhluk ini berasal, tetapi mereka dikenal karena keramahan dan kesetiaan mereka kepada pemiliknya.
 
-You can buy a dog from the merchant, and the lord who purchases it will become its owner."
-hint_nt_guest_arrive_joker,"Wandering Jester
-Wandering jesters travel from town to town, performing for the peasants and contenting themselves with modest alms."
+Anda dapat membeli anjing dari pedagang, dan tuan yang membelinya akan menjadi pemiliknya."
+hint_nt_guest_arrive_joker,"Badut Pengembara
+Badut pengembara bepergian dari kota ke kota, tampil untuk para petani dan puas dengan sedekah sederhana."
 hint_nt_guest_arrive_knowledge_trader,"Scriptonics
-The Scriptonics are a secretive community of book lovers and librarians who thrived during the times of the <hint=hint_crimson_empire>Crimson Empire</hint>, but were later forced to flee to the mountains. There, they established secluded and hard-to-reach sanctuaries, where they continue to collect and transcribe ancient books. Their colonies peacefully coexist with the villages of <hint=hint_person_maroders>marauders</hint>, to whom they provide medical services in exchange for protection.
+Scriptonics adalah komunitas rahasia pecinta buku dan pustakawan yang berkembang selama masa <hint=hint_crimson_empire>Kekaisaran Crimson</hint>, tetapi kemudian dipaksa melarikan diri ke pegunungan. Di sana, mereka mendirikan tempat perlindungan yang terpencil dan sulit dijangkau, di mana mereka terus mengumpulkan dan menyalin buku-buku kuno. Koloni mereka hidup berdampingan secara damai dengan desa-desa <hint=hint_person_maroders>Begal</hint>, kepada siapa mereka menyediakan layanan medis sebagai imbalan perlindungan.
 
-Nevertheless, Scriptonics occasionally appear in the cities of Norland to engage in the <b>trade of books</b> that cannot be purchased from the <hint=hint_holy_caravan>Holy Caravan</hint>."
-hint_nt_guest_arrive_mountain_knight,"Marauder Knight
-This seasoned warrior fled from their mountain marauder community because they grew tired of constantly freezing and herding goats.
+Meskipun demikian, Scriptonics sesekali muncul di kota-kota Norland untuk terlibat dalam <b>perdagangan buku</b> yang tidak dapat dibeli dari <hint=hint_holy_caravan>Karavan Suci</hint>."
+hint_nt_guest_arrive_mountain_knight,"Ksatria Begal
+Prajurit berpengalaman ini melarikan diri dari komunitas Begal gunung mereka karena mereka lelah terus-menerus kedinginan dan menggembalakan kambing.
 
-The marauder hopes you will hire them, as their skills in <hint=hint_skill_command>Command</hint> and <hint=hint_skill_combat>Combat</hint> far surpass those of ordinary knights of Norland.
+Begal ini berharap Anda akan mempekerjakannya, karena keterampilannya dalam <hint=hint_skill_command>Komando</hint> dan <hint=hint_skill_combat>Tempur</hint> jauh melampaui ksatria biasa di Norland.
 
-The problem is that a squad of their former kin has already been sent to punish the deserter as an example. So, if you take them in, you will need to fend off an attack from several experienced marauder fighters."
-hint_nt_guest_arrive_cultists,"Archons of the Dead God
-A group of archons of the <hint=hint_dead_god_herecy>Dead God</hint> has come to you with a proposal.
+Masalahnya adalah bahwa sebuah regu dari kerabat lamanya telah dikirim untuk menghukum pembelot sebagai contoh. Jadi, jika Anda menerimanya, Anda perlu menangkis serangan dari beberapa petarung Begal berpengalaman."
+hint_nt_guest_arrive_cultists,"Arkon Dead God
+Sebuah kelompok arkon dari <hint=hint_dead_god_herecy>Dead God</hint> datang kepada Anda dengan proposal.
 
-The current planetary alignment is favorable for a red mass, and they need three souls to perform it properly.
+Penjajaran planet saat ini menguntungkan untuk misa merah, dan mereka membutuhkan tiga jiwa untuk melaksanakannya dengan benar.
 
-They ask you to give them three of your prisoners in exchange for the blessing of the Dead God for your king.
+Mereka meminta Anda untuk memberikan tiga Tahanan Anda sebagai imbalan atas berkah Dead God untuk raja Anda.
 
-The Bishop will not interfere, as he is terrified of the archons, but you can be certain that he will report the mass to the <hint=hint_relations_matriarch>Matriarch</hint>."
-hint_nt_guest_arrive_bandit_and_slave,"Vagabond with a Prisoner
-A suspicious-looking man, appearing to be a vagabond, offers you the chance to ransom a special prisoner he has brought with him.
+Uskup tidak akan ikut campur, karena ia ketakutan terhadap para arkon, tetapi Anda bisa yakin bahwa ia akan melaporkan misa itu kepada <hint=hint_relations_matriarch>Matriark</hint>."
+hint_nt_guest_arrive_bandit_and_slave,"Pengembara dengan Narapidana
+Seorang pria yang tampak mencurigakan, yang tampak seperti pengembara, menawarkan kesempatan untuk menebus seorang narapidana khusus yang dibawanya.
 
-The vagabond claims that his prisoner is a very noble lord from the far reaches of Norland who does not wish to reveal his name until he is free. However, if you ransom and release him, the prisoner the prisoner will now be in your debt.
+Pengembara mengklaim bahwa narapidana-nya adalah seorang penguasa bangsawan yang sangat mulia dari wilayah terpencil Norland yang tidak ingin mengungkap namanya sampai ia bebas. Namun, jika Anda menebus dan membebaskannya, narapidana narapidana tersebut sekarang akan berutang kepada Anda.
 
-The prisoner silently smiles and merely nods when it comes to the prospect of his gratitude.
+Narapidana itu tersenyum diam-diam dan hanya mengangguk ketika berbicara tentang prospek rasa syukurnya.
 
-Unfortunately, it is impossible to verify the truth of this story until after the prisoner is freed."
-hint_display_event_too_smart_old_lord,"Risk of Knowledge Loss
-Lord {soul_uuid} holds {percent}% of all your technologies, and he is no longer young. This is risky because if something happens to this lord, all this knowledge will be lost.
+Sayangnya, tidak mungkin memverifikasi kebenaran cerita ini sampai setelah narapidana dibebaskan."
+hint_display_event_too_smart_old_lord,"Risiko Kehilangan Pengetahuan
+Tuan {soul_uuid} memegang {percent}% dari semua teknologi Anda, dan dia sudah tidak muda lagi. Ini berisiko karena jika sesuatu terjadi pada tuan ini, semua pengetahuan ini akan hilang.
 
-$ Use <hint=hint_action_wise_talk>Wise Conversation</hint> to share the knowledge from this lord with others
-$ Assign another lord (preferably a younger one) to study the knowledge currently held solely by {soul_uuid}"
-hint_warning_sleeping_production,"Production halted
-The order will not be fulfilled because all production buildings of this type have been stopped or do not have workers."
+$ Gunakan <hint=hint_action_wise_talk>Percakapan Bijak</hint> untuk membagikan pengetahuan dari tuan ini dengan yang lain
+$ Tetapkan tuan lain (sebaiknya yang lebih muda) untuk mempelajari pengetahuan yang saat ini hanya dipegang oleh {soul_uuid}"
+hint_warning_sleeping_production,"Produksi Dihentikan
+Pesanan tidak akan dipenuhi karena semua bangunan produksi tipe ini telah dihentikan atau tidak memiliki pekerja."
 hint_unavailable_lord_banned,"Persona Non Grata
-{soul_uuid_lord}: The Lord is permanently banned from visiting the city of {faction_uuid} due to crimes committed against the province."
+{soul_uuid_lord}: Tuan tersebut secara permanen dilarang mengunjungi kota {faction_uuid} karena kejahatan yang dilakukan terhadap provinsi tersebut."
 hint_mind_animal_master,"[hint_mind_caption]
-I have someone who loves me just for who I am!"
+Aku punya seseorang yang mencintaiku apa adanya!"
 hint_mind_animal_play,"[hint_mind_caption]
-It was really nice to play with the dog!"
-hint_unavailable_join_army_no_forces,"Unable to summon
-{faction_uuid} has no warriors they can send to assist you."
+Sungguh menyenangkan bermain dengan anjing itu!"
+hint_unavailable_join_army_no_forces,"Tidak Dapat Memanggil
+{faction_uuid} tidak memiliki prajurit yang bisa mereka kirim untuk membantu Anda."
 hint_optional_tax_free_for_vassals,"~
-For the support support they have provided to you, your chosen vassals will be exempt from vassal tax for {days} days. In total, you will be underpaid by about <hint=hint_resource_gold>{tax_free_amount}</hint> during this time."
-hint_ai_vassal_want_to_rebel,"A rebellion is brewing
-Your vassal {soul_uuid_king} from the province {faction_uuid} has become hostile toward your king and is preparing to break away from your rule.
+Untuk dukungan yang telah mereka berikan kepada Anda, bawahan pilihan Anda akan dibebaskan dari pajak bawahan selama {days} hari. Secara total, Anda akan kekurangan pembayaran sekitar <hint=hint_resource_gold>{tax_free_amount}</hint> selama waktu ini."
+hint_ai_vassal_want_to_rebel,"Pemberontakan Sedang Direncanakan
+Bawahan Anda {soul_uuid_king} dari provinsi {faction_uuid} telah menjadi permusuhan terhadap raja Anda dan sedang mempersiapkan untuk memisahkan diri dari kekuasaan Anda.
 
-If within 24 hours you do not manage to restore relations with them from {current_opinion} to {min_opinion_threshold}, a rebellion will begin.
+Jika dalam 24 jam Anda tidak berhasil memulihkan hubungan dengan mereka dari {current_opinion} ke {min_opinion_threshold}, pemberontakan akan dimulai.
 
-<b>Hint:</b> You can also try to neutralize the rebellious vassal by other means (e.g., by killing or kidnapping them).
+<b>Petunjuk:</b> Anda juga bisa mencoba menetralkan bawahan pemberontak dengan cara lain (misalnya, dengan membunuh atau menculik mereka).
 
 {optional_other_rebel_vassals}"
 hint_optional_other_vassals_want_to_rebel,"~
-There is a chance that these vassals will support the rebellion when it begins:"
-hint_bribe_ai_heir_description,"Bribe the heir
-Bribe the crown heir {soul_uuid_heir} to instigate a rebellion."
-hint_bribe_ai_heir_description_performer,"Bribe the heir
+Ada kemungkinan bahwa bawahan-bawahan ini akan mendukung pemberontakan ketika dimulai:"
+hint_bribe_ai_heir_description,"Suap Pewaris
+Suap pewaris mahkota {soul_uuid_heir} untuk memicu pemberontakan."
+hint_bribe_ai_heir_description_performer,"Suap Pewaris
 {skill_name} {skill_level} lvl.
-{skill_name} of the target {lord_skill_level} lvl.
+{skill_name} target {lord_skill_level} lvl.
 
-As a result:
-<hint=hint_loyalty>The loyalty</hint> of the heir to their king will drop to <red>{heir_rebellion_target_loyalty}</red>.
+Akibatnya:
+<hint=hint_loyalty>Kesetiaan</hint> pewaris kepada rajanya akan turun menjadi <red>{heir_rebellion_target_loyalty}</red>.
 
-{soul_uuid_heir} will initiate a rebellion, but only {heir_rebellion_soldiers_percent}% of the warriors will join the rebels, and you will need to support them with your own troops.
+{soul_uuid_heir} akan memulai pemberontakan, tetapi hanya {heir_rebellion_soldiers_percent}% dari prajurit yang akan bergabung dengan pemberontak, dan Anda perlu mendukung mereka dengan pasukan Anda sendiri.
 
-<b>Cost:</b> <hint=hint_resource_rune>{heir_bribe_cost_rings}</hint>"
+<b>Biaya:</b> <hint=hint_resource_rune>{heir_bribe_cost_rings}</hint>"
 hint_bribe_ai_heir_success,"~
-You have bribed {soul_uuid_heir}, the heir of {faction_uuid}. They will soon start a rebellion."
-hint_action_order_song_religious,"Order a Religious Hymn
-The minstrel will perform a song about how Mother Sophia punished a sinner, and he, having found faith, was cleansed of his sins, after which a miracle was revealed to him.
+Anda telah menyogok {soul_uuid_heir}, pewaris dari {faction_uuid}. Mereka akan segera memulai pemberontakan."
+hint_action_order_song_religious,"Perintahkan Lagu Rohani
+Penyanyi pengembara akan menyanyikan lagu tentang bagaimana Ibu Sophia menghukum seorang pendosa, dan dia, setelah menemukan iman, dibersihkan dari dosanya, setelah itu mukjizat terungkap kepadanya.
 
-<b>Effect:</b> {number} listeners will become religious fanatics.
-<b>Cost:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
-hint_action_order_song_lyric,"Order a Lyrical Poem
-The minstrel will perform a touching story of love, devotion, and simple happiness. The heartfelt lines accompanied by the gentle strumming of strings will soothe the souls of the listeners.
+<b>Efek:</b> {number} pendengar akan menjadi fanatik agama.
+<b>Biaya:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
+hint_action_order_song_lyric,"Perintahkan Puisi Lirik
+Penyanyi pengembara akan menceritakan kisah menyentuh tentang cinta, pengabdian, dan kebahagiaan sederhana. Baris-baris yang tulus disertai dengan petikan lembut senar akan menenangkan jiwa para pendengar.
 
-<b>Effect:</b> {number} listeners will receive a positive <hint=hint_thought>thought</hint>.
-<b>Cost:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
-hint_action_order_song_glory,"Order a Heroic Song
-The minstrel will tell of the feats of ancestors and the trials to come, inspiring those who are ready to challenge fate and give their lives for the king.
+<b>Efek:</b> {number} pendengar akan menerima <hint=hint_thought>pikiran</hint> positif.
+<b>Biaya:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
+hint_action_order_song_glory,"Perintahkan Lagu Heroik
+Penyanyi pengembara akan menceritakan prestasi leluhur dan ujian yang akan datang, menginspirasi mereka yang siap menantang nasib dan mengorbankan nyawa untuk raja.
 
-<b>Effect:</b> {number} listeners will become <hint=hint_loyalist>loyalists</hint>.
-<b>Cost:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
-hint_action_order_song_good,"Order a Moral Tale
-The minstrel will tell a cautionary tale of a simple peasant who tried to gain wealth by dishonest means, only to meet his end at the gallows. His wife and children were inconsolable.
+<b>Efek:</b> {number} pendengar akan menjadi <hint=hint_loyalist>loyalis</hint>.
+<b>Biaya:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
+hint_action_order_song_good,"Perintahkan Kisah Moral
+Penyanyi pengembara akan menceritakan kisah peringatan tentang seorang petani sederhana yang mencoba memperoleh kekayaan dengan cara curang, hanya untuk bertemu akhirnya di panggung gantung. Istrinya dan anak-anaknya tidak bisa dihibur.
 
-<b>Effect:</b> {number} <hint=hint_persons_criminal>vagabonds</hint> or <hint=hint_persons_cuthroat>cutthroats</hint> will decide to return to the honest life of a peasant.
-<b>Cost:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
-hint_action_dog_transit,"Give the Dog
-Give the dog to this lord. He will become its new owner."
-hint_action_dog_tame,"Tame the Dog
-This dog has no owner, so you can tame it and it will become the chosen lord’s pet."
-hint_nt_guest_arrive_bard,"Minstrel
-A wandering minstrel visits your town. Common folk love the songs and stories of minstrels and believe everything they sing about.
+<b>Efek:</b> {number} <hint=hint_persons_criminal>pengembara</hint> atau <hint=hint_persons_cuthroat>pembunuh berantai</hint> akan memutuskan untuk kembali ke kehidupan jujur sebagai petani.
+<b>Biaya:</b> <hint=hint_resource_gold>{cost_rings}</hint>"
+hint_action_dog_transit,"Berikan Anjing Itu
+Berikan anjing itu kepada tuan ini. Dia akan menjadi pemilik barunya."
+hint_action_dog_tame,"Jinakkan Anjing Itu
+Anjing ini tidak memiliki pemilik, sehingga Anda bisa menjinakkannya dan itu akan menjadi hewan peliharaan tuan yang dipilih."
+hint_nt_guest_arrive_bard,"Penyanyi Pengembara
+Seorang penyanyi pengembara mengunjungi kota Anda. Rakyat biasa menyukai lagu dan cerita para penyanyi pengembara dan mempercayai segala yang mereka nyanyikan.
 
-For a modest fee, he is ready to perform any song you order to influence the listeners."
-hint_nt_guest_assassin_success_death,"Sudden Death
-News has reached you that the character {soul_uuid_target} has passed away.
+Dengan biaya sederhana, dia siap memainkan lagu apa pun yang Anda perintahkan untuk memengaruhi para pendengar."
+hint_nt_guest_assassin_success_death,"Kematian Mendadak
+Berita telah sampai kepada Anda bahwa karakter {soul_uuid_target} telah meninggal dunia.
 
-It is said that they suddenly felt ill during lunch, and by evening, they had departed for another world.
+Dikatakan bahwa mereka tiba-tiba merasa sakit selama makan siang, dan pada malam hari, mereka telah pergi ke dunia lain.
 
-Everything appeared natural, but it seems as if the priest Dahamat fulfilled his part of the bargain."
+Semuanya tampak alami, tetapi seolah-olah pendeta Dahamat telah memenuhi bagian kesepakatannya."
 hint_nt_guest_arrive_incognito,"Incognito
-A character in disguise is visiting your city. They will stay for a few days.
+Seorang karakter yang menyamar sedang mengunjungi kota Anda. Mereka akan tinggal selama beberapa hari.
 
-No one knows their real name, but their manners and clothing suggest noble origins.
+Tidak ada yang tahu nama asli mereka, tetapi etika dan pakaian mereka menunjukkan asal-usul bangsawan.
 
-As unclear as their identity are their intentions, which could be either good or bad, and the only way to find out is to wait.
+Sejauh tidak jelasnya identitas mereka, begitu pula niat mereka, yang bisa baik atau buruk, dan satu-satunya cara untuk mengetahuinya adalah dengan menunggu.
 
-Or, you can expel them at any time, without waiting to uncover their secret."
-hint_unavailable_join_army_rebellion_in_my_town,"Unable to summon
-An uprising is expected soon in the city of {faction_uuid}, so the ruler does not want the warriors to leave the province."
-hint_unavailable_join_army_lord_dead,"Unable to summon
-The lord who previously commanded this army has left it, so it cannot be assigned to new missions."
-hint_unavailable_teach_combat_blind,"Unavailable
-The blind lord cannot learn combat skills."
+Atau, Anda bisa mengusir mereka kapan saja, tanpa menunggu untuk mengungkap rahasia mereka."
+hint_unavailable_join_army_rebellion_in_my_town,"Tidak Dapat Dipanggil
+Sebuah pemberontakan diharapkan segera terjadi di kota {faction_uuid}, sehingga penguasa tidak ingin para prajurit meninggalkan wilayah tersebut."
+hint_unavailable_join_army_lord_dead,"Tidak Dapat Dipanggil
+Penguasa yang sebelumnya memerintahkan pasukan ini telah meninggalkannya, sehingga tidak bisa ditugaskan untuk misi baru."
+hint_unavailable_teach_combat_blind,"Tidak Tersedia
+Penguasa yang buta tidak bisa belajar keterampilan tempur."
 hint_mind_heard_good_song,"[hint_mind_caption]
-This song touched me to the depths of my soul! It felt as if he was singing about me!
+Lagu ini menyentuhku hingga ke kedalaman jiwaku! Rasanya seolah-olah dia menyanyikan tentang diriku!
 
-<b>Reason:</b> Listened to the song of a wandering minstrel"
-hint_unavailable_guest_moving,"Unavailable
-The guest has not yet arrived at the settlement"
-hint_action_trade_with_nectar_trader,"Trade
-Trade with the nectar merchant.
+<b>Alasan:</b> Mendengarkan lagu dari seorang pengembara minstrel"
+hint_unavailable_guest_moving,"Tidak Tersedia
+Tamu belum tiba di pemukiman"
+hint_action_trade_with_nectar_trader,"Perdagangan
+Berdagang dengan pedagang nektar.
 
-The only currency he is interested in, aside from gold, is prisoners."
-hint_set_free_prisoner_guest,"Release of the Prisoner
-He will leave your province, but promises to return the favor soon."
-hint_nt_guest_arrive_nectar_trader,"Nectar Merchant
-The wandering merchant offers to sell you <hint=hint_resource_nectar>Nectar</hint> at a very favorable price.
+Mata uang satu-satunya yang diminatinya, selain emas, adalah tahanan."
+hint_set_free_prisoner_guest,"Pembebasan Tahanan
+Dia akan meninggalkan wilayah Anda, tetapi berjanji untuk membalas budi segera."
+hint_nt_guest_arrive_nectar_trader,"Pedagang Nektar
+Pedagang pengembara menawarkan untuk menjual <hint=hint_resource_nectar>Nektar</hint> kepada Anda dengan harga yang sangat menguntungkan.
 
-But be careful—the price may increase if you start trading with him regularly."
-hint_action_dog_play,"Play
-Your pet will be thrilled to get some attention and is always ready for a fun game to lift your spirits.
+Tapi hati-hati—harga mungkin naik jika Anda mulai berdagang dengannya secara rutin."
+hint_action_dog_play,"Bermain
+Peliharaan Anda akan gembira mendapatkan perhatian dan selalu siap untuk permainan menyenangkan yang mengangkat semangat Anda.
 
-$ Positive Thought from Playing with Pet: <green>+{inc}</green>"
-hint_diplomat_relation_restore_final,"Diplomatic efforts have restored your relations with the ruler {soul_uuid_king}.
+$ Pikiran Positif dari Bermain dengan Peliharaan: <green>+{inc}</green>"
+hint_diplomat_relation_restore_final,"Upaya diplomatik telah memulihkan hubungan Anda dengan penguasa {soul_uuid_king}.
 
-$ Now {soul_uuid_king}'s relations toward you: {current_relations}"
+$ Sekarang hubungan {soul_uuid_king} terhadap Anda: {current_relations}"
 hint_diplomat_relation_restore_final_letter_1,"~
-Let me assure you that our differences have been settled, and I intend to maintain a peaceful stance toward you. However, this does not mean we are now the best of friends."
+Izinkan saya meyakinkan Anda bahwa perbedaan kami telah diselesaikan, dan saya berniat mempertahankan sikap damai terhadap Anda. Namun, ini tidak berarti kami sekarang adalah teman terbaik."
 hint_diplomat_relation_restore_final_letter_2,"~
-Well, I suppose I have more pressing concerns than feuding with you. Consider that I have sheathed my sword. But do not think that I have forgotten everything."
-hint_display_event_some_soldiers_refuse_patrol,"Warriors refuse to go on patrol
-Due to a bad <hint=hint_mood>mood</hint>, some warriors refuse to go on patrol.
+Yah, saya kira saya punya masalah yang lebih mendesak daripada bertengkar dengan Anda. Anggap saja saya telah menyimpan pedang saya. Tapi jangan berpikir bahwa saya telah melupakan segalanya."
+hint_display_event_some_soldiers_refuse_patrol,"Prajurit menolak pergi patroli
+Karena <hint=hint_mood>suasana hati</hint> yang buruk, beberapa prajurit menolak pergi patroli.
 
-<b>Tip:</b> Hover over the warriors’ icon in the upper left corner to find out their most frequent negative thoughts affecting their mood."
+<b>Tip:</b> Arahkan kursor ke ikon prajurit di sudut kiri atas untuk mengetahui pikiran negatif mereka yang paling sering memengaruhi suasana hati mereka."
 hint_all_rebels_died_letter,"~
-The new ruler of the province is writing to you. It seems that, as a result of your interference, both claimants to the throne have reunited with Mother Sophia, so now you’ll be dealing with me. And try not to meddle in the affairs of our province again!"
-hint_all_rebels_died_final,"Both rivals in the struggle for the throne have perished.
+Penguasa baru provinsi sedang menulis kepada Anda. Tampaknya, akibat campur tangan Anda, kedua pengklaim tahta telah bersatu kembali dengan Ibu Sophia, jadi sekarang Anda akan berurusan dengan saya. Dan cobalah untuk tidak ikut campur lagi dalam urusan provinsi kami!"
+hint_all_rebels_died_final,"Kedua rival dalam perebutan tahta telah binasa.
 
-The ruler of the {faction_uuid} province is now {soul_uuid_king}."
-hint_action_order_song_religious_complete,"Order completed
-The minstrel has fulfilled your request and performed a <b>religious hymn</b>.
+Penguasa provinsi {faction_uuid} sekarang adalah {soul_uuid_king}."
+hint_action_order_song_religious_complete,"Pesanan selesai
+Penyanyi pengembara telah memenuhi permintaan Anda dan mempersembahkan <b>himne religius</b>.
 
-{value} listeners were inspired by the power of his art and decided to devote their lives to Mother Sophia, becoming <hint=hint_persons_fanatic>fanatics</hint>."
-hint_action_order_song_lyric_complete,"Order completed
-The minstrel has fulfilled your request and performed a <b>lyrical poem</b>.
+{value} pendengar terinspirasi oleh kekuatan seni mereka dan memutuskan untuk mendedikasikan hidup mereka kepada Ibu Sophia, menjadi <hint=hint_persons_fanatic>Fanatik</hint>."
+hint_action_order_song_lyric_complete,"Pesanan selesai
+Penyanyi pengembara telah memenuhi permintaan Anda dan mempersembahkan <b>puisi lirik</b>.
 
-{value} listeners were inspired by the power of his art and received a boost in mood."
-hint_action_order_song_glory_complete,"Order completed
-The minstrel has fulfilled your request and performed a <b>heroic song</b>.
+{value} pendengar terinspirasi oleh kekuatan seni mereka dan menerima peningkatan suasana hati."
+hint_action_order_song_glory_complete,"Pesanan selesai
+Penyanyi pengembara telah memenuhi permintaan Anda dan mempersembahkan <b>lagu heroik</b>.
 
-{value} listeners were inspired by the power of his art and decided to become <hint=hint_loyalist>loyalists</hint>."
-hint_action_order_song_good_complete,"Order completed
-The minstrel has fulfilled your request and performed a <b>moral tale</b>.
+{value} pendengar terinspirasi oleh kekuatan seni mereka dan memutuskan untuk menjadi <hint=hint_loyalist>loyalis</hint>."
+hint_action_order_song_good_complete,"Pesanan selesai
+Penyanyi pengembara telah memenuhi permintaan Anda dan menceritakan <b>cerita moral</b>.
 
-{value} <hint=hint_persons_criminal>vagabonds</hint> were inspired by the power of his art and decided to return to an honest life."
-hint_kick_out_alliance,"Break Alliance
-Sever the alliance with {faction_uuid}.
+{value} <hint=hint_persons_criminal>pengembara</hint> terinspirasi oleh kekuatan seni mereka dan memutuskan untuk kembali ke kehidupan yang jujur."
+hint_kick_out_alliance,"Pecah Aliansi
+Putuskan aliansi dengan {faction_uuid}.
 
-$ The ruler of this province will see it as a breach of commitments and will worsen their relations towards you by <red>{rel_de_kick_out_alliance}</red>."
-hint_kick_out_alliance_success,"Alliance Broken
-You have severed the alliance with {faction_uuid}.
+$ Penguasa provinsi ini akan melihatnya sebagai pelanggaran komitmen dan akan memperburuk hubungan mereka terhadap Anda sebesar <red>{rel_de_kick_out_alliance}</red>."
+hint_kick_out_alliance_success,"Aliansi Terputus
+Anda telah memutuskan aliansi dengan {faction_uuid}.
 
-$ The relations of this province’s ruler towards you: <red>{rel_de_kick_out_alliance}</red>"
+$ Hubungan penguasa provinsi ini terhadap Anda: <red>{rel_de_kick_out_alliance}</red>"
 hint_kick_out_alliance_letter_1,"~
-It seems your promises of mutual support are worthless. Fine! We will do splendidly without an alliance with you. And be on guard – such things are not easily forgotten!"
+Sepertinya janji-janji saling dukungan Anda tidak berharga. Baiklah! Kami akan baik-baik saja tanpa aliansi dengan Anda. Dan berhati-hatilah – hal-hal seperti ini tidak mudah dilupakan!"
 hint_kick_out_alliance_letter_2,"~
-I was warned not to trust you. It’s a pity I fell for your false assurances of eternal friendship. Now we’re on our own – fine! But I will remember this."
-hint_kick_out_vassal,"Free Vassal
-Free the ruler of the {faction_uuid} province from their vassal oath, allowing them to become independent once again.
+Saya sudah diperingatkan untuk tidak mempercayai Anda. Sayang sekali saya terjebak pada jaminan palsu persahabatan abadi Anda. Kini kami berdiri sendiri – baiklah! Tapi saya akan mengingat ini."
+hint_kick_out_vassal,"Bebaskan Vasal
+Bebaskan penguasa provinsi {faction_uuid} dari sumpah vasalnya, membolehkan mereka menjadi independen sekali lagi.
 
-$ The ruler will be grateful for their newfound freedom and improve their relations by <green>{rel_de_kick_out_vassal}</green>."
-hint_kick_out_vassal_success,"Vassal Freed
-{faction_uuid} is no longer part of your kingdom and has become an independent province.
+$ Penguasa akan berterima kasih atas kebebasan barunya dan akan meningkatkan hubungan mereka sebesar <green>{rel_de_kick_out_vassal}</green>."
+hint_kick_out_vassal_success,"Vasal Dibebaskan
+{faction_uuid} tidak lagi bagian dari kerajaan Anda dan telah menjadi provinsi independen.
 
-$ The ruler’s relations towards you: <green>{rel_de_kick_out_vassal}</green>"
+$ Hubungan penguasa terhadap Anda: <green>{rel_de_kick_out_vassal}</green>"
 hint_kick_out_vassal_letter_1,"~
-I don’t know what prompted you to release me from my vassal oath, but I accept your decision with gratitude. However, that doesn’t mean I owe you anything beyond that."
+Saya tidak tahu apa yang mendorong Anda untuk membebaskan saya dari sumpah vasal saya, tapi saya menerima keputusan Anda dengan rasa syukur. Namun, itu tidak berarti saya berutang apa-apa kepada Anda selain itu."
 hint_kick_out_vassal_letter_2,"~
-I can’t say that your decision saddened me. But I didn’t ask for it either. Let’s see what comes next."
-hint_nt_sacrifice_allowed,"Red Mass Approved
-The ceremony of the Red Mass will take place tonight.
+Saya tidak bisa mengatakan bahwa keputusan Anda membuat saya sedih. Tapi saya juga tidak memintanya. Mari kita lihat apa yang akan terjadi selanjutnya."
+hint_nt_sacrifice_allowed,"Misa Merah Disetujui
+Upacara Misa Merah akan berlangsung malam ini.
 
-Who knows what consequences it may bring?"
-hint_nt_sacrifice_result,"The Red Mass is over
-Leaving the Temple of Sophia drenched in blood, the archons of the <hint=hint_dead_god_herecy>Dead God</hint> silently depart from your province.
+Siapa tahu konsekuensi apa yang mungkin dibawanya?"
+hint_nt_sacrifice_result,"Misa Merah Selesai
+Meninggalkan Kuil Sophia yang basah oleh darah, para arkon dari <hint=hint_dead_god_herecy>Dead God</hint> secara diam-diam meninggalkan provinsi Anda.
 
-Meanwhile, your ruler suddenly begins to feel a unique power within. Things that once seemed unreachable now become clear and intuitively accessible. Perhaps this is the gift of the Dead God. The Bishop now occasionally casts strange glances at him, a mix of fear and disgust in his gaze.
+Sementara itu, penguasa Anda tiba-tiba mulai merasakan kekuatan unik di dalam dirinya. Hal-hal yang dulu tampak tidak terjangkau kini menjadi jelas dan intuitif dapat diakses. Mungkin ini adalah hadiah dari Dead God. Uskup kini sesekali meliriknya dengan pandangan aneh, campuran ketakutan dan kejengkaran di matanya.
 
-<b>Consequences:</b>
-$ Your ruler gains a talent in the skill {skill_name}
-$ Relations with the <hint=hint_bishop>Bishop</hint> and <hint=hint_relations_matriarch>Matriarch</hint> worsen by <red>{rel_de}</red>"
-hint_nt_place_hall,"Build the Hall
-First, choose a location for your Hall — a gathering place for lords and where initial resources will be stored.
+<b>Konsekuensi:</b>
+$ Penguasa Anda mendapatkan bakat dalam keterampilan {skill_name}
+$ Hubungan dengan <hint=hint_bishop>Uskup</hint> dan <hint=hint_relations_matriarch>Matriark</hint> memburuk sebesar <red>{rel_de}</red>"
+hint_nt_place_hall,"Bangun Aula
+Pertama, pilih lokasi untuk Aula Anda — tempat berkumpul para penguasa dan di mana sumber daya awal akan disimpan.
 
-$ Open the Construction menu and then the Service menu."
-hint_nt_guest_arrive_piligrimsr,"Pilgrims
+$ Buka Menu Konstruksi lalu Menu Layanan."
+hint_nt_guest_arrive_piligrimsr,"Ziarah Suci
 
-Holy Pilgrims are former peasants who have chosen to dedicate their lives to Mother Sophia. They travel from town to town, showing their repentance for the sins of their past lives by wearing heavy chains on their bare bodies.
+Ziarah Suci adalah mantan petani yang telah memilih untuk mendedikasikan hidup mereka kepada Ibu Sophia. Mereka bepergian dari kota ke kota, menunjukkan penyesalan atas dosa-dosa kehidupan masa lalu mereka dengan memakai rantai berat di tubuh telanjang mereka.
 
-They despise not only their own sins but also those of others, instructing any sinful souls they encounter in the simplest and most accessible way—a powerful slap. Receiving such an awakening lesson from the pilgrims is considered a gift and a blessing, even for lords.
+Mereka membenci tidak hanya dosa-dosa mereka sendiri tetapi juga dosa-dosa orang lain, mengajar jiwa-jiwa berdosa yang mereka temui dengan cara paling sederhana dan mudah diakses—tamparan kuat. Menerima pelajaran kebangkitan seperti itu dari para ziarah dianggap sebagai hadiah dan berkah, bahkan bagi para penguasa.
 
-$ Church tradition requires giving them food for their continued journey. To do so, select their leader and provide him with a supply of <hint=hint_resource_food>Flour</hint> or <hint=hint_resource_rutabaga>Rutabaga</hint>.
-$ The <hint=hint_relations_matriarch>Matriarch</hint> does not bless rulers who chase away or fail to make offerings to the holy pilgrims.
-$ The pilgrims will stay with you for two days awaiting an offering, and if they receive one, they will leave the next day."
-hint_action_piligrims_give_food,"Donate Flour
-Donate <hint=hint_resource_food>{count}</hint> to the holy pilgrims so they may continue their pious journey.
+$ Tradisi Gereja mengharuskan memberikan mereka makanan untuk perjalanan lanjutan mereka. Untuk melakukannya, pilih pemimpin mereka dan berikan dia persediaan <hint=hint_resource_food>Tepung</hint> atau <hint=hint_resource_rutabaga>Rutabaga</hint>.
+$ <hint=hint_relations_matriarch>Matriark</hint> tidak memberkahi penguasa yang mengusir atau gagal memberikan persembahan kepada para ziarah suci.
+$ Para ziarah akan tinggal bersama Anda selama dua hari menunggu persembahan, dan jika mereka menerimanya, mereka akan pergi keesokan harinya."
+hint_action_piligrims_give_food,"Sumbang Tepung
+Sumbang <hint=hint_resource_food>{count}</hint> kepada para ziarah suci agar mereka dapat melanjutkan perjalanan saleh mereka.
 
-$ <hint=hint_relations_matriarch>Matriarch’s</hint> relationship: <green>+{mat_inc}</green>
-$ The pilgrims will leave your province earlier than usual."
-hint_action_piligrims_give_swede,"Donate Rutabaga
-Donate <hint=hint_resource_rutabaga>{count}</hint> to the holy pilgrims so they may continue their pious journey.
+$ Hubungan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{mat_inc}</green>
+$ Para ziarah akan meninggalkan provinsi Anda lebih cepat dari biasanya."
+hint_action_piligrims_give_swede,"Sumbang Rutabaga
+Sumbang <hint=hint_resource_rutabaga>{count}</hint> kepada para ziarah suci agar mereka dapat melanjutkan perjalanan saleh mereka.
 
-$ <hint=hint_relations_matriarch>Matriarch’s</hint> relationship: <green>+{mat_inc}</green>
-$ The pilgrims will leave your province earlier than usual."
-hint_cant_give_food_to_piligrims,"Donate Flour
-<red>Unavailable.</red>
+$ Hubungan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{mat_inc}</green>
+$ Para ziarah akan meninggalkan provinsi Anda lebih cepat dari biasanya."
+hint_cant_give_food_to_piligrims,"Sumbang Tepung
+<red>Tidak Tersedia.</red>
 
-You need <hint=hint_resource_food>{count}</hint> in storage."
-hint_cant_give_swede_to_piligrims,"Donate Rutabaga
-<red>Unavailable.</red>
+Anda membutuhkan <hint=hint_resource_food>{count}</hint> di penyimpanan."
+hint_cant_give_swede_to_piligrims,"Sumbang Rutabaga
+<red>Tidak Tersedia.</red>
 
-You need <hint=hint_resource_rutabaga>{count}</hint> in storage."
-hint_nt_knowledge_lost_final,"Knowledge is lost
-As a result of recent losses among the lords, the following knowledge has been erased from collective memory:
+Anda membutuhkan <hint=hint_resource_rutabaga>{count}</hint> di penyimpanan."
+hint_nt_knowledge_lost_final,"Pengetahuan Hilang
+Akibat kerugian baru-baru ini di antara para penguasa, pengetahuan berikut telah terhapus dari ingatan kolektif:
 
 {lost_list}"
 hint_advisor_knowledge_lost_soon,"[hint_advisor_caption]
-As a result of recent losses among the lords, there is no one left who has the following <hint=hint_idea>knowledge</hint>:
+Akibat kerugian baru-baru ini di antara para penguasa, tidak ada lagi yang memiliki <hint=hint_idea>pengetahuan</hint> berikut:
 
 {lost_list}
 
-If you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory.
+Jika Anda masih memiliki buku dengan pengetahuan ini, sekaranglah waktunya membiarkan para penguasa lain mempelajarinya, karena dalam beberapa hari pengetahuan ini akan lenyap dari ingatan kolektif.
 
-Check the Knowledge menu to see the details."
-hint_knowledge_menu_lost_risk,"Knowledge at risk
-If you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory."
-hint_trade_bandit_reward,"Reward for Kindness
-The merchant explains: “A stranger asked me to give you this gold. He said it’s as a token of gratitude.””"
-hint_unavailable_lord_non_native,"Unavailable
-A lesser lord can only be offered to the church by the ruler of the land where this lord was born.
+Periksa Menu Pengetahuan untuk melihat detailnya."
+hint_knowledge_menu_lost_risk,"Pengetahuan Terancam
+Jika Anda masih memiliki buku dengan pengetahuan ini, sekaranglah waktunya membiarkan para penguasa lain mempelajarinya, karena dalam beberapa hari pengetahuan ini akan lenyap dari ingatan kolektif."
+hint_trade_bandit_reward,"Hadiah untuk Kebaikan
+Pedagang menjelaskan: “Seorang orang asing meminta saya untuk memberikan emas ini kepada Anda. Ia bilang ini sebagai tanda terima kasih.””"
+hint_unavailable_lord_non_native,"Tidak Tersedia
+Penguasa rendahan hanya dapat ditawarkan kepada Pihak Gereja oleh penguasa tanah tempat penguasa ini lahir.
 
-The church does not consider such a sacrifice from other rulers to be significant."
-hint_bandits_camp_bribe_to_attack,"Bribe for an Attack
-Pay bandits to attack a town (if possible) or villages in the province {faction_uuid_target}.
+Pihak Gereja tidak menganggap pengorbanan seperti itu dari penguasa lain sebagai sesuatu yang signifikan."
+hint_bandits_camp_bribe_to_attack,"Suap untuk Serangan
+Bayar perampok untuk menyerang sebuah kota (jika memungkinkan) atau desa-desa di provinsi {faction_uuid_target}.
 
-Additional bandits will be hired: {pop_increase}
+Perampok tambahan akan direkrut: {pop_increase}
 
-<b>Cost</b>: <hint=hint_resource_gold>{price}</hint>
+<b>Biaya</b>: <hint=hint_resource_gold>{price}</hint>
 
-<b>Consequences</b>:
+<b>Konsekuensi</b>:
 {optional_relation_aftermath}
 {optional_secret_deals}
 
 [hint_SENDER]"
-hint_bandits_camp_bribe_to_attack_success,"Bribe for an Attack
-The bandits have agreed to attack targets in the province {faction_uuid_target}.
+hint_bandits_camp_bribe_to_attack_success,"Suap untuk Serangan
+Para perampok telah menyetujui untuk menyerang target di provinsi {faction_uuid_target}.
 
-The attack will begin within a day. The target will be chosen based on the bandits’ capabilities.
+Serangan akan dimulai dalam satu hari. Target akan dipilih berdasarkan kemampuan para perampok.
 
-Number of new warriors hired with your funds: {pop_increase}
+Jumlah prajurit baru yang direkrut dengan dana Anda: {pop_increase}
 
 {optional_relation_aftermath}
 {optional_secret_deals}"
-hint_unavailable_cooldown_days,"Unavailable
-This action can be performed again in {days} days."
-hint_nt_bandits_camp_was_bribed,"Forest bandits was bribed!
-A representative of the province {faction_uuid} was spotted at the <hint=hint_persons_forest_bandits>forest bandit</hint> camp near your city.
+hint_unavailable_cooldown_days,"Tidak Tersedia
+Aksi ini dapat dilakukan lagi dalam {days} hari."
+hint_nt_bandits_camp_was_bribed,"Perampok hutan disuapi!
+Seorang perwakilan dari provinsi {faction_uuid} terlihat di kamp <hint=hint_persons_forest_bandits>perampok hutan</hint> dekat kota Anda.
 
-An attack on your city or village can be expected within a day.
+Serangan terhadap kota atau desa Anda dapat diharapkan dalam satu hari.
 
-New warriors hired with their funds: {pop_increase}."
+Prajurit baru yang direkrut dengan dana mereka: {pop_increase}."
 hint_bandits_maniac_description,"[hint_DESCRIPTION]
-{soul_uuid_maniac} is hiding from punishment in a bandit camp.
+{soul_uuid_maniac} bersembunyi dari hukuman di sebuah kamp perampok.
 
-If you attack the camp, you will be able to capture him, extract information about his origins, and restore justice, while also expecting a reward."
+Jika Anda menyerang kamp tersebut, Anda akan dapat menangkapnya, mengekstrak informasi tentang asal-usulnya, dan memulihkan keadilan, sambil juga mengharapkan hadiah."
 hint_bandits_maniac_captived,"~
-After the victory, {soul_uuid_maniac} was captured and interrogated by your warriors.
+Setelah kemenangan, {soul_uuid_maniac} ditangkap dan diinterogasi oleh prajurit Anda.
 
-It turned out that this lord comes from the province of {province_name}, where he has long been wanted for justice.
+Ternyata penguasa ini berasal dari provinsi {province_name}, di mana ia telah lama dicari untuk keadilan.
 
-Your warriors decided to send the captured lord home, where retribution awaits him."
+Prajurit Anda memutuskan untuk mengirim penguasa yang ditangkap itu pulang, di mana pembalasan menantinya."
 hint_bandits_maniac_attack_fail,"~
-As a result of a failed attack, {soul_uuid_maniac} managed to survive and left the camp. Who knows if your paths will cross again?"
+Akibat serangan yang gagal, {soul_uuid_maniac} berhasil selamat dan meninggalkan kamp. Siapa tahu apakah jalan Anda akan bertemu lagi?"
 hint_bandits_maniac_ignore,"~
-You’ve heard rumors that {soul_uuid_maniac} peacefully rested in the bandit camp and then moved on. You’ll probably never hear of him again.
+Anda mendengar rumor bahwa {soul_uuid_maniac} beristirahat dengan damai di kamp perampok dan kemudian melanjutkan perjalanan. Anda mungkin tidak akan pernah mendengar kabar darinya lagi.
 
-The good news is that as a result of his efforts, the population of the bandit camp was halved."
+Kabar baiknya adalah bahwa akibat usahanya, populasi kamp perampok berkurang setengahnya."
 hint_mind_joker_watched,"[hint_mind_caption]
-That jester’s performance was so funny! I’m always happy when performers visit our province!"
-hint_input.action.camera_move,"Move camera
-Hold this key to “drag” the camera."
-hint_input.action.gui_add_more,"Add by 10
-Hold this key when adding items to the trader, army, and other menus to add 10 items at once."
-hint_input.action.squad_order_attack,"Order to the Squad
-This action is only possible with a selected squad.
+Penampilan pelawak istana itu sangat lucu! Saya selalu senang ketika para penampil mengunjungi provinsi kami!"
+hint_input.action.camera_move,"Pindahkan kamera
+Tahan tombol ini untuk “seret” kamera."
+hint_input.action.gui_add_more,"Tambah 10
+Tahan tombol ini saat menambahkan item ke pedagang, pasukan, dan menu lainnya untuk menambahkan 10 item sekaligus."
+hint_input.action.squad_order_attack,"Perintah ke Regu
+Aksi ini hanya mungkin dengan regu yang dipilih.
 
-Assign the squad a location to move to or an enemy to attack (by clicking on the enemy banner)."
-hint_nt_bandit_leave,"The incognito has left the province
-The character has left your province. Most likely, their story is not over, and you will hear about them again…"
-hint_tech_trade_tax_reduce,"Technology
-Trade slang and the use of intermediaries will allow you to reduce the church tax on trade contracts by {percent}%"
-hint_tech_market_depth_increase,"Technology
-The skill of selling goods to those who don’t really need them ensures an increase in <hint=hint_market_volume>local demand</hint> for all goods by {perc}%."
-hint_tech_book_rewrite_cost_decrease,"Technology
-More compact writing reduces the use of <hint=hint_resource_paper>Paper</hint> by {perc}% when creating books."
-hint_tech_saint_king,"Technology
-A theological treatise explaining how the grace of Mother Sophia can be revealed to earthly rulers.
+Tetapkan regu ke lokasi untuk bergerak atau musuh untuk diserang (dengan mengklik bendera musuh)."
+hint_nt_bandit_leave,"Si Incognito telah meninggalkan provinsi
+Karakter telah meninggalkan provinsi Anda. Paling Mungkin, cerita mereka belum selesai, dan Anda akan mendengar tentang mereka lagi…"
+hint_tech_trade_tax_reduce,"Teknologi
+Istilah dagang dan penggunaan perantara akan memungkinkan Anda mengurangi pajak gereja pada kontrak Perdagangan sebesar {percent}%"
+hint_tech_market_depth_increase,"Teknologi
+Keterampilan menjual barang kepada mereka yang sebenarnya tidak membutuhkannya memastikan peningkatan <hint=hint_market_volume>permintaan lokal</hint> untuk semua barang sebesar {perc}%."
+hint_tech_book_rewrite_cost_decrease,"Teknologi
+Penulisan yang lebih ringkas mengurangi penggunaan <hint=hint_resource_paper>Kertas</hint> sebesar {perc}% saat membuat buku."
+hint_tech_saint_king,"Teknologi
+Risalah teologi yang menjelaskan bagaimana rahmat Bunda Sophia dapat diungkapkan kepada penguasa duniawi.
 
-By the grace of the Church, your king will be able to receive a holy <hint=hint_action_task_canonization>Blessing</hint> (requires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>)."
-hint_tech_church_defence,"Technology
-A set of arguments that convinces the Church to grant <hint=hint_holy_protection>the protection of the Loving Family</hint> (usually reserved for young noble houses) to your province for a limited number of days.
+Dengan rahmat Pihak Gereja, raja Anda akan dapat menerima berkah suci <hint=hint_action_task_canonization>Blessing</hint> (membutuhkan hubungan baik dengan <hint=hint_relations_matriarch>Matriark</hint>)."
+hint_tech_church_defence,"Teknologi
+Sekumpulan argumen yang meyakinkan Pihak Gereja untuk memberikan <hint=hint_holy_protection>perlindungan Keluarga Penuh Kasih</hint> (biasanya dicadangkan untuk rumah bangsawan muda) ke provinsi Anda untuk jumlah hari terbatas.
 
-Requires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>."
-hint_tech_easier_divorce,"Technology
-While divorce is not approved by the Loving Family and usually requires very good <hint=hint_relations_matriarch>relations with the Matriarch</hint>, this knowledge will lower the requirements, convincingly proving the necessity of divorce in exceptional cases."
-hint_tech_bishop_fix_relations,"Technology
-An ancient rite of repentance for the sin of hatred that grants absolution to the seeker. The rite allows the <hint=hint_bishop>Bishop</hint> to reconcile the chosen lord with all their enemies.
+Membutuhkan hubungan baik dengan <hint=hint_relations_matriarch>Matriark</hint>."
+hint_tech_easier_divorce,"Teknologi
+Meskipun perceraian tidak disetujui oleh Keluarga Penuh Kasih dan biasanya membutuhkan hubungan yang sangat baik dengan <hint=hint_relations_matriarch>Matriark</hint>, pengetahuan ini akan menurunkan persyaratan, dengan meyakinkan membuktikan kebutuhan perceraian dalam kasus luar biasa."
+hint_tech_bishop_fix_relations,"Teknologi
+Rite kuno penyesalan atas dosa kebencian yang memberikan pengampunan kepada pencari. Rite ini memungkinkan <hint=hint_bishop>Uskup</hint> untuk mendamaikan tuan yang dipilih dengan semua musuh mereka.
 
-Requires good relations between this lord and the Bishop and costs <hint=hint_resource_rune>10</hint>."
-hint_tech_detach_ex_bandit,"Technology
-A description of a special Kaiden rite that allows removing all negative traits and thoughts from a bandit when recruiting them into the army."
-hint_tech_knife_battle_stronger,"Technology
-An ancient combat art of Kaiden culture.
+Memerlukan hubungan baik antara tuan ini dan Uskup serta biaya <hint=hint_resource_rune>10</hint>."
+hint_tech_detach_ex_bandit,"Teknologi
+Deskripsi rite khusus jawa yang memungkinkan menghapus semua sifat dan pikiran negatif dari perampok hutan saat merekrut mereka ke dalam pasukan."
+hint_tech_knife_battle_stronger,"Teknologi
+Seni pertempuran kuno dari budaya jawa.
 
-<hint=hint_skill_combat>Combat Skill</hint> for all warriors when using a <hint=hint_resource_knife>Dagger</hint>: +{level_add}."
-hint_tech_stronger_weapon,"Technology
-The special formula of this ointment enhances the durability of wood and iron joints, reducing the chance of weapon breakage by {mult} times."
-hint_tech_better_training,"Technology
-Old imperial methods of training inexperienced recruits that allow them to gain {perc}% more experience during training on the <hint=hint_bld_training_ground>Training Ground</hint>.
+<hint=hint_skill_combat>Keterampilan Tempur</hint> untuk semua prajurit saat menggunakan <hint=hint_resource_knife>Belati</hint>: +{level_add}."
+hint_tech_stronger_weapon,"Teknologi
+Rumus khusus salep ini meningkatkan daya tahan sambungan kayu dan besi, mengurangi kemungkinan senjata rusak sebanyak {mult} kali."
+hint_tech_better_training,"Teknologi
+Metode imperial lama untuk melatih rekrut tidak berpengalaman yang memungkinkan mereka mendapatkan {perc}% pengalaman lebih banyak selama pelatihan di <hint=hint_bld_training_ground>Lapangan Latihan</hint>.
 
-Effective until the warrior’s <hint=hint_skill_combat>Combat Skill</hint> reaches level 5."
-hint_tech_moral_vs_bandits,"Technology
-Psychological training in moral righteousness and duty, granting a mood bonus of +{moral_add} to warriors during battles with <hint=hint_persons_forest_bandits>forest bandits</hint>."
-hint_determination_in_desire_menu,"Burst of Resolve
-The character is in a <hint=hint_determination>burst of resolve</b> to fulfill a long-held desire: <b>{desire_name}</b>
+Efektif hingga <hint=hint_skill_combat>Keterampilan Tempur</hint> prajurit mencapai level 5."
+hint_tech_moral_vs_bandits,"Teknologi
+Pelatihan psikologis dalam kebenaran moral dan tugas, memberikan bonus suasana hati +{moral_add} kepada prajurit selama pertempuran dengan <hint=hint_persons_forest_bandits>perampok hutan</hint>."
+hint_determination_in_desire_menu,"Ledakan Keteguhan
+Karakter sedang dalam <hint=hint_determination>ledakan keteguhan</b> untuk memenuhi keinginan lama: <b>{desire_name}</b>
 
-Details: {optional_determination_info}
+Detail: {optional_determination_info}
 
-As long as the character is happy (mood above <green>{determination_moral_threshold}</green>), they will be able to suppress their impulses.
+Selama karakter bahagia (suasana hati di atas <green>{determination_moral_threshold}</green>), mereka akan mampu menekan dorongan mereka.
 
-The resolve will be gone in {time_remain}"
-hint_tantrum_meat_binge,"Burst of Resolve
-The lord will autonomously take <hint=hint_resource_meat>Meat</hint> from the store, bring it home, and won’t stop until it’s all eaten."
-hint_tantrum_write_a_book,"Burst of Resolve
-The lord will head to the library and write a book."
-hint_tantrum_read_a_book,"Burst of Resolve
-The lord will go to the library and study a new knowledge."
-hint_tantrum_solo_hunting,"Burst of Resolve
-The lord will hunt a fleshwolf alone."
-hint_tantrum_ring_robbery,"Burst of Resolve
-The lord is determined to rob another lord’s house. A conflict with the owner is possible!"
-hint_tantrum_make_a_gift,"Burst of Resolve
-The lord gifts a present to a random lord."
-hint_tantrum_spent_time_together,"Burst of Resolve
-To make a friend, the lord will spend time with a random lord."
-hint_tantrum_house_grab,"Burst of Resolve
-The lord will try to seize another lord’s home by force."
-hint_part_of_nature_philosoph,"Scholar
-The lord with the highest <hint=hint_skill_knowledge>Intellect</hint> skill in the province. They are the ones who hold most of the <hint=hint_idea>knowledge</hint>, including unique pieces.
+Keteguhan akan hilang dalam {time_remain}"
+hint_tantrum_meat_binge,"Ledakan Keteguhan
+Tuan akan secara mandiri mengambil <hint=hint_resource_meat>Daging</hint> dari gudang, membawanya pulang, dan tidak akan berhenti hingga semuanya dimakan."
+hint_tantrum_write_a_book,"Ledakan Keteguhan
+Tuan akan menuju ke perpustakaan dan menulis sebuah buku."
+hint_tantrum_read_a_book,"Ledakan Keteguhan
+Tuan akan pergi ke perpustakaan dan mempelajari pengetahuan baru."
+hint_tantrum_solo_hunting,"Ledakan Resolusi
+Sang penguasa akan berburu seekor Fleshwolf sendirian."
+hint_tantrum_ring_robbery,"Ledakan Resolusi
+Sang penguasa bertekad merampok rumah penguasa lain. Konflik dengan pemiliknya mungkin terjadi!"
+hint_tantrum_make_a_gift,"Ledakan Resolusi
+Sang penguasa memberi hadiah kepada penguasa acak."
+hint_tantrum_spent_time_together,"Ledakan Resolusi
+Untuk berteman, sang penguasa akan menghabiskan waktu dengan penguasa acak."
+hint_tantrum_house_grab,"Ledakan Resolusi
+Sang penguasa akan mencoba merebut rumah penguasa lain dengan paksa."
+hint_part_of_nature_philosoph,"Sarjana
+Penguasa dengan keterampilan <hint=hint_skill_knowledge>Intellect</hint> tertinggi di provinsi. Mereka adalah yang memegang sebagian besar <hint=hint_idea>pengetahuan</hint>, termasuk potongan unik.
 
-You can engage in a Wise Conversation with them to obtain this knowledge or kidnap them."
-hint_encyclopedia_global_knowledge,"Knowledge from Neighbors
-Neighboring cities often possess unique <hint=hint_idea>knowledge</hint> that can be obtained through various means.  
+Anda dapat melakukan Percakapan Bijak dengan mereka untuk memperoleh pengetahuan ini atau menculik mereka."
+hint_encyclopedia_global_knowledge,"Pengetahuan dari Tetangga
+Kota-kota tetangga sering memiliki <hint=hint_idea>pengetahuan</hint> unik yang dapat diperoleh melalui berbagai cara.  
 
 <img=hint_encyclopedia_global_knowledge></img>  
 
-To see the list of knowledge available, hover over the book icon at the top of this province's menu on the world map. The list displays only the knowledge that your lords are unfamiliar with, making it particularly valuable to them.  
+Untuk melihat daftar pengetahuan yang tersedia, arahkan kursor ke ikon buku di bagian atas menu provinsi ini pada peta dunia. Daftar tersebut hanya menampilkan pengetahuan yang tidak dikenal oleh para penguasa Anda, menjadikannya sangat berharga bagi mereka.  
 
-This knowledge is primarily held by the province's most intelligent lord - the <hint=hint_part_of_nature_philosoph>scholar</hint>. You can see this status in their hint.  
+Pengetahuan ini terutama dipegang oleh penguasa paling cerdas di provinsi - <hint=hint_part_of_nature_philosoph>sarjana</hint>. Anda dapat melihat status ini dalam petunjuk mereka.  
 
-To acquire this knowledge, you can:  
-$ Befriend the scholar-lord and engage in a wise conversation - either in their home province or by inviting them to visit.  
-$ Kidnap the scholar-lord and force them to write <hint=hint_book>books</hint> (via the <hint=hint_action_shadow>dark deeds</hint> menu).  
-$ Use the dark deeds menu to organize a library robery. Among the stolen books, there will always be 1-2 unique ones.  "
-hint_action_church_defence,"Protection of the Loving Family
-Request <hint=hint_holy_protection>protection</hint> from the Loving Family.
+Untuk memperoleh pengetahuan ini, Anda dapat:  
+$ Berteman dengan sarjana-penguasa dan melakukan percakapan bijak - baik di provinsi asal mereka atau dengan mengundang mereka berkunjung.  
+$ Culik sarjana-penguasa dan paksa mereka menulis <hint=hint_book>buku</hint> (melalui menu <hint=hint_action_shadow>perbuatan gelap</hint>).  
+$ Gunakan menu perbuatan gelap untuk mengatur perampokan perpustakaan. Di antara buku-buku yang dicuri, selalu ada 1-2 buku unik.  "
+hint_action_church_defence,"Perlindungan Keluarga Penuh Kasih
+Meminta <hint=hint_holy_protection>perlindungan</hint> dari Keluarga Penuh Kasih.
 
-<b>As a result:</b>
-$ Protection will last for {days} days
-$ <hint=hint_relations_matriarch>Matriarch</hint>'s opinion: <red>-{rel_de}</red>
+<b>Akibatnya:</b>
+$ Perlindungan akan berlangsung selama {days} hari
+$ Pendapat <hint=hint_relations_matriarch>Matriark</hint>: <red>-{rel_de}</red>
 
-<b>Cost:</b> <hint=hint_resource_rune>{cost}</hint>"
-hint_action_bishop_fix_relations,"Repent
-Confess hatred to the Bishop.
+<b>Biaya:</b> <hint=hint_resource_rune>{cost}</hint>"
+hint_action_bishop_fix_relations,"Bertobat
+Mengaku kebencian kepada Uskup.
 
-The character will receive forgiveness, their heart will be filled with peace, and they will forgive all their enemies.
+Karakter akan menerima pengampunan, hatinya akan dipenuhi kedamaian, dan mereka akan memaafkan semua musuh mereka.
 
-<b>As a result:</b>
-$ Relations with all enemies: <green>+{rel_inc}</green>
+<b>Akibatnya:</b>
+$ Hubungan dengan semua musuh: <green>+{rel_inc}</green>
 
-<b>Cost:</b> <hint=hint_resource_rune>{cost}</hint>
+<b>Biaya:</b> <hint=hint_resource_rune>{cost}</hint>
 
-List of enemies:
+Daftar musuh:
 {enemies_list}"
-hint_fix_relations_no_enemies,"Unavailable
-This lord has no enemies; their heart is pure."
+hint_fix_relations_no_enemies,"Tidak Tersedia
+Penguasa ini tidak memiliki musuh; hatinya suci."
 hint_tech_lock_caravan,"~
-The conditions for this book to appear in the Holy Caravan:
+Kondisi untuk buku ini muncul di Karavan Suci:
 {unlock_reason_stack}"
 hint_tech_lock_unique,"~
-This book is not available in the Holy Church’s library. Such knowledge can be <hint=hint_encyclopedia_global_knowledge>found with neighbors</hint> or <hint=hint_nt_guest_arrive_knowledge_trader>obtained from the Scriptonics</hint>."
-church_defence_unavailable_by_holy_defence,"Unavailable
-The Loving Family’s protection is active"
+Buku ini tidak tersedia di perpustakaan Gereja Suci. Pengetahuan seperti itu dapat <hint=hint_encyclopedia_global_knowledge>ditemukan pada tetangga</hint> atau <hint=hint_nt_guest_arrive_knowledge_trader>didapatkan dari Scriptonics</hint>."
+church_defence_unavailable_by_holy_defence,"Tidak Tersedia
+Perlindungan Keluarga Penuh Kasih sedang aktif"
 hint_mind_fight_agains_bandit,"[hint_mind_caption]
-Bandits must not live!"
-hint_wish_happiness_to_master,"Desire for Idol's Happiness
-The character passionately desires happiness for their idol: {soul_uuid_target}
+Perampok tidak boleh hidup!"
+hint_wish_happiness_to_master,"Keinginan untuk Kebahagiaan Idol
+Karakter sangat mendambakan kebahagiaan untuk idol mereka: {soul_uuid_target}
 
 [hint_MORAL_DEBUFF]
 
 [hint_its_a_obsession]"
 hint_mind_made_gift_to_master,"[hint_mind_caption]
-I made my idol happier just by giving them a gift! It's worth any amount of money!"
+Saya membuat idol saya lebih bahagia hanya dengan memberi mereka hadiah! Itu sepadan dengan uang berapa pun!"
 hint_mind_master_death,"[hint_mind_caption]
-Mother Sophia, my idol is dead! What will I do without them?!
+Ibu Sophia, idol saya sudah mati! Apa yang akan saya lakukan tanpa mereka?!
 "
 hint_settings.apply_error.input_dublicates," "
-hint_nt_puppet_become,"Puppet
-{soul_uuid_master} has bent the will of the character {soul_uuid_puppet}, and now they are their <hint=hint_encyclopedia_puppets>puppet</hint>."
-hint_nt_puppet_reset,"Puppet
-{soul_uuid_puppet} is no longer a <hint=hint_encyclopedia_puppets>puppet</hint>."
-hint_puppet_make_rebellion,"Puppet's Rebellion
-Force the <hint=hint_encyclopedia_puppets>puppet</hint> of one of your lords to start a rebellion in this province.
+hint_nt_puppet_become,"Boneka
+{soul_uuid_master} telah membengkokkan kehendak karakter {soul_uuid_puppet}, dan sekarang mereka adalah boneka mereka <hint=hint_encyclopedia_puppets>boneka</hint>."
+hint_nt_puppet_reset,"Boneka
+{soul_uuid_puppet} tidak lagi menjadi <hint=hint_encyclopedia_puppets>boneka</hint>."
+hint_puppet_make_rebellion,"Pemberontakan Boneka
+Paksa <hint=hint_encyclopedia_puppets>boneka</hint> dari salah satu para penguasa Anda untuk memulai pemberontakan di provinsi ini.
 
-Although there is no solid evidence, your connection to the puppet will not go unnoticed by the local ruler."
-hint_unavailable_no_puppet,"Unavailable
-You have no <hint=hint_encyclopedia_puppets>puppets</hint> in this province.
+Meskipun tidak ada bukti kuat, hubungan Anda dengan boneka tersebut tidak akan luput dari perhatian penguasa setempat."
+hint_unavailable_no_puppet,"Tidak Tersedia
+Anda tidak memiliki <hint=hint_encyclopedia_puppets>boneka</hint> di provinsi ini.
 
-Create a puppet from among the local characters using one of your lords to manipulate events in this province."
-hint_nt_free_lord_arrive,"Free lord is waiting to be hired
+Buat boneka dari antara karakter setempat menggunakan salah satu para penguasa Anda untuk memanipulasi peristiwa di provinsi ini."
+hint_nt_free_lord_arrive,"Penguasa bebas menunggu untuk direkrut
 [hint_tutorial_free_lord]"
-hint_puppet_make_rebellion_person_select,"Puppet's Rebellion
-The <hint=hint_encyclopedia_puppets>puppet</hint> will start a rebellion on the orders of their idol, one of your lords.
+hint_puppet_make_rebellion_person_select,"Pemberontakan Boneka
+<hint=hint_encyclopedia_puppets>Boneka</hint> tersebut akan memulai pemberontakan atas perintah idola mereka, salah satu para penguasa Anda.
 
-<b>Consequences:</b>
-{soul_uuid_king}: relations will worsen by {rel_de}"
+<b>Akibat:</b>
+{soul_uuid_king}: hubungan akan memburuk sebesar {rel_de}"
 hint_puppet_make_rebellion_success,"~
-{soul_uuid_puppet} will soon start a rebellion."
-hint_puppet_riot_king,"Rebellion Defense
+{soul_uuid_puppet} akan segera memulai pemberontakan."
+hint_puppet_riot_king,"Pertahanan Pemberontakan
 {optional_type_of_danger}
 
-It is expected that one of the lords of this settlement will soon rebel. It is believed that this lord is a <hint=hint_encyclopedia_puppets>puppet</hint>, acting on someone else's orders.
+Diperkirakan salah satu para penguasa di pemukiman ini akan segera memberontak. Diyakini bahwa penguasa ini adalah <hint=hint_encyclopedia_puppets>boneka</hint>, yang bertindak atas perintah orang lain.
 
-The ruler {soul_uuid_king} is under threat and requests your support by sending an army. He promises to remember your help in this difficult time.
+Penguasa {soul_uuid_king} sedang terancam dan meminta dukungan Anda dengan mengirim pasukan. Ia berjanji akan mengingat bantuan Anda di masa sulit ini.
 
-Support for {soul_uuid_king} among warriors: {war_sup}%
+Dukungan untuk {soul_uuid_king} di antara prajurit: {war_sup}%
 
-Possible consequences if you support {soul_uuid_king}:
-$ If {soul_uuid_king} wins, relations with him: <green>{rel_neigh_improve}</green>
+Akibat yang mungkin jika Anda mendukung {soul_uuid_king}:
+$ Jika {soul_uuid_king} menang, hubungan dengannya: <green>{rel_neigh_improve}</green>
 {optional_will_gain_duty_of_honor}
-$ If {soul_uuid_heir} wins, relations with him: <red>{rel_neigh_de}</red>
+$ Jika {soul_uuid_heir} menang, hubungan dengannya: <red>{rel_neigh_de}</red>
 {optional_allyship}
 
 [hint_unavailable_heir_rebellion_in_ai_town]"
 hint_global_map_danger_rebellion_puppet,"~
-<red>Someone has ordered {soul_uuid_heir} to start a rebellion. If he succeeds, the current king {soul_uuid_king} will be overthrown, and {soul_uuid_heir} will take his place.</red>"
-hint_puppet_riot,"Puppet's Rebellion
+<red>Seseorang telah memerintahkan {soul_uuid_heir} untuk memulai pemberontakan. Jika ia berhasil, raja saat ini {soul_uuid_king} akan digulingkan, dan {soul_uuid_heir} akan mengambil alih posisinya.</red>"
+hint_puppet_riot,"Pemberontakan Boneka
 {optional_type_of_danger}
 
-One of the lords will soon start a rebellion and asks for your support by sending an army, promising to be grateful for your help. It is believed that this lord is a <hint=hint_encyclopedia_puppets>puppet</hint>, acting on someone else's orders.
+Salah satu para penguasa akan segera memulai pemberontakan dan meminta dukungan Anda dengan mengirim pasukan, berjanji untuk berterima kasih atas bantuan Anda. Diyakini bahwa penguasa ini adalah <hint=hint_encyclopedia_puppets>boneka</hint>, yang bertindak atas perintah orang lain.
 
-Support for {soul_uuid_heir} among warriors: {war_sup}%
+Dukungan untuk {soul_uuid_heir} di antara prajurit: {war_sup}%
 
-Possible consequences if you support {soul_uuid_heir}:
+Akibat yang mungkin jika Anda mendukung {soul_uuid_heir}:
 [optional_relations_heir_rebellion]
 
 [hint_unavailable_heir_rebellion_in_ai_town]"
-hint_mind_bad_hunt,"Unsuccessful Hunt
-The hunt was terrible... And it's my partner's fault!"
-hint_nt_check_problems,"Check Issues
-Click the flag with a number in the top-left corner to see the most pressing issues in your settlement."
-hint_nt_lord_dead_in_hostage,"Died in Captivity
-{soul_uuid_1} was killed by bandits.
+hint_mind_bad_hunt,"Perburuan yang Gagal
+Perburuan itu mengerikan... Dan itu salah pasangan saya!"
+hint_nt_check_problems,"Periksa Masalah
+Klik bendera dengan angka di sudut kiri atas untuk melihat masalah paling mendesak di pemukiman Anda."
+hint_nt_lord_dead_in_hostage,"Tewas dalam Tawanan
+{soul_uuid_1} dibunuh oleh perampok.
 {optional_sad_list}"
-hint_action_task_hunt_global_map_context,"Hunting
-{soul_uuid_1}: <hint=hint_skill_combat>Combat skill</hint>: {skill_1}
+hint_action_task_hunt_global_map_context,"Berburu
+{soul_uuid_1}: <hint=hint_skill_combat>Keterampilan Tempur</hint>: {skill_1}
 
-{soul_uuid_2}: <hint=hint_skill_combat>Combat skill</hint>: {skill_2}
+{soul_uuid_2}: <hint=hint_skill_combat>Keterampilan Tempur</hint>: {skill_2}
 
-Fleshwolf is equivalent in strength to a fighter with a {wolf_level} Combat skill, armed with a <hint=hint_resource_wooden_spear>Spear</hint>.
+Fleshwolf setara dalam kekuatan dengan seorang petarung yang memiliki Keterampilan Tempur {wolf_level}, bersenjata dengan <hint=hint_resource_wooden_spear>Tombak</hint>.
 
-Chances of a successful hunt: {ver}%"
-hint_nt_bad_hunt_on_global_map,"Unsuccessful Hunt  
-{soul_uuid_1} went hunting with {soul_uuid_2} in the province of {faction_uuid}, but the hunt ended unsuccessfully.  
+Peluang berburu sukses: {ver}%"
+hint_nt_bad_hunt_on_global_map,"Berburu Gagal  
+{soul_uuid_1} pergi berburu bersama {soul_uuid_2} di provinsi {faction_uuid}, tetapi perburuan berakhir tanpa hasil.  
 
-Their mood and relationship with each other worsened."
-hint_nt_guest_role_revealed,"Intentions Unveiled
-{soul_uuid} reveals their intentions in conversations with your lords. This is {role_name}.
+Suasana hati mereka dan hubungan satu sama lain memburuk."
+hint_nt_guest_role_revealed,"Niat Terungkap
+{soul_uuid} mengungkapkan niat mereka dalam percakapan dengan para penguasa Anda. Ini adalah {role_name}.
 
-You can exile this lord (which will have consequences) or leave things as they are and face the consequences of their actions."
-hint_guest_communicative,"Sociable
-This guest comes to establish good relations with your king and heir."
-hint_guest_duelist,"Duelist
-This guest possesses exceptional <hint=hint_skill_combat>Combat skill</hint>. They come to challenge one of your lords—your best manager, commander, or even the king—to a duel and kill them."
-hint_guest_provoker,"Provoker
-This guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.
+Anda bisa mengasingkan penguasa ini (yang akan menimbulkan konsekuensi) atau membiarkan semuanya tetap seperti adanya dan menghadapi konsekuensi dari tindakan mereka."
+hint_guest_communicative,"Penyuka Bergaul
+Tamu ini datang untuk membangun hubungan baik dengan raja dan pewaris Anda."
+hint_guest_duelist,"Ahli Duel
+Tamu ini memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint> yang luar biasa. Mereka datang untuk menantang salah satu penguasa Anda—manajer terbaik, komandan, atau bahkan raja—untuk bertarung dalam duel dan membunuh mereka."
+hint_guest_provoker,"Penimbul Masalah
+Tamu ini kemungkinan seorang pengintrik, memiliki keterampilan tinggi dalam <hint=hint_skill_speech>Persuasi</hint> dan <hint=hint_skill_manners>Etika</hint>.
 
-Their intentions include bribing your lords and scheming against the king."
-hint_guest_puppet_master,"Puppeteer
-This guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.
+Niat mereka mencakup menyuap para penguasa Anda dan merencanakan intrik melawan raja."
+hint_guest_puppet_master,"Pengendali Boneka
+Tamu ini kemungkinan seorang pengintrik, memiliki keterampilan tinggi dalam <hint=hint_skill_speech>Persuasi</hint> dan <hint=hint_skill_manners>Etika</hint>.
 
-They will attempt to turn one of your lords into their <hint=hint_encyclopedia_puppets>puppet</hint>."
+Mereka akan mencoba mengubah salah satu penguasa Anda menjadi <hint=hint_encyclopedia_puppets>boneka</hint> mereka."
 hint_guest_manipulator,"Manipulator
-This guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.
+Tamu ini kemungkinan seorang pengintrik, memiliki keterampilan tinggi dalam <hint=hint_skill_speech>Persuasi</hint> dan <hint=hint_skill_manners>Etika</hint>.
 
-The manipulator enjoys choosing a victim, earning their trust, and simultaneously scheming against them by speaking with their spouse. However, they can also mend relationships through flattery and praise."
-hint_guest_seducer,"Seducer
-This guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.
+Manipulator ini menikmati memilih korban, mendapatkan kepercayaan mereka, dan secara bersamaan merencanakan intrik terhadap mereka dengan berbicara kepada pasangan mereka. Namun, mereka juga bisa memulihkan hubungan melalui sanjungan dan pujian."
+hint_guest_seducer,"Penggoda
+Tamu ini kemungkinan seorang pengintrik, memiliki keterampilan tinggi dalam <hint=hint_skill_speech>Persuasi</hint> dan <hint=hint_skill_manners>Etika</hint>.
 
-They entertain themselves by trying to seduce the target who shows the most interest in them.
-If their king has a poor relationship with yours, the seducer will exploit the victim’s trust to lower their loyalty to your king."
+Mereka menghibur diri dengan mencoba menggoda target yang menunjukkan minat terbesar terhadap mereka.
+Jika raja mereka memiliki hubungan buruk dengan raja Anda, penggoda akan memanfaatkan kepercayaan korban untuk menurunkan kesetiaan mereka kepada raja Anda."
 hint_guest_player,"Gambler
-This character comes to satisfy their passion for dice games. As a partner, they chooses the lord with the lowest <hint=hint_skill_knowledge>Intelligence</hint> skill, potentially increasing their chances of winning.
+Karakter ini datang untuk memuaskan hasrat mereka terhadap permainan dadu. Sebagai mitra, mereka memilih tuan dengan keterampilan <hint=hint_skill_knowledge>Kecerdasan</hint> terendah, yang berpotensi meningkatkan peluang kemenangan mereka.
 
-For some reason, they are forbidden to gamble in their home province."
+Entah mengapa, mereka dilarang berjudi di provinsi asal mereka."
 hint_guest_educator,"Enlightener
-This educated guest has come to engage in <hint=hint_action_wise_talk>wise conversations</hint> with your most enlightened lord.
+Tamu berpendidikan ini datang untuk terlibat dalam <hint=hint_action_wise_talk>Percakapan Bijak</hint> dengan tuan paling tercerahkan milik Anda.
 
-Mutual enrichment through knowledge is the noble goal of the enlightener."
+Pengayaan bersama melalui pengetahuan adalah tujuan mulia dari sang pencerah."
 hint_encyclopedia_puppets,"Puppet
-When one character's relationship for another exceeds 90, they become a puppet of that character.
+Ketika hubungan satu karakter terhadap karakter lain melebihi 90, mereka menjadi boneka dari karakter tersebut.
 
 <img=hint_encyclopedia_puppets></img>
 
-A puppet is willing to do anything for their idol:
-$ Puppets of your lords in neighboring cities can carry out dark deeds for you and even incite rebellions.
-$ A puppet will gladly give their possessions to their idol and feel no envy toward them.
-$ Within your province, the idol can compel the puppet to perform any task, including murder.
-$ Puppets will defend their idol to the death in any conflict."
+Seorang boneka bersedia melakukan apa saja untuk idola mereka:
+$ Boneka dari tuan Anda di kota-kota tetangga dapat melakukan perbuatan gelap untuk Anda dan bahkan memicu pemberontakan.
+$ Seorang boneka akan dengan senang hati memberikan harta benda mereka kepada idola dan tidak merasa iri terhadap mereka.
+$ Di dalam provinsi Anda, idola dapat memaksa boneka untuk melakukan tugas apa pun, termasuk pembunuhan.
+$ Boneka akan membela idola mereka hingga mati dalam konflik apa pun."
 hint_action_task_donate_to_master,"Gift for the Idol
-Request a gift of <hint=hint_resource_rune>{rings_count}</hint>.
+Minta hadiah berupa <hint=hint_resource_rune>{rings_count}</hint>.
 
-The <hint=hint_encyclopedia_puppets>puppet</hint> will be delighted to please their idol and will gain the thought {mind_add}"
+<hint=hint_encyclopedia_puppets>Boneka</hint> tersebut akan gembira menyenangkan idola mereka dan akan mendapatkan pikiran {mind_add}"
 hint_puppet,"Puppet
-This character is a <hint=hint_encyclopedia_puppets>puppet</hint>.
+Karakter ini adalah seorang <hint=hint_encyclopedia_puppets>boneka</hint>.
 
-Their idol: {soul_uuid}"
+Idola mereka: {soul_uuid}"
 hint_action_slander,"Slander
-The chosen lord <b>slanders</b> a mutual acquaintance.
+Tuan yang dipilih <b>memfitnah</b> seorang kenalan bersama.
 
-As a result, {soul_uuid_target}'s relationship with this acquaintance <b>deteriorates</b> by an amount depending on the performer's <hint=hint_skill_speech>Persuasion</hint> skill.
+Akibatnya, hubungan {soul_uuid_target} dengan kenalan ini <b>memburuk</b> sebesar jumlah yang tergantung pada keterampilan <hint=hint_skill_speech>Persuasi</hint> pelaku.
 
-However, nobody likes slander, so {soul_uuid_target} will also worsen their relationship with the performer by <red>{rel_de_slander}</red>."
+Namun, tidak ada yang menyukai fitnah, sehingga {soul_uuid_target} juga akan memperburuk hubungan mereka dengan pelaku sebesar <red>{rel_de_slander}</red>."
 hint_action_praise,"Praise
-The chosen lord <b>praises</b> a mutual acquaintance.
+Tuan yang dipilih <b>mempuji</b> seorang kenalan bersama.
 
-As a result, {soul_uuid_target}'s relationship with this acquaintance <b>improves</b> by an amount depending on the performer's <hint=hint_skill_speech>Persuasion</hint> skill."
+Akibatnya, hubungan {soul_uuid_target} dengan kenalan ini <b>membaik</b> sebesar jumlah yang tergantung pada keterampilan <hint=hint_skill_speech>Persuasi</hint> pelaku."
 hint_action_slander_context,"Slander
-Performer {soul_uuid_performer}: {skill_name} {skill_level} lvl.
+Pelaku {soul_uuid_performer}: {skill_name} {skill_level} lvl.
 
-<b>Consequences</b>
-$ {soul_uuid_target}'s relationship with {soul_uuid_about}: <red>{rel_de_slander_to_target_king}</red>
-$ {soul_uuid_target}'s relationship with {soul_uuid_performer}: <red>{rel_de_slander}</red>
+<b>Konsekuensi</b>
+$ Hubungan {soul_uuid_target} dengan {soul_uuid_about}: <red>{rel_de_slander_to_target_king}</red>
+$ Hubungan {soul_uuid_target} dengan {soul_uuid_performer}: <red>{rel_de_slander}</red>
 
-Current relationship of {soul_uuid_target} with {soul_uuid_about}: {rel_current}"
+Hubungan saat ini {soul_uuid_target} dengan {soul_uuid_about}: {rel_current}"
 hint_action_praise_context,"Praise
-Performer {soul_uuid_performer}: {skill_name} {skill_level} lvl.
+Pelaku {soul_uuid_performer}: {skill_name} {skill_level} lvl.
 
-<b>Consequences</b>
-$ {soul_uuid_target}'s relationship with {soul_uuid_about}: <green>{rel_de_praise_to_target_king}</green>
+<b>Konsekuensi</b>
+$ Hubungan {soul_uuid_target} dengan {soul_uuid_about}: <green>{rel_de_praise_to_target_king}</green>
 
-Current relationship of {soul_uuid_target} with {soul_uuid_about}: {rel_current}"
+Hubungan saat ini {soul_uuid_target} dengan {soul_uuid_about}: {rel_current}"
 hint_unavailable_by_cooldown,"Unavailable
-The action will not be available for another {remain_time} hours"
-hint_building_wall_rebuild,"Rebuild
-Rebuild this section of wall"
-hint_unavailable_by_not_in_city,"Unavailable
-{soul_uuid_1} is not currently in the same city with {soul_uuid_2}"
-hint_sudden_attack_assault_fair,"Plundering
-Attack {faction_uuid} with the aim of looting the treasury.
+Tindakan ini tidak akan tersedia selama {remain_time} jam lagi"
+hint_building_wall_rebuild,"Membangun Kembali
+Membangun kembali bagian dinding ini"
+hint_unavailable_by_not_in_city,"Tidak Tersedia
+{soul_uuid_1} saat ini tidak berada di kota yang sama dengan {soul_uuid_2}"
+hint_sudden_attack_assault_fair,"Perampokan
+Serang {faction_uuid} dengan tujuan merampok perbendaharaan.
 
-Attacks without warning are not blessed by the <hint=hint_relations_matriarch>Matriarch</hint>, as they break unwritten rules and sow chaos.
+Serangan tanpa peringatan tidak diberkahi oleh <hint=hint_relations_matriarch>Matriark</hint>, karena melanggar aturan tak tertulis dan menabur kekacauan.
 
-$ Possible loot: <hint=hint_resource_gold>{town_money}</hint>
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_assault_fair_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Rampasan potensial: <hint=hint_resource_gold>{town_money}</hint>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_assault_fair_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_assault_fair_result,"Plundering
-Your army is marching to plunder the province {faction_uuid}.
+hint_sudden_attack_assault_fair_result,"Perampokan
+Pasukan Anda sedang berbaris untuk merampok provinsi {faction_uuid}.
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_assault_fair_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_assault_fair_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_assault_unfair,"Plundering
-Attack {faction_uuid} without warning to loot the treasury.
+hint_sudden_attack_assault_unfair,"Perampokan
+Serang {faction_uuid} tanpa peringatan untuk merampok perbendaharaan.
 
-Since you are NOT <hint=hint_faction_relations_deadly_enemy>deadly enemies</hint> with the king of this settlement, this attack will be perceived as <red>treacherous</red> and will damage relations with neighbors and the Matriarch.
+Karena Anda BUKAN <hint=hint_faction_relations_deadly_enemy>musuh bebuyutan</hint> dengan raja pemukiman ini, serangan ini akan dianggap sebagai <red>khianat</red> dan akan merusak hubungan dengan tetangga serta Matriark.
 
-$ Possible loot: <hint=hint_resource_gold>{town_money}</hint>
+$ Rampasan potensial: <hint=hint_resource_gold>{town_money}</hint>
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_assault_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_attack_assault_unfair_rel_de_neigh}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_assault_unfair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_attack_assault_unfair_rel_de_neigh}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_assault_unfair_result,"Plundering
-Unexpectedly, your army marches to plunder the province {faction_uuid}.
+hint_sudden_attack_assault_unfair_result,"Perampokan
+Secara tak terduga, pasukan Anda berbaris untuk merampok provinsi {faction_uuid}.
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_assault_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_attack_assault_unfair_rel_de_neigh}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_assault_unfair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_attack_assault_unfair_rel_de_neigh}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_burning_fair,"Burning to the Ground
-Send an army to wipe {faction_uuid} off the face of the earth.
+hint_sudden_attack_burning_fair,"Membakar Sampai Habis
+Kirim pasukan untuk memusnahkan {faction_uuid} dari muka bumi.
 
-Attacks without warning are not blessed by the <hint=hint_relations_matriarch>Matriarch</hint>, as they break unwritten rules and sow chaos.
+Serangan tanpa peringatan tidak diberkahi oleh <hint=hint_relations_matriarch>Matriark</hint>, karena melanggar aturan tak tertulis dan menabur kekacauan.
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_city_burn_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_city_burn_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_burning_fair_result,"Burning to the Ground
-Your army is marching to wipe {faction_uuid} off the face of the earth and end this feud.
+hint_sudden_attack_burning_fair_result,"Membakar Sampai Habis
+Pasukan Anda sedang berbaris untuk memusnahkan {faction_uuid} dari muka bumi dan mengakhiri perseteruan ini.
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_city_burn_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_city_burn_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_burning_unfair,"Burning to the Ground
-Unexpectedly, send your army to wipe {faction_uuid} off the face of the earth.
+hint_sudden_attack_burning_unfair,"Membakar Sampai Habis
+Secara tak terduga, kirim pasukan Anda untuk memusnahkan {faction_uuid} dari muka bumi.
 
-Since you are NOT <hint=hint_faction_relations_deadly_enemy>deadly enemies</hint> with the king of this settlement, this attack will be perceived as <red>treacherous</red> and will damage relations with neighbors and the Matriarch.
+Karena Anda BUKAN <hint=hint_faction_relations_deadly_enemy>musuh bebuyutan</hint> dengan raja pemukiman ini, serangan ini akan dianggap sebagai <red>khianat</red> dan akan merusak hubungan dengan tetangga serta Matriark.
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_city_burn_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_attack_city_burn_unfair_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_city_burn_unfair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_attack_city_burn_unfair_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_burning_unfair_result,"Burning to the Ground
-Unexpectedly, your army marches to wipe {faction_uuid} off the face of the earth.
+hint_sudden_attack_burning_unfair_result,"Membakar Sampai Habis
+Secara tak terduga, pasukan Anda berbaris untuk memusnahkan {faction_uuid} dari muka bumi.
 
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_city_burn_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_attack_city_burn_unfair_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_city_burn_unfair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_attack_city_burn_unfair_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_attack_on_vassal_or_ally}
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_vassalage_fair,"Make a vassal
-Send an army to conquer the province and annex it to your kingdom as a <hint=hint_vassal>vassal</hint>.
+hint_sudden_attack_vassalage_fair,"Buat Vasal
+Kirim pasukan untuk menaklukkan provinsi tersebut dan aneksasinya ke kerajaan Anda sebagai <hint=hint_vassal>vassal</hint>.
 
-Attacks without warning are not blessed by the <hint=hint_relations_matriarch>Matriarch</hint>, as they break unwritten rules and sow chaos.
-
-{optional_attack_on_vassal_or_ally}
-$ Relations with {soul_uuid_king}: <red>{sudden_demand_vassal_fair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_demand_vassal_fair_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
-{optional_holy_defence_will_removed}"
-hint_sudden_attack_vassalage_fair_result,"Make a vassal
-Your army is marching to conquer the province {faction_uuid} and annex it to your kingdom as a <hint=hint_vassal>vassal</hint>.
+Serangan tanpa peringatan tidak diberkahi oleh <hint=hint_relations_matriarch>Matriark</hint>, karena hal itu melanggar aturan tak tertulis dan menabur kekacauan.
 
 {optional_attack_on_vassal_or_ally}
-$ Relations with {soul_uuid_king}: <red>{sudden_demand_vassal_fair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_demand_vassal_fair_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_demand_vassal_fair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_demand_vassal_fair_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_vassalage_unfair,"Make a vassal
-Send an army to conquer the province and annex it to your kingdom as a <hint=hint_vassal>vassal</hint>.
-
-Since you are NOT <hint=hint_faction_relations_deadly_enemy>deadly enemies</hint> with the king of this settlement, this attack will be perceived as <red>treacherous</red> and will damage relations with neighbors and the Matriarch.
+hint_sudden_attack_vassalage_fair_result,"Buat Vasal
+Pasukan Anda sedang berbaris untuk menaklukkan provinsi {faction_uuid} dan aneksasinya ke kerajaan Anda sebagai <hint=hint_vassal>vassal</hint>.
 
 {optional_attack_on_vassal_or_ally}
-$ Relations with {soul_uuid_king}: <red>{sudden_demand_vassal_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_demand_vassal_unfair_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_demand_vassal_fair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_demand_vassal_fair_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_vassalage_unfair_result,"Make a vassal
-Unexpectedly, your army is marching to conquer the province {faction_uuid} and annex it to your kingdom as a <hint=hint_vassal>vassal</hint>.
+hint_sudden_attack_vassalage_unfair,"Buat Vasal
+Kirim pasukan untuk menaklukkan provinsi tersebut dan aneksasinya ke kerajaan Anda sebagai <hint=hint_vassal>vassal</hint>.
+
+Karena Anda BUKAN <hint=hint_faction_relations_deadly_enemy>musuh bebuyutan</hint> dengan raja pemukiman ini, serangan ini akan dianggap sebagai <red>khianat</red> dan akan merusak hubungan dengan tetangga serta Matriark.
 
 {optional_attack_on_vassal_or_ally}
-$ Relations with {soul_uuid_king}: <red>{sudden_demand_vassal_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_demand_vassal_unfair_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_demand_vassal_unfair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_demand_vassal_unfair_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_neutrality_fair,"Forcing to Neutrality
-Attack the province {faction_uuid} to force it into neutrality. If you win, {soul_uuid_king} will break all political ties with vassals, suzerains, or allies. This province will become politically independent and neutral.
+hint_sudden_attack_vassalage_unfair_result,"Buat Vasal
+Secara tak terduga, pasukan Anda sedang berbaris untuk menaklukkan provinsi {faction_uuid} dan aneksasinya ke kerajaan Anda sebagai <hint=hint_vassal>vassal</hint>.
 
-Attacks without warning are not blessed by the <hint=hint_relations_matriarch>Matriarch</hint>, as they break unwritten rules and sow chaos.
+{optional_attack_on_vassal_or_ally}
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_demand_vassal_unfair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_demand_vassal_unfair_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
+{optional_holy_defence_will_removed}"
+hint_sudden_attack_neutrality_fair,"Paksa ke Netralitas
+Serang provinsi {faction_uuid} untuk memaksanya ke netralitas. Jika Anda menang, {soul_uuid_king} akan memutus semua ikatan politik dengan vasal, suzerain, atau sekutu. Provinsi ini akan menjadi mandiri secara politik dan netral.
+
+Serangan tanpa peringatan tidak diberkahi oleh <hint=hint_relations_matriarch>Matriark</hint>, karena hal itu melanggar aturan tak tertulis dan menabur kekacauan.
 
 {optional_force_neutrality_additional_effects}
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_fair_force_neutrality_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_fair_force_neutrality_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_neutrality_fair_result,"Forcing to Neutrality
-Your army is marching to force the province {faction_uuid} into neutrality.
+hint_sudden_attack_neutrality_fair_result,"Paksa ke Netralitas
+Pasukan Anda sedang berbaris untuk memaksa provinsi {faction_uuid} ke netralitas.
 
 {optional_force_neutrality_additional_effects}
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_fair_force_neutrality_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de_fair}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_fair_force_neutrality_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de_fair}</red>
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_neutrality_unfair,"Forcing to Neutrality
-Attack the province {faction_uuid} to force it into neutrality. If you win, {soul_uuid_king} will break all political ties with vassals, suzerains, or allies. This province will become politically independent and neutral.
+hint_sudden_attack_neutrality_unfair,"Paksa ke Netralitas
+Serang provinsi {faction_uuid} untuk memaksanya ke netralitas. Jika Anda menang, {soul_uuid_king} akan memutus semua ikatan politik dengan vasal, suzerain, atau sekutu. Provinsi ini akan menjadi mandiri secara politik dan netral.
 
-Since you are NOT <hint=hint_faction_relations_deadly_enemy>deadly enemies</hint> with the king of this settlement, this attack will be perceived as <red>treacherous</red> and will damage relations with neighbors and the Matriarch.
+Karena Anda BUKAN <hint=hint_faction_relations_deadly_enemy>musuh bebuyutan</hint> dengan raja pemukiman ini, serangan ini akan dianggap sebagai <red>khianat</red> dan akan merusak hubungan dengan tetangga serta Matriark.
 
 {optional_force_neutrality_additional_effects}
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_unfair_force_neutrality_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_attack_unfair_force_neutrality_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_unfair_force_neutrality_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_attack_unfair_force_neutrality_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_holy_defence_will_removed}"
-hint_sudden_attack_neutrality_unfair_result,"Forcing to Neutrality
-Unexpectedly, your army is marching to force the province {faction_uuid} into neutrality.
+hint_sudden_attack_neutrality_unfair_result,"Paksa ke Netralitas
+Secara tak terduga, pasukan Anda sedang berbaris untuk memaksa provinsi {faction_uuid} ke netralitas.
 
 {optional_force_neutrality_additional_effects}
-$ Relations with {soul_uuid_king}: <red>{sudden_attack_unfair_force_neutrality_rel_de}</red>
-$ Relations with neighbors: <red>{sudden_attack_unfair_force_neutrality_neigh_rel_de}</red>
-$ Relations with the Matriarch: <red>{sudden_attack_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_unfair_force_neutrality_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{sudden_attack_unfair_force_neutrality_neigh_rel_de}</red>
+$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>
 {optional_holy_defence_will_removed}"
 hint_letter_sudden_attack_1,"~ 
-I see you decided to use the element of surprise? I think disappointment awaits you, as I expected you to stoop to such a cowardly trick!"
+Saya lihat Anda memutuskan menggunakan elemen kejutan? Saya pikir kekecewaan menanti Anda, karena saya sudah menduga Anda akan merendahkan diri pada trik pengecut seperti itu!"
 hint_letter_sudden_attack_2,"~ 
-You think you caught me off guard? Think again! If you were preparing an unpleasant surprise for me, you'll be surprised at how things turn out!"
+Anda pikir Anda menangkap saya lengah? Pikir lagi! Jika Anda sedang menyiapkan kejutan tidak menyenangkan untuk saya, Anda akan terkejut bagaimana keadaan berubah!"
 hint_letter_sudden_attack_3,"~ 
 A dishonorable attack without warning – is that all your brain, the offspring of a whore and a boar, can come up with? No wonder your city reeks of betrayal so strongly that it can be smelled from the other side of Norland!"
 hint_letter_sudden_attack_4,"~ 

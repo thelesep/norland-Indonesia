@@ -1,12 +1,12 @@
 [
-  "Sending help\nForm a squad and send them to help.\n\n$ They will participate in the upcoming battle and then return home.",
-  "Call for help\n{optional_type_of_danger}\n\nYour troops have come as reinforcements to the village of {village_name} and will remain in the town for 3 days or until the first battle.",
-  "The danger is behind us\n{village_name} is now safe, as the enemy has changed their plans and is no longer going to attack it. Your troops are on their way home.",
-  "[hint_mind_caption]\nI know that Mother Sophia welcomes everyone into her embrace, but it's so sad when those who we loved are no longer with us!\n\n{name}, I will always remember you!",
-  "[hint_mind_caption]\nMay the flame of the candle I lit at your grave ease the pain of loss!\n\n{name}, I will always remember you!",
-  "Grave\nThe grave of a deceased lord with a memorial tombstone.\n\nFor those who were close with the deceased, visiting the grave helps them cope with sad memories.",
-  "Impossible to demolish\nA building cannot be demolished while it's on fire",
-  "Impossible to demolish\nA building cannot be demolished while there are enemies in town",
-  "[hint_mind_caption]\nIt feels so good, to visit the grave of my enemy and experience that joy once again!",
-  "This action is impossible\nYou cannot perform this action while your army is in this town"
+  "Mengirim Bantuan\nBentuk sebuah pasukan dan kirim mereka untuk membantu.\n\n$ Mereka akan berpartisipasi dalam pertempuran mendatang dan kemudian kembali ke rumah.",
+  "Meminta Bantuan\n{optional_type_of_danger}\n\nPasukan Anda telah datang sebagai bala bantuan ke desa {village_name} dan akan tetap di kota selama 3 hari atau hingga pertempuran pertama.",
+  "Bahaya telah berlalu\n{village_name} sekarang aman, karena musuh telah mengubah rencana mereka dan tidak lagi akan menyerangnya. Pasukan Anda sedang dalam perjalanan pulang.",
+  "[hint_mind_caption]\nSaya tahu bahwa Ibu Sophia menyambut semua orang ke dalam pelukannya, tapi sangat sedih ketika orang-orang yang kita cintai tidak lagi bersama kita!\n\n{name}, saya akan selalu mengingatmu!",
+  "[hint_mind_caption]\nSemoga nyala lilin yang saya nyalakan di makam Anda meredakan rasa sakit kehilangan!\n\n{name}, saya akan selalu mengingatmu!",
+  "Makam\nMakam seorang penguasa yang telah meninggal dengan batu nisan peringatan.\n\nBagi mereka yang dekat dengan yang meninggal, mengunjungi makam membantu mereka mengatasi kenangan sedih.",
+  "Tidak mungkin dihancurkan\nSebuah bangunan tidak bisa dihancurkan saat sedang terbakar",
+  "Tidak mungkin dihancurkan\nSebuah bangunan tidak bisa dihancurkan saat ada musuh di kota",
+  "[hint_mind_caption]\nMerasa sangat menyenangkan, mengunjungi makam musuh saya dan merasakan kegembiraan itu sekali lagi!",
+  "Tindakan ini tidak mungkin\nAnda tidak bisa melakukan tindakan ini saat pasukan Anda berada di kota ini"
 ]

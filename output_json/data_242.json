@@ -1,12 +1,12 @@
 [
-  "Move camera\nHold this key to “drag” the camera.",
-  "Add by 10\nHold this key when adding items to the trader, army, and other menus to add 10 items at once.",
-  "Order to the Squad\nThis action is only possible with a selected squad.\n\nAssign the squad a location to move to or an enemy to attack (by clicking on the enemy banner).",
-  "The incognito has left the province\nThe character has left your province. Most likely, their story is not over, and you will hear about them again…",
-  "Technology\nTrade slang and the use of intermediaries will allow you to reduce the church tax on trade contracts by {percent}%",
-  "Technology\nThe skill of selling goods to those who don’t really need them ensures an increase in <hint=hint_market_volume>local demand</hint> for all goods by {perc}%.",
-  "Technology\nMore compact writing reduces the use of <hint=hint_resource_paper>Paper</hint> by {perc}% when creating books.",
-  "Technology\nA theological treatise explaining how the grace of Mother Sophia can be revealed to earthly rulers.\n\nBy the grace of the Church, your king will be able to receive a holy <hint=hint_action_task_canonization>Blessing</hint> (requires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>).",
-  "Technology\nA set of arguments that convinces the Church to grant <hint=hint_holy_protection>the protection of the Loving Family</hint> (usually reserved for young noble houses) to your province for a limited number of days.\n\nRequires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>.",
-  "Technology\nWhile divorce is not approved by the Loving Family and usually requires very good <hint=hint_relations_matriarch>relations with the Matriarch</hint>, this knowledge will lower the requirements, convincingly proving the necessity of divorce in exceptional cases."
+  "Pindahkan kamera\nTahan tombol ini untuk “seret” kamera.",
+  "Tambah 10\nTahan tombol ini saat menambahkan item ke pedagang, pasukan, dan menu lainnya untuk menambahkan 10 item sekaligus.",
+  "Perintah ke Regu\nAksi ini hanya mungkin dengan regu yang dipilih.\n\nTetapkan regu ke lokasi untuk bergerak atau musuh untuk diserang (dengan mengklik bendera musuh).",
+  "Si Incognito telah meninggalkan provinsi\nKarakter telah meninggalkan provinsi Anda. Paling Mungkin, cerita mereka belum selesai, dan Anda akan mendengar tentang mereka lagi…",
+  "Teknologi\nIstilah dagang dan penggunaan perantara akan memungkinkan Anda mengurangi pajak gereja pada kontrak Perdagangan sebesar {percent}%",
+  "Teknologi\nKeterampilan menjual barang kepada mereka yang sebenarnya tidak membutuhkannya memastikan peningkatan <hint=hint_market_volume>permintaan lokal</hint> untuk semua barang sebesar {perc}%.",
+  "Teknologi\nPenulisan yang lebih ringkas mengurangi penggunaan <hint=hint_resource_paper>Kertas</hint> sebesar {perc}% saat membuat buku.",
+  "Teknologi\nRisalah teologi yang menjelaskan bagaimana rahmat Bunda Sophia dapat diungkapkan kepada penguasa duniawi.\n\nDengan rahmat Pihak Gereja, raja Anda akan dapat menerima berkah suci <hint=hint_action_task_canonization>Blessing</hint> (membutuhkan hubungan baik dengan <hint=hint_relations_matriarch>Matriark</hint>).",
+  "Teknologi\nSekumpulan argumen yang meyakinkan Pihak Gereja untuk memberikan <hint=hint_holy_protection>perlindungan Keluarga Penuh Kasih</hint> (biasanya dicadangkan untuk rumah bangsawan muda) ke provinsi Anda untuk jumlah hari terbatas.\n\nMembutuhkan hubungan baik dengan <hint=hint_relations_matriarch>Matriark</hint>.",
+  "Teknologi\nMeskipun perceraian tidak disetujui oleh Keluarga Penuh Kasih dan biasanya membutuhkan hubungan yang sangat baik dengan <hint=hint_relations_matriarch>Matriark</hint>, pengetahuan ini akan menurunkan persyaratan, dengan meyakinkan membuktikan kebutuhan perceraian dalam kasus luar biasa."
 ]

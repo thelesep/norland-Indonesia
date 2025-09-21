@@ -1,12 +1,12 @@
 [
-  "Incognito\nA character in disguise is visiting your city. They will stay for a few days.\n\nNo one knows their real name, but their manners and clothing suggest noble origins.\n\nAs unclear as their identity are their intentions, which could be either good or bad, and the only way to find out is to wait.\n\nOr, you can expel them at any time, without waiting to uncover their secret.",
-  "Unable to summon\nAn uprising is expected soon in the city of {faction_uuid}, so the ruler does not want the warriors to leave the province.",
-  "Unable to summon\nThe lord who previously commanded this army has left it, so it cannot be assigned to new missions.",
-  "Unavailable\nThe blind lord cannot learn combat skills.",
-  "[hint_mind_caption]\nThis song touched me to the depths of my soul! It felt as if he was singing about me!\n\n<b>Reason:</b> Listened to the song of a wandering minstrel",
-  "Unavailable\nThe guest has not yet arrived at the settlement",
-  "Trade\nTrade with the nectar merchant.\n\nThe only currency he is interested in, aside from gold, is prisoners.",
-  "Release of the Prisoner\nHe will leave your province, but promises to return the favor soon.",
-  "Nectar Merchant\nThe wandering merchant offers to sell you <hint=hint_resource_nectar>Nectar</hint> at a very favorable price.\n\nBut be careful—the price may increase if you start trading with him regularly.",
-  "Play\nYour pet will be thrilled to get some attention and is always ready for a fun game to lift your spirits.\n\n$ Positive Thought from Playing with Pet: <green>+{inc}</green>"
+  "Incognito\nSeorang karakter yang menyamar sedang mengunjungi kota Anda. Mereka akan tinggal selama beberapa hari.\n\nTidak ada yang tahu nama asli mereka, tetapi etika dan pakaian mereka menunjukkan asal-usul bangsawan.\n\nSejauh tidak jelasnya identitas mereka, begitu pula niat mereka, yang bisa baik atau buruk, dan satu-satunya cara untuk mengetahuinya adalah dengan menunggu.\n\nAtau, Anda bisa mengusir mereka kapan saja, tanpa menunggu untuk mengungkap rahasia mereka.",
+  "Tidak Dapat Dipanggil\nSebuah pemberontakan diharapkan segera terjadi di kota {faction_uuid}, sehingga penguasa tidak ingin para prajurit meninggalkan wilayah tersebut.",
+  "Tidak Dapat Dipanggil\nPenguasa yang sebelumnya memerintahkan pasukan ini telah meninggalkannya, sehingga tidak bisa ditugaskan untuk misi baru.",
+  "Tidak Tersedia\nPenguasa yang buta tidak bisa belajar keterampilan tempur.",
+  "[hint_mind_caption]\nLagu ini menyentuhku hingga ke kedalaman jiwaku! Rasanya seolah-olah dia menyanyikan tentang diriku!\n\n<b>Alasan:</b> Mendengarkan lagu dari seorang pengembara minstrel",
+  "Tidak Tersedia\nTamu belum tiba di pemukiman",
+  "Perdagangan\nBerdagang dengan pedagang nektar.\n\nMata uang satu-satunya yang diminatinya, selain emas, adalah tahanan.",
+  "Pembebasan Tahanan\nDia akan meninggalkan wilayah Anda, tetapi berjanji untuk membalas budi segera.",
+  "Pedagang Nektar\nPedagang pengembara menawarkan untuk menjual <hint=hint_resource_nectar>Nektar</hint> kepada Anda dengan harga yang sangat menguntungkan.\n\nTapi hati-hati—harga mungkin naik jika Anda mulai berdagang dengannya secara rutin.",
+  "Bermain\nPeliharaan Anda akan gembira mendapatkan perhatian dan selalu siap untuk permainan menyenangkan yang mengangkat semangat Anda.\n\n$ Pikiran Positif dari Bermain dengan Peliharaan: <green>+{inc}</green>"
 ]

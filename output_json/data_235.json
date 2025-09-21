@@ -1,12 +1,12 @@
 [
-  "Risk of Knowledge Loss\nLord {soul_uuid} holds {percent}% of all your technologies, and he is no longer young. This is risky because if something happens to this lord, all this knowledge will be lost.\n\n$ Use <hint=hint_action_wise_talk>Wise Conversation</hint> to share the knowledge from this lord with others\n$ Assign another lord (preferably a younger one) to study the knowledge currently held solely by {soul_uuid}",
-  "Production halted\nThe order will not be fulfilled because all production buildings of this type have been stopped or do not have workers.",
-  "Persona Non Grata\n{soul_uuid_lord}: The Lord is permanently banned from visiting the city of {faction_uuid} due to crimes committed against the province.",
-  "[hint_mind_caption]\nI have someone who loves me just for who I am!",
-  "[hint_mind_caption]\nIt was really nice to play with the dog!",
-  "Unable to summon\n{faction_uuid} has no warriors they can send to assist you.",
-  "~\nFor the support support they have provided to you, your chosen vassals will be exempt from vassal tax for {days} days. In total, you will be underpaid by about <hint=hint_resource_gold>{tax_free_amount}</hint> during this time.",
-  "A rebellion is brewing\nYour vassal {soul_uuid_king} from the province {faction_uuid} has become hostile toward your king and is preparing to break away from your rule.\n\nIf within 24 hours you do not manage to restore relations with them from {current_opinion} to {min_opinion_threshold}, a rebellion will begin.\n\n<b>Hint:</b> You can also try to neutralize the rebellious vassal by other means (e.g., by killing or kidnapping them).\n\n{optional_other_rebel_vassals}",
-  "~\nThere is a chance that these vassals will support the rebellion when it begins:",
-  "Bribe the heir\nBribe the crown heir {soul_uuid_heir} to instigate a rebellion."
+  "Risiko Kehilangan Pengetahuan\nTuan {soul_uuid} memegang {percent}% dari semua teknologi Anda, dan dia sudah tidak muda lagi. Ini berisiko karena jika sesuatu terjadi pada tuan ini, semua pengetahuan ini akan hilang.\n\n$ Gunakan <hint=hint_action_wise_talk>Percakapan Bijak</hint> untuk membagikan pengetahuan dari tuan ini dengan yang lain\n$ Tetapkan tuan lain (sebaiknya yang lebih muda) untuk mempelajari pengetahuan yang saat ini hanya dipegang oleh {soul_uuid}",
+  "Produksi Dihentikan\nPesanan tidak akan dipenuhi karena semua bangunan produksi tipe ini telah dihentikan atau tidak memiliki pekerja.",
+  "Persona Non Grata\n{soul_uuid_lord}: Tuan tersebut secara permanen dilarang mengunjungi kota {faction_uuid} karena kejahatan yang dilakukan terhadap provinsi tersebut.",
+  "[hint_mind_caption]\nAku punya seseorang yang mencintaiku apa adanya!",
+  "[hint_mind_caption]\nSungguh menyenangkan bermain dengan anjing itu!",
+  "Tidak Dapat Memanggil\n{faction_uuid} tidak memiliki prajurit yang bisa mereka kirim untuk membantu Anda.",
+  "~\nUntuk dukungan yang telah mereka berikan kepada Anda, bawahan pilihan Anda akan dibebaskan dari pajak bawahan selama {days} hari. Secara total, Anda akan kekurangan pembayaran sekitar <hint=hint_resource_gold>{tax_free_amount}</hint> selama waktu ini.",
+  "Pemberontakan Sedang Direncanakan\nBawahan Anda {soul_uuid_king} dari provinsi {faction_uuid} telah menjadi permusuhan terhadap raja Anda dan sedang mempersiapkan untuk memisahkan diri dari kekuasaan Anda.\n\nJika dalam 24 jam Anda tidak berhasil memulihkan hubungan dengan mereka dari {current_opinion} ke {min_opinion_threshold}, pemberontakan akan dimulai.\n\n<b>Petunjuk:</b> Anda juga bisa mencoba menetralkan bawahan pemberontak dengan cara lain (misalnya, dengan membunuh atau menculik mereka).\n\n{optional_other_rebel_vassals}",
+  "~\nAda kemungkinan bahwa bawahan-bawahan ini akan mendukung pemberontakan ketika dimulai:",
+  "Suap Pewaris\nSuap pewaris mahkota {soul_uuid_heir} untuk memicu pemberontakan."
 ]

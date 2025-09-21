@@ -1,12 +1,12 @@
 [
-  "Longevity\nThanks to special knowledge, this character’s life will be extended by {number} years.",
-  "Blessing of Sophia\nBy the will of Mother Sophia, all of this character’s children will be boys.",
-  "Crossbow\nRanged weapon.\n\n$ Successfully pierces and destroys armor and shields.\n$ Compared to <hint=hint_resource_bow>Bow</hint>, it is much less effective against unarmored targets, as it loads twice as slowly.\n\n<b>Production</b>\n$ Produced in <hint=hint_bld_workshop>Workshop</hint>.\n$ Requires <hint=hint_resource_wood>1</hint> and <hint=hint_resource_steel>1</hint> to create.",
-  "Expel\nExpel the guest. You might avoid negative consequences from their stay, but you could also miss out on interesting opportunities.",
-  "Hire the Knight\nBy hiring this fugitive marauder, you will gain an exceptionally powerful knight capable of leading your troops.\n\nHowever, you will soon have to withstand an attack from {warriors_min} - {warriors_max} of their former <hint=hint_person_maroders>marauder</hint> kin.",
-  "Trade Books\nA Scriptonic trades in unique books that cannot be purchased anywhere else.",
-  "Witch: Deliver to Justice\nYou hand the witch over to the church, after which she will be executed.\n\n$ Relations with the <hint=hint_relations_matriarch>Matriarch</hint>: <green>+{rel_inc}</green>",
-  "Witch: Bribe the Bishop\nYou convince the Bishop to overlook the witch's arrival in your settlement. In return, the witch will be grateful to you.\n\n$ Bribe cost: <hint=hint_resource_rune>{cost}</hint>",
-  "Ransom the Prisoner\nAfter the ransom, he will become your prisoner and will keep the secret of his origin until you free him.\n\n$ Ransom cost: <hint=hint_resource_rune>{gold}</hint>",
-  "Buy a Dog\nThe lord who purchases a dog will receive a loyal companion that will be with him for life.\n\n$ Price: <hint=hint_resource_rune>{cost}</hint>"
+  "Umur Panjang\nBerkat pengetahuan khusus, umur karakter ini akan diperpanjang {number} tahun.",
+  "Berkah Sophia\nDengan kehendak Ibu Sophia, semua anak karakter ini akan laki-laki.",
+  "Busur Silang\nSenjata jarak jauh.\n\n$ Berhasil menembus dan menghancurkan zirah dan perisai.\n$ Dibandingkan dengan <hint=hint_resource_bow>Busur</hint>, kurang efektif terhadap target tanpa zirah, karena memuat dua kali lebih lambat.\n\n<b>Produksi</b>\n$ Diproduksi di <hint=hint_bld_workshop>Bengkel</hint>.\n$ Membutuhkan <hint=hint_resource_wood>1</hint> dan <hint=hint_resource_steel>1</hint> untuk dibuat.",
+  "Usir\nUsir tamu tersebut. Anda mungkin menghindari konsekuensi negatif dari kunjungan mereka, tapi Anda juga bisa melewatkan peluang menarik.",
+  "Rekrut Ksatria\nDengan merekrut begal buronan ini, Anda akan mendapatkan ksatria yang sangat kuat yang mampu memimpin pasukan Anda.\n\nNamun, Anda segera harus menahan serangan dari {warriors_min} - {warriors_max} mantan <hint=hint_person_maroders>marauder</hint> kerabat mereka.",
+  "Perdagangan Buku\nSeorang Scriptonics berdagang buku unik yang tidak bisa dibeli di tempat lain.",
+  "Penyihir: Serahkan ke Keadilan\nAnda menyerahkan penyihir itu ke gereja, setelah itu dia akan dieksekusi.\n\n$ Hubungan dengan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{rel_inc}</green>",
+  "Penyihir: Suap Uskup\nAnda meyakinkan Uskup untuk mengabaikan kedatangan penyihir di pemukiman Anda. Sebagai imbalannya, penyihir akan berterima kasih kepada Anda.\n\n$ Biaya suap: <hint=hint_resource_rune>{cost}</hint>",
+  "Tebus Narapidana\nSetelah tebusan, dia akan menjadi narapidana Anda dan akan menyimpan rahasia asal-usulnya sampai Anda membebaskannya.\n\n$ Biaya tebusan: <hint=hint_resource_rune>{gold}</hint>",
+  "Beli Anjing\nPenguasa yang membeli anjing akan menerima pendamping setia yang akan bersamanya seumur hidup.\n\n$ Harga: <hint=hint_resource_rune>{cost}</hint>"
 ]

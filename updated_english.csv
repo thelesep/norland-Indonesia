@@ -1336,770 +1336,770 @@ $ Migran dan prajurit tiba di pemukiman Anda dengan beberapa tabungan.
 $ Saat Anda tidak memiliki pasar, mereka dapat membelanjakan emas mereka untuk membeli barang yang hilang - makanan atau alkohol - dari karavan.
 $ Jika mereka mengumpulkan cukup uang, mereka mungkin mulai membeli barang mewah dari pedagang karavan, seperti <hint=hint_resource_meat>Daging</hint> atau <hint=hint_resource_ale>Flavorful Ale</hint>
 $ Kekayaan dapat membantu mencapai <hint=hint_rich>kemakmuran</hint>."
-hint_free_people,"Free Residents
-The total number of free peasants, warriors, unemployed individuals, and vagabonds who inhabit your city."
-hint_equip_cost,"Equipment Cost
-The total value of all weapons and armor worn by your warriors.
+hint_free_people,"Penduduk Bebas
+Jumlah total petani bebas, prajurit, individu pengangguran, dan pengembara yang menghuni kota Anda."
+hint_equip_cost,"Biaya Peralatan
+Nilai total semua senjata dan baju zirah yang dipakai oleh prajurit Anda.
 
-Indirectly reflects the strength of your army (or squad)."
-hint_sodiers_happiness,"Warrior mood
-$ Hired warriors may desert and leave the city if they are in a bad <hint=hint_mood>mood</hint> (below <red>25</red>).
-$ Warriors in a good mood (above <green>80</green>) have increased <hint=hint_moral_level>bravery</hint> in battle as well as a greater chance of becoming <hint=hint_loyalist>loyalists</hint>.
+Secara tidak langsung mencerminkan kekuatan pasukan Anda (atau regu)."
+hint_sodiers_happiness,"Suasana Hati Prajurit
+$ Prajurit bayaran mungkin membelot dan meninggalkan kota jika mereka dalam <hint=hint_mood>suaana hati</hint> buruk (di bawah <red>25</red>).
+$ Prajurit dengan suasana hati baik (di atas <green>80</green>) memiliki <hint=hint_moral_level>keberanian</hint> yang meningkat dalam pertempuran serta peluang lebih besar menjadi <hint=hint_loyalist>loyalis</hint>.
 
 <img=hint_sodiers_happiness></img>
 
-Tips for improving mood:
-$ Let freshly recruited grow accustomed to the realities of combat before sending them into battle. A new warrior's fear of death will gradually wear off as they undergo combat training.
-$ Choose lords with a high <hint=hint_skill_command>Command</hint> skill to lead your squads.
-$ Do not exhaust the warriors with excessive training and <hint=hint_persons_guard>patrols</hint> before battle.
-$ Provide them with high-quality products. such as <hint=hint_resource_meat>Meat</hint> and <hint=hint_resource_ale>Ale</hint>.
-$ Allocate a separate <hint=hint_bld_temple>Temple</hint> for the warriors and preach faith in it. This will turn them into <hint=hint_persons_fanatic>fanatics</hint> who relish pain. However, this is a dangerous path if you have poor relations with the <hint=hint_bishop>bishop</hint>, as they will be on his side in the event of a <hint=hint_pogrom>religious uprising</hint>.
-$ Initiate <hint=hint_nt_terror_culture>terror</hint> against the culture your warriors hate or pursue policies aligned with their cultural values."
-hint_slave_happines,"Prisoners Mood
-Unhappy prisoners may attempt to escape from the settlement, and if they are extremely unhappy, they may incite a <hint=hint_slave_riot>uprising</hint>.
+Tips untuk meningkatkan suasana hati:
+$ Biarkan prajurit baru yang baru direkrut terbiasa dengan kenyataan pertempuran sebelum mengirim mereka ke medan perang. Rasa takut akan kematian seorang prajurit baru akan secara bertahap hilang saat mereka menjalani pelatihan tempur.
+$ Pilih penguasa dengan keterampilan <hint=hint_skill_command>Keterampilan Komando</hint> tinggi untuk memimpin regu Anda.
+$ Jangan membebani prajurit dengan pelatihan berlebihan dan <hint=hint_persons_guard>patroli</hint> sebelum pertempuran.
+$ Sediakan produk berkualitas tinggi untuk mereka, seperti <hint=hint_resource_meat>Daging</hint> dan <hint=hint_resource_ale>Flavorful Ale</hint>.
+$ Alokasikan <hint=hint_bld_temple>Kuil</hint> terpisah untuk prajurit dan khotbah iman di dalamnya. Ini akan menjadikan mereka <hint=hint_persons_fanatic>Fanatik</hint> yang menikmati rasa sakit. Namun, ini adalah jalan berbahaya jika Anda memiliki hubungan buruk dengan <hint=hint_bishop>Uskup</hint>, karena mereka akan berada di pihaknya dalam acara <hint=hint_pogrom>pemberontakan agama</hint>.
+$ Mulai <hint=hint_nt_terror_culture>teror</hint> terhadap budaya yang dibenci prajurit Anda atau kejar kebijakan yang selaras dengan nilai-nilai budaya mereka."
+hint_slave_happines,"Suasana Hati Tahanan
+Tahanan yang tidak bahagia mungkin mencoba melarikan diri dari pemukiman, dan jika mereka sangat tidak bahagia, mereka mungkin memicu <hint=hint_slave_riot>pemberontakan</hint>.
 
-To improve the mood of prisoners:
-$ Make sure you have built enough prison wards.
-$ Ensure that the wards have a warden who provides food to the prisoners.
-$ In the <hint=hint_finance_menu>Economy Menu</hint>, make sure you supply them with an adequate amount of alcohol and food.
-$ Ensure that the prisoners have access to <hint=hint_bld_temple>Temples</hint>.
+Untuk meningkatkan suasana hati tahanan:
+$ Pastikan Anda telah membangun cukup Blok Penjara.
+$ Pastikan blok memiliki penjaga yang menyediakan makanan untuk tahanan.
+$ Di <hint=hint_finance_menu>Menu Ekonomi</hint>, pastikan Anda memasok mereka dengan jumlah alkohol dan makanan yang memadai.
+$ Pastikan tahanan memiliki akses ke <hint=hint_bld_temple>Kuil</hint>.
 
-<b>Hint:</b> To capture runaway prisoners, place <hint=hint_persons_guard>guards</hint> near their wards."
-hint_fatigue,"Fatigue
-By performing various tasks and work, characters become tired and start to need <hint=hint_need_fun>rest</hint>.
+<b>Petunjuk:</b> Untuk menangkap tahanan yang melarikan diri, letakkan <hint=hint_persons_guard>garda</hint> di dekat blok mereka."
+hint_fatigue,"Kelelahan
+Dengan melakukan berbagai tugas dan pekerjaan, karakter menjadi lelah dan mulai membutuhkan <hint=hint_need_fun>istirahat</hint>.
 
-This leads to negative <hint=hint_thought>thoughts</hint>, which affect their <hint=hint_mood>mood</hint> and accumulate over time.
+Ini menyebabkan <hint=hint_thought>pikiran</hint> negatif, yang memengaruhi <hint=hint_mood>suaana hati</hint> mereka dan menumpuk seiring waktu.
 
-The need for rest gradually gets fulfilled when the character is not working, but the fastest way to replenish it is by consuming <hint=hint_alcohol>alcohol</hint>."
-hint_recovery,"Recovery
-The time it takes to heal a wound or recover from an illness."
-hint_sender,"Messenger
-You can send a messenger to carry out tasks in other settlements on the world map.
+Kebutuhan istirahat secara bertahap terpenuhi ketika karakter tidak bekerja, tetapi cara tercepat untuk mengisi ulang adalah dengan mengonsumsi <hint=hint_alcohol>alkohol</hint>."
+hint_recovery,"Pemulihan
+Waktu yang dibutuhkan untuk menyembuhkan luka atau pulih dari penyakit."
+hint_sender,"Utusan
+Anda dapat mengirim utusan untuk melakukan tugas di pemukiman lain di peta dunia.
 
 <img=hint_sender></img>
 
-A messenger is selected from the peasants and requires <hint=hint_resource_paper>1</hint> to deliver the message.
+Utusan dipilih dari petani dan memerlukan <hint=hint_resource_paper>1</hint> untuk mengirim pesan.
 
-The letter that the messenger delivers is written by the king, so the effectiveness of the action is determined by the skills of your king."
-hint_sick,"Diseases
-Diseases can be mild or severe.
+Surat yang dikirimkan utusan ditulis oleh raja, sehingga efektivitas tindakan ditentukan oleh keterampilan raja Anda."
+hint_sick,"Penyakit
+Penyakit bisa ringan atau parah.
 
-In the case of a mild disease, the character moves at a slower pace.
+Dalam kasus penyakit ringan, karakter bergerak dengan kecepatan lebih lambat.
 
-In the case of a severe disease, the character is unable to walk and remains bedridden. They are visited by their loved ones and a <hint=hint_persons_priest>priest</hint>.
+Dalam kasus penyakit parah, karakter tidak mampu berjalan dan tetap terbaring di tempat tidur. Mereka dikunjungi oleh orang-orang terkasih dan seorang <hint=hint_persons_priest>pendeta</hint>.
 
-The cause of illness can be <hint=hint_wounds>injuries</hint> sustained in battle, as well as, for example, <hint=hint_display_event_swede_typh_allowed>Rutabaga poisoning</hint>.
+Penyebab penyakit bisa <hint=hint_wounds>luka</hint> yang diderita dalam pertempuran, serta, misalnya, <hint=hint_display_event_swede_typh_allowed>Keracunan Rutabaga</hint>.
 
-Diseases can be <hint=hint_heal>treated</hint> with varying degrees of success."
-hint_heal,"Treatment
-Diseases and open <hint=hint_wounds>wounds</hint> are treated with <hint=hint_resource_med>Medical Salves</hint>.
+Penyakit dapat <hint=hint_heal>dirawat</hint> dengan tingkat keberhasilan yang bervariasi."
+hint_heal,"Perawatan
+Penyakit dan <hint=hint_wounds>luka</hint> terbuka dirawat dengan <hint=hint_resource_med>Salep Medis</hint>.
 
-Lords and warriors take the necessary medicinal supplies from the warehouse and heal themselves, but the peasants do not have access to these medicines due to their high cost, so they can only rely on Sophia's mercy."
-hint_death,"Death
-When a character dies, their loved ones mourn them and experience strong negative <hint=hint_thought>thoughts</hint>.
+Para penguasa dan prajurit mengambil persediaan obat yang diperlukan dari gudang dan menyembuhkan diri sendiri, tetapi petani tidak memiliki akses ke obat-obatan ini karena biayanya yang tinggi, sehingga mereka hanya bisa mengandalkan rahmat Sophia."
+hint_death,"Kematian
+Ketika seorang karakter meninggal, orang-orang terkasih mereka berduka dan mengalami <hint=hint_thought>pikiran</hint> negatif yang kuat.
 
-The <hint=hint_persons_priest>priest</hint> takes the deceased to the <hint=hint_bld_temple>Temple</hint> where the funeral and subsequent cremation take place."
-hint_wounds,"Wounds
-Wounds occur as a result of weapon strikes or accidents.
+<hint=hint_persons_priest>Pendeta</hint> membawa jenazah ke <hint=hint_bld_temple>Kuil</hint> di mana pemakaman dan kremasi selanjutnya berlangsung."
+hint_wounds,"Luka
+Luka terjadi sebagai hasil dari serangan senjata atau kecelakaan.
 
-Some wounds cause <hint=hint_pain>pain</hint>, while others may result in <hint=hint_bleeding>bleeding</hint> or dangerous <hint=hint_wounds_open>inflammation</hint> leading to <hint=hint_poisoned>gangrene</hint>."
-hint_wounds_open,"Inflamed Wound
-A dangerous type of wound that inevitably leads to <hint=hint_poisoned>gangrene</hint> if left untreated.
+Beberapa luka menyebabkan <hint=hint_pain>sakit</hint>, sementara yang lain mungkin menyebabkan <hint=hint_bleeding>pendarahan</hint> atau <hint=hint_wounds_open>peradangan</hint> berbahaya yang mengarah ke <hint=hint_poisoned>Luka Busuk</hint>."
+hint_wounds_open,"Peradangan
+Jenis luka berbahaya yang tak terelakkan mengarah ke <hint=hint_poisoned>Luka Busuk</hint> jika tidak diobati.
 
-Make sure your population has access to <hint=hint_resource_med>Medical Salve</hint>, which treats the infection.
+Pastikan populasi Anda memiliki akses ke <hint=hint_resource_med>Salep Medis</hint>, yang merawat infeksi.
 
-$ The salve should be available in the inventory for lords and warrors.
+$ Salep harus tersedia di inventaris untuk para penguasa dan prajurit.
 "
-hint_poisoned,"Gangrene
-An incurable necrosis of tissues caused by an <hint=hint_wounds_open>inflamed wound</hint>. It leads to inevitable death.
+hint_poisoned,"Luka Busuk
+Nekrosis jaringan yang tidak dapat disembuhkan yang disebabkan oleh <hint=hint_wounds_open>luka meradang</hint>. Ini mengarah ke kematian yang tak terelakkan.
 
-To prevent the onset of gangrene, make sure your population has access to <hint=hint_resource_med>Medical Salve</hint>."
-hint_pain,"Pain
-Pain arises from <hint=hint_wounds>wounds</hint> and <hint=hint_sick>sickness</hint>.
+Untuk mencegah munculnya luka busuk, pastikan populasi Anda memiliki akses ke <hint=hint_resource_med>Salep Medis</hint>."
+hint_pain,"Sakit
+Sakit muncul dari <hint=hint_wounds>luka</hint> dan <hint=hint_sick>penyakit</hint>.
 
 <img=hint_pain></img>
 
-It is displayed at the bottom of the main tab of the Character menu, under the label ""States."" Hovering over the pain icon will show the <hint=hint_pain_level>pain threshold</hint>.
+Ini ditampilkan di bagian bawah tab utama menu Karakter, di bawah label ""States."" Mengarahkan kursor ke ikon sakit akan menunjukkan <hint=hint_pain_level>ambang batas rasa sakit</hint>.
 
-The cumulative pain experienced also affects the <hint=hint_moral_level>bravery</hint> of the character."
-hint_pain_level,"Pain Threshold
-The pain threshold is {pain_threshold}.
-The threshold of disorientation is {dis_threshold}.
+Sakit kumulatif yang dialami juga memengaruhi <hint=hint_moral_level>keberanian</hint> karakter."
+hint_pain_level,"Ambang Batas Rasa Sakit
+Ambang batas rasa sakit adalah {pain_threshold}.
+Ambang batas kebingungan adalah {dis_threshold}.
 
-$ If the cumulative <hint=hint_pain>pain</hint> <b>exceeds</b> the threshold of disorientation, the character will become vulnerable to deadly strikes and will also move slower.
-$ If the cumulative pain <b>exceeds</b> the pain threshold, the character <hint=hint_death>will die</hint> from pain shock."
-hint_moral_level,"Courage threshold
-A warrior's courage threshold is equivalent to {bravery_threshold_moral_factor}% of their current <hint=hint_mood>mood</hint> value.
+$ Jika sakit kumulatif <hint=hint_pain>sakit</hint> <b>melebihi</b> ambang batas kebingungan, karakter akan menjadi rentan terhadap serangan mematikan dan juga bergerak lebih lambat.
+$ Jika sakit kumulatif <b>melebihi</b> ambang batas rasa sakit, karakter <hint=hint_death>akan mati</hint> karena syok sakit."
+hint_moral_level,"Ambang Batas Keberanian
+Ambang batas keberanian seorang prajurit setara dengan {bravery_threshold_moral_factor}% dari nilai <hint=hint_mood>suaana hati</hint> saat ini mereka.
 
 <img=hint_moral_level></img>
 
-$ If the cumulative thoughts from <hint=hint_pain>pain</hint> exceed this value, the warrior will flee.
-$ A warrior will also flee at the mere sight of an enemy if their morale is below 5.
+$ Jika pikiran kumulatif dari <hint=hint_pain>sakit</hint> melebihi nilai ini, prajurit akan melarikan diri.
+$ Seorang prajurit juga akan melarikan diri hanya dengan melihat musuh jika moral mereka di bawah 5.
 
-When a warrior is part of a squad, their mood, and therefore the likelihood of retreat, is influenced by additional factors:
-$ While the commanding lord is alive, they provide a significant mood bonus based on their <hint=hint_skill_command>Command</hint> skill. <b>This is one of the key factors for success.</b>
-$ The loss (death, unconsciousness, or retreat) of an enemy commander and the fleeing of enemy warriors increase the mood.
-$ On the other hand, the loss of the squad commander or the fleeing of friendly warriors decreases the mood."
-hint_damaged,"Disfigured
-Strongly reduces the <hint=hint_interest>interest</hint> from the opposite sex."
-hint_bleeding,"Bleeding
-Typically occurs as a result of <hint=hint_wounds>wounds</hint> caused by cutting or piercing weapons.
+Ketika seorang prajurit adalah bagian dari regu, suasana hati mereka, dan oleh karena itu kemungkinan mundur, dipengaruhi oleh faktor tambahan:
+$ Selama penguasa yang memerintah masih hidup, mereka memberikan bonus suasana hati yang signifikan berdasarkan keterampilan <hint=hint_skill_command>Keterampilan Komando</hint> mereka. <b>Ini adalah salah satu faktor kunci untuk kesuksesan.</b>
+$ Kehilangan (kematian, ketidaksadaran, atau mundur) komandan musuh dan pelarian prajurit musuh meningkatkan suasana hati.
+$ Di sisi lain, kehilangan komandan regu atau pelarian prajurit ramah menurunkan suasana hati."
+hint_damaged,"Cacat
+Sangat mengurangi <hint=hint_interest>minat</hint> dari lawan jenis."
+hint_bleeding,"Pendarahan
+Biasanya terjadi sebagai hasil dari <hint=hint_wounds>luka</hint> yang disebabkan oleh senjata potong atau tusuk.
 
-Instances of minor bleeding add up, turning into moderate and then severe bleeding, which can culminate in <hint=hint_death>death</hint>.
+Kasus pendarahan ringan bertambah, berubah menjadi pendarahan sedang dan kemudian parah, yang dapat berujung pada <hint=hint_death>kematian</hint>.
 
-The character can apply self-treatment or help others using improvised means to stop the bleeding.
+Karakter dapat melakukan perawatan diri atau membantu orang lain menggunakan sarana darurat untuk menghentikan pendarahan.
 {optional_hemophilia}"
-hint_uncons,"Loss of Consciousness
-A character loses consciousness if their cumulative <hint=hint_pain>pain</hint> exceeds their <hint=hint_pain_level>pain threshold</hint>, or as a result of a blow from a <hint=hint_resource_wooden_hammer>mace</hint>.
+hint_uncons,"Kehilangan Kesadaran
+Seorang karakter kehilangan kesadaran jika sakit kumulatif <hint=hint_pain>sakit</hint> mereka melebihi <hint=hint_pain_level>ambang batas rasa sakit</hint> mereka, atau sebagai hasil dari pukulan dari <hint=hint_resource_wooden_hammer>Gada</hint>.
 
-After some time, the character will regain consciousness.
+Setelah beberapa waktu, karakter akan sadar kembali.
 
-Other characters will try to carry the unconscious character back home."
-hint_tantrum,"Nervous Breakdown
-A lord loses control over their behavior and starts acting dangerously toward others and themselves. It can range from mild forms such as binge drinking to severe forms like suicide.
+Karakter lain akan mencoba membawa karakter yang tidak sadar kembali ke rumah."
+hint_tantrum,"Penyakit Mental
+Seorang penguasa kehilangan kendali atas perilakunya dan mulai bertindak berbahaya terhadap orang lain dan dirinya sendiri. Ini dapat berkisar dari bentuk ringan seperti minum berlebihan hingga bentuk parah seperti bunuh diri.
 
 <img=hint_tantrum></img>
 
-The type of nervous breakdown often depends on how unhappy the lord is, but every character's first breakdown will be mild.
+Jenis penyakit mental sering tergantung pada seberapa tidak bahagia penguasa, tetapi keruntuhan pertama setiap karakter akan ringan.
 
-In any case, during a nervous breakdown, you lose control over the character, and they stop performing your tasks.
+Dalam hal apa pun, selama penyakit mental, Anda kehilangan kendali atas karakter, dan mereka berhenti melakukan tugas Anda.
 
-As a result of a nervous breakdown, the character may gain <hint=hint_insight>insight</hint>."
-hint_determination,"Burst of Resolve
-When a character is consumed by an <hint=hint_desire_obsession>obsession</hint> and is unable to fulfill it, they may attempt to fulfill it by force. This can be dangerous for both the character and those around them."
-hint_contagios,"Contagious Diseases
-Some diseases can be transmitted from one character to another, causing epidemics. Examples of such diseases include <hint=hint_sifilis>syphilis</hint>, the <hint=hint_plague>foul plague</hint>, and <hint=hint_fury>pale rabies</hint>.
+Akibat dari penyakit mental, karakter mungkin memperoleh <hint=hint_insight>wawasan</hint>."
+hint_determination,"Ledakan Tekad
+Ketika seorang karakter dikuasai oleh <hint=hint_desire_obsession>obsesi</hint> dan tidak mampu memenuhinya, mereka mungkin mencoba memenuhinya dengan paksa. Ini bisa berbahaya bagi karakter tersebut dan orang-orang di sekitarnya."
+hint_contagios,"Penyakit Menular
+Beberapa penyakit dapat ditularkan dari satu karakter ke karakter lain, menyebabkan epidemi. Contoh penyakit semacam itu termasuk <hint=hint_sifilis>sifilis</hint>, <hint=hint_plague>wabah busuk</hint>, dan <hint=hint_fury>rabies pucat</hint>.
 
-Generally, the larger the population of a city, the more interactions occur, increasing the likelihood of an epidemic."
-hint_sifilis,"Syphilis
-An infectious disease that is primarily transmitted through sexual contact.
+Secara umum, semakin besar populasi kota, semakin banyak interaksi yang terjadi, meningkatkan kemungkinan epidemi."
+hint_sifilis,"Sifilis
+Penyakit menular yang terutama ditularkan melalui kontak seksual.
 
-Within a few days of infection, it leads to the development of scars, baldness, and internal bleeding.
+Dalam beberapa hari setelah infeksi, itu mengarah pada perkembangan bekas luka, kebotakan, dan pendarahan internal.
 
-Using <hint=hint_resource_med>Medical Salve</hint> has a 10% chance of curing the disease, so treatment usually requires a prolonged course."
-hint_plague,"Foul Plague
-This is an extremely dangerous and contagious disease that leads to death.
+Menggunakan <hint=hint_resource_med>Salep Medis</hint> memiliki peluang 10% untuk menyembuhkan penyakit, sehingga pengobatan biasanya memerlukan kursus yang berkepanjangan."
+hint_plague,"Wabah Busuk
+Ini adalah penyakit yang sangat berbahaya dan menular yang mengarah ke kematian.
 
-$The disease lasts for several days, and daily use of <hint=hint_resource_med>Medical Salve</hint> is required to avoid quick death.
-$ The infected individual emits a strong foul odor, hence the name of the disease.
-$ It is transmitted through lice, making characters with <hint=hint_vshi>lice</hint> the carriers of the plague.
-$ Outbreaks often occur in places where large groups of people gather, such as groups of homeless in <hint=hint_bld_temple>Temples</hint>."
-hint_vshi,"Lice
-Tiny insects that cause discomfort and itching.
+$Penyakit ini berlangsung selama beberapa hari, dan penggunaan harian <hint=hint_resource_med>Salep Medis</hint> diperlukan untuk menghindari kematian cepat.
+$ Individu yang terinfeksi mengeluarkan bau busuk yang kuat, karena itulah nama penyakit ini.
+$ Itu ditularkan melalui kutu, membuat karakter dengan <hint=hint_vshi>kutu</hint> menjadi pembawa wabah.
+$ Wabah sering terjadi di tempat-tempat di mana kelompok besar orang berkumpul, seperti kelompok tunawisma di <hint=hint_bld_temple>Kuil</hint>."
+hint_vshi,"Kutu
+Serangga kecil yang menyebabkan ketidaknyamanan dan gatal.
 
-The worst part is that they can carry the <hint=hint_plague>foul plague</hint>, so characters with lice can become carriers of the disease.
+Bagian terburuknya adalah mereka dapat membawa <hint=hint_plague>wabah busuk</hint>, sehingga karakter dengan kutu dapat menjadi pembawa penyakit.
 
-Lice can be eliminated by washing in the <hint=hint_bld_bath>Bath</hint>."
-hint_fury,"Pale Madness
-A disease characterized by dreadful scars on the face, forcing the afflicted to wear masks.
+Kutu dapat dihilangkan dengan mandi di <hint=hint_bld_bath>Mandi</hint>."
+hint_fury,"Kegilaan Pucat
+Penyakit yang ditandai dengan bekas luka mengerikan di wajah, memaksa yang terserang memakai topeng.
 
-Additionally, the disease affects consciousness, increasing aggression and the likelihood of <hint=hint_persons_peasant>peasants</hint> transitioning into <hint=hint_persons_criminal>vagabonds</hint> or <hint=hint_persons_forest_bandits>forest bandits</hint>.
+Selain itu, penyakit ini memengaruhi kesadaran, meningkatkan agresi dan kemungkinan <hint=hint_persons_peasant>Petani</hint> bertransisi menjadi <hint=hint_persons_criminal>pengembara</hint> atau <hint=hint_persons_forest_bandits>perampok hutan</hint>.
 
-This disease is incurable, but eventually resolves on its own. Its symptoms can be alleviated by consuming <hint=hint_resource_nectar>Nectar</hint>."
-hint_unholy_horde,"The Unholy Horde
-An extremely aggressive and dangerous people who follow the heresy of the <hint=hint_dead_god_herecy>Dead God</hint>.
+Penyakit ini tidak dapat disembuhkan, tetapi akhirnya sembuh dengan sendirinya. Gejalanya dapat diringankan dengan mengonsumsi <hint=hint_resource_nectar>Nektar</hint>."
+hint_unholy_horde,"Unholy Horde
+Suatu kaum yang sangat agresif dan berbahaya yang mengikuti ajaran sesat <hint=hint_dead_god_herecy>Dead God</hint>.
 
 <img=hint_unholy_horde></img>
 
-$ The Horde gathers every 5 days and attempts to completely burn down the nearest settlement. After their victory, the surviving warriors terrorize the neighboring lands.
-$ Horde warriors are armed with axes and have very high combat skills, but they wear no armor.
-$ There is no negotiating with the Horde.
+$ Horde berkumpul setiap 5 hari dan mencoba membakar habis pemukiman terdekat. Setelah kemenangan mereka, prajurit yang selamat mengterrorisasi tanah-tanah tetangga.
+$ Prajurit Horde bersenjata dengan kapak dan memiliki keterampilan tempur yang sangat tinggi, tetapi mereka tidak memakai baju zirah.
+$ Tidak ada negosiasi dengan Horde.
 
-After <hint=hint_cainism>Cainism</hint> was defeated within the New Kingdoms during the <hint=hint_fire_war>War of Sacred Flame</hint>, the <hint=hinr_prophet_michail>prophet Michael</hint> was banished beyond the civilized kingdoms, where he continued to preach his heresy outside society. The tribes embraced the Dead God and have grown significantly stronger in recent years.
+Setelah <hint=hint_cainism>Kainisme</hint> dikalahkan di dalam Kerajaan Baru selama <hint=hint_fire_war>Perang Api Suci</hint>, <hint=hinr_prophet_michail>nabi Michael</hint> diasingkan ke luar kerajaan-kerajaan beradab, di mana ia terus menyebarkan ajaran sesatnya di luar masyarakat. Suku-suku memeluk Dead God dan telah tumbuh jauh lebih kuat dalam beberapa tahun terakhir.
 
-Now, they are ready to bring death and destruction to all of Norland, as their faith demands."
-hint_cainism,"Cainism
-A heretical doctrine from the late era of the <hint=hint_crimson_empire>Crimson Empire</hint>.
+Sekarang, mereka siap membawa kematian dan kehancuran ke seluruh Norland, sebagaimana yang dituntut oleh iman mereka."
+hint_cainism,"Kainisme
+Ajaran sesat dari akhir era <hint=hint_crimson_empire>Kekaisaran Crimson</hint>.
 
-While the teachings of Mother Sophia consider her brother Cain as the first murderer and an evil antagonist against her benevolence, Cainists claim instead that Cain was the benevolent god, who stood against Sophia's dominion and perished at her hands while defending humanity from her oppression.
+Sementara ajaran Ibu Sophia menganggap saudara laki-lakinya Kain sebagai pembunuh pertama dan antagonis jahat terhadap kebaikan beliau, penganut Kainisme justru mengklaim bahwa Kain adalah dewa yang murah hati, yang berdiri melawan kekuasaan Sophia dan binasa di tangan beliau saat membela umat manusia dari penindasan beliau.
 
-Cainists consider the strength of human will as the primary virtue and reject many of the moral norms of Mother Sophia's teachings.
+Penganut Kainisme menganggap kekuatan kehendak manusia sebagai kebajikan utama dan menolak banyak norma moral dari ajaran Ibu Sophia.
 
-Originating on the outskirts of the Crimson Empire, Cainism was spread by <hint=hinr_prophet_michail>the prophet Michael</hint>, who claimed to have received revelations from the dead god Cain and wrote the <hint=hint_secret_book_of_dead>Secret Book of the Dead</hint>. As a result of the subsequent War of Sacred Flame, Cainism was destroyed, and Michael was exiled, after which his trail was lost.
+Berawal dari pinggiran Kekaisaran Crimson, Kainisme disebarkan oleh <hint=hinr_prophet_michail>nabi Michael</hint>, yang mengklaim telah menerima wahyu dari dewa mati Kain dan menulis <hint=hint_secret_book_of_dead>Buku Rahasia Orang Mati</hint>. Akibat Perang Api Suci berikutnya, Kainisme dihancurkan, dan Michael diasingkan, setelah itu jejaknya hilang.
 
-However, the empire could not withstand the forty years of devastating religious war, and it disintegrated into numerous <hint=hint_new_kingdoms>New Kingdoms</hint> ruled by <hint=hint_noble_house>noble houses</hint>. This is the state in which Norland finds itself today."
-hint_secret_book_of_dead,"The Secret Book of the Dead
-This book, written by <hint=hinr_prophet_michail>the prophet Michael</hint>, comprises the primary doctrine of Cainism.
+Namun, kekaisaran tidak mampu bertahan dari empat puluh tahun perang agama yang merusak, dan ia runtuh menjadi berbagai <hint=hint_new_kingdoms>Kerajaan Baru</hint> yang diperintah oleh <hint=hint_noble_house>bangsawan</hint>. Inilah keadaan Norland saat ini."
+hint_secret_book_of_dead,"Buku Rahasia Orang Mati
+Buku ini, yang ditulis oleh <hint=hinr_prophet_michail>nabi Michael</hint>, terdiri dari ajaran utama Kainisme.
 
-It claims that Mother Sophia is an evil goddess who keeps humans enslaved. Her brother Cain once challenged her to free humanity, but she killed him. However, in death, Cain found freedom in the Velvet Darkness, from whence he revealed himself to Michael and instructed him to record his words and reveal them to the people.
+Buku ini mengklaim bahwa Ibu Sophia adalah dewi jahat yang menjaga manusia dalam perbudakan. Saudara laki-lakinya Kain pernah menantang beliau untuk membebaskan umat manusia, tetapi beliau membunuhnya. Namun, dalam kematian, Kain menemukan kebebasan di Kegelapan Beludru, dari mana ia menyatakan dirinya kepada Michael dan memerintahkannya untuk mencatat kata-katanya dan mengungkapkannya kepada umat manusia.
 
-The book asserts that the <hint=hint_sofia_cult>Church of Mother Sophia</hint> controls people with its doctrine of submission and its <hint=hint_sofia_truth>prohibition on stone structures</hint> higher than knee-level. Cainists believe this allows the <hint=hint_synode>Loving Family</hint> to be completely invulnerable in Norland's only stone fortress, the <hint=hint_faith_stone>Stone of Faith</hint>, and at any moment, they can annihilate any settlement that falls out of favor, and when the <hint=hint_sofia_great_purification>Great Purification</hint> comes, expedited by the prohibition against independent fortification, the Church holds all the power and preserves those who will continue to support its domination.
+Buku ini menegaskan bahwa <hint=hint_sofia_cult>Pihak Gereja Ibu Sophia</hint> mengendalikan orang-orang dengan ajaran penyerahan diri dan <hint=hint_sofia_truth>larangan bangunan batu</hint> yang lebih tinggi dari lutut. Penganut Kainisme percaya ini memungkinkan <hint=hint_synode>Keluarga Penuh Kasih</hint> menjadi sepenuhnya tak terkalahkan di benteng batu satu-satunya Norland, <hint=hint_faith_stone>Batu Iman</hint>, dan kapan saja, mereka dapat memusnahkan pemukiman apa pun yang jatuh dari kasih sayang, dan ketika <hint=hint_sofia_great_purification>Pembersihan Agung</hint> datang, yang dipercepat oleh larangan benteng independen, Pihak Gereja memegang semua kekuasaan dan melestarikan mereka yang akan terus mendukung dominasinya.
 
-Cainists believe the only way to end the <hint=hint_great_cycle>Great Cycle</hint> is by rebelling against Mother Sophia."
-hint_dead_god_herecy,"The Heresy of the Dead God
-The later teachings of <hint=hint_prophet_michail>the prophet Michael</hint>, which were adapted for the pagan tribes of the northern forests and develops his cult to an extreme form. It is the religion adhered to by <hint=hint_unholy_horde>the Unholy Horde</hint>.
+Penganut Kainisme percaya satu-satunya cara untuk mengakhiri <hint=hint_great_cycle>Siklus Besar</hint> adalah dengan memberontak melawan Ibu Sophia."
+hint_dead_god_herecy,"Ajaran Sesat Dead God
+Ajaran selanjutnya dari <hint=hint_prophet_michail>nabi Michael</hint>, yang disesuaikan untuk suku-suku pagan hutan utara dan mengembangkan kultusnya ke bentuk ekstrem. Ini adalah agama yang dianut oleh <hint=hint_unholy_horde>Unholy Horde</hint>.
 
-This contradicts traditional Cainism, as it preaches the very death of civilization that Cainism sought to prevent.
+Ini bertentangan dengan Kainisme tradisional, karena ia menyerukan kematian peradaban yang justru ingin dicegah oleh Kainisme.
 
-According to the doctrine, the Velvet Darkness into which Cain fell after his death at the hand of Mother Sophia is a space of tranquility and will, the only place beyond the control of this rigid goddess. To be free from the endless cycles of rebirth in this world of suffering, the human soul must go there.
+Menurut ajaran, Kegelapan Beludru ke mana Kain jatuh setelah kematiannya di tangan Ibu Sophia adalah ruang ketenangan dan kehendak, satu-satunya tempat di luar kendali dewi kaku ini. Untuk bebas dari siklus kelahiran kembali yang tak berujung di dunia penderitaan ini, jiwa manusia harus pergi ke sana.
 
-This can be done by calling upon the Dead God Cain at the moment of death. Thus, proper death is seen as a gift of liberation to be sought. 
+Ini dapat dilakukan dengan memanggil Dead God Kain pada saat kematian. Dengan demikian, kematian yang tepat dipandang sebagai hadiah pembebasan yang harus dicari. 
 
-Adepts of this cult practice human sacrifice and ritual suicide. The ""proper"" killing of infidels is considered a special virtue, as it signifies the salvation of the soul from under the power of Sophia. The men and women of the Horde are all strong warriors trained from childhood who are not afraid to die. This makes the raids of the Unholy Horde, which are religious feats for the cultists, especially dangerous.
+Penganut kultus ini mempraktikkan pengorbanan manusia dan bunuh diri ritual. ""Pembunuhan"" yang ""tepat"" terhadap orang-orang kafir dianggap sebagai kebajikan khusus, karena itu menandakan keselamatan jiwa dari kekuasaan Sophia. Pria dan wanita Horde semuanya adalah prajurit kuat yang dilatih sejak kecil yang tidak takut mati. Ini membuat serangan Unholy Horde, yang merupakan prestasi religius bagi para kultus, sangat berbahaya.
 
-During their raids, they not only kill everyone and burn cities but also make a special effort to destroy books that they consider abominations, which they believe the <hint=hint_sofia_cult>Church</hint> uses to control people.
+Selama serangan mereka, mereka tidak hanya membunuh semua orang dan membakar kota tetapi juga berusaha khusus untuk menghancurkan buku-buku yang mereka anggap sebagai keji, yang mereka yakini digunakan oleh <hint=hint_sofia_cult>Pihak Gereja</hint> untuk mengendalikan orang-orang.
 
-Adherents wear masks that help them deal with excessive emotions and attachments."
-hint_nt_new_matriarch,"New Matriarch!
-By the will of Sophia, the old Matriarch went into the bosom of the Holy Mother, and now Norland has a new advocate!
+Penganut memakai topeng yang membantu mereka mengatasi emosi dan keterikatan berlebihan."
+hint_nt_new_matriarch,"Matriark Baru!
+Dengan kehendak Sophia, Matriark lama telah pergi ke pangkuan Ibu Suci, dan sekarang Norland memiliki pembela baru!
 
-Now, the personal relationships of the Matriarch with your king will be rebuilt from scratch."
-hint_nt_synod_relations_begin,"The church has come to your town
-The Matriarch <hint=hint_sofia_cult>of the Church of Mother Sophia</hint> sends you <hint=hint_bishop>a bishop</hint> who will help guide your settlement on the true path.
+Sekarang, hubungan pribadi Matriark dengan raja Anda akan dibangun kembali dari awal."
+hint_nt_synod_relations_begin,"Pihak Gereja telah datang ke kota Anda
+Matriark <hint=hint_sofia_cult>dari Pihak Gereja Ibu Sophia</hint> mengirimkan <hint=hint_bishop>seorang uskup</hint> kepada Anda yang akan membantu membimbing pemukiman Anda menuju jalan yang benar.
 
 [hint_relations_matriarch]"
-hint_relations_matriarch,"Relationship with the Matriarch
-Relationships begin when a <hint=hint_bishop>bishop</hint> arrives in your city (population over 40).
+hint_relations_matriarch,"Hubungan dengan Matriark
+Hubungan dimulai ketika seorang <hint=hint_bishop>uskup</hint> tiba di kota Anda (populasi lebih dari 40).
 
 <img=hint_relations_matriarch></img>
 
-$ The availability of various goods from the <hint=hint_holy_caravan>Holy Caravan</hint> depends on the Matriarch's attitude towards you. If the relations are unfriendly and fall below <red>0</red>, the assortment available at the Caravan will decrease, and if they fall below <red>-25</red>, it will stop coming to the city altogether.
-$ While the Matriarch remains neutral, she will warn you about impending disasters that she learns about from her predictors.
-$ With friendly relations (above <green>25</green>), you can request a <hint=hint_action_task_canonization>blessing</hint> from the bishop, and the availability of goods will expand.
-$ The matriarch will send the <hint=hint_inqusitors>Inquisition</hint> to your city if relations drop below <red>-100</red>.
+$ Ketersediaan berbagai barang dari <hint=hint_holy_caravan>Karavan Suci</hint> tergantung pada sikap Matriark terhadap Anda. Jika hubungan tidak ramah dan jatuh di bawah <red>0</red>, pilihan barang yang tersedia di Karavan akan berkurang, dan jika jatuh di bawah <red>-25</red>, itu akan berhenti datang ke kota sama sekali.
+$ Selama Matriark tetap netral, dia akan memperingatkan Anda tentang bencana yang akan datang yang dia ketahui dari peramalnya.
+$ Dengan hubungan ramah (di atas <green>25</green>), Anda dapat meminta <hint=hint_action_task_canonization>berkah</hint> dari uskup, dan ketersediaan barang akan berkembang.
+$ Matriark akan mengirim <hint=hint_inqusitors>Inkuisisi</hint> ke kota Anda jika hubungan turun di bawah <red>-100</red>.
 
-Various factors influence relationships, and you can check them by hovering your mouse over the Mother Sophia Cross icon in the upper left corner."
-hint_crimson_empire,"Crimson Empire
-Once developing from a small colony of <hint=hint_culture_tanaya>Tanaya</hint> in the west, the Crimson Empire, thanks to innovations in military and bureaucratic affairs obtained from <hint=hint_culture_makha>Makha</hint>, eventually swallowed up half of Norland, displacing the indigenous inhabitants of the central plains - <hint=hint_culture_voruns>Varns</hint> - and putting another local people, the <hint=hint_culture_gwelts>Kaiden</hint>, into its service.
+Berbagai faktor memengaruhi hubungan, dan Anda dapat memeriksanya dengan mengarahkan kursor mouse ke ikon Salib Ibu Sophia di sudut kiri atas."
+hint_crimson_empire,"Kekaisaran Crimson
+Sekali berkembang dari koloni kecil <hint=hint_culture_tanaya>Tanaya</hint> di barat, Kekaisaran Crimson, berkat inovasi dalam urusan militer dan birokrasi yang diperoleh dari <hint=hint_culture_makha>Makha</hint>, akhirnya menelan setengah Norland, menggusur penduduk asli dataran tengah - <hint=hint_culture_voruns>Varn</hint> - dan menempatkan orang lokal lain, <hint=hint_culture_gwelts>Kaiden</hint>, ke dalam pelayanannya.
 
-Shortly after rapid expansion came the Golden Age, whose balance remained constant: the empire is ruled by <hint=hint_culture_tanaya>Tanaya</hint>, the few Makha engage in culture and philosophy in their old semi-independent cities, the <hint=hint_culture_gwelts>Kaiden</hint> live on the border, defending it and earning their living through military service, while the <hint=hint_culture_voruns>Varn</hint> reside in the east, providing food supplies to the growing population through trade.
+Segera setelah ekspansi cepat datang Zaman Keemasan, yang keseimbangannya tetap konstan: kekaisaran diperintah oleh <hint=hint_culture_tanaya>Tanaya</hint>, sedikit Makha terlibat dalam budaya dan filsafat di kota-kota semi-independen lama mereka, <hint=hint_culture_gwelts>Kaiden</hint> hidup di perbatasan, membelanya dan menghidupi diri melalui dinas militer, sementara <hint=hint_culture_voruns>Varn</hint> tinggal di timur, menyediakan pasokan makanan untuk populasi yang berkembang melalui perdagangan.
 
-However, centuries of balance were disrupted by the heresy that sprouted in the Makha cities - <hint=hint_cainism>Cainism</hint> - and the subsequent <hint=hint_fire_war>War of Sacred Flame</hint> marked the end of the unified Empire, giving rise to the so-called <hint=hint_new_kingdoms>New Kingdoms</hint>.
+Namun, berabad-abad keseimbangan terganggu oleh ajaran sesat yang tumbuh di kota-kota Makha - <hint=hint_cainism>Kainisme</hint> - dan <hint=hint_fire_war>Perang Api Suci</hint> berikutnya menandai akhir Kekaisaran yang bersatu, memberi lahir pada yang disebut <hint=hint_new_kingdoms>Kerajaan Baru</hint>.
 
-Only thanks to the titanic efforts of the <hint=hint_sofia_cult>Church of Mother Sophia</hint>, the world did not descend into a prehistoric level, and for many centuries now, a new balance has been maintained, upheld by the Matriarch and the priests of the church."
-hint_fire_war,"War of Sacred Flame
-A war between the Church of Mother Sophia and the heretical Cainite sect that took place from 2652 to 2692.
+Hanya berkat upaya titanik <hint=hint_sofia_cult>Pihak Gereja Ibu Sophia</hint>, dunia tidak turun ke tingkat prasejarah, dan selama berabad-abad sekarang, keseimbangan baru telah dipertahankan, dipegang oleh Matriark dan para pendeta gereja."
+hint_fire_war,"Perang Api Suci
+Perang antara Pihak Gereja Ibu Sophia dan sekte sesat Kainit yang berlangsung dari 2652 hingga 2692.
 
-The Church and the Emperor turned a blind eye to the <hint=hint_cainism>Cainite heresy</hint> for a long time after it first emerged in the cities of the <hint=hint_culture_makha>Makha</hint>. But after several years of aggressive preaching, when riots and arson of Holy Sophia temples began throughout the west, the empire responded with repression, and the heretical cities rebelled in kind, inciting a vast war between the two sects.
+Pihak Gereja dan Kaisar memejamkan mata terhadap <hint=hint_cainism>ajaran sesat Kainit</hint> untuk waktu yang lama setelah pertama kali muncul di kota-kota <hint=hint_culture_makha>Makha</hint>. Tetapi setelah beberapa tahun pemberitaan agresif, ketika kerusuhan dan pembakaran kuil Holy Sophia dimulai di seluruh barat, kekaisaran merespons dengan represi, dan kota-kota sesat memberontak dengan balasan, memicu perang besar antara dua sekte.
 
-The war went on with varying success until 2691, when the emperor Maximilian died in battle, leaving no heirs. The empire was on the brink of complete chaos and destruction when the <hint=hint_ieremia>Matriarch Jadwiga</hint> ascended to the Crimson Throne. Seeking an end to the war, she promised amnesty and independence to the rebellious provinces in exchange for access to their cities by the Holy Inquisition and proposed a new structure for the region's monarchies. The heretics agreed, and the <hint=hint_chartia_humility>Charter of Humility</hint> was signed, laying the foundation for the modern structure of the world. The charter set a limit on the amount of noble titles each kingdom would have access to.
+Perang berlangsung dengan keberhasilan yang bervariasi hingga 2691, ketika kaisar Maximilian meninggal dalam pertempuran, meninggalkan tidak ada pewaris. Kekaisaran berada di ambang kekacauan dan kehancuran total ketika <hint=hint_ieremia>Matriark Jadwiga</hint> naik ke Tahta Crimson. Mencari akhir perang, dia berjanji amnesti dan kemerdekaan kepada provinsi pemberontak sebagai ganti akses ke kota-kota mereka oleh Inkuisisi Suci dan mengusulkan struktur baru untuk monarki wilayah. Para sesat setuju, dan <hint=hint_chartia_humility>Piagam Kerendahan Hati</hint> ditandatangani, meletakkan dasar untuk struktur dunia modern. Piagam menetapkan batas jumlah gelar bangsawan yang dimiliki setiap kerajaan.
 
-As for the heretics, some of them went to the Impassable Mountains in the south, where over time, they degenerated into the tribes of <hint=hint_person_maroders>marauders</hint>, while others, along with the prophet Michael, retreated to the wild north forest and eventually disappeared."
-hint_new_kingdoms,"The New Kingdoms
-The former provinces of the <hint=hint_crimson_empire>Crimson Empire</hint> have been ruled for two hundred years by the <hint=hint_noble_house>noble houses</hint> of Norland.
+Adapun para sesat, beberapa di antaranya pergi ke Pegunungan Tak Terlintasi di selatan, di mana seiring waktu, mereka merosot menjadi suku-suku <hint=hint_person_maroders>Begal</hint>, sementara yang lain, bersama nabi Michael, mundur ke hutan utara liar dan akhirnya menghilang."
+hint_new_kingdoms,"Kerajaan Baru
+Provinsi-provinsi bekas <hint=hint_crimson_empire>Kekaisaran Crimson</hint> telah diperintah selama dua ratus tahun oleh <hint=hint_noble_house>rumah bangsawan</hint> Norland.
 
-The borders of the kingdoms are defined in the <hint=hint_сhartia_humility>Charter of Humility</hint> and are therefore not subject to revision, though vassal and alliance relationships between kingdoms are possible."
-hinr_prophet_michail,"Prophet Michael
-Of <hint=hint_culture_makha>Makha</hint> origin, the prophet Michael was born when the <hint=hint_fire_war>War of Sacred Flame</hint> had been raging for 20 years. He made a brilliant career in the imperial church and was involved in the development of the <hint=hint_sofia_truth>Testimony of Truth</hint>, which laid the foundation for fanatical dogmatism and the Inquisition.
+Batas-batas kerajaan didefinisikan dalam <hint=hint_сhartia_humility>Piagam Kerendahan Hati</hint> dan oleh karena itu tidak dapat direvisi, meskipun hubungan vasal dan aliansi antar kerajaan mungkin."
+hinr_prophet_michail,"Nabi Michael
+Berasal dari <hint=hint_culture_makha>Makha</hint>, nabi Michael lahir ketika <hint=hint_fire_war>Perang Api Suci</hint> telah berkobar selama 20 tahun. Ia menjalani karir cemerlang di gereja kekaisaran dan terlibat dalam pengembangan <hint=hint_sofia_truth>Kesaksian Kebenaran</hint>, yang meletakkan dasar untuk dogmatisme fanatik dan Inkuisisi.
 
-In 2685, Michael was sent to one of the rebellious cities of the <hint=hint_cainism>Cainites</hint> with a mission to create a secret society of fanatics for the <hint=hint_sofia_cult>Church of Mother Sophia</hint>.
+Pada 2685, Michael dikirim ke salah satu kota pemberontak <hint=hint_cainism>Kainit</hint> dengan misi menciptakan masyarakat rahasia fanatik untuk <hint=hint_sofia_cult>Pihak Gereja Ibu Sophia</hint>.
 
-After several years, the mission was deemed unsuccessful, but instead of returning to the fold of the Loving Family, Michael himself converted to Cainism and soon became its leader, becoming a key figure in the war against the Church.
+Setelah beberapa tahun, misi itu dianggap tidak berhasil, tetapi alih-alih kembali ke lipatan Keluarga Penuh Kasih, Michael sendiri berpindah ke Kainisme dan segera menjadi pemimpinnya, menjadi tokoh kunci dalam perang melawan Pihak Gereja.
 
-In 2691, his heretical forces defeated Emperor Maximilian in the Battle of the Great Stone, forcing <hint=hint_synode>the Loving Family</hint> to flee to the imperial castle, now known as the <hint=hint_faith_stone>Stone of Faith</hint>.
+Pada 2691, pasukan sesatnya mengalahkan Kaisar Maximilian dalam Pertempuran Batu Besar, memaksa <hint=hint_synode>Keluarga Penuh Kasih</hint> melarikan diri ke kastil kekaisaran, yang sekarang dikenal sebagai <hint=hint_faith_stone>Batu Iman</hint>.
 
-However, after signing the <hint=hint_сhartia_humility>Charter of Humility</hint> in 2692, he was betrayed by his comrades and fled into the northwestern forests, where he disappeared.
+Namun, setelah menandatangani <hint=hint_сhartia_humility>Piagam Kerendahan Hati</hint> pada 2692, ia dikhianati oleh rekan-rekannya dan melarikan diri ke hutan barat laut, di mana ia menghilang.
 
-Some apocryphal documents suggest that Michael always remained loyal to the Church, and his sudden conversion to Cainism, as well as his miraculous disappearance in the end, are part of a larger scheme."
-hint_сhartia_humility,"Charter of Humility
-A document signed by the barons of the <hint=hint_crimson_empire>Crimson Empire</hint> and the <hint=hint_synode>Loving Family</hint>, which laid the foundation for the modern structure of the world.
+Beberapa dokumen apokrifa menunjukkan bahwa Michael selalu tetap setia kepada Pihak Gereja, dan konversi mendadaknya ke Kainisme, serta hilangnya yang ajaib di akhir, adalah bagian dari skema yang lebih besar."
+hint_сhartia_humility,"Piagam Kerendahan Hati
+Dokumen yang ditandatangani oleh baron-barion <hint=hint_crimson_empire>Kekaisaran Crimson</hint> dan <hint=hint_synode>Keluarga Penuh Kasih</hint>, yang meletakkan dasar untuk struktur dunia modern.
 
-It marked the end of the Crimson Empire, as it granted independence to the barons of their provinces, which came to be known as the <hint=hint_new_kingdoms>New Kingdoms</hint>. Their borders were recognized as inviolable and indivisible.
+Itu menandai akhir Kekaisaran Crimson, karena memberikan kemerdekaan kepada baron-provinsi mereka, yang dikenal sebagai <hint=hint_new_kingdoms>Kerajaan Baru</hint>. Batas-batas mereka diakui sebagai tidak boleh dilanggar dan tak terbagi.
 
-On the other hand, to maintain peace, the barons agreed to open their gates to the Inquisition and limit the number of <hint=hint_title>titles</hint> held by lords to reduce conflicts among the heirs to the throne.
+Di sisi lain, untuk menjaga perdamaian, para baron setuju membuka gerbang mereka untuk Inkuisisi dan membatasi jumlah <hint=hint_title>gelar</hint> yang dipegang oleh para penguasa untuk mengurangi konflik di antara pewaris tahta.
 
-The Loving Family also retained control of the <hint=hint_faith_stone>Stone of Faith</hint>, an impregnable imperial fortress, where since then, successive Matriarchs have sat on the Crimson Throne."
-hint_ieremia,"Matriarch Jadwiga
-The legendary Matriarch <hint=hint_sofia_cult>of the Church of Mother Sophia</hint> at the end of the Crimson Empire. Under the leadership of Jadwiga, <hint=hint_synode>The Loving Family</hint> emerged victorious in the <hint=hint_fire_war>War of Sacred Flame</hint> and, through the <hint=hint_сhartia_humility>Charter of Humility</hint>, laid the foundations of the modern world order.
+Keluarga Penuh Kasih juga mempertahankan kendali atas <hint=hint_faith_stone>Batu Iman</hint>, benteng kekaisaran yang tak tertembus, di mana sejak itu, Matriark berturut-turut duduk di Tahta Crimson."
+hint_ieremia,"Matriark Jadwiga
+Matriark legendaris <hint=hint_sofia_cult>dari Pihak Gereja Ibu Sophia</hint> di akhir Kekaisaran Crimson. Di bawah kepemimpinan Jadwiga, <hint=hint_synode>Keluarga Penuh Kasih</hint> muncul sebagai pemenang dalam <hint=hint_fire_war>Perang Api Suci</hint> dan, melalui <hint=hint_сhartia_humility>Piagam Kerendahan Hati</hint>, meletakkan dasar tatanan dunia modern.
 
-Matriarch Jadwiga authored <hint=hint_sofia_truth>the Testimony of Truth</hint> and was the first Matriarch on the Crimson Throne."
-hint_reveal,"Revelation
-A religious knowledge that can lead to a change or creation of a new <hint=hint_dogma>dogma</hint>.
+Matriark Jadwiga menulis <hint=hint_sofia_truth>Kesaksian Kebenaran</hint> dan adalah Matriark pertama di Tahta Crimson."
+hint_reveal,"Wahyu
+Pengetahuan religius yang dapat mengarah pada perubahan atau penciptaan <hint=hint_dogma>doktrin</hint> baru.
 
-To do this, the bearer of the revelation needs to perform the task of <hint=hint_sermon_dogma>sermon of dogma</hint> in <hint=hint_bld_temple>The Temple</hint>.
+Untuk ini, pembawa wahyu perlu melakukan tugas <hint=hint_sermon_dogma>khotbah dogma</hint> di <hint=hint_bld_temple>Kuil</hint>.
 
-May be received by <hint=hint_persons_fanatic>religious fanatic</hint> as a result of <hint=hint_tantrum>nervous breakdown</hint> or be read in a <hint=hint_book>book</hint>."
-hint_dogma,"Dogma
-A religious <hint=hint_idea>idea</hint> that defines certain actions as <hint=hint_sin>sins</hint> and others as <hint=hint_virtue>virtues</hint>.
+Dapat diterima oleh <hint=hint_persons_fanatic>Fanatik religius</hint> sebagai hasil dari <hint=hint_tantrum>penyakit mental</hint> atau dibaca dalam sebuah <hint=hint_book>buku</hint>."
+hint_dogma,"Doktrin
+Sebuah ide religius <hint=hint_idea>pengetahuan</hint> yang mendefinisikan tindakan tertentu sebagai <hint=hint_sin>dosa</hint> dan yang lain sebagai <hint=hint_virtue>kebajikan</hint>.
 
-Can be added or removed from the <hint=hint_canon>canon</hint> of the town as a result of a<hint=hint_sermon_dogma>sermon</hint>.
+Dapat ditambahkan atau dihapus dari <hint=hint_canon>kanon</hint> kota sebagai hasil dari sebuah <hint=hint_sermon_dogma>khotbah</hint>.
 
-Unconventional dogmas are considered heresy and can lead to deteriorating relations with the <hint=hint_synode>Holy Synod</hint>, which can lead to <hint=hint_inqusitors>Inquisitions</hint>."
-hint_donation,"Donation
-Characters can go to a <hint=hint_bld_temple>Temple</hint> for confession.
+Doktrin tidak konvensional dianggap sebagai ajaran sesat dan dapat menyebabkan memburuknya hubungan dengan <hint=hint_synode>Keluarga Penuh Kasih</hint>, yang dapat mengarah ke <hint=hint_inqusitors>Inkuisisi</hint>."
+hint_donation,"Donasi
+Karakter dapat pergi ke <hint=hint_bld_temple>Kuil</hint> untuk pengakuan dosa.
 
-This is the most effective means of restoring <hint=hint_need_piety>piety</hint>, but it comes with a donation at the end.
+Ini adalah cara paling efektif untuk memulihkan <hint=hint_need_piety>kesalehan</hint>, tetapi datang dengan donasi di akhir.
 
-Peasants sacrifice <hint=hint_resource_gold>Gold</hint>, and lords sacrifice <hint=hint_resource_rune>Holy Rings</hint>."
-hint_virtue,"Virtue
-Some actions, such as <hint=hint_pray>praying</hint>, are pleasing to <hint=hint_sofia_cult>Mother Sophia</hint> and lead to the restoration of <hint=hint_need_piety>piety</hint>."
-hint_sofia_cult,"Church of Mother Sophia
-The dominant religion with significant power.
+Petani menyumbang <hint=hint_resource_gold>Emas</hint>, dan para penguasa menyumbang <hint=hint_resource_rune>Cincin Suci</hint>."
+hint_virtue,"Kebajikan
+Beberapa tindakan, seperti <hint=hint_pray>berdoa</hint>, menyenangkan bagi <hint=hint_sofia_cult>Ibu Sophia</hint> dan mengarah pada pemulihan <hint=hint_need_piety>kesalehan</hint>."
+hint_sofia_cult,"Pihak Gereja Ibu Sophia
+Agama dominan dengan kekuasaan yang signifikan.
 
-The supreme body of the church is the <hint=hint_synode>Loving Family</hint>, led by the Matriarch.
+Badan tertinggi gereja adalah <hint=hint_synode>Keluarga Penuh Kasih</hint>, yang dipimpin oleh Matriark.
 
-The church maintains a personal presence in all major cities of Norland through its <hint=hint_bishop>bishops</hint>.
+Gereja mempertahankan kehadiran pribadi di semua kota besar Norland melalui <hint=hint_bishop>uskup</hint>-nya.
 
-The dogma of the Church is described in the sacred books <hint=hint_sofia_reveal>""Revelations of Sophia""</hint> and <hint=hint_sofia_truth>""Testimony of Truth""</hint>."
-hint_synode,"Loving Family
-The primary religious, economic, and military organization in the world.
+Dogma Gereja dijelaskan dalam buku-buku suci <hint=hint_sofia_reveal>""Wahyu Sophia""</hint> dan <hint=hint_sofia_truth>""Kesaksian Kebenaran""</hint>."
+hint_synode,"Keluarga Penuh Kasih
+Organisasi religius, ekonomi, dan militer utama di dunia.
 
-It is led by the Matriarch (spiritual leader) and the Strict Father (military leader of the <hint=hint_inqusitors>Inquisition</hint>).
+Dipimpin oleh Matriark (pemimpin spiritual) dan Ayah Ketat (pemimpin militer <hint=hint_inqusitors>Inkuisisi</hint>).
 
-Located in the impregnable stone castle known as the <hint=hint_faith_stone>Stone of Faith</hint>.
+Terletak di kastil batu tak tertembus yang dikenal sebagai <hint=hint_faith_stone>Batu Iman</hint>.
 
-Only the Loving Family can produce <hint=hint_resource_gold>Gold</hint> coins and <hint=hint_resource_rune>Holy Rings</hint>."
-hint_inqusitors,"The Inquisition
-An extremely powerful army of the <hint=hint_synode>Loving Family</hint>, led by its military leader, the Strict Father.
+Hanya Keluarga Penuh Kasih yang dapat memproduksi koin <hint=hint_resource_gold>Emas</hint> dan <hint=hint_resource_rune>Cincin Suci</hint>."
+hint_inqusitors,"Inkuisisi
+Pasukan yang sangat kuat dari <hint=hint_synode>Keluarga Penuh Kasih</hint>, yang dipimpin oleh pemimpin militernya, Ayah Ketat.
 
-$ The squad of inquisitors consists of {number} heavily armed warriors of levels 15-18.
-$ You can expect a visit from the inquisitors if you have attacked the <hint=hint_holy_caravan>Holy Caravan</hint> or severely deteriorated your relationship with the Church.
-$ When inquisitors enter a settlement, they burn houses, the <hint=hint_bld_chancellery>Chancellery</hint>, and all <hint=hint_book>books</hint>, and they kill anyone they see.
-$ After cleansing by fire and death, you will be forgiven."
-hint_holy_caravan,"Holy Caravan
-An arm of the Church engaged in trade between cities and serves as the primary source of <hint=hint_resource_gold>Gold</hint> and <hint=hint_resource_rune>Holy Rings</hint>. In addition to standard resources, the caravan trades in <hint=hint_book>books</hint> and <hint=hint_persons_slave>prisoners</hint>.
+$ Regu inkuisitor terdiri dari {number} prajurit bersenjata berat level 15-18.
+$ Anda dapat mengharapkan kunjungan dari inkuisitor jika Anda telah menyerang <hint=hint_holy_caravan>Karavan Suci</hint> atau sangat memburukkan hubungan Anda dengan Pihak Gereja.
+$ Ketika inkuisitor memasuki pemukiman, mereka membakar rumah, <hint=hint_bld_chancellery>Kanselari</hint>, dan semua <hint=hint_book>buku</hint>, dan membunuh siapa pun yang mereka lihat.
+$ Setelah pembersihan dengan api dan kematian, Anda akan diampuni."
+hint_holy_caravan,"Karavan Suci
+Lengan Pihak Gereja yang terlibat dalam perdagangan antar kota dan berfungsi sebagai sumber utama <hint=hint_resource_gold>Emas</hint> dan <hint=hint_resource_rune>Cincin Suci</hint>. Selain sumber daya standar, karavan berdagang <hint=hint_book>buku</hint> dan <hint=hint_persons_slave>tahanan</hint>.
 
 <img=hint_holy_caravan></img>
 
-They are protected and managed by the <hint=hint_inqusitors>Inquisition</hint>.
+Mereka dilindungi dan dikelola oleh <hint=hint_inqusitors>Inkuisisi</hint>.
 
-Typically, they visit settlements every 2-3 days.
+Biasanya, mereka mengunjungi pemukiman setiap 2-3 hari.
 
-<b>Hint:</b> Don't forget to buy books from the caravan trader (bookmark icon in the trading menu)!"
-hint_sin,"Sin
-Some actions, such as <hint=hint_speech_insult>insulting</hint> someone, infidelity to one's spouse, and getting into fights, are considered sinful.
+<b>Petunjuk:</b> Jangan lupa membeli buku dari pedagang karavan (ikon bookmark di menu perdagangan)!"
+hint_sin,"Dosa
+Beberapa tindakan, seperti <hint=hint_speech_insult>menghina</hint> seseorang, ketidaksetiaan terhadap pasangan, dan terlibat dalam pertarungan, dianggap berdosa.
 
 <img=hint_sin></img>
 
-Sin is a prolonged and strong negative thought that can be absolved through <hint=hint_confession>confession</hint> with <hint=hint_bishop>bishop</hint>.
+Dosa adalah pikiran negatif yang berkepanjangan dan kuat yang dapat diampuni melalui <hint=hint_confession>pengakuan dosa</hint> dengan <hint=hint_bishop>uskup</hint>.
 
-Sins are also displayed in the ""State"" section on the main tab of the character menu."
-hint_confession,"Confession
-Removes sins. Peasants can confess to a priest in the <hint=hint_bld_temple>Temple</hint>, but lords must confess directly to a <hint=hint_bishop>bishop</hint>.
+Dosa juga ditampilkan di bagian ""State"" pada tab utama menu karakter."
+hint_confession,"Pengakuan Dosa
+Menghilangkan dosa. Petani dapat mengaku dosa kepada pendeta di <hint=hint_bld_temple>Kuil</hint>, tetapi para penguasa harus mengaku langsung kepada <hint=hint_bishop>uskup</hint>.
 
-Confession absolves <hint=hint_sin>sins</hint>, but the character must donate an offering of <hint=hint_resource_gold>Gold</hint> or <hint=hint_resource_rune>Holy Rings</hint> to the church."
-hint_sofia_reveal,"Revelations of Sophia
-A book of revelation written in a mysterious and symbol-filled language, told from the perspective of Mother Sophia herself.
+Pengakuan dosa mengampuni <hint=hint_sin>dosa</hint>, tetapi karakter harus menyumbang persembahan <hint=hint_resource_gold>Emas</hint> atau <hint=hint_resource_rune>Cincin Suci</hint> kepada gereja."
+hint_sofia_reveal,"Wahyu Sophia
+Sebuah buku wahyu yang ditulis dalam bahasa misterius dan penuh simbol, diceritakan dari perspektif Ibu Sophia sendiri.
 
-The book provides a vast field for interpretation, containing the following symbols as key elements: fire, key, and duality."
-hint_sofia_truth,"Testimony of Truth
-The sacred book of the Church of Mother Sophia. Contains eschatology and basic canons intended for a wide range of believers.
+Buku ini memberikan ruang interpretasi yang luas, mengandung simbol-simbol berikut sebagai elemen kunci: api, kunci, dan dualitas."
+hint_sofia_truth,"Kesaksian Kebenaran
+Buku suci dari Pihak Gereja Ibu Sophia. Berisi eskatologi dan kanon dasar yang ditujukan untuk berbagai kalangan penganut.
 
-The book addresses questions about the history of creation and the prediction of the world's demise, as well as commandments for subjects of the faith.
+Buku ini membahas pertanyaan tentang sejarah penciptaan dan prediksi kehancuran dunia, serta perintah bagi subjek iman.
 
-Among the commandments is a prohibition on building structures of stone taller than a person's knee and the preaching of obedience.
+Di antara perintah-perintah itu adalah larangan membangun struktur batu yang lebih tinggi dari lutut manusia dan pengajaran ketaatan.
 
-Furthermore, the book interprets the logia of Sophia's Revelation to justify holy war against any heresy, laying the foundation for Church <hint=hint_persons_fanatic>fanaticism</hint> and the establishment of the <hint=hint_inqusitors>Inquisition</hint>.
+Selain itu, buku ini menafsirkan logia dari Wahyu Sophia untuk membenarkan perang suci melawan ajaran sesat apa pun, meletakkan dasar bagi fanatisme Gereja <hint=hint_persons_fanatic>Fanatik</hint> dan pendirian <hint=hint_inqusitors>Inkuisisi</hint>.
 
-It was written by <hint=hint_ieremia>Matriarch Jadwiga</hint> in the second half of the 27th century, shortly before the conclusion of the <hint=hint_fire_war>War of Sacred Flame</hint>, and served as a stringent response to the radicalism of <hint=hint_cainism>Cainism</hint>."
-hint_sofia_hidden,"Arcane Knowledge
-A forbidden book of the Church, accessible only to the highest priests of the Mother Sophia, the <hint=hint_persons_mitraya>Mitraya</hint>.
+Itu ditulis oleh <hint=hint_ieremia>Matriark Jadwiga</hint> pada paruh kedua abad ke-27, tak lama sebelum kesimpulan <hint=hint_fire_war>Perang Api Suci</hint>, dan berfungsi sebagai respons ketat terhadap radikalisme <hint=hint_cainism>Kainisme</hint>."
+hint_sofia_hidden,"Pengetahuan Gaib
+Buku terlarang Gereja, hanya dapat diakses oleh para pendeta tertinggi Ibu Sophia, <hint=hint_persons_mitraya>Mitraya</hint>.
 
-Rumored to be a rather practical book, it contains a wealth of knowledge in mathematics, engineering, astronomy, and chemistry.
+Disebut-sebut sebagai buku yang cukup praktis, berisi kekayaan pengetahuan dalam matematika, teknik, astronomi, dan kimia.
 
-Using the book's knowledge, the Holy Synod is able to mine gold and build and maintain the <hint=hint_faith_stone>Stone of Faith</hint>. They can also also predict the date of the next <hint=hint_sofia_great_purification>Great Purification</hint>."
-hint_sofia_great_purification,"The Great Purification
-It is preached that despite the great mercy of Mother Sophia and the care of the Loving Family, over time people increasingly violate the commandments and fall into sin and heresy. In the name of her love for humanity, Mother Sophia raises wild barbarian tribes that come and destroy the cities of these fallen creatures.
+Dengan menggunakan pengetahuan buku ini, Keluarga Penuh Kasih mampu menambang emas dan membangun serta memelihara <hint=hint_faith_stone>Batu Iman</hint>. Mereka juga dapat memprediksi tanggal <hint=hint_sofia_great_purification>Pembersihan Agung</hint> berikutnya."
+hint_sofia_great_purification,"Pembersihan Agung
+Dikatakan bahwa meskipun rahmat besar Ibu Sophia dan perawatan Keluarga Penuh Kasih, seiring waktu orang-orang semakin melanggar perintah dan jatuh ke dalam dosa dan ajaran sesat. Demi cintanya kepada umat manusia, Ibu Sophia membangkitkan suku-suku barbar liar yang datang dan menghancurkan kota-kota makhluk jatuh ini.
 
-Only the righteous survive, saved by the Loving Family, who admits them into the <hint=hint_faith_stone>Stone of Faith</hint>, where they can endure several centuries of Dark Ages.
+Hanya orang-orang benar yang selamat, diselamatkan oleh Keluarga Penuh Kasih, yang menerima mereka ke dalam <hint=hint_faith_stone>Batu Iman</hint>, di mana mereka dapat bertahan selama beberapa abad Zaman Kegelapan.
 
-Afterward, the gates open, and the Great Cycle begins again with the construction of a new Crimson Empire."
-hnt_great_cycle,"The Great Cycle
-An era between two Great Purifications, during which the lords of noble houses build cities and states, develop trade and knowledge, and engage in human conflicts with each other.
+Setelah itu, gerbang terbuka, dan Siklus Besar dimulai lagi dengan pembangunan Kekaisaran Crimson baru."
+hnt_great_cycle,"Siklus Besar
+Era antara dua Pembersihan Agung, selama mana para penguasa rumah bangsawan membangun kota dan negara, mengembangkan perdagangan dan pengetahuan, serta terlibat dalam konflik manusia satu sama lain.
 
-Each Cycle lasts for hundreds of years, going through several stages, and only the Holy Synod knows when it will end.
+Setiap Siklus berlangsung selama ratusan tahun, melewati beberapa tahap, dan hanya Keluarga Penuh Kasih yang tahu kapan itu akan berakhir.
 
-According to the official chronology, several thousand Great Cycles have already passed."
-hint_faith_stone,"The Stone of Faith
-A massive, impregnable stone castle on a mountain, surrounded by water, in which the Matriarch sits on the Crimson Throne and serves as the head of the <hint=hint_sofia_cult>Church of Mother Sophia</hint>.
+Menurut kronologi resmi, beberapa ribu Siklus Besar telah berlalu."
+hint_faith_stone,"Batu Iman
+Sebuah kastil batu raksasa yang tak tertembus di atas gunung, dikelilingi air, di mana Matriark duduk di Tahta Crimson dan berfungsi sebagai kepala <hint=hint_sofia_cult>Pihak Gereja Ibu Sophia</hint>.
 
-Once the citadel of the <hint=hint_crimson_empire>Crimson Empire</hint>, the fortress passed to the <hint=hint_synode>Loving Family</hint> during the <hint=hint_fire_war>War of Sacred Flame</hint>.
+Sekali benteng <hint=hint_crimson_empire>Kekaisaran Crimson</hint>, benteng ini berpindah ke <hint=hint_synode>Keluarga Penuh Kasih</hint> selama <hint=hint_fire_war>Perang Api Suci</hint>.
 
-Inside the Stone of Faith, there are shelters where selected noble families can survive the <hint=hint_sofia_great_purification>Great Purification</hint>."
-hint_book,"Book
-An object that contains <hint=hint_idea>knowledge</hint>.
+Di dalam Batu Iman, ada tempat perlindungan di mana keluarga bangsawan terpilih dapat bertahan dari <hint=hint_sofia_great_purification>Pembersihan Agung</hint>."
+hint_book,"Buku
+Sebuah objek yang berisi <hint=hint_idea>pengetahuan</hint>.
 
-Lords can study, transcribe, or create books in the <hint=hint_knowledge_menu>Knowledge menu</hint>.
+Para penguasa dapat mempelajari, menyalin, atau membuat buku di <hint=hint_knowledge_menu>Menu Pengetahuan</hint>.
 
-<b>Hint:</b> Books can be bought from the <hint=hint_holy_caravan>Holy Caravan</hint>."
-hint_pray,"Pray
-$ Fills the believer's heart with hope and increases their <hint=hint_mood>mood</hint>."
-hint_morning_pray,"Morning Service
-A mandatory group <hint=hint_pray>prayer</hint> that takes place in the <hint=hint_bld_temple>Temple</hint> every day at 7:00 am. It replenishes the need for <hint=hint_need_piety>piety</hint> and provides a positive <hint=hint_thought>thought</hint> for the whole day.
+<b>Petunjuk:</b> Buku dapat dibeli dari <hint=hint_holy_caravan>Karavan Suci</hint>."
+hint_pray,"Berdoa
+$ Mengisi hati penganut dengan harapan dan meningkatkan <hint=hint_mood>suaana hati</hint> mereka."
+hint_morning_pray,"Ibadah Pagi
+Sebuah doa kelompok wajib <hint=hint_pray>berdoa</hint> yang berlangsung di <hint=hint_bld_temple>Kuil</hint> setiap hari pukul 07:00 pagi. Itu mengisi ulang kebutuhan <hint=hint_need_piety>kesalehan</hint> dan memberikan <hint=hint_thought>pikiran</hint> positif untuk seluruh hari.
 
-All residents of the city participate in the ritual if there is enough space in the available Temples.
+Semua penduduk kota berpartisipasi dalam ritual jika ada cukup ruang di Kuil yang tersedia.
 
-In addition, it allows for the organization of work shifts, as immediately after the morning service, workers proceed to their daily tasks."
-hint_idea,"Knowledge
-Enables the construction of new buildings, repair of old ones, production of complex resources, and more.
+Selain itu, itu memungkinkan pengorganisasian shift kerja, karena segera setelah ibadah pagi, pekerja melanjutkan ke tugas harian mereka."
+hint_idea,"Pengetahuan
+Memungkinkan pembangunan bangunan baru, perbaikan yang lama, produksi sumber daya kompleks, dan lainnya.
 
 <img=hint_idea></img>
 
-$ Knowledge is displayed in the <hint=hint_knowledge_menu>Knowledge Menu</hint>.
-$ It be stored in a lord's mind or a <hint=hint_book>book</hint>.
-$ Knowledge can be obtained from a book or through a scientific <hint=hint_insight>insight</hint>.
-$ A lord possessing knowledge can <hint=hint_book_write>write a book</hint> or share it through <hint=hint_action_wise_talk>Wise Conversation</hint>.
-$ Knowledge can have different levels of complexity, and the higher the lord's <hint=hint_skill_knowledge>Intelligence</hint> level, the faster they can learn it.
-$ Books can be purchased from the <hint=hint_holy_caravan>Holy Caravan</hint>."
-hint_canon,"Canon
-A set of <hint=hint_dogma>dogmas</hint> that define the local version of the <hint=hint_sofia_cult>the Church of Mother Sophia</hint>.
+$ Pengetahuan ditampilkan di <hint=hint_knowledge_menu>Menu Pengetahuan</hint>.
+$ Itu dapat disimpan di pikiran penguasa atau sebuah <hint=hint_book>buku</hint>.
+$ Pengetahuan dapat diperoleh dari buku atau melalui <hint=hint_insight>wawasan</hint> ilmiah.
+$ Seorang penguasa yang memiliki pengetahuan dapat <hint=hint_book_write>membuat buku</hint> atau membagikannya melalui <hint=hint_action_wise_talk>Percakapan Bijak</hint>.
+$ Pengetahuan dapat memiliki tingkat kompleksitas yang berbeda, dan semakin tinggi tingkat <hint=hint_skill_knowledge>Kecerdasan</hint> penguasa, semakin cepat mereka dapat mempelajarinya.
+$ Buku dapat dibeli dari <hint=hint_holy_caravan>Karavan Suci</hint>."
+hint_canon,"Kanon
+Sekumpulan <hint=hint_dogma>doktrin</hint> yang mendefinisikan versi lokal dari <hint=hint_sofia_cult>Pihak Gereja Ibu Sophia</hint>.
 
-The canon can consist of a total of seven dogmas."
-hint_insight,"Insight
-The sudden appearance of new <hint=hint_idea>knowledge</hint> in the lord's mind.
+Kanon dapat terdiri dari total tujuh doktrin."
+hint_insight,"Wawasan
+Munculnya tiba-tiba pengetahuan <hint=hint_idea>pengetahuan</hint> baru di pikiran penguasa.
 
-It happens rarely while <hint=hint_inspection>giving instructions</hint> at a production building, provided that the character is <hint=hint_happy>is happy</hint>, or as a result of a strong <hint=hint_tantrum>nervous breakdown</hint>.
+Ini terjadi jarang saat <hint=hint_inspection>membuat instruksi</hint> di bangunan produksi, dengan syarat karakter <hint=hint_happy>bahagia</hint>, atau sebagai hasil dari <hint=hint_tantrum>penyakit mental</hint> yang kuat.
 
-Probability of insight depends on the lord's <hint=hint_skill_knowledge>Intelligence</hint>."
-hint_food,"Food
-All characters must consume at least one unit of food per day, or else they will experience <hint=hint_starvation>hunger</hint>.
+Probabilitas wawasan tergantung pada <hint=hint_skill_knowledge>Kecerdasan</hint> penguasa."
+hint_food,"Makanan
+Semua karakter harus mengonsumsi setidaknya satu unit makanan per hari, jika tidak mereka akan mengalami <hint=hint_starvation>lapar</hint>.
 
-$ Peasants and Warriors buy food at the <hint=hint_bld_market>Market</hint>, while Lords and Prisoners have it brought to them from the warehouse.
-$ There are three types of food, each affecting the <hint=hint_mood>mood</hint> of characters differently: unpalatable <hint=hint_resource_rutabaga>Rutabaga</hint>, common <hint=hint_resource_food>Flour</hint>, and tasty <hint=hint_resource_meat>Meat</hint>. 
-$ Characters will prioritize purchasing and consuming meat first, and rutabaga last. 
-$ You can regulate food sales in the <hint=hint_finance_menu>Finance menu</hint>"
-hint_alcohol,"Alcohol
-A quick way to boost the <hint=hint_mood>mood</hint> of characters.
+$ Petani dan Prajurit membeli makanan di <hint=hint_bld_market>Pasar</hint>, sementara Para Penguasa dan Tahanan membawanya dari gudang.
+$ Ada tiga jenis makanan, masing-masing memengaruhi <hint=hint_mood>suaana hati</hint> karakter secara berbeda: <hint=hint_resource_rutabaga>Rutabaga</hint> yang tidak enak, <hint=hint_resource_food>Tepung</hint> biasa, dan <hint=hint_resource_meat>Daging</hint> yang lezat. 
+$ Karakter akan memprioritaskan pembelian dan konsumsi daging terlebih dahulu, dan rutabaga terakhir. 
+$ Anda dapat mengatur penjualan makanan di <hint=hint_finance_menu>Menu Ekonomi</hint>"
+hint_alcohol,"Alkohol
+Cara cepat untuk meningkatkan <hint=hint_mood>suaana hati</hint> karakter.
 
-Peasants and warriors purchase alcohol at the <hint=hint_bld_tavern>Tavern</hint>, while lords and prisoners bring it from the warehouse.
+Petani dan prajurit membeli alkohol di <hint=hint_bld_tavern>Kedai</hint>, sementara penguasa dan tahanan membawanya dari gudang.
 
-There are three types of alcohol, each differing in the strength of the positive effect: 
-$ Rutabaga <hint=hint_resource_moonshine>Moonshine</hint>, 
-$ Neutral <hint=hint_resource_beer>Beer</hint>,
-$ Flavorful and aromatic <hint=hint_resource_ale>Ale</hint>.
+Ada tiga jenis alkohol, masing-masing berbeda dalam kekuatan efek positif: 
+$ <hint=hint_resource_moonshine>Moonshine</hint> Rutabaga, 
+$ <hint=hint_resource_beer>Bir</hint> Netral,
+$ <hint=hint_resource_ale>Flavorful Ale</hint> yang beraroma.
 
-Characters will prioritize consuming ale first and moonshine last.
+Karakter akan memprioritaskan konsumsi ale terlebih dahulu dan moonshine terakhir.
 
-Effects last for {alcohol_duration} hours:
-$ Strong positive <hint=hint_thought>thought</hint>
-$ Increased <hint=hint_interest>interest</hint> in other characters
+Efek bertahan selama {alcohol_duration} jam:
+$ Pikiran <hint=hint_thought>pikiran</hint> positif kuat
+$ Peningkatan <hint=hint_interest>minat</hint> pada karakter lain
 
-May cause <hint=hint_th_hangover>hangover</hint> or alcoholism.
+Mungkin menyebabkan <hint=hint_th_hangover>mabuk berat</hint> atau Alkoholisme.
 
-You can regulate alcohol sales in the <hint=hint_finance_menu>Finance menu</hint>."
+Anda dapat mengatur penjualan alkohol di <hint=hint_finance_menu>Menu Ekonomi</hint>."
 hint_resource_moonshine,"Moonshine
-<hint=hint_alcohol>Alcohol</hint>. Gives a positive thought <green>+{thought}</green> for several hours, affecting the average <hint=hint_mood>mood</hint> throughout the day.
+<hint=hint_alcohol>Alkohol</hint>. Memberikan pikiran positif <green>+{thought}</green> selama beberapa jam, memengaruhi rata-rata <hint=hint_mood>suaana hati</hint> sepanjang hari.
 
-Also used in the creation of <hint=hint_resource_nectar>Nectar</hint>
+Juga digunakan dalam pembuatan <hint=hint_resource_nectar>Nektar</hint>
 
-<b>Production</b> 
-$ Produced in a <hint=hint_bld_brewery>Brewery</hint>. 
-$ Requires <hint=hint_resource_rutabaga>1</hint> for production. 
-$ Sold in a <hint=hint_bld_tavern>Tavern</hint>."
-hint_resource_beer,"Beer
-<hint=hint_alcohol>Alcohol</hint>. Gives a positive thought <green>+{thought}</green> for several hours, affecting the average <hint=hint_mood>mood</hint> throughout the day.
+<b>Produksi</b> 
+$ Diproduksi di <hint=hint_bld_brewery>Pabrik Bir</hint>. 
+$ Memerlukan <hint=hint_resource_rutabaga>1</hint> untuk produksi. 
+$ Dijual di <hint=hint_bld_tavern>Kedai</hint>."
+hint_resource_beer,"Bir
+<hint=hint_alcohol>Alkohol</hint>. Memberikan pikiran positif <green>+{thought}</green> selama beberapa jam, memengaruhi rata-rata <hint=hint_mood>suaana hati</hint> sepanjang hari.
 
-<b>Production</b> 
-$ Produced in a <hint=hint_bld_brewery>Brewery</hint>. 
-$ Requires <hint=hint_resource_rye>0.5</hint> and <hint=hint_resource_hop>0.5</hint> for production. 
-$ Sold in a <hint=hint_bld_tavern>Tavern</hint>."
-hint_resource,"Resources
-The stored resources in the warehouse."
+<b>Produksi</b> 
+$ Diproduksi di <hint=hint_bld_brewery>Pabrik Bir</hint>. 
+$ Memerlukan <hint=hint_resource_rye>0.5</hint> dan <hint=hint_resource_hop>0.5</hint> untuk produksi. 
+$ Dijual di <hint=hint_bld_tavern>Kedai</hint>."
+hint_resource,"Sumber Daya
+Sumber daya yang disimpan di gudang."
 hint_resource_ale,"Flavorful Ale
-<hint=hint_alcohol>Alcohol</hint>. Gives a positive thought <green>+{thought}</green> for several hours, affecting the average <hint=hint_mood>mood</hint> throughout the day.
+<hint=hint_alcohol>Alkohol</hint>. Memberikan pikiran positif <green>+{thought}</green> selama beberapa jam, memengaruhi rata-rata <hint=hint_mood>suaana hati</hint> sepanjang hari.
 
-<b>Production</b> 
-$ Produced in a <hint=hint_bld_brewery>Brewery</hint>. 
-$ Requires <hint=hint_resource_herb>0.5</hint> and <hint=hint_resource_hop>0.5</hint> for production.
-$ Sold in a <hint=hint_bld_tavern>Tavern</hint>."
-hint_resource_rune,"Holy Rings
-A luxury that enhances the impression of a lord, increasing <hint=hint_interest>interest</hint> in them.
+<b>Produksi</b> 
+$ Diproduksi di <hint=hint_bld_brewery>Pabrik Bir</hint>. 
+$ Memerlukan <hint=hint_resource_herb>0.5</hint> dan <hint=hint_resource_hop>0.5</hint> untuk produksi.
+$ Dijual di <hint=hint_bld_tavern>Kedai</hint>."
+hint_resource_rune,"Cincin Suci
+Barang mewah yang meningkatkan kesan penguasa, meningkatkan <hint=hint_interest>minat</hint> terhadap mereka.
 
-<b>Characteristics</b> 
-$ Holy rings cannot be produced; they can only be purchased from <hint=hint_holy_caravan>Holy Caravans</hint>."
-hint_resource_gold,"Gold
-The money of Norland; a universally accepted medium of exchange.
+<b>Ciri-ciri</b> 
+$ Cincin suci tidak dapat diproduksi; mereka hanya dapat dibeli dari <hint=hint_holy_caravan>Karavan Suci</hint>."
+hint_resource_gold,"Emas
+Uang Norland; media pertukaran yang diterima secara universal.
 
-<b>Characteristics</b> 
-$ A shortage can cause a negative <hint=hint_thought>thought</hint>, while abundance can cause a positive one. 
-$ A significant difference in rings can cause <hint=hint_thought_social>Envy</hint>. 
-$ Only the <hint=hint_synode>Loving Family</hint> has the right to mint coins, thus selling goods to the <hint=hint_holy_caravan>Holy Caravan</hint> is the primary way of obtaining them."
-hint_resource_wood,"Wood
-A basic resource. Used in construction, agriculture, and in the production of other resources. 
+<b>Ciri-ciri</b> 
+$ Kekurangan dapat menyebabkan <hint=hint_thought>pikiran</hint> negatif, sementara kelimpahan dapat menyebabkan yang positif. 
+$ Perbedaan signifikan dalam cincin dapat menyebabkan <hint=hint_thought_social>Iri</hint>. 
+$ Hanya <hint=hint_synode>Keluarga Penuh Kasih</hint> yang berhak mencetak koin, sehingga menjual barang ke <hint=hint_holy_caravan>Karavan Suci</hint> adalah cara utama untuk mendapatkannya."
+hint_resource_wood,"Kayu
+Sumber daya dasar. Digunakan dalam konstruksi, pertanian, dan produksi sumber daya lain. 
 
-<b>Characteristics</b> 
-$ Mass deforestation on the map can lead to a decrease in <hint=hint_tutorial_fertility>soil fertility</hint>. 
+<b>Ciri-ciri</b> 
+$ Deforestasi massal di peta dapat menyebabkan penurunan <hint=hint_tutorial_fertility>kesuburan tanah</hint>. 
 
-<b>Production</b> 
-$ Harvested in the forest by workers of the <hint=hint_bld_woodcutter>Lumbermill</hint>."
-hint_resource_coal,"Coal 
-An intermediate resource used in the creation of other resources, such as <hint=hint_resource_instruments>Tools</hint>. 
+<b>Produksi</b> 
+$ Dipanen di hutan oleh pekerja <hint=hint_bld_woodcutter>Penggergajian Kayu</hint>."
+hint_resource_coal,"Batu Bara 
+Sumber daya menengah yang digunakan dalam pembuatan sumber daya lain, seperti <hint=hint_resource_instruments>Alat</hint>. 
 
-<b>Production</b> 
-$ Produced in a <hint=hint_bld_coal_furnace>Coal Furnace</hint>. 
-$ Requires <hint=hint_resource_wood>1</hint> for production."
-hint_resource_iron,"Iron
-A basic resource. Mainly used in the production of other resources, such as <hint=hint_resource_instruments>Tools</hint>, and for upgrading buildings. 
+<b>Produksi</b> 
+$ Diproduksi di <hint=hint_bld_coal_furnace>Tungku Batu Bara</hint>. 
+$ Memerlukan <hint=hint_resource_wood>1</hint> untuk produksi."
+hint_resource_iron,"Besi
+Sumber daya dasar. Terutama digunakan dalam produksi sumber daya lain, seperti <hint=hint_resource_instruments>Alat</hint>, dan untuk peningkatan bangunan. 
 
-<b>Characteristics</b> 
-$ Iron reserves <hint=hint_tutorial_iron_depleted>deplete over time</hint>. 
+<b>Ciri-ciri</b> 
+$ Cadangan besi <hint=hint_tutorial_iron_depleted>habis seiring waktu</hint>. 
 
-<b>Production</b> 
-$ Mined in <hint=hint_bld_mine>Mines</hint>."
-hint_resource_steel,"Steel
-An intermediate resource used in the creation of other resources, mainly advanced weaponry.
+<b>Produksi</b> 
+$ Ditambang di <hint=hint_bld_mine>Tambang</hint>."
+hint_resource_steel,"Baja
+Sumber daya menengah yang digunakan dalam pembuatan sumber daya lain, terutama senjata canggih.
 
-<b>Production</b>
-$ Produced in a <hint=hint_bld_steel_furnace>Smelting Furnace</hint>.
-$ Requires <hint=hint_resource_coal>1</hint> and <hint=hint_resource_iron>1</hint> for production."
-hint_resource_food,"Flour
-A type of <hint=hint_food>food</hint>. Satisfies <hint=hint_need_food>need for food</hint>.
+<b>Produksi</b>
+$ Diproduksi di <hint=hint_bld_steel_furnace>Tungku Peleburan</hint>.
+$ Memerlukan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_iron>1</hint> untuk produksi."
+hint_resource_food,"Tepung
+Jenis <hint=hint_food>makanan</hint>. Memenuhi <hint=hint_need_food>kebutuhan makanan</hint>.
 
-<b>Production</b>
-$ Produced at a <hint=hint_bld_mill>Mill</hint>.
-$ Requires <hint=hint_resource_rye>1</hint> for production.
-$ Sold in a <hint=hint_bld_market>Market</hint>."
+<b>Produksi</b>
+$ Diproduksi di <hint=hint_bld_mill>Penggilingan</hint>.
+$ Memerlukan <hint=hint_resource_rye>1</hint> untuk produksi.
+$ Dijual di <hint=hint_bld_market>Pasar</hint>."
 hint_resource_rye,"Rye
-A basic resource. Used in the production of <hint=hint_resource_food>Flour</hint> and <hint=hint_resource_beer>Beer</hint>. 
+Sumber daya dasar. Digunakan dalam produksi <hint=hint_resource_food>Tepung</hint> dan <hint=hint_resource_beer>Bir</hint>. 
 
-<b>Production:</b> 
-$ Grown in a <hint=hint_bld_farm>Rye Field</hint>."
-hint_resource_hop,"Hops
-A basic resource. Used in the production of <hint=hint_resource_beer>Beer</hint> and flavorful <hint=hint_resource_ale>Ale</hint>.
+<b>Produksi:</b> 
+$ Ditanam di <hint=hint_bld_farm>Ladang Rye</hint>."
+hint_resource_hop,"Hop
+Sumber daya dasar. Digunakan dalam produksi <hint=hint_resource_beer>Bir</hint> dan <hint=hint_resource_ale>Flavorful Ale</hint> yang beraroma.
 
-<b>Production:</b>
-$ Grown in <hint=hint_bld_hop>Hop Fields</hint>."
+<b>Produksi:</b>
+$ Ditanam di <hint=hint_bld_hop>Ladang Hop</hint>."
 hint_resource_rutabaga,"Rutabaga
-A type of <hint=hint_food>food</hint> and a basic resource. Used in the production of <hint=hint_resource_moonshine>Moonshine</hint> and <hint=hint_resource_meat>Meat</hint>. 
+Jenis <hint=hint_food>makanan</hint> dan sumber daya dasar. Digunakan dalam produksi <hint=hint_resource_moonshine>Moonshine</hint> dan <hint=hint_resource_meat>Daging</hint>. 
 
-<b>Characteristics:</b> 
-$ Has a disgusting taste, which affects mood (especially of lords and warriors). 
-$ Prolonged consumption can cause the deadly rutabaga typhus. 
-$ Rutabaga fields are not as dependent on fertile soil patches and yield a harvest every day. 
+<b>Ciri-ciri:</b> 
+$ Memiliki rasa menjijikkan, yang memengaruhi suasana hati (terutama para penguasa dan prajurit). 
+$ Konsumsi berkepanjangan dapat menyebabkan tipus rutabaga yang mematikan. 
+$ Ladang rutabaga tidak terlalu bergantung pada tambalan tanah subur dan menghasilkan panen setiap hari. 
 
-<b>Production</b> 
-$ Grown in <hint=hint_bld_rutabaga>Rutabaga Fields</hint>."
-hint_resource_meat,"Meat
-A type of <hint=hint_food>food</hint>. Satisfies <hint=hint_need_food>hunger</hint>.
+<b>Produksi</b> 
+$ Ditanam di <hint=hint_bld_rutabaga>Ladang Rutabaga</hint>."
+hint_resource_meat,"Daging
+Jenis <hint=hint_food>makanan</hint>. Memenuhi <hint=hint_need_food>lapar</hint>.
 
-<b>Characteristics</b>
-$ Meat is very tasty and boosts mood for the entire next day (especially among peasants and prisoners).
+<b>Ciri-ciri</b>
+$ Daging sangat lezat dan meningkatkan suasana hati untuk seluruh hari berikutnya (terutama di kalangan petani dan tahanan).
 
-<b>Production</b>
-$ Obtained from pigs in <hint=hint_bld_pigfarm>Pig Farms</hint>.
-$ Requires <hint=hint_resource_rutabaga>Rutabaga</hint> for pig feed.
-$ Sold in a <hint=hint_bld_market>Market</hint>.
-$ Some can also be obtained from the carcass of slain <hint=hint_fleshwolf>fleshwolves</hint>."
-hint_resource_herb,"Herb
-A basic resource. Used for the production of other resources, such as <hint=hint_resource_med>Medical Salve</hint>, <hint=hint_resource_nectar>Nectar</hint>, and flavorful <hint=hint_resource_ale>Ale</hint>.
+<b>Produksi</b>
+$ Diperoleh dari babi di <hint=hint_bld_pigfarm>Peternakan Babi</hint>.
+$ Memerlukan <hint=hint_resource_rutabaga>Rutabaga</hint> untuk pakan babi.
+$ Dijual di <hint=hint_bld_market>Pasar</hint>.
+$ Beberapa juga dapat diperoleh dari bangkai <hint=hint_fleshwolf>fleshwolf</hint> yang dibunuh."
+hint_resource_herb,"Rempah
+Sumber daya dasar. Digunakan untuk produksi sumber daya lain, seperti <hint=hint_resource_med>Salep Medis</hint>, <hint=hint_resource_nectar>Nektar</hint>, dan <hint=hint_resource_ale>Flavorful Ale</hint> yang beraroma.
 
-<b>Characteristics</b>
-$ Consists of dried flowers that grow on special bushes in the forest. After harvesting, the bush requires time to produce a flower again.
+<b>Ciri-ciri</b>
+$ Terdiri dari bunga kering yang tumbuh di semak khusus di hutan. Setelah dipanen, semak memerlukan waktu untuk menghasilkan bunga lagi.
 
-<b>Production:</b>
-$ Gathered in the forest by <hint=hint_bld_forester>herbalists</hint>."
-hint_resource_med,"Medical Salve
-Used for treating diseases (such as rutabaga typhus) and reduces the risk of developing <hint=hint_poisoned>gangrene</hint>.
+<b>Produksi:</b>
+$ Dikumpulkan di hutan oleh <hint=hint_bld_forester>ahli rempah</hint>."
+hint_resource_med,"Salep Medis
+Digunakan untuk mengobati penyakit (seperti tipus rutabaga) dan mengurangi risiko berkembang menjadi <hint=hint_poisoned>Luka Busuk</hint>.
 
-<b>Characteristics</b>
-$ This is a valuable resource that is only available to lords and warriors, who take it from the warehouse when they are sick and apply it themselves.
+<b>Ciri-ciri</b>
+$ Ini adalah sumber daya berharga yang hanya tersedia untuk para penguasa dan prajurit, yang mengambilnya dari gudang saat sakit dan mengoleskannya sendiri.
 
-<b>Production</b>
-$ Produced in an <hint=hint_bld_alchemistry>Alchemy Lab</hint>.
-$ Requires <hint=hint_resource_herb>1</hint> for production."
-hint_resource_nectar,"Nectar
-A psychoactive substance that significantly enhances characters' abilities but can lead to dangerous addiction.
+<b>Produksi</b>
+$ Diproduksi di <hint=hint_bld_alchemistry>Laboratorium Alkimia</hint>.
+$ Memerlukan <hint=hint_resource_herb>1</hint> untuk produksi."
+hint_resource_nectar,"Nektar
+Zat psikoaktif yang secara signifikan meningkatkan kemampuan karakter tetapi dapat menyebabkan kecanduan berbahaya.
 
-<b>Characteristics:</b>
-$ Causes a powerful <hint=hint_encyclopedia_nectar>psychoactive effect</hint> upon consumption.
+<b>Ciri-ciri:</b>
+$ Menyebabkan efek <hint=hint_encyclopedia_nectar>efek psikoaktif</hint> kuat saat dikonsumsi.
 
-<b>Production:</b>
-$ Produced in an <hint=hint_bld_alchemistry>Alchemy Lab</hint>.
-$ Requires <hint=hint_resource_herb>0.5</hint> and <hint=hint_resource_moonshine>0.5</hint> for production.
-$ Sold in <hint=hint_bld_drug_deg>Drug Dens</hint>."
-hint_resource_instruments,"Tools
-An important intermediate resource. Used in the production of weapons, <hint=hint_resource_paper>Paper</hint>, and for upgrading buildings at higher levels. 
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_alchemistry>Laboratorium Alkimia</hint>.
+$ Memerlukan <hint=hint_resource_herb>0.5</hint> dan <hint=hint_resource_moonshine>0.5</hint> untuk produksi.
+$ Dijual di <hint=hint_bld_drug_deg>Sarang Narkoba</hint>."
+hint_resource_instruments,"Alat
+Sumber daya menengah yang penting. Digunakan dalam produksi senjata, <hint=hint_resource_paper>Kertas</hint>, dan untuk meningkatkan bangunan di tingkat lebih tinggi. 
 
-<b>Production</b> 
-$ Produced in a <hint=hint_bld_workshop>Workshop</hint>. 
-$ Requires <hint=hint_resource_coal>1</hint> and <hint=hint_resource_iron>1</hint> for production."
-hint_resource_paper,"Paper
-Used for creating <hint=hint_book>books</hint>, for conducting diplomacy remotely on the World Map, and in the operation of the <hint=hint_bld_chancellery>Chancellery</hint>.
+<b>Produksi</b> 
+$ Diproduksi di <hint=hint_bld_workshop>Bengkel</hint>. 
+$ Memerlukan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_iron>1</hint> untuk produksi."
+hint_resource_paper,"Kertas
+Digunakan untuk membuat <hint=hint_book>buku</hint>, untuk melakukan diplomasi jarak jauh di Peta Dunia, dan dalam operasi <hint=hint_bld_chancellery>Kanselari</hint>.
 
-<b>Production</b>
-$ Produced in a <hint=hint_bld_paper_factory>Paper Workshop</hint>
-$ Requires <hint=hint_resource_wood>0.5</hint> and <hint=hint_resource_instruments>0.5</hint> for production."
-hint_resource_knife,"Dagger
-The simplest cutting weapon.
+<b>Produksi</b>
+$ Diproduksi di <hint=hint_bld_paper_factory>Bengkel Kertas</hint>
+$ Memerlukan <hint=hint_resource_wood>0.5</hint> dan <hint=hint_resource_instruments>0.5</hint> untuk produksi."
+hint_resource_knife,"Belati
+Senjata potong paling sederhana.
 
-9 times more effective than hand-to-hand combat, but significantly inferior to all other types of weapons.
+9 kali lebih efektif daripada pertarungan tangan kosong, tetapi jauh lebih lemah daripada semua jenis senjata lain.
 
-<b>Features:</b>
-$ Due to its small size, characters can carry this weapon with them at all times.
-$ Can be used as a backup weapon in combat if the primary one is broken.
+<b>Fitur:</b>
+$ Karena ukurannya yang kecil, karakter dapat membawa senjata ini setiap saat.
+$ Dapat digunakan sebagai senjata cadangan dalam pertempuran jika yang utama rusak.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_workshop>Workshop</hint>.
-$ Requires <hint=hint_resource_iron>1</hint> to craft."
-hint_resource_bow,"Bow
-A long-range weapon.
-Particularly effective against unarmored targets.
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_workshop>Bengkel</hint>.
+$ Memerlukan <hint=hint_resource_iron>1</hint> untuk dibuat."
+hint_resource_bow,"Busur
+Senjata jarak jauh.
+Sangat efektif terhadap target tanpa zirah.
 
-<b>Production</b>
-$ Produced in <hint=hint_bld_workshop>Workshop</hint>.
-$ Requires <hint=hint_resource_wood>1</hint> and <hint=hint_resource_instruments>1</hint> to craft"
-hint_resource_light_armor,"Light Armor
-Provides an average of <b>+30%</b> chance of survival for the warrior in battle.
+<b>Produksi</b>
+$ Diproduksi di <hint=hint_bld_workshop>Bengkel</hint>.
+$ Memerlukan <hint=hint_resource_wood>1</hint> dan <hint=hint_resource_instruments>1</hint> untuk dibuat"
+hint_resource_light_armor,"Baju Zirah Ringan
+Memberikan rata-rata <b>+30%</b> peluang bertahan hidup bagi prajurit dalam pertempuran.
 
-Like any armor,
-$ Particularly effective against <hint=hint_resource_wooden_spear>Spears</hint>.
-$ Less effective against <hint=hint_resource_wooden_hammer>Maces</hint>.
-$ Destroyed by <hint=hint_resource_battle_axe>Axes</hint>.
+Seperti zirah apa pun,
+$ Sangat efektif terhadap <hint=hint_resource_wooden_spear>Tombak</hint>.
+$ Kurang efektif terhadap <hint=hint_resource_wooden_hammer>Gada</hint>.
+$ Dihancurkan oleh <hint=hint_resource_battle_axe>Kapak</hint>.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_armorsmith>Armor Forge</hint>.
-$ Requires <hint=hint_resource_wood>1</hint> and <hint=hint_resource_instruments>1</hint> to craft."
-hint_resource_heavy_armor,"Heavy Armor
-Provides an average of <b>+50%</b> chance of survival for the warrior in battle.
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_armorsmith>Tempa Zirah</hint>.
+$ Memerlukan <hint=hint_resource_wood>1</hint> dan <hint=hint_resource_instruments>1</hint> untuk dibuat."
+hint_resource_heavy_armor,"Baju Zirah Berat
+Memberikan rata-rata <b>+50%</b> peluang bertahan hidup bagi prajurit dalam pertempuran.
 
-Like any armor,
-$ Particularly effective against <hint=hint_resource_wooden_spear>Spears</hint>.
-$ Less effective against <hint=hint_resource_wooden_hammer>Maces</hint>.
-$ Destroyed by <hint=hint_resource_battle_axe>Axes</hint>.
+Seperti zirah apa pun,
+$ Sangat efektif terhadap <hint=hint_resource_wooden_spear>Tombak</hint>.
+$ Kurang efektif terhadap <hint=hint_resource_wooden_hammer>Gada</hint>.
+$ Dihancurkan oleh <hint=hint_resource_battle_axe>Kapak</hint>.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_armorsmith>Armor Forge</hint>.
-$ Requires <hint=hint_resource_steel>1</hint> and <hint=hint_resource_instruments>1</hint> to craft."
-hint_resource_shield,"Shield
-Provides an average of <b>+35%</b> chance of survival for the warrior in battle.
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_armorsmith>Tempa Zirah</hint>.
+$ Memerlukan <hint=hint_resource_steel>1</hint> dan <hint=hint_resource_instruments>1</hint> untuk dibuat."
+hint_resource_shield,"Perisai
+Memberikan rata-rata <b>+35%</b> peluang bertahan hidup bagi prajurit dalam pertempuran.
 
-<b>Feature:</b> 
-$ Can be used as a weapon if the primary one is broken (slightly less effective than <hint=hint_resource_wooden_hammer>Maces</hint>)
-$ Very good protection against archers' arrows.
+<b>Fitur:</b> 
+$ Dapat digunakan sebagai senjata jika yang utama rusak (sedikit kurang efektif daripada <hint=hint_resource_wooden_hammer>Gada</hint>)
+$ Perlindungan yang sangat baik terhadap panah pemanah.
 
-Like any armor,
-$ Particularly effective against <hint=hint_resource_wooden_spear>Spears</hint>.
-$ Less effective against <hint=hint_resource_wooden_hammer>Maces</hint>.
-$ Destroyed by <hint=hint_resource_battle_axe>Axes</hint>.
+Seperti zirah apa pun,
+$ Sangat efektif terhadap <hint=hint_resource_wooden_spear>Tombak</hint>.
+$ Kurang efektif terhadap <hint=hint_resource_wooden_hammer>Gada</hint>.
+$ Dihancurkan oleh <hint=hint_resource_battle_axe>Kapak</hint>.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_armorsmith>Armor Forge</hint>.
-$ Requires <hint=hint_resource_iron>1</hint> and <hint=hint_resource_instruments>1</hint> to craft."
-hint_resource_wooden_hammer,"Mace
-A simple and sturdy weapon. 2 times as effective as the <hint=hint_resource_knife>Dagger</hint>, but 30% weaker than the <hint=hint_resource_wooden_spear>Spear</hint>.
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_armorsmith>Tempa Zirah</hint>.
+$ Memerlukan <hint=hint_resource_iron>1</hint> dan <hint=hint_resource_instruments>1</hint> untuk dibuat."
+hint_resource_wooden_hammer,"Gada
+Senjata sederhana dan kokoh. 2 kali lebih efektif daripada <hint=hint_resource_knife>Belati</hint>, tetapi 30% lebih lemah daripada <hint=hint_resource_wooden_spear>Tombak</hint>.
 
-<b>Feature:</b> 
-$ Capable of additionally <hint=hint_uncons>dazing</hint> the opponent. Use this weapon if you want to capture more prisoners.
+<b>Fitur:</b> 
+$ Mampu menambahkan <hint=hint_uncons>membingungkan</hint> lawan. Gunakan senjata ini jika Anda ingin menangkap lebih banyak tahanan.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_forge>Weapon Forge</hint>.
-$ Requires <hint=hint_resource_coal>1</hint> and <hint=hint_resource_iron>1</hint> to craft."
-hint_resource_wooden_spear,"Spear
-A simple but effective weapon that inflicts dangerous piercing wounds. 9 times more effective than the <hint=hint_resource_knife>Dagger</hint>, and 30% more effective than the <hint=hint_resource_wooden_hammer>Mace</hint>.
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_forge>Tempa Senjata</hint>.
+$ Memerlukan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_iron>1</hint> untuk dibuat."
+hint_resource_wooden_spear,"Tombak
+Senjata sederhana tapi efektif yang menimbulkan luka tusuk berbahaya. 9 kali lebih efektif daripada <hint=hint_resource_knife>Belati</hint>, dan 30% lebih efektif daripada <hint=hint_resource_wooden_hammer>Gada</hint>.
 
-<b>Features:</b>
-$ Not very durable.
-$ Reduced effectiveness against armored opponents.
+<b>Fitur:</b>
+$ Tidak terlalu tahan lama.
+$ Efektivitas berkurang terhadap lawan berzirah.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_forge>Weapon Forge</hint>.
-$ Requires <hint=hint_resource_coal>1</hint> and <hint=hint_resource_iron>1</hint> to craft."
-hint_resource_battle_axe,"Axe
-An expensive weapon, approximately 4 times more effective than the <hint=hint_resource_wooden_spear>Spear</hint> and 2 times more effective than the <hint=hint_resource_wooden_hammer>Mace</hint>.
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_forge>Tempa Senjata</hint>.
+$ Memerlukan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_iron>1</hint> untuk dibuat."
+hint_resource_battle_axe,"Kapak
+Senjata mahal, kira-kira 4 kali lebih efektif daripada <hint=hint_resource_wooden_spear>Tombak</hint> dan 2 kali lebih efektif daripada <hint=hint_resource_wooden_hammer>Gada</hint>.
 
-<b>Feature:</b> 
-$ Destroys the opponent's armor and shields. Due to this, it is 2 times weaker than the <hint=hint_resource_sword>Sword</hint> if both fighters are not protected by armor, and 2 times stronger if fully protected.
+<b>Fitur:</b> 
+$ Menghancurkan zirah dan perisai lawan. Karena ini, ia 2 kali lebih lemah daripada <hint=hint_resource_sword>Pedang</hint> jika kedua petarung tidak dilindungi oleh zirah, dan 2 kali lebih kuat jika sepenuhnya dilindungi.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_forge>Weapon Forge</hint>.
-$ Requires <hint=hint_resource_coal>1</hint> and <hint=hint_resource_steel>1</hint> to craft."
-hint_resource_sword,"Sword
-The most expensive and sophisticated type of weapon. It is 10 times stronger than the <hint=hint_resource_wooden_spear>Spear</hint>, 5 times stronger than the <hint=hint_resource_wooden_hammer>Mace</hint>, and 2 times stronger than the <hint=hint_resource_battle_axe>Axe</hint> (assuming no armor).
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_forge>Tempa Senjata</hint>.
+$ Memerlukan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_steel>1</hint> untuk dibuat."
+hint_resource_sword,"Pedang
+Jenis senjata paling mahal dan canggih. Ia 10 kali lebih kuat daripada <hint=hint_resource_wooden_spear>Tombak</hint>, 5 kali lebih kuat daripada <hint=hint_resource_wooden_hammer>Gada</hint>, dan 2 kali lebih kuat daripada <hint=hint_resource_battle_axe>Kapak</hint> (dengan asumsi tidak ada zirah).
 
-<b>Features:</b> 
-$ Allows for effective parrying of the opponent's attacks, providing additional protection.
-$ It breaks very rarely. Your warrior won't be left without a weapon in the middle of a battle.
+<b>Fitur:</b> 
+$ Memungkinkan parry efektif terhadap serangan lawan, memberikan perlindungan tambahan.
+$ Jarang rusak. Prajurit Anda tidak akan ditinggalkan tanpa senjata di tengah pertempuran.
 
-<b>Production:</b>
-$ Produced in the <hint=hint_bld_forge>Weapon Forge</hint>.
-$ Requires <hint=hint_resource_coal>1</hint> and <hint=hint_resource_steel>1</hint> to craft."
+<b>Produksi:</b>
+$ Diproduksi di <hint=hint_bld_forge>Tempa Senjata</hint>.
+$ Memerlukan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_steel>1</hint> untuk dibuat."
 hint_resource_parfume," "
-hint_resource_soap,"Soap
-Necessary for the functioning of the <hint=hint_bld_bath>Bath</hint>.
+hint_resource_soap,"Sabun
+Diperlukan untuk berfungsinya <hint=hint_bld_bath>Mandi</hint>.
 
-Requires 1 <hint=hint_resource_wood>Wood</hint> and 1 <hint=hint_resource_hop>Hop</hint> to craft"
-hint_person_maroders,"Marauders
-At the end of the <hint=hint_fire_war>War of Sacred Flame</hint>, the surviving <hint=hint_cainism>Cainites</hint> and deserters fled to the Impassable Mountains in the south, where they found refuge and became unreachable by the <hint=hint_sofia_cult>Church</hint>.
+Memerlukan 1 <hint=hint_resource_wood>Kayu</hint> dan 1 <hint=hint_resource_hop>Hop</hint> untuk dibuat"
+hint_person_maroders,"Begal
+Di akhir <hint=hint_fire_war>Perang Api Suci</hint>, <hint=hint_cainism>Kainisme</hint> yang selamat dan pembelot melarikan diri ke Pegunungan Tak Terlintasi di selatan, di mana mereka menemukan perlindungan dan menjadi tak terjangkau oleh <hint=hint_sofia_cult>Pihak Gereja</hint>.
 
-Over the years, they degenerated into a wild tribes, but they always retained their old faith. They also retained their skills in the production of weapons and armor and their hatred of the <hint=hint_new_kingdoms>New Kingdoms</hint>.
+Selama bertahun-tahun, mereka merosot menjadi suku-suku liar, tetapi mereka selalu mempertahankan iman lama mereka. Mereka juga mempertahankan keterampilan mereka dalam produksi senjata dan zirah serta kebencian mereka terhadap <hint=hint_new_kingdoms>Kerajaan Baru</hint>.
 
-Despite their high combat skills and fairly good equipment, without which survival in the mountains is impossible, the marauders are afraid to attack the cities of Norland head-on. Instead, they make raids frequently when they learn about an ongoing war, rightly counting on easy prey.
+Meskipun keterampilan tempur yang tinggi dan peralatan yang cukup baik, tanpa yang mana bertahan hidup di pegunungan tidak mungkin, para begal takut menyerang kota-kota Norland secara langsung. Sebaliknya, mereka sering melakukan serangan ketika mengetahui perang sedang berlangsung, dengan benar menghitung pada mangsa yang mudah.
 
-Marauders attack defenseless villages and imprison everyone, taking them away into the mountains. Nobody knows what happens to these unfortunate souls afterward.
+Begal menyerang desa-desa tak berdaya dan memenjarakan semua orang, membawa mereka ke pegunungan. Tidak ada yang tahu apa yang terjadi pada jiwa-jiwa malang ini setelahnya.
 
-The Church of Mother Sophia warmly blesses the destruction of any marauder squads."
-hint_social_classes,"Social Classes
-The population of the city is divided into classes. Your task is to ensure the survival of the <hint=hint_persons_lords>lord</hint> class, which you are playing as."
-hint_persons_lords,"Lords
+Pihak Gereja Ibu Sophia dengan hangat memberkati penghancuran regu begal apa pun."
+hint_social_classes,"Kelas Sosial
+Penduduk kota dibagi menjadi kelas. Tugas Anda adalah memastikan kelangsungan hidup kelas <hint=hint_persons_lords>penguasa</hint>, yang Anda mainkan sebagai."
+hint_persons_lords,"Para Penguasa
 [hint_tut_3]"
-hint_persons_cuthroat,"Cutthroats
-Cutthroats are the most dangerous and highly armed criminals. They can steal <hint=hint_resource_gold>Gold</hint>, <hint=hint_resource_rune>Rings</hint>, and <hint=hint_book>Books</hint>, as well as kidnapping lords themselves. Cutthroats may perform other tasks for unfriendly neighbors.
+hint_persons_cuthroat,"Pembunuh Berantai
+Pembunuh berantai adalah penjahat paling berbahaya dan bersenjata lengkap. Mereka dapat mencuri <hint=hint_resource_gold>Emas</hint>, <hint=hint_resource_rune>Cincin Suci</hint>, dan <hint=hint_book>buku</hint>, serta menculik para penguasa sendiri. Pembunuh berantai mungkin melakukan tugas lain untuk tetangga yang tidak ramah.
 
 <img=hint_persons_cuthroat></img>
 
-$ Ordinary <hint=hint_persons_criminal>vagabonds</hint> develop into cutthroats over time or as a result of observing <hint=hint_punish>executions</hint>. They do not differ in appearance from regular vagabonds.
-$ They are armed with <hint=hint_resource_knife>daggers</hint>, which they can make themselves.
-$ Unlike <hint=hint_persons_criminal>vagabonds</hint>, cuttroats can attack lords in addition to peasants.
-$ Cuttroats in your province might be bribed by unfriendly neighbors to carry out nefarious tasks against your noble family.
+$ <hint=hint_persons_criminal>Pengembara</hint> biasa berkembang menjadi pembunuh berantai seiring waktu atau sebagai hasil dari mengamati <hint=hint_punish>hukuman</hint>. Mereka tidak berbeda penampilan dari pengembara biasa.
+$ Mereka bersenjata dengan <hint=hint_resource_knife>belati</hint>, yang dapat mereka buat sendiri.
+$ Tidak seperti <hint=hint_persons_criminal>pengembara</hint>, pembunuh berantai dapat menyerang penguasa selain petani.
+$ Pembunuh berantai di provinsi Anda mungkin disuap oleh tetangga tidak ramah untuk melakukan tugas jahat terhadap keluarga bangsawan Anda.
 
-<b>Hint:</b> Don't forget to protect your lords! Place a <b>Patrol Banner</b> near their homes through the Construction menu (Army submenu)."
-hint_persons_slave,"Prisoners
-Prisoners are warriors captured in battle or former <hint=hint_persons_criminal>vagabonds</hint> who have been punished for their crimes. They require special handling.
+<b>Petunjuk:</b> Jangan lupa lindungi para penguasa Anda! Letakkan <b>Bendera Patroli</b> di dekat rumah mereka melalui menu Konstruksi (submenu Militer)."
+hint_persons_slave,"Tahanan
+Tahanan adalah prajurit yang ditangkap dalam pertempuran atau mantan <hint=hint_persons_criminal>pengembara</hint> yang dihukum atas kejahatan mereka. Mereka memerlukan penanganan khusus.
 
 <img=hint_persons_slave></img>
 
-$ Prisoners work 3 hours longer than free peasants, which increases productivity.
-$ Prisoners live in <hint=hint_bld_slaves_barrack>Prison Wards</hint>. Just set their consumption limits in the <hint=hint_finance_menu>Economy menu</hint>.
-$ Prisoners, especially the unhappy ones, sometimes attempt to escape. Place <hint=hint_persons_guard>patrols</hint> near the Prison Wards and their workplaces.
-$ <hint=hint_slave_happines>Unhappy</hint> prisoners can initiate a <hint=hint_slave_riot>riot</hint>.
-$ A freed prisoner experiences great joy in freedom and may become a brave warrior."
+$ Tahanan bekerja 3 jam lebih lama daripada petani bebas, yang meningkatkan produktivitas.
+$ Tahanan tinggal di <hint=hint_bld_slaves_barrack>Blok Penjara</hint>. Cukup atur batas konsumsi mereka di <hint=hint_finance_menu>Menu Ekonomi</hint>.
+$ Tahanan, terutama yang tidak bahagia, terkadang mencoba melarikan diri. Letakkan <hint=hint_persons_guard>patroli</hint> di dekat Blok Penjara dan tempat kerja mereka.
+$ <hint=hint_slave_happines>Tidak bahagia</hint> tahanan dapat memulai <hint=hint_slave_riot>pemberontakan</hint>.
+$ Seorang tahanan yang dibebaskan mengalami kegembiraan besar atas kebebasan dan mungkin menjadi prajurit pemberani."
 hint_slave_price," "
-hint_persons_peasant,"Peasants
-The main class of Norland's population. In exchange for <hint=hint_salary>wages</hint>, they can be hired for production tasks. They can also be recruited into the <hint=hint_persons_warriors>warrior</hint> class.
+hint_persons_peasant,"Petani
+Kelas utama populasi Norland. Sebagai imbalan atas <hint=hint_salary>upah</hint>, mereka dapat disewa untuk tugas produksi. Mereka juga dapat direkrut ke kelas <hint=hint_persons_warriors>prajurit</hint>.
 
 <img=hint_persons_peasant></img>
 
-$ Peasants periodically <hint=hint_migration>migrate</hint>, leaving your city at a rate based on their <hint=hint_mood>mood</hint>. 
-$ Some of them become <hint=hint_persons_criminal>vagabonds</hint> or join the <hint=hint_persons_forest_bandits>forest bandits</hint>.
-$ You can learn more about your peasants in the <hint=hint_statistic_menu>Statistics Menu</hint> or by hovering over the icon in the top left corner."
-hint_persons_guest,"Guests
+$ Petani secara berkala <hint=hint_migration>migrasi</hint>, meninggalkan kota Anda dengan laju berdasarkan <hint=hint_mood>suaana hati</hint> mereka. 
+$ Beberapa di antaranya menjadi <hint=hint_persons_criminal>pengembara</hint> atau bergabung dengan <hint=hint_persons_forest_bandits>perampok hutan</hint>.
+$ Anda dapat mempelajari lebih lanjut tentang petani Anda di <hint=hint_statistic_menu>Menu Statistik</hint> atau dengan mengarahkan kursor ke ikon di sudut kiri atas."
+hint_persons_guest,"Tamu
 [hint_tutorial_guest]"
-hint_persons_guard,"Patrols
-You can assign <hint=hint_persons_warriors>warriors</hint> to patrols by placing daytime and nighttime <hint=hint_bld_patrol_sign>Patrol Banners</hint> from the Build menu (Army submenu).
+hint_persons_guard,"Patroli
+Anda dapat menugaskan <hint=hint_persons_warriors>prajurit</hint> untuk patroli dengan menempatkan <hint=hint_bld_patrol_sign>Bendera Patroli</hint> siang dan malam dari menu Bangun (submenu Militer).
 
 <img=hint_persons_guard></img>
 
-$ Each patrol banner has an area within which guards patrol.
-$ Night patrols protect warehouses and homes from crimes by <hint=hint_persons_criminal>vagabonds</hint> as well as guarding prisoners in the Prison wards.
-$ Daytime patrols prevent <hint=hint_persons_slave>prisoner</hint> escapes from production sites and protect workers from <hint=hint_fleshwolf>fleshwolf</hint> attacks.
-$ Guards become tired from this activity, so the more patrols, the lower their <hint=hint_sodiers_happiness>mood</hint> (which can be important before a battle).
-$ Rotation of guards among hired warriors occurs automatically."
-hint_persons_warriors,"Warrior
-Hired fighters that can be formed into <hint=hint_army>combat squads</hint> as well as assigned as <hint=hint_persons_guard>guards</hint>.
+$ Setiap bendera patroli memiliki area di mana garda melakukan patroli.
+$ Patroli malam melindungi gudang dan rumah dari kejahatan oleh <hint=hint_persons_criminal>pengembara</hint> serta menjaga narapidana di Blok Penjara.
+$ Patroli siang mencegah <hint=hint_persons_slave>Narapidana</hint> melarikan diri dari situs produksi dan melindungi pekerja dari serangan <hint=hint_fleshwolf>fleshwolf</hint>.
+$ Garda menjadi lelah dari aktivitas ini, sehingga semakin banyak patroli, semakin rendah <hint=hint_sodiers_happiness>suaana hati</hint> mereka (yang bisa penting sebelum pertempuran).
+$ Rotasi garda di antara prajurit bayaran terjadi secara otomatis."
+hint_persons_warriors,"Prajurit
+Prajurit bayaran yang dapat dibentuk menjadi <hint=hint_army>regu pertempuran</hint> serta ditugaskan sebagai <hint=hint_persons_guard>garda</hint>.
 
-They have a <hint=hint_skill_combat>Combat</hint> skill, which they can improve in battle or at the <hint=hint_bld_training_ground>Training Ground</hint>.
+Mereka memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint>, yang dapat mereka tingkatkan dalam pertempuran atau di <hint=hint_bld_training_ground>Lapangan Latihan</hint>.
 
-You can recruit warriors from your peasants or prisoners, or hire more experienced <hint=hint_persons_merc>mercenaries</hint> for gold."
-hint_persons_unarmed,"Unarmed
-This character is unable to use weapons. If attacked, they will defend themselves using their fists."
-hint_persons_militia,"Militia
-Recently drafted peasants and prisoners
+Anda dapat merekrut prajurit dari petani atau tahanan Anda, atau menyewa <hint=hint_persons_merc>tentara bayaran</hint> yang lebih berpengalaman dengan emas."
+hint_persons_unarmed,"Tidak Bersenjata
+Karakter ini tidak mampu menggunakan senjata. Jika diserang, mereka akan membela diri menggunakan tinju."
+hint_persons_militia,"Milisi
+Petani dan tahanan yang baru direkrut
 
-$ Possess minimal <hint=hint_skill_combat>Combat</hint> skills.
-$ Initially, they experience a strong fear of combat, which negatively affects their combat resilience. This fear diminishes over time.
-$ Freed prisoners partially compensate for this fear with the joy at their liberation."
-hint_persons_merc,"Mercenary
-Typically, mercenaries possess a high <hint=hint_skill_combat>Combat</hint> skill and are not afraid of death in battle.
+$ Memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint> minimal.
+$ Awalnya, mereka mengalami ketakutan kuat terhadap pertempuran, yang secara negatif memengaruhi ketahanan tempur mereka. Ketakutan ini berkurang seiring waktu.
+$ Tahanan yang dibebaskan sebagian mengkompensasi ketakutan ini dengan kegembiraan atas pembebasan mereka."
+hint_persons_merc,"Tentara Bayaran
+Biasanya, tentara bayaran memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint> tinggi dan tidak takut mati dalam pertempuran.
 
-$ You can hire them from the Army menu for gold, but they will need time to reach your settlement.
-$ Mercenaries come to you without any weapons, so don't forget to purchase the necessary weapons and armor from the Holy Caravan (or produce them yourself)."
-hint_persons_faceless,"Fighter of the Unholy Horde
-They do not wear armor and are armed with an axe. They fear nothing."
-hint_persons_builder,"Builders
-Builders construct buildings.
-You can hire them in the <hint=hint_bld_castle>Hall</hint> or at a <hint=hint_bld_store>Warehouse</hint>."
-hint_persons_criminal,"Vagabonds
-Unhappy unemployed peasants may simply leave your city, or they could become vagabonds and turn to <hint=hint_crime>crimes</hint>.
+$ Anda dapat menyewa mereka dari menu Militer dengan emas, tetapi mereka akan membutuhkan waktu untuk mencapai pemukiman Anda.
+$ Tentara bayaran datang ke Anda tanpa senjata apa pun, jadi jangan lupa membeli senjata dan zirah yang diperlukan dari Karavan Suci (atau produksi sendiri)."
+hint_persons_faceless,"Prajurit Unholy Horde
+Mereka tidak memakai zirah dan bersenjata dengan kapak. Mereka tidak takut apa pun."
+hint_persons_builder,"Tukang Bangunan
+Tukang bangunan membangun bangunan.
+Anda dapat menyewa mereka di <hint=hint_bld_castle>Aula</hint> atau di <hint=hint_bld_store>Gudang</hint>."
+hint_persons_criminal,"Pengembara
+Petani pengangguran yang tidak bahagia mungkin hanya meninggalkan kota Anda, atau mereka bisa menjadi pengembara dan beralih ke <hint=hint_crime>kejahatan</hint>.
 
 <img=hint_persons_criminal></img>
 
-Vagabonds will steal flour from warehouses, rob citizens on the streets, and even break into other peasants' homes. After a few days, they may become <hint=hint_persons_cuthroat>cutthroats</hint>.
+Pengembara akan mencuri tepung dari gudang, merampok warga di jalan, dan bahkan menerobos masuk ke rumah petani lain. Setelah beberapa hari, mereka mungkin menjadi <hint=hint_persons_cuthroat>pembunuh berantai</hint>.
 
-To combat crime:
-$ Deploy <hint=hint_persons_guard>guards</hint> to protect your settlement.
-$ Build <hint=hint_bld_scafod>Scaffolds</hint> to punish criminals.
-$ <hint=hint_terror>Terrorize</hint> the population to inspire obedience out of fear.
-$ ...Or simply prevent peasants from being <hint=hint_nt_unhappy>unhappy</hint> in the first place."
+Untuk melawan kejahatan:
+$ Kerahkan <hint=hint_persons_guard>garda</hint> untuk melindungi pemukiman Anda.
+$ Bangun <hint=hint_bld_scafod>Panggung Gantung</hint> untuk menghukum penjahat.
+$ <hint=hint_terror>Mengterrorisasi</hint> penduduk untuk menginspirasi ketaatan karena ketakutan.
+$ ...Atau cukup cegah petani menjadi <hint=hint_nt_unhappy>tidak bahagia</hint> sejak awal."
 hint_persons_fanatic,"Fanatics
 These are characters who are primarily devoted to <hint=hint_sofia_cult>Mother Sofia</hint>. Anyone can become a fanatic.
 

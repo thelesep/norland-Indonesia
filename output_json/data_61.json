@@ -1,0 +1,12 @@
+[
+  "After the War\nA protracted war has many consequences. One of them is an elevated level of combat skills and equipment among forest bandits, as many of them were once warriors.",
+  "Trade Decline\nA crisis always hits trade first. A recent epidemic has lowered the level of trade, and it's unclear when it will recover. You'd better rely on yourself.\n\nThe Holy Caravan arrives with only a 25% chance, but it will show up no less than once every 5 days.",
+  "Strength in Numbers\nPeasants and prisoners have decided that no one will protect them better than themselves.\n\nAs a result, all migrants and prisoners start with a combat skill of 5-10.",
+  "Fast Metabolism\nThe lives of characters unfold at twice the speed: one in-game day equals one year of life (by default, one year of life corresponds to two in-game days).\n\nThis also speeds up the acquisition of experience and some other aspects.",
+  "The Unholy Horde\nShortly after the start of the game, the <b>Unholy Horde</b> will appear on the map - a formidable opponent that will burn down all cities in its path.\n\nYou cannot negotiate with the Horde; you can either defeat it, or try to <b>survive for {duration_days} days</b>, after which it will disappear on its own.\n\nUnite your neighbors under your rule or make them stronger through trade and defensive alliances - or pray that you won't become the Horde's target.\n\n<b>Hint:</b> When choosing your starting province, keep in mind that the <b>Unholy Horde appears in the forests to the northwest</b>, so the closer you are to that region, the more danger you'll be in.",
+  "No crisis\nPlay a free game where crises don't occur.",
+  "Ambitions\n<b>Conqueror</b>\nYour ruler has announced that during their reign, the <hint=hint_tutorial_states>state</hint> will expand by <b>{vas_num} vassal or allied provinces.</b>.\n\nCurrent progress: <b>{progress}%</b>",
+  "Ambitions\n<b>Fertile.</b>\nYour ruler has declared that under their reign, the population of your province will reach <b>{pop_num} people.</b>\n\nCurrent progress: <b>{progress}%</b>",
+  "Ambitions\n<b>Economic</b>\nYour king has declared that during his reign, the daily production of goods will reach a value of <b><hint=hint_resource_gold>{prod_num}</hint> per day</b>.\n\nCurrent progress: <hint=hint_resource_gold>{current_gold}</hint><b> <b>({progress}%)</b>)",
+  "Stolen books:\n{list}"
+]

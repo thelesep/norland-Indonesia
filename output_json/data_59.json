@@ -1,0 +1,12 @@
+[
+  "Defender of Order\n$ Dislikes kings who tolerate forest bandit camps in their province and those who interact with them.\n$ Appreciates those who destroy bandit camps.",
+  "Impressionable\n$ Carries twice as much disdain for the enemies of his friends compared to other kings.",
+  "Liberator\n$ Dislikes kings whose population is made up of 50% or more prisoners.\n$ Appreciates those who have no prisoners at all.",
+  "Egalitarian\n$ Despises suzerains and sympathizes with vassals.",
+  "Scholar\n$ Respects kings whose Intelligence skill surpasses his own.",
+  "Locked\n{optional_description}\n{optional_culture}\n\n{optional_lock_condition}",
+  "Filter\n<bcenter>{filter}</bcenter>",
+  "Average Production\nShows how much one worker will produce, assuming the managing lord has a <hint=hint_skill_management>Management</hint> skill of 10, and the distance to the workplace and <hint=hint_bld_store>Warehouse</hint> is such that the commute takes about an hour (thus making the net working time approximately 7 hours).\n\nFor <hint=hint_bld_woodcutter>Lumbermills</hint> and <hint=hint_bld_forester>Herbalists</hint>, it is also necessary to consider the distance to the logging and harvesting areas, which changes as resources are collected.\n\nThe calculation also does not take into account bonuses from <hint=hint_persons_slave>prisoners</hint>, <hint=hint_addict>nectar addicts</hint>, and <hint=hint_loyalist>loyalists</hint>.",
+  "~\nOne worker <hint=hint_building_production_average>can</hint> produce:\n$ {average_production_resource}",
+  "~\nThree workers <hint=hint_building_production_average> can </hint> produce:\n$ {average_production_resource}"
+]

@@ -1,0 +1,12 @@
+[
+  "~\n{faction_uuid_1} has become a vassal of King {soul_uuid_king_2} from {faction_uuid_2}.",
+  "~\nThe capital of {faction_uuid_target} has been successfully attacked by the army of {faction_uuid_attacker}.",
+  "~\nThe capital of {faction_uuid_target} has been unsuccessfully attacked by the army of {faction_uuid_attacker}.",
+  "~\nThe village of {faction_uuid_target} has been burned down by the army of {faction_uuid_attacker}.",
+  "~\nThe bandit camp in the territory of {faction_uuid_bandit_area} has been destroyed by the army of {faction_uuid_attacker}.",
+  "~\nThe bandit camp in the territory of {faction_uuid_bandit_area} has been unsuccessfully attacked by the army of {faction_uuid_attacker}.",
+  "~\nKing {soul_uuid_king_1} of {faction_uuid_1} has joined the alliance of free cities led by {soul_uuid_king_2} of {faction_uuid_2}, in the face of a threat from {faction_uuid_3}.",
+  "~\nThe king {soul_uuid_king} from {faction_uuid} has subjected a third vassal!",
+  "~\n$ {soul_uuid_king} from {faction_uuid}",
+  "Enemies\nThere is a chance he will participate in a conflict against his enemy."
+]

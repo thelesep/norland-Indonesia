@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nWhat could be better than a good fight?\n\nReason: Character trait - Bloodthirsty.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI saw the blood spill... Oh yes, it was glorious!\n\nReason: Character trait - Bloodthirsty.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI'm the richest in the family, and there's nothing better than this feeling!\n\nReason: Has the Greedy trait and owns the most <hint=hint_resource_rune>Holy Rings</hint> among the family members.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI am happy to live in abundance! This city is the best on Earth!\n\nReason: <hint=hint_rich>Material wealth</hint>.",
+  "[hint_mind_caption]\nI know, Holy Sophia loves me! This pain is her blessing!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
+  "[hint_mind_caption]\nThis is unworthy of a lord...\n\nReason: Sex with a peasant.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI know {name} was against this!\n\nReason: Close one was coerced into sex.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nBut now there's enough money for a long time...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt hurts, but my honor is preserved!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nWhat could I have done against violence?\n[hint_mind_remain_time]"
+]

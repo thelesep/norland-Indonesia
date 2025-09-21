@@ -1,0 +1,12 @@
+[
+  "{hint_vshi}",
+  "Inborn traits\nThese traits are randomly assigned to a character at birth and cannot be changed.",
+  "~\nReason: <hint=hint_genetics_desc>Inherited</hint> trait",
+  "Beautiful\nIncreases <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.",
+  "Attractive\nIncreases <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.",
+  "Unattractive\nReduces <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.",
+  "Homely\nReduces <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.",
+  "Early balding\nThere is a high chance of experiencing <hint=hint_baldt>baldness</hint> earlier than usual.",
+  "Mental impairment\n- 50% of experience gained from <hint=hint_learning>learning</hint>, but with a constant positive thought.",
+  "Difficult childbirth\nThere is a higher chance of death during childbirth."
+]

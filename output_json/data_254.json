@@ -1,0 +1,12 @@
+[
+  " ",
+  "Criminal  \nA character who was caught and <hint=hint_persons_slave>captured</hint> by the <hint=hint_persons_guard>patrol guards</hint> at the time of committing a crime.\n\nThey may be subjected to a fair punishment on the <hint=hint_bld_scafod>Scaffold</hint> for the amusement of the honest citizens of the city, or continue to exist as a prisoner.",
+  "Prisoner Terror\nThe safest way to entertain townspeople with executions without troubling their conscience.\n\nConsequences:\n$ Three acquaintances of the executed prisoner will receive a strong negative thought.\n$ Discontent among the prisoners will increase, which may lead to their <hint=hint_slave_riot>rebellion</hint>.",
+  "[hint_mind_caption]\nRumors of crimes in the city make me nervous. I hope the king will deploy additional patrols!",
+  "History of Philosophy\nAllows the performance of a <hint=hint_sermon_agnostic>sermon of doubt</hint>.",
+  "[hint_mind_caption]\nWhat could be worse than spending the night on damp ground? My whole body aches, and I'm chilled to the bone!\n\n<b>Hint:</b>\n$ The character slept on the ground. If there aren’t enough resources for housing, build a Temple, where, following the ancient tradition of hospitality, the homeless can spend the night.",
+  "Sermon of Joy\nBelievers pray together and receive a boost of good spirits for a day, as Mother Sophia is among them.\n{optional_preach_cost}",
+  "Unavailable\nFor this, you need to study <hint=hint_tech_philosophy_history>History of Philosophy</hint>.",
+  "Unavailable\nSermons can only be held with the <hint=hint_bishop>Bishop’s</hint> blessing, but he is not in the city.",
+  "Duelist\nThis character can provoke duels and is skilled in fights. Be cautious if he appears in your province."
+]

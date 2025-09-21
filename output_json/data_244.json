@@ -1,0 +1,12 @@
+[
+  "Burst of Resolve\nThe lord will hunt a fleshwolf alone.",
+  "Burst of Resolve\nThe lord is determined to rob another lord’s house. A conflict with the owner is possible!",
+  "Burst of Resolve\nThe lord gifts a present to a random lord.",
+  "Burst of Resolve\nTo make a friend, the lord will spend time with a random lord.",
+  "Burst of Resolve\nThe lord will try to seize another lord’s home by force.",
+  "Scholar\nThe lord with the highest <hint=hint_skill_knowledge>Intellect</hint> skill in the province. They are the ones who hold most of the <hint=hint_idea>knowledge</hint>, including unique pieces.\n\nYou can engage in a Wise Conversation with them to obtain this knowledge or kidnap them.",
+  "Knowledge from Neighbors\nNeighboring cities often possess unique <hint=hint_idea>knowledge</hint> that can be obtained through various means.  \n\n<img=hint_encyclopedia_global_knowledge></img>  \n\nTo see the list of knowledge available, hover over the book icon at the top of this province's menu on the world map. The list displays only the knowledge that your lords are unfamiliar with, making it particularly valuable to them.  \n\nThis knowledge is primarily held by the province's most intelligent lord - the <hint=hint_part_of_nature_philosoph>scholar</hint>. You can see this status in their hint.  \n\nTo acquire this knowledge, you can:  \n$ Befriend the scholar-lord and engage in a wise conversation - either in their home province or by inviting them to visit.  \n$ Kidnap the scholar-lord and force them to write <hint=hint_book>books</hint> (via the <hint=hint_action_shadow>dark deeds</hint> menu).  \n$ Use the dark deeds menu to organize a library robery. Among the stolen books, there will always be 1-2 unique ones.  ",
+  "Protection of the Loving Family\nRequest <hint=hint_holy_protection>protection</hint> from the Loving Family.\n\n<b>As a result:</b>\n$ Protection will last for {days} days\n$ <hint=hint_relations_matriarch>Matriarch</hint>'s opinion: <red>-{rel_de}</red>\n\n<b>Cost:</b> <hint=hint_resource_rune>{cost}</hint>",
+  "Repent\nConfess hatred to the Bishop.\n\nThe character will receive forgiveness, their heart will be filled with peace, and they will forgive all their enemies.\n\n<b>As a result:</b>\n$ Relations with all enemies: <green>+{rel_inc}</green>\n\n<b>Cost:</b> <hint=hint_resource_rune>{cost}</hint>\n\nList of enemies:\n{enemies_list}",
+  "Unavailable\nThis lord has no enemies; their heart is pure."
+]

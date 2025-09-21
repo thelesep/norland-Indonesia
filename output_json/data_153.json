@@ -1,0 +1,12 @@
+[
+  "~\nIt appears you do not value the lives of your subjects; otherwise, you would have paid me tribute. Well, if that's your choice, here I come!",
+  "~\n$ Your relationship has deteriorated by <red>{demand_tribute_rel_de}</red>.",
+  "~\nIn any case, this is an aggressive action:\n$ Relationship with {soul_uuid_king}: <red>{demand_tribute_rel_de}</red> and you may become <hint=hint_faction_relations_enemy>enemies</hint>.",
+  "Politely demand tribute\nInform {soul_uuid_king} that you expect from them <hint=hint_resource_gold>{tribute_money}</hint> in exchange for your good relationship.\n\n{optional_change_relations_with_owner}\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]\n{optional_duty_of_honor}",
+  "~\n$ {soul_uuid_king} is offended, but sends <hint=hint_resource_gold>{tribute_money}</hint>.\n{optional_changed_relations_with_owner}\n{optional_holy_defence_will_removed}\n{optional_duty_of_honor_complete}",
+  "~\n$ {soul_uuid_king} responds that your demand is deeply offensive.\n$ Your relationship has worsened to <red>{demand_tribute_rel_de}</red>.\n{optional_holy_defence_will_removed}",
+  "~\nOnly the wicked take everything, leaving children and the elderly without bread. But fate is like the bones cast by the Holy Mother. The day will come when you lose everything, and they will congratulate me on victory!",
+  "~\nBelittling a neighbor brings little benefit, and you may not realize this now. But my memory never erases insults, and to exact revenge on the likes of you brings me sheer pleasure.",
+  "~\nDo you think you can intimidate me? My ascension to the throne was no accident, unlike yours. Come, then, try and take my gold!",
+  "~\nIn your dreams, you hear the jingle of coins - wake up! The only thing you'll see in reality is my sword, you cowardly wretch!"
+]

@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nIt seems we're poorly guarded...\n\nReason: The ratio of the number of soldiers to prisoners.",
+  "[hint_mind_caption]\nWhat if we organize an escape?\n\nReason: The ratio of the number of soldiers to prisoners.",
+  "[hint_mind_caption]\nWe outnumber the warriors!\n\nReason: The ratio of the number of soldiers to prisoners.",
+  "[hint_mind_caption]\nCursed smallpox... How painful!\n\nEven if I survive and don't go blind, these damned scars will remain!\n\n<b>Hint:</b> In the main tab, in the Conditions section, you can see the current stage of the disease.",
+  "[hint_mind_caption]\nI hate fighting and commanding! Violence only brings evil!\n\nReason: <hint=hint_pacifist>Pacifist</hint>",
+  "[hint_mind_caption]\nWe were afraid of the enemy... What a shame!\n\nReason: Retreat before the battle.",
+  "[hint_mind_caption]\nOur king has gone mad and has challenged the authority of the Matriarch!\n\nThe Inquisition will burn this city to the ground, and we will burn in hell!\n\nReason: The coronation of the emperor.",
+  "[hint_mind_caption]\nThe king has decided to challenge the Church and proclaim himself the new emperor.\n\nWell, death awaits us all! I hope it won't involve eternal suffering...\n\nReason: Reaction of an <hint=hint_persons_agnostic>agnostic</hint> to the coronation of the emperor.",
+  "[hint_mind_caption]\nThe beloved king has finally decided to proclaim himself emperor! I've waited for this my whole life!\n\nThough the Inquisition will probably kill us all... But there is a slight hope!\n\nReason: Reaction of a <hint=hint_loyalist>loyalist</hint> to the coronation of the emperor.",
+  "[hint_mind_caption]\nOur holy king has proclaimed himself emperor!\n\nSince he is not afraid of the Inquisition, he must be the true prophet, for whom I am ready to die!\n\nReason: Reaction of a <hint=hint_persons_fanatic>fanatic</hint> to the coronation of the holy emperor."
+]

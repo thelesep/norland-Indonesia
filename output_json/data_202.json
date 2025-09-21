@@ -1,0 +1,12 @@
+[
+  "~\nAlliances are built on trust, and you know this well. There is no place for the dishonorable, so you are now excluded. I must learn to be better at judging people.",
+  "~\nIt would be better to appoint a bastard to your position, and he would be a more worthy ruler. Know that our alliance is dissolved, and there is no turning back. I cannot walk the same path as a traitor. You will not survive on your own, and for that, I am glad!",
+  "~\nAs a result of a successful assault, {soul_uuid_king} was defeated and forced to break all his agreements.\n\nYour warriors return home victorious.",
+  "~\nYou lost the battle and {soul_uuid_king} proved to be too strong for you. All his political agreements remain in force.",
+  "~\n<red>ATTENTION! {soul_uuid_king} is a member of the alliance {soul_uuid_king_leader} from {faction_uuid_sir}!</red>\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
+  "~\n\n<b>Ally's responsibilities</b>\n$ If you fail to send aid, they will consider it betrayal and greatly worsen their opinion of your king. If relations deteriorate too much, <red>they may withdraw from the alliance</red>. Neighbors and other allies will also be unpleasantly surprised.",
+  "~\n<red>You betrayed an ally.</red>\n\n$ The attitude of {soul_uuid_king} toward you: <red>{rel_defence_alliance_not_help}</red>\n$ The attitude of your neighbors and other allies toward you: <red>{rel_defence_alliance_broken_neighbore}</red>",
+  "~\n{soul_uuid_king} has decided to leave the alliance as their relationship with you has become hostile.",
+  "~\nRemaining in an alliance with you, just waiting for you to betray me, is something I am not prepared for. If our relations cannot be mended, then let each of us go our separate ways.",
+  "~\nI know that vengeance is stronger even than the fear of death. No alliance with you can protect me from your hatred. I choose to sever it; let us rather admit to each other that we are enemies, not allies."
+]

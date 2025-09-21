@@ -1,0 +1,12 @@
+[
+  "Knowledge\nYou cannot see the knowledge of an incognito character.",
+  "Precise language\nEnables clerks to conduct inspections in {minutes} minutes and connect up to {counts} buildings to the <hint=hint_bld_chancellery>Chancellery</hint>",
+  "Auto-assign\nWhen constructing a new building, its manager will automatically be appointed a clerk from this Chancellery.",
+  "Building constructed  \nThe building {building_name} has been constructed.  \n\nA clerk from the <hint=hint_bld_chancellery>Chancellery</hint> has been assigned to it (you can change the auto-assignment in the Chancellery menu).",
+  "The building has been built\nThe building {building_name} has been built. \n\nDon't forget to assign an inspector!",
+  "Education Suspended\n{soul_uuid_teacher} has suspended the education of {soul_uuid_target} due to poor relations with {soul_uuid_king}.\n\nImprove your ruler’s relations with the Bishop to request that he resume the education.",
+  "No ragged ones\nRagged ones are bands of weak but numerous enemies that occasionally attack your city without warning, forcing you to consider risks, maintain a garrison, and build defensive structures.\n\nSelect this modifier if you want to disable such attacks. You'll get a more controlled but less thrilling gameplay experience.",
+  "Inheritance Transfer\n{soul_uuid_dead} is no longer with us, and their closest relative, {soul_uuid_heir}, inherits their property.\n\nInheritance amount: <hint=hint_resource_rune>{amount}</hint>",
+  "Warrior Training\n{skill_name}: {skill_level}\nFor each hit received during training, the warrior will gain {exp_boost} experience points in the <hint=hint_skill_combat>Combat</hint> skill.  \n\n{skill_name_limiter}: {skill_level_limiter}\nThe maximum Combat skill level that warriors can achieve: {skill_level_limiter}.",
+  "Training is not available  \nMany warriors can no longer gain experience from training because they have reached the <hint=hint_skill_combat>Combat</hint> skill level of the inspector."
+]

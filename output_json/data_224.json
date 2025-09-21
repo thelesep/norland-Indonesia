@@ -1,0 +1,12 @@
+[
+  "Sending help\nForm a squad and send them to help.\n\n$ They will participate in the upcoming battle and then return home.",
+  "Call for help\n{optional_type_of_danger}\n\nYour troops have come as reinforcements to the village of {village_name} and will remain in the town for 3 days or until the first battle.",
+  "The danger is behind us\n{village_name} is now safe, as the enemy has changed their plans and is no longer going to attack it. Your troops are on their way home.",
+  "[hint_mind_caption]\nI know that Mother Sophia welcomes everyone into her embrace, but it's so sad when those who we loved are no longer with us!\n\n{name}, I will always remember you!",
+  "[hint_mind_caption]\nMay the flame of the candle I lit at your grave ease the pain of loss!\n\n{name}, I will always remember you!",
+  "Grave\nThe grave of a deceased lord with a memorial tombstone.\n\nFor those who were close with the deceased, visiting the grave helps them cope with sad memories.",
+  "Impossible to demolish\nA building cannot be demolished while it's on fire",
+  "Impossible to demolish\nA building cannot be demolished while there are enemies in town",
+  "[hint_mind_caption]\nIt feels so good, to visit the grave of my enemy and experience that joy once again!",
+  "This action is impossible\nYou cannot perform this action while your army is in this town"
+]

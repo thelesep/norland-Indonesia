@@ -1,0 +1,12 @@
+[
+  "No gold\nNeed more gold to build",
+  "~\n$ This desire is a <hint=hint_desire_dream>dream</hint>.",
+  "~\n$ This desire is an <hint=hint_desire_obsession>obsession</hint>.",
+  "Unavailable\nThis ambition has already been fulfilled",
+  "Relatives have worsened the relations\nAs a result of events, during which the character {soul_uuid_suffered} suffered, the relatives from their hometown have worsened their attitude towards your King, as they believe he is responsible for the well-being of all his subjects.\n\nList of relatives:\n{relatives_list}",
+  "Manager is not making it in time\nThe manager assigned to the Chancellery is not able to reach it in time to issue instructions to the clerks. Most likely, he is also assigned as a manager in other buildings, which leaves him short on time.\n\nCheck which buildings he is assigned to and cancel those assignments, leaving only the Chancellery, as it requires a full day’s work.\n\n<b>Hint:</b> Assigning clerks instead of having the lord manager personally visit it will not affect the building’s efficiency",
+  "Unable to move\nYou cannot move a building while enemy units are in the city",
+  "New Nickname\nDue to a rather obvious penchant for alcohol, character {soul_uuid} has received nickname “{nickname}\".",
+  "New Nickname\nDue to a rather obvious penchant for nectar, character {soul_uuid} has received nickname “{nickname}\".",
+  "New Nickname\nAs a result of displaying cowardice in battle, character {soul_uuid} has received nickname “{nickname}\"."
+]

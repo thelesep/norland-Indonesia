@@ -1,0 +1,12 @@
+[
+  "Lord experiencing a nervous breakdown\nWhile the lord is having a nervous breakdown, they cannot be sent away.",
+  "Lord unable to walk\nWhile the lord is unable to walk, they cannot be sent away.",
+  "Lord is still a child\nUntil the lord reaches {adulthood_age} years old, they cannot be sent away.",
+  "Lord is still a child\nUntil the lord reaches {adulthood_age} years old, they cannot be influenced.",
+  "Not suitable for the task\n<b>Free lords</b> cannot be given this task.",
+  "Low skills\nThe lord does not possess sufficient skills for this task.",
+  "Lord in captivity\nThe lord is in captivity, so they cannot be assigned to tasks.",
+  "Lord missing without a trace\nThe lord is missing without a trace - we need to wait for several days until they return.",
+  "Lord unable to walk\nThe lord cannot walk and therefore cannot leave the city.",
+  "Lord is still a child\nLords under {adulthood_age} years old cannot be invited as a guest."
+]

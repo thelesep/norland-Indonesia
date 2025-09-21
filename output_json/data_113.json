@@ -1,0 +1,12 @@
+[
+  "Hate\nWhen one character’s relationship with another falls below <red>-25</red>, they start to feel hatred. This may end in murder, leaving you with one corpse and one criminal hated by the entire family.\n\n<img=hint_tutorial_hate></img>\n\n$ <hint=hint_tutorial_relations_tab>Check the social thoughts</hint> that led to the hatred. For instance, if one lord envies another for having many <hint=hint_resource_rune>Holy Rings</hint>, you can reward the first one or take away some rings from the other to reduce the difference.\n$ If you can catch this lord in a good mood, use that moment to invite them to spend time or go hunting with their rival. If one of them is not too angry with the other, they might reconcile.\n$ Try scheduling lessons for them. The student will gradually improve their attitude towards the teacher.\n$ In extreme cases, you can arrange a <hint=hint_duel>duel</hint>. Duels can result in the death of either combatant, but even if both lords survive, the desire to kill will be removed when the duel is over.\n$ And in case your lord is hated by the <hint=hint_bishop>Bishop</hint>, the lord can always <b>beg for forgiveness</b>.",
+  "Thought",
+  "~\n{optional_remain_time_hours}",
+  "[hint_mind_caption]\nI have been <hint=hint_speech_insult>insulted</hint> and I feel humiliated!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI doubt that Mother Sophia truly created this cruel world...\n\nReason: <hint=hint_persons_agnostic>Agnostic</hint>.",
+  "[hint_mind_caption]\nI feel confident under the <hint=hint_skill_command>command</hint> of a commander like {name}.",
+  "[hint_mind_caption]\nWe had better run before it's too late!",
+  "[hint_mind_caption]\nWhat should we do? Victory appears out of reach for us!",
+  "[hint_mind_caption]\nThey are about to be defeated!",
+  "[hint_mind_caption]\nJust a little more, and they will run away too!"
+]

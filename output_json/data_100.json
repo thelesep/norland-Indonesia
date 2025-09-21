@@ -1,0 +1,12 @@
+[
+  "Fearlessness\nThis character knows no fear and will not flee from battle.",
+  "Blessing\nThe Matriarch officially grants your ruler her blessing. It will influence the minds of the people for a while.  \n\n$ Your ruler will not suffer from sins.  \n$ <hint=hint_persons_fanatic>Fanatics</hint> among your peasants will be ready to join your army (Army recruitment menu).  \n$ The relations of all lords with ruler will improve, and the subjects will become happier.\n\nYou need to study <b>Sanctity of Power</b> to justify the request for a blessing.",
+  "Forecaster\nThanks to their special knowledge of trade language, this character gathers rumors from the Holy Caravan about upcoming price changes for certain goods.\n\nThe forecast comes in the form of a notification after each visit to the Holy Caravan.",
+  "Precise Language\nWhen this character is in charge of the Chancellery, their ability to explain production tasks in exceptionally precise and clear language eliminates the need for <hint=hint_resource_paper>Paper</hint>.",
+  "Poisoner\nThis character can poison someone, either by the order of the king or on their own whim. If everything goes well, no one will suspect anything. However, in case of failure, the target may start a fight to the death with the poisoner.\n\nThe probability of failure depends on the difference in the <hint=hint_skill_knowledge>Intelligence</hint> skill between the interacting characters.",
+  "Insightful\nWhen teaching, this character has a 5% chance of recognizing a new <hint=hint_talant>talent</hint> in their student (provided the student has no other talents).",
+  "City Defender\nThe Command skill of this lord inspires members of his squad when defending their town, doubling their <hint=hint_pain_level>pain threshold</hint> and <hint=hint_moral_level>bravery</hint>.",
+  "Head Chopper\nDuring combat, this character has a much higher chance of decapitating opponents.\n\nHand-to-hand combat and shield strikes are not included in this ability.",
+  "Charismatic\nThis character has a +{bonus} bonus to <hint=hint_interest>interest</hint> from the opposite sex and can freely visit enemy cities.\n\nAlso does not receive a negative thought when seducing someone in the interest of the king.",
+  "Diplomat\nThis character has the ability to convince any enemy king to forget all grievances and return to a normal level of relations."
+]

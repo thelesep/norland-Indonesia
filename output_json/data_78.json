@@ -1,0 +1,12 @@
+[
+  "Vagabonds\nThese warriors were previously <hint=hint_persons_criminal>vagabonds</hint>, so military discipline causes them to suffer.\n\nThis may affect their <hint=hint_moral_level>bravery</hint> in battle.",
+  "Lord Missing\nAfter the defeat, the lord managed to escape from the battlefield, but their fate is unknown.\n\nThe situation will become clear in 2 days.",
+  "Unavailable\nNo manager appointed in the <hint=hint_bld_chancellery>Chancellery</hint>",
+  "Declare Yourself Emperor\nProclaim yourself the Emperor of Norland and challenge the <hint=hint_synode>Loving Family.</hint>\n\n<b>Hint:</b> By choosing this action, there will be no turning back, and you will begin the final trial in which you must defeat the punitive army of the <hint=hint_inqusitors>Inquisition</hint>. If you win the battle, you win the game.",
+  "Unavailable\nA sacred place is required for the ceremony - for example, an Altar or a Temple.",
+  "The Inquisition is on the way\nThe Matriarch and the entire <hint=hint_synode>Loving Family</hint> lament your fall into sin and blasphemy. They send the Strict Father to cleanse you with fire.\n\nSoon, the <hint=hint_inqusitors>Inquisition</hint> squads will arrive in your city, and the survivors will be forgiven.",
+  "All inhabitants\n\n{details_stack}",
+  "City Storage\nAll resources that are in your city's storage and available to you.",
+  "Resources in Inventories\nResources in the storage of production buildings and in the inventories of characters, including the weapons carried by warriors and lords.",
+  "Resources Produced\nThe amount of resources that have been produced and gathered throughout the day."
+]

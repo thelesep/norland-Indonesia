@@ -1,0 +1,12 @@
+[
+  "Daytime Patrol\nMarks the area of daytime <hint=hint_persons_guard>patrolling</hint>.\n\nPosition patrol banners near production sites where prisoners work to prevent their escape, as well as places where lumberjacks and herbalists work to protect them from fleshwolf attacks.\n\nGuards from among your warriors will automatically go on patrol during <b>daytime</b>.",
+  "They brought tribute\nThe village chief of {village_name} has brought tribute. He will now deliver it to your warehouse.\n{optional_resources}",
+  "Box\n{resources}",
+  "Unavailable\nThe Chancellery can serve {limit} productions.",
+  "Approve\nCulture approves of the king's actions.",
+  "Wise Conversation\nA conversation takes place during which the character shares knowledge, provided the interlocutor has a sufficient Intelligence skill level.\n\nRequired Intelligence skill level:\n$ Basic knowledge (gray): level {var_1}\n$ Advanced knowledge (green): level {var_2}\n$ Superior knowledge (purple): level {var_3}\n\nOne random piece of knowledge is shared at a time, from simpler to more complex.\n\n<b>Additionally:</b>\n$ A character with the \"Enlightener\" trait can share any knowledge with anyone without restrictions, but their conversation partner may convert to their culture.\n$ If the character is <hint=hint_oldman>elderly</hint>, they will share two pieces of knowledge at once.\n\n<b>Hint:</b> You can invite friendly characters from other cities (or abduct them) to gain valuable knowledge — for example, knowledge from other cultures.",
+  "Not available\n{soul_uuid_1} has a low opinion of {soul_uuid_2}.\ncurrent: {opinion}\nrequired: {threshold}",
+  "The character is insane\nThe character is in a state of insanity and cannot perform this action.",
+  "The character is insane\nThe character is in a state of insanity and cannot perform this action.",
+  "Senility\nThe warrior is currently lost to madness."
+]

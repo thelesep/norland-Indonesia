@@ -1,0 +1,12 @@
+[
+  "~\nSuccess depends on the {skill_name_1} and {skill_name_2} skills of the actor.\n\n{soul_uuid_performer} :\n{skill_name_1} {skill_level_1} lvl.\n{skill_name_2} {skill_level_2} lvl.\n\n$ Chances of success: {chances}%\n{optional_puppets_bonus}\n\n<b>Cost:</b> <hint=hint_resource_gold>{price}</hint>",
+  "Lord's assassination\nHiring local cutthroats to assassinate a chosen lord.\n\n$ If successful, the lord will be killed.\n\nIn case of failure:\n$ Relationship with {soul_uuid_king}: <red>{rel_de_assassinate}</red>\n$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]",
+  "Order an assassination\n[hint_bandits_description]\n{optional_holy_defence_will_removed}",
+  "The assassination was successful!\n{soul_uuid_assassinate_target} was stabbed to death in their own bed at night.",
+  "The assassination has failed\n{soul_uuid_assassinate_target} managed to defend themselves against the hired assassins, and all of them were killed.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_assassinate}</red>\n$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>\n{optional_holy_defence_will_removed}",
+  "Kidnapping a lord\nHire local cutthroats to kidnap the selected character and bring them to your settlement.\n\n$ If successful, the character becomes a captive and will be delivered to your settlement.\n\nIn case of failure:\n$ Relations with {soul_uuid_king}: <red>{rel_de_kidnap}</red>\n$ Relationship with the Matriarch: <red>{rel_de_neigh_kidnap}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]",
+  "Ordering a kidnapping\n[hint_bandits_description]\n{optional_holy_defence_will_removed}",
+  "The kidnapping was successful!\n{soul_uuid_kidnap_target} has been captured and will soon be delivered to your settlement.",
+  "The kidnapping attempt has failed\n{soul_uuid_kidnap_target} defended themselves against the hired cutthroats, and all of them were killed.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_kidnap}</red>\n$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>\n{optional_holy_defence_will_removed}",
+  "Hall robbery\nHire cutthroats to rob the local treasury and bring you <hint=hint_resource_gold>Gold</hint>.\n\nIn case of failure:\n$ Relations with {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>\n$ Relationship with the Matriarch: <red>{rel_de_gold_stealer_neigh}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]"
+]

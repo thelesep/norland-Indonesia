@@ -1,0 +1,12 @@
+[
+  "~\nAfter a successful attack, {soul_uuid_king} suffered a defeat, and his city was looted to the tune of <hint=hint_resource_gold>{tribute_money}</hint>.\n\nYour troops return home victorious and with plunder.",
+  "~\nYou lost the battle, and {soul_uuid_king} proved that you are not up to the challenge.",
+  "~\nYou did not show up for the assault, and now your king will be considered a coward.\n\n$ Relationship with neighbors and {soul_uuid_king}: <red>{rel_coward}</red>.",
+  "~\nValor commands respect, and you fought bravely. You have earned my admiration but not my honor. I know that we will meet again on the battlefield, for to be remembered as a loser among one's peers is exceedingly perilous, and you are well aware of this too.",
+  "~\nYou have won, but it was fortune that stood behind you, and it alone brought you victory. At heart, you are timid, and thus not a threat. Allow me to gather strength, and soon your kingdom will be but a memory, one that will fade with time.",
+  "~\nWould you like to discover the taste of victory? It's like sipping chilled wine on a scorching day! Rest assured, this is neither my first nor my last triumph over you, for how can one pass up the opportunity to savor fine wine?",
+  "~\nVictory does not warm my heart as much as the sight of your fallen warriors' lifeless bodies. I have never witnessed a more cowardly army. Your military tactics will surely inspire our jesters; I am absolutely certain of it.",
+  "~\nI feel even braver knowing that I'm surrounded by cowards. Rumors of your cowardice will spread faster than echoes in the mountains!",
+  "~\nCowardice is a vice, and you, my friend, have proven to be more depraved than most. Truly, I never expected such timidity from you. It is remarkable and strange that people like you wear a crown.",
+  "Waiting for a response\n{soul_uuid_king} is pondering your threat of looting.\n\nHe will respond soon.\n\n$ Relationship with {soul_uuid_king}: <red>{assault_fair_rel_de}</red>\n{optional_holy_defence_will_removed}"
+]

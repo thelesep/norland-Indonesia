@@ -1,0 +1,12 @@
+[
+  "Technology\nReduces the amount of food required for pigs by {pigs_feed_down_percentage}%.\n",
+  "Technology\nReduces the consumption of <hint=hint_resource_instruments>Tools</hint> when repairing buildings by {tools_down_percentage}%.",
+  "Technology\nReturns {return}% of the resources saved during production at the end of the day.",
+  "Technology\nPrevents the building from breaking down.",
+  "Technology\nPrevents the building from catching fire.",
+  "Technology\nEliminates accidents and illnesses in the workplace.",
+  "Technology\nSpeeds up the construction of all buildings by {building_speed_down_percentage}%.",
+  "Technology\nReduces the consumption of <hint=hint_resource_wood>Wood</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
+  "Technology\nReduces the consumption of <hint=hint_resource_iron>Iron</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
+  "Technology\nWhen learned, grants {number} experience in skill {skill_name}."
+]

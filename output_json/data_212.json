@@ -1,0 +1,12 @@
+[
+  "[hint_advisor_caption]\nRelations with King {soul_uuid} from {faction_uuid} have fallen below <red>-25</red> and you are now in a state of war. You can raid his villages, compel him to vassalage, and undertake other aggressive actions (except for burning down the city).\n\nAnd he'll behave likewise.\n\nIt is time to compare your armies.\n\n<b>HINT:</b> If you don't want to fight, you can try to negotiate a <b>peace treaty</b> with him.",
+  "[hint_advisor_caption]\n[hint_nt_slaves_starving]",
+  "[hint_advisor_caption]\n[hint_nt_dummy_low_food]",
+  "[hint_advisor_caption]\n[hint_nt_notenough_tavern]",
+  "[hint_advisor_caption]\n[hint_nt_notenough_temple]",
+  "[hint_advisor_caption]\n[hint_nt_notenough_barraks]",
+  "[hint_advisor_caption]\nMore than 30% of your population are suffering from <b>rtabaga typhus</b>. This is a deadly disease that can result from consuming raw <hint=hint_resource_rutabaga>Rutabaga</hint>.\n\nTo prevent a decline in population, it's better to start start distributing <hint=hint_resource_food>Flour</hint> as soon as possible instead of Rutabaga.",
+  "[hint_advisor_caption]\n{soul_uuid} is at risk of death from an infected wound in the next two days.\n\nTo prevent this, the character needs to apply <hint=hint_resource_med>Medical Salve</hint> to the wound.\n\n$ Lords themselves pick up medicine from the warehouse and use it if they can walk.\n$ Servants bring medicine to the homes of those lords who cannot walk.",
+  "[hint_advisor_caption]\nYour soldiers have infected wounds, which may lead to death in the next two days.\n\nTo prevent this, the character needs to apply <hint=hint_resource_med>Medical Salve</hint> to the wound.\n\n$ The warriors will automatically take the medicine from the warehouse and apply it for free as soon as they are able to walk\n\nSoldiers with infected wound {soldier_count}",
+  "[hint_advisor_caption]\n{soul_uuid} has almost completed their contract.\n\nYou can sign another contract with them after the current one is finished. Or bestow upon them the <hint=hint_title>title</hint> of your noble house - then this lord will become part of the family."
+]

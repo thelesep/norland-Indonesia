@@ -1,0 +1,12 @@
+[
+  "Fleshwolves around our city\nAs long as our city is surrounded by a pack of fleshwolves, no one can enter or leave. \nOur army must deal with them, or we will have to wait until the pack disperses.",
+  "Fleshwolves around this city\nAs long as this city is surrounded by a pack of fleshwolves, no one can enter or leave.\nSomeone's army must deal with them, or we will have to wait until the pack disperses to interact with this province.",
+  "Migration has already been increased\nIt will only be possible to increase it again after {days} days.",
+  "Migration has already been decreased\nIt will only be possible to decrease it again after {days} days.",
+  "Not suitable for the task\nA lord of <b>male</b> gender is required.",
+  "Not suitable for the task\nA lord of <b>female</b> gender is required.",
+  "Not suitable for the task\nThe lord must not be married.",
+  "Lord in battle\nWhile the lord is engaged in battle, they cannot be sent away.",
+  "Lord in a squad\nWhile the lord is part of a squad, they cannot be assigned to individual tasks.",
+  "You have already helped\n{soul_uuid_king} is too proud to accept any further assistance."
+]

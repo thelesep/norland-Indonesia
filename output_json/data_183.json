@@ -1,0 +1,12 @@
+[
+  "Invitation to visit \nInvite the lord to visit your settlement. \n\n[hint_SENDER]",
+  "~\n{soul_uuid_guest} has accepted your invitation and will arrive in your city soon.",
+  "~\nI hasten to inform you that I have received your invitation, and with great joy, I accept it! What could be better than to embark on a journey and temporarily forget about the endless troubles?",
+  "~\nMy thanks to you for extending such an offer. I shall make my way to you at the earliest convenience, and I assure you, I will not be a great bother!",
+  "~\nAs part of the <hint=hint_trade_agreement>trade agreement</hint>, {soul_uuid_king} will offer to buy {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint> on a <b>daily</b> basis, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per item.",
+  "~\nAs part of the <hint=hint_trade_agreement>trade agreement</hint>, {soul_uuid_king} will offer to sell {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint> on a <b>daily</b> basis, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per item.",
+  "City buys: {offer_resource_name}\n[hint_trade_agreement_demand_generic]\n\n{optional_holy_family_prices}\n{optional_paper_prices}\n{optional_trading_volumes_reduced}\n[hint_SENDER]",
+  "City sells: {offer_resource_name}\n[hint_trade_agreement_offer_generic]\n\n{optional_holy_family_prices}\n{optional_paper_prices}\n{optional_trading_volumes_reduced}\n[hint_SENDER]",
+  "~\n$ Cost of Church intermediary services: <hint=hint_resource_gold>{trade_agreement_cost_money}</hint>.",
+  "Trade agreement\n[hint_trade_agreement_success_generic]\n\n$ Relationship with {soul_uuid_king} have improved: <green>{trade_agreement_king_im}</green>\nThe city budget of the partner will increase, and the population of their city will grow by {add_peasant} inhabitants after each transaction.\n\n[hint_trade_agreement_demand_generic]"
+]

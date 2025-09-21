@@ -1,0 +1,12 @@
+[
+  "~\nYou may congratulate me: {hostage_name} is now a member of our family. I can only imagine what they must have endured in your care to betray your noble house so readily.",
+  "~\n\n{soul_uuid_king} is gathering the amount for the ransom, but hasn't collected it completely yet. If you want to receive more money, it's worth waiting for a few days.\n\nCurrently collected <hint=hint_resource_gold>{current_money}</hint> out of <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
+  "[hint_DESCRIPTION]\n{soul_uuid_hostage} has been kidnapped.\nHis king {soul_uuid_king} is offering a reward for his release.\n\nConsequences: \n$ Your reward: <hint=hint_resource_gold>{bribe_price_gold}</hint> \n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>",
+  "Demand ransom\nSend the captive home and receive a ransom. \n{optional_not_enough_money}\n\nConsequences: \n$ Your reward: <hint=hint_resource_gold>{current_money}</hint> \n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>",
+  "~\nYou have freed {soul_uuid_hostage} and they are heading home!\n\n$ Your reward: <hint=hint_resource_gold>{current_money}</hint>\n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>",
+  "~\n{soul_uuid_hostage} has been liberated and is heading home! {soul_uuid_king} is pleased that the captive has survived.",
+  "~\n{soul_uuid_hostage} has joined the {faction_uuid_player} faction. {soul_uuid_king} labels them a traitor.",
+  "~\n{soul_uuid_hostage} has died in captivity. Their loved ones and {soul_uuid_king} are devastated.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_captive_dead}</red>",
+  "~\nTo kidnap and demand ransom is the lot of the unworthy! I am glad that {hostage_name} will soon be home. But do not think that such an affront will go unpunished!",
+  "~\nAt long last, {hostage_name} is returning home. I hope that Sophia curses the money you received, and may it bring you misfortune!"
+]

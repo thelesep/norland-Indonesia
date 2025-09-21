@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nI have been <hint=hint_punish>punished</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI have been <hint=hint_punish>punished</hint> for nothing! Everyone knows it!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nThis feeling of helplessness is awful... It's unpleasant to be a victim of a <hint=hint_crime>crime</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nWhat could be better than a <hint=hint_speech_friendly>friendly conversation</hint>?\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nBad combination! Bad combination!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nMother Sophia favors me!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt's time to bid farewell to this world...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n<hint=hint_sick>It hurts</hint>but it doesn't seem too serious.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nHoly Sophia, that <hint=hint_sick>pain</hint>! I hope I get better!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nThis is damn good <hint=hint_alcohol>drink</hint>! Maybe I'll have another?\n\nReason: Alcohol consumed: {number}.\n[hint_mind_remain_time]"
+]

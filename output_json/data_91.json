@@ -1,0 +1,12 @@
+[
+  "Night assassination\nThe character broke into the victim's house at night to kill them.\n\nVictim: {soul_uuid_victim}",
+  "[hint_night_murder]",
+  "Robbery\nOccurs at night on the street.\n\nVictim: {soul_uuid_victim}",
+  "Robbery\nTakes place at night on the street.\n\nVictim: {soul_uuid_victim}",
+  "Suspect\nThe character is suspected of committing a crime.\n\nBuild a <hint=hint_bld_scafod>Scaffold</hint> so that the <hint=hint_persons_executer>executioners</hint> can interrogate them, take them for identification, and punish them if found guilty.\n\nAn attack on this character will be considered an act of terror, as the suspect's guilt is not confirmed.",
+  "Intimidated\nThis character has been intimidated by <hint=hint_persons_executer>executioners</hint> and will be too afraid to commit crimes on the next day.",
+  "[hint_th_speach_fatigue]",
+  "Bastard\nThis character was born as a result of a low or extramarital affair of one of the lords.\n\nIn the family, they are disliked, and they also have minimal chances of inheriting the throne.",
+  "Bastard\nThis character was born as a result of a low liaison between one of the lords and a lord from another family (or a free lord).\n\nThey are disliked in the family, and they also have minimal chances of inheriting the throne.",
+  "Homeless\nUntil you build enough housing for them, this character will suffer greatly."
+]

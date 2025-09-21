@@ -1,0 +1,12 @@
+[
+  "Vassal\n{soul_uuid_king} is a vassal, so they cannot be interacted with in this manner",
+  "You can't attack\nAn army on the march cannot be attacked unless it is on its way to attack your city.",
+  "Insufficient permissions\nAs a vassal, you do not have the authority to interact with this object.",
+  "Suzerain's duty\nAs a suzerain, you are not allowed to launch attacks on your vassal.",
+  "Too poor relationship\n{soul_uuid_king} does not regard you highly enough. Currently, the relationship between your kings is {current_opinion}, but it must be at least {required_opinion}.",
+  "Action not possible\nYou cannot perform this aggressive action, as a sacred peace treaty has been established between you, sealed by an oath and guaranteed by the Loving Family.\n\nNone of the warriors or other inhabitants of Norland would dare to violate the sanctity of the treaty, so as not to incur the wrath of Holy Sophia.",
+  "Out of influence range\nThe borders of your province or vassal kingdom must be adjacent to the borders of this object.",
+  "Your opponents are too strong. \nYour opponents are too strong, so {soul_uuid_king} does not want to join your alliance.",
+  "You are too weak.\nYour army's <hint=hint_army_power>strength</hint> is less than that of this lord's army. He does not respect you.",
+  "Too many guests\nYou already have too many guests from this province."
+]

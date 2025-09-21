@@ -1,0 +1,12 @@
+[
+  "Ordering a Hall robbery\n[hint_bandits_description]\n\n$ The cutthroats will deliver <hint=hint_resource_gold>{robbery_money}</hint>.\n{optional_holy_defence_will_removed}",
+  "Nothing to rob \nThere is too little gold in the city to rob.",
+  "The hall robbery was successful!\nThe hired cutthroats have stolen <hint=hint_resource_gold>{sum}</hint>, which will be delivered to you soon.",
+  "The robbery has failed.\nThe hired cutthroats got into a fight with the guards and were killed.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>\n$ Relationship with the Matriarch: <red>{rel_de_gold_stealer_neigh}</red>\n{optional_holy_defence_will_removed}",
+  "Library robbery\nHire cutthroats to rob the local library and bring you 3-5 random <hint=hint_book>books</hint>.\n\n$ If successful, each cutthroat will bring one randomly seized book.\n\nIn case of failure:\n$ Relations with {soul_uuid_king}: <red>{rel_de_book_stealer}</red>\n$ Relationship with the Matriarch: <red>{rel_de_book_stealer_neigh}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]",
+  "Library robbery\n[hint_bandits_description]\n\n$ The cutthroats will deliver <hint=hint_book>{books_min} - {books_max}</hint> books to you.\n{optional_holy_defence_will_removed}",
+  "The library robbery was successful!\nThe hired cutthroats have stolen {sum} <hint=hint_book>books</hint>, which will be delivered to you soon.",
+  "The library robbery attempt has failed!\nThe hired cutthroats got into a fight with the guards and were killed.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_book_stealer}</red>\n$ Relationship with the Matriarch: <red>{rel_de_book_stealer_neigh}</red>\n{optional_holy_defence_will_removed}",
+  "Offering to the King\nThe lord will present {gift_for_king_resource} to the head of another house on behalf of your king. The type of gift depends on <hint=hint_culture>the culture</hint> of the city.\n\n$ As a result, their attitude toward the leader of your noble family will improve by an amount based on the <hint=hint_skill_manners>Manners</hint> skill of the giver.\n$ With each use, the action will seem less sincere, reducing its effect.\n$ This action is possible even if the king is not in the city – he will be informed of the gift.\n\n[hint_SENDER]",
+  "Offering to the King\nPerformer {soul_uuid_performer}: {skill_name} {skill_level} lvl\n\nRelationship with your king: <green>{gift_rel_improve}</green>\n\n<b>Gift to be given:</b> {gift_for_king_resource}"
+]

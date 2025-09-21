@@ -1,0 +1,12 @@
+[
+  "Longevity\nThanks to special knowledge, this character’s life will be extended by {number} years.",
+  "Blessing of Sophia\nBy the will of Mother Sophia, all of this character’s children will be boys.",
+  "Crossbow\nRanged weapon.\n\n$ Successfully pierces and destroys armor and shields.\n$ Compared to <hint=hint_resource_bow>Bow</hint>, it is much less effective against unarmored targets, as it loads twice as slowly.\n\n<b>Production</b>\n$ Produced in <hint=hint_bld_workshop>Workshop</hint>.\n$ Requires <hint=hint_resource_wood>1</hint> and <hint=hint_resource_steel>1</hint> to create.",
+  "Expel\nExpel the guest. You might avoid negative consequences from their stay, but you could also miss out on interesting opportunities.",
+  "Hire the Knight\nBy hiring this fugitive marauder, you will gain an exceptionally powerful knight capable of leading your troops.\n\nHowever, you will soon have to withstand an attack from {warriors_min} - {warriors_max} of their former <hint=hint_person_maroders>marauder</hint> kin.",
+  "Trade Books\nA Scriptonic trades in unique books that cannot be purchased anywhere else.",
+  "Witch: Deliver to Justice\nYou hand the witch over to the church, after which she will be executed.\n\n$ Relations with the <hint=hint_relations_matriarch>Matriarch</hint>: <green>+{rel_inc}</green>",
+  "Witch: Bribe the Bishop\nYou convince the Bishop to overlook the witch's arrival in your settlement. In return, the witch will be grateful to you.\n\n$ Bribe cost: <hint=hint_resource_rune>{cost}</hint>",
+  "Ransom the Prisoner\nAfter the ransom, he will become your prisoner and will keep the secret of his origin until you free him.\n\n$ Ransom cost: <hint=hint_resource_rune>{gold}</hint>",
+  "Buy a Dog\nThe lord who purchases a dog will receive a loyal companion that will be with him for life.\n\n$ Price: <hint=hint_resource_rune>{cost}</hint>"
+]

@@ -1,0 +1,12 @@
+[
+  "Grant knighthood\nThe King grants the status of <hint=hint_knight>Knight</hint>.\n\nThe character will join your warriors as a knight. This will be free of charge.\n\nTheir efficiency in this status depends on their <hint=hint_skill_combat>Combat</hint> and <hint=hint_skill_command>Command</hint> skills.",
+  "[hint_mind_caption]\nThe King expelled my friend from the family",
+  "Lesser Lord is about to leave\n{soul_uuid_lord} is planning to leave as they don't find your settlement promising for themselves.\n\nThey will most likely join a neighboring King or become a free lord.\n\n$ You have {time_left} hours to determine their fate.\n\n{optional_philistine}\nThe character has the following knowledge:\n{optional_list_of_knowledge}",
+  "New Lesser Lord\n{soul_uuid_lord} has been granted the title of <hint=hint_untitled_lord>lesser lord</hint>.\n\nThey will continue to live in your settlement until you decide their fate or until they choose to leave.",
+  "Lesser Lord is leaving\nThe King hasn't been gracious to {soul_uuid_lord}, and they decided to try their luck elsewhere.\n\nThey will most likely join a neighboring King or become a free lord.",
+  "Instruction Setup\n$ <b>Hire an assistant</b>. One lord can comfortably manage more than 10 buildings, and you can also hire a Free Lord to assist them.\n$ <b>Upgrade buildings.</b> It's better to upgrade existing buildings than build new ones. This not only provides a productivity bonus but also reduces travel time.\n$ <b>Shorten the path.</b> Since the managing lord must visit many buildings, it's best to construct these buildings in one area, close to warehouses and the Temple. For example, to the north of the Hall.\n\nThis way, you can easily maintain 25+ buildings in operation until you unlock the Chancellery.",
+  "Instruction Setup\n\n<img=hint_tutorial_instruction_help></img>\n\n[hint_instrutions_help]",
+  "Knowledge Transfer\n$ <b>When a lord dies, their knowledge is lost</b>, so it's best to prepare for this in advance by distributing knowledge among several characters.\n$ Characters share knowledge with each other during <b>Wise Conversations</b>.\n$ They do this automatically with their friends and children, but you can also <b>initiate it manually from the character menu</b>.\n$ <b>This also works with guests</b> and other lords on the world map—sometimes they have very interesting knowledge to share.",
+  "Knowledge Transfer\n\n<img=hint_tutorial_wise_help></img>\n\n[hint_wise_help]",
+  "No equipment\n{soul_uuid} has no weapons."
+]

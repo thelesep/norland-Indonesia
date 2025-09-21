@@ -1,0 +1,12 @@
+[
+  "Braised Rutabaga\nA special recipe for braised <hint=hint_resource_rutabaga>Rutabaga</hint> that prevents death from Rutabaga Typhus (but does not prevent the disease itself).",
+  "Drought Resistance\nSeed planting and soil treatment methods that eliminate crop loss during droughts.",
+  "Longevity\nA special diet and mental state will help slow down aging, causing it to begin {effect_days} days later. Only affects lords who have personally studied this knowledge.",
+  "Overcoming Addiction\nUsually, a character must refrain from using the addictive substance for 4 days, but the knowledge held in this book reduces this period to 2 days.",
+  "False Fanaticism\nA lord trained in social mimicry will be considered a <hint=hint_persons_fanatic>fanatic</hint> by others, but their inner faith and thoughts will remain unchanged.",
+  "Makha Ale\nThe positive thought brought on by drinking flavorful <hint=hint_resource_ale>Ale</hint> will be twice as strong if the drink was produced locally in the province.",
+  "Proper Nectar\nThe desire for further consumption brought on by consuming <hint=hint_resource_nectar>Nectar</hint> will be reduced by half if the nectar was produced locally in the province.",
+  "Precise fertilization\nFertilizing fields uses up half the amount of <hint=hint_resource_wood>Wood</hint>.",
+  "Proper Logging\nAll woodcutters in the province gain the knowledge of how to obtain {felled_tree_bonus}% more resources from each felled tree.",
+  "Meat Cooking\nThe positive thought brought on by eating <hint=hint_resource_meat>meat</hint> in the province will be twice as strong."
+]

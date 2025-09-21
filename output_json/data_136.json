@@ -1,0 +1,12 @@
+[
+  "Desire for a Larger Settlement\nThe character desires to rule a larger settlement than what they currently have.\n\n[hint_MORAL_DEBUFF]\n\nTo fulfill this desire, reach a population level of at least 20 people in your settlement.\n\n[hint_its_a_dream]",
+  "Desire for Happiness of Subjects\nThe character desires for their subjects to be happy.\n\n[hint_MORAL_DEBUFF]\n\nTo fulfill this desire, achieve an average happiness level among the population of at least 50.\n\n[hint_its_a_dream]",
+  "Desire for Victory\nThe character passionately desires to win in a real battle.\n\nMake them a leader of an army and achieve victory!\n\n[hint_its_a_dream]",
+  "Desire to Reward\nThe character wants to please one of their subjects with a gift.\n\n[hint_MORAL_DEBUFF]\n\nTry rewarding someone on their behalf.\n\n[hint_its_a_dream]",
+  "Desire to Execute\nThe character is obsessed with the idea of executing someone.\n\n[hint_MORAL_DEBUFF]\n\nAssign them to <hint=hint_punishment_execution>behead someone</hint> and fulfill their desire.\n\n[hint_its_a_dream]",
+  "Desire to Write a Book\nThe character dreams of <hint=hint_book_write>writing a book</hint>.\n\n[hint_MORAL_DEBUFF]\n\nYou can fulfill this desire in the <hint=hint_knowledge_menu>Knowledge menu</hint>.\n\n[hint_its_a_dream]",
+  "Desire for Knowledge Expansion\nThe character dreams of broadening their horizons by learning two new pieces of <hint=hint_idea>knowledge</hint>.\n\n[hint_MORAL_DEBUFF]\n\nTo help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.\n\n[hint_its_a_obsession]",
+  "Desire to Learn Knowledge\nThe character dreams of discovering something new and learning their first <hint=hint_idea>knowledge</hint>.\n\n[hint_MORAL_DEBUFF]\n\nTo help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.\n\n[hint_its_a_obsession]",
+  "Desire to Eat Meat\nThe character hasn't eaten pork for a long time and wants to remember how it tastes.\n\n[hint_MORAL_DEBUFF]\n\nMake sure that you have <hint=hint_resource_meat>Meat</hint> in your storage to fulfill this desire.\n\n[hint_its_a_dream]",
+  "Desire for Reward\nThe lord feels undervalued and dreams of receiving a reward from their King.\n\n[hint_MORAL_DEBUFF]\n\nAssign the King to reward this lord to fulfill this desire.\n\n[hint_its_a_obsession]"
+]

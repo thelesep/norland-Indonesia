@@ -1,0 +1,12 @@
+[
+  "Blissful\n$ Everyone loves this character.\n$ <hint=hint_need_piety>Piety</hint> is restored to their interlocutors during conversations. They will avoid engaging in negative communication.\n\n<b>Cause:</b> Experienced a nervous breakdown.",
+  "Premature graying\n$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>\n\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
+  "Graying\n$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>",
+  "Sarcastic\n$ Increased likelihood of a mean joke.\n\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
+  "Devout\n$ Becomes a fanatic permanently.\n\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
+  "Pacifist\n$ Unhappy when having to command troops.\n\n<b>Cause:</b> Experienced defeat in battle.",
+  "Anxious\n$ Always wakes up during a home invasion.\n\n<b>Cause:</b> Experienced a home invasion or captivity.",
+  "Greedy\n$ Dresses in rags.\n$ Positive thoughts from <hint=hint_resource_gold>money</hint> are twice as strong.\n$ Other lords have a lower opinion of lords with this trait.\n\n<b>Cause:</b> Had no <hint=hint_resource_gold>money</hint> for {greedy_days} days",
+  "Sublimation\n$ Tiredness from work is 3 times weaker.\n$ 20% higher chance of a nervous breakdown.\n$ Does not suffer from lack of sex.\n\n<b>Cause:</b> Long period of time without sex",
+  "Former heir\nWas once the heir to the throne, but has been stripped of that status.\n\nIf their loyalty drops, they may lead a <hint=hint_nt_heir_rebellion_former>rebellion of the former heir</hint>."
+]

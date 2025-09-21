@@ -1,0 +1,12 @@
+[
+  "Marry\n{soul_uuid_1} will become the spouse of {soul_uuid_2}.",
+  "~\n$ A child who has grown up and learned to read will also acquire the teacher's <hint=hint_idea>knowledge</hint>.\n$ The trainee gains more experience for the skill, for which they have a <hint=hint_talant>talent</hint>.\n$ The action will occur daily.",
+  "Learn\nThis teacher will be able to develop the student's skills:\n$ {skill_name} up to level {skill_level_cup}\n$ {skill_name_2} up to level {skill_level_cup_2}\n\nTraining efficiency:\n$ The teacher has <hint=hint_skill_teaching>Training</hint> skill: {skill_level_3}\n$ And can pass on {exp} experience points per lesson\n\n[hint_action_task_lesson]\n{optional_add_info}",
+  "General Training\nThe teacher will train the student in all skills, first focusing on the student's talents to their skill limit and then the remaining skills in turn.",
+  "~\nThis character is your guest, so the lesson costs <hint=hint_resource_rune>{price}</hint>.\n\nThe payment will be taken from the king's pocket.",
+  "~\nThis character belongs to a {culture} culture, so there is a chance that the student can change his culture.",
+  "Not Enough Rings\nThis character is your guest, so the lesson costs <hint=hint_resource_rune>{price}</hint>.\n\nYou do not have enough Holy Rings to pay for the lesson.",
+  "Poor Relationship\nPoor relationship with your king.\n\nImprove the relationship with your king to <green>{option_req}</green>.",
+  "Duel\nThe characters will attempt to determine their relationship through an official duel.\n\n$ Removes the <hint=hint_desire>desire</hint> for revenge or death from the enemy, if present in the duelists.\n$ The duel continues until one of the participants loses consciousness, but a lethal outcome is possible.\n$ The more pain the duelist inflicts on the opponent, the easier it becomes for them to resolve their desire.\n$ A duel is recognized as an honorable way to resolve disputes, so even if you kill the <hint=hint_bishop>Bishop</hint> in a duel, you will not incur the Matriarch's wrath.",
+  "Provocation\nA guest from a neighboring province has provoked your lord into a duel. It will take place this evening.\n\nIf you are not confident in its outcome, you can expel the guest from your province before that time. Your lord will avoid danger, but this will worsen the attitude of the guest monarch (and his own) towards your ruler."
+]

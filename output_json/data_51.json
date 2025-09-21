@@ -1,0 +1,12 @@
+[
+  "New Book\nA new book has been written. Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see the result.",
+  "New Knowledge\nNew knowledge has been learned! Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see which features are now available.",
+  "Technology\nAllows the construction of {building_name} through the Construction menu.",
+  "Technology\nAllows the construction of {building_name} and {building_name_2} through the Construction menu.",
+  "Technology\nAllows the construction of {building_name} and the production of {resource_name}.",
+  "[tech.criminal_intimidation]\n<hint=hint_persons_criminal>Vagabonds</hint> intimidated by <hint=hint_bld_scafod>executioners</hint> will be afraid to commit crimes for 2 days instead of one.",
+  "Basics of Loyalty\nThe likelihood of <hint=hint_loyalist>loyalists</hint> appearing in the city is doubled.",
+  "Effective Sermons\nThe effectiveness of <hint=hint_sermon>sermons</hint> in the Temple is doubled.",
+  "Prisoner Happiness\nThe likelihood of <hint=hint_slave_riot>prisoner uprisings</hint> drops to zero.",
+  "Tanayan Paper\nSpecial composition protects all your books from burning in case of a Library fire."
+]

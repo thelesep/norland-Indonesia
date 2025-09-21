@@ -1,0 +1,12 @@
+[
+  "~\nYou have become a <hint=hint_vassal>vassal</hint>.\n\n{soul_uuid_king} is now your suzerain.\n\nServe him faithfully!\n\n[hint_vassal_tribute]",
+  "~\n{soul_uuid_king} has declined to become your suzerain as he believes it would create too many problems with neighboring factions.",
+  "~\nYour wisdom does you honor. By becoming my vassal, you will secure your protection - a value that few in our times truly comprehend. Very well, I agree.",
+  "~\nYou seek vassalage out of desperation. Enemies surround you, and consider this: if I agree, they will become my enemies as well. I advise you to mend your relations with them first, and then seek assistance.",
+  "Release the vassal\nYour sovereignty over {soul_uuid_king} is dissolved, and this faction will no longer be your <hint=hint_vassal>vassal</hint>.",
+  "~\nYou have terminated the relationship, and {soul_uuid_king} is no longer your <hint=hint_vassal>vassal</hint>.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} believes that in the current situation, it would be best for you to become their <hint=hint_vassal>vassal</hint>.\n\n$ You have <b>2 days</b> to consider the offer.\n$ If you ignore the proposal, {soul_uuid_king} will attempt to test your strength in a few days.\n$ If this assault on your city is successful and your Hall is burned to the ground, you will be recognized as {soul_uuid_king}'s vassal by the entire world.\n{optional_player_is_vassal}\n{optional_possible_helpers}\n\n[hint_SENDER]",
+  "Agree\nAgree to become his <hint=hint_vassal>vassal</hint>.\n{optional_player_is_vassal}\n\n[hint_vassal_tribute]",
+  "~\nYou have become a <hint=hint_vassal>vassal</hint>.\n\n{soul_uuid_king} is now your suzerain.\n\nServe him faithfully!\n{optional_player_ex_sir_result}\n\n[hint_vassal_tribute]",
+  "~\nYou ignored the offer, and in a few days, {soul_uuid_king} will attempt to test your strength.\n\n If this assault on your city is successful and your Hall is burned to the ground, you will be recognized throughout the realm as {soul_uuid_king}'s <hint=hint_vassal>vassal</hint>."
+]

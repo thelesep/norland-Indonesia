@@ -1,0 +1,12 @@
+[
+  "The kingdom is getting smaller\nAs a result of recent political events, {faction_uuid} is no longer part of your kingdom.",
+  "The alliance is getting smaller\nAs a result of recent political events, {faction_uuid} is no longer part of your alliance.",
+  "Unavailable\nThis character cannot be granted a title",
+  "Unavailable\nTo declare yourself Emperor you must have control over {count} provinces. You currently have {under_control} provinces under your control.",
+  "Mood\nHover over the numbers in the mood column and row to learn the most common negative thoughts of different categories of people.",
+  "Unavailable\nThere are no iron deposits in the province.",
+  "Unavailable\nThis lord has an appointment already.",
+  "Hovered group of people\n{details_stack}",
+  "Effect of Nectar\n$ While <hint=hint_resource_nectar>Nectar</hint> is active, the character moves {speed_improve} faster, and their skills increase by {skill_improve}.\n$ The character begins to experience a strong craving for Nectar every day.\n$ This is accompanied by intense negative <hint=hint_thought>thought</hint> and physical <hint=hint_pain>pain</hint>, which intensifies each day until the character consumes it.\n$ Immediately after consumption, there is a chance that the dependent will go into a rage and attack the nearest character. Over time, this probability increases.",
+  "Ordered\nList of current orders in the <hint=hint_production_menu>Production menu</hint> for this type of building:\n\n{optional_orders}\n\n<b>Hint:</b> If the number for an order is <red>red</red>, it means that there are not enough ingredients in the city warehouse to produce this resource."
+]

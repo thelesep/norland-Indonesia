@@ -1,0 +1,12 @@
+[
+  "Schemer\nThis character is adept at manipulation and influence, capable of provoking conflicts and creating <hint=hint_encyclopedia_puppets>puppets</hint> among lords. Be cautious if he appears in your province.",
+  "Ragged Ones\nYour city has reached a high enough level of prosperity to start attracting the ragged ones.\n\n[hint_rags]",
+  "Ragged Ones\nThese are the lowest and weakest of bandits—former vagabonds and peasants, exiled from cities for crimes. They dwell in forests near towns, hoping to launch quick raids on nearby homes.\n\nUsually, they pose no threat to lords, as all they can hope for is to kidnap a peasant for ransom or steal some food from an outlying house. Sometimes, however, they set buildings on fire to create a distraction.",
+  "Sermon of Joy\n{skill_name}: {skill_level}\n\n$ Each participant in the sermon receives <green>+{moral_add}</hint> to mood.\n$ The thought will last for a day (its strength will decrease linearly).",
+  "Unavailable\n{soul_uuid} must have at least <hint=hint_resource_rune>{runes}</hint>",
+  "Workplaces\nThe number in brackets under the peasant icon in the top left corner shows the workplace balance.\n\nIf it's positive, it represents the number of unemployed people in the city.\nIf it's negative, it represents the number of available jobs (i.e., how many workers are missing).",
+  "Ragged ones attack!\nDefend your city!",
+  "[hint_mind_caption]\nPatrolling in full gear is quite the experience...\n\nReason: Participated in a patrol.",
+  "[hint_mind_caption]\nThat was so impressively solemn! I'm at a loss for words!\n\nReason: Participated in a ceremonial event.",
+  "Character Mood\n\nAll the residents of your city have their own <b>thoughts</b>, which together determine their <b>mood</b>.\n\nThoughts can arise if a character has unmet needs for a long time, as reactions to events, as a result of conversations, and for many other reasons.\n\n$ Select a lord by clicking on their portrait to see their thoughts.\n"
+]

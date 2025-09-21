@@ -1,0 +1,12 @@
+[
+  "Send a guest \nThe lord will go to this city and interact with the family of lords living there.",
+  "~\n<red>ATTENTION! {soul_uuid_king} is a vassal of {soul_uuid_king_sir} of {faction_uuid_sir}!</red>\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
+  "~\n$ <red>You are a vassal of {soul_uuid_king_sir} and they will be extremely unhappy if you voluntarily leave to another sire.</red>\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>",
+  "~ \n$ Relationship with the previous suzerain {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>",
+  "Not available\nThe vassalage agreement excludes such actions between a suzerain and their vassal.",
+  "Not available\nYou can't do this action with a suzerain",
+  "Not available\nThis action can only be performed with a neighbor with whom you share a common border.",
+  "Not available\nCannot perform this action with the head of the alliance",
+  "Not available\nCannot perform this action on a member of your own alliance.",
+  "Not available\nAs a member of the alliance, you cannot perform this action."
+]

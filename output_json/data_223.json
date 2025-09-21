@@ -1,0 +1,12 @@
+[
+  "Unavailable\nThe character leaves the city",
+  "Threat of pillaging\n{optional_type_of_danger}\n\nTherefore the village elder of {village_name} is asking for your help.\n\nYou can send your army to help them defend themselves.\n\n<b>Consequences</b>\n$ If you fail to protect the village, it will be burned, and the tribute collection will resume only in a few days.",
+  "~\n{village_name} village has repelled the attack and will continue to pay you tribute.",
+  "~\nThe village of {village_name} was burned. It will recover in a few days, but for now it will not be paying you tribute.",
+  "~\n<red><hint=hint_persons_forest_bandits>Forest bandits</hint> are planning to pillage your village.</red>",
+  "~\n<red>{enemy_soul_uuid_king} from {enemy_faction_uuid} is planning to pillage your village.</red>",
+  "[hint_mind_caption]\nI'm about to reach my goal!\n\n<b>Reason:</b> In the process of fulfilling the desire.",
+  "Knowledge at risk\nAs a result of recent losses among the lords, there is no one left who has the following <hint=hint_idea>knowledge</hint>:\n\n{lost_list}\n\nIf you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory.\n\nDays until complete loss of knowledge: {days}",
+  "Letter from the Matriarch\nClick to read",
+  "~\nEveryone here thanks you! May Mother Sophia bless you for your kindness and help! The whole village is praying for your soul, as best we can!"
+]

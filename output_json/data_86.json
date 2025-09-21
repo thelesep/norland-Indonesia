@@ -1,0 +1,12 @@
+[
+  "~\n$ The wound was not treated with <hint=hint_resource_med>Medical Salve</hint>. There is a possibility of infection with <hint=hint_poisoned>gangrene</hint> within: {time}.",
+  "Instructed\nThe character has received instructions from the lord and knows what to do in the near future.\n\nWill end in: {time}",
+  "Management fatigue\nEvery time a lord gives instructions to production workers, the lord receives the thought \"fatigue\" for each visited building. This thought can accumulate with each passing day.\n\nThe best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>.",
+  "Work fatigue\nEvery day, when a character works all day, they receive the thought \"fatigue\". This thought can accumulate with each passing day.\n\nThe best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>.",
+  "Communication fatigue\nEvery time a lord <hint=hint_learning>learns or teaches</hint>, <hint=hint_sermon>preaches</hint>, or performs another <hint=hint_action>communication-related task</hint>, they receive the thought \"Communication fatigue.\" This thought tends to accumulate with each passing day.\n\nThe best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>.",
+  "Knowledge fatigue\nEvery time a lord <hint=hint_book_learn>learns</hint> or <hint=hint_book_rewrite>rewrites</hint> a book, they experience the thought \"Knowledge fatigue\". This thought has the tendency to accumulate with each passing day.\n\nThe best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>.",
+  "Hangover\nA heavy thought in the morning after consuming an excessive amount of <hint=hint_alcohol>alcohol</hint>.",
+  "Infected wound\nThe <hint=hint_wounds>wound</hint> has become infected and requires treatment with <hint=hint_resource_med>Medical Salve</hint>. Otherwise, the infection may develop into <hint=hint_poisoned>gangrene</hint>!\n\nOnset of Gangrene: {time}",
+  "Gangrene\nThe <hint=hint_wounds>wounds</hint> have become inflamed, leading to tissue necrosis and blood infection due to lack of timely treatment with <hint=hint_resource_med>Medical Salve</hint>.\n\nDeath in: {time}",
+  "Exhaustion\nThe lord has collapsed from fatigue and fallen asleep, as his need for <hint=hint_need_sleep>sleep</hint> is at zero.\n\nWill wake up in: {time}"
+]

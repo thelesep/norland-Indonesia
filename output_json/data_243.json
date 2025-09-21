@@ -1,0 +1,12 @@
+[
+  "Technology\nAn ancient rite of repentance for the sin of hatred that grants absolution to the seeker. The rite allows the <hint=hint_bishop>Bishop</hint> to reconcile the chosen lord with all their enemies.\n\nRequires good relations between this lord and the Bishop and costs <hint=hint_resource_rune>10</hint>.",
+  "Technology\nA description of a special Kaiden rite that allows removing all negative traits and thoughts from a bandit when recruiting them into the army.",
+  "Technology\nAn ancient combat art of Kaiden culture.\n\n<hint=hint_skill_combat>Combat Skill</hint> for all warriors when using a <hint=hint_resource_knife>Dagger</hint>: +{level_add}.",
+  "Technology\nThe special formula of this ointment enhances the durability of wood and iron joints, reducing the chance of weapon breakage by {mult} times.",
+  "Technology\nOld imperial methods of training inexperienced recruits that allow them to gain {perc}% more experience during training on the <hint=hint_bld_training_ground>Training Ground</hint>.\n\nEffective until the warrior’s <hint=hint_skill_combat>Combat Skill</hint> reaches level 5.",
+  "Technology\nPsychological training in moral righteousness and duty, granting a mood bonus of +{moral_add} to warriors during battles with <hint=hint_persons_forest_bandits>forest bandits</hint>.",
+  "Burst of Resolve\nThe character is in a <hint=hint_determination>burst of resolve</b> to fulfill a long-held desire: <b>{desire_name}</b>\n\nDetails: {optional_determination_info}\n\nAs long as the character is happy (mood above <green>{determination_moral_threshold}</green>), they will be able to suppress their impulses.\n\nThe resolve will be gone in {time_remain}",
+  "Burst of Resolve\nThe lord will autonomously take <hint=hint_resource_meat>Meat</hint> from the store, bring it home, and won’t stop until it’s all eaten.",
+  "Burst of Resolve\nThe lord will head to the library and write a book.",
+  "Burst of Resolve\nThe lord will go to the library and study a new knowledge."
+]

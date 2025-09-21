@@ -1,0 +1,12 @@
+[
+  "~\nThe peasants repelled your attack, but the village was burned down during the battle.\n\nRelationship with {soul_uuid_king}: <red>{rel_de}</red>\n{optional_holy_defence_will_removed}",
+  "~\nHow low one must stoop to plunder villages? The peasants are unarmed and cannot go to war! Come and face me and my warriors, and we shall see how much of a warrior you truly are!",
+  "~\nYou burned the village and killed the peasants. Is it the custom in your town to burn children at the stake? Better to attack me, and then all shall see what your aggression amounts to!",
+  "~\nIn all my years, I've never heard tell of peasants with pitchforks defeating a lord's army! Today, I shall send many a letter to my neighbors so they might have a good laugh.",
+  "~\nYou've given me a good chuckle, neighbor. My peasants have driven your disgraceful army out of the village! The jesters will thank you for such a tale!",
+  "Burnt village \nThis village has recently been plundered, and the residents are occupied with its restoration. Until then, they will be unable to pay tribute.",
+  "Settle the ruins\nEstablish a new settlement led by one of your lords.\n\nAnother free lord will be hired to assist, and if the lord has a spouse and children, they will come along to the new settlement.\n\nThe settlement will mark the beginning of a new noble house, which will be your <hint=hint_vassal>vassal</hint>.\n\nCost: <hint=hint_resource_gold>{settlement_cost}</hint>",
+  "Send the lord\n{soul_uuid_lord} is being sent to the ruined city to establish a new noble house on your behalf.\n\nAccompanying the lord will be:\n{additional_souls_stack}\n\nCost: <hint=hint_resource_gold>{settlement_cost}</hint>",
+  "Establishment of a new house \nIn {faction_uuid_new_faction}, a settlement for a new noble house has been founded. \n\nIt originates from the House of {faction_uuid_old_faction} and now serves as its <hint=hint_vassal>vassal</hint>. \n\nThis undoubtedly marks the beginning of a glorious journey!",
+  "~\nI hasten to let you know, my liege, that we are gradually settling in. These lands, though undeniably wild, rest assured, we shall prevail!"
+]

@@ -1,0 +1,12 @@
+[
+  "Make a puppet\nIf one character’s relations toward another exceeds <green>{puppet_rel}</green> (and for children toward their parents, this threshold is <green>{puppet_children}</green>), that character can be made a <hint=hint_encyclopedia_puppets>puppet</hint>.\n\nIn this case, the character will become a puppet of your ruler, meaning they will carry out all your orders.",
+  "Make a puppet\n{soul_uuid_2} will become a puppet of {soul_uuid_1}",
+  "The ruler cannot be a puppet\n{soul_uuid} is a ruller and cannot become a puppet",
+  "A puppet cannot be an idol\n{soul_uuid_1} is directly or indirectly a puppet of {soul_uuid_2}, so he cannot be their idol",
+  "A puppet cannot have two idols\n{soul_uuid_puppet} already has an idol {soul_uuid_master} and cannot become a puppet of another character.",
+  "Not available\n{soul_uuid_1} cannot become a puppet of {soul_uuid_2}",
+  "An idol cannot be a puppet\n{soul_uuid} is already an idol and cannot be a puppet.",
+  "[hint_mind_caption]\nThere are so many people in this city that there’s nowhere to step! And that stench of sewage! Unbearable!\n\n<b>Hint</b>\nThe city’s population exceeds {threshold}, causing issues with hygiene, smell, and cleanliness. As the population grows further, discontent will increase, but this can be offset with alcohol, executions, religion, and other mood-lifting methods.",
+  "Parent\nThe character came to visit their child.",
+  "[hint_advisor_caption]  \nThe average mood of your peasants has dropped below <red>{gone_tres}</red> for the day, which means they are leaving the city.  \n\nThere are many ways to improve their mood to attract them back to your settlement.  \n\n$ Hover over the peasant icon in the top left corner and check their most frequent negative thoughts. Maybe they lack housing?  \n$ Hold Joy Sermons of Joy  or increase the number of fanatics by holding Sermons of Faith in the <hint=hint_bld_temple>Temple</hint> (the latter will strengthen the <hint=hint_bishop>Bishop</hint>).  \n$ Raise their wages, sell more high-quality alcohol and food, or consider <hint=hint_resource_nectar>Nectar</hint>.  \n$ Hold spectacular executions on the <hint=hint_bld_scaffold>Scaffold</hint>. Place the Scaffold near the Tavern to attract more spectators.  \n$ Finally, you can initiate a <hint=hint_nt_terror_culture>terror campaign</hint> against the culture disliked by the majority of the population.  \n\nYou can read more about peasant mood <hint=hint_nt_unhappy>here</hint>.  \n"
+]

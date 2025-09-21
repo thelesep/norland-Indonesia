@@ -1,0 +1,12 @@
+[
+  "Unavailable\nYou have already sent help to the opposite side of the conflict.",
+  "Fertilize automatically\nWhen the field is depleted, builders will take wood from the warehouse and fertilize it automatically.",
+  "Scheduled date\nThe character has planned a romantic date with {soul_uuid_sex_parther} this evening.",
+  "Reassigned Inspections\nLord {soul_uuid} now manages a new <hint=hint_bld_chancellery>Chancellery</hint>, and all buildings previously under their control are now serviced by clerks from this Chancellery.\n\nThe production bonus will remain the same.",
+  "Knowledge Work Canceled\nDue to acquired blindness, {soul_uuid} can no longer continue working in the library.\n\nWork on the knowledge {knowledge_name} has been stopped.",
+  "Stay Back\nThe commanding lord will stay behind the unit and engage in combat only when necessary.\n\nThis increases their chances of surviving the battle, but <red>the morale of the warriors will decrease</red>.",
+  "Unavailable\nThe character is <hint=hint_monogam>monogamous</hint>, so they would rather cut off their own leg than agree to such a thing.",
+  "[hint_advisor_caption]  \nOne or more of your lords are married and <hint=hint_monogam>monogamous</hint>, meaning they completely abstain from marital infidelity.  \n\nHowever, their spouses' attitude toward them has fallen below 0, making marital encounters impossible, which in turn prevents the satisfaction of their sexual desires.  \n\nImprove the relationship between the spouses to ensure sexual tension does not poison the lives of these lords.  \n\nList of lords affected by this effect:  \n{pairs_list}",
+  "[hint_advisor_caption]\nSome of your lords are <hint=hint_encyclopedia_puppets>puppets</hint> of neighboring rulers who are hostile toward you.\n\nThis means these lords may begin acting in the interests of their masters.\n\nList of puppet lords:\n{puppets_list}",
+  "[hint_advisor_caption]\nThe <hint=hint_relations_matriarch>Matriarch's</hint> opinion of your king has dropped to <red>hostile</red>, terrifying your subjects - especially the fanatics.\n\nAdditionally, the <hint=hint_holy_caravan>Holy Caravan</hint> will no longer come to you, and the Matriarch will no longer warn you of impending disasters."
+]

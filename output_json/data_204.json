@@ -1,0 +1,12 @@
+[
+  "~\nYour envoy has completed the task.\n\nAs a result, the attitude of {soul_uuid_king} toward your king: <green>{rel_improve}</green>",
+  "Not a good enough relationship\n{optional_trade_info}\n[hint_unavailable_bad_opinion]\n\n<b>Hint:</b> You can enter into permanent trade agreements with Kings regardless of personal relations if you are part of the same <b>free cities alliance</b>.",
+  "~\nThis town had its <red>village burned</red>, and the supply of the resources it produced has been <red>reduced by half.</red>",
+  "Trade impossible \nThis town had <red>both its villages burned</red> - trade demand has been <red>reduced to zero</red>. Wait until at least one village of {faction_uuid} is rebuilt.",
+  "City buys: {offer_resource_name}\n[hint_trade_agreement_demand_generic]\n\nThe price has been adjusted by {price_penalty} due to the difference in  {skill_name} skill between the trading parties. \n$ {soul_uuid_performer} (level {performer_skill_level}) \n$ {soul_uuid_trader} (level {trader_skill_level})\n\n{optional_holy_family_prices}\n{optional_paper_prices}\n{optional_trading_volumes_reduced}\n[hint_SENDER]",
+  "City sells: {offer_resource_name}\n[hint_trade_agreement_offer_generic]\n\nThe price has been adjusted by {price_penalty} due to the difference in  {skill_name} skill between the trading parties. \n$ {soul_uuid_performer} (level {performer_skill_level})\n$ {soul_uuid_trader} (level {trader_skill_level})\n\n{optional_holy_family_prices}\n{optional_paper_prices}\n{optional_trading_volumes_reduced}\n[hint_SENDER]",
+  "Unable to select\nNo actions can be performed on this character.",
+  "Lord not in town\nClick to go to the lord's location.",
+  "Too poor relationship\n[hint_unavailable_bad_opinion]\n\nThe required relationship threshold is higher because your relationship with the suzerain or leader of the alliance {soul_uuid_leader} from {faction_uuid_leader}, of which {faction_uuid} is a member, is too poor.\n\n<b>Hint:</b> You can establish permanent trade contracts regardless of relations if you and your trade partners are part of the <b>free cities alliance</b> (this does not apply to vassal kingdoms).",
+  "The king is out of town.\nKing {soul_uuid} is currently visiting {faction_uuid} city.\n\nHe will presumably be home in {remain_time}."
+]

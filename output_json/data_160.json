@@ -1,0 +1,12 @@
+[
+  "Request for assistance\n{soul_uuid_king} remains loyal to the alliance and is sending you their warriors.\n\n$ You will be able to use them in one upcoming battle, or they will return home in three days.\n$ For each warrior that dies, {soul_uuid_king} will degrade your treatment by <red>{rel_every_soldier_dead}</red>",
+  "Request for assistance\n{soul_uuid_king} considers your victory impossible, claiming resistance to the killing of his warriors and yours. They have betrayed you; no aid will be given.\n\n$ They is leaving the alliance of free cities.\n$ Attitude of {soul_uuid_king} toward you: <red>{rel_defence_alliance_broken_by_ai}</red>",
+  "~\nI hasten to inform you that my aid will soon be on its way. I shall pray fervently for this battle to conclude with a resounding victory, and that we may not suffer grievous losses!",
+  "~\nTo aid our allies is our sacred duty. Await reinforcements; they shall arrive shortly! I pray that Mother Sophia does not turn her favor from us, although recently, she has not been as generous with her blessings.",
+  "~\nYou're asking me to send my warriors to a slaughter, not a war. Your enemy is formidable, and you should have thought twice before making such enemies! So, do not expect my support!",
+  "~\nYou are well aware that your adversary outpowers both our forces combined! It is sheer madness to send warriors to certain demise. Forgive me, but I have no intention of partaking in this!",
+  "Sending aid\n{optional_additional_header}\nForm an expedition and send it to provide assistance.\n\n$ {soul_uuid_supported} is utilizing them in their upcoming battle, after which they will return home.\n{optional_send_help_effects}\n{optional_allyship}\n{optional_will_gain_duty_of_honor}",
+  "Request for aid\n{optional_type_of_danger}\n\nYour forces have arrived as reinforcements for {soul_uuid_supported} and will remain in the city for 3 days or until the first battle.\n\nConsequences:\n{optional_send_help_effects}\n{optional_gain_duty_of_honor}",
+  "Request for aid\n{optional_type_of_danger}\n\n{soul_uuid_king} did not wait for your assistance.\n{optional_ignore_allyship}",
+  "Aid in battle\nYour forces have successfully aided in repelling the enemy's attack!"
+]

@@ -1,0 +1,12 @@
+[
+  "Economy Menu\n\nHere, in the central column, you can set up daily or one-time resource distribution to your characters.\n\nYou are currently providing Flour to peasants, but let’s also give them one bottle of Moonshine each day.\n\n$ Click Every Day\n$ Select the resident category Peasants\n$ Select Moonshine",
+  "Economy Menu\n\nGreat!\n\n$ Close the Economy Menu",
+  "No access to food\nA new type of character, {group_name}, has appeared in the city. However, they are not receiving <hint=hint_food>food</hint> and will soon begin to starve.  \n\n$ Open the <b>Economy Menu</b> and set up a daily food distribution,  \n$ Or you can configure <hint=hint_resource_gold>Gold</hint> distribution there and simultaneously set up food sales on the local market (This option is not available for prisoners and requires the \"Wages\" knowledge.)",
+  "Politic's Rebellion\n[hint_puppet_riot]",
+  "~\n<red>The politician decided to start an uprising</red>",
+  "[hint_mind_caption]  \nHow nice to be among people like me! To see someone other than my wife and work colleagues...\n\nReason: Visited a public place",
+  "Comfort\nThe quality of the building and neighboring structures affects the comfort of its residents. Nearby production buildings cause inconvenience to residents, while public places increase comfort.",
+  "Warrior Priority\nIf enabled, this house will primarily be occupied by warriors.",
+  "Missing\nWill likely return to their hometown in a few days.",
+  "Lord Became a Politician\n{soul_uuid} has become a <hint=hint_politic>politician</hint>.\n\nAs long as their loyalty remains high, you have nothing to fear. Moreover, they can be useful, as they will gain more experience and develop their skills faster.\n\nNevertheless, he will mostly spend his money not on luxury, but on expanding his circle of <hint=hint_followers>followers.</hint>"
+]

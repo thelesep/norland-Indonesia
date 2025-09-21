@@ -1,0 +1,12 @@
+[
+  "~\nI am writing to express my delight at the inception of such a lucrative trade agreement. Not everyone can sheathe their sword and engage in negotiations.",
+  "~\nAs you may be aware, the term of our trade contract has expired. It has been quite advantageous.",
+  "~\nI write to you to make you aware of the termination of our trade agreement. Could a new one be possible? We shall see.",
+  "~\nI write to you to make you aware that my predecessor has passed away. The trade agreement you entered into with him yields no benefit. Consider it null and void.",
+  "~\nMy predecessor has departed from this world, and I have always held reservations regarding this commercial arrangement. Can such terms truly be deemed advantageous? I hereby annul this pact.",
+  "~\n$ Contract creation cost: <hint=hint_resource_paper>{trade_agreement_cost_paper}.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} believes that the bandit camp near your city poses a security threat to caravans and travelers. You must address this issue.\n\n$ You must destroy the bandit camp near your city.\n$ If you fail to do so, your relationship with {soul_uuid_king} will deteriorate by <red>{rel_de}</red> in 2 days.",
+  "~ \n$ The bandit camp in your province has been destroyed, and {soul_uuid_king} no longer has any grievances.",
+  "~ \n$ You have chosen not to attack the bandits, and their camp remains in place. \n$ Your relationship with {soul_uuid_king} has deteriorated by <red>{rel_de}</red>.",
+  " "
+]

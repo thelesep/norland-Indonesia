@@ -1,0 +1,12 @@
+[
+  "Bishop\nThe bishop leaves the province because relations with the <hint=hint_relations_matriarch>Matriarch</hint> have fallen below <red>-50</red>",
+  "Title\nTo begin pruducing {product}",
+  "Poor relations with the Matriarch\nAs a result of your recent actions, your <hint=hint_relations_matriarch>relations with the Matriarch</hint> have fallen below 0.\n\nFurther deterioration will result in an embargo on certain goods from the Holy Caravan, followed by a complete embargo and ultimately a <hint=hint_church_curse>Church curse</hint>.\n\nTo restore relations:\n$ Improve your king's relationship with the bishop (above <green>+25</green>, preferably above </green>+50</green>).\n$ Increase the number of fanatics through preaching in Temples.\n$ Perform righteous deeds on the world map (e.g., destroying bandit camps).",
+  "Insufficient Resources\nTo relocate the building, <hint=hint_resource_wood>{wood_count}</hint> is required.",
+  "Lord has been seduced\n{soul_uuid_1} has been seduced by someone from among your neighbors. Their <hint=hint_loyalty>loyalty</hint> is at risk, and if it drops below <red>{threshold}</red>, they may leave.\n\n<b>Hint:</b> To restore loyalty, the king can give the lord rings as a gift or threaten him. To protect yourself from such intrigues completely, maintain the lord's high spirits so that they become a <hint=hint_loyalist>loyalist</hint>, who cannot be bribed or seduced.\n\nA lord cannot be seduced if they are in love with someone else.",
+  "Lord has been captured\nA lord has been captured and is currently in captivity.",
+  "Age\nAge is set automatically and depends on the level of skills the character has acquired when spawning in. The more experienced the character is, the older they are.",
+  "Unavailable\nThe bishop has not yet arrived at your estate because the Matriarch considers its population too small.\n\nFor the bishop to take an interest in your affairs, the population must be greater than <b>{population}</b>.\n\nAdditionally, the bishop will not come if your king's relationship with the <hint=hint_relations_matriarch>Matriarch</hint> is below <red>{opinion}</red>.",
+  "Bishop is absent\nA new bishop will arrive when the relationship between your king and the <hint=hint_relations_matriarch>Matriarch</hint> is above <red>{opinion}</red>.",
+  "Peaceful\nThe kings of this province will behave peacefully, avoiding subjugation and conflicts with neighbors."
+]

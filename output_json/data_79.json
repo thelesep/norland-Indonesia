@@ -1,0 +1,12 @@
+[
+  "Resources Spent\nIncludes wages, consumption of food and alcohol by lords and prisoners, construction costs, and resources used in production.",
+  "Local Market Trade\nThe total value of all goods sold to your peasants at the local market, taverns, and drug dens.",
+  "External Trade\nThe balance of trade with your neighbors on the world map.",
+  "Trade with the Holy Caravan\nThe balance of trade with the Holy Caravan.",
+  "Lords\n\n{details_stack}",
+  "Peasants\n\n{details_stack}",
+  "Prisoners\n\n{details_stack}",
+  "Warriors\n\n{details_stack}",
+  "Vagabonds\n\n{details_stack}",
+  "Terror is getting out of control\nDuring the ongoing terror, all vagabonds and unemployed peasants have been punished. If you do not stop it, the executioners will begin punishing ordinary peasants.\n\nTo stop the terror, find the <hint=hint_bld_scafod>Scaffold</hint> where this mode is enabled."
+]

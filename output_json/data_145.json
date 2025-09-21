@@ -1,0 +1,12 @@
+[
+  "~\n$ The squad defeated you and vanished into the depths of the forest",
+  "~\n$ You captured {slaves_captured} prisoners",
+  "More",
+  "~\nThis action can be executed with the help of a <hint=hint_sender>messenger</hint>.",
+  "The Church's attitude toward Tanaya\n<hint=hint_sofia_cult>The Loving Family</hint> always supports its loyal sons of <hint=hint_culture_tanaya>Tanaya</hint>, therefore helping this king is <b>blessed</b>.",
+  "The Church's attitude toward Makha\n<hint=hint_sofia_cult>The Loving Family</hint> has a dislike for the former heretics of <hint=hint_culture_makha>Makha</hint>, therefore helping this king is <b>not blessed</b>.",
+  "The danger is over\n{faction_uuid} is now safe, as the enemy has changed their plans and is no longer going to attack here. Your troops are on their way home.",
+  "~\nThe danger has passed; the enemy had a change of heart and decided not to attack. I appreciate your assistance, but I am relieved that it was not needed. Our prayers have been answered!",
+  "~\nThank you for the help you sent. However, the enemy proved to be more cowardly than a hare and had second thoughts about entering the battle. It will be quite a laugh when everyone hears about it!\n",
+  "~\n$ Matriarch approves aid against the Horde: <green>{church_rel_im}</green>"
+]

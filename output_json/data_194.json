@@ -1,0 +1,12 @@
+[
+  "~\nI cannot believe that {hostage_name} turned out to be a serpent I sheltered in my own house! Let it be known that their time left on this earth is short!",
+  "~\nPerhaps you are rejoicing now that {hostage_name} chose your family. However, can you be certain they won't betray you as well? Traitors are born, not made.",
+  "~\nEven a scoundrel would not stoop so low as to kill an unarmed captive! I will avenge {hostage_name}, for only in this way will their soul find peace. Be cursed!",
+  "~\nThere is no greater sorrow on earth than the loss of a loved one! You have slain {hostage_name}! Do you think this will go unpunished? Holy Sophia witnesses all!",
+  "~\nThe noble House of {soul_uuid_hostage} has ceased to exist, so {soul_uuid_hostage} has been released from your captivity.",
+  "~ \n$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>",
+  "~\n$ Relationship with {soul_uuid_king}: <green>{rel_im_help_neighbores}</green>",
+  "Aid against the Horde\n{optional_type_of_danger}\n\nThe <hint=hint_synode>Loving Family</hint> implores that all noble kings set aside their differences and help them repel this threat.\n\nOnly together can you withstand the invasion!\n\nThe army you send to aid will fight alongside {soul_uuid_king}'s army against the Horde.\n\n<b>Consequences:</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_will_gain_duty_of_honor}\n{optional_possible_helpers}",
+  "~\nOur victory was hard-fought, but we stood firm against those wicked foes. Thank you for sending reinforcements just in time. The struggle against this blight is a sacred duty. Know that I will rush to your aid at any moment should you ever need it!",
+  "~\nThe menace of the Unholy Horde shall never grant our lands respite. But if all stand against it as you did, sending me reinforcements, our world may yet harbor hope! Thank you, dear neighbor!"
+]

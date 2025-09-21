@@ -1,0 +1,12 @@
+[
+  "[hint_advisor_caption]\nYour state has become the dominant force in the world, and you can <hint=hint_tutorial_emperor>crown</hint> yourself as emperor to win the game.\n\nTo do this, select the Coronation of the Emperor in your ruler's menu. Within a few days, you can expect a squad of <hint=hint_inqusitors>Inquisitors</hint> to attempt to burn your province to the ground.\n\nThis is the final challenge in the game, after which there is no return - you will either defeat the punitive squad of Inquisitors and win the game, or you will lose. In any case, the game will end.",
+  "[hint_advisor_caption]\n[hint_display_event_lord_want_to_kill_someone]\n\n{haters_pair}",
+  "~\nWelcome to the Norland!",
+  "~\nYou are in charge of helping a noble family of lords who own a province in Norland achieve prosperity, security, and personal ambitions. \n\nYour lords obey your commands, but they also have their own will. \n\nYour history is just beginning...",
+  "Camera controls\n\nLet's take a look around.\n\n$ Use the {input.action.camera_up} {input.action.camera_left} {input.action.camera_down} {input.action.camera_right} keys, or held down the {input.action.camera_move} to move the camera.\n\nGive it a try!",
+  "Great!\n\nZoom in and out using {input.action.zoom_in} and {input.action.zoom_out}.",
+  "Pause\n\nWhen you need to stop and think, pause the game by pressing the {input.action.speed_pause} key or the button in the bottom right corner.",
+  "Speed up time\n\nSometimes it makes sense to accelerate the passage of time - for example, at night when everyone is sleeping.\n\nTry different game speeds using the {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} keys or the time control buttons.",
+  "Character needs\n\nWhile you can only directly give orders to your lords, all characters in Norland have thoughts and needs. If these needs are not met, characters will become unhappy and start causing problems.\n\n1. Select a lord by clicking on their portrait.\n2. Click on the <b>Mood</b> tab in the <b>Character menu</b> to see their <b>thoughts and needs</b>.",
+  "Food and alcohol\n\nThe most basic of needs are <b>food and rest</b>, which are replenished by consuming food and alcohol.\n\nYou have a stock of provisions for the time being, but it's necessary to ensure reliable food and alcohol production so your characters don't go hungry.\n\nTo do this, let's learn how to construct and manage buildings, starting with managing builders."
+]

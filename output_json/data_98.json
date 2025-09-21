@@ -1,0 +1,12 @@
+[
+  "Envious\nMore prone to feeling envious toward others.",
+  "Cynical\nSocial thoughts are weaker, as well as thoughts about the death of loved ones.",
+  "Gambling addiction\nGets bad thoughts if they haven't played dice for a long time. Thoughts of winning and losing are intensified.",
+  "Ascetic\n$ Does not experience thoughts of lack or excess of rings.\n\n<b>Cause:</b> Was a religious fanatic for a long time.",
+  "Contemptuous  \n$ Increased chance the character will choose to ignore others during conversations\n\n<b>Cause:</b> Held a large amount of money (more than <hint=hint_resource_gold>{contemptuous_money_threshold}</hint>) for {contemptuous_days} days in a row.",
+  "Coward\n$ Negative thought about the character from the squad they lead.\n$ Negative thought about the character from other lords.\n\n<b>Cause:</b> Fled during a battle.",
+  "Gluttonous\n$ Moves slower.\n$ Combat skill <red>-5.</red>\n$ Interest in the character <red>-20</red>.\n\n<b>Cause:</b> Was unhappy for a long time.",
+  "Hatred of substances\n$ Hates alcoholics and drug addicts.\n\n<b>Cause:</b> Someone close is suffering from addiction.",
+  "Misandrist\n$ -20 relations with men.\n\n<b>Cause:</b> Someone betrayed this character or they have long been unrequited in love.",
+  "Misogynist\n$ -20 relations with women.\n\n<b>Cause:</b> Someone betrayed this character or they have long been unrequited in love."
+]

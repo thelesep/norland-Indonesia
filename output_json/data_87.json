@@ -1,0 +1,12 @@
+[
+  "Blindness  \n<b>For lords:</b>  \n$ The character cannot read or copy books. Some other actions are also restricted.  \n$ <hint=hint_interest>Interest</hint> in the character decreases by {interest_down}.  \n$ All skills decrease by {skill_down}, however, the <hint=hint_skill_speech>Persuasion</hint> skill increases by {skill_up}.  \n\n<b>For lowborn characters:</b>  \n$ Prisoners do not escape.  \n$ Warriors cannot train at the Training Ground.  \n$ Peasants do not become vagabonds.  \n\n<b>For all characters:</b>  \n$ Movement speed decreases by {move}%.  \n$ The character does not gain experience from combat.  \n$ The <hint=hint_skill_combat>Combat skill</hint> becomes 0.",
+  "Bruise\nCauses <hint=hint_pain>pain</hint>, but nothing serious.\n\n[hint_injury_remain_time]",
+  "Minor bruise\nCauses a little <hint=hint_pain>pain</hint>.\n\n[hint_injury_remain_time]",
+  "Severe burn\nCauses intense <hint=hint_pain>pain</hint>.\n\n[hint_injury_remain_time]",
+  "Minor burn\nCauses slight <hint=hint_pain>pain</hint>.\n\n[hint_injury_remain_time]",
+  "Moderate burn\nCauses significant <hint=hint_pain>pain</hint>.\n\n[hint_injury_remain_time]",
+  "Light cut\n<hint=hint_wounds>Wound</hint> from the cut.\n\n$ Causes <hint=hint_pain>pain</hint>.\n \n[hint_injury_remain_time]",
+  "Pierced hand\n<hint=hint_wounds>Wound</hint> from an arrow.\n\n$ Causes <hint=hint_pain>pain</hint>.\n \n[hint_injury_remain_time]",
+  "Pierced shoulder\n<hint=hint_wounds>Arrow wound</hint>.\n\n$ Causes <hint=hint_pain>pain</hint>.\n \n[hint_injury_remain_time]",
+  "Pierced leg\n<hint=hint_wounds>Arrow wound</hint>.\n\n$ Causes <hint=hint_pain>pain</hint>.\n \n[hint_injury_remain_time]"
+]

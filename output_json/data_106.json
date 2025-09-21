@@ -1,0 +1,12 @@
+[
+  "Knowledge\n[hint_idea]",
+  "Interest\n[hint_interest]",
+  "Education\nCharacters can improve their <hint=hint_skills>skills</hint> by <hint=hint_learning>learning</hint> with other characters or by performing actions related to that skill (for example, studying knowledge increases the <hint=hint_skill_knowledge>Intelligence</hint> level).\n\n<img=hint_encyclopedia_teaching></img>\n\nChildren gain several times more experience from training than adults.\n\n$ Find a child and start their education in the Character menu.\n\n<b>Hint</b> Your lords can also be trained by guests. With good relationships, you can invite skilled lords from neighboring settlements.",
+  "Sin\n[hint_sin]",
+  "Loyalty\n[hint_loyalty]",
+  "Desire\n[hint_desire]",
+  "Personality Traits\nEach lord has unique personality traits\n\n<img=hint_tutorial_traits></img>\n\n$ Inborn traits are given at birth and can be partially inherited from parents.\n$ Upbringing traits appear as they grow up; their quality depends on whether the character was happy or unhappy during childhood.\n$ Life traits may appear throughout life as a result of complex situations the character encounters.\n$ Finally, talent traits are granted when leveling up a <hint=hint_skills>skill</hint> marked with <hint=hint_talant>talent</hint> up to level 15.",
+  "Nervous Breakdown\n[hint_tantrum]",
+  "Terror\n[hint_terror]",
+  "Patrols\n[hint_persons_guard]"
+]

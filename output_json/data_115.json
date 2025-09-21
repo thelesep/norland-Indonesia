@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\n{name} is <hint=hint_sick>ill</hint>, and I'm worried. I hope we have enough resources for <hint=hint_heal>treatment</hint>...",
+  "[hint_mind_caption]\n{name} has been <hint=hint_punish>punished</hint>. Perhaps it was deserved, but it doesn't make me feel any better!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nThis chatter is so exhausting! I hope we have some cold <hint=hint_resource_beer>Beer</hint> left...\n\nReason: <hint=hint_th_speach_fatigue>Speech fatigue</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nExplaining to these fools what they should do is so tiresome! I hope we have some cold <hint=hint_resource_beer>Beer</hint> left...\n\nReason: <hint=hint_th_inspection_fatigue>Inspection fatigue</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nPhew... All this knowledge... I'm really exhausted...\n\nReason: <hint=hint_th_study_fatigue>Study fatigue</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI'm terribly exhausted from work today!\n\nReason: <hint=hint_th_fatigue>Work fatigue</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt's nice when the <hint=hint_persons_king>king</hint> <hint=hint_action_task_reward>rewards</hint> your efforts!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n <hint=hint_persons_king>The king</hint> believes that I could betray him... I'm scared, but I assured him of my <hint=hint_loyalty>loyalty</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt's so enjoyable to talk about someone behind their back...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} must face punishment for their <hint=hint_crime>crimes</hint>. It's justice!\n[hint_mind_remain_time]"
+]

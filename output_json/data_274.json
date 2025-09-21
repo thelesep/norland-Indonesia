@@ -1,0 +1,12 @@
+[
+  "Knowledge Required  \nTo sell goods to your residents, you need to research the {tech_name} knowledge.",
+  "Reconciliation\n{skill_name} {skill_level} lvl.\n\n<b>As a result:</b>\n$ Relationship of {soul_uuid_king} to {soul_uuid_king_s} will improve by: <green>{gift_rel_improve}</green>\n\nCurrent relationship: {rel_current}\n\n<b>Cost</b>: {gift_for_king_resource}",
+  "Reconciliation\nThe lord will gift {gift_for_king_resource} to the head of another house on behalf of a neighbor. The gift type depends on the city's <hint=hint_culture>culture</hint>.\n\n<b>As a result:</b>\n$ His relationship with the noble family head of this neighbor will improve by an amount based on the giver’s <hint=hint_skill_speech>Persuasion</hint> skill.\n\nThis action is possible even if the king is not in the city – he will be notified of the gift.\n\n[hint_SENDER]",
+  "Unavailable\nThis character currently does not feel hatred toward anyone.",
+  "[hint_mind_caption]\nI’m completely broke! What a disgrace!\n\nReason: The character has no <hint=hint_resource_gold>Gold</hint>. Reward them to rid them of this thought.\n\n<b>Hint:</b> If a character's wealth reaches <hint=hint_resource_gold>{rich_coins}</hint>, they will gain a permanent positive thought.",
+  "[hint_mind_caption]\nA lot of money is always a good thing! I hope I can keep it safe!\n\nReason: The character has accumulated a lot of <hint=hint_resource_gold>Gold</hint>.\n\n<b>Hint:</b> If the character’s condition reaches <hint=hint_resource_gold>{very_rich_coins}</hint>, they will gain an even stronger positive thought.",
+  "[hint_mind_caption]\nHoly Sophia, I’m rich! This is just an incredible feeling!\n\nReason: The character has accumulated a very large amount of <hint=hint_resource_gold>Gold.</hint>",
+  "~\nThank you for the generous gift! Perhaps I was too harsh towards {soul_uuid_king_s_name}. For your sake, I am willing to give this rutabaga digger a chance.",
+  "~\nVery well, I will forgive {soul_uuid_king_s_name} if you insist. Some may see this as weakness, but our people desire peace! Let him be grateful to you!",
+  "~\nI ought to punish {soul_uuid_king_s_name} for his insolence, but after such a gift I am obliged to give him a chance! But don’t think my patience can be bought so easily! I hope he behaves himself..."
+]

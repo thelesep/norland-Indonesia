@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nPhew... That was something!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nWhen I'm <hint=hint_sick>sick</hint>, any sympathetic word helps...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} is pretending I don't exist! It's so unpleasant!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI haven't seen any food for several days... How much longer can I hold on before I die?\n\nReason: Not eating for a long time.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI'm afraid I'll be next!\n\nReason: <hint=hint_terror>terror</hint> among this class of population.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nDamn, it hurts so much!",
+  "[hint_mind_caption]\n{name} attempted to poison me! Luckily, they don't seem to know what they're doing!\n\nReason: Failed attempt to poison the character.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI know I'm ugly...",
+  "[hint_mind_caption]\nIt's nice to have a beloved person!",
+  "[hint_mind_caption]\nWe are no longer together.\n[hint_mind_remain_time]"
+]

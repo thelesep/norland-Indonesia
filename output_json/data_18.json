@@ -1,0 +1,12 @@
+[
+  "Herbalist\nHerbalists collect <hint=hint_resource_herb>Herbs</hint> in the nearby forest.",
+  "Bridge\nUsed to cross to the other side.",
+  "Bush\nJust a decoration.",
+  "Disturbing Decoration\nAn ornament that can instill a sense of <hint=hint_terror>terror</hint> in some characters.",
+  "Soothing Decoration\nAn ornament that can evoke a positive <hint=hint_thought>thought</hint>.",
+  "Hospital\nPatients receive care here, which greatly reduces the recovery time of wounds or illnesses.",
+  "Bath\nCures <hint=hint_vshi>lice</hint>, which is not only unpleasant but can also be a source of <hint=hint_plague>foul plague</hint>.\n\nRequires <hint=hint_resource_soap>Soap</hint> and <hint=hint_resource_wood>Wood</hint> to operate.",
+  "Library\nRequired for working with knowledge.",
+  "Decoration\nDoes not affect the game, but serves as a visual delight.",
+  "Night Patrol\nMarks the area of <hint=hint_persons_guard>patrolling</hint>.\n\nPlace this in important locations, such as lords' houses, the city center, and warwehouses, to protect these ares from <hint=hint_crime>crimes</hint>. Night patrols also prevent prisoner escapes.\n\nGuards from among your warriors will automatically go out on patrol in the <b>evening</b>."
+]

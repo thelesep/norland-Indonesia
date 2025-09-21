@@ -1,0 +1,12 @@
+[
+  "~\n* {soul_uuid_trader} is infatuated with {soul_uuid_performer} (relationship above <green>100</green>) and <green>is willing to offer a significant discount.</green>",
+  "~\n* <b>Hint</b> If {soul_uuid_trader} were infatuated with {soul_uuid_performer} (relationship above <green>100</green>), they could offer a large discount.",
+  "~\nKnow that our lands are now divided. And if you seek the reason for this, look in the mirror. In a difficult moment of need, I did not receive help from you. From this moment on, your state has become smaller!",
+  "~\nThe oath of military assistance was given by you when I agreed to become part of your state. And what was the response? In a difficult moment, you abandoned me! From now on, nothing binds us!",
+  "~\nAccept my gratitude for the support you sent me. And believe me, I regret that the sorrow of losing such warriors was not compensated by victory. However, we are now forced to go our separate ways. I hope you won't harbor any resentment towards me.",
+  "~\nYour wars were fought bravely, but luck was not on our side. I must confess to you, and don't think this decision came easily to me. Our paths must diverge. I regret it.",
+  "Power Struggle.\nAs long as there is a power struggle, the lords and armies of this province will not leave its borders.",
+  "The lord is in the army.\nThis lord is in the army that has come to the aid of this city. No social interactions are possible.",
+  "The lord is out of town\nThis character is currently a guest in the city of {faction_uuid}.\n\nPresumably will be home in {remain_time}.",
+  "Lord is on a journey\nThis character is currently travelling somewhere on the global map."
+]

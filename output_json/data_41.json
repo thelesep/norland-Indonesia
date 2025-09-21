@@ -1,0 +1,12 @@
+[
+  "The Fall of a Noble House\nAs a result of a series of tragic events and deaths, the story of Noble House {faction_uuid} comes to an end today.\n\nIts ancestral settlement has turned into ruins and its inhabitants have scattered.\n\nSic transit gloria mundi!",
+  "Ambitious king\nRumors have it that the ruler {soul_uuid_king} from {faction_uuid_king} is exceptionally gifted and ambitious. \n\n[hint_trait_genius_king]",
+  "The Unholy Horde\nThere are still {remain_days} days until the end of the crisis. There's no telling if anyone will survive.",
+  "The crisis is over.\nThe wicked Horde has disbanded.\n\nRumors suggest that their leader died in mysterious circumstances, revealing the weakness and fallacy of their teachings to the believers, who scattered into the forests.\n\nBut no one knows the exact cause.\n\nRegardless, the Horde exists no more, and only the ruins of the cities it burned serve as a reminder of the terrible threat that loomed over Norland not long ago.",
+  "The cutthroats are bribed\nSomeone from among your unfriendly neighbors has bribed your cutthroats, and they are prepared to do something malicious tonight.\n\nWe advise strengthening the patrols around the noble houses, the Hall, and the Library.",
+  "Await the Inquisition\nSoon, the faithful will inform the <hint=hint_synode>Loving Family</hint> that your bishop did not die a natural death, and the Strict Father will come to cleanse the city of sin.\n\nThen the <hint=hint_inqusitors>Inquisition</hint> forces will bring upon you the justice of Sophia, and the survivors will be forgiven.\n\nYou had better prepare.",
+  "Tribute from your vassals\nThe Holy Caravan guarantees vassal payments between vassals and suzerains.\n\nThe amount is calculated daily and accumulates until the arrival of the caravan.\n{optional_tax_info}",
+  "Tribute to your suzerain\nThe Holy Caravan guarantees vassal payments between vassals and suzerains.\n\nThe amount is calculated daily and accumulates until the arrival of the caravan.\n{optional_tax_info}",
+  "Tax on warriors\n$ Total amount due: <hint=hint_resource_gold>{rune_number}</hint>\n{optional_less_tax}\n\nLearn more about the <hint=hint_tutorial_church_tax>tax on warriors</hint>.",
+  "Price Forecast\nThanks to their <hint=hint_trait_forecaster>Forecaster</hint> trait, {soul_uuid} was able to learn from the caravanner that <b>{resource_name}</b> will cost <b>twice as much</b> the next time the Caravan comes."
+]

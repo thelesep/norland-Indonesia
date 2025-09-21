@@ -1,0 +1,12 @@
+[
+  "Assign Tanaya\nAppoint workers from among the <hint=hint_culture_tanaya>tanaya</hint> population.\n\nTheir traditional skills allow them to work with paper 20% more efficiently.\n\n[hint_priority_workers]",
+  "Assign Makha\nAppoint workers from among the <hint=hint_culture_makha>makha</hint> population.\n\nTheir traditional skills allow them to brew potions and make tools 20% more efficiently.\n\n[hint_priority_workers]",
+  "Assign Varns\nAppoint workers from among the <hint=hint_culture_voruns>varn</hint> population.\n\nTheir traditional skills allow them to work in agriculture 20% more efficiently.\n\n[hint_priority_workers]",
+  "Daily inspection\nThe lord will conduct inspections every day.",
+  "Any lord\nIf the inspection has ended (but the lord is still appointed), it is carried out first by the clerk from the Chancellery, and then, if possible, by any other lord with the minimum number of inspections.",
+  "No lord's Hall\nTo construct other buildings, you need to first build a Hall for your lords.",
+  "Administration\nThe clerk from the <hint=hint_bld_chancellery>Chancellery</hint> will distribute instructions to workers.\n\n{bonus_info}\n\nThe Chancellery serves the production: {number} / {limit}",
+  "Unavailable\nAll clerks are busy or the chancelleries are not working.",
+  "Any chancellery\nThe building will be able to inspect any <hint=hint_bld_chancellery>Chancellery</hint> at the first opportunity.",
+  "Action unavailable\nNo actors available for this action."
+]

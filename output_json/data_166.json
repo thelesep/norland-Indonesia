@@ -1,0 +1,12 @@
+[
+  "Threat of vassalage\n{optional_type_of_danger}\n\nTherefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.\n\nYou can send your army to help defend {faction_uuid}.\n\n<b>Consequences</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\n{soul_uuid_king} emerged victorious and maintained his independence.",
+  "~\n{soul_uuid_king} was defeated and became a vassal of {faction_uuid_s}.",
+  "~\nI sincerely thank you for your support: it is solely due to your intervention that I was able to preserve my freedom and avoid the humiliating status of a vassal. The battle was fierce, and I surely would not have been able to handle paying such an exorbitant tribute to that villain.",
+  "~\nYou have freed me from paying such an unimaginable tribute; may Holy Sophia reward you for this! I realize that your army has suffered significant losses, but rest assured, I will not leave this debt unpaid!",
+  "~\nI see you are in dire need of sworn enemies! Did you truly believe that you could shield this wretch from my vassal authority? Your failure will serve as a stark reminder to others that standing against me is the epitome of foolishness!",
+  "~\nYou have exhibited not merely folly, but also paraded your cowardice on the battlefield for all our neighbors to see. To subjugate any I choose is my sovereign right, and this you would do well to remember.",
+  "Threat of annihilation\n{optional_type_of_danger}\n\nTherefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.\n\nYou can send your army to help defend {faction_uuid} from complete destruction.\n\n<b>Consequences</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_will_gain_duty_of_honor}\n{optional_possible_helpers}",
+  "~\n{soul_uuid_king} emerged victorious and defended their life and province.",
+  "~\n{soul_uuid_king} was defeated, and their family was destroyed, and the city was razed"
+]

@@ -1,0 +1,12 @@
+[
+  "Coal Furnace\nHere, <hint=hint_resource_coal>Coal</hint> is produced.",
+  "Mine\nHere, <hint=hint_resource_iron>Iron</hint> is extracted.\nIt can only be located on an iron deposit.",
+  "Coal Furnace\nHere, <hint=hint_resource_coal>Coal</hint> is produced.",
+  "Smelting Furnace\nHere, <hint=hint_resource_steel>Steel</hint> is smelted.",
+  "~\nThe harvest is collected every 3 days, and sometimes it may perish if there hasn't been rain for a long time.\n\nEvery {fert_days} days, it requires fertilization by burning <hint=hint_resource_wood>{fert_number}</hint>.",
+  "Rye Field\nHere, <hint=hint_resource_rye>Rye</hint> is grown.\n\n[hint_field_fert]",
+  "Hop Field\nHere, <hint=hint_resource_hop>Hops</hint> are grown.\n\n[hint_field_fert]",
+  "Rutabaga Field\nHere, <hint=hint_resource_rutabaga>Rutabagas</hint> are grown.\n\nThe harvest is collected every day.\n\nEvery {fert_days} days, fields require fertilization by burning <hint=hint_resource_wood>{fert_number}</hint>.",
+  "Mill\nHere, <hint=hint_resource_food>Flour</hint> is produced.",
+  "Pig Farm\nHere, pigs are raised for <hint=hint_resource_meat>Meat</hint>.\n\nThe pig population is slaughtered every 6 days.\n\nThe start of the breeding cycle requires a supply of <hint=hint_resource_rutabaga>50</hint> as feed for the pigs."
+]

@@ -1,0 +1,12 @@
+[
+  "~\nIt is a rare deed in these times for one to aid a neighbor whose kingdom lies in peril! I thank you for saving my home from certain doom!",
+  "~\nYou not only aligned with my foe but also revealed to the world your cowardice as a warrior! Your defeat today is merely the prelude. I shall make it my endeavor to leave you without a single warrior to call your own.",
+  "~\nNot only did you side with my enemy, but you also displayed to the world your cowardice as a warrior! Your defeat today is but the beginning. I will exert all my efforts to ensure that not a single warrior remains at your side.",
+  "~\nNo one dares to side with my enemy and goes unpunished! The fact that you would lose this battle was so obvious that it makes me question your sanity!",
+  "Marauders approaching\n{optional_type_of_danger}\n\nTherefore, King {soul_uuid_king} requests all neighbors who are able to help him.\n\nAnd since the marauders are <hint=hint_cainism>heretic Cainites</hint>, this action is warmly blessed by <hint=hint_sofia_cult>the Church</hint>.\n\n<b>Consequences</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\nYou have defeated the marauder squad, and {soul_uuid_king} will save his village.",
+  "~\nYou suffered a defeat from the marauder squad, but {soul_uuid_king} is grateful to you for the attempt.",
+  "~\nOnly a valiant warrior such as yourself could contend with these marauders. You have saved a multitude of innocent souls from death and bondage, and I shall remain indebted to you until the end of my days. Great thanks to you!",
+  "~\nIf it weren't for your help, these marauders would have destroyed my entire settlement. May Holy Sophia protect you and your family at all times!",
+  "~\nI sincerely regret that you and your warriors have suffered at the hands of these merciless marauders. I am to blame for all of this-after all, it was I who called upon you for help. Thank you, dear neighbor, for your invaluable support!"
+]

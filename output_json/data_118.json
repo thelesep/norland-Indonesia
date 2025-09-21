@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\n{name} is no longer with us... Regardless of our relationship, it is a loss for our family.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nMother Sophia, have mercy on your slave! Accept as a gift my suffering!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
+  "[hint_mind_caption]\nSomehow, my soul feels lighter now... \n\nReason: Fight with the <hint=hint_enemy>enemy</hint> ({name}).\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} was so kind to acknowledge my virtues...\n\nReason: <hint=hint_speech_flattery>Flattery</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI know better what to do and when is best to do it!\n\nReason: Forced to do <hint=hint_action>task</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt was necessary to do this... \n\nReason: Task <hint=hint_action_task_seduce>seduce</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nDamn, luck wasn't on my side! Well, I'll make up for it!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nToday is my lucky day!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nHahaha! I still remember this <hint=hint_speech_joke>joke</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nHoly Sophia, my head!\n\nReason: Consumed <hint=hint_resource_beer>Beer</hint> yesterday: {number}\n[hint_mind_remain_time]"
+]

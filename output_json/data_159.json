@@ -1,0 +1,12 @@
+[
+  "~\nI'm glad we were able to establish an alliance between our cities. We are indubitably in need of each other's support. Long gone are the times when neighbors lived in peace and harmony!",
+  "~\nDissolving an alliance is a task easily done, but foreseeing its consequences is a far more intricate endeavor. I am bound to accept your decision, yet from my own experience, I would counsel that allies should not be taken for granted.",
+  "~\nTo dissolve a treaty with a neighbor in these times does not reflect well on you! There will come a day when you will need help, and my response will be silence!",
+  "Dissolve the city alliance\nAs the leader, you are dissolving your city alliance.\n\nThis will not affect the relationships between former allies.",
+  "Join an alliance\nThis means:\n[hint_defence_alliance_description]\n\nFor joining, you will receive: <hint=hint_resource_gold>{alliance_invite_price}</hint>",
+  "Alliance invitation\n{soul_uuid_king} invites you to join the alliance of free cities under their leadership.\n\nThis means:\n[hint_defence_alliance_description]\n\nFor joining, you will receive: <hint=hint_resource_gold>{alliance_invite_price}</hint>",
+  "You have joined an alliance\nYou have entered into a contract with {soul_uuid_king} and are now part of this alliance of free cities.\n\nThis means:\n[hint_defence_alliance_description]\n\nYou received: <hint=hint_resource_gold>{alliance_invite_price}</hint>",
+  "Request to join alliance\nAsk {soul_uuid_king} to admit you into the alliance of free cities under his leadership.\n\nThis means:\n[hint_defence_alliance_description]",
+  " ",
+  "Requesting help\n{soul_uuid_king} is your ally, and you may request his help in the face of threat.\n\n$ {soul_uuid_king} will send you a squad of his warriors. You can use them in one upcoming battle, or they will return home in three days.\n$ {soul_uuid_king} will treat you worse for each warrior from his squad that dies."
+]

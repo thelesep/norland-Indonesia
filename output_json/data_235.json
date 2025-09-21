@@ -1,0 +1,12 @@
+[
+  "Risk of Knowledge Loss\nLord {soul_uuid} holds {percent}% of all your technologies, and he is no longer young. This is risky because if something happens to this lord, all this knowledge will be lost.\n\n$ Use <hint=hint_action_wise_talk>Wise Conversation</hint> to share the knowledge from this lord with others\n$ Assign another lord (preferably a younger one) to study the knowledge currently held solely by {soul_uuid}",
+  "Production halted\nThe order will not be fulfilled because all production buildings of this type have been stopped or do not have workers.",
+  "Persona Non Grata\n{soul_uuid_lord}: The Lord is permanently banned from visiting the city of {faction_uuid} due to crimes committed against the province.",
+  "[hint_mind_caption]\nI have someone who loves me just for who I am!",
+  "[hint_mind_caption]\nIt was really nice to play with the dog!",
+  "Unable to summon\n{faction_uuid} has no warriors they can send to assist you.",
+  "~\nFor the support support they have provided to you, your chosen vassals will be exempt from vassal tax for {days} days. In total, you will be underpaid by about <hint=hint_resource_gold>{tax_free_amount}</hint> during this time.",
+  "A rebellion is brewing\nYour vassal {soul_uuid_king} from the province {faction_uuid} has become hostile toward your king and is preparing to break away from your rule.\n\nIf within 24 hours you do not manage to restore relations with them from {current_opinion} to {min_opinion_threshold}, a rebellion will begin.\n\n<b>Hint:</b> You can also try to neutralize the rebellious vassal by other means (e.g., by killing or kidnapping them).\n\n{optional_other_rebel_vassals}",
+  "~\nThere is a chance that these vassals will support the rebellion when it begins:",
+  "Bribe the heir\nBribe the crown heir {soul_uuid_heir} to instigate a rebellion."
+]

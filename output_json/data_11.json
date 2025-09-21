@@ -1,0 +1,12 @@
+[
+  "Bribe for sex\n$ The lord will give the peasant <hint=hint_resource_rune>{runes}</hint>, and the peasant will be pleased to fulfill their personal request.\n$ The peasant may give birth to a child who will be a <hint=hint_persons_bastard>bastard</hint>.\n$ This action is considered a <hint=hint_sin>sin</hint>.",
+  "Bribe for sex\n$ {soul_uuid_1} will fulfill their sexual needs.  \n$ {soul_uuid_1} will receive a <hint=hint_sin>sin</hint> with a strength of <red>{number2}</red>.  \n$ {soul_uuid_2} will receive a negative thought <red>{number3}</red>.",
+  "Insufficient Rings\nThis action requires <hint=hint_resource_rune>{count}</hint>.",
+  "Insufficient gold\nThis action requires <hint=hint_resource_gold>{count}</hint>.",
+  "Hostage Release\nThe king, in his mercy, grants freedom to the hostage.\n\n<b>Consequences:</b>\n$ Hostage will return home, and their king {soul_uuid_king} will be grateful to you for your mercy.",
+  "Release and Accept Into Family\nThe hostage will be released and join your family of lords. Their initial loyalty will be set to {loyalty}.\n\nKing {soul_uuid_king} will strongly disapprove of you poaching his lords.",
+  "Not available\nThere are no more available titles in your family.",
+  "Prisoner Release\nThe character is granted freedom and becomes a <hint=hint_persons_peasant>peasant</hint> or a warrior. The character may choose to leave your province.\n\nUpon release, the character receives a positive thought proportional to their desire for freedom.\n\n<b>Hint:</b> You can release prisoners more quickly by clicking the small red button on their portraits in the prison ward's menu.",
+  "Punishment\n$ Regular <hint=hint_crimer>criminals</hint> are punished by <hint=hint_persons_executer>executioners</hint>, while lords are punished manually by assigning a task to the <hint=hint_persons_king>king</hint>.\n$ Punishing the innocent will be perceived by other characters as <hint=hint_terror>terror</hint>.\n\nPunishments require the <hint=hint_bld_scafod>Scaffold</hint>.",
+  "Build a Scaffold\nTo carry out punishments, it is necessary to construct a <hint=hint_bld_scafod>Scaffold</hint>."
+]

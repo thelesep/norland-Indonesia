@@ -1,0 +1,12 @@
+[
+  "~\n{soul_uuid_king} accepted your offering and improved relations with {soul_uuid_king_s} by <green>{gift_rel_improve}</green>",
+  "[hint_mind_caption]  \nA pilgrim has blessed me with a holy slap! It's a true blessing!",
+  "Not enough Gold\nNot enough Gold in the treasury.\n\nRequires <hint=hint_resource_gold>{count}</hint>.",
+  "Unavailable  \n{soul_uuid} has the {trait_name} trait, which prevents this action.",
+  "Unavailable  \n{soul_uuid_performer} and {soul_uuid_target} are blood relatives.",
+  "Unavailable  \n{soul_uuid_performer} and {soul_uuid_target} must be of opposite genders.",
+  "[hint_mind_caption]\nI’m completely broke! What a disgrace!\n\nReason: The character has no <hint=hint_resource_gold>Gold</hint>. Reward them to rid them of this thought.\n\n<b>Hint:</b> If a character's wealth reaches <hint=hint_resource_gold>{rich_coins}</hint>, they will gain a permanent positive thought.",
+  "[hint_mind_caption]\nA lot of money is always a good thing! I hope I can keep it safe!\n\nReason: The character has accumulated a lot of <hint=hint_resource_gold>Gold</hint>.\n\n<b>Hint:</b> If the character’s condition reaches <hint=hint_resource_gold>{very_rich_coins}</hint>, they will gain an even stronger positive thought.",
+  "[hint_mind_caption]\nHoly Sophia, I’m rich! This is just an incredible feeling!\n\nReason: The character has accumulated a very large amount of <hint=hint_resource_gold>Gold.</hint>",
+  "[hint_mind_caption]\nI’m completely broke! What a disgrace!\n\nReason: The character has no <hint=hint_resource_gold>Gold</hint>. Reward them to rid them of this thought.\n\n<b>Hint:</b> If a character's wealth reaches <hint=hint_resource_gold>{rich_coins}</hint>, they will gain a permanent positive thought."
+]

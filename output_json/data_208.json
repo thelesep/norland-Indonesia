@@ -1,0 +1,12 @@
+[
+  "Praise of the Neighbor\nThe chosen lord <b>praises</b> your mutual neighbor on behalf of your king.\n\nAs a result, the relationship of {soul_uuid_king} to the neighbor <b>improves</b> by an amount dependent on the skill <hint=hint_skill_speech>Persuasion</hint> of the performer.\n\n<b>Tip:</b> Improving relationships can be useful for reconciling allies and expanding your alliance.\n\n[hint_SENDER]",
+  "Praise of the Neighbor\nPerformer {soul_uuid_performer} : {skill_name} lvl. {skill_level}\n\n<b>Consequences</b>\n$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <green>+{rel_de_praise_to_target_king}</green>\n\nCurrent relationship of {soul_uuid_king} to {soul_uuid_king_s}: {rel_current}",
+  "~\n{soul_uuid_king} has taken note of your opinion about {soul_uuid_king_s}, and although he has his their own thoughts on the matter, he is still pondering it.\n\n<b>Consequences</b>\n$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <green>{rel_de_praise_to_target_king}</green>",
+  "~\nI didn't think your opinion of our mutual neighbor was so positive. But it's hard for me to discern any malice behind your words. Perhaps they are better than I thought.",
+  "~\nYour praise of the neighbor does you credit. Is there some truth in this, or is your mind asleep when it comes to them? We'll see.",
+  "~\nYou claim that our neighbor is a worthy person? I would like to think so. But time will tell; perhaps they have made a fool of you?",
+  "~\n* {soul_uuid_trader} respects {soul_uuid_players_king} as an alliance leader and <green>is willing to offer a significant discount.</green>",
+  "Conflict with an Ally\nA member of your alliance, {soul_uuid_king}, has serious disagreements with your ruler.\n\nIf relations with this monarch are not restored from {current_opinion} to {min_opinion_alliance_threshold} within 24 hours, {faction_uuid} <b>will leave the alliance</b>",
+  "Conflict with the Alliance Leader\nThe leader of the alliance, {soul_uuid_king}, has serious grievances against your king.\n\nIf relations with this monarch are not restored from {current_opinion} to {min_opinion_alliance_threshold} within 24 hours, <b>you will be forced to leave the alliance</b>.",
+  "Problem"
+]

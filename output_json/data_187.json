@@ -1,0 +1,12 @@
+[
+  "~ \nYour squad has suffered a defeat. \n\nExpect your city to be attacked by a bandit squad of {part_of_number_forest_bandits} fighters in the coming days.",
+  "~\nBandit camp destroyed.\n\n$ Relations with <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>\n$ Loot: {loot}",
+  "[hint_DESCRIPTION]\nThe camp of forest bandits is located in your neighbor's territory.\n\n$ Number of bandits: {number_of_forest_bandits}\n$ Value in the camp: {possible_loot}\n$ Hostages: {hostages}",
+  "Attack\nEngage in a battle with a bandit squad of {number_of_forest_bandits} individuals, consisting of light fighters.\n\nThe ruler of the province {soul_uuid_king} and the <hint=hint_relations_matriarch>Matriarch</hint> will be grateful for assistance in eliminating the bandits.\n\n<b>Consequences</b>\n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>\n$ Relations with Matriarch: <green>{b_improve}</green>\n$ If there are hostages in the camp, they will be liberated in case of victory.\n\nPossible loot: {possible_loot}",
+  "~\nYour squad has suffered a defeat.",
+  "~\nThe bandit camp has been destroyed.\n\n$ Relations with <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>\n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>\n$ Loot: {loot}",
+  "The bribery has already been done\nYou have already paid these bandits. They will keep their commitment and not attack your settlements for another {bribe_day_remain} days.",
+  "Bribe \nPay bandits <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\n$ Attacks on your settlements will be canceled for the next {bribe_days} days.\n\n[hint_SENDER]",
+  "~\nThe bandits graciously accepted your money and let your messenger go.\n\n$ Attacks on your settlements will be canceled for the next {days_without_attacks} days.",
+  "It's getting late\nThe bandits are already gearing up to march on you and hope to loot more there than you would have offered."
+]

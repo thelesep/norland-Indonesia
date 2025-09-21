@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nThis feeling of hope for unity with Mother Sophia! <hint=hint_sermon_usual_preach>The Sermon of Joy</hint> is so uplifting!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt's really time for me to rest.\n\nReason: <hint=hint_need_sleep>Need for sleep</hint>.",
+  "[hint_mind_caption]\nI urgently need to sleep. I can barely stand on my feet!\n\nReason: <hint=hint_need_sleep>Need for sleep</hint>.",
+  "[hint_mind_caption]\nA pleasant feeling of being satisfied with food.\n\nReason: fully replenished <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\nTime for a snack!\n\nReason: <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\nI need to eat something urgently!\n\nReason: <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\nI'm dying of hunger!\n\nReason: <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\nPhew... Well, it's not so bad, I still have some energy left.\n\nReason: <hint=hint_need_fun>Need for rest</hint>.",
+  "[hint_mind_caption]\nI think I haven't drunk anything for a day or two... I deserve this!\n\nReason: <hint=hint_need_fun>Need for rest</hint>.",
+  "[hint_mind_caption]\nI can't even remember the last time I had a drink! Where's my tankard?\n\nReason: <hint=hint_need_fun>Need for rest</hint>.\n\n<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>."
+]

@@ -1,0 +1,12 @@
+[
+  "The duel has ended!\nYour lord has been killed.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_duel_provocation}</red>\n$ Relationship with the Matriarch: <red>{rel_de_duel_provocation_neighbore}</red>",
+  "The duel is over!\nThe combatants are still alive.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_duel_provocation}</red>\n$ Relationship with the Matriarch: <red>{rel_de_duel_provocation_neighbore}</red>",
+  "Low interest\nThe target has a very low interest in this lord.\n\nInterest of {soul_uuid_target} toward {soul_uuid_performer}: {interest_stack}",
+  "Not ready for interaction\n{soul_uuid_performer} has already interacted with {soul_uuid_target} recently, and they want to focus on other tasks.\n\n$ You can repeat the action in {remain_time}h.",
+  "Low loyalty\nThe actor has a very low <hint=hint_loyalty>loyalty</hint>. To be assigned to this task, the loyalty must be at least {loyalty_threshold}, but currently it is only {loyalty}.",
+  "~\nWhen a character's <hint=hint_loyalty>loyalty</hint> drops below 25, the lord enters into a conflict with their king.\n\n$ If it's an heir and they are not friendly with the king, they may raise a <hint=hint_nt_heir_rebellion>rebellion</hint>.\n$ If it's a regular lord or an heir friendly to the king, they will prefer to leave for a neighboring province, which worsens the relations between kings but does not incite a rebellion.\n\n<b>As a result</b>, the population, economy, and consequently, the <b>army of this king will decrease</b>.",
+  "Not ready\nThe caravan trader will be ready to trade as soon as he reaches the center of the settlement.",
+  "Mad\nThis lord can't deal with this now.",
+  "Mad\nThis interaction cannot be assigned at this time.",
+  "Come back home\nThe lord returns to his town."
+]

@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nTired from patrolling\n\nI've been on <hint=hint_persons_guard>patrol</hint> all night, and I'm very tired!\n\n<b>Hint:</b> Warriors are assigned and changed in patrols automatically. To reduce the overall load, decrease the number of guards in the <hint=hint_bld_patrol_sign>Patrol Banner</hint> menu.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI'm just a peasant, not a warrior! I'll be killed in the very first battle!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nThe bishop has absolved me of my sins, and I am once again pure before the goddess!\n\nThank you, Holy Sophia!",
+  "[hint_mind_caption]\nGoing into battle without a weapon is madness!",
+  "[hint_mind_caption]\nI feel so ashamed of my sins before Mother Sophia!\n\n<b>Hint:</b> Confess to the <hint=hint_bishop>bishop</hint> to have your sins forgiven.",
+  "[hint_mind_caption]\nI have absolutely nothing to put on my fingers! I can just feel those contemptuous glances!\n\nReason: Lack of Holy Rings.\n\n<b>Hint:</b> Ask the king to give them some rings.",
+  "[hint_mind_caption]\nThere is something to feast on in this place!",
+  "[hint_mind_caption]\nAlways happy to see a new face!",
+  "[hint_mind_caption]\nIt's tough, but I know that my child is in heaven, serving Holy Sophia!",
+  "[hint_mind_caption]\nHow good it is to have someone to rely on!"
+]

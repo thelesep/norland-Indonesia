@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nHaha! Cowards!",
+  "[hint_mind_caption]\nI saw an enemy warrior nearby fall! Just a bit longer, and victory will be ours!",
+  "[hint_mind_caption]\nToday, luck was not on our side...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nMy fellow warrior fled! Things are looking grim!",
+  "[hint_mind_caption]\nWe are getting fewer and fewer!",
+  "[hint_mind_caption]\nHurray, we have won! Glory to the king!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAfter the recent <hint=hint_tantrum>meltdown</hint>, I feel relieved... But for how long?\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} is captured, we must set him free!",
+  "[hint_mind_caption]\nI just can't believe that {name} is no longer with us...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI'm not sure if {name} will be able to <hint=hint_sick>recover</hint>... I hope we have enough <hint=hint_heal>healing supplies</hint>..."
+]

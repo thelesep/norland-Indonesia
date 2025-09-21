@@ -1,0 +1,12 @@
+[
+  "~\nI put it to you that you have exhausted my patience, and now you will have to pay for your stupidity and carelessness. For the time being, however, you will remain alive. Unless I change my mind.",
+  "Sudden Attack!\nThe {soul_uuid_king} of {faction_uuid} has suddenly decided to attack your city to <b>rob</b> your treasury. His army is already on the march.\n\nBecause of the suddenness of the attack, your allies will not have time to come to your aid, but {soul_uuid_king} himself has to rely only on his own forces.",
+  "Sudden Attack!\nThe {soul_uuid_king} of {faction_uuid} has suddenly decided to attack your city to conquer it and <b>make you a vassal</b>. His army is already on the march.\n\nBecause of the suddenness of the attack, your allies will not have time to come to your aid, but {soul_uuid_king} himself has to rely only on his own forces.",
+  "Guards\nGuards go on duty at around 23:00 when criminals become active and serve until 04:00.\n\nGuards are assigned from the pool of available warriors (the second number) who are not engaged in patrols or guarding other lords.",
+  "Combat Level\nSet the minimum Combat level required for hired guards, but make sure you have warriors with that level available.",
+  "Log Tower  \nA <hint=hint_watch_tower_archers>defensive tower</hint> where <hint=hint_persons_warriors>warriors</hint> can be assigned. Archers in the tower shoot farther and more accurately than usual.  \n\n$ Equipping warriors in the tower requires ranged weapons.  \n$ The Log Tower is sturdier than the <hint=hint_bld_watch_tower>Archer Tower</hint>.  \n$ This tower holds {arch_number} archers.",
+  "Palisade\nThe simplest wooden city walls. Surround important structures with them to protect them. Don't forget to add gates and towers.",
+  "Gate\nBuilt into city walls (such as the palisade). Opens and closes automatically.",
+  " ",
+  " "
+]

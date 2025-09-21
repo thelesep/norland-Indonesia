@@ -1,0 +1,12 @@
+[
+  "Puppet's Rebellion\nForce the <hint=hint_encyclopedia_puppets>puppet</hint> of one of your lords to start a rebellion in this province.\n\nAlthough there is no solid evidence, your connection to the puppet will not go unnoticed by the local ruler.",
+  "Unavailable\nYou have no <hint=hint_encyclopedia_puppets>puppets</hint> in this province.\n\nCreate a puppet from among the local characters using one of your lords to manipulate events in this province.",
+  "Free lord is waiting to be hired\n[hint_tutorial_free_lord]",
+  "Puppet's Rebellion\nThe <hint=hint_encyclopedia_puppets>puppet</hint> will start a rebellion on the orders of their idol, one of your lords.\n\n<b>Consequences:</b>\n{soul_uuid_king}: relations will worsen by {rel_de}",
+  "~\n{soul_uuid_puppet} will soon start a rebellion.",
+  "Rebellion Defense\n{optional_type_of_danger}\n\nIt is expected that one of the lords of this settlement will soon rebel. It is believed that this lord is a <hint=hint_encyclopedia_puppets>puppet</hint>, acting on someone else's orders.\n\nThe ruler {soul_uuid_king} is under threat and requests your support by sending an army. He promises to remember your help in this difficult time.\n\nSupport for {soul_uuid_king} among warriors: {war_sup}%\n\nPossible consequences if you support {soul_uuid_king}:\n$ If {soul_uuid_king} wins, relations with him: <green>{rel_neigh_improve}</green>\n{optional_will_gain_duty_of_honor}\n$ If {soul_uuid_heir} wins, relations with him: <red>{rel_neigh_de}</red>\n{optional_allyship}\n\n[hint_unavailable_heir_rebellion_in_ai_town]",
+  "~\n<red>Someone has ordered {soul_uuid_heir} to start a rebellion. If he succeeds, the current king {soul_uuid_king} will be overthrown, and {soul_uuid_heir} will take his place.</red>",
+  "Puppet's Rebellion\n{optional_type_of_danger}\n\nOne of the lords will soon start a rebellion and asks for your support by sending an army, promising to be grateful for your help. It is believed that this lord is a <hint=hint_encyclopedia_puppets>puppet</hint>, acting on someone else's orders.\n\nSupport for {soul_uuid_heir} among warriors: {war_sup}%\n\nPossible consequences if you support {soul_uuid_heir}:\n[optional_relations_heir_rebellion]\n\n[hint_unavailable_heir_rebellion_in_ai_town]",
+  "Unsuccessful Hunt\nThe hunt was terrible... And it's my partner's fault!",
+  "Check Issues\nClick the flag with a number in the top-left corner to see the most pressing issues in your settlement."
+]

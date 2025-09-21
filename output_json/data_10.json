@@ -1,0 +1,12 @@
+[
+  "Unavailable\nA character with the Cynic trait cannot be consoled.",
+  "Unavailable\nThis character does not currently require comforting.",
+  "Unavailable\nThis character has already received comfort.",
+  "Unavailable\nThe bishop does not have a good enough relationship with this character and will not perform this action.",
+  "Unavailable\n{soul_uuid_1} does not have a good enough relationship with {soul_uuid_2}. Currently, the relationship between them is {current_opinion} , and at least {required_opinion} is needed.",
+  "Unavailable\nNo available <hint=hint_title>titles</hint> for the lord.",
+  " ",
+  " ",
+  "Coercion into sex\n$ The coerced character may conceive a <hint=hint_persons_bastard>bastard child</hint>.\n$ The king of the noble family to which the captive belongs will consider it torture.\n$ This action is considered a <hint=hint_sin>sin</hint>.",
+  "Coercion into sex\n$ {soul_uuid_1} will have {number}% of their <hint=hint_need_sex>sexual needs</hint> fulfilled.\n$ {soul_uuid_1} will have a negative thought of \"Shame for sins\" <red>{number1}</red>.\n$ {soul_uuid_2} will have a negative thought of \"Used\" <red>{number2}</red>.\n$ {soul_uuid_3} will worsen their relationship with your king by <red>{number3}</red>."
+]

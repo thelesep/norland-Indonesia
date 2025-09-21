@@ -1,0 +1,12 @@
+[
+  "Alliance of free cities\n[hint_defence_alliance_description]",
+  "~\n$ If he does not agree to comply within 3 days, you must attack his city.\n$ If you win, he will be forced to become neutral.\n$ If you hesitate to attack his city in case of his refusal, you will be known as a coward.",
+  "Ultimatum on neutrality\n{soul_uuid_king} will receive an ultimatum from you demanding to sever all political ties with vassals, suzerains, or allies. This province must become politically independent and neutral.\n{optional_conditions}\n{optional_consequences_header}\n{optional_force_neutrality_additional_effects}\n{optional_change_relations_with_owner}\n{optional_possible_helpers_against_player}\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]\n{optional_duty_of_honor}",
+  "Ultimatum on neutrality\n{soul_uuid_king} has received your ultimatum and you will soon receive a response.\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>\n{optional_force_neutrality_additional_effects}\n{optional_possible_helpers_against_player}\n{optional_holy_defence_will_removed}",
+  "~\n{soul_uuid_king} has decided to accept your ultimatum and become neutral.\n\nAll of this factoin's political agreements are terminated.\n{optional_duty_of_honor_complete}",
+  "~\n{soul_uuid_king} is outraged by your ultimatum and invites you to resolve the issue by force. Obviously, he is counting on external assistance.\n\nYou must attack his city within the next 3 days and win. Otherwise, you will be known as a coward.",
+  "~\n$ {soul_uuid_king} is a vassal. Relationship with his suzerain {soul_uuid_king_head}: <red>{rel_de_leader}</red>",
+  "~\n{soul_uuid_king} is a member of the alliance. Relationship with the leader of the alliance {soul_uuid_king_head}: <red>{rel_de_leader}</red>",
+  "~\nI am compelled to accept your ultimatum. When a knife is held to your throat, there can be no other response. I hope you are now satisfied, and that your army will not come to burn my city!",
+  "~\nAll that remains for me is to accept your ultimatum and stay out of the fray. I wish to live in peace, so appreciate my agreement not to interfere in your affairs."
+]

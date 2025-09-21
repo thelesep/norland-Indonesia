@@ -1,0 +1,12 @@
+[
+  "Peace Treaty  \nSign a peace treaty for {peace_duration} days.\n\n$ This means that during this period, the parties will not be able to raid villages, attack cities, or force each other into vassalage.  \n$ Nevertheless, the lords will be able to visit each other’s cities, scheme, and engage in <hint=hint_action_shadow>dark deeds</hint>.\n$ {soul_uuid_king}'s relationship with your king: <green>{peace_king_im}</green>\n\n{optional_peace_conditions}\n[hint_ALLIES]\n\n[hint_SENDER]\n{optional_duty_of_honor}",
+  "Peace treaty\n{soul_uuid_king} and you have entered into a sacred peace treaty.\n\n$ This means that during this period, the parties cannot raid villages, attack cities, or compel each other into vassalage.\n$ Nevertheless, the lords will be able to visit each other’s cities, scheme, and engage in <hint=hint_action_shadow>dark deeds</hint>.\n$ Relationship with {soul_uuid_king}: <green>{peace_king_im}</green>\n\n<b>There are {peace_day_remain} days left until the end of the treaty.<b>\n{optional_duty_of_honor_complete}",
+  "The peace treaty has expired.\nNow you and {soul_uuid_king} are no longer bound by mutual obligations.",
+  "The peace treaty will be terminated.\nReason: Death of one of the signatories.\n\n$ You and {soul_uuid_king} are no longer bound by mutual obligations.",
+  "~\nThe conclusion of a peace treaty with you indeed brings me joy. Living in harmony with neighbors has always been my heartfelt aspiration.",
+  "~\nConcluding a peace treaty has become a rarity in our times, but we have proven to be wiser than the rest. I am confident that peace and prosperity await our kingdoms!",
+  "~\nUnfortunately, the term of our peace treaty has expired. I hope it brought you as much benefit as it did me. And perhaps in the future, we can conclude another one.",
+  "~\nSo our peace treaty has come to an end. It brought peace and tranquility to our kingdoms. I hope its conclusion will not mark the beginning of wars and hardship.",
+  "~\nI know that my predecessor concluded a peace treaty with you. But he recently passed away, and I no longer see the point in abiding by it.",
+  "~\nI know that my predecessor concluded a peace treaty with you. But he recently passed away, and I no longer see the point in abiding by it."
+]

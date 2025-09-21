@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nI'm feeling an extraordinary surge of strength! <hint=hint_resource_nectar>Nectar</hint> works wonders!\n\nReason: Nectar consumed: {number}.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI URGENTLY need a drink!\n\nReason: <hint=hint_alcoholism>Alcoholism</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI haven't played dice in so long... I urgently need to test my luck!\n\nReason: <hint=hint_gambler>Gambling addiction</hint>.",
+  "[hint_mind_caption]\nI'm just dying without <hint=hint_resource_nectar>Nectar</hint>! Where can I get some?\n\nReason: <hint=hint_addict>Nectar addiction</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI hope {name} is in hell right now. That creature got what they deserved!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt seems like {name} is feeling unwell... Ha! I hope it ends badly!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} doesn't deserve what they have at all! It should all be mine, by right!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nThat's hilarious! I can't stand such <hint=hint_speech_mockery>mockery</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIt's satisfying to witness the triumph of <hint=hint_punish>justice</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n<hint=hint_hungry>Hunger</hint> will soon kill me... I need at least a little bit of <hint=hint_food>food</hint>!\n\nReason: <hint=hint_need_food>Need for food</hint>, state of starvation.\n[hint_mind_remain_time]"
+]

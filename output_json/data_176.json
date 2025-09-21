@@ -1,0 +1,12 @@
+[
+  "~\nHow many deaths and sorrows have you sown with your attack! How many children have been left fatherless! Well, now I am your vassal. However, remember that I will always fight for my freedom!",
+  "~\nYou are a brave warrior, and I have no choice but to submit to you. But my heart will remain free!",
+  "~\nI will respect a worthy opponent, even if they suffer defeat! However, those neighbors who do not know how to fight and senselessly ruin their people, I despise!",
+  "~\nThe taste of victory is sweet, but it is unknown to you! However, even sweeter to me is my freedom, which I was able to defend with such dignity! I pray you stop your attempts to subdue me to avoid further disgrace!",
+  "~\nEveryone strives to be known throughout the land, and you have succeeded in that! Rumors of your cowardice will spread throughout the world, and believe me, I will contribute to it!",
+  "~\nAnyone can make threats, but carrying them out requires bravery. However, fate has rewarded you only with cowardice, and rest assured, tomorrow all our neighbors will talk about this gift!",
+  "Awaiting response\n{soul_uuid_king} is considering your decision to exit <hint=hint_vassal>vassalage</hint>.\n\n$ If your suzerain is strong enough, a seige will fall upon your city. If the assault razes your Hall, your bondage will continue.\n$ However, if you successfully defend your freedom, you will have secured your independence.\n$ The suzerain may choose to grant you freedom without a fight if you are sufficiently strong.\n\nA response will arrive soon. In the meantime, you can request military assistance from your allies.",
+  "Withdrawal from vassalage\nYou announce your desire to challenge and break free from the authority of your suzerain.\n{optional_conditions}\n\nIn any case, this is a violation of the vassal's oath:\n{optional_change_relations_with_owner}\n$ Relationship with neighbors: <red>{break_vassal_agreement_rel_de_neigh}</red>\n{optional_possible_helpers}\n\n[hint_SENDER]\n{optional_duty_of_honor}",
+  "~\nYou have challenged the authority of {soul_uuid_king} and will soon receive a response.\n\n$ Relationship with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>\n$ Relationship with neighbors: <red>{break_vassal_agreement_rel_de_neigh}</red>",
+  "~\n{soul_uuid_king} has decided to teach you a lesson. The force of your suzerain will fall upon you.\nIf you defend your city, you will gain your freedom."
+]

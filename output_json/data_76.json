@@ -1,0 +1,12 @@
+[
+  "Forest bandits plan an attack\nRumors have reached you that forest bandits from your province plan to raid a settlement in the next day or two.\n\nTheir target could be either your city or nearby villages.\n\n$ You can gather an army and attack their camp first.\n$ You can also bribe them (action in the bandits' camp on the world map) to leave you alone for some time.",
+  "Bad manners\nThe ruler will not take this lord's assurances seriously as he has a lower <hint=hint_skill_manners>Manners</hint> skill than the ruler.",
+  "The opinion has already been formed. \nThe king has already heard the envoy's opinion about your king and is not yet ready to hear it again.\n\nAvailable again in: {time} d.",
+  "Pregnancy\n{soul_uuid_female} is now pregnant by {soul_uuid_male}.\n\nPregnancy will last for several days, and its progress can be tracked on the main tab of the character's menu.",
+  "Insight\n{optional_insight_text}",
+  "Tax on warriors\nCurrent tax: {tax}",
+  "Heir Uprising\nThe <hint=hint_loyalty>loyalty</hint> of the crown heir {soul_uuid} is already below 40 and continuously decreasing. When his loyalty drops to 25, he will <hint=hint_nt_heir_rebellion>rise up</hint> against the king.\n\n<b>Hint:</b> Increase the character's loyalty through the king's actions - a reward or a threat. You can also try more radical measures, such as staging a duel with the king.",
+  "Loyalists Prepare a Massacre\nYour <hint=hint_loyalist>loyalists</hint> among the peasants are <hint=hint_nt_unhappy>unhappy</hint>, and they tend to blame the <hint=hint_nt_fanatics_perc>fanatics</hint>, who are loyal not to the king but to the church, for all the kingdom's misfortunes.\n\nAs long as their mood remains below <red>25</red>, there is a daily chance that they will organize a massacre of the fanatics.",
+  "Warriors Desert\nDue to <hint=hint_sodiers_happiness>unhappiness</hint>, your warriors are leaving your province.\n\nDeserters join the <hint=hint_persons_forest_bandits>forest bandits</hint>, which can create a significant problem.",
+  "Fanatics Prepare Uprising\nYour peasants are <hint=hint_nt_unhappy>unhappy</hint>, and the <hint=hint_nt_fanatics_perc>fanatics</hint> among them tend to blame all misfortunes on the sinful lords.\n\nAs long as the average mood of the peasants remains below <red>25</red>, there is a daily chance that they will rise up in an <hint=hint_pogrom>uprising</hint>."
+]

@@ -1,0 +1,12 @@
+[
+  "Move camera\nHold this key to “drag” the camera.",
+  "Add by 10\nHold this key when adding items to the trader, army, and other menus to add 10 items at once.",
+  "Order to the Squad\nThis action is only possible with a selected squad.\n\nAssign the squad a location to move to or an enemy to attack (by clicking on the enemy banner).",
+  "The incognito has left the province\nThe character has left your province. Most likely, their story is not over, and you will hear about them again…",
+  "Technology\nTrade slang and the use of intermediaries will allow you to reduce the church tax on trade contracts by {percent}%",
+  "Technology\nThe skill of selling goods to those who don’t really need them ensures an increase in <hint=hint_market_volume>local demand</hint> for all goods by {perc}%.",
+  "Technology\nMore compact writing reduces the use of <hint=hint_resource_paper>Paper</hint> by {perc}% when creating books.",
+  "Technology\nA theological treatise explaining how the grace of Mother Sophia can be revealed to earthly rulers.\n\nBy the grace of the Church, your king will be able to receive a holy <hint=hint_action_task_canonization>Blessing</hint> (requires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>).",
+  "Technology\nA set of arguments that convinces the Church to grant <hint=hint_holy_protection>the protection of the Loving Family</hint> (usually reserved for young noble houses) to your province for a limited number of days.\n\nRequires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>.",
+  "Technology\nWhile divorce is not approved by the Loving Family and usually requires very good <hint=hint_relations_matriarch>relations with the Matriarch</hint>, this knowledge will lower the requirements, convincingly proving the necessity of divorce in exceptional cases."
+]

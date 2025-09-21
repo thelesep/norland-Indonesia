@@ -1,0 +1,12 @@
+[
+  "Lack of intelligence\nThe lord's <hint=hint_skill_knowledge>Intelligence</hint> skill is too low to work with this knowledge.\n\n$ For <b>gray</b>-level knowledge, a minimum skill of 3 is required.\n$ For <b>green</b>-level knowledge, a minimum skill of 9 is required.\n$ For <b>purple</b>-level knowledge, a minimum skill of 13 is required.",
+  "Does not know the language\nThe lord does not know the {dialect_name} language and cannot work with this knowledge.",
+  "Technology\nTo construct this building, you need to acquire a book from the <hint=hint_holy_caravan>Holy Caravan and study it in the Knowledge menu.",
+  "Technology\nTo construct this building, one of your lords needs to study the corresponding <hint=hint_idea>knowledge</hint>.\n\n<b>Hint:</b> The required book is already in your library. Assign a lord to study it via the Knowledge menu.",
+  "Limit reached\nThe construction limit for this building has been reached.",
+  "Technology\nTo upgrade this building, one of your lords must research the corresponding <hint=hint_idea>knowledge.</hint>",
+  "Assign Prisoners\nAppoint workers from among the <hint=hint_persons_slave>prisoner</hint> population. They work 3 hours longer than all other workers, which results in a significant increase in productivity.\n\n[hint_priority_workers]",
+  "Assign Nectar Addicts\nAppoint workers from among the <hint=hint_addict>nectar addict</hint> population.\n\nThey work faster than regular workers (<b>+30%</b> productivity bonus).\n\n[hint_priority_workers]",
+  "Assign Loyalists\nAppoint workers from among the <hint=hint_loyalist>loyalist</hint> population.\n\nThey work more diligently than regular workers, providing a <b>+30%</b> productivity bonus.\n\n[hint_priority_workers]",
+  "Assign Kaiden\nAppoint workers from among the <hint=hint_culture_gwelts>kaiden</hint> population.\n\nTheir traditional skills allow them to work in weapon and armor forges 20% more efficiently.\n\n[hint_priority_workers]"
+]

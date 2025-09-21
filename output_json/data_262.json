@@ -1,0 +1,12 @@
+[
+  "[hint_advisor_caption]\nThe <hint=hint_bishop>Bishop's</hint> opinion of your king has dropped to <red>hostile</red>, increasing the risk of a <hint=hint_pogrom>religious uprising</hint>.",
+  "Debt of Honor\nWhen you come to the aid of a neighboring ruler in desperate situations, or render them a special favor, honor obliges them to repay you with a diplomatic concession.\n\nThis may be a peace treaty, joining your state, leaving another state, or a substantial tribute.\n\nChoose the diplomatic action you need in the Politics menu of their province and claim your reward!\n\n<b>Hint:</b>\n$ You don't have to use the Debt of Honor right away - it will remain valid as long as either your ruler or the indebted ruler is alive.",
+  "New Debt of Honor\n{soul_uuid_king} from {faction_uuid} is now <hint=hint_debt_of_honor>indebted</hint> to your ruler.",
+  "Debt of Honor Fulfilled\n{soul_uuid_king} from {faction_uuid} has fulfilled their <hint=hint_debt_of_honor>debt of honor</hint> to your ruler.",
+  "Debt of Honor No Longer Applies\nYou have a new ruler, so {soul_uuid_king} from {faction_uuid} believes their <hint=hint_debt_of_honor>debt of honor</hint> is no longer valid.",
+  "Debt of Honor Reset\nIn the province of {faction_uuid}, there is now a new ruler, {soul_uuid_king}, who believes the <hint=hint_debt_of_honor>debt of honor</hint> of their predecessor does not apply to them.",
+  "Diplomat\nThe cost of signing a peace treaty with a neighbor is reduced by {number} times.",
+  "[hint_advisor_caption]\nBy punishing the innocent, you have started <hint=hint_terror_peasants>terror</hint>, causing peasants to fear coming to your city, and <hint=hint_migration>migration</hint> is now reduced.\n\nTime until the effect ends: {hour}",
+  "Economic Summary\n<center>For the current day</center>\n\n$ Gold balance: <hint=hint_resource_gold>{gold_change}</hint>\n$ Paid <hint=hint_salary>wages</hint>: <hint=hint_resource_gold>{salary}</hint>\n$ <hint=hint_re_prod>Resources produced</hint>: <hint=hint_resource_gold>{prod_sum}</hint>\n$ <hint=hint_re_saled>Goods sold</hint> in local markets: <hint=hint_resource_gold>{sale_sum}</hint>\n$ <hint=hint_re_built>Resources invested</hint> in the economy: <hint=hint_resource_gold>{build_sum}</hint>\n{optional_caravan_purchases}\n{optional_buildings_problems}\n{optional_resources_spoilage}\n\n$ Press <b>RMB</b> to close the notification.",
+  "World Summary\n{optional_events}\n{optional_neighbore_events}\n$ Press <b>RMB</b> to close the notification."
+]

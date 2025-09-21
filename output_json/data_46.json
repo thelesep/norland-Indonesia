@@ -1,0 +1,12 @@
+[
+  "Resources Produced\n$ Shows the value of all resources produced by all buildings in a day.\n$ Measured in gold, based on the selling price of the caravan.\n$ On harvest days, the value can be significantly higher.",
+  "Goods Sold\nShows how much gold you have received from selling goods to peasants and warriors at your local markets, as well as in taverns and drug dens.",
+  "Resources Invested\nShows the value of resources (measured in gold) spent on constructing and upgrading buildings.",
+  "Personality Traits\nPersonality traits provide unique characteristics and abilities to a character.\n\nThey can be given from birth or discovered during life events, upbringing, or skill training.\n\nThe list of personality traits can be found on the third tab of the Character menu.",
+  "Heir's Rebellion\nDue to low <hint=hint_loyalty>loyalty</hint> to the king, the heir to the throne declares their claim to the crown and initiates a rebellion.\n\n$ Their friends among the lords join them, while the king's loyalists join him. The army is divided proportionally between them.\n$ Neutral lords do not participate in the rebellion.\n$ If the heir is victorious, they will inherit the throne, although the supporters of the current king will not be pleased with this outcome.",
+  "Former Heir's Rebellion\nDue to low <hint=hint_loyalty>loyalty</hint> to the king, the former heir to the throne feels deceived and proclaims that the crown should rightfully belong to them.\n\n$ Their friends among the lords join them, while the king's loyalists join the king. The army is divided proportionally between them.\n$ Neutral lords do not participate in the rebellion.\n$ If the former heir emerges victorious, they will inherit the throne, although the supporters of the current king will not be pleased with this outcome.",
+  "Child not receiving education\nIn the past few days, {soul_uuid_1} has not been receiving any education.",
+  "Lord killed in campaign\n{soul_uuid_1} was killed while on a campaign.\n{optional_sad_list}",
+  "Ruler deceased\n{faction_uuid} : Ruler {soul_uuid_1} has passed away.",
+  "Soldiers available for promotion\nSome of your soldiers have improved their combat skills and are now eligible for promotion to a higher combat class."
+]

@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nIt's better not to do anything illegal... At least, for now.",
+  "[hint_mind_caption]\nI couldn't make it to the sermon.... It's just awful! I hope additional temples are built soon!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
+  "[hint_mind_caption]\nI have become a true lord of Norland!",
+  "[hint_mind_caption]\nThe king has stripped my friend of lordship... What will happen to them now?",
+  "[hint_mind_caption]\nOur ruler has passed away! What will become of us now? Grief, grief!\n\nReason: <hint=hint_loyalist>Loyalist</hint>.",
+  "[hint_mind_caption]\nThey say the Matriarch doesn't favor our king... Only repentance can bring him back into the fold of the Holy Church!\n\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
+  "[hint_mind_caption]\nI am happy to be a member of such a respected and prestigious noble family!\n\nReason: Your family has the highest <hint=hint_prestige>prestige</hint> rating among neighbors.",
+  "[hint_mind_caption]\nNo one respects our family... We live in a wretched hole. It's very oppressive!\n\nReason: Your family has the lowest <hint=hint_prestige>prestige</hint> rating among neighbors.",
+  "[hint_mind_caption]\nOur king always gets what he wants! All our neighbors envy us!\n\nReason: The king fulfilled his ambitions.",
+  "[hint_mind_caption]\nAfter many years of freedom in the forest, life in the barracks is oppressive!\n\nReason: A former forest bandit serving in the army."
+]

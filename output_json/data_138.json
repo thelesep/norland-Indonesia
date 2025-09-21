@@ -1,0 +1,12 @@
+[
+  "~\n<red><hint=hint_persons_forest_bandits>The forest bandits</hint> in the province have become so audacious that they are planning to plunder the city.</red>",
+  "~\n<red>A strong band of <hint=hint_person_maroders>marauders</hint> is moving toward the city to plunder it.</red>",
+  "~\n<red>{soul_uuid_king}'s relationship with their suzerain {soul_uuid_king_s} from {faction_uuid_sir} has completely deteriorated, and the vassal takes a stand, wishing to break free.</red>",
+  "~\n<red>The enmity between the kings has reached the stage of war, and now {soul_uuid_king_s} from {faction_uuid_s} is planning to plunder {faction_uuid}.</red>",
+  "~\n<hint=hint_unholy_horde>The Unholy Horde</hint> <red>is about to attack. If they succeed, this city will be completely destroyed and its lords exterminated.</red>\n",
+  "~\n<red>Due to low loyalty, the heir {soul_uuid_heir} has raised a rebellion. If the rebellion succeeds, the current king {soul_uuid_king} will be overthrown, and {soul_uuid_heir} will take his place.</red>",
+  "~\n<red>{soul_uuid_king_s} from {faction_uuid_s} is becoming stronger and plans to annex {faction_uuid} to his kingdom soon.</red>",
+  "This action is impossible\nYou cannot perform this action with your ally.",
+  "There is already an offer\n{soul_uuid_king} has already offered this agreement to you.",
+  "No armies\nThere are no armies available for selection on the global map."
+]

@@ -1,0 +1,12 @@
+[
+  "Low fertility\nThe chance of getting pregnant is 30% lower.",
+  "High fertility\nThe chance of getting pregnant is 30% higher.",
+  "Gay\nFalls in love with people of their own gender.",
+  "Savant\nHas very high proficiency in one or two skills, but they cannot be trained further.",
+  "Bald\n-20 to <hint=hint_interest>interest</hint>.",
+  "Childhood\nThe quality of a character's childhood is determined by the number of happy or unhappy days in the character's life before they turn {age_adult}.",
+  "~\nReason: unhappy <hint=hint_childhood_desc>childhood</hint>.",
+  "~\nReason: happy <hint=hint_childhood_desc>childhood</hint>.",
+  "~\n\nReason: inherited from parent {parent}",
+  "Nervous\nAll <hint=hint_tantrum>nervous breakdowns</hint> are severe."
+]

@@ -1,0 +1,12 @@
+[
+  "The lord is a commander\nThe commanding lord has an order to stay in the city and cannot leave.",
+  "Risk of heir uprising\nAs long as there is a risk of the heir uprising, the king cannot leave the city.",
+  "Risk of heir uprising\nThe heir has plans for a rebellion and therefore cannot leave the city.",
+  "Low loyalty\nThe lord is considering leaving the family and therefore will not leave the city at the moment.",
+  "Pregnancy\nThe lord is expecting a baby and therefore will not leave the city.",
+  "King\nThe lord is a king, so he cannot be assigned to this task.",
+  "Queen\nThe lord is a queen, so she cannot be assigned to this task.",
+  "Threat to the city\nThe king refuses to leave the city while it is threatened.",
+  "Squad in battle\nWhile the squad is engaged in battle, it cannot be assigned tasks.",
+  "Squad leader cannot walk\nAs long as the squad leader cannot walk, the squad cannot be assigned tasks."
+]

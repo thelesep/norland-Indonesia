@@ -1,0 +1,12 @@
+[
+  "Incognito\nA character in disguise is visiting your city. They will stay for a few days.\n\nNo one knows their real name, but their manners and clothing suggest noble origins.\n\nAs unclear as their identity are their intentions, which could be either good or bad, and the only way to find out is to wait.\n\nOr, you can expel them at any time, without waiting to uncover their secret.",
+  "Unable to summon\nAn uprising is expected soon in the city of {faction_uuid}, so the ruler does not want the warriors to leave the province.",
+  "Unable to summon\nThe lord who previously commanded this army has left it, so it cannot be assigned to new missions.",
+  "Unavailable\nThe blind lord cannot learn combat skills.",
+  "[hint_mind_caption]\nThis song touched me to the depths of my soul! It felt as if he was singing about me!\n\n<b>Reason:</b> Listened to the song of a wandering minstrel",
+  "Unavailable\nThe guest has not yet arrived at the settlement",
+  "Trade\nTrade with the nectar merchant.\n\nThe only currency he is interested in, aside from gold, is prisoners.",
+  "Release of the Prisoner\nHe will leave your province, but promises to return the favor soon.",
+  "Nectar Merchant\nThe wandering merchant offers to sell you <hint=hint_resource_nectar>Nectar</hint> at a very favorable price.\n\nBut be careful—the price may increase if you start trading with him regularly.",
+  "Play\nYour pet will be thrilled to get some attention and is always ready for a fun game to lift your spirits.\n\n$ Positive Thought from Playing with Pet: <green>+{inc}</green>"
+]

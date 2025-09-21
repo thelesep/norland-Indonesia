@@ -1,0 +1,12 @@
+[
+  "Attack Target\nThe squad will pursue the target and engage in combat when it gets closer.",
+  "Preparation for Attack\nThe squad is preparing for an attack on the city.",
+  "Building Breakdown\nThe squad will break into the building and destroy it.",
+  "Building Arson\nThe squad will break into the building and set it on fire. Caution: The fire may spread to neighboring buildings!",
+  "Building Robbery\nThe squad will rob the building's storage. The captured valuables can be recovered by enemies upon killing or capturing the squad's warriors.",
+  "Battle\nThe squad engages in battle with the enemy. Direct control over the squad is lost until the battle is over.",
+  "Books in inventory\n{books}",
+  "Supporter of Power\n$ Respects those whose army is more than twice the size of his own.\n$ Disdains those whose army is less than half of his own.",
+  "Materialist\n$ Has a good attitude toward neighbors who have more than twice as many Holy Rings as him.\n$ Has a bad attitude toward neighbors who have less than half as many Holy Rings as him.",
+  "Religious\n$ Respects fanatic kings.\n$ Dislikes agnostic kings."
+]

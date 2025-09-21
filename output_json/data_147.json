@@ -1,0 +1,12 @@
+[
+  "~\nLord {soul_uuid_target} from {faction_uuid_target} has been killed by {soul_uuid_member} from {faction_uuid_member}.",
+  "~\nLord {soul_uuid_target} from {faction_uuid_target} has been executed.",
+  "~\nLord {soul_uuid_target} from {faction_uuid_target} has died from wounds.",
+  "~\nLord {soul_uuid_target} from {faction_uuid_target} has been blinded.",
+  "~\nLord {soul_uuid_target} from {faction_uuid_old} has been exiled and joined {faction_uuid_new}.",
+  "~\nLord {soul_uuid_target} from {faction_uuid_old} has switched to noble house {faction_uuid_new}.",
+  "~\nKing {soul_uuid_king_1} from {faction_uuid_1} has befriended King {soul_uuid_king_2} from {faction_uuid_2}.",
+  "~\nKing {soul_uuid_king_1} from {faction_uuid_1} has quarreled with King {soul_uuid_king_2} from {faction_uuid_2}.",
+  "~\nA rebellion has occurred in {faction_uuid}. {dead_lords_stack} have perished.",
+  "~\nLord {soul_uuid_target} from {faction_uuid} has died during childbirth."
+]

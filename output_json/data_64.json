@@ -1,0 +1,12 @@
+[
+  "Send now\nAll materials that are currently ready will be transferred to the warehouse immediately, but this will distract the workers from production.",
+  "Destroy\nCompletely demolish the building. This happens instantly.",
+  "Move\nMove the building to a new location.",
+  "Suspend work\nWork in the building will be halted, warehouses will be cleared, and workers will move to other productions.",
+  "Appoint a manager.\nAppoint a building manager who will start the work.",
+  "Sermon\nAppoint a lord as a preacher and choose a sermon.",
+  "Build with Priority\nBuilders will prioritize constructing this building.",
+  "Pause Construction\nSuspend construction until further instructions.",
+  "Resume Construction\nWorkers will return to building the structure.",
+  "Cancel Construction\nBuilding construction will be canceled, and resources already allocated for construction will be returned to the warehouse."
+]

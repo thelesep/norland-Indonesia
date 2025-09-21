@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\nI've started a new life!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nOh, delicious!\n\nReason: Consumed <hint=hint_resource_meat>Meat</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nOnly pigs can chew and swallow this!\n\nReason: Consumed <hint=hint_resource_rutabaga>Rutabaga</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nThe taste on my lips is as if an angel kissed me in spring! And a hint of wild berries...\n\nReason: consumed flavorful <hint=hint_resource_ale>Ale</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nPotent stuff! Though the taste is pretty mediocre...\n\nReason: consumed <hint=hint_resource_moonshine>Moonshine</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI am overwhelmed with a sense of satisfaction!\n\nReason: Fulfilled <hint=hint_desire>desire</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nI must do it at all costs!\n\nReason: <hint=hint_desire_obsession>obsession</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAll day long, it's the only thing I can think about. I'll go crazy if I don't fulfill my plan!\n\nReason: Intense <hint=hint_desire_obsession>obsession</hint>.",
+  "[hint_mind_caption]\nI feel like I'm not appreciated here... It's tormenting me.\n\nReason: Low <hint=hint_loyality>loyalty</hint>.\n\n",
+  "[hint_mind_caption]\nI thought it was the end, but now I'm free!\n[hint_mind_remain_time]"
+]

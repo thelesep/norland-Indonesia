@@ -1,0 +1,308 @@
+- obsessions: obsesi
+- dreams: mimpi
+- Inspiration: Inspirasi
+- unhappy: tidak bahagia
+- Spear: Tombak
+- Day Patrols: Patroli Siang
+- Meat: Daging
+- Holy Rings: Cincin Suci
+- Bishop: Uskup
+- title: gelar
+- Intelligence: Kecerdasan
+- battle squad: regu pertempuran
+- fleshwolf: Fleshwolf
+- social thought: pemikiran sosial
+- Combat skill: Keterampilan Tempur
+- Command skill: Keterampilan Komando
+- deep conversations: percakapan mendalam
+- mood: suasana hati
+- Manners: Etika
+- care: perawatan
+- marriage: pernikahan
+- knowledge: pengetahuan
+- talent: bakat
+- Training: Pelatihan
+- desire: keinginan
+- enemy: musuh
+- Persuasion: Persuasi
+- interest: minat
+- puppet: boneka
+- relationship: hubungan
+- kings: raja-raja
+- Poisoner: Pengracun
+- loyalty: kesetiaan
+- hostage: sandera
+- Diplomat: Diplomat
+- rebellion: pemberontakan
+- sins: dosa
+- Fanatics: Fanatik
+- blessing: berkah
+- Matriarch's opinion: Pendapat Matriark
+- bastard child: anak haram
+- sexual needs: kebutuhan seksual
+- peasant: petani
+- criminals: penjahat
+- executioners: algojo
+- terror: teror
+- Scaffold: Panggung Gantung
+- punishment: hukuman
+- vagabond: pengembara
+- forest bandits: perampok hutan
+- cutthroats: pembunuh berantai
+- blind: buta
+- prisoner: Narapidana
+- Management: Manajemen
+- Chancellery: Kanselari
+- Precise Language: Bahasa yang Tepat
+- rest: istirahat
+- skill: keterampilan
+- Temples: Kuil
+- agnostics: agnostik
+- doctrine: doktrin
+- morning prayer: doa pagi
+- Paper: Kertas
+- book: buku
+- lords: para penguasa
+- Gold: Emas
+- builders: tukang bangunan
+- servants: pelayan
+- loyalists: loyalis
+- Hall: Aula
+- guests: tamu
+- archer guards: Garda Pemanah
+- warriors: prajurit
+- instructions: instruksi
+- alcohol: alkohol
+- Economics menu: Menu Ekonomi
+- Nectar: Nektar
+- resource storage: penyimpanan sumber daya
+- weddings: pernikahan
+- funerals: pemakaman
+- sermons: khotbah
+- Medical Salve: Salep Medis
+- Tools: Alat
+- Daggers: Belati
+- Bows: Busur
+- Crossbows: Busur Silang
+- Wood: Kayu
+- Shields: Perisai
+- Light Armor: Baju Zirah Ringan
+- Heavy Armor: Baju Zirah Berat
+- Maces: Gada
+- Axes: Kapak
+- Swords: Pedang
+- Coal: Batu Bara
+- Iron: Besi
+- Steel: Baja
+- Rye: Rye
+- Hops: Hop
+- Rutabagas: Rutabaga
+- Flour: Tepung
+- Herbs: Rempah
+- thought: pikiran
+- lice: kutu
+- foul plague: wabah busuk
+- Soap: Sabun
+- crimes: kejahatan
+- Heartfelt Communication: Komunikasi Ikhlas
+- Insult: Penghinaan
+- Joke: Lelucon
+- Mockery: Ejekan
+- Ignoring: Mengabaikan
+- Small Talk: Obrolan Ringan
+- Flattery: Sanjungan
+- Apology: Permintaan Maaf
+- friends: teman
+- deadly enemies: musuh bebuyutan
+- romantic: romantis
+- kinship: kerabat
+- illness: penyakit
+- date: kencan
+- intrigues: intrik
+- Flirts: Rayuan
+- Feels jealous: Merasa Cemburu
+- in love: jatuh cinta
+- bribing: suap
+- death: kematian
+- Kaiden: jawa
+- Tanaya: madura
+- Varn: sunda
+- Makha: dayak
+- the Church: Pihak Gereja
+- Loving Family: Keluarga Penuh Kasih
+- lesser lord: penguasa rendahan
+- religious uprising: pemberontakan agama
+- needs: kebutuhan
+- happy: bahagia
+- migration: migrasi
+- Peasants: Petani
+- Prisoners: Tahanan
+- Statistics menu: Menu Statistik
+- insight: wawasan
+- wealth: kekayaan
+- Markets: Pasar
+- Taverns: Kedai
+- Holy Caravan: Karavan Suci
+- Library: Perpustakaan
+- executed: dieksekusi
+- Crimson Empire: Kekaisaran Crimson
+- knights: ksatria
+- Flavorful Ale: Flavorful Ale
+- bravery: keberanian
+- uprising: pemberontakan
+- priest: pendeta
+- injuries: luka
+- Rutabaga poisoning: Keracunan Rutabaga
+- treated: dirawat
+- pain: sakit
+- bleeding: pendarahan
+- inflammation: peradangan
+- gangrene: Luka Busuk
+- pain threshold: ambang batas rasa sakit
+- syphilis: sifilis
+- pale rabies: rabies pucat
+- Bath: Mandi
+- Dead God: Dead God
+- Cainism: Kainisme
+- prophet Michael: nabi Michael
+- New Kingdoms: Kerajaan Baru
+- noble : bangsawan
+- Great Purification: Pembersihan Agung
+- Great Cycle: Siklus Besar
+- Inquisition: Inkuisisi
+- Matriarch Jadwiga: Matriark Jadwiga
+- marauders: Begal
+- nervous breakdown: penyakit mental
+- virtues: kebajikan
+- canon: kanon
+- sermon: khotbah
+- piety: kesalehan
+- praying: berdoa
+- confession: pengakuan dosa
+- Mitraya: Mitraya
+- Wise Conversation: Percakapan Bijak
+- hunger: lapar
+- Moonshine: Moonshine
+- Beer: Bir
+- hangover: mabuk berat
+- Brewery: Pabrik Bir
+- soil fertility: kesuburan tanah
+- Lumbermill: Penggergajian Kayu
+- Coal Furnace: Tungku Batu Bara
+- Mines: Tambang
+- Smelting Furnace: Tungku Peleburan
+- food: makanan
+- Mill: Penggilingan
+- Rye Field: Ladang Rye
+- Hop Fields: Ladang Hop
+- Rutabaga Fields: Ladang Rutabaga
+- Pig Farms: Peternakan Babi
+- herbalists: ahli rempah
+- Alchemy Lab: Laboratorium Alkimia
+- psychoactive effect: efek psikoaktif
+- Drug Dens: Sarang Narkoba
+- Workshop: Bengkel
+- Paper Workshop: Bengkel Kertas
+- Armor Forge: Tempa Zirah
+- dazing: membingungkan
+- Weapon Forge: Tempa Senjata
+- Prison Wards: Blok Penjara
+- wages: upah
+- Patrol Banners: Bendera Patroli
+- Training Ground: Lapangan Latihan
+- mercenaries: tentara bayaran
+- Warehouse: Gudang
+- reward: hadiah
+- threaten: mengancam
+- inquisitors: inkuisitor
+- learning: belajar
+- dark deeds: perbuatan gelap
+- Trade: Perdagangan
+- Altars: Altar
+- Intimidated: Terintimidasi
+- equipment: peralatan
+- Incapacitated: Tidak Mampu
+- bribes: suap
+- seduction: godaan
+- Unholy Horde: Unholy Horde
+- Forecaster: Peramal
+- private housing: perumahan pribadi
+- Terrorizing: Mengterrorisasi
+- Barracks: Barak
+- hunts: berburu
+- Doubt: Keraguan
+- Faith: Iman
+- tasks: tugas
+- Resources produced: Sumber Daya Diproduksi
+- Goods sold: Barang Dijual
+- increased: meningkat
+- surprise attacks: serangan mendadak
+- Strength: Kekuatan
+- Military: Militer
+- Peace: Perdamaian
+- Nature: Alam
+- Poison Secrets: Rahasia Racun
+- Church curse: Kutukan Gereja
+- elderly: lansia
+- local demand: lokal demand
+- their values: nilai-nilai mereka
+- speculators: speculators
+- unhappiness: ketidakbahagiaan
+- Production menu: Menu Produksi
+- duel: duel
+- take action: bertindak
+- recovery: pemulihan
+- inflamed wound: luka meradang
+- painful shock: syok menyakitkan
+- learns: belajar
+- rewrites: tulis ulang
+- sleep: tidur
+- scar: bekas luka
+- effect: efek
+- Inherited: Diwarisi
+- baldness: kebotakan
+- childhood: masa kecil
+- direct management: manajemen langsung
+- housing: perumahan
+- Friendship: Persahabatan:
+- Neutrality: Netralitas
+- Hostility: Permusuhan
+- Enmity: Kebencian
+- saturate: jenuh
+- Speech fatigue: Kelelahan Bicara
+- Inspection fatigue: Kelelahan Inspeksi
+- Study fatigue: Kelelahan Belajar
+- Work fatigue: Kelelahan Kerja
+- Alcoholism: Alkoholisme
+- Gambling addiction: Kecanduan Judi
+- donate: menyumbang
+- Dynasty menu: Menu Dinasti
+- prestige: presti
+- Pacifist: Pasifis
+- blinded: dibutakan
+- messenger: utusan
+- It's possible: Mungkin
+- Most likely: Paling Mungkin
+- weak: lemah
+- suzerain: suzerain
+- trade agreement: perjanjian perdagangan
+- ally: sekutu
+- internal trade: perdagangan internal
+- massacre: pembantaian
+- depleting: habis
+- free lord: penguasa bebas
+- crown: mahkota
+- goddess Dahamat: dewi Dahamat
+- defence tower: menara pertahanan
+- scholar: sarjana
+- protection: perlindungan
+- Archer Tower: Menara Pemanah
+- Workplaces: Tempat Kerja
+- Scriptonics: Scriptonics
+- monogamous: monogami
+- indebted: berutang
+- military uprising: pemberontakan militer
+- loyalty sermons: khotbah kesetiaan
+- army’s loyalty: kesetiaan pasukan
+- followers: pengikut
+- politician: politisi

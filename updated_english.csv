@@ -1,317 +1,317 @@
 Key,English
-hint_test_inline_image,"Tes Gambar Tertanam
-Jika diaktifkan, permainan hanya akan disimpan saat keluar, tidak memungkinkan Anda memainkan ulang momen gagal melalui pemuatan berulang.
+hint_test_inline_image,"Тест вложенного изображения
+Если включить, игра будет сохраняться только на выходе, не позволяя вам переигрывать неудачные моменты через постоянную загрузку.
 
 <img=s_gui_event_background_king></img>
 
-Perubahan bahasa hanya mungkin melalui <hint=hint_test_inline_image_2>Menu Utama.</hint>
+Смена языка возможна только через <hint=hint_test_inline_image_2>Главное меню.</hint>
 
 <img=s_not_existed_image></img>"
-hint_settings_language_change_error,"Tidak Tersedia
-Perubahan bahasa hanya mungkin melalui Menu Utama."
+hint_settings_language_change_error,"Unavailable
+Language change is only possible through the Main Menu."
 hint_changelog_patchnotes,"~
-Selamat datang di Akses Awal Norland!
+Welcome to the Early Access of Norland!
 
-Permainan ini berkembang pesat, dan kami terus menambahkan mekanik baru, yang sering kali menimbulkan cacat atau masalah mengganggu lainnya.
+The game is rapidly evolving, and we are constantly adding new mechanics, which often leads to bugs or other annoying issues.
 
-Maka dari itu, mohonlah kesabaran Anda, dan beri tahu kami melalui forum, surat elektronik, atau Discord jika Anda mengalami pengalaman bermain yang menyedihkan—kami akan berusaha memperbaikinya secepat mungkin!
+So please be understanding, and let us know on the forum, via email, or in Discord if you encounter an unpleasant gaming experience - we'll try to fix everything as quickly as possible!
 
-Salam hormat,
-Tim Pengembang."
-hint_settings_iron_man,"Kehendak Besi
-Ketika diaktifkan, permainan hanya akan menyimpan kemajuan Anda saat keluar. Perhatikan bahwa Anda tidak akan dapat menyimpan dan memuat secara rutin.
+Best regards,  
+The Development Team."
+hint_settings_iron_man,"Iron Will
+When enabled, the game will only save your progress upon exiting. Be advised that you won't be able to regularly save & load.
 
-Mode ini, meskipun tak kenal belas kasihan, akan membolehkan Anda menikmati permainan dengan cara yang lebih mendalam secara emosional"
-hint_settings_normal_peaceful,"Mode Damai
-Tingkat kesulitan permainan dikurangi, dan tetangga tidak akan mengganggu kecuali Anda memulai tindakan agresif terlebih dahulu.
+This mode, while unforgiving, will allow you to experience the game in a more emotional way"
+hint_settings_normal_peaceful,"Peaceful Mode
+Game difficulty is reduced, and neighbors won't bother you unless you initiate aggressive actions yourself.
 
-Jumlah sumber daya awal juga telah ditingkatkan.
+The number of starting resources has also been increased.
 
-<b>Direkomendasikan bagi mereka yang ingin mengembangkan pemukiman secara damai, serta bagi pemain baru.</b>"
-hint_settings_normal_start,"Mode Normal
-Mode yang membolehkan pengalaman seimbang. Tingkat kesulitan permainan akan meningkat secara bertahap selama beberapa hari pertama setelah memulai permainan.
+<b>Recommended for those who want to peacefully develop their settlement, as well as for new players.</b>"
+hint_settings_normal_start,"Normal Mode
+A mode that allows for a balanced experience. The game's difficulty will gradually increase during the first few days after starting the game.
 
-Mekanik baru dan tantangan akan diperkenalkan sepanjang permainan, membolehkan Anda beradaptasi.
+New mechanics and challenges will be introduced over the course of the game, allowing you to adapt.
 
-<b>Direkomendasikan bagi pemain yang sudah akrab dengan permainan dan ingin memainkannya sebagaimana dimaksudkan.</b>"
-hint_settings_hardcore_start,"Mode Keras
-<b>Dalam mode keras</b>, semua tantangan dimulai sejak hari pertama, menuntut konsentrasi tinggi, keterampilan multitasking, dan pengetahuan mendalam tentang permainan.
+<b>Recommended for players who are already familiar with the game and want to play it as it was intended.</b>"
+hint_settings_hardcore_start,"Hardcore
+<b>In hardcore mode</b>, all challenges start from day one, requiring high concentration, multitasking skills, and knowledge of the game.
 
-Sumber daya awal juga lebih terbatas.
+Initial resources are also more limited.
 
-<b>Direkomendasikan hanya bagi pemain berpengalaman tinggi!</b>"
-hint_army_power,"Kekuatan Pasukan
-$ Kekuatan pasukan raja-raja lain dihitung sebagai nilai total peralatan para pejuangnya.
-$ Kekuatan pasukan Anda dihitung oleh tetangga sebagai nilai total senjata dan baju zirah terbaik yang dapat dipakai oleh para prajurit Anda."
-hint_desire,"Keinginan
-Sesekali, para tokoh dilanda berbagai keinginan. Ini dibagi menjadi obsesi <hint=hint_desire_obsession>kuat</hint> (seperti keinginan untuk balas dendam) dan mimpi <hint=hint_desire_dream>ringan</hint>.
+<b>Recommended for very experienced players only!</b>"
+hint_army_power,"Army Strength
+$ The strength of other kings' armies is calculated as the total value of the fighters' equipment.
+$ Your army's strength is calculated by neighbors as the total value of the best weapons and armor that your warriors can wear."
+hint_desire,"Desires
+From time to time, characters are overtaken by various desires. These are divided into strong <hint=hint_desire_obsession>obsessions</hint> (such as a desire for revenge) and lighter <hint=hint_desire_dream>dreams</hint>.
 
 <img=hint_desire></img>
 
-$ Ketika seorang tokoh dilanda <hint=hint_desire_obsession>obsesi</hint>, ia akan menderita hebat hingga keinginan itu terpenuhi. Intensitas ketidakpuasan akan bertambah, dan dalam beberapa kasus, tokoh tersebut mungkin memutuskan untuk memenuhi keinginannya sendiri.
-$ <hint=hint_desire_dream>Mimpi</hint> tidak mengganggu tokoh sebanyak itu, tetapi memenuhi keinginan ini memberinya <hint=hint_tutorial_inspiration>Inspirasi</hint>.
-$ Memenuhi keinginan selalu memberi tokoh pikiran positif yang kuat.
-$ Keinginan ditampilkan di tab pertama jendela tokoh."
-hint_action,"Tugas Tokoh
-Dengan mengklik tombol aksi di menu Bangunan atau Tokoh, Anda dapat menugaskan berbagai tugas kepada para bangsawan Anda, yang akan mereka usahakan untuk diselesaikan saat tersedia. Tugas-tugas ini ditampilkan sebagai tombol di atas menu mereka.
+$ When a character is overtaken by an <hint=hint_desire_obsession>obsession</hint>, they will suffer greatly until the desire is fulfilled. The intensity of dissatisfaction will grow, and in some cases, the character may decide to fulfill the desire on their own.
+$ <hint=hint_desire_dream>Dreams</hint> do not bother the character as much, but fulfilling this desire grants them <hint=hint_tutorial_inspiration>Inspiration</hint>.
+$ Fulfilling desires will always give the character a strong positive thought.
+$ Desires are displayed in the first tab of the character window."
+hint_action,"Character Tasks
+By clicking on the action button in the Building or Character menu, you can assign various tasks to your lords, which they will strive to accomplish as they become available. These tasks are displayed as buttons above their menu.
 
-Anda dapat memaksa mereka melakukan tugas segera dengan mengklik tombol tugas, tetapi hal itu akan membuat mereka kesal.
+You can force them to immediately perform the task by clicking on the task button, but it will upset them.
 
-Seorang bangsawan tidak akan menjalankan tugas jika ia <hint=hint_unhappy>tidak bahagia</hint>.
+A lord will not carry out a task if they are <hint=hint_unhappy>unhappy</hint>.
 
-Anda juga dapat menugaskan tugas dengan <b>klik kanan</b> pada bangunan atau tokoh untuk membuka menu konteks."
-hint_fleshwolf,"Serigala Daging
-Sebuah predator kuat dan perwakilan dari satwa langka Norland.
+You can also assign tasks by <b>right-clicking</b>on buildings or characters to bring up a context menu."
+hint_fleshwolf,"Fleshwolf
+A powerful predator and a representative of the scarce fauna of Norland.
 
-Dianggap bahwa serigala daging setara kekuatannya dengan seorang pejuang dengan keterampilan Pertarungan {wolf_level}, bersenjata <hint=hint_resource_wooden_spear>Tombak</hint>.
+It is considered that the fleshwolf is equivalent in strength to a fighter with a {wolf_level} Combat skill, armed with a <hint=hint_resource_wooden_spear>Spear</hint>.
 
-$ Mereka menghuni hutan dan menghindari ruang terbuka. Mereka dapat menyerang manusia. Gunakan <hint=hint_bld_patrol_sign_day>Patroli Siang</hint> untuk melindungi para petani.
-$ Para bangsawan secara tradisional memburunya berpasangan, hanya menggunakan senjata jarak dekat, sebagai ungkapan kehormatan terhadap makhluk tersebut.
-$ Mereka juga dapat diserang dengan regu prajurit.
-$ Bangkai setiap serigala daging yang dibunuh mengandung sedikit <hint=hint_resource_meat>Daging</hint> yang dapat dimakan."
-hint_action_task_reward,"Hadiah
-Tokoh tersebut akan menerima hadiah dari raja atas pelayanan setianya.
+$ They inhabit the forests and avoid open spaces. They can attack humans. Use <hint=hint_bld_patrol_sign_day>Day Patrols</hint> to protect the peasants.
+$ Lords traditionally hunt them in pairs, using only melee weapons, as an expression of honor toward the creatures.
+$ They can also be attacked with warrior squads.
+$ The carcass of each killed fleshwolf contains some edible <hint=hint_resource_meat>Meat</hint>."
+hint_action_task_reward,"Reward
+The character will receive a reward from the king for faithful service.
 
-Raja: {skill_name} tingkat {skill_level}
+King: {skill_name} level {skill_level}
 
-<b>Akibatnya:</b>
-$ Pikiran <green>Diberi Hadiah: {mind_modify}</green>
-$ Kesetiaan: <green>{loyalty_modify}</green>
-$ Hubungan dengan raja: <green>{relations_modify}</green>
+<b>As a result:</b>
+$ Thought <green>Rewarded: {mind_modify}</green>
+$ Loyalty: <green>{loyalty_modify}</green>
+$ Relationship with the king: <green>{relations_modify}</green>
 
-<b>Biaya:</b>: <hint=hint_resource_rune>{rings_rew_number}</hint>"
-hint_action_task_threat,"Ancaman
-Raja mengancam konsekuensi jika tokoh tersebut merenungkan pengkhianatan.
+<b>Cost:</b>: <hint=hint_resource_rune>{rings_rew_number}</hint>"
+hint_action_task_threat,"Threat
+The king threatens consequences if the character contemplates betrayal.
 
-Raja: {skill_name} tingkat {skill_level}
+King: {skill_name} level {skill_level}
 
-<b>Akibatnya</b>
-$ Kesetiaan: <green>{loyalty_modify}</green>
+<b>As a result</b>
+$ Loyalty: <green>{loyalty_modify}</green>
 
-<b>Efek Samping</b>:
-$ Pikiran negatif: <red>Dijatuhi Ancaman: {threat_moral_modify}</red>
-$ Ada kemungkinan tokoh tersebut akan menyerang raja."
-hint_action_task_donate,"Permintaan Sumbangan
-Penguasa meminta sumbangan beberapa <hint=hint_resource_rune>Cincin Suci</hint> sebagai bantuan.
+<b>Side Effects</b>:
+$ Negative thought: <red>Subjected to threats: {threat_moral_modify}</red>
+$ There is a chance that the character will attack the king."
+hint_action_task_donate,"Request for Donation
+The ruler asks for a donation of several <hint=hint_resource_rune>Holy Rings</hint> as assistance.
 
-Penguasa: {skill_name} tingkat {skill_level}
+Ruler: {skill_name} level {skill_level}
 
-<b>Akibatnya</b>
-$ Pikiran <red>Dipaksa Menyumbang: {mind_modify}</red>
-$ Kesetiaan: <red>{loyalty_modify}</red>
+<b>As a result</b>
+$ Thought <red>Forced to donate: {mind_modify}</red>
+$ Loyalty: <red>{loyalty_modify}</red>
 
-<b>Penguasa menerima</b>:
-$ {rings_rew_number} <hint=hint_resource_rune>Cincin Suci</hint>"
-hint_action_new_heir,"Tunjuk sebagai Pewaris
-Penguasa akan menyatakan tokoh ini sebagai pewarisnya.
+<b>The ruler receives</b>:
+$ {rings_rew_number} <hint=hint_resource_rune>Holy Rings</hint>"
+hint_action_new_heir,"Appoint as Heir
+The ruler will declare this character as his heir.
 
-<b>Akibatnya:</b>
-$ {soul_uuid_1} akan menjadi pewaris.
-$ Pewaris lama, {soul_uuid_2}, akan merasa diremehkan dan mengembangkan dendam terhadap penguasa dan {soul_uuid_1}."
-hint_action_new_king,"Serahkan Mahkota
-Raja akan menyerahkan mahkota kepada tokoh ini.
+<b>As a result:</b>
+$ {soul_uuid_1} will become the heir.
+$ The old heir, {soul_uuid_2}, will feel undermined and develop resentment toward the ruler and {soul_uuid_1}."
+hint_action_new_king,"Pass the Crown
+The king will give the crown to this character.
 
-<b>Konsekuensi:</b>
-$ {soul_uuid_1} akan menjadi monarki.
-$ Hubungan antara raja Anda dan <hint=hint_bishop>Uskup</hint>, Matriark, serta tetangga Anda akan dimulai kembali.
-$ Monarki lama {soul_uuid_2} akan depresi dan membenci {soul_uuid_1}."
-hint_action_give_title_to_hired_free_lord,"Berikan Gelar kepada Bangsawan Bebas
-Raja akan memberikan <hint=hint_title>gelar</hint> kepada {soul_uuid_1}, menjadikannya anggota keluarga yang sah.
+<b>Consequences:</b>
+$ {soul_uuid_1} will become monarch. 
+$ The relationships between your king and the <hint=hint_bishop>Bishop</hint>, the Matriarch, and your neighbors will start afresh. 
+$ The old monarch {soul_uuid_2} will be depressed and hate {soul_uuid_1}."
+hint_action_give_title_to_hired_free_lord,"Grant a Title to a Free Lord
+The king will grant a <hint=hint_title>title</hint> to {soul_uuid_1}, making him a full-fledged member of the family.
 
-Pajak kepada Keluarga Penyayang diperlukan untuk mengamankan hak {soul_uuid_1} atas garis keturunannya.
+It will be necessary to pay a tax to the Loving Family to secure {soul_uuid_1}'s rights to his lineage.
 
-<b>Konsekuensi</b>
-$ {soul_uuid_1} akan menerima gelar dan bergabung dengan {faction_uuid}.
-$ <hint=hint_resource_gold>{give_title_cost}</hint> akan dibelanjakan sebagai pajak kepada Keluarga Penyayang.
-$ Jumlah gelar yang tersedia akan berkurang sebanyak 1.
+<b>Consequences</b>
+$ {soul_uuid_1} will receive the title and join {faction_uuid}.
+$ <hint=hint_resource_gold>{give_title_cost}</hint> will be spent as a tax to the Loving Family.
+$ The number of available titles will decrease by 1.
 {optional_philistine}"
-hint_action_give_title_to_soldier,"Berikan Gelar kepada Prajurit
-Raja menganugerahkan <hint=hint_title>gelar</hint> kepada prajurit tak bertanah {soul_uuid_1}, menjadikannya anggota keluarga yang sah. Keterampilan bangsawan seperti ini akan relatif rendah.
+hint_action_give_title_to_soldier,"Grant a Title to a Warrior
+The king bestows a <hint=hint_title>title</hint> upon the landless warrior {soul_uuid_1}, making them a full-fledged member of the family. The skills of such a lord will be relatively low.
 
-Pajak kepada Keluarga Penyayang diperlukan untuk mendokumentasikan garis keturunan bagi {soul_uuid_1}.
+A tax to the Loving Family will be required for the documentation of the lineage for {soul_uuid_1}.
 
-Para bangsawan lain akan bersikap negatif terhadapnya karena kelahiran rendahnya.
+Other lords will have a negative attitude toward them due to their low birth.
 
-<b>Konsekuensi</b>
-$ {soul_uuid_1} akan menerima gelar dan menjadi bangsawan sah di {faction_uuid}.
-$ Sikap awal para bangsawan lain: <red>{mind_modify}</red>
-$ <hint=hint_resource_gold>{give_title_cost}</hint> akan dibelanjakan untuk pajak Keluarga Penyayang.
-$ Jumlah gelar yang tersedia akan berkurang sebanyak 1."
-hint_action_take_title,"Cabut Gelar Bangsawan
-Raja akan mencabut <hint=hint_title>gelar</hint> bangsawan {soul_uuid_1}, dan ia akan menjadi <hint=hint_untitled_lord>bangsawan rendah</hint>.
+<b>Consequences</b>
+$ {soul_uuid_1} will receive the title and become a full-fledged lord in {faction_uuid}.
+$ Initial attitude of other lords: <red>{mind_modify}</red>
+$ <hint=hint_resource_gold>{give_title_cost}</hint> will be spent on the Loving Family tax.
+$ The number of available titles will decrease by 1."
+hint_action_take_title,"Strip Lord's Title
+The King will strip lord {soul_uuid_1} of his <hint=hint_title>title</hint>, and he will become <hint=hint_untitled_lord>a lesser lord</hint>.
 
-<b>Konsekuensi</b>
-$ Bangsawan yang dicabut gelarnya tidak akan pernah melupakan penghinaan ini dan mengembangkan pikiran negatif terhadap Raja dengan kekuatan <red>{der_thought}</red>.
-$ Teman-teman bangsawan ini akan kesal dan berpikir lebih buruk tentang Raja.
-$ Keluarga Anda akan mendapatkan gelar gratis."
-hint_action_task_dice,"Main Dadu
-Main dadu dengan bangsawan lain.
+<b>Consequences</b>
+$ Disowned lord will never forget this humiliation and develop a negative thought toward the King with a strength of <red>{der_thought}</red>.
+$ The friends of this lord will be upset and will think worse of the King.
+$ Your family will get a free title."
+hint_action_task_dice,"Play Dice
+Play dice with another lord.
 
-Hasil permainan cukup acak tetapi sebagian besar dipengaruhi oleh perbedaan keterampilan <hint=hint_skill_knowledge>Kecerdasan</hint> para pemain.
+The outcome of the game is quite random but is largely influenced by the difference in the players' <hint=hint_skill_knowledge>Intelligence</hint> skill.
 
-Taruhannya adalah <hint=hint_resource_rune>{dice_bet}</hint>."
-hint_action_task_dice_context,"Main Dadu
-Main dadu dengan bangsawan lain.
+The bet will be <hint=hint_resource_rune>{dice_bet}</hint>."
+hint_action_task_dice_context,"Play Dice
+Play dice with another lord.
 
-Taruhannya adalah <hint=hint_resource_rune>{dice_bet}</hint>.
+The bet will be <hint=hint_resource_rune>{dice_bet}</hint>.
 
-$ {soul_uuid_1}: Kecerdasan {number1}
-$ {soul_uuid_2}: Kecerdasan {number2}
+$ {soul_uuid_1}: Intelligence {number1}
+$ {soul_uuid_2}: Intelligence {number2}
 
-Probabilitas {soul_uuid_1} menang adalah {ver}%."
-hint_action_make_enemy,"Nyatakan sebagai Musuh
-Nyatakan {soul_uuid_target} sebagai musuh raja Anda.
+The probability of {soul_uuid_1} winning is {ver}%."
+hint_action_make_enemy,"Declare as an Enemy
+Declare {soul_uuid_target} an enemy of your king.
 
-$ Tokoh tersebut akan berusaha melarikan diri dari kerajaan secepat mungkin.
-$ Para bangsawan dan prajurit Anda akan berusaha menyerang dan membunuh tokoh ini (dengan asumsi mereka bersenjata).
-$ Anda juga dapat menyerangnya dengan <hint=hint_army>regu pertempuran</hint> (klik kanan pada target).
+$ The character will attempt to flee the kingdom as quickly as possible.
+$ Your lords and warriors will try to attack and kill this character (assuming they are armed).
+$ You can also attack him with a <hint=hint_army>battle squad</hint> (right-click on the target).
 {additional_info_stack}"
-hint_action_task_hunt,"Berburu
-Para tokoh sedang berburu <hint=hint_fleshwolf>serigala daging</hint> bersama-sama.
+hint_action_task_hunt,"Hunting
+The characters are hunting a <hint=hint_fleshwolf>fleshwolf</hint> together.
 
-Dianggap bahwa serigala daging setara kekuatannya dengan seorang pejuang dengan keterampilan Pertarungan {wolf_level}, bersenjata <hint=hint_resource_wooden_spear>Tombak</hint>.
+It is considered that the fleshwolf is equivalent in strength to a fighter with a {wolf_level} Combat skill, armed with a <hint=hint_resource_wooden_spear>Spear</hint>.
 
-$ Jika berhasil, jika serigala daging dikalahkan dan kedua pemburu tetap berdiri, mereka menerima pikiran sosial <hint=hint_thought_social>jangka panjang</hint> “Berburu Bersama” <green>{hunt_improve}</green>.
-$ Selain itu, dalam kasus perburuan berhasil, peserta akan menerima {exp_points} poin dalam keterampilan <hint=hint_skill_combat>Pertarungan</hint> dan keterampilan <hint=hint_skill_command>Komando</hint>.
-$ Jika salah satu pemburu kalah dalam pertarungan, keduanya menerima pikiran sosial negatif “Pemburu Buruk” <red>{bad_hunter}</red>."
-hint_action_task_hunt_context,"Berburu
-{soul_uuid_1}: <hint=hint_skill_combat>Keterampilan Pertarungan</hint>: {skill_1}
+$ On success, if the fleshwolf is defeated and both hunters remain on foot, they receive a long-lasting <hint=hint_thought_social>social thought</hint> “Hunted Together” <green>{hunt_improve}</green>.
+$ Additionally, in case of a successful hunt, participants will receive {exp_points} points in <hint=hint_skill_combat>Combat skill</hint> and <hint=hint_skill_command>Command skill</hint>.
+$ If any of the hunters loses the fight, both receive a negative social thought “Bad Hunter” <red>{bad_hunter}</red>."
+hint_action_task_hunt_context,"Hunting
+{soul_uuid_1}: <hint=hint_skill_combat>Combat skill</hint>: {skill_1}
 {soul_1_equipment_stack}
 
-{soul_uuid_2}: <hint=hint_skill_combat>Keterampilan Pertarungan</hint>: {skill_2}
+{soul_uuid_2}: <hint=hint_skill_combat>Combat skill</hint>: {skill_2}
 {soul_2_equipment_stack}
 
-Serigala daging setara kekuatannya dengan seorang pejuang dengan keterampilan Pertarungan {wolf_level}, bersenjata <hint=hint_resource_wooden_spear>Tombak</hint>."
-hint_action_task_together,"Habiskan Waktu Bersama
-Para tokoh menghabiskan waktu bersama; mereka akan berjalan-jalan, berdoa, memainkan musik, dan sebagainya.
+Fleshwolf is equivalent in strength to a fighter with a {wolf_level} Combat skill, armed with a <hint=hint_resource_wooden_spear>Spear</hint>."
+hint_action_task_together,"Spend Time Together
+Characters spend time together; they will walk, pray, play music, and so on.
 
-Selama waktu ini, pasti akan ada 2 <hint=hint_conversation>percakapan mendalam</hint>—tidak harus yang baik.
+During this time, there will definitely be 2 <hint=hint_conversation>deep conversations</hint> - not necessarily good ones.
 
-Kemungkinan percakapan baik bergantung pada <hint=hint_mood>suasana hati</hint> para tokoh, dan kekuatan pikiran yang dihasilkan dari percakapan ini bergantung pada keterampilan <hint=hint_skill_manners>Tata Krama</hint>."
-hint_action_task_hunt_unavailable,"Tidak Tersedia
-Uskup tidak tersedia untuk berburu."
-hint_action_task_hunt_by_no_wolf,"Tidak Tersedia
-Tidak ada serigala daging yang tersedia untuk diburu di hutan."
-hint_action_task_together_new_context,"Habiskan Waktu Bersama
-$ {soul_uuid_1}: Suasana hati {mood_stack_1}, <hint=hint_skill_manners>Tata Krama:</hint> {skill_level_1}
-$ {soul_uuid_2}: Suasana hati {mood_stack_2}, <hint=hint_skill_manners>Tata Krama:</hint> {skill_level_2}
+The likelihood of a good conversation depends on the <hint=hint_mood>mood</hint> of the characters, and the strength of thoughts resulting from this conversation depends on the skill of <hint=hint_skill_manners>Manners</hint>."
+hint_action_task_hunt_unavailable,"Unavailable
+The bishop is not available for hunting."
+hint_action_task_hunt_by_no_wolf,"Unavailable
+There are no fleshwolves available for hunting in the forest."
+hint_action_task_together_new_context,"Spending Time Together
+$ {soul_uuid_1}: Mood {mood_stack_1}, <hint=hint_skill_manners>Manners:</hint> {skill_level_1} 
+$ {soul_uuid_2}: Mood {mood_stack_2}, <hint=hint_skill_manners>Manners:</hint> {skill_level_2}
 
-<b>Akibatnya:</b>
-{soul_uuid_1} akan berpikir tentang ${soul_uuid_2}:
+<b>As a result:</b>
+{soul_uuid_1} will think about ${soul_uuid_2}:
 {deep_social_stack_1}
-Suasana hati: {moral_change_1}
+Mood: {moral_change_1}
 
-{soul_uuid_2} akan berpikir tentang ${soul_uuid_1}:
+{soul_uuid_2} will think about ${soul_uuid_1}:
 {deep_social_stack_2}
-Suasana hati: {moral_change_2}"
+Mood: {moral_change_2}"
 hint_child_sub_context,"~
-Tokoh ini adalah orang tua, sehingga aksi ini juga akan memenuhi kebutuhan anak akan <hint=hint_need_care>perhatian</hint>."
-hint_marriage_local,"Menikah
-Tanpa berani menentang kehendak penguasa mereka, dua bangsawan akan memasuki <hint=hint_marriage>pernikahan</hint> yang sah.
+This character is a parent, so this action will also fulfill the child's need for <hint=hint_need_care>care</hint>."
+hint_marriage_local,"Marry
+Without daring to oppose the will of their ruler, two lords will enter into a lawful <hint=hint_marriage>marriage</hint>.
 
-Pernikahan antara anak dan orang tua atau antara saudara kandung dilarang.
+Marriages between children and parents or between brothers and sisters are prohibited.
 {optional_philistine}"
-hint_marriage_local_context,"Menikah
-{soul_uuid_1} akan menjadi pasangan {soul_uuid_2}."
+hint_marriage_local_context,"Marry
+{soul_uuid_1} will become the spouse of {soul_uuid_2}."
 hint_action_task_lesson,"~
-$ Anak yang telah dewasa dan belajar membaca juga akan memperoleh <hint=hint_idea>pengetahuan</hint> guru.
-$ Murid mendapatkan lebih banyak pengalaman untuk keterampilan yang dimilikinya <hint=hint_talant>bakat</hint>.
-$ Aksi ini akan terjadi setiap hari."
-hint_action_task_lesson_context,"Belajar
-Guru ini akan mampu mengembangkan keterampilan murid:
-$ {skill_name} hingga tingkat {skill_level_cup}
-$ {skill_name_2} hingga tingkat {skill_level_cup_2}
+$ A child who has grown up and learned to read will also acquire the teacher's <hint=hint_idea>knowledge</hint>.
+$ The trainee gains more experience for the skill, for which they have a <hint=hint_talant>talent</hint>.
+$ The action will occur daily."
+hint_action_task_lesson_context,"Learn
+This teacher will be able to develop the student's skills:
+$ {skill_name} up to level {skill_level_cup}
+$ {skill_name_2} up to level {skill_level_cup_2}
 
-Efisiensi pelatihan:
-$ Guru memiliki keterampilan <hint=hint_skill_teaching>Pelatihan</hint>: {skill_level_3}
-$ Dan dapat menyampaikan {exp} poin pengalaman per pelajaran
+Training efficiency:
+$ The teacher has <hint=hint_skill_teaching>Training</hint> skill: {skill_level_3}
+$ And can pass on {exp} experience points per lesson
 
 [hint_action_task_lesson]
 {optional_add_info}"
-hint_study_complex,"Pelatihan Umum
-Guru akan melatih murid dalam semua keterampilan, terlebih dahulu fokus pada bakat murid hingga batas keterampilannya, kemudian keterampilan sisanya secara bergantian."
+hint_study_complex,"General Training
+The teacher will train the student in all skills, first focusing on the student's talents to their skill limit and then the remaining skills in turn."
 hint_action_task_lesson_guest,"~
-Tokoh ini adalah tamu Anda, sehingga pelajaran ini biayanya <hint=hint_resource_rune>{price}</hint>.
+This character is your guest, so the lesson costs <hint=hint_resource_rune>{price}</hint>.
 
-Pembayaran akan diambil dari kantong raja."
+The payment will be taken from the king's pocket."
 hint_action_task_lesson_change_culture,"~
-Tokoh ini termasuk dalam budaya {culture}, sehingga ada kemungkinan murid dapat mengubah budayanya."
-hint_action_task_lesson_guest_no_money,"Cincin Tidak Cukup
-Tokoh ini adalah tamu Anda, sehingga pelajaran ini biayanya <hint=hint_resource_rune>{price}</hint>.
+This character belongs to a {culture} culture, so there is a chance that the student can change his culture."
+hint_action_task_lesson_guest_no_money,"Not Enough Rings
+This character is your guest, so the lesson costs <hint=hint_resource_rune>{price}</hint>.
 
-Anda tidak memiliki cukup Cincin Suci untuk membayar pelajaran."
-hint_action_task_lesson_bishop_low_opinion,"Hubungan Buruk
-Hubungan buruk dengan raja Anda.
+You do not have enough Holy Rings to pay for the lesson."
+hint_action_task_lesson_bishop_low_opinion,"Poor Relationship
+Poor relationship with your king.
 
-Tingkatkan hubungan dengan raja Anda hingga <green>{option_req}</green>."
-hint_duel,"Dueling
-Para tokoh akan berusaha menentukan hubungan mereka melalui duel resmi.
+Improve the relationship with your king to <green>{option_req}</green>."
+hint_duel,"Duel
+The characters will attempt to determine their relationship through an official duel.
 
-$ Menghapus <hint=hint_desire>keinginan</hint> untuk balas dendam atau kematian dari musuh, jika ada pada para penduel.
-$ Duel berlanjut hingga salah satu peserta kehilangan kesadaran, tetapi hasil mematikan mungkin terjadi.
-$ Semakin banyak rasa sakit yang diberikan penduel kepada lawan, semakin mudah baginya untuk menyelesaikan keinginannya.
-$ Duel diakui sebagai cara terhormat untuk menyelesaikan sengketa, sehingga bahkan jika Anda membunuh <hint=hint_bishop>Uskup</hint> dalam duel, Anda tidak akan menimbulkan murka Matriark."
-hint_duel_provoke,"Provokasi
-Seorang tamu dari provinsi tetangga telah memprovokasi bangsawan Anda untuk bertarung duel. Duel itu akan berlangsung malam ini.
+$ Removes the <hint=hint_desire>desire</hint> for revenge or death from the enemy, if present in the duelists.
+$ The duel continues until one of the participants loses consciousness, but a lethal outcome is possible.
+$ The more pain the duelist inflicts on the opponent, the easier it becomes for them to resolve their desire.
+$ A duel is recognized as an honorable way to resolve disputes, so even if you kill the <hint=hint_bishop>Bishop</hint> in a duel, you will not incur the Matriarch's wrath."
+hint_duel_provoke,"Provocation
+A guest from a neighboring province has provoked your lord into a duel. It will take place this evening.
 
-Jika Anda tidak yakin dengan hasilnya, Anda dapat mengusir tamu tersebut dari provinsi Anda sebelum waktu itu. Bangsawan Anda akan menghindari bahaya, tetapi hal ini akan memperburuk sikap monarki tamu (dan bangsawan Anda sendiri) terhadap penguasa Anda."
+If you are not confident in its outcome, you can expel the guest from your province before that time. Your lord will avoid danger, but this will worsen the attitude of the guest monarch (and his own) towards your ruler."
 hint_duel_context,"Duel
-{soul_uuid_1}: <hint=hint_skill_combat>Keterampilan Pertarungan</hint>: {skill_1}
+{soul_uuid_1}: <hint=hint_skill_combat>Combat skill</hint>: {skill_1}
 {soul_1_equipment_stack}
 
 VS
 
-{soul_uuid_2}: <hint=hint_skill_combat>Keterampilan Pertarungan</hint>: {skill_2}
+{soul_uuid_2}: <hint=hint_skill_combat>Combat skill</hint>: {skill_2}
 {soul_2_equipment_stack}
 {optional_duel_is_bad}
 {optional_loyalty_change}"
-hint_duel_unavailable_actor,"Pelaku Tidak Cocok
-Bangsawan harus menjadi <hint=hint_enemy>musuh</hint> dari {soul_uuid_target}."
-hint_action_task_savant_study_unavalable,"Ahli Pengetahuan
-Ahli pengetahuan tidak dapat dilatih."
-hint_action_invite,"Undang sebagai Tamu
-Bangsawan akan menerima undangan untuk mengunjungi pemukiman Anda selama beberapa hari.
+hint_duel_unavailable_actor,"Incompatible actor
+The lord must be an <hint=hint_enemy>enemy</hint> of {soul_uuid_target}."
+hint_action_task_savant_study_unavalable,"Savant
+Savants cannot be trained."
+hint_action_invite,"Invite as Guest
+The lord will accept the invitation to visit your settlement for a few days.
 
-$ Bangsawan akan setuju jika hubungan antara raja-raja Anda tidak di bawah <green>{opinion_threshold}</green>."
-hint_action_shadow,"Perbuatan Gelap
-Anda dapat menyewa preman dari kota ini untuk melakukan perbuatan gelap seperti pencurian dan penculikan di <b>menu aksi kota</b>.
+$ The lord will agree if the relationship between your kings is not below <green>{opinion_threshold}</green>."
+hint_action_shadow,"Dark Deeds
+You can hire cutthroats from this city to carry out dark deeds such as theft and kidnapping in the <b>city's action menu</b>.
 
-Biaya jasa mereka bergantung pada keterampilan <hint=hint_skill_speech>Keyakinan</hint> raja Anda."
-hint_action_task_hire_free_lord,"Sewa
-Sewa bangsawan bebas selama 10 hari.
+The cost of their services depends on the <hint=hint_skill_speech>Persuasion</hint> skill of your king."
+hint_action_task_hire_free_lord,"Hire
+Hire a free lord for 10 days.
 
-Anda akan dapat menugaskan tugas yang sama seperti kepada bangsawan Anda sendiri—memeriksa bangunan, memimpin regu, dan sebagainya.
+You will be able to assign them the same tasks as your own lords - inspect buildings, lead squads, and more.
 
-Biaya bergantung pada tingkat keterampilan <hint=hint_skill_speech>Keyakinan</hint> bangsawan yang akan bernegosiasi dengan mereka."
-hint_action_task_hire_free_lord_context,"Sewa Bangsawan
-{skill_name} tingkat {skill_level}
-{skill_name} tingkat bangsawan yang tersedia: {free_lord_skill_level}
+The cost depends on the level of the <hint=hint_skill_speech>Persuasion</hint> skill of the lord who will negotiate with them."
+hint_action_task_hire_free_lord_context,"Hire a Lord
+{skill_name} level {skill_level}
+{skill_name} level of the available lord: {free_lord_skill_level}
 
-Total biaya untuk 10 hari: <hint=hint_resource_rune>{price}</hint> {price_change_percent}
+Total cost for 10 days: <hint=hint_resource_rune>{price}</hint> {price_change_percent}
 
 {optional_first_hire}
 
-Petunjuk: Bangsawan akan menerima pembayaran mereka hanya setelah kontrak berakhir, dan hingga saat itu, itu akan disimpan oleh Gereja sebagai jaminan perilaku baik dari kedua pihak."
-hint_action_task_seduce,"Rayu
-Jika <hint=hint_interest>ketertarikan</hint> seorang bangsawan terhadap pelaku <green>tinggi</green> (di atas {interest_high}), mereka akan menghabiskan waktu bersama di ranjang.
+Hint: The lord will receive their payment only after the contract expires, and until then, it will be kept by the Church as a guarantee of good behavior from both parties."
+hint_action_task_seduce,"Seduce
+If a lord’s <hint=hint_interest>interest</hint> in the performer is <green>high</green> (above {interest_high}), they will spend time together in bed.
 
-<b>Akibatnya:</b>
-$ Target akan <green>secara besar-besaran meningkatkan pendapatnya</green> terhadap penguasa Anda (terima kasih kepada penggoda),
-$ Jika pendapat mereka terhadap penguasa Anda melebihi {puppet_treshold}, mereka akan menjadi <hint=hint_encyclopedia_puppets>boneka</hint> Anda.
-$ Jika target adalah penguasa kota lain dan pendapat mereka melebihi {puppet_treshold_duty_of_honor}, mereka akan memperoleh <hint=hint_debt_of_honor>hutang kehormatan</hint> terhadap Anda.
+<b>As a result:</b>
+$ The target will <green>greatly improve their opinion</green> of your ruler (thanks to the seducer),
+$ If their opinion of your ruler exceeds {puppet_treshold}, they will become your <hint=hint_encyclopedia_puppets>puppet</hint>.
+$ If the target is a ruler of another city and their opinion exceeds {puppet_treshold_duty_of_honor}, they will gain a <hint=hint_debt_of_honor>debt of honor</hint> toward you.
 
-<b>Biaya:</b> Penggoda akan menerima pikiran negatif, dan target akan kehilangan ketertarikan padanya."
-hint_action_task_seduce_context,"Rayu
-{skill_name} tingkat {skill_level}
+<b>Cost:</b> The seducer will receive a negative thought, and the target will lose interest in them."
+hint_action_task_seduce_context,"Seduce
+{skill_name} level {skill_level}
 
-<b>Akibatnya</b>
-$ Hubungan dengan penguasa Anda ({soul_uuid_king}): <green>{rel_plus}</green>
+<b>As a result</b>
+$ Relationship with your ruler ({soul_uuid_king}): <green>{rel_plus}</green>
 {optional_negtive_mind_to_performer}
 {optional_will_become_puppet}
 {optional_will_duty_of_honor}"
-hint_action_task_seduce_local,"Rayu
-$ Jika <hint=hint_interest>ketertarikan</hint> bangsawan terhadap pelaku <green>tinggi</green> (di atas {interest_high}), mereka akan menghabiskan waktu di ranjang.
-$ Akibatnya, target <green>akan meningkatkan hubungannya</green> dengan penguasa Anda, berpotensi menjadikannya <hint=hint_encyclopedia_puppets>boneka</hint> Anda."
+hint_action_task_seduce_local,"Seduce
+$ If the <hint=hint_interest>interest</hint> of the lord toward the actor is <green>high</green> (above {interest_high}), they will spend time in bed.
+$ As a result, the target <green>will improve their relationship</green> with your ruler, potentially making them your <hint=hint_encyclopedia_puppets>puppet</hint>."
 hint_action_task_seduce_local_context,"Seduce
 {skill_name} level {skill_level}
 {target_skill_name} of the target: level {target_skill_level}

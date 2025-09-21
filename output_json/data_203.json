@@ -1,12 +1,12 @@
 [
-  "~\n$ Matriarch approves of help against marauders: <green>{church_rel_im}</green>",
-  "Reinforcements\n{commander_soul_uuid} from {faction_uuid}\n{optional_army_info}",
-  "~\n{faction_uuid} has left the alliance of cities led by {leader_faction_uuid}.",
-  "~\n{faction_uuid} has renounced their vassalage to {sir_faction_uuid}.",
-  "~\nThe alliance of {leader_faction_uuid} has completely dissolved.",
-  "~\nThe vassal kingdom of {sir_faction_uuid} has completely broken up.",
-  "The envoy's visit\nThe lord you have chosen will visit the king to improve relations with him on behalf of your ruler.\n\nDuring the process, there will be a conversation, the outcome of which will affect the attitude of {soul_uuid_king} toward your king.\n\nThe likelihood of a good conversation depends on the <hint=hint_skill_manners>Manners</hint> skill of your envoy.",
-  "Envoy's visit\nPerformer {soul_uuid_performer}: {skill_name} level {skill_level}.\n\nRelationship with your king: <green>{rel_improve}</green>",
-  "Unavailable\nKing {soul_uuid_king} is not in the city right now.",
-  "Unavailable\nThe king cannot be assigned to this task.\n\n<b>Hint:</b> To establish personal relations between kings, you can assign your king to the Spend Time action in the Character menu."
+  "~\n$ Matriark menyetujui bantuan melawan begal: <green>{church_rel_im}</green>",
+  "Penguatan\n{commander_soul_uuid} dari {faction_uuid}\n{optional_army_info}",
+  "~\n{faction_uuid} telah meninggalkan aliansi kota-kota yang dipimpin oleh {leader_faction_uuid}.",
+  "~\n{faction_uuid} telah menolak status vasalnya kepada {sir_faction_uuid}.",
+  "~\nAliansi {leader_faction_uuid} telah benar-benar bubar.",
+  "~\nKerajaan vasal {sir_faction_uuid} telah benar-benar pecah.",
+  "Kunjungan utusan\nBangsawan yang Anda pilih akan mengunjungi raja untuk memperbaiki hubungan dengannya atas nama penguasa Anda.\n\nSelama proses tersebut, akan ada percakapan, hasilnya akan memengaruhi sikap {soul_uuid_king} terhadap raja Anda.\n\nKemungkinan percakapan yang baik tergantung pada keterampilan <hint=hint_skill_manners>Etika</hint> utusan Anda.",
+  "Kunjungan utusan\nPelaksana {soul_uuid_performer}: tingkat {skill_name} {skill_level}.\n\nHubungan dengan raja Anda: <green>{rel_improve}</green>",
+  "Tidak Tersedia\nRaja {soul_uuid_king} tidak berada di kota saat ini.",
+  "Tidak Tersedia\nRaja tidak dapat ditugaskan untuk tugas ini.\n\n<b>Petunjuk:</b> Untuk membangun hubungan pribadi antara raja-raja, Anda dapat menugaskan raja Anda ke aksi Habiskan Waktu di menu Karakter."
 ]

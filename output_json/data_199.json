@@ -1,12 +1,12 @@
 [
-  "~\nI have no trust for one who threatens and tries to impose their will by force. I refuse to break my agreements, and believe me, my allies will help me stand firm!",
-  "~\nTrust you and break off agreements? It would be safer to lay a snake in my bed! As soon as I agree to this, your troops will burn my city, and I will have no defense. This will not happen!",
-  "Ultimatum on neutrality\n{soul_uuid_king} issues you an ultimatum. You must sever all political agreements (with your suzerain, vassals, or leave the alliance) and become neutral.\n\n$ You have <b>2 days</b> to consider.\n$ If you ignore the proposal, then in a few days {soul_uuid_king} will try to test your strength.\n$ If the assault on your city is successful and your Hall is burned down, you will be forced to become neutral.\n{optional_possible_helpers}",
-  "Agree\nAgree and become a neutral independent province.\n{optional_additional_effects}\n\n[hint_SENDER]",
-  "~\nYou have become a neutral independent province.\n\nNow you are on your own.\n{optional_additional_effects}",
-  "~\nYou ignored the proposal, and soon {soul_uuid_king} will try to test your strength.\n\nIf the assault on your city is successful and your Hall is burned down, then you will become a neutral independent province.",
-  "~\n{soul_uuid_king} changed his mind about attacking your settlement, fearing the <hint=hint_army_power>strength</hint> of your army. All your political agreements remain in force.\n\nThis monarch will now be known as a coward.",
-  "~\nYou lost the battle and {soul_uuid_king} has forced you to break all your agreements.\n\n$ You have become a neutral independent province.\n$ Now you are on your own.",
-  "~\nYou won, and all your political agreements remain in force.",
-  "~\n$ Relationship with your suzerain {soul_uuid_king_head}: <red>{rel_de}</red>"
+  "~\nSaya tidak mempercayai seseorang yang mengancam dan berusaha memaksakan kehendaknya dengan kekerasan. Saya menolak untuk memutus perjanjian saya, dan percayalah, sekutu saya akan membantu saya bertahan teguh!",
+  "~\nMemercayai Anda dan memutus perjanjian? Lebih aman meletakkan ular di tempat tidur saya! Begitu saya setuju, pasukan Anda akan membakar kota saya, dan saya tidak akan punya pertahanan. Ini tidak akan terjadi!",
+  "Ultimatum tentang Netralitas\n{soul_uuid_king} menyampaikan ultimatum kepada Anda. Anda harus memutus semua perjanjian politik (dengan suzerain Anda, bawahan, atau keluar dari aliansi) dan menjadi netral.\n\n$ Anda memiliki <b>2 hari</b> untuk mempertimbangkan.\n$ Jika Anda mengabaikan usulan tersebut, maka dalam beberapa hari {soul_uuid_king} akan mencoba menguji kekuatan Anda.\n$ Jika serangan terhadap kota Anda berhasil dan Aula Anda dibakar, Anda akan dipaksa menjadi netral.\n{optional_possible_helpers}",
+  "Setuju\nSetuju dan menjadi provinsi netral independen.\n{optional_additional_effects}\n\n[hint_SENDER]",
+  "~\nAnda telah menjadi provinsi netral independen.\n\nSekarang Anda sendirian.\n{optional_additional_effects}",
+  "~\nAnda mengabaikan usulan tersebut, dan segera {soul_uuid_king} akan mencoba menguji kekuatan Anda.\n\nJika serangan terhadap kota Anda berhasil dan Aula Anda dibakar, maka Anda akan menjadi provinsi netral independen.",
+  "~\n{soul_uuid_king} mengubah pikirannya tentang menyerang pemukiman Anda, karena takut pada <hint=hint_army_power> kekuatan</hint> pasukan Anda. Semua perjanjian politik Anda tetap berlaku.\n\nPenguasa ini sekarang akan dikenal sebagai pengecut.",
+  "~\nAnda kalah dalam pertempuran dan {soul_uuid_king} telah memaksa Anda untuk memutus semua perjanjian Anda.\n\n$ Anda telah menjadi provinsi netral independen.\n$ Sekarang Anda sendirian.",
+  "~\nAnda menang, dan semua perjanjian politik Anda tetap berlaku.",
+  "~\n$ Hubungan dengan suzerain Anda {soul_uuid_king_head}: <red>{rel_de}</red>"
 ]

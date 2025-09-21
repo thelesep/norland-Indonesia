@@ -1,12 +1,12 @@
 [
-  "~\nI write to convey to you, my liege, that we are successfully developing the new settlement. This territory is untamed, but we shall exert every effort to transform it!",
-  "Establishment of a new House \nIn {faction_uuid_new_faction}, a settlement for a new noble house has been founded. \n\nIt originates from the House {faction_uuid_old_faction} and is now its <hint=hint_alliance_of_free_cities>ally</hint>.\n\nThis undoubtedly marks the beginning of a glorious journey!",
-  "[hint_DESCRIPTION]\n{soul_uuid_hostage} is suffering in captivity and being subjected to torture. No one knows how long they will last.\n\nBandits are demanding a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\nBut you can also attempt to free the hostage by force.\n\n[hint_SENDER]",
-  "Ransom \nTo free {soul_uuid_hostage}, you will need to pay a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
-  "~\nThe hostage {soul_uuid_hostage} has been <green>freed</green> and will soon return to your city!",
-  "~\nThe hostage {soul_uuid_hostage} <red>perished during the assault</red>.",
-  "~\nThe hostage {soul_uuid_hostage} <red>died from torture</red> before receiving your help.",
-  "[hint_DESCRIPTION] \n{soul_uuid_hostage} is in captivity. The lord could be killed, blinded, or brought to the side of the enemy. No one knows how long they will last. \n\nThe captors are asking for a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\nHowever, you can also try to free the hostage by force, attacking the settlement. \n\n[hint_SENDER]",
-  "Ransom \nTo free {soul_uuid_hostage}, you need to pay a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
-  "~\nThe hostage {soul_uuid_hostage} has been <green>freed</green> and will soon return to your city!"
+  "~\nSaya menulis untuk menyampaikan kepada Anda, tuanku, bahwa kami berhasil mengembangkan pemukiman baru. Wilayah ini masih liar, tetapi kami akan berusaha sekuat tenaga untuk mengubahnya!",
+  "Pendirian Rumah Baru \nDi {faction_uuid_new_faction}, sebuah pemukiman untuk rumah bangsawan baru telah didirikan. \n\nIni berasal dari Rumah {faction_uuid_old_faction} dan sekarang menjadi <hint=hint_alliance_of_free_cities>sekutu</hint>nya.\n\nIni tanpa ragu menandai awal perjalanan yang gemilang!",
+  "[hint_DESCRIPTION]\n{soul_uuid_hostage} sedang menderita dalam penahanan dan mengalami penyiksaan. Tak ada yang tahu berapa lama mereka akan bertahan.\n\nPerampok menuntut tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\nTetapi Anda juga bisa mencoba membebaskan sandera dengan kekerasan.\n\n[hint_SENDER]",
+  "Tebusan \nUntuk membebaskan {soul_uuid_hostage}, Anda perlu membayar tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
+  "~\nSandera {soul_uuid_hostage} telah <green>bebas</green> dan segera akan kembali ke kota Anda!",
+  "~\nSandera {soul_uuid_hostage} <red>tewas selama serangan</red>.",
+  "~\nSandera {soul_uuid_hostage} <red>meninggal akibat penyiksaan</red> sebelum menerima bantuan Anda.",
+  "[hint_DESCRIPTION] \n{soul_uuid_hostage} berada dalam penahanan. Penguasa itu bisa dibunuh, dibutakan, atau dibawa ke pihak musuh. Tak ada yang tahu berapa lama mereka akan bertahan. \n\nPara penculik meminta tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\nNamun, Anda juga bisa mencoba membebaskan sandera dengan kekerasan, menyerang pemukiman itu. \n\n[hint_SENDER]",
+  "Tebusan \nUntuk membebaskan {soul_uuid_hostage}, Anda perlu membayar tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
+  "~\nSandera {soul_uuid_hostage} telah <green>bebas</green> dan segera akan kembali ke kota Anda!"
 ]

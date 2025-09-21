@@ -1,12 +1,12 @@
 [
-  "~\nIt's a pity that you turned out to be more foolish than I thought. All I asked of you was to remain aside. But you wanted to show your bravery, and what have you achieved? Rivers of spilled blood and defeat. Stupidity always comes at a cost!",
-  "Coercion to neutrality\n{optional_type_of_danger}\n\nTherefore, {soul_uuid_king}, ruler of {faction_uuid}, requests assistance from all neighboring entities that are not afraid to stand by their side.\n\nYou can send your army to help protect {faction_uuid}.\n\n<b>Consequences</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}\n\n<b>Hint:</b> The ruler is more inclined to comply with the demand for neutrality if his relationship with the head of state is poor.",
-  "~\n<red>{soul_uuid_king_head} from {faction_uuid_s} demands that {soul_uuid_king} secede from the alliance and become a neutral province.</red>",
-  "~\n<red>{soul_uuid_king_s} from {faction_uuid_s} demands that {soul_uuid_king} break the vassal treaty and become a neutral province.</red>",
-  "~\n{soul_uuid_king} has been forced to agree to the ultimatum of {soul_uuid_king_s}, and now {faction_uuid} is not bound by any treaties and is an independent province.",
-  "~\n{soul_uuid_king} has defended his position and maintained his political agreements.",
-  "~\nYou were expelled from the city alliance for not providing assistance, thus violating the treaty.",
-  "~\nYou know that you acted dishonorably; breaking a treaty is unforgivable. And while you may benefit from this now, in the long term, facing threats alone will be beyond your capacity.",
-  "~\nTreaties are made to be kept. Why did you even enter into an alliance? If you are so confident that you can face threats on your own, that is your choice, but do not expect any further assistance from us.",
-  "~\nYou were expelled from the city alliance because your relationship with {soul_uuid_king_head}, the leader of the alliance, has become hostile."
+  "~\nSayang sekali kau ternyata lebih bodoh daripada yang kukira. Yang kuminta darimu hanyalah untuk berdiam diri. Tapi kau ingin pamer keberanianmu, dan apa yang kau capai? Sungai darah yang tumpah dan kekalahan. K ebodohan selalu datang dengan harga!",
+  "Pemaksaan ke Netralitas\n{optional_type_of_danger}\n\nOleh karena itu, {soul_uuid_king}, penguasa {faction_uuid}, meminta bantuan dari semua entitas tetangga yang tidak takut berdiri di sisinya.\n\nKau bisa mengirim pasukanmu untuk membantu melindungi {faction_uuid}.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}\n\n<b>Petunjuk:</b> Penguasa lebih cenderung mematuhi tuntutan netralitas jika hubungannya dengan kepala negara buruk.",
+  "~\n<red>{soul_uuid_king_head} dari {faction_uuid_s} menuntut agar {soul_uuid_king} keluar dari aliansi dan menjadi provinsi netral.</red>",
+  "~\n<red>{soul_uuid_king_s} dari {faction_uuid_s} menuntut agar {soul_uuid_king} memutuskan perjanjian vassal dan menjadi provinsi netral.</red>",
+  "~\n{soul_uuid_king} terpaksa menyetujui ultimatum dari {soul_uuid_king_s}, dan sekarang {faction_uuid} tidak terikat oleh perjanjian apa pun dan menjadi provinsi independen.",
+  "~\n{soul_uuid_king} mempertahankan posisinya dan mempertahankan perjanjian politiknya.",
+  "~\nKau diusir dari aliansi kota karena tidak memberikan bantuan, sehingga melanggar perjanjian.",
+  "~\nKau tahu bahwa tindakanmu tidak terhormat; melanggar perjanjian adalah hal yang tak termaafkan. Dan meskipun kau mungkin mendapat manfaat sekarang, dalam jangka panjang, menghadapi ancaman sendirian akan melampaui kemampuanmu.",
+  "~\nPerjanjian dibuat untuk dipatuhi. Mengapa kau bahkan bergabung dalam aliansi? Jika kau begitu yakin bisa menghadapi ancaman sendiri, itu pilihanmu, tapi jangan harapkan bantuan lebih lanjut dari kami.",
+  "~\nKau diusir dari aliansi kota karena hubunganmu dengan {soul_uuid_king_head}, pemimpin aliansi, telah menjadi permusuhan."
 ]

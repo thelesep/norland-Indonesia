@@ -1,12 +1,12 @@
 [
-  "~\nAlliances are built on trust, and you know this well. There is no place for the dishonorable, so you are now excluded. I must learn to be better at judging people.",
-  "~\nIt would be better to appoint a bastard to your position, and he would be a more worthy ruler. Know that our alliance is dissolved, and there is no turning back. I cannot walk the same path as a traitor. You will not survive on your own, and for that, I am glad!",
-  "~\nAs a result of a successful assault, {soul_uuid_king} was defeated and forced to break all his agreements.\n\nYour warriors return home victorious.",
-  "~\nYou lost the battle and {soul_uuid_king} proved to be too strong for you. All his political agreements remain in force.",
-  "~\n<red>ATTENTION! {soul_uuid_king} is a member of the alliance {soul_uuid_king_leader} from {faction_uuid_sir}!</red>\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
-  "~\n\n<b>Ally's responsibilities</b>\n$ If you fail to send aid, they will consider it betrayal and greatly worsen their opinion of your king. If relations deteriorate too much, <red>they may withdraw from the alliance</red>. Neighbors and other allies will also be unpleasantly surprised.",
-  "~\n<red>You betrayed an ally.</red>\n\n$ The attitude of {soul_uuid_king} toward you: <red>{rel_defence_alliance_not_help}</red>\n$ The attitude of your neighbors and other allies toward you: <red>{rel_defence_alliance_broken_neighbore}</red>",
-  "~\n{soul_uuid_king} has decided to leave the alliance as their relationship with you has become hostile.",
-  "~\nRemaining in an alliance with you, just waiting for you to betray me, is something I am not prepared for. If our relations cannot be mended, then let each of us go our separate ways.",
-  "~\nI know that vengeance is stronger even than the fear of death. No alliance with you can protect me from your hatred. I choose to sever it; let us rather admit to each other that we are enemies, not allies."
+  "~\nPersekutuan dibangun atas dasar kepercayaan, dan kau tahu ini dengan baik. Tidak ada tempat bagi yang tidak terhormat, jadi kau sekarang dikecualikan. Aku harus belajar lebih baik dalam menilai orang.",
+  "~\nLebih baik menunjuk seorang anak haram untuk posisimu, dan dia akan menjadi penguasa yang lebih layak. Ketahuilah bahwa persekutuan kita dibubarkan, dan tidak ada jalan kembali. Aku tidak bisa berjalan di jalan yang sama dengan pengkhianat. Kau tidak akan bertahan sendiri, dan untuk itu, aku senang!",
+  "~\nAkibat serangan yang berhasil, {soul_uuid_king} dikalahkan dan dipaksa untuk memutus semua perjanjiannya.\n\nPrajuritmu kembali ke rumah sebagai pemenang.",
+  "~\nKau kalah dalam pertempuran dan {soul_uuid_king} terbukti terlalu kuat untukmu. Semua perjanjian politiknya tetap berlaku.",
+  "~\n<red>PERHATIAN! {soul_uuid_king} adalah anggota persekutuan {soul_uuid_king_leader} dari {faction_uuid_sir}!</red>\n$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
+  "~\n\n<b>Tanggung jawab Sekutu</b>\n$ Jika kau gagal mengirim bantuan, mereka akan menganggapnya pengkhianatan dan sangat memburukkan pendapat mereka terhadap rajamu. Jika hubungan memburuk terlalu parah, <red>mereka mungkin mundur dari persekutuan</red>. Tetangga dan sekutu lainnya juga akan terkejut tidak menyenangkan.",
+  "~\n<red>Kau mengkhianati seorang sekutu.</red>\n\n$ Sikap {soul_uuid_king} terhadapmu: <red>{rel_defence_alliance_not_help}</red>\n$ Sikap tetangga dan sekutu lainnya terhadapmu: <red>{rel_defence_alliance_broken_neighbore}</red>",
+  "~\n{soul_uuid_king} telah memutuskan untuk meninggalkan persekutuan karena hubungan mereka denganmu telah menjadi permusuhan.",
+  "~\nTetap dalam persekutuan denganmu, hanya menunggu kau mengkhianatiku, adalah sesuatu yang tidak aku siapkan. Jika hubungan kita tidak bisa diperbaiki, maka biarkan masing-masing kita pergi ke jalan terpisah.",
+  "~\nAku tahu bahwa balas dendam lebih kuat bahkan daripada ketakutan akan kematian. Tidak ada persekutuan denganmu yang bisa melindungiku dari kebencianmu. Aku memilih untuk memutuskannya; lebih baik kita akui satu sama lain bahwa kita adalah musuh, bukan sekutu."
 ]

@@ -8923,10 +8923,10 @@ $ In their remaining time, executioners will intimidate vagabonds from committin
 
 <b>Hint:</b> Additionally, by using the Scaffold, you can always start <hint=hint_terror_peasants>terror</hint>, which will reduce the number of vagabonds but make the residents more unhappy, thus limiting <hint=hint_migration>migration</hint>."
 hint_advisor_low_money,"[hint_advisor_caption]
-The treasury is nearly empty! Without <hint=hint_resource_gold>Gold</hint></hint>, it will be much harder for your ruler to keep the situation under control.
+The treasury is nearly empty! Without <hint=hint_resource_gold>Gold</hint>, it will be much harder for your ruler to keep the situation under control.
 
 $ Don't forget to sell goods to Caravans or neighbors - the more complex the goods, the higher the profit. Boost the <hint=hint_skill_negotiations>Trade</hint> skill for at least one lord.
-$ Pay attention to the average <hint=hint_wealth>wealth:</hint> of peasants and warriors in the character tooltip in the top left corner. Perhaps it’s time to shake their pockets by setting up <hint=hint_iternal_trade>internal trade</hint></hint>?
+$ Pay attention to the average <hint=hint_wealth>wealth:</hint> of peasants and warriors in the character tooltip in the top left corner. Perhaps it’s time to shake their pockets by setting up <hint=hint_iternal_trade>internal trade</hint>?
 $ If you have a large army, it should not remain idle. Even attacks on bandit camps can be quite profitable due to rewards and captured prisoners. There are also weak neighbors..."
 hint_advisor_matriarch,"[hint_advisor_caption]
 The matriarch is angry with you, causing an embargo on important goods from the Holy Caravan and discontent among the fanatics.
@@ -9430,7 +9430,7 @@ We can see here that they are displeased by the flavorless <b>Rutabaga</b> and t
 
 We can resolve this by producing higher-quality products, but we can't do that without specialized knowledge contained in books. But where can we get them? 
 
-Ah, here comes the <b>Holy Caravan</b> to the rescue! They will sell us books and give us much-needed <b>gold<b> for our other resources."
+Ah, here comes the <b>Holy Caravan</b> to the rescue! They will sell us books and give us much-needed <b>gold</b> for our other resources."
 adv_tutorial_2.caravan,"Holy Caravan
 
 Gold circulates through the economy of Norland in three ways: the pockets of peasant migrants, trade with neighbors, and the Holy Caravan.

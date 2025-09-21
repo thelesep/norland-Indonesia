@@ -1,12 +1,12 @@
 [
-  "~\n* {soul_uuid_trader} is infatuated with {soul_uuid_performer} (relationship above <green>100</green>) and <green>is willing to offer a significant discount.</green>",
-  "~\n* <b>Hint</b> If {soul_uuid_trader} were infatuated with {soul_uuid_performer} (relationship above <green>100</green>), they could offer a large discount.",
-  "~\nKnow that our lands are now divided. And if you seek the reason for this, look in the mirror. In a difficult moment of need, I did not receive help from you. From this moment on, your state has become smaller!",
-  "~\nThe oath of military assistance was given by you when I agreed to become part of your state. And what was the response? In a difficult moment, you abandoned me! From now on, nothing binds us!",
-  "~\nAccept my gratitude for the support you sent me. And believe me, I regret that the sorrow of losing such warriors was not compensated by victory. However, we are now forced to go our separate ways. I hope you won't harbor any resentment towards me.",
-  "~\nYour wars were fought bravely, but luck was not on our side. I must confess to you, and don't think this decision came easily to me. Our paths must diverge. I regret it.",
-  "Power Struggle.\nAs long as there is a power struggle, the lords and armies of this province will not leave its borders.",
-  "The lord is in the army.\nThis lord is in the army that has come to the aid of this city. No social interactions are possible.",
-  "The lord is out of town\nThis character is currently a guest in the city of {faction_uuid}.\n\nPresumably will be home in {remain_time}.",
-  "Lord is on a journey\nThis character is currently travelling somewhere on the global map."
+  "~\n* {soul_uuid_trader} jatuh cinta pada {soul_uuid_performer} (hubungan di atas <green>100</green>) dan <green>bersedia menawarkan diskon yang signifikan.</green>",
+  "~\n* <b>Hint</b> Jika {soul_uuid_trader} jatuh cinta pada {soul_uuid_performer} (hubungan di atas <green>100</green>), mereka bisa menawarkan diskon besar.",
+  "~\nKetahuilah bahwa tanah-tanah kita kini terbagi. Dan jika engkau mencari alasan untuk ini, lihatlah ke cermin. Pada saat sulit yang membutuhkan bantuan, aku tidak menerima pertolongan darimu. Mulai saat ini, negaramu telah menjadi lebih kecil!",
+  "~\nSumpah bantuan militer diberikan olehmu ketika aku setuju menjadi bagian dari negaramu. Dan apa tanggapannya? Pada saat sulit, engkau meninggalkanku! Mulai sekarang, tidak ada yang mengikat kita!",
+  "~\nTerimalah rasa terima kasihku atas dukungan yang kau kirimkan padaku. Dan percayalah padaku, aku menyesal bahwa kesedihan kehilangan prajurit seperti itu tidak terganti oleh kemenangan. Namun, kita kini terpaksa berpisah jalan. Aku harap engkau tidak menyimpan dendam padaku.",
+  "~\nPerangmu diperjuangkan dengan berani, tapi keberuntungan tidak berpihak pada kita. Aku harus mengakui padamu, dan jangan pikir keputusan ini datang dengan mudah padaku. Jalan kita harus berpisah. Aku menyesalinya.",
+  "Perjuangan Kekuasaan.\nSelama ada perjuangan kekuasaan, para penguasa dan pasukan provinsi ini tidak akan meninggalkan batas-batasnya.",
+  "Penguasa sedang di pasukan.\nPenguasa ini berada di pasukan yang datang membantu kota ini. Tidak ada interaksi sosial yang mungkin.",
+  "Penguasa sedang di luar kota\nKarakter ini saat ini adalah tamu di kota {faction_uuid}.\n\nKemungkinan akan pulang dalam {remain_time}.",
+  "Penguasa sedang dalam perjalanan\nKarakter ini saat ini sedang bepergian ke suatu tempat di peta global."
 ]

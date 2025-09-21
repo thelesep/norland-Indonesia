@@ -1,12 +1,12 @@
 [
-  "Not available\nAs suzerian, you cannot perform this action.",
-  "Not available\nThis action will be available in {cooldown_remain_hours} h.",
-  "Not available\nThis action can only be performed with the head of the alliance {leader_soul_uuid} from {leader_faction_uuid}.",
-  "Not enough money\nYou don't have enough money to buy {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint>.",
-  "~\n\n<b>Suzerain's obligations</b>\n$ This king is your vassal, and if you don't help, you will experience severe retaliation.\n$ Relationship with {soul_uuid_king} if you don't help: <red>{rel_de_sir_dont_help_vassal}</red>",
-  "~\n\n<red>You have betrayed your vassal!</red>\n\n$ Relationship with {soul_uuid_king}: <red>{rel_de_sir_dont_help_vassal}</red>",
-  "Threat of plunder\n{optional_type_of_danger}\n\n<b>Consequences:</b> \n{optional_send_help_effects} \n{optional_allyship} \n{optional_possible_helpers}",
-  "Action impossible.\n{candidate_faction_uuid} refuses to join an alliance in which his enemy {enemy_faction_uuid} is already a member.",
-  "~\n<b>Consequences</b>",
-  "~\n$ Relationship with {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>"
+  "Tidak tersedia\nSebagai suzerain, Anda tidak dapat melakukan aksi ini.",
+  "Tidak tersedia\nAksi ini akan tersedia dalam {cooldown_remain_hours} jam.",
+  "Tidak tersedia\nAksi ini hanya dapat dilakukan dengan kepala aliansi {leader_soul_uuid} dari {leader_faction_uuid}.",
+  "Tidak cukup uang\nAnda tidak memiliki cukup uang untuk membeli {offer_resource_stack} seharga <hint=hint_resource_gold>{offer_price}</hint>.",
+  "~\n\n<b>Kewajiban Suzerain</b>\n$ Raja ini adalah vassal Anda, dan jika Anda tidak membantu, Anda akan mengalami pembalasan parah.\n$ Hubungan dengan {soul_uuid_king} jika tidak membantu: <red>{rel_de_sir_dont_help_vassal}</red>",
+  "~\n\n<red>Anda telah mengkhianati vassal Anda!</red>\n\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_sir_dont_help_vassal}</red>",
+  "Ancaman Penjarahan\n{optional_type_of_danger}\n\n<b>Akibat:</b> \n{optional_send_help_effects} \n{optional_allyship} \n{optional_possible_helpers}",
+  "Aksi tidak mungkin.\n{candidate_faction_uuid} menolak bergabung dengan aliansi di mana musuhnya {enemy_faction_uuid} sudah menjadi anggota.",
+  "~\n<b>Akibat</b>",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>"
 ]

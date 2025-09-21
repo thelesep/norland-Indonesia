@@ -8264,252 +8264,252 @@ Ini tanpa ragu menandai awal dari perjalanan yang gemilang!"
 hint_city_settlement_success_letter_1,"~
 Aku buru-buru ingin memberitahumu, tuanku, bahwa kami sedang secara bertahap menempati tempat ini. Tanah-tanah ini, meskipun tak dapat disangkal liar, yakinlah, kami akan berhasil!"
 hint_city_settlement_success_letter_2,"~
-I write to convey to you, my liege, that we are successfully developing the new settlement. This territory is untamed, but we shall exert every effort to transform it!"
-hint_city_settlement_success_alliance,"Establishment of a new House 
-In {faction_uuid_new_faction}, a settlement for a new noble house has been founded. 
+Saya menulis untuk menyampaikan kepada Anda, tuanku, bahwa kami berhasil mengembangkan pemukiman baru. Wilayah ini masih liar, tetapi kami akan berusaha sekuat tenaga untuk mengubahnya!"
+hint_city_settlement_success_alliance,"Pendirian Rumah Baru 
+Di {faction_uuid_new_faction}, sebuah pemukiman untuk rumah bangsawan baru telah didirikan. 
 
-It originates from the House {faction_uuid_old_faction} and is now its <hint=hint_alliance_of_free_cities>ally</hint>.
+Ini berasal dari Rumah {faction_uuid_old_faction} dan sekarang menjadi <hint=hint_alliance_of_free_cities>sekutu</hint>nya.
 
-This undoubtedly marks the beginning of a glorious journey!"
+Ini tanpa ragu menandai awal perjalanan yang gemilang!"
 hint_bandits_hostage_description,"[hint_DESCRIPTION]
-{soul_uuid_hostage} is suffering in captivity and being subjected to torture. No one knows how long they will last.
+{soul_uuid_hostage} sedang menderita dalam penahanan dan mengalami penyiksaan. Tak ada yang tahu berapa lama mereka akan bertahan.
 
-Bandits are demanding a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.
+Perampok menuntut tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.
 
-But you can also attempt to free the hostage by force.
+Tetapi Anda juga bisa mencoba membebaskan sandera dengan kekerasan.
 
 [hint_SENDER]"
-hint_bandits_hostage_bribe,"Ransom 
-To free {soul_uuid_hostage}, you will need to pay a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>."
+hint_bandits_hostage_bribe,"Tebusan 
+Untuk membebaskan {soul_uuid_hostage}, Anda perlu membayar tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>."
 hint_bandits_hostage_success,"~
-The hostage {soul_uuid_hostage} has been <green>freed</green> and will soon return to your city!"
+Sandera {soul_uuid_hostage} telah <green>bebas</green> dan segera akan kembali ke kota Anda!"
 hint_bandits_hostage_attack_dead,"~
-The hostage {soul_uuid_hostage} <red>perished during the assault</red>."
+Sandera {soul_uuid_hostage} <red>tewas selama serangan</red>."
 hint_bandits_hostage_ignore,"~
-The hostage {soul_uuid_hostage} <red>died from torture</red> before receiving your help."
+Sandera {soul_uuid_hostage} <red>meninggal akibat penyiksaan</red> sebelum menerima bantuan Anda."
 hint_lords_hostage_description,"[hint_DESCRIPTION] 
-{soul_uuid_hostage} is in captivity. The lord could be killed, blinded, or brought to the side of the enemy. No one knows how long they will last. 
+{soul_uuid_hostage} berada dalam penahanan. Penguasa itu bisa dibunuh, dibutakan, atau dibawa ke pihak musuh. Tak ada yang tahu berapa lama mereka akan bertahan. 
 
-The captors are asking for a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.
+Para penculik meminta tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.
 
-However, you can also try to free the hostage by force, attacking the settlement. 
+Namun, Anda juga bisa mencoba membebaskan sandera dengan kekerasan, menyerang pemukiman itu. 
 
 [hint_SENDER]"
-hint_lords_hostage_bribe,"Ransom 
-To free {soul_uuid_hostage}, you need to pay a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>."
+hint_lords_hostage_bribe,"Tebusan 
+Untuk membebaskan {soul_uuid_hostage}, Anda perlu membayar tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>."
 hint_lords_hostage_success,"~
-The hostage {soul_uuid_hostage} has been <green>freed</green> and will soon return to your city!"
+Sandera {soul_uuid_hostage} telah <green>bebas</green> dan segera akan kembali ke kota Anda!"
 hint_lords_hostage_ignore,"~
-The hostage {soul_uuid_hostage} <red>died from torture</red> before receiving your help."
+Sandera {soul_uuid_hostage} <red>tewas akibat siksaan</red> sebelum menerima bantuan Anda."
 hint_lords_hostage_died,"~
-The hostage {soul_uuid_hostage} <red>perished during the assault</red>."
+Sandera {soul_uuid_hostage} <red>tewas selama serangan</red>."
 hint_lords_hostage_changes_family,"~
-News has arrived that the former captive member of your family, {soul_uuid_hostage}, was influenced by the kind treatment toward them and has decided to willingly join the captors' family."
+Berita telah tiba bahwa mantan tawanan anggota keluarga Anda, {soul_uuid_hostage}, dipengaruhi oleh perlakuan baik terhadap mereka dan telah memutuskan untuk bergabung secara sukarela dengan keluarga para penculik."
 hint_lords_hostage_success_letter_1,"~
-I write to convey my satisfaction that {hostage_name} is returning to you. They have grown quite wearisome, and their presence serves no purpose.
+Saya menulis untuk menyampaikan kepuasan saya bahwa {hostage_name} kembali kepada Anda. Mereka telah menjadi sangat melelahkan, dan kehadiran mereka tidak berguna.
 "
 hint_lords_hostage_success_letter_2,"~
-You have likely been informed that {hostage_name} has been set free. I can assure you that I rejoice in such an outcome. They brought us naught but trouble."
+Anda mungkin telah diberitahu bahwa {hostage_name} telah dibebaskan. Saya dapat meyakinkan Anda bahwa saya bergembira atas hasil seperti itu. Mereka hanya membawa masalah bagi kami."
 hint_lords_hostage_ignore_letter_1,"~
-I hasten to inform you that {hostage_name} has perished. I see no reason to divulge the details of their demise, for judging by your actions, it is a trifling loss to you."
+Saya buru-buru memberitahu Anda bahwa {hostage_name} telah tewas. Saya tidak melihat alasan untuk mengungkapkan detail kematian mereka, karena dilihat dari tindakan Anda, itu adalah kerugian kecil bagi Anda."
 hint_lords_hostage_ignore_letter_2,"~
-{hostage_name} is dead! In this, I see only your guilt; your inaction has led to such a grievous outcome. May Mother Sophia forgive you!"
+{hostage_name} telah mati! Dalam hal ini, saya hanya melihat kesalahan Anda; ketidakaktifan Anda telah menyebabkan hasil yang menyedihkan seperti itu. Semoga Ibu Sophia memaafkan Anda!"
 hint_lords_hostage_died_letter_1,"~
-I hasten to let you know that {hostage_name} perished amid a siege. I dare to presume that they fell by the hand of your own warrior. But it wasn't a warrior who slew him, it was your greed!"
+Saya buru-buru memberitahu Anda bahwa {hostage_name} tewas di tengah pengepungan. Saya berani berasumsi bahwa mereka gugur oleh tangan prajurit Anda sendiri. Tapi bukan prajurit yang membunuhnya, melainkan keserakahan Anda!"
 hint_lords_hostage_died_letter_2,"~
-{hostage_name} has perished in battle! And only you are to blame for this. Could you not have simply paid, for was his life not worth a few golden coins?"
+{hostage_name} telah tewas dalam pertempuran! Dan hanya Anda yang harus disalahkan atas ini. Mengapa Anda tidak membayar saja, bukankah nyawanya tidak berharga hanya beberapa koin emas?"
 hint_lords_hostage_changes_family_letter_1,"~
-I hasten to let you know that {hostage_name} is now a member of our family. Believe me, they made this decision willingly. Strangers have become dearer to them than their own; is it not your doing?"
+Saya buru-buru memberitahu Anda bahwa {hostage_name} kini menjadi anggota keluarga kami. Percayalah, mereka membuat keputusan ini secara sukarela. Orang asing telah menjadi lebih dekat bagi mereka daripada keluarga sendiri; bukankah itu ulah Anda?"
 hint_lords_hostage_changes_family_letter_2,"~
-You may congratulate me: {hostage_name} is now a member of our family. I can only imagine what they must have endured in your care to betray your noble house so readily."
+Anda boleh memberi selamat kepadaku: {hostage_name} kini menjadi anggota keluarga kita. Aku hanya bisa membayangkan apa yang harus mereka alami di bawah perawatanmu hingga begitu mudahnya mengkhianati rumah bangsawanmu."
 hint_optional_ransom_not_enough_money,"~
 
-{soul_uuid_king} is gathering the amount for the ransom, but hasn't collected it completely yet. If you want to receive more money, it's worth waiting for a few days.
+{soul_uuid_king} sedang mengumpulkan jumlah untuk tebusan, tapi belum terkumpul sepenuhnya. Jika ingin menerima lebih banyak uang, sebaiknya tunggu beberapa hari.
 
-Currently collected <hint=hint_resource_gold>{current_money}</hint> out of <hint=hint_resource_gold>{bribe_price_gold}</hint>."
+Telah terkumpul saat ini <hint=hint_resource_gold>{current_money}</hint> dari <hint=hint_resource_gold>{bribe_price_gold}</hint>."
 hint_ransom_description,"[hint_DESCRIPTION]
-{soul_uuid_hostage} has been kidnapped.
-His king {soul_uuid_king} is offering a reward for his release.
+{soul_uuid_hostage} telah diculik.
+Raja-nya {soul_uuid_king} menawarkan hadiah untuk pembebasannya.
 
-Consequences: 
-$ Your reward: <hint=hint_resource_gold>{bribe_price_gold}</hint> 
-$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>"
-hint_ransom_agree,"Demand ransom
-Send the captive home and receive a ransom. 
+Konsekuensi: 
+$ Hadiah Anda: <hint=hint_resource_gold>{bribe_price_gold}</hint> 
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>"
+hint_ransom_agree,"Minta tebusan
+Kirim sandera pulang dan terima tebusan. 
 {optional_not_enough_money}
 
-Consequences: 
-$ Your reward: <hint=hint_resource_gold>{current_money}</hint> 
-$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>"
+Konsekuensi: 
+$ Hadiah Anda: <hint=hint_resource_gold>{current_money}</hint> 
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>"
 hint_ransom_success_player,"~
-You have freed {soul_uuid_hostage} and they are heading home!
+Anda telah membebaskan {soul_uuid_hostage} dan mereka sedang menuju pulang!
 
-$ Your reward: <hint=hint_resource_gold>{current_money}</hint>
-$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>"
+$ Hadiah Anda: <hint=hint_resource_gold>{current_money}</hint>
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>"
 hint_ransom_success_other,"~
-{soul_uuid_hostage} has been liberated and is heading home! {soul_uuid_king} is pleased that the captive has survived."
+{soul_uuid_hostage} telah dibebaskan dan sedang menuju pulang! {soul_uuid_king} senang bahwa sandera tersebut selamat."
 hint_ransom_change_faction,"~
-{soul_uuid_hostage} has joined the {faction_uuid_player} faction. {soul_uuid_king} labels them a traitor."
+{soul_uuid_hostage} telah bergabung dengan faksi {faction_uuid_player}. {soul_uuid_king} menyebut mereka pengkhianat."
 hint_ransom_dead,"~
-{soul_uuid_hostage} has died in captivity. Their loved ones and {soul_uuid_king} are devastated.
+{soul_uuid_hostage} meninggal dalam penahanan. Orang-orang terkasihnya dan {soul_uuid_king} hancur hati.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_captive_dead}</red>"
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_captive_dead}</red>"
 hint_ransom_success_player_free_letter_1,"~
-To kidnap and demand ransom is the lot of the unworthy! I am glad that {hostage_name} will soon be home. But do not think that such an affront will go unpunished!"
+Menculik dan menuntut tebusan adalah ciri orang tidak layak! Aku senang bahwa {hostage_name} segera pulang. Tapi jangan pikir penghinaan seperti itu akan luput dari hukuman!"
 hint_ransom_success_player_free_letter_2,"~
-At long last, {hostage_name} is returning home. I hope that Sophia curses the money you received, and may it bring you misfortune!"
+Akhirnya, {hostage_name} kembali ke rumah. Aku harap Sophia mengutuk uang yang kau terima, dan semoga itu membawa malapetaka bagimu!"
 hint_ransom_change_faction_letter_1,"~
-I cannot believe that {hostage_name} turned out to be a serpent I sheltered in my own house! Let it be known that their time left on this earth is short!"
+Aku tidak percaya bahwa {hostage_name} ternyata adalah ular yang kusembunyikan di rumahku sendiri! Biarlah diketahui bahwa waktu mereka di dunia ini tinggal sedikit lagi!"
 hint_ransom_change_faction_letter_2,"~
-Perhaps you are rejoicing now that {hostage_name} chose your family. However, can you be certain they won't betray you as well? Traitors are born, not made."
+Mungkin kau sedang bergembira sekarang karena {hostage_name} memilih keluargamu. Namun, bisakah kau yakin mereka tidak akan mengkhianatimu juga? Pengkhianat dilahirkan, bukan diciptakan."
 hint_ransom_dead_letter_1,"~
-Even a scoundrel would not stoop so low as to kill an unarmed captive! I will avenge {hostage_name}, for only in this way will their soul find peace. Be cursed!"
+Bahkan seorang bajingan pun tidak akan merendahkan diri sejauh membunuh tawanan yang tidak bersenjata! Aku akan membalas dendam untuk {hostage_name}, karena hanya dengan cara ini jiwanya akan menemukan kedamaian. Kuter kutuk kau!"
 hint_ransom_dead_letter_2,"~
-There is no greater sorrow on earth than the loss of a loved one! You have slain {hostage_name}! Do you think this will go unpunished? Holy Sophia witnesses all!"
+Tidak ada kesedihan yang lebih besar di dunia ini daripada kehilangan orang yang dicinta! Kau telah membunuh {hostage_name}! Apakah kau pikir ini akan dibiarkan begitu saja? Santa Sophia menyaksikan segalanya!"
 hint_ransom_success_become_free_lord,"~
-The noble House of {soul_uuid_hostage} has ceased to exist, so {soul_uuid_hostage} has been released from your captivity."
+Rumah bangsawan {soul_uuid_hostage} telah lenyap, sehingga {soul_uuid_hostage} telah dibebaskan dari tawananmu."
 optional_relations_with_king,"~ 
-$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>"
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>"
 optional_relations_with_neighbores,"~
-$ Relationship with {soul_uuid_king}: <green>{rel_im_help_neighbores}</green>"
-hint_horde_help_description,"Aid against the Horde
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help_neighbores}</green>"
+hint_horde_help_description,"Bantuan Melawan Unholy Horde
 {optional_type_of_danger}
 
-The <hint=hint_synode>Loving Family</hint> implores that all noble kings set aside their differences and help them repel this threat.
+<hint=hint_synode>Keluarga Penuh Kasih</hint> memohon agar semua raja bangsawan meletakkan perbedaan mereka dan membantu mereka menangkal ancaman ini.
 
-Only together can you withstand the invasion!
+Hanya bersamalah kalian bisa menahan invasi!
 
-The army you send to aid will fight alongside {soul_uuid_king}'s army against the Horde.
+Pasukan yang kau kirim untuk membantu akan bertempur bersama pasukan {soul_uuid_king} melawan Unholy Horde.
 
-<b>Consequences:</b>
+<b>Akibat:</b>
 {optional_send_help_effects}
 {optional_allyship}
 {optional_will_gain_duty_of_honor}
 {optional_possible_helpers}"
 hint_horde_success_letter_1,"~
-Our victory was hard-fought, but we stood firm against those wicked foes. Thank you for sending reinforcements just in time. The struggle against this blight is a sacred duty. Know that I will rush to your aid at any moment should you ever need it!"
+Kemenangan kita diraih dengan susah payah, tapi kita teguh melawan musuh-musuh jahat itu. Terima kasih telah mengirim bala bantuan tepat waktu. Perjuangan melawan wabah ini adalah tugas suci. Ketahuilah bahwa aku akan segera datang membantumu kapan pun kau membutuhkannya!"
 hint_horde_success_letter_2,"~
-The menace of the Unholy Horde shall never grant our lands respite. But if all stand against it as you did, sending me reinforcements, our world may yet harbor hope! Thank you, dear neighbor!"
-hint_horde_help_for_player_description,"The Horde is on the march!
-The <hint=hint_unholy_horde>Unholy Horde</hint> is advancing toward your settlement.
+Ancaman Unholy Horde tak pernah memberi tanah kita ketenangan. Tapi jika semua berdiri menentangnya seperti yang kau lakukan, dengan mengirimkan bala bantuan kepadaku, dunia kita mungkin masih menyimpan harapan! Terima kasih, tetangga tercinta!"
+hint_horde_help_for_player_description,"Gerombolan sedang berbaris!
+<hint=hint_unholy_horde>Unholy Horde</hint> sedang maju menuju pemukiman Anda.
 
-It's time to request assistance from your allies - if you have them...
+Sudah waktunya meminta bantuan dari sekutu Anda - jika Anda memilikinya...
 {optional_possible_helpers}"
-hint_horde_city_desc,"House of the Dead God
-The capital of the <hint=hint_unholy_horde>Unholy Horde</hint>. 
+hint_horde_city_desc,"Rumah Dewa Mati
+Ibukota dari <hint=hint_unholy_horde>Unholy Horde</hint>. 
 
-Seize it to halt the Horde and eradicate the vile heretical cult once and for all."
-hint_city_horde_city_attack,"Attack 
-Launch an assault on the capital of the <hint=hint_unholy_horde>Unholy Horde</hint> to destroy it and eliminate their threat once and for all. 
+ rebutlah itu untuk menghentikan Gerombolan dan memusnahkan kultus sesat yang jahat itu sekali untuk selamanya."
+hint_city_horde_city_attack,"Serangan 
+Luncurkan serangan terhadap ibukota <hint=hint_unholy_horde>Unholy Horde</hint> untuk menghancurkannya dan menghilangkan ancaman mereka sekali untuk selamanya. 
 
-Victory in this battle will signify the end of the crisis. 
+Kemenangan dalam pertempuran ini akan menandakan akhir dari krisis. 
 
-Consequences: 
-$ Relationship with neighbors: <green>{rel_im_horde_help}</green> 
-$ Relationship with the <hint=hint_synode>Loving Family</hint>: <green>{rel_im_horde_help}</green>"
-hint_city_horde_city_success,"Victory!
-You have destroyed the House of the Dead God and eradicated all the followers of the cult.
+Akibat:
+$ Hubungan dengan tetangga: <green>{rel_im_horde_help}</green> 
+$ Hubungan dengan <hint=hint_synode>Keluarga Penuh Kasih</hint>: <green>{rel_im_horde_help}</green>"
+hint_city_horde_city_success,"Kemenangan!
+Anda telah menghancurkan Rumah Dewa Mati dan memusnahkan semua pengikut kultus tersebut.
 
-The threat of new dark ages has passed.
+Ancaman era gelap baru telah berlalu.
 
-The <hint=hint_unholy_horde>Unholy Horde</hint> no longer exists, and peace will reign in the New Kingdoms for a while.
+<hint=hint_unholy_horde>Unholy Horde</hint> tidak lagi ada, dan perdamaian akan memerintah di Kerajaan Baru untuk sementara waktu.
 
-$ Relationship with neighbors: <green>{rel_im_horde_help}</green>
-$ Relationship with the <hint=hint_synode>Loving Family</hint>: <green>{rel_im_horde_help}</green>"
-hint_city_horde_city_success_by_ai,"Victory! 
-{faction_uuid} has destroyed the House of the Dead God and eradicated all followers of the cult. 
+$ Hubungan dengan tetangga: <green>{rel_im_horde_help}</green>
+$ Hubungan dengan <hint=hint_synode>Keluarga Penuh Kasih</hint>: <green>{rel_im_horde_help}</green>"
+hint_city_horde_city_success_by_ai,"Kemenangan! 
+{faction_uuid} telah menghancurkan Rumah Dewa Mati dan memusnahkan semua pengikut kultus. 
 
-The threat of a new dark age has been eliminated. 
+Ancaman era gelap baru telah dihilangkan. 
 
-The <hint=hint_unholy_horde>Unholy Horde</hint> no longer exists, and peace will reign in the New Kingdoms for a while."
-hint_burnt_city_desc,"City ruins 
-As a result of tragic events, the noble family of this city has vanished, the city has burned down, and the peasants have scattered to nearby villages. 
+<hint=hint_unholy_horde>Unholy Horde</hint> tidak lagi ada, dan perdamaian akan memerintah di Kerajaan Baru untuk sementara waktu."
+hint_burnt_city_desc,"Reruntuhan kota 
+Akibat peristiwa tragis, keluarga bangsawan kota ini telah lenyap, kota telah terbakar, dan petani-petani telah tercerai-berai ke desa-desa terdekat. 
 
-However, the location of this place remains advantageous, and the city can be resettled and rebuilt anew. "
-hint_city_horde_burnt_attack,"Attack
-After razing the province into dust, the <hint=hint_unholy_horde>Unholy Horde</hint> leaves a garrison behind.
+Namun, lokasi tempat ini tetap menguntungkan, dan kota dapat dihuni ulang dan dibangun kembali dengan baru. "
+hint_city_horde_burnt_attack,"Serangan
+Setelah membakar provinsi menjadi debu, <hint=hint_unholy_horde>Unholy Horde</hint> meninggalkan garnisun di belakang.
 
-Destroy it so that the place can be resettled.
+Hancurkan itu agar tempat tersebut dapat dihuni ulang.
 
-Consequences:
-$ Relationship with neighboring factions: <green>{rel_im_horde_help}</green>
-$ Relationship with the <hint=hint_synode>Loving Family</hint>: <green>{rel_im_horde_help}</green>"
-hint_city_horde_burnt_attack_success,"Victory!
-You have successfully repelled the region from the <hint=hint_unholy_horde>Unholy Horde</hint>.
+Akibat:
+$ Hubungan dengan faksi tetangga: <green>{rel_im_horde_help}</green>
+$ Hubungan dengan <hint=hint_synode>Keluarga Penuh Kasih</hint>: <green>{rel_im_horde_help}</green>"
+hint_city_horde_burnt_attack_success,"Kemenangan!
+Anda telah berhasil mengusir wilayah dari <hint=hint_unholy_horde>Unholy Horde</hint>.
 
-Your example inspires all kingdoms!
+Contoh Anda menginspirasi semua kerajaan!
 
-Consequences:
-$ Relationship with neighboring factions: <green>{rel_im_horde_help}</green>
-$ Relationship with the <hint=hint_synode>Loving Family</hint>: <green>{rel_im_horde_help}</green>"
-hint_diplomat_relation_restore,"Restore relations 
-A character with the Diplomat talent will go to the city and restore relations, although some resentment will remain. 
+Akibat:
+$ Hubungan dengan faksi tetangga: <green>{rel_im_horde_help}</green>
+$ Hubungan dengan <hint=hint_synode>Keluarga Penuh Kasih</hint>: <green>{rel_im_horde_help}</green>"
+hint_diplomat_relation_restore,"Pulihkan hubungan 
+Seorang karakter dengan bakat Diplomat akan pergi ke kota dan memulihkan hubungan, meskipun beberapa kebencian akan tetap ada. 
 
-$ All negative thoughts about your king are removed, except for slight dislike. 
-$ Cost: <hint=hint_resource_rune>{diplomacy_relations_restore_cost}</hint>"
-hint_no_trait_diplomat,"The lord has no active trait
-The lord does not possess the Diplomat trait, so they are unable to restore relations this way."
-hint_town_send_guest,"Send a guest 
-The lord will go to this city and interact with the family of lords living there."
+$ Semua pikiran negatif tentang raja Anda dihapus, kecuali ketidaksukaan ringan. 
+$ Biaya: <hint=hint_resource_rune>{diplomacy_relations_restore_cost}</hint>"
+hint_no_trait_diplomat,"Tuan tidak memiliki sifat aktif
+Tuan tidak memiliki sifat Diplomat, sehingga mereka tidak mampu memulihkan hubungan dengan cara ini."
+hint_town_send_guest,"Kirim tamu 
+Para penguasa akan pergi ke kota ini dan berinteraksi dengan keluarga para penguasa yang tinggal di sana."
 hint_optional_attack_vassal_current_sir_reaction,"~
-<red>ATTENTION! {soul_uuid_king} is a vassal of {soul_uuid_king_sir} of {faction_uuid_sir}!</red>
-$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>"
+<red>PERHATIAN! {soul_uuid_king} adalah bawahan dari {soul_uuid_king_sir} dari {faction_uuid_sir}!</red>
+$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>"
 hint_optional_attack_player_vassal_current_sir_reaction,"~
-$ <red>You are a vassal of {soul_uuid_king_sir} and they will be extremely unhappy if you voluntarily leave to another sire.</red>
-$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>"
+$ <red>Anda adalah bawahan dari {soul_uuid_king_sir} dan mereka akan sangat tidak bahagia jika Anda secara sukarela pergi ke tuan lain.</red>
+$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>"
 hint_optional_attack_player_vassal_ex_sir_result_reaction,"~ 
-$ Relationship with the previous suzerain {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>"
-hint_unavailable_my_sir_or_my_vassal,"Not available
-The vassalage agreement excludes such actions between a suzerain and their vassal."
-hint_unavailable_because_sir,"Not available
-You can't do this action with a suzerain"
-hint_unavailable_need_directly_neighbore,"Not available
-This action can only be performed with a neighbor with whom you share a common border."
-hint_unavailable_ai_is_ally_leader,"Not available
-Cannot perform this action with the head of the alliance"
-hint_unavailable_ai_is_ally,"Not available
-Cannot perform this action on a member of your own alliance."
-hint_unavailable_player_is_ally,"Not available
-As a member of the alliance, you cannot perform this action."
-hint_unavailable_player_is_sir,"Not available
-As suzerian, you cannot perform this action."
-hint_unavailable_cooldown,"Not available
-This action will be available in {cooldown_remain_hours} h."
-hint_unavailable_must_be_alliance_leader,"Not available
-This action can only be performed with the head of the alliance {leader_soul_uuid} from {leader_faction_uuid}."
-hint_unavailable_performer_trade_not_enough_money,"Not enough money
-You don't have enough money to buy {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint>."
+$ Hubungan dengan suzerain sebelumnya {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>"
+hint_unavailable_my_sir_or_my_vassal,"Tidak tersedia
+Kesepakatan bawahan mengecualikan tindakan semacam itu antara suzerain dan bawahan mereka."
+hint_unavailable_because_sir,"Tidak tersedia
+Anda tidak bisa melakukan tindakan ini dengan suzerain"
+hint_unavailable_need_directly_neighbore,"Tidak tersedia
+Tindakan ini hanya bisa dilakukan dengan tetangga yang berbatasan langsung dengannya."
+hint_unavailable_ai_is_ally_leader,"Tidak tersedia
+Tidak bisa melakukan tindakan ini dengan kepala aliansi"
+hint_unavailable_ai_is_ally,"Tidak tersedia
+Tidak bisa melakukan tindakan ini terhadap anggota aliansi Anda sendiri."
+hint_unavailable_player_is_ally,"Tidak tersedia
+Sebagai anggota aliansi, Anda tidak bisa melakukan tindakan ini."
+hint_unavailable_player_is_sir,"Tidak tersedia
+Sebagai suzerain, Anda tidak dapat melakukan aksi ini."
+hint_unavailable_cooldown,"Tidak tersedia
+Aksi ini akan tersedia dalam {cooldown_remain_hours} jam."
+hint_unavailable_must_be_alliance_leader,"Tidak tersedia
+Aksi ini hanya dapat dilakukan dengan kepala aliansi {leader_soul_uuid} dari {leader_faction_uuid}."
+hint_unavailable_performer_trade_not_enough_money,"Tidak cukup uang
+Anda tidak memiliki cukup uang untuk membeli {offer_resource_stack} seharga <hint=hint_resource_gold>{offer_price}</hint>."
 hint_optional_player_sir_must_help_vassal,"~
 
-<b>Suzerain's obligations</b>
-$ This king is your vassal, and if you don't help, you will experience severe retaliation.
-$ Relationship with {soul_uuid_king} if you don't help: <red>{rel_de_sir_dont_help_vassal}</red>"
+<b>Kewajiban Suzerain</b>
+$ Raja ini adalah vassal Anda, dan jika Anda tidak membantu, Anda akan mengalami pembalasan parah.
+$ Hubungan dengan {soul_uuid_king} jika tidak membantu: <red>{rel_de_sir_dont_help_vassal}</red>"
 hint_optional_player_sir_ignore_vassal,"~
 
-<red>You have betrayed your vassal!</red>
+<red>Anda telah mengkhianati vassal Anda!</red>
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_sir_dont_help_vassal}</red>"
-hint_forest_bandits_attack_city,"Threat of plunder
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_sir_dont_help_vassal}</red>"
+hint_forest_bandits_attack_city,"Ancaman Penjarahan
 {optional_type_of_danger}
 
-<b>Consequences:</b> 
+<b>Akibat:</b> 
 {optional_send_help_effects} 
 {optional_allyship} 
 {optional_possible_helpers}"
-hint_unavailable_create_alliance_ally_with_my_enemy,"Action impossible.
-{candidate_faction_uuid} refuses to join an alliance in which his enemy {enemy_faction_uuid} is already a member."
+hint_unavailable_create_alliance_ally_with_my_enemy,"Aksi tidak mungkin.
+{candidate_faction_uuid} menolak bergabung dengan aliansi di mana musuhnya {enemy_faction_uuid} sudah menjadi anggota."
 hint_generic_consequences_header,"~
-<b>Consequences</b>"
+<b>Akibat</b>"
 hint_force_neutrality_demand_relations,"~
-$ Relationship with {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>"
-hint_defence_alliance_declared_description,"Alliance of free cities
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>"
+hint_defence_alliance_declared_description,"Aliansi Kota-Kota Bebas
 [hint_defence_alliance_description]"
 hint_force_neutrality_demand_conditions,"~
-$ If he does not agree to comply within 3 days, you must attack his city.
-$ If you win, he will be forced to become neutral.
-$ If you hesitate to attack his city in case of his refusal, you will be known as a coward."
-hint_force_neutrality_demand_description,"Ultimatum on neutrality
-{soul_uuid_king} will receive an ultimatum from you demanding to sever all political ties with vassals, suzerains, or allies. This province must become politically independent and neutral.
+$ Jika ia tidak setuju untuk patuh dalam waktu 3 hari, Anda harus menyerang kotanya.
+$ Jika Anda menang, ia akan dipaksa menjadi netral.
+$ Jika Anda ragu untuk menyerang kotanya jika ia menolak, Anda akan dikenal sebagai pengecut."
+hint_force_neutrality_demand_description,"Ultimatum Kenetralan
+{soul_uuid_king} akan menerima ultimatum dari Anda yang menuntut untuk memutus semua ikatan politik dengan bawahan, suzerain, atau sekutu. Provinsi ini harus menjadi independen secara politik dan netral.
 {optional_conditions}
 {optional_consequences_header}
 {optional_force_neutrality_additional_effects}
@@ -8519,194 +8519,194 @@ hint_force_neutrality_demand_description,"Ultimatum on neutrality
 
 [hint_SENDER]
 {optional_duty_of_honor}"
-hint_force_neutrality_demand_wait,"Ultimatum on neutrality
-{soul_uuid_king} has received your ultimatum and you will soon receive a response.
+hint_force_neutrality_demand_wait,"Ultimatum Kenetralan
+{soul_uuid_king} telah menerima ultimatum Anda dan Anda segera akan menerima tanggapannya.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>
 {optional_force_neutrality_additional_effects}
 {optional_possible_helpers_against_player}
 {optional_holy_defence_will_removed}"
 hint_force_neutrality_demand_success,"~
-{soul_uuid_king} has decided to accept your ultimatum and become neutral.
+{soul_uuid_king} telah memutuskan untuk menerima ultimatum Anda dan menjadi netral.
 
-All of this factoin's political agreements are terminated.
+Semua perjanjian politik faksi ini dibatalkan.
 {optional_duty_of_honor_complete}"
 hint_force_neutrality_fail,"~
-{soul_uuid_king} is outraged by your ultimatum and invites you to resolve the issue by force. Obviously, he is counting on external assistance.
+{soul_uuid_king} marah besar atas ultimatum Anda dan mengundang Anda untuk menyelesaikan masalah dengan kekerasan. Jelas, ia mengharapkan bantuan eksternal.
 
-You must attack his city within the next 3 days and win. Otherwise, you will be known as a coward."
+Anda harus menyerang kotanya dalam 3 hari ke depan dan menang. Jika tidak, Anda akan dikenal sebagai pengecut."
 hint_force_neutrality_demand_vassal_option,"~
-$ {soul_uuid_king} is a vassal. Relationship with his suzerain {soul_uuid_king_head}: <red>{rel_de_leader}</red>"
+$ {soul_uuid_king} adalah bawahan. Hubungan dengan suzerain-nya {soul_uuid_king_head}: <red>{rel_de_leader}</red>"
 hint_force_neutrality_demand_alliance_option,"~
-{soul_uuid_king} is a member of the alliance. Relationship with the leader of the alliance {soul_uuid_king_head}: <red>{rel_de_leader}</red>"
+{soul_uuid_king} adalah anggota aliansi. Hubungan dengan pemimpin aliansi {soul_uuid_king_head}: <red>{rel_de_leader}</red>"
 hint_force_neutrality_demand_success_letter_1,"~
-I am compelled to accept your ultimatum. When a knife is held to your throat, there can be no other response. I hope you are now satisfied, and that your army will not come to burn my city!"
+Saya terpaksa menerima ultimatum Anda. Ketika pisau diarahkan ke tenggorokan, tidak ada respons lain yang mungkin. Saya harap Anda sekarang puas, dan bahwa pasukan Anda tidak akan datang untuk membakar kota saya!"
 hint_force_neutrality_demand_success_letter_2,"~
-All that remains for me is to accept your ultimatum and stay out of the fray. I wish to live in peace, so appreciate my agreement not to interfere in your affairs."
+Yang tersisa bagi saya hanyalah menerima ultimatum Anda dan menjauh dari pertempuran. Saya ingin hidup dalam damai, jadi hargai persetujuan saya untuk tidak ikut campur dalam urusan Anda."
 hint_force_neutrality_demand_fail_letter_1,"~
-I have no trust for one who threatens and tries to impose their will by force. I refuse to break my agreements, and believe me, my allies will help me stand firm!"
+Saya tidak mempercayai seseorang yang mengancam dan berusaha memaksakan kehendaknya dengan kekerasan. Saya menolak untuk memutus perjanjian saya, dan percayalah, sekutu saya akan membantu saya bertahan teguh!"
 hint_force_neutrality_demand_fail_letter_2,"~
-Trust you and break off agreements? It would be safer to lay a snake in my bed! As soon as I agree to this, your troops will burn my city, and I will have no defense. This will not happen!"
-hint_ultimatum_offer_description,"Ultimatum on neutrality
-{soul_uuid_king} issues you an ultimatum. You must sever all political agreements (with your suzerain, vassals, or leave the alliance) and become neutral.
+Memercayai Anda dan memutus perjanjian? Lebih aman meletakkan ular di tempat tidur saya! Begitu saya setuju, pasukan Anda akan membakar kota saya, dan saya tidak akan punya pertahanan. Ini tidak akan terjadi!"
+hint_ultimatum_offer_description,"Ultimatum tentang Netralitas
+{soul_uuid_king} menyampaikan ultimatum kepada Anda. Anda harus memutus semua perjanjian politik (dengan suzerain Anda, bawahan, atau keluar dari aliansi) dan menjadi netral.
 
-$ You have <b>2 days</b> to consider.
-$ If you ignore the proposal, then in a few days {soul_uuid_king} will try to test your strength.
-$ If the assault on your city is successful and your Hall is burned down, you will be forced to become neutral.
+$ Anda memiliki <b>2 hari</b> untuk mempertimbangkan.
+$ Jika Anda mengabaikan usulan tersebut, maka dalam beberapa hari {soul_uuid_king} akan mencoba menguji kekuatan Anda.
+$ Jika serangan terhadap kota Anda berhasil dan Aula Anda dibakar, Anda akan dipaksa menjadi netral.
 {optional_possible_helpers}"
-hint_ultimatum_offer_agree,"Agree
-Agree and become a neutral independent province.
+hint_ultimatum_offer_agree,"Setuju
+Setuju dan menjadi provinsi netral independen.
 {optional_additional_effects}
 
 [hint_SENDER]"
 hint_ultimatum_offer_success,"~
-You have become a neutral independent province.
+Anda telah menjadi provinsi netral independen.
 
-Now you are on your own.
+Sekarang Anda sendirian.
 {optional_additional_effects}"
 hint_ultimatum_offer_fail,"~
-You ignored the proposal, and soon {soul_uuid_king} will try to test your strength.
+Anda mengabaikan usulan tersebut, dan segera {soul_uuid_king} akan mencoba menguji kekuatan Anda.
 
-If the assault on your city is successful and your Hall is burned down, then you will become a neutral independent province."
+Jika serangan terhadap kota Anda berhasil dan Aula Anda dibakar, maka Anda akan menjadi provinsi netral independen."
 hint_ultimatum_offer_coward,"~
-{soul_uuid_king} changed his mind about attacking your settlement, fearing the <hint=hint_army_power>strength</hint> of your army. All your political agreements remain in force.
+{soul_uuid_king} mengubah pikirannya tentang menyerang pemukiman Anda, karena takut pada <hint=hint_army_power> kekuatan</hint> pasukan Anda. Semua perjanjian politik Anda tetap berlaku.
 
-This monarch will now be known as a coward."
+Penguasa ini sekarang akan dikenal sebagai pengecut."
 hint_ultimatum_offer_attack_lose,"~
-You lost the battle and {soul_uuid_king} has forced you to break all your agreements.
+Anda kalah dalam pertempuran dan {soul_uuid_king} telah memaksa Anda untuk memutus semua perjanjian Anda.
 
-$ You have become a neutral independent province.
-$ Now you are on your own."
+$ Anda telah menjadi provinsi netral independen.
+$ Sekarang Anda sendirian."
 hint_ultimatum_offer_attack_win,"~
-You won, and all your political agreements remain in force."
+Anda menang, dan semua perjanjian politik Anda tetap berlaku."
 hint_ultimatum_offer_vassal_option,"~
-$ Relationship with your suzerain {soul_uuid_king_head}: <red>{rel_de}</red>"
+$ Hubungan dengan suzerain Anda {soul_uuid_king_head}: <red>{rel_de}</red>"
 hint_ultimatum_offer_alliance_option,"~
-$ Relationship with the head of your alliance {soul_uuid_king_head}: <red>{rel_de}</red>"
+$ Hubungan dengan kepala aliansi Anda {soul_uuid_king_head}: <red>{rel_de}</red>"
 hint_ultimatum_offer_fail_letter_1,"~
-I afforded you sufficient time to contemplate my proposition, yet you did not even dignify me with your response. Do you naively believe that they will come to your aid? No one wishes to champion the weak. Therefore, brace yourself for a battle!"
+Saya telah memberi Anda waktu yang cukup untuk merenungkan usul saya, namun Anda bahkan tidak menghormati saya dengan jawaban Anda. Apakah Anda secara naif percaya bahwa mereka akan datang menolong Anda? Tak seorang pun ingin membela yang lemah. Oleh karena itu, persiapkan diri Anda untuk pertempuran!"
 hint_ultimatum_offer_fail_letter_2,"~
-I offered you the chance to withdraw from the agreements and stand aside. Is this not a favorable strategy? But, as it turns out, you disagree. I have no choice but to enforce your submission through force."
+Saya telah menawarkan kesempatan kepada Anda untuk mundur dari kesepakatan dan berdiri di pinggir. Bukankah ini strategi yang menguntungkan? Namun, ternyata Anda tidak setuju. Saya tak punya pilihan selain memaksakan kepatuhan Anda melalui kekuatan."
 hint_ultimatum_offer_success_letter_1,"~
-Prudence has guided you to remain neutral, and I value this. You have preserved not only the lives of your soldiers but also protected your lands.
+Kebijaksanaan telah membimbing Anda untuk tetap netral, dan saya menghargai hal ini. Anda telah menyelamatkan tidak hanya nyawa para prajurit Anda tetapi juga melindungi tanah Anda.
 "
 hint_ultimatum_offer_success_letter_2,"~
-Your agreement to stand aside has pleased me. Recklessness is more common than sense. Why risk your army when we can peacefully resolve our differences?"
+Kesepakatan Anda untuk berdiri di pinggir telah menyenangkan saya. Kelaliman lebih sering daripada akal sehat. Mengapa mempertaruhkan pasukan Anda ketika kita bisa menyelesaikan perbedaan kita dengan damai?"
 hint_ultimatum_offer_coward_letter_1,"~
-My advisors have suggested that it's a waste of time trying to force reason on such an insignificant mouse as yourself. There are more serious matters at hand. But this does not mean everything will be forgotten, believe me."
+Penasihat saya menyarankan bahwa sia-sia saja mencoba memaksakan akal sehat pada tikus sepele seperti Anda. Ada masalah yang lebih serius di tangan. Namun ini tidak berarti segalanya akan dilupakan, percayalah pada saya."
 hint_ultimatum_offer_coward_letter_2,"~
-You have not heeded my request to stand aside. But my time is too precious to deal with such trivialities. Know that your disrespect will not be forgotten, and while you may now sleep soundly, this will not last long."
+Anda tidak mempedulikan permintaan saya untuk berdiri di pinggir. Namun waktu saya terlalu berharga untuk menangani hal-hal sepele seperti ini. Ketahui bahwa ketidakhormatan Anda tidak akan dilupakan, dan meskipun kini Anda mungkin tidur nyenyak, itu tidak akan bertahan lama."
 hint_ultimatum_offer_attack_lose_letter_1,"~
-Only a fool would fail to acknowledge defeat. I respect your courage, and you fought bravely. But the shame of my army's decimation can only be erased by victory. Thus, this battle is not the last."
+Hanya orang bodoh yang gagal mengakui kekalahan. Saya menghormati keberanian Anda, dan Anda bertarung dengan gagah berani. Namun, aib dari kehancuran pasukan saya hanya bisa dihapus oleh kemenangan. Oleh karena itu, pertempuran ini bukan yang terakhir."
 hint_ultimatum_offer_attack_lose_letter_2,"~
-You have shown what your army is capable of, and your victory does you honor. But I cannot forget this defeat, and while perhaps now you feast in celebration, a day will come when wine will flow like a river at your funeral."
+Anda telah menunjukkan apa yang mampu dilakukan pasukan Anda, dan kemenangan Anda membawa kehormatan bagi Anda. Namun saya tidak bisa melupakan kekalahan ini, dan meskipun mungkin kini Anda berpesta dalam perayaan, suatu hari nanti anggur akan mengalir seperti sungai di pemakaman Anda."
 hint_ultimatum_offer_attack_win_letter_1,"~
-Had you agreed at once, so much blood would not have been spilled. I imagine how jesters are now crafting their tales, and how the disgrace of your defeat has spread throughout the kingdom. Your pride and arrogance are to blame!"
+Seandainya Anda setuju segera, begitu banyak darah tidak akan tertumpah. Saya membayangkan bagaimana para badut kini sedang menyusun cerita mereka, dan bagaimana aib dari kekalahan Anda telah menyebar ke seluruh kerajaan. Kesombongan dan keangkuhan Anda yang patut disalahkan!"
 hint_ultimatum_offer_attack_win_letter_2,"~
-It's a pity that you turned out to be more foolish than I thought. All I asked of you was to remain aside. But you wanted to show your bravery, and what have you achieved? Rivers of spilled blood and defeat. Stupidity always comes at a cost!"
-hint_force_neutrality_other_description,"Coercion to neutrality
+Sayang sekali kau ternyata lebih bodoh daripada yang kukira. Yang kuminta darimu hanyalah untuk berdiam diri. Tapi kau ingin pamer keberanianmu, dan apa yang kau capai? Sungai darah yang tumpah dan kekalahan. K ebodohan selalu datang dengan harga!"
+hint_force_neutrality_other_description,"Pemaksaan ke Netralitas
 {optional_type_of_danger}
 
-Therefore, {soul_uuid_king}, ruler of {faction_uuid}, requests assistance from all neighboring entities that are not afraid to stand by their side.
+Oleh karena itu, {soul_uuid_king}, penguasa {faction_uuid}, meminta bantuan dari semua entitas tetangga yang tidak takut berdiri di sisinya.
 
-You can send your army to help protect {faction_uuid}.
+Kau bisa mengirim pasukanmu untuk membantu melindungi {faction_uuid}.
 
-<b>Consequences</b>
+<b>Konsekuensi</b>
 {optional_send_help_effects}
 {optional_allyship}
 {optional_possible_helpers}
 
-<b>Hint:</b> The ruler is more inclined to comply with the demand for neutrality if his relationship with the head of state is poor."
+<b>Petunjuk:</b> Penguasa lebih cenderung mematuhi tuntutan netralitas jika hubungannya dengan kepala negara buruk."
 hint_global_map_danger_force_neutrality_alliance,"~
-<red>{soul_uuid_king_head} from {faction_uuid_s} demands that {soul_uuid_king} secede from the alliance and become a neutral province.</red>"
+<red>{soul_uuid_king_head} dari {faction_uuid_s} menuntut agar {soul_uuid_king} keluar dari aliansi dan menjadi provinsi netral.</red>"
 hint_global_map_danger_force_neutrality_vassal,"~
-<red>{soul_uuid_king_s} from {faction_uuid_s} demands that {soul_uuid_king} break the vassal treaty and become a neutral province.</red>"
+<red>{soul_uuid_king_s} dari {faction_uuid_s} menuntut agar {soul_uuid_king} memutuskan perjanjian vassal dan menjadi provinsi netral.</red>"
 hint_force_neutrality_other_attack_success,"~
-{soul_uuid_king} has been forced to agree to the ultimatum of {soul_uuid_king_s}, and now {faction_uuid} is not bound by any treaties and is an independent province."
+{soul_uuid_king} terpaksa menyetujui ultimatum dari {soul_uuid_king_s}, dan sekarang {faction_uuid} tidak terikat oleh perjanjian apa pun dan menjadi provinsi independen."
 hint_force_neutrality_other_attack_fail,"~
-{soul_uuid_king} has defended his position and maintained his political agreements."
+{soul_uuid_king} mempertahankan posisinya dan mempertahankan perjanjian politiknya."
 hint_exclude_no_help,"~
-You were expelled from the city alliance for not providing assistance, thus violating the treaty."
+Kau diusir dari aliansi kota karena tidak memberikan bantuan, sehingga melanggar perjanjian."
 hint_exclude_no_help_letter_1,"~
-You know that you acted dishonorably; breaking a treaty is unforgivable. And while you may benefit from this now, in the long term, facing threats alone will be beyond your capacity."
+Kau tahu bahwa tindakanmu tidak terhormat; melanggar perjanjian adalah hal yang tak termaafkan. Dan meskipun kau mungkin mendapat manfaat sekarang, dalam jangka panjang, menghadapi ancaman sendirian akan melampaui kemampuanmu."
 hint_exclude_no_help_letter_2,"~
-Treaties are made to be kept. Why did you even enter into an alliance? If you are so confident that you can face threats on your own, that is your choice, but do not expect any further assistance from us."
+Perjanjian dibuat untuk dipatuhi. Mengapa kau bahkan bergabung dalam aliansi? Jika kau begitu yakin bisa menghadapi ancaman sendiri, itu pilihanmu, tapi jangan harapkan bantuan lebih lanjut dari kami."
 hint_exclude_relations,"~
-You were expelled from the city alliance because your relationship with {soul_uuid_king_head}, the leader of the alliance, has become hostile."
+Kau diusir dari aliansi kota karena hubunganmu dengan {soul_uuid_king_head}, pemimpin aliansi, telah menjadi permusuhan."
 hint_exclude_relations_letter_1,"~
-Alliances are built on trust, and you know this well. There is no place for the dishonorable, so you are now excluded. I must learn to be better at judging people."
+Persekutuan dibangun atas dasar kepercayaan, dan kau tahu ini dengan baik. Tidak ada tempat bagi yang tidak terhormat, jadi kau sekarang dikecualikan. Aku harus belajar lebih baik dalam menilai orang."
 hint_exclude_relations_letter_2,"~
-It would be better to appoint a bastard to your position, and he would be a more worthy ruler. Know that our alliance is dissolved, and there is no turning back. I cannot walk the same path as a traitor. You will not survive on your own, and for that, I am glad!"
+Lebih baik menunjuk seorang anak haram untuk posisimu, dan dia akan menjadi penguasa yang lebih layak. Ketahuilah bahwa persekutuan kita dibubarkan, dan tidak ada jalan kembali. Aku tidak bisa berjalan di jalan yang sama dengan pengkhianat. Kau tidak akan bertahan sendiri, dan untuk itu, aku senang!"
 hint_force_neutrality_demand_attack_success,"~
-As a result of a successful assault, {soul_uuid_king} was defeated and forced to break all his agreements.
+Akibat serangan yang berhasil, {soul_uuid_king} dikalahkan dan dipaksa untuk memutus semua perjanjiannya.
 
-Your warriors return home victorious."
+Prajuritmu kembali ke rumah sebagai pemenang."
 hint_force_neutrality_demand_attack_fail,"~
-You lost the battle and {soul_uuid_king} proved to be too strong for you. All his political agreements remain in force."
+Kau kalah dalam pertempuran dan {soul_uuid_king} terbukti terlalu kuat untukmu. Semua perjanjian politiknya tetap berlaku."
 hint_optional_force_neutrality_alliance_current_sir_reaction,"~
-<red>ATTENTION! {soul_uuid_king} is a member of the alliance {soul_uuid_king_leader} from {faction_uuid_sir}!</red>
-$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>"
+<red>PERHATIAN! {soul_uuid_king} adalah anggota persekutuan {soul_uuid_king_leader} dari {faction_uuid_sir}!</red>
+$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>"
 hint_optional_union_allyship_leader,"~
 
-<b>Ally's responsibilities</b>
-$ If you fail to send aid, they will consider it betrayal and greatly worsen their opinion of your king. If relations deteriorate too much, <red>they may withdraw from the alliance</red>. Neighbors and other allies will also be unpleasantly surprised."
+<b>Tanggung jawab Sekutu</b>
+$ Jika kau gagal mengirim bantuan, mereka akan menganggapnya pengkhianatan dan sangat memburukkan pendapat mereka terhadap rajamu. Jika hubungan memburuk terlalu parah, <red>mereka mungkin mundur dari persekutuan</red>. Tetangga dan sekutu lainnya juga akan terkejut tidak menyenangkan."
 hint_optional_union_allyship_ignore_was_leader,"~
-<red>You betrayed an ally.</red>
+<red>Kau mengkhianati seorang sekutu.</red>
 
-$ The attitude of {soul_uuid_king} toward you: <red>{rel_defence_alliance_not_help}</red>
-$ The attitude of your neighbors and other allies toward you: <red>{rel_defence_alliance_broken_neighbore}</red>"
+$ Sikap {soul_uuid_king} terhadapmu: <red>{rel_defence_alliance_not_help}</red>
+$ Sikap tetangga dan sekutu lainnya terhadapmu: <red>{rel_defence_alliance_broken_neighbore}</red>"
 hint_exclude_relations_player_is_leader,"~
-{soul_uuid_king} has decided to leave the alliance as their relationship with you has become hostile."
+{soul_uuid_king} telah memutuskan untuk meninggalkan persekutuan karena hubungan mereka denganmu telah menjadi permusuhan."
 hint_exclude_relations_player_is_leader_letter_1,"~
-Remaining in an alliance with you, just waiting for you to betray me, is something I am not prepared for. If our relations cannot be mended, then let each of us go our separate ways."
+Tetap dalam persekutuan denganmu, hanya menunggu kau mengkhianatiku, adalah sesuatu yang tidak aku siapkan. Jika hubungan kita tidak bisa diperbaiki, maka biarkan masing-masing kita pergi ke jalan terpisah."
 hint_exclude_relations_player_is_leader_letter_2,"~
-I know that vengeance is stronger even than the fear of death. No alliance with you can protect me from your hatred. I choose to sever it; let us rather admit to each other that we are enemies, not allies."
+Aku tahu bahwa balas dendam lebih kuat bahkan daripada ketakutan akan kematian. Tidak ada persekutuan denganmu yang bisa melindungiku dari kebencianmu. Aku memilih untuk memutuskannya; lebih baik kita akui satu sama lain bahwa kita adalah musuh, bukan sekutu."
 hint_church_good_opinion_against_universal,"~
-$ Matriarch approves of help against marauders: <green>{church_rel_im}</green>"
-hint_defence_ally_army_info,"Reinforcements
-{commander_soul_uuid} from {faction_uuid}
+$ Matriark menyetujui bantuan melawan begal: <green>{church_rel_im}</green>"
+hint_defence_ally_army_info,"Penguatan
+{commander_soul_uuid} dari {faction_uuid}
 {optional_army_info}"
 hint_event_faction_left_alliance,"~
-{faction_uuid} has left the alliance of cities led by {leader_faction_uuid}."
+{faction_uuid} telah meninggalkan aliansi kota-kota yang dipimpin oleh {leader_faction_uuid}."
 hint_event_faction_left_vassalage,"~
-{faction_uuid} has renounced their vassalage to {sir_faction_uuid}."
+{faction_uuid} telah menolak status vasalnya kepada {sir_faction_uuid}."
 hint_event_faction_alliance_destroyed,"~
-The alliance of {leader_faction_uuid} has completely dissolved."
+Aliansi {leader_faction_uuid} telah benar-benar bubar."
 hint_event_faction_vassalage_destroyed,"~
-The vassal kingdom of {sir_faction_uuid} has completely broken up."
-hint_action_task_together_diplomacy,"The envoy's visit
-The lord you have chosen will visit the king to improve relations with him on behalf of your ruler.
+Kerajaan vasal {sir_faction_uuid} telah benar-benar pecah."
+hint_action_task_together_diplomacy,"Kunjungan utusan
+Bangsawan yang Anda pilih akan mengunjungi raja untuk memperbaiki hubungan dengannya atas nama penguasa Anda.
 
-During the process, there will be a conversation, the outcome of which will affect the attitude of {soul_uuid_king} toward your king.
+Selama proses tersebut, akan ada percakapan, hasilnya akan memengaruhi sikap {soul_uuid_king} terhadap raja Anda.
 
-The likelihood of a good conversation depends on the <hint=hint_skill_manners>Manners</hint> skill of your envoy."
-hint_action_task_together_diplomacy_context,"Envoy's visit
-Performer {soul_uuid_performer}: {skill_name} level {skill_level}.
+Kemungkinan percakapan yang baik tergantung pada keterampilan <hint=hint_skill_manners>Etika</hint> utusan Anda."
+hint_action_task_together_diplomacy_context,"Kunjungan utusan
+Pelaksana {soul_uuid_performer}: tingkat {skill_name} {skill_level}.
 
-Relationship with your king: <green>{rel_improve}</green>"
-hint_unavailable_king_is_out_of_town,"Unavailable
-King {soul_uuid_king} is not in the city right now."
-hint_unavailable_king_can_not_be_performer,"Unavailable
-The king cannot be assigned to this task.
+Hubungan dengan raja Anda: <green>{rel_improve}</green>"
+hint_unavailable_king_is_out_of_town,"Tidak Tersedia
+Raja {soul_uuid_king} tidak berada di kota saat ini."
+hint_unavailable_king_can_not_be_performer,"Tidak Tersedia
+Raja tidak dapat ditugaskan untuk tugas ini.
 
-<b>Hint:</b> To establish personal relations between kings, you can assign your king to the Spend Time action in the Character menu."
+<b>Petunjuk:</b> Untuk membangun hubungan pribadi antara raja-raja, Anda dapat menugaskan raja Anda ke aksi Habiskan Waktu di menu Karakter."
 hint_task_together_diplomacy_result,"~
-Your envoy has completed the task.
+Utusan Anda telah menyelesaikan tugas.
 
-As a result, the attitude of {soul_uuid_king} toward your king: <green>{rel_improve}</green>"
-hint_unavailable_bad_opinion_for_trade,"Not a good enough relationship
+Akibatnya, sikap {soul_uuid_king} terhadap raja Anda: <green>{rel_improve}</green>"
+hint_unavailable_bad_opinion_for_trade,"Hubungan tidak cukup baik
 {optional_trade_info}
 [hint_unavailable_bad_opinion]
 
-<b>Hint:</b> You can enter into permanent trade agreements with Kings regardless of personal relations if you are part of the same <b>free cities alliance</b>."
+<b>Petunjuk:</b> Anda dapat membuat perjanjian perdagangan permanen dengan raja-raja terlepas dari hubungan pribadi jika Anda bagian dari aliansi kota bebas yang sama <b>free cities alliance</b>."
 hint_optional_trading_volumes_reduced,"~
-This town had its <red>village burned</red>, and the supply of the resources it produced has been <red>reduced by half.</red>"
-hint_optional_trading_volumes_zero,"Trade impossible 
-This town had <red>both its villages burned</red> - trade demand has been <red>reduced to zero</red>. Wait until at least one village of {faction_uuid} is rebuilt."
-hint_trade_agreement_demand_performer,"City buys: {offer_resource_name}
+Kota ini telah kehilangan <red>desa yang dibakar</red>, dan pasokan sumber daya yang diproduksinya telah <red>dikurangi setengahnya.</red>"
+hint_optional_trading_volumes_zero,"Perdagangan tidak mungkin 
+Kota ini telah kehilangan <red>kedua desanya yang dibakar</red> - permintaan perdagangan telah <red>dikurangi menjadi nol</red>. Tunggu hingga setidaknya satu desa {faction_uuid} dibangun kembali."
+hint_trade_agreement_demand_performer,"Kota membeli: {offer_resource_name}
 [hint_trade_agreement_demand_generic]
 
-The price has been adjusted by {price_penalty} due to the difference in  {skill_name} skill between the trading parties. 
+Harga telah disesuaikan sebesar {price_penalty} karena perbedaan keterampilan {skill_name} antara pihak perdagangan. 
 $ {soul_uuid_performer} (level {performer_skill_level}) 
 $ {soul_uuid_trader} (level {trader_skill_level})
 
@@ -8714,10 +8714,10 @@ $ {soul_uuid_trader} (level {trader_skill_level})
 {optional_paper_prices}
 {optional_trading_volumes_reduced}
 [hint_SENDER]"
-hint_trade_agreement_offer_performer,"City sells: {offer_resource_name}
+hint_trade_agreement_offer_performer,"Kota menjual: {offer_resource_name}
 [hint_trade_agreement_offer_generic]
 
-The price has been adjusted by {price_penalty} due to the difference in  {skill_name} skill between the trading parties. 
+Harga telah disesuaikan sebesar {price_penalty} karena perbedaan keterampilan {skill_name} antara pihak perdagangan. 
 $ {soul_uuid_performer} (level {performer_skill_level})
 $ {soul_uuid_trader} (level {trader_skill_level})
 
@@ -8725,343 +8725,343 @@ $ {soul_uuid_trader} (level {trader_skill_level})
 {optional_paper_prices}
 {optional_trading_volumes_reduced}
 [hint_SENDER]"
-hint_shortcut_appoint_unavailable_invalid,"Unable to select
-No actions can be performed on this character."
-hint_shortcut_appoint_unavailable_lord_not_in_town,"Lord not in town
-Click to go to the lord's location."
-hint_unavailable_bad_opinion_for_trade_additional_opinions_with_leader,"Too poor relationship
+hint_shortcut_appoint_unavailable_invalid,"Tidak dapat dipilih
+Tidak ada tindakan yang dapat dilakukan pada karakter ini."
+hint_shortcut_appoint_unavailable_lord_not_in_town,"Penguasa tidak di kota
+Klik untuk pergi ke lokasi penguasa."
+hint_unavailable_bad_opinion_for_trade_additional_opinions_with_leader,"Hubungan terlalu buruk
 [hint_unavailable_bad_opinion]
 
-The required relationship threshold is higher because your relationship with the suzerain or leader of the alliance {soul_uuid_leader} from {faction_uuid_leader}, of which {faction_uuid} is a member, is too poor.
+Ambang batas hubungan yang diperlukan lebih tinggi karena hubungan Anda dengan suzerain atau pemimpin aliansi {soul_uuid_leader} dari {faction_uuid_leader}, yang {faction_uuid} adalah anggotanya, terlalu buruk.
 
-<b>Hint:</b> You can establish permanent trade contracts regardless of relations if you and your trade partners are part of the <b>free cities alliance</b> (this does not apply to vassal kingdoms)."
-hint_unavailable_king_guest_in_other_town,"The king is out of town.
-King {soul_uuid} is currently visiting {faction_uuid} city.
+<b>Petunjuk:</b> Anda dapat membuat kontrak perdagangan permanen terlepas dari hubungan jika Anda dan mitra perdagangan Anda bagian dari <b>free cities alliance</b> (ini tidak berlaku untuk kerajaan bawahan)."
+hint_unavailable_king_guest_in_other_town,"Raja sedang berada di luar kota.
+Raja {soul_uuid} saat ini sedang mengunjungi kota {faction_uuid}.
 
-He will presumably be home in {remain_time}."
+Dia kemungkinan akan pulang dalam {remain_time}."
 hint_trader_in_love,"~
-* {soul_uuid_trader} is infatuated with {soul_uuid_performer} (relationship above <green>100</green>) and <green>is willing to offer a significant discount.</green>"
+* {soul_uuid_trader} jatuh cinta pada {soul_uuid_performer} (hubungan di atas <green>100</green>) dan <green>bersedia menawarkan diskon yang signifikan.</green>"
 hint_trader_in_love_hint,"~
-* <b>Hint</b> If {soul_uuid_trader} were infatuated with {soul_uuid_performer} (relationship above <green>100</green>), they could offer a large discount."
+* <b>Hint</b> Jika {soul_uuid_trader} jatuh cinta pada {soul_uuid_performer} (hubungan di atas <green>100</green>), mereka bisa menawarkan diskon besar."
 hint_ally_force_neutrality_letter_1_player_not_help,"~
-Know that our lands are now divided. And if you seek the reason for this, look in the mirror. In a difficult moment of need, I did not receive help from you. From this moment on, your state has become smaller!"
+Ketahuilah bahwa tanah-tanah kita kini terbagi. Dan jika engkau mencari alasan untuk ini, lihatlah ke cermin. Pada saat sulit yang membutuhkan bantuan, aku tidak menerima pertolongan darimu. Mulai saat ini, negaramu telah menjadi lebih kecil!"
 hint_ally_force_neutrality_letter_2_player_not_help,"~
-The oath of military assistance was given by you when I agreed to become part of your state. And what was the response? In a difficult moment, you abandoned me! From now on, nothing binds us!"
+Sumpah bantuan militer diberikan olehmu ketika aku setuju menjadi bagian dari negaramu. Dan apa tanggapannya? Pada saat sulit, engkau meninggalkanku! Mulai sekarang, tidak ada yang mengikat kita!"
 hint_ally_force_neutrality_letter_1_player_help_but_loose,"~
-Accept my gratitude for the support you sent me. And believe me, I regret that the sorrow of losing such warriors was not compensated by victory. However, we are now forced to go our separate ways. I hope you won't harbor any resentment towards me."
+Terimalah rasa terima kasihku atas dukungan yang kau kirimkan padaku. Dan percayalah padaku, aku menyesal bahwa kesedihan kehilangan prajurit seperti itu tidak terganti oleh kemenangan. Namun, kita kini terpaksa berpisah jalan. Aku harap engkau tidak menyimpan dendam padaku."
 hint_ally_force_neutrality_letter_2_player_help_but_loose,"~
-Your wars were fought bravely, but luck was not on our side. I must confess to you, and don't think this decision came easily to me. Our paths must diverge. I regret it."
-hint_unavailable_heir_rebellion_in_ai_town,"Power Struggle.
-As long as there is a power struggle, the lords and armies of this province will not leave its borders."
-hint_unavailable_lord_in_defence_army,"The lord is in the army.
-This lord is in the army that has come to the aid of this city. No social interactions are possible."
-hint_unavailable_lord_guest_in_other_town,"The lord is out of town
-This character is currently a guest in the city of {faction_uuid}.
+Perangmu diperjuangkan dengan berani, tapi keberuntungan tidak berpihak pada kita. Aku harus mengakui padamu, dan jangan pikir keputusan ini datang dengan mudah padaku. Jalan kita harus berpisah. Aku menyesalinya."
+hint_unavailable_heir_rebellion_in_ai_town,"Perjuangan Kekuasaan.
+Selama ada perjuangan kekuasaan, para penguasa dan pasukan provinsi ini tidak akan meninggalkan batas-batasnya."
+hint_unavailable_lord_in_defence_army,"Penguasa sedang di pasukan.
+Penguasa ini berada di pasukan yang datang membantu kota ini. Tidak ada interaksi sosial yang mungkin."
+hint_unavailable_lord_guest_in_other_town,"Penguasa sedang di luar kota
+Karakter ini saat ini adalah tamu di kota {faction_uuid}.
 
-Presumably will be home in {remain_time}."
-hint_unavailable_lord_on_global_map,"Lord is on a journey
-This character is currently travelling somewhere on the global map."
-hint_city_burn,"Burning to the ground
+Kemungkinan akan pulang dalam {remain_time}."
+hint_unavailable_lord_on_global_map,"Penguasa sedang dalam perjalanan
+Karakter ini saat ini sedang bepergian ke suatu tempat di peta global."
+hint_city_burn,"Dibakar Sampai Hangus
 
-Notify the enemy that his city will be completely destroyed and all members of his family will be killed. After this, the province will become uninhabited, and you will be able to resettle the ruins with your lords and peasants whenever you wish. A new noble family will be established.
+Beritahu musuh bahwa kotanya akan benar-benar dihancurkan dan semua anggota keluarganya akan dibunuh. Setelah itu, provinsi akan menjadi tak berpenghuni, dan Anda akan dapat menempati kembali reruntuhan dengan para penguasa dan petani Anda kapan pun Anda inginkan. Sebuah keluarga bangsawan baru akan didirikan.
 
-Since you are a <hint=hint_faction_relations_deadly_enemy>deadly enemy</hint> of this king, such an action will be met with understanding by the neighbors.
+Karena Anda adalah <hint=hint_faction_relations_deadly_enemy>musuh bebuyutan</hint> dari raja ini, tindakan seperti itu akan diterima dengan pengertian oleh para tetangga.
 
-$ Your warriors will need two days of prayer to spiritually prepare for the massacre.
+$ Prajurit Anda akan membutuhkan dua hari berdoa untuk mempersiapkan diri secara rohani menghadapi pembantaian.
 
-Relations with {soul_uuid_king}: {city_burn_rel_de}
+Hubungan dengan {soul_uuid_king}: {city_burn_rel_de}
 {optional_attack_on_vassal_or_ally}
 {optional_possible_helpers_against_player}
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
 hint_city_burn_note_recieved,"~
-{soul_uuid_king} has received your notification and will be preparing for a decisive battle for his life.
+{soul_uuid_king} telah menerima pemberitahuan Anda dan akan mempersiapkan pertempuran penentu untuk hidupnya.
 
-Your warriors should pray and confess before burning another settlement to the ground and slaughtering a noble family.
+Prajurit Anda sebaiknya berdoa dan pengakuan dosa sebelum membakar pemukiman lain sampai hangus dan menyembelih keluarga bangsawan.
 
-$ Relations with {soul_uuid_king}: {city_burn_rel_de}
+$ Hubungan dengan {soul_uuid_king}: {city_burn_rel_de}
 {optional_possible_helpers_against_player}
 {optional_holy_defence_will_removed}"
 hint_city_burn_letter_1,"~
-Do you really think you can come and win with a handful of pathetic cowards for warriors? Your overconfidence amazes me. I hope you are already on your way, as I have already ordered a feast to celebrate my victory."
+Apakah Anda benar-benar berpikir bisa datang dan menang dengan segelintir pengecut menyedihkan sebagai prajurit? Kepercayaan diri berlebih Anda menakjubkan. Saya harap Anda sudah dalam perjalanan, karena saya sudah memerintahkan pesta untuk merayakan kemenangan saya."
 hint_city_burn_letter_2,"~
-Let those who cannot fight bend their knees. I am not one of them, and you know it well! Your army faces defeat, and we will take no prisoners!"
-hint_city_burn_waiting_description,"Gathering of forces
-{soul_uuid_king} is gathering allies while your warriors are preparing to burn his settlement to the ground.
+Biarkan mereka yang tidak bisa bertarung menekukkan lututnya. Saya bukan salah satunya, dan Anda tahu itu dengan baik! Pasukan Anda menghadapi kekalahan, dan kami tidak akan mengambil tawanan!"
+hint_city_burn_waiting_description,"Pengumpulan Pasukan
+{soul_uuid_king} sedang mengumpulkan sekutu sementara prajurit Anda mempersiapkan untuk membakar pemukimannya sampai hangus.
 {optional_possible_helpers_against_player}"
 hint_city_burn_waiting_ends,"~
-$ {soul_uuid_king} is awaiting your attack.
-$ Your warriors are also ready.
+$ {soul_uuid_king} sedang menunggu serangan Anda.
+$ Prajurit Anda juga siap.
 
-Now you can attack his city to burn it to the ground."
-hint_city_burn_ready_description,"Waiting for the attack
-{soul_uuid_king} is waiting for the assault on his city by your troops.
+Sekarang Anda bisa menyerang kotanya untuk membakarnya sampai hangus."
+hint_city_burn_ready_description,"Menunggu Serangan
+{soul_uuid_king} sedang menunggu serangan terhadap kotanya oleh pasukan Anda.
 
-$ If you do not show up for the assault within <b>two days</b>, you will be declared a coward."
+$ Jika Anda tidak muncul untuk serangan dalam waktu <b>dua hari</b>, Anda akan dinyatakan sebagai pengecut."
 hint_city_burn_coward,"~
-You did not appear at the assault, and now your king will be known as a coward.
+Anda tidak muncul di serangan, dan sekarang raja Anda akan dikenal sebagai pengecut.
 
-$ Relationships with neighbors and {soul_uuid_king}: <red>{rel_coward}</red>"
+$ Hubungan dengan tetangga dan {soul_uuid_king}: <red>{rel_coward}</red>"
 hint_city_burn_success,"~
-The city has been burned and plundered for <hint=hint_resource_gold>{tribute_money}</hint>, and the noble family of {soul_uuid_king} is now a part of history.
+Kota telah dibakar dan dirampok sebesar <hint=hint_resource_gold>{tribute_money}</hint>, dan keluarga bangsawan {soul_uuid_king} sekarang menjadi bagian dari sejarah.
 
-The province comes under your control, and you will be able to resettle the ruins with your lords and peasants whenever you wish. A new noble family will be established."
+Provinsi berada di bawah kendali Anda, dan Anda akan dapat menempati kembali reruntuhan dengan para penguasa dan petani Anda kapan pun Anda inginkan. Sebuah keluarga bangsawan baru akan didirikan."
 hint_city_burn_fail,"~
-You have lost the battle."
+Anda telah kalah dalam pertempuran."
 hint_city_burn_fair_letter_success_mat_1,"~
-Praise to Sophia for helping you end this war. It is time to count the losses, and on the ruins of past hatred and enmity, build peace. I know this will happen because it is her will."
+Puji syukur kepada Sophia atas pertolongannya mengakhiri perang ini. Saatnya menghitung kerugian, dan di atas reruntuhan kebencian dan permusuhan masa lalu, bangun Perdamaian. Aku tahu ini akan terjadi karena itulah kehendaknya."
 hint_city_burn_fair_letter_success_mat_2,"~
-Well, you have won a fair victory, and the sorrows of war are behind. Let this city be reborn anew, and let prosperity reign in it."
-hint_city_burn_unfair,"Burning to the ground
-Notify the ruler that his city awaits destruction, and they and their family will face death. After this, the province will come under your control, and you will be able to resettle the ruins with your lords and peasants whenever you wish. A new noble family will be established.
+Nah, kau telah meraih kemenangan yang adil, dan kesedihan perang telah berlalu. Biarlah kota ini lahir kembali, dan biarlah kemakmuran memerintah di dalamnya."
+hint_city_burn_unfair,"Dibakar Sampai Hangus
+Beritahu penguasa bahwa kotanya menunggu kehancuran, dan dia beserta keluarganya akan menghadapi kematian. Setelah ini, provinsi tersebut akan berada di bawah kendalimu, dan engkau akan bisa menempatkan kembali reruntuhan itu dengan para penguasa dan Petani kapan pun engkau inginkan. Sebuah keluarga bangsawan baru akan didirikan.
 
-Since you are <b>NOT a mortal enemy</b> of this ruler, such an atrocity will provoke rage and terror among the neighbors.
+Karena engkau <b>TIDAK merupakan musuh bebuyutan</b> dari penguasa ini, kekejaman seperti itu akan memprovokasi kemarahan dan teror di antara para tetangga.
 
-Moreover, this policy is strongly disapproved of by the <hint=hint_relations_matriarch>Matriarch</hint>.
+Selain itu, kebijakan ini sangat tidak disetujui oleh <hint=hint_relations_matriarch>Matriarch</hint>.
 
-$ Relations with Matriarch: <red>{city_burn_unfair_mat_rel_de}</red>
-$ Relations with {soul_uuid_king}: <red>{city_burn_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{city_burn_unfair_neigh_rel_de}</red>
+$ Hubungan dengan Matriarch: <red>{city_burn_unfair_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{city_burn_unfair_rel_de}</red>
+$ Hubungan dengan para tetangga: <red>{city_burn_unfair_neigh_rel_de}</red>
 
-$ Your warriors will need two days of prayers to spiritually prepare for the mass slaughter.
+$ Prajuritmu akan memerlukan dua hari berdoa untuk secara rohani mempersiapkan diri menghadapi pembantaian massal.
 {optional_attack_on_vassal_or_ally}
 {optional_possible_helpers_against_player}
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
 hint_city_burn_unfair_note_recieved,"~
-$ {soul_uuid_king} has received your notification and will be preparing for a decisive battle for his life.
+$ {soul_uuid_king} telah menerima pemberitahuanmu dan akan mempersiapkan pertempuran penentu untuk hidupnya.
 
-Your warriors should pray and confess before burning another settlement to the ground and slaughtering a noble family.
+Prajuritmu sebaiknya berdoa dan pengakuan dosa sebelum membakar pemukiman lain sampai hangus dan menyembelih keluarga bangsawan.
 
-$ Relations with Matriarch: <red>{city_burn_unfair_mat_rel_de}</red>
-$ Relations with {soul_uuid_king}: <red>{city_burn_unfair_rel_de}</red>
-$ Relations with neighbors: <red>{city_burn_unfair_neigh_rel_de}</red>
+$ Hubungan dengan Matriarch: <red>{city_burn_unfair_mat_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{city_burn_unfair_rel_de}</red>
+$ Hubungan dengan para tetangga: <red>{city_burn_unfair_neigh_rel_de}</red>
 {optional_possible_helpers_against_player}
 {optional_holy_defence_will_removed}"""
 hint_city_burn_letter_fail_1,"~
-They say that a single flaw in a lineage can ruin an entire generation. And it seems to me that your flaw is incompetence in governance. Did you really think I would let you burn down my city? Before undertaking such actions, you need to consider the consequences. And believe me, you won't be able to avoid them."
+Kata orang, satu cacat dalam garis keturunan bisa merusak seluruh generasi. Dan sepertinya cacatmu adalah ketidakmampuan dalam pemerintahan. Apakah kau benar-benar pikir aku akan membiarkanmu membakar kotaku? Sebelum melakukan tindakan seperti itu, kau perlu mempertimbangkan konsekuensinya. Dan percayalah, kau tak akan bisa menghindarinya."
 hint_city_burn_letter_fail_2,"~
-You overestimated the bravery of your people; they fled like frightened rabbits chased by a hungry fox. My warriors would rather kill their children than let their city turn to ashes. You will receive no mercy from me."
+Kau terlalu melebih-lebihkan keberanian rakyatmu; mereka lari seperti kelinci ketakutan yang dikejar rubah lapar. Prajuritku lebih baik membunuh anak-anak mereka daripada membiarkan kotanya menjadi abu. Kau tak akan mendapat belas kasihan dariku."
 hint_city_burn_letter_coward_1,"~
-The gods bestowed upon you the gift of cowardice on the day of your birth. How pathetic you are in your attempts to appear a worthy opponent; all you can do is threaten. I hope that next time you will have at least a handful of courage to come here and show yourself on the battlefield."
+Para dewa menganugerahkan hadiah pengecut padamu pada hari kelahiranmu. Seberapa menyedihkan dirimu dalam usaha tampil sebagai lawan yang layak; yang bisa kau lakukan hanyalah mengancam. Aku harap lain kali kau punya setidaknya segenggam keberanian untuk datang ke sini dan menunjukkan diri di medan perang."
 hint_city_burn_letter_coward_2,"~
-I haven't had this much fun in a long time. So many jokes were made at your expense when we realized that you chickened out and wouldn't come to fight. I can imagine how your own warriors mocked you when you told them you were not ready to fight. Learn not to accept challenges if you are not prepared for battle."
+Aku belum lama sekali merasa senang seperti ini. Begitu banyak Lelucon dibuat atas namamu ketika kami sadar kau pengecut dan tak mau datang bertarung. Aku bisa bayangkan bagaimana prajuritmu sendiri mengejekmu ketika kau bilang kau belum siap bertarung. Belajarlah untuk tidak menerima tantangan jika kau belum siap untuk pertempuran."
 hint_city_burn_letter_success_mat_1,"~
-I am writing to inform you that you have provoked the wrath of Mother Sophia with your actions. It is not befitting of a prudent ruler to attack those with whom they lives in peace. I ask that you refrain from such actions in the future."
+Aku menulis untuk memberitahumu bahwa kau telah memprovokasi murka Ibu Sophia dengan tindakanmu. Tidak pantas bagi penguasa yang bijaksana untuk menyerang mereka yang hidup damai dengannya. Aku minta kau hindari tindakan seperti itu di masa depan."
 hint_city_burn_letter_success_mat_2,"~
-Does not the scripture of Saint Sophia teach justice? To attack unexpectedly those bound to you by ties of friendship is unworthy of a wise ruler. I am sure you will heed my wishes, as they are reasonable."
-hint_praise_for_king,"Praise of the Neighbor
-The chosen lord <b>praises</b> your mutual neighbor on behalf of your king.
+Bukankah kitab suci Santa Sophia mengajarkan keadilan? Menyerang secara tiba-tiba mereka yang terikat padamu oleh ikatan Persahabatan tidak layak bagi penguasa yang bijak. Aku yakin kau akan mematuhi keinginanku, karena itu masuk akal."
+hint_praise_for_king,"Pujian terhadap Tetangga
+Penguasa yang dipilih <b>mempuji</b> tetangga bersama kalian atas nama rajamu.
 
-As a result, the relationship of {soul_uuid_king} to the neighbor <b>improves</b> by an amount dependent on the skill <hint=hint_skill_speech>Persuasion</hint> of the performer.
+Akibatnya, hubungan {soul_uuid_king} dengan tetangga <b>bertingkat</b> sebesar jumlah yang bergantung pada keterampilan <hint=hint_skill_speech>Persuasi</hint> pelaku.
 
-<b>Tip:</b> Improving relationships can be useful for reconciling allies and expanding your alliance.
+<b>Petunjuk:</b> Meningkatkan hubungan bisa berguna untuk mendamaikan sekutu dan memperluas aliansi kalian.
 
 [hint_SENDER]"
-hint_praise_for_king_choose_performer,"Praise of the Neighbor
-Performer {soul_uuid_performer} : {skill_name} lvl. {skill_level}
+hint_praise_for_king_choose_performer,"Pujian terhadap Tetangga
+Pelaku {soul_uuid_performer} : {skill_name} lvl. {skill_level}
 
-<b>Consequences</b>
-$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <green>+{rel_de_praise_to_target_king}</green>
+<b>Konsekuensi</b>
+$ Hubungan {soul_uuid_king} dengan {soul_uuid_king_s}: <green>+{rel_de_praise_to_target_king}</green>
 
-Current relationship of {soul_uuid_king} to {soul_uuid_king_s}: {rel_current}"
+Hubungan saat ini {soul_uuid_king} dengan {soul_uuid_king_s}: {rel_current}"
 hint_praise_for_king_success,"~
-{soul_uuid_king} has taken note of your opinion about {soul_uuid_king_s}, and although he has his their own thoughts on the matter, he is still pondering it.
+{soul_uuid_king} telah mencatat pendapatmu tentang {soul_uuid_king_s}, dan meskipun ia memiliki pikiran sendiri tentang masalah ini, ia masih memikirkannya.
 
-<b>Consequences</b>
-$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <green>{rel_de_praise_to_target_king}</green>"
+<b>Konsekuensi</b>
+$ Hubungan {soul_uuid_king} dengan {soul_uuid_king_s}: <green>{rel_de_praise_to_target_king}</green>"
 hint_praise_for_king_success_letter_1,"~
-I didn't think your opinion of our mutual neighbor was so positive. But it's hard for me to discern any malice behind your words. Perhaps they are better than I thought."
+Saya tidak menyangka pendapatmu tentang tetangga bersama kita begitu positif. Tetapi sulit bagi saya untuk membedakan adanya niat jahat di balik kata-katamu. Mungkin mereka lebih baik daripada yang saya pikirkan."
 hint_praise_for_king_success_letter_2,"~
-Your praise of the neighbor does you credit. Is there some truth in this, or is your mind asleep when it comes to them? We'll see."
+Pujianmu terhadap tetangga itu memuji dirimu. Apakah ada kebenaran di balik ini, atau pikiranmu tertidur saat berbicara tentang mereka? Kita lihat saja."
 hint_praise_for_king_success_letter_3,"~
-You claim that our neighbor is a worthy person? I would like to think so. But time will tell; perhaps they have made a fool of you?"
+Kau mengklaim bahwa tetangga kita adalah orang yang layak? Saya ingin mempercayainya. Tetapi waktu akan memberi tahu; mungkin mereka telah membodohi kamu?"
 hint_trader_discount_because_player_is_leader,"~
-* {soul_uuid_trader} respects {soul_uuid_players_king} as an alliance leader and <green>is willing to offer a significant discount.</green>"
-hint_ai_ally_bad_opinions_with_leader,"Conflict with an Ally
-A member of your alliance, {soul_uuid_king}, has serious disagreements with your ruler.
+* {soul_uuid_trader} menghormati {soul_uuid_players_king} sebagai pemimpin aliansi dan <green>bersedia menawarkan diskon yang signifikan.</green>"
+hint_ai_ally_bad_opinions_with_leader,"Konflik dengan Sekutu
+Seorang anggota aliansi kalian, {soul_uuid_king}, memiliki ketidaksepakatan serius dengan penguasa kalian.
 
-If relations with this monarch are not restored from {current_opinion} to {min_opinion_alliance_threshold} within 24 hours, {faction_uuid} <b>will leave the alliance</b>"
-hint_ai_leader_bad_opinions_with_ally_player,"Conflict with the Alliance Leader
-The leader of the alliance, {soul_uuid_king}, has serious grievances against your king.
+Jika hubungan dengan monarki ini tidak dipulihkan dari {current_opinion} ke {min_opinion_alliance_threshold} dalam 24 jam, {faction_uuid} <b>akan meninggalkan aliansi</b>"
+hint_ai_leader_bad_opinions_with_ally_player,"Konflik dengan Pemimpin Aliansi
+Pemimpin aliansi, {soul_uuid_king}, memiliki keluhan serius terhadap rajamu.
 
-If relations with this monarch are not restored from {current_opinion} to {min_opinion_alliance_threshold} within 24 hours, <b>you will be forced to leave the alliance</b>."
-hint_advisor_caption,Problem
+Jika hubungan dengan monarki ini tidak dipulihkan dari {current_opinion} ke {min_opinion_alliance_threshold} dalam 24 jam, <b>kalian akan dipaksa meninggalkan aliansi</b>."
+hint_advisor_caption,Masalah
 hint_advisor_wood,"[hint_advisor_caption]
-Your lumbermills are not producing enough <hint=hint_resource_wood>wood</hint>, which is crucial for development.
+Penggergajian Kayu Anda tidak memproduksi cukup <hint=hint_resource_wood>kayu</hint>, yang sangat penting untuk pengembangan.
 
-$ Make sure you have at least 2, preferably 3 <hint=hint_bld_woodcutter>Lumbermills</hint> built.
-$ Lumberjacks gradually clear the forest around the Lumbermills, and it becomes increasingly distant to fetch wood. It might be time to relocate the built Lumbermills closer to the trees.
+$ Pastikan Anda memiliki setidaknya 2, lebih baik lagi 3 <hint=hint_bld_woodcutter>Penggergajian Kayu</hint> yang dibangun.
+$ Tukang kayu secara bertahap membersihkan hutan di sekitar Penggergajian Kayu, dan semakin jauh jarak untuk mengambil kayu. Mungkin saatnya untuk memindahkan Penggergajian Kayu yang sudah dibangun lebih dekat ke pohon-pohon.
 
-<b>Note</b> that forests have the ability to regenerate, but only in proximity to other trees. If you clear-cut the entire forest, it won't regenerate."
+<b>Catatan</b> bahwa hutan memiliki kemampuan untuk beregenerasi, tetapi hanya di dekat pohon-pohon lain. Jika Anda menebang bersih seluruh hutan, itu tidak akan beregenerasi."
 hint_advisor_alcohol,"[hint_advisor_caption]
 [hint_nt_dummy_low_beer]"
 hint_advisor_nectar,"[hint_advisor_caption]
-More than 30% of your citizens are <hint=hint_addict>nectar addicts</hint>, and less than half of them consumed <hint=hint_resource_nectar>nectar</hint> yesterday.
+Lebih dari 30% warga Anda adalah <hint=hint_addict>pecandu nektar</hint>, dan kurang dari setengahnya mengonsumsi <hint=hint_resource_nectar>nektar</hint> kemarin.
 
-This can be dangerous as the craving for Nectar has a very strong impact on <hint=hint_mood>mood</hint>."
+Ini bisa berbahaya karena keinginan untuk Nektar memiliki dampak yang sangat kuat pada <hint=hint_mood>suaana hati</hint>."
 hint_advisor_housing,"[hint_advisor_caption]
 [hint_nt_dummy_many_homeless]"
 hint_advisor_tasks,"[hint_advisor_caption]
-The lords fail to distribute <hint=hint_inspection>instructions</hint> in all buildings, causing a significant drop in productivity in some of them.  
+Para bangsawan gagal mendistribusikan <hint=hint_inspection>instruksi</hint> di semua bangunan, menyebabkan penurunan produktivitas yang signifikan di beberapa di antaranya.  
 
-$ If there are too many buildings, it's time to implement bureaucracy by constructing a <hint=hint_bld_chancellery>Chancellery</hint>. Purchase the appropriate book from the Holy Caravan and prepare for the production of <hint=hint_resource_paper>Paper</hint>."
+$ Jika ada terlalu banyak bangunan, saatnya menerapkan birokrasi dengan membangun <hint=hint_bld_chancellery>Kanselari</hint>. Beli buku yang sesuai dari Karavan Suci dan siapkan produksi <hint=hint_resource_paper>Kertas</hint>."
 hint_advisor_patrols,"[hint_advisor_caption]
-This means you need to prepare for crimes until the <hint=hint_persons_criminal>vagabonds</hint> have spent all their money.
+Ini berarti Anda perlu bersiap menghadapi kejahatan sampai <hint=hint_persons_criminal>pengembara</hint> menghabiskan semua uang mereka.
 
-$ Build <hint=hint_bld_patrol_sign>Patrol Banner</hint> (Construction Menu) near the Hall storage, and other <hint=hint_bld_store>warehouses</hint> if any. Assign warriors to them and mark the radius.
-$ You can also place patrols in areas where people gather and near housing (especially lords' housing).
-$ Buy the book <hint=hint_bld_scafod>Scaffold</hint> from the Caravan and build it for prevention and punishment."
+$ Bangun <hint=hint_bld_patrol_sign>Bendera Patroli</hint> (Menu Konstruksi) di dekat penyimpanan Aula, dan gudang <hint=hint_bld_store>gudang</hint> lainnya jika ada. Tetapkan prajurit ke sana dan tandai radiusnya.
+$ Anda juga bisa menempatkan patroli di area tempat orang berkumpul dan dekat perumahan (terutama perumahan para bangsawan).
+$ Beli buku <hint=hint_bld_scafod>Panggung Gantung</hint> dari Karavan dan bangun itu untuk pencegahan dan hukuman."
 hint_advisor_scafod,"[hint_advisor_caption]
-It looks like you have problems with crime - there are already more than <b>5</b> <hint=hint_persons_criminal>vagabonds</hint>.
+Sepertinya Anda memiliki masalah dengan kejahatan - sudah ada lebih dari <b>5</b> <hint=hint_persons_criminal>pengembara</hint>.
 
-$ Place <hint=hint_bld_patrol_sign>patrol banners</hint> in areas where crimes occur.
-$ Build a <hint=hint_bld_scafod>Scaffold</hint> so that executioners can execute captured criminals.
-$ In their remaining time, executioners will intimidate vagabonds from committing crimes, thus engaging in crime prevention.
+$ Tempatkan <hint=hint_bld_patrol_sign>bendera patroli</hint> di area di mana kejahatan terjadi.
+$ Bangun <hint=hint_bld_scafod>Panggung Gantung</hint> agar algojo bisa mengeksekusi penjahat yang ditangkap.
+$ Dalam sisa waktu mereka, algojo akan mengintimidasi pengembara agar tidak melakukan kejahatan, sehingga terlibat dalam pencegahan kejahatan.
 
-<b>Hint:</b> Additionally, by using the Scaffold, you can always start <hint=hint_terror_peasants>terror</hint>, which will reduce the number of vagabonds but make the residents more unhappy, thus limiting <hint=hint_migration>migration</hint>."
+<b>Petunjuk:</b> Selain itu, dengan menggunakan Panggung Gantung, Anda selalu bisa memulai <hint=hint_terror_peasants>teror</hint>, yang akan mengurangi jumlah pengembara tetapi membuat penduduk lebih tidak bahagia, sehingga membatasi <hint=hint_migration>migrasi</hint>."
 hint_advisor_low_money,"[hint_advisor_caption]
-The treasury is nearly empty! Without <hint=hint_resource_gold>Gold</hint></hint>, it will be much harder for your ruler to keep the situation under control.
+Perbendaharaan hampir kosong! Tanpa <hint=hint_resource_gold>Emas</hint>, akan jauh lebih sulit bagi penguasa Anda untuk menjaga situasi terkendali.
 
-$ Don't forget to sell goods to Caravans or neighbors - the more complex the goods, the higher the profit. Boost the <hint=hint_skill_negotiations>Trade</hint> skill for at least one lord.
-$ Pay attention to the average <hint=hint_wealth>wealth:</hint> of peasants and warriors in the character tooltip in the top left corner. Perhaps it’s time to shake their pockets by setting up <hint=hint_iternal_trade>internal trade</hint></hint>?
-$ If you have a large army, it should not remain idle. Even attacks on bandit camps can be quite profitable due to rewards and captured prisoners. There are also weak neighbors..."
+$ Jangan lupa jual barang ke Karavan atau tetangga - barang yang lebih kompleks, semakin tinggi keuntungannya. Tingkatkan <hint=hint_skill_negotiations>Perdagangan</hint> setidaknya untuk satu bangsawan.
+$ Perhatikan kekayaan <hint=hint_wealth>rata-rata:</hint> petani dan prajurit di tooltip karakter di sudut kiri atas. Mungkin saatnya mengguncang kantong mereka dengan menyiapkan <hint=hint_iternal_trade>perdagangan internal</hint>?
+$ Jika Anda memiliki pasukan besar, itu tidak boleh menganggur. Bahkan serangan ke kamp perampok bisa cukup menguntungkan karena hadiah dan tahanan yang ditangkap. Ada juga tetangga yang lemah..."
 hint_advisor_matriarch,"[hint_advisor_caption]
-The matriarch is angry with you, causing an embargo on important goods from the Holy Caravan and discontent among the fanatics.
+Matriark marah kepada Anda, menyebabkan embargo pada barang penting dari Karavan Suci dan ketidakpuasan di antara fanatik.
 
-$ Try to increase the number of fanatics through preaching in the temples.
-$ Improve relations between the king and the bishop; suggest they spend time together. The bishop's opinion matters to the matriarch.
-$ Destroy bandit camps and perform other godly deeds on the world map."
+$ Cobalah tingkatkan jumlah fanatik melalui khotbah di kuil.
+$ Perbaiki hubungan antara raja dan uskup; sarankan mereka menghabiskan waktu bersama. Pendapat uskup penting bagi matriark.
+$ Hancurkan kamp perampok dan lakukan perbuatan saleh lainnya di peta dunia."
 hint_advisor_prestige,"[hint_advisor_caption]
-Life in the most remote province oppresses lords and peasants of some cultures.
+Kehidupan di provinsi paling terpencil menindas para bangsawan dan petani dari beberapa budaya.
 
-$ Hover over the Prestige icon in the upper left corner to find out what you're missing.
-$ The easiest solution is to build Decorations (Construction Menu)."
+$ Arahkan kursor ke ikon Prestise di sudut kiri atas untuk mengetahui apa yang kurang.
+$ Solusi termudah adalah membangun Dekorasi (Menu Konstruksi)."
 hint_advisor_teach_children,"[hint_advisor_caption]
-Childhood is the time when lords gain much more experience from education than in adulthood.
+Masa kecil adalah waktu ketika para penguasa memperoleh pengalaman jauh lebih banyak dari pendidikan daripada saat dewasa.
 
-$ Choose a child.
-$ Select the area of study and a teacher.
+$ Pilih seorang anak.
+$ Pilih bidang studi dan seorang guru.
 
-Note that you can invite lords from neighboring provinces to visit and educate the child if the parents lack the <hint=hint_skill_teaching>Teaching</hint> skill."
+Perhatikan bahwa Anda dapat mengundang para penguasa dari provinsi tetangga untuk berkunjung dan mendidik anak tersebut jika orang tua kekurangan <hint=hint_skill_teaching>Teaching</hint> skill."
 hint_advisor_marry,"[hint_advisor_caption]
-Your lord {soul_uuid} is still not married and has not produced offspring, while the neighbors are offering suitable marriage prospects. Isn't it time for them to settle down? After all, lords are mortal (and sometimes suddenly so), and children are your future.
+Penguasa Anda {soul_uuid} masih belum menikah dan belum menghasilkan keturunan, sementara tetangga menawarkan prospek pernikahan yang cocok. Bukankah sudah waktunya bagi mereka untuk menetap? Lagipula, para penguasa adalah makhluk fana (dan terkadang tiba-tiba begitu), dan anak-anak adalah masa depan Anda.
 
-$ Go to the global map
-$ Select a suitable match and arrange a marriage.
+$ Pergi ke peta global
+$ Pilih pasangan yang cocok dan atur pernikahan.
 
-You can also pair them in marriage with another of your lords."
+Anda juga dapat memasangkan mereka dalam pernikahan dengan penguasa lain milik Anda."
 hint_advisor_chancellery,"[hint_advisor_caption]
-The city is expanding, and soon lords will not be able to distribute instructions to all buildings in time. It's time to establish a bureaucracy! In the <hint=hint_bld_chancellery>Chancellery</hint>, a lord can delegate the distribution of instructions to three clerks at once, thereby significantly increasing the number of serviced buildings. However, such bureaucracy requires <hint=hint_resource_paper>Paper</hint>.
+Kota sedang berkembang, dan segera para penguasa tidak akan mampu mendistribusikan instruksi ke semua bangunan tepat waktu. Saatnya membangun birokrasi! Di <hint=hint_bld_chancellery>Chancellery</hint>, seorang penguasa dapat mendelegasikan distribusi instruksi kepada tiga juru tulis sekaligus, sehingga secara signifikan meningkatkan jumlah bangunan yang dilayani. Namun, birokrasi semacam itu memerlukan <hint=hint_resource_paper>Paper</hint>.
 
-$ Buy from the Holy Caravan and research the Chancellery technology.
-$ Don't forget to also research the production of <hint=hint_resource_paper>Paper</hint>, which is necessary for the Chancellery to operate."
+$ Beli dari Karavan Suci dan teliti teknologi Chancellery.
+$ Jangan lupa untuk juga meneliti produksi <hint=hint_resource_paper>Paper</hint>, yang diperlukan untuk operasi Chancellery."
 hint_advisor_loyality,"[hint_advisor_caption]
-Your lord {soul_uuid} is experiencing issues with <hint=hint_loyalty>Loyalty</hint>. It has already dropped below 40 and continues to decline. When it falls below 25, he may leave the province, And under certain conditions, raise a rebellion.
+Penguasa Anda {soul_uuid} mengalami masalah dengan <hint=hint_loyalty>Loyalty</hint>. Sudah turun di bawah 40 dan terus menurun. Ketika jatuh di bawah 25, ia mungkin meninggalkan provinsi, Dan dalam kondisi tertentu, memicu pemberontakan.
 
-$ To temporarily raise Loyalty, <b>reward</b> or <b>intimidate</b> the lord through the action menu.
-$ To prevent further decline, find out what affects it - hover your mouse cursor over the Crown icon in his menu. It could be a bad mood or a poor relationship with the king. Try to resolve these issues before it's too late."
+$ Untuk sementara meningkatkan Loyalty, <b>reward</b> atau <b>intimidate</b> penguasa melalui menu aksi.
+$ Untuk mencegah penurunan lebih lanjut, cari tahu apa yang memengaruhinya - arahkan kursor mouse ke ikon Mahkota di menu miliknya. Bisa jadi suasana hati buruk atau hubungan buruk dengan raja. Cobalah selesaikan masalah ini sebelum terlambat."
 hint_advisor_slaves_unhappy,"[hint_advisor_caption]
-When <hint=hint_persons_slave>prisoners</hint> are unhappy, they may start a <hint=hint_slave_riot>rebellion</hint> - you can see the likelihood of this by hovering over their icon in the upper left.
+Ketika <hint=hint_persons_slave>prisoners</hint> tidak bahagia, mereka mungkin memulai <hint=hint_slave_riot>rebellion</hint> - Anda dapat melihat kemungkinan ini dengan mengarahkan ke ikon mereka di kiri atas.
 
-$ Make sure all the <hint=hint_bld_slaves_barrack>Prison Wards</hint> are occupied by prisoners - only there they have a chance to get food and alcohol.
-$ Check that the Prison Wards have wardens.
-$ Ensure you allocate enough food and alcohol to prisoners in the <hint=hint_finance_menu>Finance menu</hint>."
+$ Pastikan semua <hint=hint_bld_slaves_barrack>Prison Wards</hint> diduduki oleh narapidana - hanya di sana mereka memiliki kesempatan mendapatkan makanan dan alkohol.
+$ Periksa bahwa Blok Penjara memiliki sipir.
+$ Pastikan Anda mengalokasikan cukup makanan dan alkohol untuk narapidana di <hint=hint_finance_menu>Finance menu</hint>."
 hint_advisor_peasants_unhappy,"[hint_advisor_caption]  
-The average mood of your peasants has dropped below <green>50</green> for the day, which means <hint=hint_migration>migration</hint> slowdown  
+Rata-rata suasana hati petani Anda telah turun di bawah <green>50</green> untuk hari itu, yang berarti perlambatan <hint=hint_migration>migration</hint>  
 
-There are many ways to improve their mood to attract them back to your settlement.  
+Ada banyak cara untuk meningkatkan suasana hati mereka agar menarik mereka kembali ke pemukiman Anda.  
 
-$ Hover over the peasant icon in the top left corner and check their most frequent negative thoughts. Maybe they lack housing?  
-$ Hold Joy Sermons of Joy  or increase the number of fanatics by holding Sermons of Faith in the <hint=hint_bld_temple>Temple</hint> (the latter will strengthen the <hint=hint_bishop>Bishop</hint>).  
-$ Raise their wages, sell more high-quality alcohol and food, or consider <hint=hint_resource_nectar>Nectar</hint>.  
-$ Hold spectacular executions on the <hint=hint_bld_scafod>Scaffold</hint>. Place the Scaffold near the Tavern to attract more spectators.  
-$ Finally, you can initiate a <hint=hint_nt_terror_culture>terror campaign</hint> against the culture disliked by the majority of the population.  
+$ Arahkan ke ikon petani di sudut kiri atas dan periksa pikiran negatif mereka yang paling sering. Mungkin mereka kekurangan perumahan?  
+$ Gelar Khotbah Kegembiraan atau tingkatkan jumlah fanatik dengan menggelar Khotbah Iman di <hint=hint_bld_temple>Temple</hint> (yang terakhir akan memperkuat <hint=hint_bishop>Bishop</hint>).  
+$ Naikkan upah mereka, jual lebih banyak alkohol dan makanan berkualitas tinggi, atau pertimbangkan <hint=hint_resource_nectar>Nectar</hint>.  
+$ Gelar eksekusi spektakuler di <hint=hint_bld_scafod>Scaffold</hint>. Letakkan Panggung Gantung dekat Kedai untuk menarik lebih banyak penonton.  
+$ Akhirnya, Anda dapat memulai <hint=hint_nt_terror_culture>kampanye teror</hint> terhadap budaya yang dibenci mayoritas penduduk.  
 
-You can read more about peasant mood <hint=hint_nt_unhappy>here</hint>."
+Anda dapat membaca lebih lanjut tentang suasana hati petani <hint=hint_nt_unhappy>di sini</hint>."
 hint_advisor_culture_unhappy,"[hint_advisor_caption]
-The residents of your city who belong to the <b>{culture}</b> culture feel particularly unhappy. This could lead to a <hint=hint_nt_culture_rage>massacre</hint> in which they gather to beat up residents of </b>{culture_target}</b>, toward whom they harbor prejudice.
+Penduduk kota Anda yang termasuk dalam budaya <b>{culture}</b> merasa sangat tidak bahagia. Ini bisa menyebabkan <hint=hint_nt_culture_rage>massacre</hint> di mana mereka berkumpul untuk memukuli penduduk </b>{culture_target}</b>, terhadap siapa mereka menyimpan prasangka.
 
-$ Click on a member of the <b>{culture}</b> culture to check their thoughts. Or check the <hint=hint_statistic_menu>Statistics menu</hint>.
-$ You can try to satisfy their specific demands or raise the overall level of happiness by other means (for example, more housing, or better quality food and alcohol).
-$ Or you can preemptively repress the members of this culture through <hint=hint_bld_scafod>the Scaffold</hint> to protect the residents of {culture_target}."
+$ Klik pada anggota budaya <b>{culture}</b> untuk memeriksa pikiran mereka. Atau periksa <hint=hint_statistic_menu>Statistics menu</hint>.
+$ Anda dapat mencoba memenuhi tuntutan khusus mereka atau meningkatkan tingkat kebahagiaan secara keseluruhan dengan cara lain (misalnya, lebih banyak perumahan, atau makanan dan alkohol berkualitas lebih baik).
+$ Atau Anda dapat secara preventif menekan anggota budaya ini melalui <hint=hint_bld_scafod>the Scaffold</hint> untuk melindungi penduduk {culture_target}."
 hint_advisor_warriros_unhappy,"[hint_advisor_caption]
-Unhappy warriors will desert and join the forest bandits.
+Prajurit yang tidak bahagia akan desersi dan bergabung dengan perampok hutan.
 
-$ Ensure in the <hint=hint_finance_menu>Economy Menu</hint> that the warriors receive a sufficient salary to afford decent food and alcohol.
-$ Consider building a Temple, setting visitation filters only for warriors, and preaching fanaticism there. Be aware that this strategy will make you dependent on the Church.
-$ You can also dismiss the unhappy warriors - but some of them may go no further than the bandit camp in your province.
+$ Pastikan di <hint=hint_finance_menu>Economy Menu</hint> bahwa prajurit menerima gaji yang cukup untuk membeli makanan dan alkohol yang layak.
+$ Pertimbangkan membangun Kuil, atur filter kunjungan hanya untuk prajurit, dan khotbah fanatisme di sana. Sadari bahwa strategi ini akan membuat Anda bergantung pada Gereja.
+$ Anda juga dapat memecat prajurit yang tidak bahagia - tapi beberapa di antaranya mungkin tidak pergi lebih jauh dari kamp perampok di provinsi Anda.
 
-More details about warriors' mood can be found <hint=hint_sodiers_happiness>here</hint>."
+Detail lebih lanjut tentang suasana hati prajurit dapat ditemukan <hint=hint_sodiers_happiness>di sini</hint>."
 hint_advisor_depression,"[hint_advisor_caption]
-One or more of your lords has fallen into depression (their portraits have turned red).
+Satu atau lebih penguasa Anda telah jatuh ke dalam depresi (potret mereka berubah merah).
 
-If nothing is done, this will inevitably lead to a <hint=hint_tantrum>nervous breakdown</hint>, and their <hint=hint_loyalty>loyalty</hint> will also decrease.
+Jika tidak ada yang dilakukan, ini akan tak terelakkan menyebabkan <hint=hint_tantrum>nervous breakdown</hint>, dan <hint=hint_loyalty>loyalty</hint> mereka juga akan menurun.
 
-You can learn more about the moods of lords <hint=hint_nt_events_unhappy_lord>here</hint>."
+Anda dapat mempelajari lebih lanjut tentang suasana hati para penguasa <hint=hint_nt_events_unhappy_lord>di sini</hint>."
 hint_advisor_feud,"[hint_advisor_caption]
-When one lord hates another, it may end in murder. You have a few days to <hint=hint_tutorial_hate>take action</hint>.
+Ketika satu penguasa membenci yang lain, itu bisa berakhir dengan pembunuhan. Anda memiliki beberapa hari untuk <hint=hint_tutorial_hate>take action</hint>.
 
 {haters_pair}"
 hint_advisor_train_sodiers,"[hint_advisor_caption]
-Your warriors have not been training for several days. They can improve if you build a <hint=hint_bld_training_ground>Training Ground</hint> and start their training.
+Prajurit Anda belum berlatih selama beberapa hari. Mereka bisa meningkat jika Anda membangun <hint=hint_bld_training_ground>Lapangan Latihan</hint> dan memulai pelatihan mereka.
 
-$ The skill of <hint=hint_skill_combat>Combat</hint> will be important for the lord who will be giving instructions at the Training Ground, not the skill of <hint=hint_skill_management>Management</hint>."
+$ Keterampilan <hint=hint_skill_combat>Tempur</hint> akan penting bagi penguasa yang akan memberikan instruksi di Lapangan Latihan, bukan keterampilan <hint=hint_skill_management>Manajemen</hint>."
 hint_advisor_knowledge,"[hint_advisor_caption]
-You have unread <hint=hint_book>books</hint> waiting for their <hint=hint_idea>knowledge</hint> to become the possession of the entire family.
+Anda memiliki <hint=hint_book>buku</hint> yang belum dibaca menunggu <hint=hint_idea>pengetahuan</hint> mereka menjadi milik seluruh keluarga.
 
-To acquire the knowledge from a book, it should be read.
+Untuk memperoleh pengetahuan dari sebuah buku, buku itu harus dibaca.
 
-To do this, go to the <hint=hint_knowledge_menu>Knowledge Menu</hint>, select a book, and assign a reader."
+Untuk melakukan ini, pergi ke <hint=hint_knowledge_menu>Menu Pengetahuan</hint>, pilih sebuah buku, dan tetapkan seorang pembaca."
 hint_advisor_produce_goods,"[hint_advisor_caption]
-You can produce the item <b>{name}</b>, but to do so, you must create an order in the <hint=hint_production_menu>Production Menu</hint>.
+Anda bisa memproduksi item <b>{name}</b>, tapi untuk melakukannya, Anda harus membuat pesanan di <hint=hint_production_menu>Menu Produksi</hint>.
 
-$ If the priority check is selected, then workers will always be present in this building, even at the expense of other buildings."
+$ Jika centang prioritas dipilih, maka pekerja akan selalu hadir di bangunan ini, bahkan dengan mengorbankan bangunan lain."
 hint_advisor_homeless,"[hint_advisor_caption]
-{soul_uuid} is suffering without a dwelling. It would be best to construct a new house, but you can also assign residents to existing homes."
+{soul_uuid} menderita tanpa tempat tinggal. Sebaiknya membangun rumah baru, tapi Anda juga bisa menugaskan penduduk ke rumah-rumah yang ada."
 hint_advisor_efffective,"[hint_advisor_caption]
-The production building {name} can operate more efficiently if you assign specialized workers as a hiring priority (building menu).
+Bangunan produksi {name} bisa beroperasi lebih efisien jika Anda menugaskan pekerja khusus sebagai prioritas perekrutan (menu bangunan).
 
-Building list:
+Daftar Bangunan:
 {building_list}
 
-$ <hint=hint_addict>Nectar-addicts</hint> produce 30% more goods
-$ <hint=hint_loyalist>Loyalists</hint> produce 20% more
-$ <hint=hint_persons_slave>Prisoners</hint> work 3 hours longer each day
-$ Workers from certain <hint=hint_culture>cultures</hint> also have a production bonus for certain products."
+$ <hint=hint_addict>Pecandu Nektar</hint> memproduksi 30% lebih banyak barang
+$ <hint=hint_loyalist>Loyalis</hint> memproduksi 20% lebih banyak
+$ <hint=hint_persons_slave>Tahanan</hint> bekerja 3 jam lebih lama setiap hari
+$ Pekerja dari <hint=hint_culture>budaya</hint> tertentu juga memiliki bonus produksi untuk produk tertentu."
 hint_advisor_bandit_camp,"[hint_advisor_caption]
-In your province, right next to the city, the camp of forest bandits continues to grow. You can see it on the world map.
+Di provinsi Anda, tepat di sebelah kota, kamp perampok hutan terus berkembang. Anda bisa melihatnya di peta dunia.
 
-If you do not address the problem soon, they may attack your villages or even the city itself."
+Jika Anda tidak menangani masalah ini segera, mereka mungkin menyerang desa-desa Anda atau bahkan kota itu sendiri."
 hint_advisor_dont_like,"[hint_advisor_caption]
-Relations with King {soul_uuid} from {faction_uuid} have deteriorated, and when they reach <red>-15</red>, he may start to scheme against you: bribing your lords, hiring cutthroats to rob your hall and library, and so on.
+Hubungan dengan Raja {soul_uuid} dari {faction_uuid} memburuk, dan ketika mencapai <red>-15</red>, dia mungkin mulai merencanakan melawan Anda: suap para penguasa Anda, menyewa pembunuh berantai untuk merampok Aula dan Perpustakaan Anda, dan sebagainya.
 
-It would be wise to assess his strength, and if you are not prepared for confrontation, to respond to this now - for example, by sending your own king to visit him so they can hunt together (or simply to give him a gift)."
+Bijaksana untuk menilai kekuatannya, dan jika Anda tidak siap untuk konfrontasi, tanggapi ini sekarang - misalnya, dengan mengirim raja Anda sendiri untuk mengunjunginya agar mereka bisa berburu bersama (atau hanya memberikan hadiah)."
 hint_advisor_intrigues,"[hint_advisor_caption]
-Relations with King {soul_uuid} from {faction_uuid} have dropped below <red>-15</red> and have become hostile, though there is still room to fall before an armed confrontation (down to <red>-25</red>).
+Hubungan dengan Raja {soul_uuid} dari {faction_uuid} telah turun di bawah <red>-15</red> dan menjadi Permusuhan, meskipun masih ada ruang untuk jatuh sebelum konfrontasi bersenjata (turun hingga <red>-25</red>).
 
-If you do not improve relations with him soon, you should expect aggressive actions and schemes from him, such as bribing your lords, hiring cutthroats to commit robberies, and so on.
+Jika Anda tidak meningkatkan hubungan dengannya segera, Anda harus mengharapkan tindakan agresif dan intrik darinya, seperti suap para penguasa Anda, menyewa pembunuh berantai untuk melakukan perampokan, dan sebagainya.
 
-<b>HINT:</b> To protect yourself from intrigues, place patrols near the Hall, Library, and lords' houses, and try to raise the <hint=hint_loyalty>loyalty</hint> of lords higher to defend against bribery and seduction. Additionally, happy lords have a chance to become <hint=hint_loyalist>loyalists</hint>, who cannot be bribed.
+<b>PETUNJUK:</b> Untuk melindungi diri dari intrik, letakkan patroli di dekat Aula, Perpustakaan, dan rumah para penguasa, dan coba tingkatkan <hint=hint_loyalty>kesetiaan</hint> para penguasa lebih tinggi untuk bertahan dari suap dan godaan. Selain itu, penguasa yang bahagia memiliki kesempatan menjadi <hint=hint_loyalist>loyalis</hint>, yang tidak bisa disuap.
 "
 hint_advisor_desire,"[hint_advisor_caption]
-Lord {soul_uuid} experiences such intense <hint=hint_desire>desire</hint> that it is beginning to seriously affect his psyche.
+Penguasa {soul_uuid} mengalami <hint=hint_desire>keinginan</hint> yang begitu intens sehingga mulai mempengaruhi jiwanya secara serius.
 
-Pay attention to his desire on the main tab of his menu and consider how it can be fulfilled."
+Perhatikan keinginannya di tab utama menunya dan pertimbangkan bagaimana itu bisa dipenuhi."
 hint_advisor_one_title,"[hint_advisor_caption]
-For two hundred years now, the Noble houses of Norland have observed the <hint=hint_сhartia_humility>Charter of Humility</hint>, which limits the number of <hint=hint_title>titles</hint> per lord in a single family.
+Selama dua ratus tahun sekarang, rumah-rumah bangsawan Norland telah mematuhi <hint=hint_сhartia_humility>Piagam Kerendahan Hati</hint>, yang membatasi jumlah <hint=hint_title>gelar</hint> per penguasa dalam satu keluarga.
 
-You have one free title left. Consider to whom it shall be granted."
+Anda memiliki satu gelar gratis tersisa. Pertimbangkan kepada siapa itu akan diberikan."
 hint_advisor_enemy,"[hint_advisor_caption]
-Relations with King {soul_uuid} from {faction_uuid} have fallen below <red>-25</red> and you are now in a state of war. You can raid his villages, compel him to vassalage, and undertake other aggressive actions (except for burning down the city).
+Hubungan dengan Raja {soul_uuid} dari {faction_uuid} telah jatuh di bawah <red>-25</red> dan sekarang Anda berada dalam keadaan perang. Anda bisa merampok desa-desa miliknya, memaksanya menjadi bawahan, dan melakukan tindakan agresif lainnya (kecuali membakar kota).
 
-And he'll behave likewise.
+Dan dia akan berperilaku serupa.
 
-It is time to compare your armies.
+Sudah waktunya membandingkan pasukan Anda.
 
-<b>HINT:</b> If you don't want to fight, you can try to negotiate a <b>peace treaty</b> with him."
+<b>PETUNJUK:</b> Jika Anda tidak ingin bertarung, Anda bisa mencoba bernegosiasi <b>perjanjian perdamaian</b> dengannya."
 hint_advisor_slaves_hungry,"[hint_advisor_caption]
 [hint_nt_slaves_starving]"
 hint_advisor_peasants_hungry,"[hint_advisor_caption]
@@ -9073,111 +9073,111 @@ hint_advisor_no_temples,"[hint_advisor_caption]
 hint_advisor_no_barracks,"[hint_advisor_caption]
 [hint_nt_notenough_barraks]"
 hint_advisor_rutabaga_poison,"[hint_advisor_caption]
-More than 30% of your population are suffering from <b>rtabaga typhus</b>. This is a deadly disease that can result from consuming raw <hint=hint_resource_rutabaga>Rutabaga</hint>.
+Lebih dari 30% populasi Anda menderita <b>tifus rutabaga</b>. Ini adalah penyakit mematikan yang bisa disebabkan oleh mengonsumsi <hint=hint_resource_rutabaga>Rutabaga</hint> mentah.
 
-To prevent a decline in population, it's better to start start distributing <hint=hint_resource_food>Flour</hint> as soon as possible instead of Rutabaga."
+Untuk mencegah penurunan populasi, lebih baik segera mulai mendistribusikan <hint=hint_resource_food>Tepung</hint> daripada Rutabaga."
 hint_advisor_inflamed_wound_lords,"[hint_advisor_caption]
-{soul_uuid} is at risk of death from an infected wound in the next two days.
+{soul_uuid} berisiko meninggal karena luka terinfeksi dalam dua hari ke depan.
 
-To prevent this, the character needs to apply <hint=hint_resource_med>Medical Salve</hint> to the wound.
+Untuk mencegah ini, karakter tersebut perlu mengoleskan <hint=hint_resource_med>Salep Medis</hint> ke lukanya.
 
-$ Lords themselves pick up medicine from the warehouse and use it if they can walk.
-$ Servants bring medicine to the homes of those lords who cannot walk."
+$ Para penguasa sendiri mengambil obat dari gudang dan menggunakannya jika mereka bisa berjalan.
+$ Pelayan membawa obat ke rumah para penguasa yang tidak bisa berjalan."
 hint_advisor_inflamed_wound_warriors,"[hint_advisor_caption]
-Your soldiers have infected wounds, which may lead to death in the next two days.
+Prajurit Anda memiliki luka terinfeksi, yang bisa menyebabkan kematian dalam dua hari ke depan.
 
-To prevent this, the character needs to apply <hint=hint_resource_med>Medical Salve</hint> to the wound.
+Untuk mencegah ini, karakter tersebut perlu mengoleskan <hint=hint_resource_med>Salep Medis</hint> ke lukanya.
 
-$ The warriors will automatically take the medicine from the warehouse and apply it for free as soon as they are able to walk
+$ Para prajurit akan secara otomatis mengambil obat dari gudang dan mengoleskannya secara gratis segera setelah mereka bisa berjalan
 
-Soldiers with infected wound {soldier_count}"
+Prajurit dengan luka terinfeksi {soldier_count}"
 hint_advisor_free_lord_expire_soon,"[hint_advisor_caption]
-{soul_uuid} has almost completed their contract.
+{soul_uuid} hampir menyelesaikan kontraknya.
 
-You can sign another contract with them after the current one is finished. Or bestow upon them the <hint=hint_title>title</hint> of your noble house - then this lord will become part of the family."
+Anda bisa menandatangani kontrak lain dengan mereka setelah yang sekarang selesai. Atau berikan kepada mereka <hint=hint_title>gelar</hint> rumah bangsawan Anda - maka penguasa ini akan menjadi bagian dari keluarga."
 hint_advisor_enemy_2,"[hint_advisor_caption]
-Your relations with one or several kings have fallen below <red>-25</red>, and you are now in a state of war.
+Hubungan Anda dengan satu atau beberapa raja-raja telah jatuh di bawah <red>-25</red>, dan sekarang Anda berada dalam keadaan perang.
 
-Enemies may plunder villages, coerce you into vassalage, and commit other aggressive actions against each other.
+Musuh mungkin merampok desa-desa, memaksa Anda menjadi bawahan, dan melakukan tindakan agresif lainnya satu sama lain.
 
-Now is the time to compare your armies and, perhaps, find allies.
+Sekarang saatnya untuk membandingkan pasukan Anda dan, mungkin, mencari sekutu.
 
-List of Enemies:
+Daftar Musuh:
 {enemy_list}"
 hint_advisor_dont_like_2,"[hint_advisor_caption]
-Your relations with one or several kings have fallen below zero, and if they reach <red>-15</red>, they may start plotting against you: bribing your lords, hiring your assassins to rob the hall and the library, and so on.
+Hubungan Anda dengan satu atau beberapa raja-raja telah jatuh di bawah nol, dan jika mencapai <red>-15</red>, mereka mungkin mulai merencanakan intrik melawan Anda: suap para penguasa Anda, menyewa pembunuh Anda untuk merampok aula dan perpustakaan, dan sebagainya.
 
-It's better to assess their strength, and if you're not ready to confront them, react to it now – for example, by sending your king to visit them so they can hunt together (or simply by giving them a gift).
+Lebih baik untuk menilai kekuatan mereka, dan jika Anda belum siap menghadapi mereka, bereaksi sekarang – misalnya, dengan mengirim raja Anda untuk mengunjungi mereka agar bisa berburu bersama (atau hanya dengan memberikan hadiah).
 
-List of kings with whom your relations are less than ideal:
+Daftar raja-raja dengan hubungan yang kurang ideal:
 {enemy_list}"
 hint_advisor_intrigues_2,"[hint_advisor_caption]
-Your relations with one or several kings have fallen below <red>-15</red>, although there is still room to fall before armed conflict begins (down to <red>-25</red>).
+Hubungan Anda dengan satu atau beberapa raja-raja telah jatuh di bawah <red>-15</red>, meskipun masih ada ruang untuk jatuh sebelum konflik bersenjata dimulai (turun hingga <red>-25</red>).
 
-If you don't improve your relations with them soon, expect aggressive actions and intrigues from them, such as bribing your lords, hiring your assassins for robberies, and so on.
+Jika Anda tidak segera memperbaiki hubungan dengan mereka, harapkan tindakan agresif dan intrik dari mereka, seperti suap para penguasa Anda, menyewa pembunuh Anda untuk perampokan, dan sebagainya.
 
-<b>HINT:</b> To protect yourself from intrigues, place patrols near the Hall, Library, and lords' houses, and try to raise the <hint=hint_loyalty>loyalty</hint> of your lords higher to defend against bribery and seduction. Also, happy lords have a chance to become <hint=hint_loyalist>loyalists</hint>, who cannot be bribed.
+<b>HINT:</b> Untuk melindungi diri dari intrik, letakkan patroli di dekat Aula, Perpustakaan, dan rumah-rumah para penguasa, dan coba tingkatkan <hint=hint_loyalty>kesetiaan</hint> para penguasa Anda lebih tinggi untuk membela diri dari suap dan godaan. Juga, para penguasa yang bahagia memiliki kesempatan menjadi <hint=hint_loyalist>loyalis</hint>, yang tidak bisa disuap.
 
-List of kings who are hostile toward you:
+Daftar raja-raja yang memusuhi Anda:
 {enemy_list}"
 hint_advisor_no_taven,"[hint_advisor_caption] 
-In the city, not a single <hint=hint_bld_tavern>Tavern</hint> is operational, and the residents cannot purchase <hint=hint_alcohol>alcohol</hint>.
+Di kota, tidak ada satu pun <hint=hint_bld_tavern>Kedai</hint> yang beroperasi, dan penduduk tidak bisa membeli <hint=hint_alcohol>alkohol</hint>.
 
-$ Build a Tavern (submenu Service) 
-$ If a Tavern already exists, make sure it has a worker, and if necessary, prioritize its service.
+$ Bangun Kedai (submenu Layanan) 
+$ Jika Kedai sudah ada, pastikan itu memiliki pekerja, dan jika perlu, prioritaskan layanannya.
 
-<b>Hint:</b> Selling alcohol in taverns is the easiest way to boost characters' <hint=hint_mood>mood</hint> and increase <hint=hint_migration>migration</hint>."
+<b>Hint:</b> Menjual alkohol di kedai adalah cara termudah untuk meningkatkan <hint=hint_mood>suaana hati</hint> karakter dan meningkatkan <hint=hint_migration>migrasi</hint>."
 hint_advisor_no_altar,"[hint_advisor_caption]
-The city completely lacks cult buildings, and residents are worried that their <hint=hint_pray>prayers</hint> may not be heard.
+Kota sepenuhnya kekurangan bangunan kultus, dan penduduk khawatir bahwa <hint=hint_pray>doa</hint> mereka mungkin tidak didengar.
 
-$ Construct <hint=hint_bld_altar>an Altar</hint> (Service submenu)."
+$ Bangun <hint=hint_bld_altar>Altar</hint> (submenu Layanan)."
 hint_advisor_no_allcohol_production,"[hint_advisor_caption]
-The city lacks <hint=hint_alcohol>alcohol</hint> production. Distributing alcohol is the easiest way to boost characters' <hint=hint_mood>mood</hint> and increase <hint=hint_migration>migration</hint>.
+Kota kekurangan produksi <hint=hint_alcohol>alkohol</hint>. Mendistribusikan alkohol adalah cara termudah untuk meningkatkan <hint=hint_mood>suaana hati</hint> karakter dan meningkatkan <hint=hint_migration>migrasi</hint>.
 
-$ Build <hint=hint_bld_brewery>a Brewery</hint>.
-$ In the <hint=hint_finance_menu>Economy Menu</hint> (Gear button at the bottom center), set up alcohol production - either <hint=hint_resource_moonshine>Moonshine</hint> or <hint=hint_resource_beer>Beer</hint>.
+$ Bangun <hint=hint_bld_brewery>Pabrik Bir</hint>.
+$ Di <hint=hint_finance_menu>Menu Ekonomi</hint> (tombol Gear di bagian bawah tengah), atur produksi alkohol - baik <hint=hint_resource_moonshine>Moonshine</hint> atau <hint=hint_resource_beer>Bir</hint>.
 
-<b>Hint:</b> Moonshine isn't very tasty, but it's easy to produce from <hint=hint_resource_rutabaga>Rutabaga</hint>, which grows in fields. Beer requires both <hint=hint_resource_rye>Rye</hint> and <hint=hint_resource_hop>Hops</hint> (also grown in fields, but require researched knowledge)."
+<b>Hint:</b> Moonshine tidak terlalu enak, tapi mudah diproduksi dari <hint=hint_resource_rutabaga>Rutabaga</hint>, yang tumbuh di ladang. Bir membutuhkan <hint=hint_resource_rye>Rye</hint> dan <hint=hint_resource_hop>Hop</hint> (juga tumbuh di ladang, tapi memerlukan pengetahuan yang telah diteliti)."
 hint_advisor_no_food_production,"[hint_advisor_caption]
-The city lacks <hint=hint_food>food</hint> production.
+Kota kekurangan produksi <hint=hint_food>makanan</hint>.
 
-$ Build a <hint=hint_resource_rutabaga>Rutabaga</hint> field to harvest this simple but edible vegetable daily.
-$ To produce <hint=hint_resource_food>Flour</hint>, construct a <hint=hint_resource_rye>Rye</hint> field and a <hint=hint_bld_mill>Mill</hint>. In the <hint=hint_finance_menu>Economy Menu</hint>, set up flour production."
+$ Bangun ladang <hint=hint_resource_rutabaga>Rutabaga</hint> untuk memanen sayuran sederhana tapi bisa dimakan ini setiap hari.
+$ Untuk memproduksi <hint=hint_resource_food>Tepung</hint>, bangun ladang <hint=hint_resource_rye>Rye</hint> dan <hint=hint_bld_mill>Penggilingan</hint>. Di <hint=hint_finance_menu>Menu Ekonomi</hint>, atur produksi tepung."
 hint_advisor_upgrade_woorcutter,"[hint_advisor_caption]
-Most buildings in the game can be upgraded. Upgrading not only provides additional workspace but also increases the overall productivity of the building.
+Sebagian besar bangunan dalam permainan bisa ditingkatkan. Peningkatan tidak hanya menyediakan ruang kerja tambahan tapi juga meningkatkan produktivitas keseluruhan bangunan.
 
-To upgrade your Lumbermills, click on the building and select the Upgrade button."
+Untuk meningkatkan Penggergajian Kayu Anda, klik bangunan dan pilih tombol Tingkatkan."
 hint_advisor_small_army,"[hint_advisor_caption]
-Your kingdom's army is either too weak and insignificant or completely nonexistent. This can be very dangerous, as neighbors may decide to aggress against you based on your strength.
+Pasukan kerajaan Anda terlalu lemah dan tidak signifikan atau sepenuhnya tidak ada. Ini bisa sangat berbahaya, karena tetangga mungkin memutuskan untuk beragresi terhadap Anda berdasarkan kekuatan Anda.
 
-$ Hire at least 7 warriors in the Army Menu.
-$ Build Barracks for them to live in (warriors disdain living with peasants)
-$ Arm them with weapons and armor, which can be purchased from the Holy Caravan"
+$ Sewa setidaknya 7 prajurit di Menu Militer.
+$ Bangun Barak untuk mereka tinggal (prajurit meremehkan tinggal bersama petani)
+$ Senjatai mereka dengan senjata dan zirah, yang bisa dibeli dari Karavan Suci"
 hint_advisor_low_fertility,"[hint_advisor_caption]
-You have already cleared 20% of the forest, and such a violation of the natural balance will soon lead to a gradual decrease in <hint=hint_tutorial_fertility>soil fertility</hint> across the entire map, which means that yields will start to decrease.
+Anda sudah membersihkan 20% hutan, dan pelanggaran keseimbangan alam seperti itu segera akan menyebabkan penurunan bertahap <hint=hint_tutorial_fertility>kesuburan tanah</hint> di seluruh peta, yang berarti hasil panen akan mulai menurun.
 
-$ Reduce deforestation to allow the forests to recover.
-$ Or continue cutting it down, ensuring the influx of necessary provisions through external trade."
+$ Kurangi pembabatan hutan untuk membiarkan hutan pulih.
+$ Atau lanjutkan menebangnya, pastikan aliran provisi yang diperlukan melalui perdagangan eksternal."
 hint_advisor_low_iron,"[hint_advisor_caption]
-The mine is <hint=hint_tutorial_iron_depleted>depleting</hint>, and the explored reserves of <hint=hint_resource_iron>Iron</hint> are diminishing.
+Tambang sedang <hint=hint_tutorial_iron_depleted>habis</hint>, dan cadangan <hint=hint_resource_iron>Besi</hint> yang dieksplorasi semakin menipis.
 
-$ Plan an upgrade of the <hint=hint_bld_mine>Mine</hint>, which will provide access to new Iron reserves
-$ Or establish trade contracts with neighbors that will supply you with Iron from outside"
+$ Rencanakan peningkatan <hint=hint_bld_mine>Tambang</hint>, yang akan memberikan akses ke cadangan Besi baru
+$ Atau buat kontrak perdagangan dengan tetangga yang akan memasok Besi dari luar"
 hint_advisor_slaves_run,"[hint_advisor_caption]
-Prisoners are freely escaping from your province. You need to guard them better.
+Tahanan sedang kabur bebas dari provinsi Anda. Anda perlu menjaganya lebih baik.
 
-$ Place <hint=hint_bld_patrol_sign_day>daytime patrols</hint> at the buildings where they work (zoom out to see exactly which buildings they are working in)
-$ Place <hint=hint_bld_patrol_sign>nighttime patrols</hint> at the entrance to the Prison wards, where they live.
-$ If you have not yet studied Prison wards, buy a book from the Holy Caravan and study it, because without this knowledge, they cannot receive food.
+$ Tempatkan <hint=hint_bld_patrol_sign_day>patroli siang</hint> di bangunan tempat mereka bekerja (zoom out untuk melihat bangunan mana yang sedang mereka kerjakan)
+$ Tempatkan <hint=hint_bld_patrol_sign>patroli malam</hint> di pintu masuk Blok Penjara, tempat mereka tinggal.
+$ Jika Anda belum mempelajari Blok Penjara, beli buku dari Karavan Suci dan pelajarinya, karena tanpa pengetahuan ini, mereka tidak bisa mendapatkan makanan.
 
-Patrols are set up from the <b>Construction Menu</b>, under the <b>Army</b> section."
+Patroli diatur dari <b>Menu Konstruksi</b>, di bawah bagian <b>Pasukan</b>."
 hint_advisor_no_work,"[hint_advisor_caption]
-The city is accumulating too many unemployed. Perhaps some buildings need repair, or your population's average mood is too high, which can lead to excess migration for your economy.
+Kota sedang menumpuk terlalu banyak pengangguran. Mungkin beberapa bangunan perlu perbaikan, atau suasana hati rata-rata penduduk Anda terlalu tinggi, yang bisa menyebabkan migrasi berlebih bagi ekonomi Anda.
 
-$ Using the <hint=hint_bld_scafod>Scaffold</hint>, you can initiate <hint=hint_terror_peasants>terror</hint> among the population. This will reduce the number of <hint=hint_persons_criminal>vagabonds</hint> and decrease overall happiness, thus limiting <hint=hint_migration>migration</hint>.
-$ You can reduce <hint=hint_migration>migration</hint> by spreading rumors in your villages on the world map.
-$ You can also distribute less <hint=hint_alcohol>Alcohol</hint>, which will decrease overall happiness and, consequently, the influx of migrants.
-$ Finally, you can purchase cheap <hint=hint_resource_knife>Daggers</hint>, hire unemployed and unhappy peasants, and after a couple of days of training, send them to try their luck on the world map, attacking <hint=hint_persons_forest_bandits>bandit camps</hint>."
+$ Menggunakan <hint=hint_bld_scafod>Panggung Gantung</hint>, Anda bisa memulai <hint=hint_terror_peasants>teror</hint> di antara penduduk. Ini akan mengurangi jumlah <hint=hint_persons_criminal>pengembara</hint> dan menurunkan kebahagiaan secara keseluruhan, sehingga membatasi <hint=hint_migration>migrasi</hint>.
+$ Anda bisa mengurangi <hint=hint_migration>migrasi</hint> dengan menyebarkan rumor di desa-desa Anda di peta dunia.
+$ Anda juga bisa mendistribusikan lebih sedikit <hint=hint_alcohol>alkohol</hint>, yang akan menurunkan kebahagiaan secara keseluruhan dan, akibatnya, aliran migran.
+$ Akhirnya, Anda bisa membeli <hint=hint_resource_knife>Belati</hint> murah, merekrut petani pengangguran dan tidak bahagia, dan setelah beberapa hari pelatihan, kirim mereka untuk mencoba peruntungan di peta dunia, menyerang <hint=hint_persons_forest_bandits>kamp perampok hutan</hint>."
 hint_advisor_contraband,"[hint_advisor_caption]
 [hint_nt_contrband_begin]"
 hint_advisor_fanatics_rebellion,"[hint_advisor_caption]
@@ -9185,463 +9185,463 @@ hint_advisor_fanatics_rebellion,"[hint_advisor_caption]
 hint_advisor_bishop_rebellion,"[hint_advisor_caption]
 [hint_display_event_bishop_can_soon_rise]"
 hint_advisor_onboard_1,"[hint_advisor_caption]
-Every king needs an army, and an army needs money. To earn money, you need to sell the goods produced by the peasants.
+Setiap raja membutuhkan pasukan, dan pasukan membutuhkan uang. Untuk menghasilkan uang, Anda perlu menjual barang yang diproduksi oleh petani.
 
-To attract peasants from neighboring villages, increase the average happiness of your subjects. They need housing, good food, and alcohol to be happy. All of this requires <hint=hint_resource_wood>Wood</hint>. 
+Untuk menarik petani dari desa tetangga, tingkatkan kebahagiaan rata-rata subjek Anda. Mereka membutuhkan perumahan, makanan enak, dan alkohol untuk bahagia. Semua itu memerlukan <hint=hint_resource_wood>Kayu</hint>. 
 
-Build another <hint=hint_bld_woodcutter>Lumbermill</hint>.
+Bangun <hint=hint_bld_woodcutter>Penggergajian Kayu</hint> lainnya.
 
-$ The Lumbermill is located in the Construction menu, under the Resources tab.
-$ Lumberjacks cut down the nearest trees, so it's best to place Lumbermills far from each other, but close to the forest."
+$ Penggergajian Kayu terletak di menu Konstruksi, di bawah tab Sumber Daya.
+$ Tukang kayu menebang pohon terdekat, jadi sebaiknya letakkan Penggergajian Kayu jauh satu sama lain, tapi dekat dengan hutan."
 hint_advisor_onboard_2,"[hint_advisor_caption]
-Poor quality food, such as Rutabaga, affects the overall mood, reducing <hint=hint_migration>migration</hint>. It's time to provide people with <hint=hint_resource_food>Flour</hint>. But to obtain it, you need <hint=hint_resource_rye>Rye</hint>.
+Makanan berkualitas buruk, seperti Rutabaga, memengaruhi suasana hati secara keseluruhan, mengurangi <hint=hint_migration>migrasi</hint>. Saatnya menyediakan <hint=hint_resource_food>Tepung</hint> bagi orang-orang. Tapi untuk mendapatkannya, Anda perlu <hint=hint_resource_rye>Rye</hint>.
 
-$ Build 2 <hint=hint_bld_farm>Rye Fields</hint> on the fertile soil.
-$ Wait for the peasants to harvest in 3 days."
+$ Bangun 2 <hint=hint_bld_farm>Ladang Rye</hint> di tanah subur.
+$ Tunggu petani panen dalam 3 hari."
 hint_advisor_onboard_3,"[hint_advisor_caption]
-The collected <hint=hint_resource_rye>Rye</hint> needs to be ground to obtain <hint=hint_resource_food>Flour</hint>.
+<hint=hint_resource_rye>Rye</hint> yang dikumpulkan perlu digiling untuk mendapatkan <hint=hint_resource_food>Tepung</hint>.
 
-$ Build a <hint=hint_bld_mill>Mill</hint> and assign a manager to it.
-$ Create a <b>Do until 50</b> Flour task in the <hint=hint_finance_menu>Economy menu</hint> to maintain a constant level in the warehouse.
+$ Bangun <hint=hint_bld_mill>Penggilingan</hint> dan tunjuk manajer untuk itu.
+$ Buat tugas <b>Hingga 50</b> Tepung di <hint=hint_finance_menu>Menu Ekonomi</hint> untuk menjaga level konstan di gudang.
 
-<b>Hint:</b> The Economy menu can be accessed via the gear icon at the bottom of the screen."
+<b>Petunjuk:</b> Menu Ekonomi bisa diakses melalui ikon roda gigi di bagian bawah layar."
 hint_advisor_onboard_4,"[hint_advisor_caption]
-Nobody likes <hint=hint_resource_moonshine>Moonshine</hint>, especially warriors and lords. 
+Tidak ada yang suka <hint=hint_resource_moonshine>Moonshine</hint>, terutama prajurit dan para penguasa. 
 
-Provide your people with good-quality <hint=hint_resource_beer>Beer</hint> instead, which can also be sold profitably.
+Sediakan <hint=hint_resource_beer>Bir</hint> berkualitas baik bagi rakyat Anda sebagai gantinya, yang juga bisa dijual secara menguntungkan.
 
-Beer is made from <hint=hint_resource_rye>Rye</hint> and <hint=hint_resource_hop>Hops</hint>, so you need to grow and harvest Hops first.
+Bir dibuat dari <hint=hint_resource_rye>Rye</hint> dan <hint=hint_resource_hop>Hop</hint>, jadi Anda perlu menanam dan memanen Hop terlebih dahulu.
 
-$ Build a <hint=hint_bld_hop>Hop Field</hint> on fertile land in the lower left.
-$ Wait for the peasants to harvest in 3 days."
+$ Bangun <hint=hint_bld_hop>Ladang Hop</hint> di tanah subur di bagian kiri bawah.
+$ Tunggu petani panen dalam 3 hari."
 hint_advisor_onboard_5,"[hint_advisor_caption]
-Establish the production of <hint=hint_resource_beer>Beer</hint> and expand the <hint=hint_bld_brewery>Brewery</hint>.
+Bangun produksi <hint=hint_resource_beer>Bir</hint> dan perluas <hint=hint_bld_brewery>Pabrik Bir</hint>.
 
-$ Create a <b>Do until 50</b> order to produce Beer in the <hint=hint_finance_menu>Economy menu</hint>
-$ Upgrade the Brewery to level 3.
+$ Buat perintah <b>Lakukan hingga 50</b> untuk memproduksi Bir di <hint=hint_finance_menu>Menu Ekonomi</hint>
+$ Tingkatkan Pabrik Bir ke level 3.
 
-<b>Hint:</b> The Economy menu can be accessed via the gear icon at the bottom of the screen."
+<b>Petunjuk:</b> Menu Ekonomi dapat diakses melalui ikon roda gigi di bagian bawah layar."
 hint_advisor_onboard_6,"[hint_advisor_caption]
-<hint=hint_resource_iron>Iron</hint> is gradually running out in the warehouses. The problem with its extraction needs to be addressed.
+<hint=hint_resource_iron>Besi</hint> secara bertahap habis di gudang. Masalah dengan ekstraksinya perlu diatasi.
 
-$ Study the Iron Mine knowledge in the <hint=hint_knowledge_menu>Knowledge menu</hint>.
-$ Build a Mine on the deposit to the right."
+$ Pelajari pengetahuan Tambang Besi di <hint=hint_knowledge_menu>Menu Pengetahuan</hint>.
+$ Bangun Tambang di deposit di sebelah kanan."
 hint_advisor_onboard_7,"[hint_advisor_caption]
-Unfortunately, the supplies of <hint=hint_resource_iron>Iron</hint> are not infinite, and each new level of the mine for expansion becomes increasingly expensive. It therefore makes sense to secure an external supply of this valuable resource.
+Sayangnya, pasokan <hint=hint_resource_iron>Besi</hint> tidak tak terbatas, dan setiap level baru tambang untuk ekspansi menjadi semakin mahal. Oleh karena itu, masuk akal untuk mengamankan pasokan eksternal dari sumber daya berharga ini.
 
-Find a city on the world map that sells Iron and conclude a supply contract with it.  
+Temukan kota di peta dunia yang menjual Besi dan buat kontrak pasokan dengannya.  
 
-<b>Hint:</b> A trade contract can only be concluded with a king whose relations with your ruler is above 0. If their relations is lower, use joint hunting or political methods, such as <b>Envoy Visit</b> or <b>Offering to the King</b>, to improve relations."
+<b>Petunjuk:</b> Kontrak perdagangan hanya dapat dibuat dengan raja yang hubungannya dengan penguasa Anda di atas 0. Jika hubungannya lebih rendah, gunakan berburu bersama atau metode politik, seperti <b>Kunjungan Utusan</b> atau <b>Persembahan kepada Raja</b>, untuk meningkatkan hubungan."
 hint_advisor_onboard_8,"[hint_advisor_caption]
-For the church to recognize your town, it must have more people living in it than in a small village.
+Agar gereja mengakui kota Anda, kota tersebut harus memiliki lebih banyak penduduk daripada desa kecil.
 
-Reach a population of <b>40 people</b> so that the Matriarch will recognize your town and send a <hint=hint_bishop>Bishop</hint> to live in it.
+Capai populasi <b>40 orang</b> agar Matriark mengakui kota Anda dan mengirim <hint=hint_bishop>Uskup</hint> untuk tinggal di dalamnya.
 
-$ Provide people with <hint=hint_bld_hostel>housing</hint>, <hint=hint_resource_food>Flour</hint>, and <hint=hint_resource_beer>Beer</hint> to support <hint=hint_migration>migration</hint>."
+$ Sediakan orang-orang dengan <hint=hint_bld_hostel>perumahan</hint>, <hint=hint_resource_food>Tepung</hint>, dan <hint=hint_resource_beer>Bir</hint> untuk mendukung <hint=hint_migration>migrasi</hint>."
 hint_advisor_onboard_9,"[hint_advisor_caption]
-Now that your city has grown stronger, it's time to think about expansion.
+Sekarang kota Anda telah menjadi lebih kuat, saatnya memikirkan ekspansi.
 
-Create your own <hint=hint_tutorial_states>State</hint>—either an alliance of cities or a vassal kingdom. To make this happen, you will need an army no weaker than those of your neighbors.
+Buat <hint=hint_tutorial_states>Negara</hint> Anda sendiri—baik aliansi kota atau kerajaan vassal. Untuk mewujudkannya, Anda akan membutuhkan pasukan yang tidak lebih lemah dari tetangga Anda.
 
-$ Hire warriors in the <b>Army</b> menu (bottom of the screen) and train them at the <hint=hint_bld_training_ground>Training Ground</hint>.
-$ Buy or produce weapons and armor for them.
-$ On the global map, select a city of one of your neighbors. The options for annexing it can be found in the Politics menu.
-$ Annex one of your neighbors as a vassal or as a member of your city alliance.
+$ Rekrut prajurit di menu <b>Pasukan</b> (bagian bawah layar) dan latih mereka di <hint=hint_bld_training_ground>Lapangan Latihan</hint>.
+$ Beli atau produksi senjata dan zirah untuk mereka.
+$ Di peta global, pilih kota salah satu tetangga Anda. Opsi untuk menganeksasinya dapat ditemukan di menu Politik.
+$ Aneksasi salah satu tetangga sebagai vassal atau sebagai anggota aliansi kota Anda.
 
-<b>Hint:</b> There are only a few provinces on the world map that sell <hint=hint_resource_iron>Iron</hint>. "
+<b>Petunjuk:</b> Hanya ada beberapa provinsi di peta dunia yang menjual <hint=hint_resource_iron>Besi</hint>. "
 hint_advisor_clerks,"[hint_advisor_caption]
-The <hint=hint_bld_chancellery>Chancellery</hint> is operational, but its clerks are not assigned to any production.
+<hint=hint_bld_chancellery>Kanselari</hint> sudah beroperasi, tetapi para petugasnya belum ditugaskan ke produksi apa pun.
 
-$ Select buildings and assign a clerk from the Chancellery as a manager.
+$ Pilih bangunan dan tugaskan petugas dari Kanselari sebagai manajer.
 
-<b>Hint:</b> Zoom out maximally to see all building assignments."
+<b>Petunjuk:</b> Zoom out secara maksimal untuk melihat semua tugas bangunan."
 hint_advisor_no_paper,"[hint_advisor_caption]
-The <hint=hint_bld_chancellery>Chancellery</hint> is operational, but the <hint=hint_resource_paper>Paper</hint> supply has run out.
+<hint=hint_bld_chancellery>Kanselari</hint> sudah beroperasi, tetapi pasokan <hint=hint_resource_paper>Kertas</hint> telah habis.
 
-Since each clerk's inspection costs one sheet of paper, the Chancellery's work halts when Paper runs out.
+Karena inspeksi setiap petugas memerlukan satu lembar kertas, pekerjaan Kanselari terhenti ketika Kertas habis.
 
-<b>Hint:</b> You can see how much Paper is consumed daily in the <hint=hint_statistic_menu>Statistics menu</hint>."
+<b>Petunjuk:</b> Anda dapat melihat berapa banyak Kertas yang dikonsumsi setiap hari di <hint=hint_statistic_menu>Menu Statistik</hint>."
 hint_advisor_wolves,"[hint_advisor_caption]
-Although <hint=hint_fleshwolf>fleshwolves</hint> tend to stay close to the trees, they sometimes attack workers, especially woodcutters and herbalists.
+Meskipun <hint=hint_fleshwolf>Fleshwolf</hint> cenderung tetap dekat dengan pohon-pohon, mereka terkadang menyerang pekerja, terutama penebang kayu dan ahli rempah.
 
-$ Set up <hint=hint_bld_patrol_sign_day>daytime patrols</hint> in work areas. Warriors will attack fleshwolves as soon as they see them. But remember: fleshwolves are quite strong opponents.
-$ You can send lords on a hunt, but you can also gather a squad of warriors (Army menu) and attack the fleshwolves via right-click."
+$ Pasang <hint=hint_bld_patrol_sign_day>patroli siang</hint> di area kerja. Prajurit akan menyerang Fleshwolf segera setelah melihat mereka. Tapi ingat: Fleshwolf adalah lawan yang cukup kuat.
+$ Anda dapat mengirim para penguasa untuk berburu, tapi Anda juga dapat mengumpulkan regu prajurit (menu Pasukan) dan menyerang Fleshwolf melalui klik kanan."
 hint_advisor_onboard_4_1,"[hint_advisor_caption]
-The larger your settlement, the greater the need for lords. To alleviate this need, you can hire a <hint=hint_tutorial_free_lord>free lord</hint> to help delegate some tasks.
+Semakin besar pemukiman Anda, semakin besar kebutuhan akan para penguasa. Untuk meringankan kebutuhan ini, Anda dapat merekrut <hint=hint_tutorial_free_lord>penguasa bebas</hint> untuk membantu mendelegasikan beberapa tugas.
 
-Free lords are hired for 10 days, after which they will leave the settlement.
+Penguasa bebas direkrut selama 10 hari, setelah itu mereka akan meninggalkan pemukiman.
 
-$ Wait for the free lord to arrive at the settlement with the Holy Caravan.
-$ Select their portrait at the top right (next to the caravan master's portrait) and hire them."
+$ Tunggu penguasa bebas tiba di pemukiman dengan Karavan Suci.
+$ Pilih potret mereka di kanan atas (di sebelah potret ketua karavan) dan rekrut mereka."
 hint_advisor_onboard_6_1,"[hint_advisor_caption]
-<hint=hint_resource_instruments>Tools</hint> are needed for upgrading buildings and producing complex items such as weapons and <hint=hint_resource_paper>Paper</hint>.
+<hint=hint_resource_instruments>Alat</hint> diperlukan untuk meningkatkan bangunan dan memproduksi barang kompleks seperti senjata dan <hint=hint_resource_paper>Kertas</hint>.
 
-However, their production requires smelting <hint=hint_resource_iron>Iron</hint>, which in turn requires <hint=hint_resource_coal>Coal</hint>.
+Namun, produksinya memerlukan peleburan <hint=hint_resource_iron>Besi</hint>, yang pada gilirannya memerlukan <hint=hint_resource_coal>Batu Bara</hint>.
 
-$ Buy a book on the <hint=hint_bld_coal_furnace>Coal Furnace</hint>, study it, and build this facility.
-$ Buy a book on the <hint=hint_bld_workshop>Workshop</hint>, study it, and build this facility.
-$ Create a task to <b>Do until 10</b> for the production of coal and tools."
+$ Beli buku tentang <hint=hint_bld_coal_furnace>Tungku Batu Bara</hint>, pelajari, dan bangun fasilitas ini.
+$ Beli buku tentang <hint=hint_bld_workshop>Bengkel</hint>, pelajari, dan bangun fasilitas ini.
+$ Buat tugas untuk <b>Lakukan hingga 10</b> untuk produksi batu bara dan alat."
 hint_advisor_emperor_coronation,"[hint_advisor_caption]
-Your state has become the dominant force in the world, and you can <hint=hint_tutorial_emperor>crown</hint> yourself as emperor to win the game.
+Negara Anda telah menjadi kekuatan dominan di dunia, dan Anda bisa <hint=hint_tutorial_emperor>mahkota</hint> diri sendiri sebagai kaisar untuk memenangkan permainan.
 
-To do this, select the Coronation of the Emperor in your ruler's menu. Within a few days, you can expect a squad of <hint=hint_inqusitors>Inquisitors</hint> to attempt to burn your province to the ground.
+Untuk melakukan ini, pilih Penobatan Kaisar di menu penguasa Anda. Dalam beberapa hari, Anda bisa mengharapkan sekelompok <hint=hint_inqusitors>Inkuisitor</hint> mencoba membakar provinsi Anda hingga rata dengan tanah.
 
-This is the final challenge in the game, after which there is no return - you will either defeat the punitive squad of Inquisitors and win the game, or you will lose. In any case, the game will end."
+Ini adalah tantangan terakhir dalam permainan, setelah itu tidak ada jalan kembali - Anda akan mengalahkan regu hukuman Inkuisitor dan memenangkan permainan, atau Anda akan kalah. Bagaimanapun juga, permainan akan berakhir."
 hint_advisor_desire_to_kill,"[hint_advisor_caption]
 [hint_display_event_lord_want_to_kill_someone]
 
 {haters_pair}"
 adv_tutorial_2.intro_title,"~
-Welcome to the Norland!"
+Selamat datang di Norland!"
 adv_tutorial_2.intro,"~
-You are in charge of helping a noble family of lords who own a province in Norland achieve prosperity, security, and personal ambitions. 
+Anda bertanggung jawab untuk membantu keluarga bangsawan para penguasa yang memiliki sebuah provinsi di Norland mencapai kemakmuran, keamanan, dan ambisi pribadi. 
 
-Your lords obey your commands, but they also have their own will. 
+Para penguasa Anda mematuhi perintah Anda, tetapi mereka juga memiliki kehendak sendiri. 
 
-Your history is just beginning..."
-adv_tutorial_2.obj_camera_control,"Camera controls
+Sejarah Anda baru saja dimulai..."
+adv_tutorial_2.obj_camera_control,"Kontrol Kamera
 
-Let's take a look around.
+Mari kita lihat sekeliling.
 
-$ Use the {input.action.camera_up} {input.action.camera_left} {input.action.camera_down} {input.action.camera_right} keys, or held down the {input.action.camera_move} to move the camera.
+$ Gunakan tombol {input.action.camera_up} {input.action.camera_left} {input.action.camera_down} {input.action.camera_right}, atau tahan {input.action.camera_move} untuk memindahkan kamera.
 
-Give it a try!"
-adv_tutorial_2.obj_camera_control_zoom,"Great!
+Cobalah!"
+adv_tutorial_2.obj_camera_control_zoom,"Bagus!
 
-Zoom in and out using {input.action.zoom_in} and {input.action.zoom_out}."
-adv_tutorial_2.obj_pause_control,"Pause
+Perbesar dan perkecil menggunakan {input.action.zoom_in} dan {input.action.zoom_out}."
+adv_tutorial_2.obj_pause_control,"Jeda
 
-When you need to stop and think, pause the game by pressing the {input.action.speed_pause} key or the button in the bottom right corner."
-adv_tutorial_2.obj_time_control,"Speed up time
+Ketika Anda perlu berhenti dan berpikir, jeda permainan dengan menekan tombol {input.action.speed_pause} atau tombol di sudut kanan bawah."
+adv_tutorial_2.obj_time_control,"Percepat waktu
 
-Sometimes it makes sense to accelerate the passage of time - for example, at night when everyone is sleeping.
+Kadang-kadang masuk akal untuk mempercepat alur waktu - misalnya, di malam hari ketika semua orang sedang tidur.
 
-Try different game speeds using the {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} keys or the time control buttons."
-adv_tutorial_2.obj_king_needs_1,"Character needs
+Coba berbagai kecepatan permainan menggunakan tombol {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} atau tombol kontrol waktu."
+adv_tutorial_2.obj_king_needs_1,"Kebutuhan Karakter
 
-While you can only directly give orders to your lords, all characters in Norland have thoughts and needs. If these needs are not met, characters will become unhappy and start causing problems.
+Meskipun Anda hanya bisa memberikan perintah langsung kepada para penguasa Anda, semua karakter di Norland memiliki pikiran dan kebutuhan. Jika kebutuhan ini tidak terpenuhi, karakter akan menjadi tidak bahagia dan mulai menimbulkan masalah.
 
-1. Select a lord by clicking on their portrait.
-2. Click on the <b>Mood</b> tab in the <b>Character menu</b> to see their <b>thoughts and needs</b>."
-adv_tutorial_2.obj_king_needs_2,"Food and alcohol
+1. Pilih seorang penguasa dengan mengklik potret mereka.
+2. Klik tab <b>Suasana Hati</b> di <b>Menu Karakter</b> untuk melihat <b>pikiran dan kebutuhan</b> mereka."
+adv_tutorial_2.obj_king_needs_2,"Makanan dan alkohol
 
-The most basic of needs are <b>food and rest</b>, which are replenished by consuming food and alcohol.
+Kebutuhan paling dasar adalah <b>makanan dan istirahat</b>, yang diisi ulang dengan mengonsumsi makanan dan alkohol.
 
-You have a stock of provisions for the time being, but it's necessary to ensure reliable food and alcohol production so your characters don't go hungry.
+Anda memiliki stok persediaan untuk sementara waktu, tetapi perlu memastikan produksi makanan dan alkohol yang andal agar karakter Anda tidak kelaparan.
 
-To do this, let's learn how to construct and manage buildings, starting with managing builders."
-adv_tutorial_2.obj_instructions,"Building management
+Untuk melakukan ini, mari kita pelajari cara membangun dan mengelola bangunan, dimulai dengan mengelola tukang bangunan."
+adv_tutorial_2.obj_instructions,"Manajemen Bangunan
 
-In Norland, you only control the noble family, so you need to assign a manager to oversee the workers in the buildings.
+Di Norland, Anda hanya mengendalikan keluarga bangsawan, sehingga Anda perlu menugaskan seorang manajer untuk mengawasi pekerja di bangunan-bangunan.
 
-The instructions given by the managing lord are sufficient for three days, and on average, one lord can manage 7-10 buildings.
+Instruksi yang diberikan oleh tuan pengelola cukup untuk tiga hari, dan rata-rata, satu tuan dapat mengelola 7-10 bangunan.
 {split}
-Let's appoint a manager to the Hall, where your builders are assigned.
+Mari kita tunjuk seorang manajer untuk Aula, di mana tukang bangunan Anda ditempatkan.
 
-1. Select the Hall.
-2. Click the ""Management"" button in the menu that appears <b>in the bottom left corner</b>.
-3. Choose a lord for the manager role.
-4. <b>Wait</b> for the lord to distribute instructions to the workers."
-adv_tutorial_2.obj_build_sawmill,"Building construction
+1. Pilih Aula.
+2. Klik tombol ""Manajemen"" di menu yang muncul <b>di sudut kiri bawah</b>.
+3. Pilih seorang tuan untuk peran manajer.
+4. <b>Tunggu</b> hingga tuan mendistribusikan instruksi kepada pekerja."
+adv_tutorial_2.obj_build_sawmill,"Pembangunan Bangunan
 
-Great, the workers are now aware of your plans and ready to start building.
+Bagus, pekerja sekarang mengetahui rencana Anda dan siap untuk memulai pembangunan.
 
-<b>Wood</b> is the primary resource used in construction, so our first priority is to build a <b>Lumbermill</b>.
+<b>Kayu</b> adalah sumber daya utama yang digunakan dalam konstruksi, sehingga prioritas pertama kami adalah membangun <b>Penggergajian Kayu</b>.
 
-1. Click on the Construction menu.
-2. Select the ""Resources"" heading.
-3. Select the <b>Lumbermill</b> and place it in the designated area."
-adv_tutorial_2.obj_build_field,"Wonderful!
+1. Klik menu Pembangunan.
+2. Pilih heading ""Sumber Daya"".
+3. Pilih <b>Penggergajian Kayu</b> dan letakkan di area yang ditentukan."
+adv_tutorial_2.obj_build_field,"Indah!
 
-Now let's build a <b>Rutabaga Field</b> to ensure everyone has food.
+Sekarang mari kita bangun <b>Ladang Rutabaga</b> untuk memastikan semua orang memiliki makanan.
 
-Fields are best placed on specially <b>fertile soil areas</b>.
+Ladang paling baik ditempatkan di area tanah <b>subur khusus</b>.
 
-1. Click the {input.key.mb_right} to go back one step in the Construction menu.
-2. Select <b>Rutabaga Field</b>.
-3. After choosing the construction site, exit the construction mode using the {input.key.mb_right} .
-4. <b>Wait</b> for the construction of the buildings to be completed.
+1. Klik {input.key.mb_right} untuk mundur satu langkah di menu Pembangunan.
+2. Pilih <b>Ladang Rutabaga</b>.
+3. Setelah memilih lokasi konstruksi, keluar dari mode konstruksi menggunakan {input.key.mb_right} .
+4. <b>Tunggu</b> hingga pembangunan bangunan selesai.
 
-$ You can speed up the time using the keys {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} or the buttons in the <b>bottom right corner of the screen</b>."
-adv_tutorial_2.obj_managment,"Assign managers
+$ Anda dapat mempercepat waktu menggunakan tombol {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} atau tombol di <b>sudut kanan bawah layar</b>."
+adv_tutorial_2.obj_managment,"Tugaskan Manajer
 
-Since the employees need instructions, don't forget to assign managers to the new buildings! 
+Karena karyawan membutuhkan instruksi, jangan lupa untuk menugaskan manajer ke bangunan baru! 
 
-Note that the higher the lord's Management skill, the more additional product the building will produce under their management.
+Perhatikan bahwa semakin tinggi keterampilan Manajemen tuan, semakin banyak produk tambahan yang akan dihasilkan bangunan di bawah pengelolaannya.
 {split}
-1. Select <b>Lumbermill</b> and assign a manager to it through the building menu in the bottom left corner.
-2. Select <b>Rutabaga Field</b> and also assign a manager to it.
-3. <b>Wait</b> for the instructions to be explained to the workers.
+1. Pilih <b>Penggergajian Kayu</b> dan tugaskan manajer kepadanya melalui menu bangunan di sudut kiri bawah.
+2. Pilih <b>Ladang Rutabaga</b> dan juga tugaskan manajer kepadanya.
+3. <b>Tunggu</b> hingga instruksi dijelaskan kepada pekerja.
 
-$ You can quickly assign managers by clicking {input.key.mb_right} on a building."
-adv_tutorial_2.obj_moonshine_production,"Alcohol
+$ Anda dapat dengan cepat menugaskan manajer dengan mengklik {input.key.mb_right} pada bangunan."
+adv_tutorial_2.obj_moonshine_production,"Alkohol
 
-Great, we have food production sorted out. Now it's time for alcohol, that helps lift everyone's mood after a hard day's work.
+Bagus, produksi makanan sudah diatur. Sekarang saatnya untuk alkohol, yang membantu meningkatkan suasana hati semua orang setelah hari kerja yang keras.
 
-We already have a built a <b>Brewery</b> for alcohol production, so let's create an order for the production of the cheapest type of alcohol, <b>Moonshine</b>, which is made from <b>Rutabaga</b>.
+Kami sudah membangun <b>Pabrik Bir</b> untuk produksi alkohol, jadi mari kita buat pesanan untuk produksi jenis alkohol termurah, <b>Moonshine</b>, yang dibuat dari <b>Rutabaga</b>.
 
-$ Open the <b>Production</b> menu."
-adv_tutorial_2.obj_moonshine_production_2,"Task creation
+$ Buka menu <b>Produksi</b>."
+adv_tutorial_2.obj_moonshine_production_2,"Pembuatan Tugas
 
-You can place a one-time order (<b>Make X</b>) or request ongoing support to maintain a desired level (<b>Do Until X</b>).
+Anda dapat menempatkan pesanan satu kali (<b>Buat X</b>) atau meminta dukungan berkelanjutan untuk mempertahankan level yang diinginkan (<b>Lakukan Sampai X</b>).
 
-Let's order the support for maintaining a quantity of {moonshine_goal} units of <b>Moonshine</b>. Your stocks will be checked against this each day to decide whether the building will operate.
+Mari kita pesan dukungan untuk mempertahankan jumlah {moonshine_goal} unit <b>Moonshine</b>. Stok Anda akan diperiksa terhadap ini setiap hari untuk memutuskan apakah bangunan akan beroperasi.
 
-1. Click on <b>Do Until X</b> on the ""Moonshine"" card.
-2. Specify how much Moonshine you want to have in the warehouse."
-adv_tutorial_2.close_production,"Done!
+1. Klik <b>Lakukan Sampai X</b> pada kartu ""Moonshine"".
+2. Tentukan berapa banyak Moonshine yang Anda inginkan di gudang."
+adv_tutorial_2.close_production,"Selesai!
 
-Now it's necessary to appoint a manager in the <b>Brewery</b>, and the peasants will take <b>Rutabaga</b> from the warehouse by themselves, and at the end of the working day, they will bring the produced <b>Moonshine</b> to the warehouse.
+Sekarang perlu menunjuk manajer di <b>Pabrik Bir</b>, dan petani akan mengambil <b>Rutabaga</b> dari gudang sendiri, dan di akhir hari kerja, mereka akan membawa <b>Moonshine</b> yang diproduksi ke gudang.
 
-Please note that you already have {moonshine_now} units of Moonshine, so to complete the task of producing {moonshine_goal} units of Moonshine, you will need an additional {rutabage_need} units of Rutabaga, as one unit of Rutabaga produces one unit of Moonshine.
+Perhatikan bahwa Anda sudah memiliki {moonshine_now} unit Moonshine, jadi untuk menyelesaikan tugas memproduksi {moonshine_goal} unit Moonshine, Anda akan membutuhkan tambahan {rutabage_need} unit Rutabaga, karena satu unit Rutabaga menghasilkan satu unit Moonshine.
 {split}
-1. Close the Production menu.
-2. Appoint a manager at the <b>Brewery</b> to start production."
-adv_tutorial_2.obj_open_finances,"Prices and Wages
+1. Tutup menu Produksi.
+2. Tunjuk manajer di <b>Pabrik Bir</b> untuk memulai produksi."
+adv_tutorial_2.obj_open_finances,"Harga dan Upah
 
-Once the workers receive instructions, they will begin their duties.
+Setelah pekerja menerima instruksi, mereka akan memulai tugas mereka.
 
-During the day, they work, and in the evening, they tend to their own needs - receiving a <b>wage</b>, which they use to buy food and alcohol from your <b>Markets</b> and <b>Taverns</b>.
+Selama siang hari, mereka bekerja, dan di malam hari, mereka memenuhi kebutuhan mereka sendiri - menerima <b>upah</b>, yang mereka gunakan untuk membeli makanan dan alkohol dari <b>Pasar</b> dan <b>Kedai</b> Anda.
 {split}
-$ Ideally, <b>each</b> character will consume <b>one</b> unit of food and <b>one</b> unit of alcohol per day.
-$ Characters will try to purchase higher-quality goods whenever possible.
-$ Lords receive food and alcohol for free, delivered to the <b>Hall</b> by the servants who take it from the warehouse.
+$ Idealnya, <b>setiap</b> karakter akan mengonsumsi <b>satu</b> unit makanan dan <b>satu</b> unit alkohol per hari.
+$ Karakter akan mencoba membeli barang berkualitas lebih tinggi kapan pun memungkinkan.
+$ Para tuan menerima makanan dan alkohol secara gratis, dikirim ke <b>Aula</b> oleh pelayan yang mengambilnya dari gudang.
 
-$ Open the Finance menu."
-adv_tutorial_2.obj_correct_beer,"Finance Menu
+$ Buka menu Keuangan."
+adv_tutorial_2.obj_correct_beer,"Menu Keuangan
 
-On the right, under the ""Daily Expenses"" heading, you can see the <b>daily wages</b>. On the left, you can set the prices and quantity of each resource that can be sold to the peasants every evening."
-adv_tutorial_2.obj_correct_beer_2,"Finance menu
+Di sebelah kanan, di bawah heading ""Pengeluaran Harian"", Anda dapat melihat <b>upah harian</b>. Di sebelah kiri, Anda dapat mengatur harga dan kuantitas setiap sumber daya yang dapat dijual kepada petani setiap malam."
+adv_tutorial_2.obj_correct_beer_2,"Menu Keuangan
 
-1. Let's reduce the price of Moonshine to 4 gold coins so that workers can buy it every day with their wages. This will make them <b>happier.</b>
-2. Close the Finance menu."
-adv_tutorial_2.obj_peasant_hint_hover,"Peasants' mood
+1. Mari kita turunkan harga Moonshine menjadi 4 koin emas sehingga pekerja dapat membelinya setiap hari dengan upah mereka. Ini akan membuat mereka <b>lebih bahagia.</b>
+2. Tutup menu Keuangan."
+adv_tutorial_2.obj_peasant_hint_hover,"Suasana Hati Petani
 
-By meeting the needs of the peasants, you increase their <b>average mood</b> for the day, which affects <b>migration</b>. A high average mood will attract new workers to your city. Conversely, unhappy peasants will leave the city and become criminals.
+Dengan memenuhi kebutuhan para petani, Anda meningkatkan <b>rata-rata suasana hati</b> mereka untuk hari itu, yang memengaruhi <b>migrasi</b>. Rata-rata suasana hati yang tinggi akan menarik pekerja baru ke kota Anda. Sebaliknya, petani yang tidak bahagia akan meninggalkan kota dan menjadi penjahat.
 
-Let's find out what concerns them the most.
+Mari kita cari tahu apa yang paling mengkhawatirkan mereka.
 
-$ Hover your mouse over the peasants' icon in the top left corner."
-adv_tutorial_2.obj_peasant_hint_hover_1,"Books and knowledge 
+$ Arahkan mouse Anda ke ikon petani di sudut kiri atas."
+adv_tutorial_2.obj_peasant_hint_hover_1,"Buku dan pengetahuan 
 
-At the bottom, the strongest negative thoughts of the peasants are written, along with the number of characters that share them.
+Di bagian bawah, pikiran negatif terkuat para petani ditulis, beserta jumlah karakter yang membagikannya.
 
-We can see here that they are displeased by the flavorless <b>Rutabaga</b> and the unappetizing <b>Moonshine</b>. 
+Kita bisa melihat di sini bahwa mereka tidak senang dengan <b>Rutabaga</b> yang hambar dan <b>Moonshine</b> yang tidak menggugah selera. 
 
-We can resolve this by producing higher-quality products, but we can't do that without specialized knowledge contained in books. But where can we get them? 
+Kita bisa menyelesaikan ini dengan memproduksi produk berkualitas lebih tinggi, tapi kita tidak bisa melakukannya tanpa pengetahuan khusus yang terkandung dalam buku. Tapi dari mana kita bisa mendapatkannya? 
 
-Ah, here comes the <b>Holy Caravan</b> to the rescue! They will sell us books and give us much-needed <b>gold<b> for our other resources."
-adv_tutorial_2.caravan,"Holy Caravan
+Ah, <b>Karavan Suci</b> datang untuk menyelamatkan! Mereka akan menjual buku kepada kita dan memberikan <b>Emas</b> yang sangat dibutuhkan untuk sumber daya lain kita."
+adv_tutorial_2.caravan,"Karavan Suci
 
-Gold circulates through the economy of Norland in three ways: the pockets of peasant migrants, trade with neighbors, and the Holy Caravan.
+Emas beredar melalui ekonomi Norland dengan tiga cara: kantong para migran petani, perdagangan dengan tetangga, dan Karavan Suci.
 
-The Holy Caravan arrives in the evening every 1-3 days and is the main source of <b>Gold</b>, <b>Holy Rings</b> (a luxury appreciated by lords that serves as the currency of their class), <b>books</b>, and <b>prisoners</b>. 
+Karavan Suci tiba di malam hari setiap 1-3 hari dan merupakan sumber utama <b>Emas</b>, <b>Cincin Suci</b> (barang mewah yang dihargai oleh para penguasa yang berfungsi sebagai mata uang kelas mereka), <b>buku</b>, dan <b>Narapidana</b>. 
 {split}
-1. Wait until the Caravan arrives at its destination.
-2. Click on the Caravan leader and select a lord to trade with him.
+1. Tunggu hingga Karavan tiba di tujuannya.
+2. Klik pada pemimpin Karavan dan pilih seorang penguasa untuk berdagang dengannya.
 
-<b>Note</b> that the higher the lord's Trade skill, the more profitable the trade will be. The Caravan leaves the city at midnight, so ensure you complete all your business before then!
+<b>Catatan</b> bahwa semakin tinggi keterampilan Perdagangan penguasa, semakin menguntungkan perdagangan itu. Karavan meninggalkan kota pada tengah malam, jadi pastikan Anda menyelesaikan semua urusan sebelum itu!
 
-$ You can speed up the time using the keys {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} or the buttons in the <b>bottom right corner of the screen</b>."
-adv_tutorial_2.buy_goods,"Buy goods
+$ Anda bisa mempercepat waktu menggunakan tombol {input.action.speed_one} - {input.action.speed_two} - {input.action.speed_three} atau tombol di <b>sudut kanan bawah layar</b>."
+adv_tutorial_2.buy_goods,"Beli barang
 
-The Church supports the natural balance of supply and demand, so if you start selling too much of one product, the sale price will decrease. But for now, we shouldn't let this worry us.
+Pihak Gereja mendukung keseimbangan alami penawaran dan permintaan, jadi jika Anda mulai menjual terlalu banyak satu produk, harga jual akan menurun. Tapi untuk sekarang, kita tidak perlu khawatir tentang ini.
 
-1. Sell 30 units of the Moonshine you produced.
-2. Buy the book ""Hop Field and Beer.""
-3. Close the trade menu.
+1. Jual 30 unit Moonshine yang Anda produksi.
+2. Beli buku ""Ladang Hop dan Bir.""
+3. Tutup menu perdagangan.
 
-$ You can move more items at once by holding down the {input.action.gui_add_more} key."
-adv_tutorial_2.open_knowledge,"Books
+$ Anda bisa memindahkan lebih banyak item sekaligus dengan menahan tombol {input.action.gui_add_more}."
+adv_tutorial_2.open_knowledge,"Buku
 
-Now that we have a book on how to grow Hops and produce Beer, you can study it in the Library through the Knowledge menu.
+Sekarang kita punya buku tentang cara menanam Hop dan memproduksi Bir, Anda bisa mempelajarinya di Perpustakaan melalui menu Pengetahuan.
 {split}
-Books can be written in different languages, but most are written in the Imperial language.
+Buku bisa ditulis dalam berbagai bahasa, tapi kebanyakan ditulis dalam bahasa Imperial.
 
-1. Open the <b>Knowledge</b> menu.
-2. Assign a lord to study Brewing."
-adv_tutorial_2.close_knowledge,"Knowledge
+1. Buka menu <b>Pengetahuan</b>.
+2. Tetapkan seorang penguasa untuk mempelajari Pembuatan Bir."
+adv_tutorial_2.close_knowledge,"Pengetahuan
 
-If at least one lord has read a book, the abilities and effects it enables become available to all. However, when that lord dies, all benefits of the knowledge will be lost. 
+Jika setidaknya satu penguasa telah membaca buku, kemampuan dan efek yang diaktifkannya menjadi tersedia untuk semua. Namun, ketika penguasa itu meninggal, semua manfaat pengetahuan akan hilang. 
 
-$ Close the Knowledge menu"
-adv_tutorial_2.open_mood,"Tasks for lords
+$ Tutup menu Pengetahuan"
+adv_tutorial_2.open_mood,"Tugas untuk penguasa
 
-Besides managing buildings, your lords can also carry out other tasks. However, they will refuse to do any tasks if they are unhappy.
+Selain mengelola bangunan, para penguasa Anda juga bisa melakukan tugas lain. Namun, mereka akan menolak melakukan tugas apa pun jika mereka tidak bahagia.
 
-It seems that one of them is already unhappy now - this is indicated by the red background in their portrait.
+Sepertinya salah satu dari mereka sudah tidak bahagia sekarang - ini ditunjukkan oleh latar belakang merah di potret mereka.
 
-Let's see what happened.
+Mari kita lihat apa yang terjadi.
 
-$ Select the unhappy lord by clicking on their portrait at the top or finding the lord on the map."
-adv_tutorial_2.person_main,"Lord's menu
+$ Pilih penguasa yang tidak bahagia dengan mengklik potret mereka di atas atau mencari penguasa di peta."
+adv_tutorial_2.person_main,"Menu Penguasa
 
-In the lord's Character menu, you can see their main status indicators (such as <b>mood</b> and <b>loyalty</b>), inventory, and traits. You can hover over any icon and indicator to learn more details.
+Di menu Karakter penguasa, Anda bisa melihat indikator status utama mereka (seperti <b>suasana hati</b> dan <b>kesetiaan</b>), inventaris, dan sifat. Anda bisa mengarahkan kursor ke ikon dan indikator apa pun untuk mempelajari detail lebih lanjut.
 {split}
-$ If a lord's mood is low, they may become depressed, refuse to carry out orders, and experience quickly decreasing loyalty. 
-$ If loyalty falls below 25, the lord may leave your noble family or start a rebellion.
+$ Jika suasana hati penguasa rendah, mereka mungkin menjadi depresi, menolak menjalankan perintah, dan mengalami penurunan kesetiaan yang cepat. 
+$ Jika kesetiaan jatuh di bawah 25, penguasa mungkin meninggalkan keluarga bangsawan Anda atau memulai pemberontakan.
 
-Now, to find out why the lord is unhappy, let's move to the <b>""Needs""</b> tab."
-adv_tutorial_2.open_desire,"Mood of lords
+Sekarang, untuk mencari tahu mengapa penguasa tidak bahagia, mari kita pindah ke tab <b>""Kebutuhan""</b>."
+adv_tutorial_2.open_desire,"Suasana Hati Penguasa
 
-Here you can see a lord's needs and thoughts, the sum of which determines their mood. If it's below 25, they are unhappy.
+Di sini Anda bisa melihat kebutuhan dan pikiran seorang penguasa, jumlahnya yang menentukan suasana hati mereka. Jika di bawah 25, mereka tidak bahagia.
 
-Thoughts can arise from needs or as a reaction to certain events.
+Pikiran bisa muncul dari kebutuhan atau sebagai reaksi terhadap peristiwa tertentu.
 
-Hover over a thought to learn more details."
-adv_tutorial_2.open_main_tab_peson,"So, an unfulfilled wish is bothering this lord.
+Arahkan kursor ke pikiran untuk mempelajari detail lebih lanjut."
+adv_tutorial_2.open_main_tab_peson,"Jadi, sebuah keinginan yang tidak terpenuhi mengganggu penguasa ini.
 
-Now, let's return to the main tab to fulfill this wish and thereby improve the lord's mood."
-adv_tutorial_2.set_reward,"Desire for Rings
+Sekarang, mari kita kembali ke tab utama untuk memenuhi keinginan ini dan dengan demikian meningkatkan suasana hati penguasa."
+adv_tutorial_2.set_reward,"Keinginan untuk Cincin
 
-If you hover your mouse over the desire icon, you will see that this lord dreams of Holy Rings.
+Jika Anda mengarahkan mouse ke atas ikon keinginan, Anda akan melihat bahwa penguasa ini bermimpi tentang Cincin Suci.
 
-The Rings that appear in the resource list <b>in the upper left corner</b> belong to your king and are in his inventory.
+Cincin yang muncul dalam daftar sumber daya <b>di sudut kiri atas</b> milik raja Anda dan ada dalam inventarisnya.
 {split}
-Let's share the Holy Rings with this lord by rewarding them. In addition to satisfying the current desire, this action will increase the lord's <b>loyalty</b>.
+Mari bagikan Cincin Suci dengan penguasa ini dengan memberi hadiah kepadanya. Selain memuaskan keinginan saat ini, tindakan ini akan meningkatkan <b>kesetiaan</b> penguasa tersebut.
 
-1. Click the ""Action"" button.
-2. Select the ""King"" section.
-3. Select the ""Reward"" action and assign your king to perform the action."
-adv_tutorial_2.force_task,"Great!
+1. Klik tombol ""Aksi"".
+2. Pilih bagian ""Raja"".
+3. Pilih aksi ""Hadiah"" dan tetapkan raja Anda untuk melakukan aksi tersebut."
+adv_tutorial_2.force_task,"Hebat!
 
-Once your king finds the time, he will reward the lord you have chosen.
+Setelah raja Anda menemukan waktu, ia akan memberi hadiah kepada penguasa yang Anda pilih.
 
-However, you can make him complete the task immediately.
+Namun, Anda bisa membuatnya menyelesaikan tugas segera.
 
-1. Click on the king.
-2. Click on the ""Reward"" task in the list of received tasks at the top of the menu.
-3. <b>Wait</b> for the king to reward the unhappy lord.
+1. Klik pada raja.
+2. Klik pada tugas ""Hadiah"" dalam daftar tugas yang diterima di bagian atas menu.
+3. <b>Tunggu</b> hingga raja memberi hadiah kepada penguasa yang tidak bahagia.
 
-<b>Note</b> that you can also cancel these tasks by clicking on the cancel button that appears when you hover over the task."
-adv_tutorial_2.relations_1,"Actions on the map 
+<b>Catatan</b> bahwa Anda juga bisa membatalkan tugas-tugas ini dengan mengklik tombol batal yang muncul saat Anda mengarahkan mouse ke tugas tersebut."
+adv_tutorial_2.relations_1,"Aksi di peta 
 
-The <b>Gold</b> you rewarded the lord with cannot be produced; it can only be acquired through trade.. And since selling large volumes of goods lowers prices with the caravan, sometimes it makes sense to trade with neighbors, where prices remain more stable."
-adv_tutorial_2.relations_2,"Relations with neighbors
+<b>Emas</b> yang Anda berikan sebagai hadiah kepada penguasa tidak bisa diproduksi; itu hanya bisa diperoleh melalui Perdagangan.. Dan karena menjual volume barang besar menurunkan harga dengan karavan, kadang masuk akal untuk berdagang dengan tetangga, di mana harga tetap lebih stabil."
+adv_tutorial_2.relations_2,"Hubungan dengan tetangga
 
-To enter into a trade contract, you must either be in the same state as your neighbor or have good relations with them.
+Untuk membuat kontrak perdagangan, Anda harus berada di negara yang sama dengan tetangga Anda atau memiliki hubungan baik dengan mereka.
 
-There are many ways to establish friendship with a neighboring king - give him a gift, send your lord on a mission, or simply send your king to hunt together with him."
-adv_tutorial_2.relations_3,"Relations with neighbors
+Ada banyak cara untuk membangun persahabatan dengan raja tetangga - berikan hadiah kepadanya, kirim penguasa Anda dalam misi, atau cukup kirim raja Anda untuk berburu bersamanya."
+adv_tutorial_2.relations_3,"Hubungan dengan tetangga
 
-Now let's improve the neighboring king's attitude toward yours so we can then set up a trade deal with them.
+Sekarang mari kita tingkatkan sikap raja tetangga terhadap raja kita sehingga kita bisa membuat kesepakatan perdagangan dengan mereka.
 
-1. Go to the world map and click on the neighboring city to open its menu.
-2. Click the ""Assign"" button, select ""Lords,"" and select the king.
-3. Select ""<b>Fleshwolf hunting</b>"" and choose your king as the hunting partner.
-4. <b>Wait</b> until the kings have hunted together.
+1. Pergi ke peta dunia dan klik pada kota tetangga untuk membuka menunya.
+2. Klik tombol ""Tetapkan"", pilih ""Penguasa,"" dan pilih raja.
+3. Pilih ""<b>Berburu Fleshwolf</b>"" dan pilih raja Anda sebagai mitra berburu.
+4. <b>Tunggu</b> hingga para raja berburu bersama.
 
-<b>Hint:</b> To access the world map, your character must first reach the edge of the local map. <b>Сlick on their portrait</b> at the top to follow them."
-adv_tutorial_2.world_trade_1,"Excellent!
+<b>Petunjuk:</b> Untuk mengakses peta dunia, karakter Anda harus mencapai tepi peta lokal terlebih dahulu. <b>Кlik pada potret mereka</b> di atas untuk mengikuti mereka."
+adv_tutorial_2.world_trade_1,"Luar biasa!
 
-Your kings had a great time together, their relations improved, and now it's the perfect time to talk business.
+Para raja Anda bersenang-senang bersama, hubungan mereka membaik, dan sekarang saat yang tepat untuk membicarakan bisnis.
 
-1. Click on the neighboring city to open its menu.
-2. Click the ""Action"" button, select ""Trade,"" and select ""Buy Moonshine""
-3. Assign your lord to finalize the deal. To set up a profitable deal, send your lord with the highest Trade skill!
+1. Klik pada kota tetangga untuk membuka menunya.
+2. Klik tombol ""Aksi"", pilih ""Perdagangan,"" dan pilih ""Beli Moonshine""
+3. Tetapkan penguasa Anda untuk menyelesaikan kesepakatan. Untuk membuat kesepakatan yang menguntungkan, kirim penguasa dengan keterampilan Perdagangan tertinggi!
 
-$ Wait until the task is completed.
+$ Tunggu hingga tugas selesai.
 
-<b>Hint:</b> Many tasks on the world map can be carried out using messengers, who act directly on behalf of your king. However, they require paper to transmit the message."
-adv_tutorial_2.world_trade_2,"Deal made!
+<b>Petunjuk:</b> Banyak tugas di peta dunia bisa dilakukan menggunakan utusan, yang bertindak langsung atas nama raja Anda. Namun, mereka membutuhkan Kertas untuk menyampaikan pesan."
+adv_tutorial_2.world_trade_2,"Kesepakatan tercapai!
 
-While the deal is active, every morning at 11:00, a button to sell Moonshine will appear in the Trade menu. The price negotiated by your lord will be honored even as prices fluctuate on the main marketplace. 
+Selama kesepakatan aktif, setiap pagi pukul 11:00, tombol untuk menjual Moonshine akan muncul di menu Perdagangan. Harga yang dinegosiasikan oleh penguasa Anda akan dihormati meskipun harga berfluktuasi di pasar utama. 
 
-1. Open the Trade menu.
-2. Sell moonshine at today's offer.
-3. Close the Trade menu."
-adv_tutorial_2.world_trade_3,"The Moonshine will be delivered soon!
+1. Buka menu Perdagangan.
+2. Jual moonshine sesuai penawaran hari ini.
+3. Tutup menu Perdagangan."
+adv_tutorial_2.world_trade_3,"Moonshine akan segera dikirim!
 
-For the trade to take place, an available peasant from your city will be dispatched to the target city. The distance between your kingdoms means this kind of trade is not instantaneous; however, these regular exchanges don't require paper like other actions on the global map do, since your kings already agreed to the deal.
+Untuk perdagangan berlangsung, seorang Petani yang tersedia dari kota Anda akan dikirim ke kota tujuan. Jarak antara kerajaan Anda berarti jenis perdagangan ini tidak instan; namun, pertukaran rutin ini tidak memerlukan Kertas seperti aksi lain di peta global, karena para raja Anda sudah setuju dengan kesepakatan tersebut.
 
-$ Return to the local map by pressing the <b>World</b> button or {input.key.mb_right} anywhere."
-adv_tutorial_2.open_army,"Bandit attack
+$ Kembali ke peta lokal dengan menekan tombol <b>Dunia</b> atau {input.key.mb_right} di mana saja."
+adv_tutorial_2.open_army,"Serangan Perampok
 
-Oh, Holy Sophia! Bandits have stealthily approached our settlement!
+Oh, Santa Sophia! Perampok telah mendekati pemukiman kita secara diam-diam!
 
-We must fight back. Fortunately, we have some time before they launch their attack.
+Kita harus melawan balik. Untungnya, kita punya waktu sebelum mereka melancarkan serangan.
 
-$ Open the <b>Army menu</b>."
-adv_tutorial_2.open_hiring,"The Army menu allows you to create combat squads.
+$ Buka <b>Menu Militer</b>."
+adv_tutorial_2.open_hiring,"Menu Militer memungkinkan Anda membuat regu pertempuran.
 
-But first, you need to hire warriors.
+Tapi pertama, Anda perlu merekrut prajurit.
 
-$ Click the ""Add"" button."
-adv_tutorial_2.hire_warriors,"Hiring warriors
+$ Klik tombol ""Tambah""."
+adv_tutorial_2.hire_warriors,"Merekrut prajurit
 
-We have a few warriors, but we would like to increase our chances.
+Kami memiliki beberapa prajurit, tetapi kami ingin meningkatkan peluang kami.
 
-You can add warriors by freeing <b>prisoners</b>, inviting <b>unfortunate peasants</b>, or hiring <b>mercenaries</b>.
+Anda dapat menambahkan prajurit dengan membebaskan <b>Tahanan</b>, mengundang <b>petani malang</b>, atau merekrut <b>tentara bayaran</b>.
 
-Newly hired peasants and prisoners will be consumed by the fear of death and will run away at the first sign of danger, while <b>mercenaries usually need one to two days</b> to reach your settlement.
+Petani dan tahanan yang baru direkrut akan diliputi ketakutan akan kematian dan akan melarikan diri pada tanda bahaya pertama, sementara <b>tentara bayaran biasanya membutuhkan satu hingga dua hari</b> untuk mencapai pemukiman Anda.
 {split}
-Fortunately, there is a group of mercenaries near the city ready to be hired right now, and there is some weaponry in the warehouse, so let's <b>increase your army</b>.
+Untungnya, ada sekelompok tentara bayaran di dekat kota yang siap direkrut sekarang juga, dan ada beberapa senjata di gudang, jadi mari kita <b>tingkatkan pasukan Anda</b>.
 
-<b>Note</b> that you must pay the Church a daily tax for your warriors, the amount of which depends on their skill.
+<b>Catatan</b> bahwa Anda harus membayar pajak harian kepada Pihak Gereja untuk prajurit Anda, jumlahnya tergantung pada keterampilan mereka.
 
-$ Hire <b>several mercenaries</b>"
-adv_tutorial_2.create_squad,"Creating a squad
+$ Rekrut <b>beberapa tentara bayaran</b>"
+adv_tutorial_2.create_squad,"Membentuk regu
 
-Each squad must be led by a <b>lord</b> or a <b>knight</b> (which can be hired here in the Army menu by clicking the button on the left).
+Setiap regu harus dipimpin oleh seorang <b>penguasa</b> atau seorang <b>ksatria</b> (yang dapat direkrut di sini di menu Pasukan dengan mengklik tombol di sebelah kiri).
 
-The higher the squad commander's <b>Command skill</b>,, the higher the unit's morale will be, and the lower the chances of the soldiers fleeing when taking damage.
+Semakin tinggi <b>Keterampilan Komando</b> komandan regu,, semakin tinggi moral unit tersebut, dan semakin rendah kemungkinan prajurit melarikan diri saat menerima kerusakan.
 {split}
-1. Click on the squad creation button.
-2. Select a commanding lord.
-3. Move all of your warriors to the squad by clicking on them.
-4. Move the second lord into the squad as well.
+1. Klik tombol pembentukan regu.
+2. Pilih penguasa yang memimpin.
+3. Pindahkan semua prajurit Anda ke regu dengan mengklik mereka.
+4. Pindahkan penguasa kedua ke dalam regu juga.
 "
-adv_tutorial_2.hire_wait,"Great!
+adv_tutorial_2.hire_wait,"Bagus!
 
-Now, wait for your new warriors to pick up their weapons from the warehouse.
+Sekarang, tunggu prajurit baru Anda mengambil senjata mereka dari gudang.
 
-Use the {input.action.speed_pause} to start and stop time."
-adv_tutorial_2.order_move,"Squad management
+Gunakan {input.action.speed_pause} untuk memulai dan menghentikan waktu."
+adv_tutorial_2.order_move,"Manajemen regu
 
-The squad is under your direct control and can be managed with the {input.action.squad_order_attack}. You can find its menu in the <b>lower left corner</b>.
+Regu berada di bawah kendali langsung Anda dan dapat dikelola dengan {input.action.squad_order_attack}. Anda dapat menemukan menunya di <b>sudut kiri bawah</b>.
 
-It's time to attack!
+Waktunya menyerang!
 
-1. When the squad is selected, click {input.action.squad_order_attack} on the enemy squad's banner to engage in combat (they are waiting for you northwest of the village).
-2. Wait for the battle results.
+1. Saat regu dipilih, klik {input.action.squad_order_attack} pada bendera regu musuh untuk terlibat dalam pertempuran (mereka menunggu Anda di barat laut desa).
+2. Tunggu hasil pertempuran.
 
-<b>Hint:</b> You can also send the squad to any location on the map by clicking the {input.action.squad_order_attack} on the ground."
-adv_tutorial_2.order_move_meet_place,Click {input.action.squad_order_attack} here to move your squad
-adv_tutorial_2.order_attack,"In pause mode, you can issue orders to squads and carry out other tasks.
+<b>Petunjuk:</b> Anda juga dapat mengirim regu ke lokasi mana pun di peta dengan mengklik {input.action.squad_order_attack} di tanah."
+adv_tutorial_2.order_move_meet_place,Klik {input.action.squad_order_attack} di sini untuk memindahkan regu Anda
+adv_tutorial_2.order_attack,"Dalam mode jeda, Anda dapat memberikan perintah kepada regu dan melakukan tugas-tugas lain.
 
-It's time to attack!
+Waktunya menyerang!
 
-1. Select your squad and click {input.action.squad_order_attack} on the enemy squad to attack it.
-2. Wait for the outcome of the battle."
-adv_tutorial_2.open_map,"Victory!
+1. Pilih regu Anda dan klik {input.action.squad_order_attack} pada regu musuh untuk menyerangnya.
+2. Tunggu hasil pertempuran."
+adv_tutorial_2.open_map,"Kemenangan!
 
-The bandit squad has been defeated, and their leader is vanquished!
+Regu perampok telah dikalahkan, dan pemimpin mereka telah dikalahkan!
 
-Your warriors will capture and take as hostages those who survived, and the peasants will bring them to the settlement later.
+Prajurit Anda akan menangkap dan mengambil sebagai sandera mereka yang selamat, dan petani akan membawa mereka ke pemukiman nanti.
 {split}
-Now is a good time to launch a counter-attack on their camp.
+Sekarang adalah waktu yang tepat untuk melancarkan serangan balik ke kamp mereka.
 
-$ Switch to the Global Map."
-adv_tutorial_2.attack_camp,"Global map
+$ Beralih ke Peta Global."
+adv_tutorial_2.attack_camp,"Peta global
 
-Now it's time to deal with the bandits.
+Sekarang saatnya menghadapi perampok.
 
-1. Click on the bandit settlement. Its menu will open in the bottom left corner.
-2. Select ""Attack"" from the action menu.
-3. Select your current squad.
-4. <b>Wait</b> for the squad to reach the bandit camp."
-adv_tutorial_2.army_at_gates,"Attacking the camp
+1. Klik pemukiman perampok. Menunya akan terbuka di sudut kiri bawah.
+2. Pilih ""Serang"" dari menu aksi.
+3. Pilih regu saat ini Anda.
+4. <b>Tunggu</b> hingga regu mencapai kamp perampok."
+adv_tutorial_2.army_at_gates,"Menyerang kamp
 
-Your party has reached the bandit camp and is preparing to launch an attack.
+Pasukan Anda telah mencapai kamp perampok dan sedang mempersiapkan serangan.
 
-$ Click the battle icon"
-adv_tutorial_2.army_at_gates_2,"Battle menu
+$ Klik ikon pertempuran"
+adv_tutorial_2.army_at_gates_2,"Menu pertempuran
 
-Here you can see your own and the enemy squad, as well as an approximate balance of power.
+Di sini Anda dapat melihat regu Anda sendiri dan regu musuh, serta keseimbangan kekuatan yang kira-kira.
 
-You can retreat from the battle if it seems unwinnable, play out the battle automatically, or personally command your squad in combat.
+Anda dapat mundur dari pertempuran jika tampaknya tidak bisa dimenangkan, mainkan pertempuran secara otomatis, atau perintahkan regu Anda secara pribadi dalam pertempuran.
 
-$ Click on the central button to start the battle"
+$ Klik tombol tengah untuk memulai pertempuran"
 adv_tutorial_2.army_at_gates_3,"On the battlefield
 
 When you initiate the attack, your squad is positioned on the left, while the enemy is on the right.

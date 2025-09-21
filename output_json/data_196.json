@@ -1,12 +1,12 @@
 [
-  "Send a guest \nThe lord will go to this city and interact with the family of lords living there.",
-  "~\n<red>ATTENTION! {soul_uuid_king} is a vassal of {soul_uuid_king_sir} of {faction_uuid_sir}!</red>\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
-  "~\n$ <red>You are a vassal of {soul_uuid_king_sir} and they will be extremely unhappy if you voluntarily leave to another sire.</red>\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>",
-  "~ \n$ Relationship with the previous suzerain {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>",
-  "Not available\nThe vassalage agreement excludes such actions between a suzerain and their vassal.",
-  "Not available\nYou can't do this action with a suzerain",
-  "Not available\nThis action can only be performed with a neighbor with whom you share a common border.",
-  "Not available\nCannot perform this action with the head of the alliance",
-  "Not available\nCannot perform this action on a member of your own alliance.",
-  "Not available\nAs a member of the alliance, you cannot perform this action."
+  "Kirim tamu \nPara penguasa akan pergi ke kota ini dan berinteraksi dengan keluarga para penguasa yang tinggal di sana.",
+  "~\n<red>PERHATIAN! {soul_uuid_king} adalah bawahan dari {soul_uuid_king_sir} dari {faction_uuid_sir}!</red>\n$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
+  "~\n$ <red>Anda adalah bawahan dari {soul_uuid_king_sir} dan mereka akan sangat tidak bahagia jika Anda secara sukarela pergi ke tuan lain.</red>\n$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>",
+  "~ \n$ Hubungan dengan suzerain sebelumnya {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>",
+  "Tidak tersedia\nKesepakatan bawahan mengecualikan tindakan semacam itu antara suzerain dan bawahan mereka.",
+  "Tidak tersedia\nAnda tidak bisa melakukan tindakan ini dengan suzerain",
+  "Tidak tersedia\nTindakan ini hanya bisa dilakukan dengan tetangga yang berbatasan langsung dengannya.",
+  "Tidak tersedia\nTidak bisa melakukan tindakan ini dengan kepala aliansi",
+  "Tidak tersedia\nTidak bisa melakukan tindakan ini terhadap anggota aliansi Anda sendiri.",
+  "Tidak tersedia\nSebagai anggota aliansi, Anda tidak bisa melakukan tindakan ini."
 ]

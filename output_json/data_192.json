@@ -1,12 +1,12 @@
 [
-  "~\nThe hostage {soul_uuid_hostage} <red>died from torture</red> before receiving your help.",
-  "~\nThe hostage {soul_uuid_hostage} <red>perished during the assault</red>.",
-  "~\nNews has arrived that the former captive member of your family, {soul_uuid_hostage}, was influenced by the kind treatment toward them and has decided to willingly join the captors' family.",
-  "~\nI write to convey my satisfaction that {hostage_name} is returning to you. They have grown quite wearisome, and their presence serves no purpose.\n",
-  "~\nYou have likely been informed that {hostage_name} has been set free. I can assure you that I rejoice in such an outcome. They brought us naught but trouble.",
-  "~\nI hasten to inform you that {hostage_name} has perished. I see no reason to divulge the details of their demise, for judging by your actions, it is a trifling loss to you.",
-  "~\n{hostage_name} is dead! In this, I see only your guilt; your inaction has led to such a grievous outcome. May Mother Sophia forgive you!",
-  "~\nI hasten to let you know that {hostage_name} perished amid a siege. I dare to presume that they fell by the hand of your own warrior. But it wasn't a warrior who slew him, it was your greed!",
-  "~\n{hostage_name} has perished in battle! And only you are to blame for this. Could you not have simply paid, for was his life not worth a few golden coins?",
-  "~\nI hasten to let you know that {hostage_name} is now a member of our family. Believe me, they made this decision willingly. Strangers have become dearer to them than their own; is it not your doing?"
+  "~\nSandera {soul_uuid_hostage} <red>tewas akibat siksaan</red> sebelum menerima bantuan Anda.",
+  "~\nSandera {soul_uuid_hostage} <red>tewas selama serangan</red>.",
+  "~\nBerita telah tiba bahwa mantan tawanan anggota keluarga Anda, {soul_uuid_hostage}, dipengaruhi oleh perlakuan baik terhadap mereka dan telah memutuskan untuk bergabung secara sukarela dengan keluarga para penculik.",
+  "~\nSaya menulis untuk menyampaikan kepuasan saya bahwa {hostage_name} kembali kepada Anda. Mereka telah menjadi sangat melelahkan, dan kehadiran mereka tidak berguna.\n",
+  "~\nAnda mungkin telah diberitahu bahwa {hostage_name} telah dibebaskan. Saya dapat meyakinkan Anda bahwa saya bergembira atas hasil seperti itu. Mereka hanya membawa masalah bagi kami.",
+  "~\nSaya buru-buru memberitahu Anda bahwa {hostage_name} telah tewas. Saya tidak melihat alasan untuk mengungkapkan detail kematian mereka, karena dilihat dari tindakan Anda, itu adalah kerugian kecil bagi Anda.",
+  "~\n{hostage_name} telah mati! Dalam hal ini, saya hanya melihat kesalahan Anda; ketidakaktifan Anda telah menyebabkan hasil yang menyedihkan seperti itu. Semoga Ibu Sophia memaafkan Anda!",
+  "~\nSaya buru-buru memberitahu Anda bahwa {hostage_name} tewas di tengah pengepungan. Saya berani berasumsi bahwa mereka gugur oleh tangan prajurit Anda sendiri. Tapi bukan prajurit yang membunuhnya, melainkan keserakahan Anda!",
+  "~\n{hostage_name} telah tewas dalam pertempuran! Dan hanya Anda yang harus disalahkan atas ini. Mengapa Anda tidak membayar saja, bukankah nyawanya tidak berharga hanya beberapa koin emas?",
+  "~\nSaya buru-buru memberitahu Anda bahwa {hostage_name} kini menjadi anggota keluarga kami. Percayalah, mereka membuat keputusan ini secara sukarela. Orang asing telah menjadi lebih dekat bagi mereka daripada keluarga sendiri; bukankah itu ulah Anda?"
 ]

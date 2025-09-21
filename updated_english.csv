@@ -7042,908 +7042,908 @@ hint_ask_for_help_from_ai_ignore,"Permintaan bantuan
 hint_ask_for_help_from_ai_success_after_battle,"Bantuan dalam pertempuran
 Pasukanmu berhasil membantu menangkis serangan musuh!"
 hint_optional_union_allyship,"~
-<b>Ally's responsibilities</b>
-$ If you fail to send aid, he will consider it betrayal; relations with the union leader will be severely damaged, and as a result, <red>you may be expelled from the Free Cities Union</red>. Neighbors will also be unpleasantly surprised."
+<b>Tanggung Jawab Sekutu</b>
+$ Jika kau gagal mengirim bantuan, ia akan menganggapnya sebagai pengkhianatan; hubungan dengan pemimpin serikat akan rusak parah, dan akibatnya, <red>kau mungkin dikeluarkan dari Uni Kota Bebas</red>. Tetangga juga akan terkejut tidak menyenangkan."
 hint_optional_union_allyship_ignore,"~
-<red>You have betrayed them.</red>
+<red>Kau telah mengkhianati mereka.</red>
 
-$ Relationship with the union leader {soul_uuid_king_leader}: <red>{rel_defence_alliance_not_help}</red>
-$ Relationship with {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>
-$ Relationship with your neighbors: <red>{rel_defence_alliance_broken_neighbore}</red>"
+$ Hubungan dengan pemimpin serikat {soul_uuid_king_leader}: <red>{rel_defence_alliance_not_help}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>
+$ Hubungan dengan tetangga-tetangga mu: <red>{rel_defence_alliance_broken_neighbore}</red>"
 hint_union_help_ai_ignore_letter_1,"~
-Traitor! How dare you refuse to help me when enemies, like vultures, circle above my head? Is it not your signature under this treaty? May you and your children be cursed!"
+Pengkhianat! Beraninya kau menolak membantuku ketika musuh-musuh, seperti burung nasar, mengelilingi kepalaku? Bukankah tanda tanganmu di bawah pakta ini? Semoga engkau dan anak-anakmu dikutuk!"
 hint_union_help_ai_ignore_letter_2,"~
-My advisors warned me against forging an alliance with such a serpent! Yet, be aware: news of your treachery shall spread as swiftly as the wind. Sometimes, a tarnished reputation is more dreadful than the fiercest foe."
+Penasihatku memperingatkan aku untuk tidak menjalin persekutuan dengan ular seperti itu! Namun, waspadalah: berita tentang pengkhianatanmu akan menyebar secepat angin. Kadang-kadang, reputasi yang ternoda lebih menakutkan daripada musuh paling garang."
 hint_union_help_success_letter_1,"~
-I knew I could place my trust in you, and that you were a person of honor. Thank you for your support. Unfortunately, I anticipate that the battle ahead will be no easy feat. I shall pray for us all."
+Aku tahu aku bisa mempercayaimu, dan bahwa engkau adalah orang yang terhormat. Terima kasih atas dukunganmu. Sayangnya, aku memperkirakan bahwa pertempuran di depan tidak akan mudah. Aku akan berdoa untuk kita semua."
 hint_union_help_success_letter_2,"~
-I'm writing to express my gratitude for keeping your word. Your troops are needed now more than ever! Know that I will do the same and come to your aid at any moment."
+Aku menulis untuk menyampaikan rasa terima kasihku karena kau menepati janjimu. Pasukanmu sangat dibutuhkan sekarang lebih dari sebelumnya! Ketahuilah bahwa aku akan melakukan hal yang sama dan datang membantumu kapan saja."
 hint_defence_alliance_only_description,"~
-Noble houses promise to help each other if either side's city is attacked by another noble house. 
+Rumah-rumah bangsawan berjanji untuk saling membantu jika kota salah satu pihak diserang oleh rumah bangsawan lain. 
 
-The treaty does not apply to the defense of villages or bandit attacks.
+Pakta tersebut tidak berlaku untuk pertahanan desa atau serangan perampok.
 
-$ All members pledge to send their warriors to the rescue if someone in the alliance requests aid.
-$ A province's membership in the alliance will be revoked if their relationship with the leader drops below <red>-25</red>.
-$ Alliance members can enter into trade contracts without restrictions, and the <hint=hint_market_volume_bonus>market demand</hint> increases.
-$ <b>Members of the city alliance cannot have vassals,</b> and aggressive actions towards other kingdoms not part of the alliance are <b>restricted by the requirement of neutrality</b>."
+$ Semua anggota berikrar mengirim prajurit mereka untuk menyelamatkan jika seseorang dalam persekutuan meminta bantuan.
+$ Keanggotaan provinsi dalam persekutuan akan dicabut jika hubungan mereka dengan pemimpin turun di bawah <red>-25</red>.
+$ Anggota persekutuan dapat membuat kontrak perdagangan tanpa batasan, dan <hint=hint_market_volume_bonus>permintaan pasar</hint> meningkat.
+$ <b>Anggota persekutuan kota tidak boleh memiliki vasal,</b> dan tindakan agresif terhadap kerajaan lain yang bukan bagian dari persekutuan <b>dibatasi oleh persyaratan netralitas</b>."
 hint_loan_description,"[hint_DESCRIPTION]
-{soul_uuid_king} values your <b>friendly relationship</b> and offers you money as a loan.
+{soul_uuid_king} menghargai <b>hubungan ramah</b> mu dan menawarkanmu uang sebagai pinjaman.
 
-$ You will receive <hint=hint_resource_gold>{loan_money_take}</hint>.
-$ In 10 days, you will need to repay the same amount: <hint=hint_resource_gold>{loan_money_give_back}</hint>.
-$ If you fail to repay the loan, your relationship with {soul_uuid_king} will deteriorate by <red>{rel_de}</red>, and your relationship with other neighboring factions will worsen by <red>{rel_neigh_de}</red>. You might earn yourself an <hint=hint_faction_relations_enemy>enemy</hint>.
+$ Kau akan menerima <hint=hint_resource_gold>{loan_money_take}</hint>.
+$ Dalam 10 hari, kau perlu membayar kembali jumlah yang sama: <hint=hint_resource_gold>{loan_money_give_back}</hint>.
+$ Jika kau gagal membayar pinjaman, hubungan mu dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de}</red>, dan hubungan mu dengan faksi tetangga lain akan memburuk sebesar <red>{rel_neigh_de}</red>. Kau mungkin mendapatkan <hint=hint_faction_relations_enemy>musuh</hint>.
 
 [hint_SENDER]"
-hint_loan_take,"Borrow money
-You will receive <hint=hint_resource_gold>{loan_money_take}</hint> from {soul_uuid_king}.
+hint_loan_take,"Pinjam uang
+Kau akan menerima <hint=hint_resource_gold>{loan_money_take}</hint> dari {soul_uuid_king}.
 
-$ You will need to repay <hint=hint_resource_gold>{loan_money_give_back}</hint> in 10 days.
-$ If you fail to repay the loan, your relationship with {soul_uuid_king} will deteriorate by <red>{rel_de}</red>, and your relationship with other neighboring factions will worsen by <red>{rel_neigh_de}</red>. You might earn yourself an <hint=hint_faction_relations_enemy>enemy</hint>."
+$ Kau perlu membayar kembali <hint=hint_resource_gold>{loan_money_give_back}</hint> dalam 10 hari.
+$ Jika kau gagal membayar pinjaman, hubungan mu dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de}</red>, dan hubungan mu dengan faksi tetangga lain akan memburuk sebesar <red>{rel_neigh_de}</red>. Kau mungkin mendapatkan <hint=hint_faction_relations_enemy>musuh</hint>."
 hint_loan_take_success,"~
-{soul_uuid_king} believed in you and granted a loan of <hint=hint_resource_gold>{loan_money_take}</hint>.
+{soul_uuid_king} mempercayaimu dan memberikan pinjaman sebesar <hint=hint_resource_gold>{loan_money_take}</hint>.
 
-He will be expecting the loan to be repaid within 10 days."
-hint_loan_give_back,"Repay the debt
-You return <hint=hint_resource_gold>{loan_money_give_back}</hint>.
+Ia akan mengharapkan pinjaman dibayar kembali dalam 10 hari."
+hint_loan_give_back,"Bayar kembali hutang
+Anda mengembalikan <hint=hint_resource_gold>{loan_money_give_back}</hint>.
 
-$ Your relationship with {soul_uuid_king} improves by <green>{rel_imp}</green>."
+$ Hubungan Anda dengan {soul_uuid_king} membaik sebesar <green>{rel_imp}</green>."
 hint_loan_give_back_success,"~
-You have repaid the debt, and {soul_uuid_king} has received <hint=hint_resource_gold>{loan_money_give_back}</hint>.
+Anda telah membayar kembali hutang, dan {soul_uuid_king} telah menerima <hint=hint_resource_gold>{loan_money_give_back}</hint>.
 
-$ The relationship with {soul_uuid_king} improves by <green>{rel_imp}</green>."
+$ Hubungan dengan {soul_uuid_king} membaik sebesar <green>{rel_imp}</green>."
 hint_loan_ignore,"~
-You have failed to repay the debt.
+Anda gagal membayar kembali hutang.
 
-$ The relationship with {soul_uuid_king} deteriorates by <red>{rel_de}</red>.
-$ The relationship with your neighbors worsens by <red>{rel_neigh_de}</red>."
+$ Hubungan dengan {soul_uuid_king} memburuk sebesar <red>{rel_de}</red>.
+$ Hubungan dengan tetangga Anda memburuk sebesar <red>{rel_neigh_de}</red>."
 hint_loan_give_back_success_letter_1,"~
-I thank you for returning what was owed. Sadly, in our days, many disregard their honor, but you are not one of them. I am grateful to fate for blessing me with such a neighbor as you."
+Aku berterima kasih atas pengembalian apa yang terhutang. Sayangnya, di zaman kita, banyak yang mengabaikan kehormatan mereka, tapi engkau bukan salah satunya. Aku bersyukur kepada nasib karena memberkati aku dengan tetangga seperti engkau."
 hint_loan_give_back_success_letter_2,"~
-I knew I could trust you, and I thank you for repaying your debt so swiftly. Should a time of hardship come upon you, be assured that help from me will be on its way."
+Aku tahu aku bisa mempercayaimu, dan aku berterima kasih atas pembayaran hutangmu yang begitu cepat. Jika masa sulit datang kepadamu, yakinlah bahwa bantuan dariku akan segera tiba."
 hint_loan_ignore_letter_1,"~
-I lent you gold as soon as you asked me for it! And what is this I see in return? Such gratitude? It is exceedingly unwise to assume that this approach will bring you long-term benefit."
+Aku meminjamkan emas kepadamu segera setelah engkau memintanya! Dan apa ini yang kulihat sebagai balasan? Begitu bersyukurnya? Sangat tidak bijak untuk mengasumsikan bahwa pendekatan ini akan membawa manfaat jangka panjang bagimu."
 hint_loan_ignore_letter_2,"~
-One should not treat a neighbor in this manner, especially one who has provided help in a time of need. Dishonor is met with harsh punishment, both by the Holy Mother and by the people."
+Seseorang tidak seharusnya memperlakukan tetangga seperti ini, terutama yang telah memberikan bantuan di saat membutuhkan. Ketidakkehorratan dihukum keras, baik oleh Ibu Suci maupun oleh rakyat."
 hint_loan_ignore_letter_3,"~
-Lending money to friends, we part with both our funds and our companions. Heed my counsel, for deceit can be employed only once, while the need for money persists indefinitely. Nobody forgives greed."
-hint_warriors_take_description,"Offer of assistance
-Your ally {soul_uuid_king} is not facing threats from neighbors, unlike you.
+Meminjamkan uang kepada teman, kita kehilangan baik dana maupun teman. Dengarkan nasihatku, karena penipuan hanya bisa digunakan sekali, sementara kebutuhan uang berlangsung selamanya. Tidak ada yang memaafkan keserakahan."
+hint_warriors_take_description,"Tawaran bantuan
+Sekutu Anda {soul_uuid_king} tidak menghadapi ancaman dari tetangga, tidak seperti Anda.
 
-They is willing to send you {number_of_soldiers_for_gift} of their warriors as a gift, although accepting their assistance will slightly lower their opinion of you.
+Mereka bersedia mengirimkan {number_of_soldiers_for_gift} prajurit mereka sebagai hadiah, meskipun menerima bantuan mereka akan sedikit menurunkan pendapat mereka tentang Anda.
 
-$ You will receive {number_of_soldiers_for_gift} warriors of combat level {combat_level_of_soldiers_for_gift}.
-$ The relationship with {soul_uuid_king} will deteriorate by <red>{rel_de_soldiers_for_gift}</red>."
-hint_warriors_take,"Accept the offer
-$ You will receive {number_of_soldiers_for_gift} warriors of combat level {combat_level_of_soldiers_for_gift}.
-$ The relationship with {soul_uuid_king} will deteriorate by <red>{rel_de_soldiers_for_gift}</red>."
-hint_warriors_take_success,"The offer has been accepted
-You have accepted {soul_uuid_king}'s offer, and his warriors are already on their way. However, your weakness has made him wary.
+$ Anda akan menerima {number_of_soldiers_for_gift} prajurit dengan tingkat tempur {combat_level_of_soldiers_for_gift}.
+$ Hubungan dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de_soldiers_for_gift}</red>."
+hint_warriors_take,"Terima tawaran
+$ Anda akan menerima {number_of_soldiers_for_gift} prajurit dengan tingkat tempur {combat_level_of_soldiers_for_gift}.
+$ Hubungan dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de_soldiers_for_gift}</red>."
+hint_warriors_take_success,"Tawaran telah diterima
+Anda telah menerima tawaran {soul_uuid_king}, dan para prajuritnya sudah dalam perjalanan. Namun, kelemahan Anda membuatnya waspada.
 
-$ {number_of_soldiers_for_gift} warriors of combat level {combat_level_of_soldiers_for_gift} will soon arrive at your settlement.
-$ The relationship with {soul_uuid_king} deteriorates by <red>{rel_de_soldiers_for_gift}</red>."
+$ {number_of_soldiers_for_gift} prajurit dengan tingkat tempur {combat_level_of_soldiers_for_gift} akan segera tiba di pemukiman Anda.
+$ Hubungan dengan {soul_uuid_king} memburuk sebesar <red>{rel_de_soldiers_for_gift}</red>."
 hint_warriors_take_success_letter_1,"~
-I am aware that misfortune is knocking at your gates. I am sending my warriors to you. I hope the heavens assist you in claiming victory. But try not to cause more trouble for your neighbors in the future."
+Saya menyadari bahwa kemalangan sedang mengetuk gerbang Anda. Saya mengirimkan para prajurit saya kepada Anda. Saya berharap surga membantu Anda meraih kemenangan. Tetapi cobalah untuk tidak menimbulkan masalah lebih lanjut bagi tetangga Anda di masa depan."
 hint_warriors_take_success_letter_2,"~
-I am sending you my warriors, for such a foe is too great for one to face alone. I trust you will value this assistance and that in the future, you will not let me down. Now, I proceed against the counsel of my kin, who have advised me against this course."
-hint_religion_riot_success,"Religious Rebellion
-As a result of conflicts with the bishop, a religious rebellion has erupted in the city.
+Saya mengirimkan para prajurit saya kepada Anda, karena musuh seperti itu terlalu besar untuk dihadapi sendirian. Saya percaya Anda akan menghargai bantuan ini dan bahwa di masa depan, Anda tidak akan mengecewakan saya. Sekarang, saya melanjutkan meskipun nasihat dari kerabat saya, yang menasihati saya untuk tidak melakukan langkah ini."
+hint_religion_riot_success,"Pemberontakan Agama
+Akibat konflik dengan uskup, pemberontakan agama telah meletus di kota.
 
-$ A significant portion of the population and the army has perished.
-$ {soul_uuid_prey} has been killed by the hands of the insurgent fanatics."
+$ Sebagian besar penduduk dan pasukan telah tewas.
+$ {soul_uuid_prey} telah dibunuh oleh tangan para fanatik pemberontak."
 optional_relations_heir_rebellion,"~
-$ If {soul_uuid_heir} wins, relations with them will improve: <green>{rel_neigh_improve}</green>
+$ Jika {soul_uuid_heir} menang, hubungan dengan mereka akan membaik: <green>{rel_neigh_improve}</green>
 {optional_will_gain_duty_of_honor}
-$ If {soul_uuid_king} wins, relations with them will deteriorate: <red>{rel_neigh_de}</red>"
-hint_heir_riot_heir,"Heir's Rebellion
+$ Jika {soul_uuid_king} menang, hubungan dengan mereka akan memburuk: <red>{rel_neigh_de}</red>"
+hint_heir_riot_heir,"Pemberontakan Pewaris
 {optional_type_of_danger}
 
-In the near future, it is expected that the heir will rise and sway some lords and warriors to their side.
+Dalam waktu dekat, diharapkan pewaris akan bangkit dan memengaruhi beberapa para penguasa dan prajurit ke pihak mereka.
 
-They request your support by sending an army and promise to be grateful for your assistance.
+Mereka meminta dukungan Anda dengan mengirim pasukan dan berjanji akan berterima kasih atas bantuan Anda.
 
-$ At the same time, the level of support for the sides among the army is unknown and will only become clear at the last moment.
+$ Pada saat yang sama, tingkat dukungan untuk kedua pihak di antara pasukan tidak diketahui dan hanya akan jelas pada saat terakhir.
 
-Possible consequences if you support {soul_uuid_heir}:
+Konsekuensi mungkin jika Anda mendukung {soul_uuid_heir}:
 [optional_relations_heir_rebellion]
 
 [hint_unavailable_heir_rebellion_in_ai_town]"
 hint_heir_riot_deathlist,"~
-The surviving defeated lords have fled into neighboring territories, while the defeated warriors have joined the forest bandits."
-hint_heir_riot_heir_success,"The heir has won!
-{soul_uuid_previous_heir} became the new king, and {soul_uuid_previous_king} was defeated!
+Para penguasa yang selamat dan kalah telah melarikan diri ke wilayah tetangga, sementara para prajurit yang kalah telah bergabung dengan perampok hutan."
+hint_heir_riot_heir_success,"Pewaris telah menang!
+{soul_uuid_previous_heir} menjadi raja baru, dan {soul_uuid_previous_king} dikalahkan!
 
 [hint_heir_riot_deathlist]
 {optional_gain_duty_of_honor}"
-hint_heir_riot_heir_fail,"King's victory!
-{soul_uuid_previous_king} crushed the rebellion, while {soul_uuid_previous_heir} suffered defeat!
+hint_heir_riot_heir_fail,"Kemenangan Raja!
+{soul_uuid_previous_king} menghancurkan pemberontakan, sementara {soul_uuid_previous_heir} mengalami kekalahan!
 
 [hint_heir_riot_deathlist]
 {optional_gain_duty_of_honor}"
 hint_heir_riot_heir_success_letter_1,"~
-I hasten to let you know that victory is mine, and now the crown belongs to me! Know that I never forget either traitors or those who have aided me."
+Saya buru-buru memberi tahu Anda bahwa kemenangan adalah milik saya, dan sekarang mahkota milik saya! Ketahuilah bahwa saya tidak pernah lupa baik pengkhianat maupun mereka yang telah membantu saya."
 hint_heir_riot_heir_success_letter_2,"~
-At long last, my time has come, and now I am the king. Indeed, without your assistance, I would have faltered. But then, that is what neighbors are for, correct?"
-hint_heir_riot_king,"Protection against Rebellion
+Akhirnya, saatnya telah tiba, dan kini aku adalah raja. Memang, tanpa bantuanmu, aku pasti akan gagal. Tapi begitulah tetangga, bukan?"
+hint_heir_riot_king,"Perlindungan terhadap Pemberontakan
 {optional_type_of_danger}
 
-It is expected that in the near future, the heir will rise up and try to sway some of the lords and warriors to their side.
+Diperkirakan dalam waktu dekat, pewaris akan memberontak dan mencoba mempengaruhi sebagian para penguasa dan prajurit untuk bergabung ke pihaknya.
 
-Ruler {soul_uuid_king} is under threat and requests support by sending an army to them. They promise not to forget your help in this difficult time.
+Penguasa {soul_uuid_king} sedang terancam dan meminta dukungan dengan mengirim pasukan ke sana. Mereka berjanji tidak akan melupakan bantuanmu di masa sulit ini.
 
-$ At the same time, the level of support for the sides among the army is unknown and will only become clear at the last moment.
+$ Pada saat yang sama, tingkat dukungan untuk kedua pihak di kalangan pasukan tidak diketahui dan baru akan jelas pada saat terakhir.
 
-Possible consequences if you support {soul_uuid_king}:
-$ If {soul_uuid_king} wins, relations with him: <green>{rel_neigh_improve}</green>
+Konsekuensi mungkin jika kau mendukung {soul_uuid_king}:
+$ Jika {soul_uuid_king} menang, hubungan dengannya: <green>{rel_neigh_improve}</green>
 {optional_will_gain_duty_of_honor}
-$ If {soul_uuid_heir} wins, relations with him: <red>{rel_neigh_de}</red>
+$ Jika {soul_uuid_heir} menang, hubungan dengannya: <red>{rel_neigh_de}</red>
 {optional_allyship}
 
 [hint_unavailable_heir_rebellion_in_ai_town]"
 hint_heir_riot_king_success_letter_1,"~
-Thank you for standing by me in this struggle and acknowledging my lawful authority! You have quite literally saved me from ruin, and I shall never forget it. May Holy Sophia bless you."
+Terima kasih telah berdiri di sisiku dalam perjuangan ini dan mengakui otoritas sahku! Kau benar-benar telah menyelamatkanku dari kehancuran, dan aku takkan pernah melupakannya. Semoga Holy Sophia memberkahi engkau."
 hint_heir_riot_king_success_letter_2,"~ 
-It is with heavy heart that I acknowledge being surrounded by traitors, and that safety eludes even my own abode. Thank you for recognizing my lawful reign and aiding me in retaining the throne! This act of loyalty shall never be forgotten."
+Dengan hati yang berat aku mengakui dikelilingi pengkhianat, dan keselamatan pun menghindari bahkan tempat tinggalku sendiri. Terima kasih telah mengakui pemerintahan sahku dan membantuku mempertahankan takhta! Tindakan kesetiaan ini takkan pernah terlupakan."
 optional_relations_vassal_riot,"~
-$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>
-$ Relationship with {soul_uuid_king_s}: <red>{rel_de_sir}</red>"
-hint_ai_vassal_riot_description,"Vassal Uprising
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>
+$ Hubungan dengan {soul_uuid_king_s}: <red>{rel_de_sir}</red>"
+hint_ai_vassal_riot_description,"Pemberontakan Vasal
 {optional_type_of_danger}
 
-He is seeking help from all neighbors interested in his friendship and not afraid to sour relations with {soul_uuid_king_s}.
+Ia mencari bantuan dari semua tetangga yang tertarik pada persahabatannya dan tidak takut merusak hubungan dengan {soul_uuid_king_s}.
 
-You can send your army to support the uprising.
+Kau bisa mengirim pasukanmu untuk mendukung pemberontakan.
 
-<b>Consequences</b>
-$ If {soul_uuid_king} wins, he will become independent.
-$ If {soul_uuid_king_s} wins, {soul_uuid_king} will remain a vassal.
+<b>Konsekuensi</b>
+$ Jika {soul_uuid_king} menang, ia akan menjadi mandiri.
+$ Jika {soul_uuid_king_s} menang, {soul_uuid_king} akan tetap menjadi vasal.
 {optional_send_help_effects}
 {optional_allyship}
 {optional_will_gain_duty_of_honor}
 {optional_possible_helpers}"
 hint_ai_vassal_riot_success,"~
-{soul_uuid_king} has gained independence."
+{soul_uuid_king} telah memperoleh kemerdekaan."
 hint_ai_vassal_riot_fail,"~
-{soul_uuid_king} couldn't maintain his independence and remains a vassal."
+{soul_uuid_king} tak bisa mempertahankan kemerdekaannya dan tetap menjadi vasal."
 hint_ai_vassal_riot_success_letter_1,"~
-There is nothing more precious than freedom. The fight for liberation from the suzerain's authority is a matter of honor, and I could not have succeeded without your help!"
+Tak ada yang lebih berharga daripada kebebasan. Perjuangan untuk pembebasan dari otoritas suzerain adalah masalah kehormatan, dan aku tak bisa berhasil tanpa bantuanmu!"
 hint_ai_vassal_riot_success_letter_2,"~
-You did not fear to engage in conflict with my suzerain for the sake of my freedom. To be a vassal is the lot of those who have never known independence. Thank you, my friend. My heart tells me that we shall yet wage war together against the unrighteous."
+Engkau tak takut terlibat konflik dengan suzerainku demi kebebasanku. Menjadi vasal adalah nasib bagi mereka yang tak pernah mengenal kemerdekaan. Terima kasih, temanku. Hati ini memberitahu bahwa kita akan berperang bersama melawan yang tidak adil."
 hint_ai_vassal_riot_fail_letter_1,"~
-How dare you oppose me and lend your aid to my vassal? And you, pitiful coward, thought you could defeat me? This is the fate that befalls those who interfere in the internal matters of their neighbors: they are met with defeat!"
+Bagaimana beraninya kau menentangku dan membantunya vasalku? Dan engkau, pengecut yang menyedihkan, mengira bisa mengalahkanku? Inilah nasib yang menimpa mereka yang ikut campur dalam urusan internal tetangga mereka: mereka dikalahkan!"
 hint_ai_vassal_riot_fail_letter_2,"~
-You chose to aid my vassal and strike against me. An unforgivable blunder! Now relish your defeat and don't forget to claim the title of a wretched soldier for yourself!"
+Kau memilih membantunya vasalku dan menyerangku. Kesalahan yang tak termaafkan! Sekarang nikmatilah kekalahanmu dan jangan lupa ambil gelar prajurit sial untuk dirimu sendiri!"
 optional_relations_ai_attack,"~
-$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>
-$ Relationship with {soul_uuid_king_s}: <red>{rel_de}</red>"
-hint_ai_attack_description,"Threat of plunder
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>
+$ Hubungan dengan {soul_uuid_king_s}: <red>{rel_de}</red>"
+hint_ai_attack_description,"Ancaman Penjarahan
 {optional_type_of_danger}
 
-Therefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.
+Oleh karena itu, Raja dari {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.
 
-You can send your army to help defend {faction_uuid}.
+Kau bisa mengirim pasukanmu untuk membantu mempertahankan {faction_uuid}.
 
-<b>Consequences</b>
+<b>Konsekuensi</b>
 {optional_send_help_effects}
 {optional_allyship}
 {optional_possible_helpers}"
 hint_ai_attack_success,"~
-{soul_uuid_king} emerged victorious and defended their city from plunder."
+{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kotanya dari penjarahan."
 hint_ai_attack_fail,"~
-{soul_uuid_king} was defeated and couldn't defend their city from plunder."
+{soul_uuid_king} dikalahkan dan tidak bisa mempertahankan kotanya dari penjarahan."
 hint_ai_attack_success_letter_1,"~
-I hasten to thank you for standing by my side. I know the battle was fierce, and you suffered significant losses. But rest assured: the good you have done will not be forgotten!"
+Aku segera berterima kasih atas dukunganmu di sisiku. Aku tahu pertempuran itu sengit, dan kau menderita kerugian besar. Tapi tenanglah: kebaikan yang kau lakukan tidak akan dilupakan!"
 hint_ai_attack_success_letter_2,"~
-It seems that victory might have eluded me if not for your support. You stood for justice when you decided to back my cause. Such deeds are etched in memory, and I vow to come to your aid the moment you call for it!"
+Sepertinya kemenangan mungkin lolos dariku jika bukan karena dukunganmu. Kau berdiri untuk keadilan saat memutuskan mendukung urusanku. Perbuatan seperti itu terukir dalam ingatan, dan aku bersumpah akan membantumu segera saat kau memanggil!"
 hint_ai_attack_fail_letter_1,"~
-From you, such treachery was unforeseen! To strike at me so vilely, alongside my enemy! But Holy Sophia was by my side. Now reap the fruits of your folly, while I shall revel in my victory!"
+Dari engkau, pengkhianatan seperti itu tak terduga! Menyerangku begitu keji, bersama musuhku! Tapi Holy Sophia bersamaku. Sekarang tuailah buah kebodohanmu, sementara aku menikmati kemenanganku!"
 hint_ai_attack_fail_letter_2,"~
-You chose to join forces with my enemy and attack me. But I know that you did not expect such a rout, and I myself could not have imagined how weak your army was. Next time, I will know just how insignificant an opponent you are!"
-hint_ai_vassalite_description,"Threat of vassalage
+Kau memilih bergabung dengan musuhku dan menyerangku. Tapi aku tahu kau tak menduga kekalahan sebesar itu, dan aku sendiri tak membayangkan seberapa lemah pasukanmu. Lain kali, aku akan tahu betapa tidak berartinya lawan sepertimu!"
+hint_ai_vassalite_description,"Ancaman Penundukan
 {optional_type_of_danger}
 
-Therefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.
+Oleh karena itu, Raja {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.
 
-You can send your army to help defend {faction_uuid}.
+Anda dapat mengirim pasukan Anda untuk membantu membela {faction_uuid}.
 
-<b>Consequences</b>
+<b>Konsekuensi</b>
 {optional_send_help_effects}
 {optional_allyship}
 {optional_possible_helpers}"
 hint_ai_vassalite_success,"~
-{soul_uuid_king} emerged victorious and maintained his independence."
+{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kemerdekaannya."
 hint_ai_vassalite_fail,"~
-{soul_uuid_king} was defeated and became a vassal of {faction_uuid_s}."
+{soul_uuid_king} dikalahkan dan menjadi vasal dari {faction_uuid_s}."
 hint_ai_vassalite_success_letter_1,"~
-I sincerely thank you for your support: it is solely due to your intervention that I was able to preserve my freedom and avoid the humiliating status of a vassal. The battle was fierce, and I surely would not have been able to handle paying such an exorbitant tribute to that villain."
+Saya dengan tulus berterima kasih atas dukungan Anda: murni karena campur tangan Anda saya dapat mempertahankan kebebasan saya dan menghindari status memalukan sebagai vasal. Pertempuran itu sengit, dan saya pasti tidak akan mampu menangani pembayaran upeti yang sangat mahal kepada penjahat itu."
 hint_ai_vassalite_success_letter_2,"~
-You have freed me from paying such an unimaginable tribute; may Holy Sophia reward you for this! I realize that your army has suffered significant losses, but rest assured, I will not leave this debt unpaid!"
+Anda telah membebaskan saya dari pembayaran upeti yang tak terbayangkan; semoga Santa Sophia membalas kebaikan ini! Saya sadar bahwa pasukan Anda mengalami kerugian yang signifikan, tetapi yakinlah, saya tidak akan membiarkan utang ini tak terbayar!"
 hint_ai_vassalite_fail_letter_1,"~
-I see you are in dire need of sworn enemies! Did you truly believe that you could shield this wretch from my vassal authority? Your failure will serve as a stark reminder to others that standing against me is the epitome of foolishness!"
+Saya melihat Anda sangat membutuhkan musuh bebuyutan! Apakah Anda benar-benar percaya bahwa Anda bisa melindungi bajingan ini dari otoritas vasal saya? Kegagalan Anda akan menjadi pengingat tegas bagi yang lain bahwa berdiri menentang saya adalah puncak kebodohan!"
 hint_ai_vassalite_fail_letter_2,"~
-You have exhibited not merely folly, but also paraded your cowardice on the battlefield for all our neighbors to see. To subjugate any I choose is my sovereign right, and this you would do well to remember."
-hint_ai_destroy_description,"Threat of annihilation
+Anda tidak hanya menunjukkan kebodohan, tetapi juga memamerkan kepengecutan Anda di medan perang agar dilihat oleh semua tetangga kita. Menaklukkan siapa pun yang saya pilih adalah hak abadi saya, dan hal ini patut Anda ingat baik-baik."
+hint_ai_destroy_description,"Ancaman Penghancuran
 {optional_type_of_danger}
 
-Therefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.
+Oleh karena itu, Raja {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.
 
-You can send your army to help defend {faction_uuid} from complete destruction.
+Anda dapat mengirim pasukan Anda untuk membantu membela {faction_uuid} dari kehancuran total.
 
-<b>Consequences</b>
+<b>Konsekuensi</b>
 {optional_send_help_effects}
 {optional_allyship}
 {optional_will_gain_duty_of_honor}
 {optional_possible_helpers}"
 hint_ai_destroy_success,"~
-{soul_uuid_king} emerged victorious and defended their life and province."
+{soul_uuid_king} muncul sebagai pemenang dan mempertahankan nyawa serta wilayahnya."
 hint_ai_destroy_fail,"~
-{soul_uuid_king} was defeated, and their family was destroyed, and the city was razed"
+{soul_uuid_king} dikalahkan, dan keluarganya dihancurkan, dan kota itu diratakan"
 hint_ai_destroy_success_letter_1,"~
-It is a rare deed in these times for one to aid a neighbor whose kingdom lies in peril! I thank you for saving my home from certain doom!"
+Sungguh perbuatan langka di zaman ini bagi seseorang untuk menolong tetangga yang kerajaannya berada dalam bahaya! Aku berterima kasih padamu atas penyelamatan rumahku dari kehancuran yang pasti!"
 hint_ai_destroy_success_letter_2,"~
-You not only aligned with my foe but also revealed to the world your cowardice as a warrior! Your defeat today is merely the prelude. I shall make it my endeavor to leave you without a single warrior to call your own."
+Engkau tidak hanya bersekutu dengan musuhku tetapi juga memperlihatkan kepada dunia kelemahanmu sebagai prajurit! Kekalahanmu hari ini hanyalah pengantar. Aku akan berusaha sekuat tenaga untuk meninggalkanmu tanpa satu pun prajurit yang bisa kau panggil milikmu."
 hint_ai_destroy_fail_letter_1,"~
-Not only did you side with my enemy, but you also displayed to the world your cowardice as a warrior! Your defeat today is but the beginning. I will exert all my efforts to ensure that not a single warrior remains at your side."
+Engkau tidak hanya berpihak pada musuhku, tapi juga memperlihatkan kepada dunia kelemahanmu sebagai prajurit! Kekalahanmu hari ini hanyalah permulaan. Aku akan mengerahkan segala upayaku untuk memastikan bahwa tidak ada satu pun prajurit yang tersisa di sisimu."
 hint_ai_destroy_fail_letter_2,"~
-No one dares to side with my enemy and goes unpunished! The fact that you would lose this battle was so obvious that it makes me question your sanity!"
-hint_ai_maroder_description,"Marauders approaching
+Tidak ada yang berani berpihak pada musuhku tanpa dihukum! Fakta bahwa engkau akan kalah dalam pertempuran ini begitu jelas sehingga membuatku mempertanyakan kewarasanmu!"
+hint_ai_maroder_description,"Begal mendekat
 {optional_type_of_danger}
 
-Therefore, King {soul_uuid_king} requests all neighbors who are able to help him.
+Oleh karena itu, Raja {soul_uuid_king} meminta bantuan dari semua tetangga yang mampu membantunya.
 
-And since the marauders are <hint=hint_cainism>heretic Cainites</hint>, this action is warmly blessed by <hint=hint_sofia_cult>the Church</hint>.
+Dan karena para begal itu adalah <hint=hint_cainism>Kainit heretik</hint>, tindakan ini mendapat <hint=hint_sofia_cult>berkah hangat dari Pihak Gereja</hint>.
 
-<b>Consequences</b>
+<b>Konsekuensi</b>
 {optional_send_help_effects}
 {optional_allyship}
 {optional_possible_helpers}"
 hint_ai_maroder_success,"~
-You have defeated the marauder squad, and {soul_uuid_king} will save his village."
+Engkau telah mengalahkan regu begal, dan {soul_uuid_king} akan menyelamatkan desanya."
 hint_ai_maroder_fail,"~
-You suffered a defeat from the marauder squad, but {soul_uuid_king} is grateful to you for the attempt."
+Engkau mengalami kekalahan dari regu begal, tapi {soul_uuid_king} berterima kasih padamu atas usahanya."
 hint_ai_maroder_success_letter_1,"~
-Only a valiant warrior such as yourself could contend with these marauders. You have saved a multitude of innocent souls from death and bondage, and I shall remain indebted to you until the end of my days. Great thanks to you!"
+Hanya prajurit pemberani seperti dirimu yang bisa melawan para begal ini. Engkau telah menyelamatkan banyak jiwa tak bersalah dari kematian dan perbudakan, dan aku akan tetap berhutang budi padamu hingga akhir hari-hariku. Terima kasih banyak!"
 hint_ai_maroder_success_letter_2,"~
-If it weren't for your help, these marauders would have destroyed my entire settlement. May Holy Sophia protect you and your family at all times!"
+Jika bukan karena bantuanmu, para begal ini akan menghancurkan seluruh pemukimanku. Semoga Santa Sofia melindungi engkau dan keluargamu setiap saat!"
 hint_ai_maroder_fail_letter_1,"~
-I sincerely regret that you and your warriors have suffered at the hands of these merciless marauders. I am to blame for all of this-after all, it was I who called upon you for help. Thank you, dear neighbor, for your invaluable support!"
+Aku sangat menyesal bahwa engkau dan para prajuritmu menderita di tangan para begal kejam ini. Aku yang patut disalahkan atas semua ini—lagipula, akulah yang memanggilmu untuk membantu. Terima kasih, tetangga tercinta, atas dukunganmu yang tak ternilai!"
 hint_ai_maroder_fail_letter_2,"~
-I thank you for responding to my call for help. It's bitter to realize that these godless marauders have harmed your warriors. You are a true friend!"
+Saya berterima kasih karena Anda merespons panggilan bantuan saya. Pahit menyadari bahwa para begal atheis ini telah merugikan prajurit Anda. Anda adalah teman sejati!"
 hint_ai_forest_danger_success,"~
-{soul_uuid_king} emerged victorious and defended his city."
+{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kotanya."
 hint_ai_forest_danger_fail,"~
-{soul_uuid_king} was defeated, and his city was plundered."
+{soul_uuid_king} dikalahkan, dan kotanya dirampok."
 hint_ai_forest_danger_success_letter_1,"~
-Believe me, I am not one to scatter words of gratitude lightly. You aided me in a moment of great difficulty. Your warriors displayed true valor and courage. Thank you, and know that such actions are not easily forgotten."
+Percayalah, saya bukan orang yang mudah mengucapkan kata-kata terima kasih. Anda menolong saya di saat kesulitan besar. Prajurit Anda menunjukkan keberanian dan valor sejati. Terima kasih, dan ketahuilah bahwa tindakan seperti itu tidak mudah dilupakan."
 hint_ai_forest_danger_success_letter_2,"~
-You helped me defend against the enemy, and this honors you greatly. Many neighbors will happily visit my province for merriment and hunting, but almost none of them responded when I needed help. Thank you!"
+Anda membantu saya mempertahankan diri dari musuh, dan ini sangat menghormati Anda. Banyak tetangga yang dengan senang hati mengunjungi provinsi saya untuk bersenang-senang dan berburu, tapi hampir tidak ada yang merespons saat saya membutuhkan bantuan. Terima kasih!"
 hint_ai_forest_danger_fail_letter_1,"~
-Nature didn't bless me with eloquence, but my actions express my gratitude. You displayed bravery by coming to my aid. Perhaps we lost and suffered casualties, but your deed shines bright despite the defeat."
+Alam tidak memberkati saya dengan kefasihan bicara, tapi tindakan saya menyatakan rasa terima kasih. Anda menunjukkan keberanian dengan datang menolong saya. Mungkin kita kalah dan menderita korban jiwa, tapi perbuatan Anda bersinar terang meskipun kekalahan itu."
 hint_ai_forest_danger_fail_letter_2,"~
-I'm not accustomed to groveling or offering thanks to those weaker than me. However, a sense of justice is not foreign to me, and I express my gratitude to you for the assistance you provided."
-hint_player_city_danger,"Threat of plunder
+Saya tidak terbiasa merendahkan diri atau mengucapkan terima kasih kepada orang yang lebih lemah dari saya. Namun, rasa keadilan bukanlah hal asing bagi saya, dan saya menyatakan rasa terima kasih atas bantuan yang Anda berikan."
+hint_player_city_danger,"Ancaman perampokan
 {optional_type_of_danger}
 
 {optional_possible_helpers}"
 hint_general_conflict_makha,"~
 
-In typical Makha fashion, {soul_uuid_king_1} is extremely upset that {soul_uuid_king_2} is in no hurry to repay the borrowed gold.
+Sesuai gaya khas Makha, {soul_uuid_king_1} sangat kesal karena {soul_uuid_king_2} tidak terburu-buru membayar kembali emas yang dipinjam.
 
-{soul_uuid_king_2}, on the other hand, believes that such pettiness damages the collective image of the noble houses in the eyes of the peasants. He promises to repay the debt as soon as he can."
+{soul_uuid_king_2}, di sisi lain, percaya bahwa kekikiran seperti itu merusak citra kolektif rumah bangsawan di mata petani. Ia berjanji untuk melunasi utang secepat mungkin."
 hint_general_conflict_kaiden,"~
 
-{soul_uuid_king_1} belongs to the Kaiden culture, where loyalty is the highest virtue, so he believes that {soul_uuid_king_2} should hand the escaped lord over to him.
+{soul_uuid_king_1} berasal dari budaya Kaiden, di mana kesetiaan adalah kebajikan tertinggi, sehingga ia percaya bahwa {soul_uuid_king_2} seharusnya menyerahkan penguasa yang melarikan diri kepadanya.
 
-{soul_uuid_king_2}, who has given shelter to the fugitive, believes that lords are not slaves and have the right to choose which noble house to join."
+{soul_uuid_king_2}, yang telah memberi perlindungan kepada pelarian itu, percaya bahwa para penguasa bukan budak dan berhak memilih rumah bangsawan mana yang akan diikuti."
 hint_general_conflict_fanatic,"~
 
-{soul_uuid_king_1} is a fanatic, so it is important to him that his neighbors are pious, while {soul_uuid_king_2} does not pay enough attention to faith and the construction of temples. Only the church can save Norland from falling into darkness; everyone must remember this.
+{soul_uuid_king_1} adalah seorang Fanatik, sehingga penting baginya agar tetangganya saleh, sementara {soul_uuid_king_2} tidak cukup memperhatikan iman dan pembangunan Kuil. Hanya Gereja yang bisa menyelamatkan Norland dari jatuh ke dalam kegelapan; semua orang harus mengingat ini.
 
-{soul_uuid_king_2} believes that it is his business how to conduct affairs, and no one dares to dictate his actions."
+{soul_uuid_king_2} percaya bahwa urusan kerajaannya adalah urusan pribadinya, dan tidak ada yang berani mendikte tindakannya."
 hint_general_conflict_terror,"~
 
-{soul_uuid_king_1} learned that their neighbor {soul_uuid_king_2} has organized terror against the peasants of their culture in his city. He demands an immediate end to this.
+{soul_uuid_king_1} mengetahui bahwa tetangganya {soul_uuid_king_2} telah mengorganisir teror terhadap petani budaya mereka di kotanya. Dia menuntut agar ini dihentikan segera.
 
-{soul_uuid_king_2} believes the governance of his own kingdom is a personal affair, and that use of these extreme means were justified."
-hint_general_conflict_description,"Conflict between neighbors
-A conflict has arisen between the kings {soul_uuid_king_1} and {soul_uuid_king_2} from {faction_uuid_2}.
+{soul_uuid_king_2} percaya bahwa pemerintahan kerajaannya sendiri adalah urusan pribadi, dan bahwa penggunaan sarana ekstrem ini dibenarkan."
+hint_general_conflict_description,"Konflik antar Tetangga
+Sebuah konflik telah muncul antara raja-raja {soul_uuid_king_1} dan {soul_uuid_king_2} dari {faction_uuid_2}.
 {optional_conflict_theme}
 
-{soul_uuid_king_1} asks you to publicly declare your position in this dispute.
+{soul_uuid_king_1} meminta Anda untuk secara publik menyatakan posisi Anda dalam perselisihan ini.
 
-<b>Consequences</b>
-$ Supporting one side will improve your relationship with that side by <green>{support_buf}</green> and worsen the relationship with their opponent by <red>{suppport_debuf}</red>."
-hint_general_conflict_description_suport,"Support {soul_uuid_king_name}
-Publicly declare that {soul_uuid_king} from {faction_uuid} is right in the dispute and that you support him.
+<b>Konsekuensi</b>
+$ Mendukung satu pihak akan meningkatkan hubungan Anda dengan pihak tersebut sebesar <green>{support_buf}</green> dan memperburuk hubungan dengan lawannya sebesar <red>{suppport_debuf}</red>."
+hint_general_conflict_description_suport,"Dukung {soul_uuid_king_name}
+Secara publik nyatakan bahwa {soul_uuid_king} dari {faction_uuid} benar dalam perselisihan dan bahwa Anda mendukungnya.
 
-<b>Consequences</b>
-$ {soul_uuid_king}: Relationship <green>{support_buf}</green>
-$ {soul_uuid_king_other}: Relationship <red>{suppport_debuf}</red>"
+<b>Konsekuensi</b>
+$ {soul_uuid_king}: Hubungan <green>{support_buf}</green>
+$ {soul_uuid_king_other}: Hubungan <red>{suppport_debuf}</red>"
 hint_general_conflict_description_succcess,"~
-<b>Consequences</b>
-$ {soul_uuid_king} is pleased that justice has prevailed. Relationship <green>{support_buf}</green>
-$ {soul_uuid_king_other} considers you a dishonorable coward. Relationship <red>{suppport_debuf}</red>"
+<b>Konsekuensi</b>
+$ {soul_uuid_king} senang bahwa keadilan telah menang. Hubungan <green>{support_buf}</green>
+$ {soul_uuid_king_other} menganggap Anda pengecut yang tidak terhormat. Hubungan <red>{suppport_debuf}</red>"
 hint_general_conflict_description_ignore,"~
-Both parties in the dispute consider you a coward who is difficult to trust.
+Kedua pihak dalam perselisihan menganggap Anda pengecut yang sulit dipercaya.
 
-<b>Consequences</b>
-$ {soul_uuid_king_1}: Relationship <red>{ignor_def}</red>
-$ {soul_uuid_king_2}: Relationship <red>{ignor_def}</red>
+<b>Konsekuensi</b>
+$ {soul_uuid_king_1}: Hubungan <red>{ignor_def}</red>
+$ {soul_uuid_king_2}: Hubungan <red>{ignor_def}</red>
 "
 hint_general_conflict_success_letter_1,"~
-Assistance in a time of need will not be forgotten by me. Spite leads me into conflicts, but it also compels me to remember acts of kindness. From this moment on, you can count on my support."
+Bantuan di saat membutuhkan tidak akan saya lupakan. Kebencian membawa saya ke dalam konflik, tapi itu juga memaksa saya untuk mengingat tindakan kebaikan. Mulai saat ini, Anda bisa mengandalkan dukungan saya."
 hint_general_conflict_success_letter_2,"~
-I know that times are tough, and every warrior counts. This makes the help you've provided even more valuable. Thank you, and if you ever need assistance, I will respond to your first request."
+Saya tahu bahwa masa sulit, dan setiap prajurit berhitung. Ini membuat bantuan yang Anda berikan semakin berharga. Terima kasih, dan jika suatu saat Anda membutuhkan bantuan, saya akan merespons permintaan pertama Anda."
 hint_general_conflict_fail_letter_1,"~
-Is there a vice worse than cowardice? You're better suited to rule over a pigsty than a kingdom. Difficult times always come, and then you'll pay for your timidity.
+Apakah ada kejahatan yang lebih buruk daripada pengecut? Anda lebih cocok memerintah kandang babi daripada kerajaan. Masa sulit selalu datang, dan saat itu Anda akan membayar atas ketakutan Anda.
 "
 hint_general_conflict_fail_letter_2,"~
-I called upon you for help, and what do I see? It seems you'd be afraid to take even your mother's breast. That's why you've become as timid as a hare before a hunter. Know that I won't forget this!"
+Saya meminta bantuan Anda, dan apa yang saya lihat? Sepertinya Anda takut bahkan mengambil susu ibu Anda. Itulah mengapa Anda menjadi penakut seperti kelinci di hadapan pemburu. Ketahuilah bahwa saya tidak akan melupakan ini!"
 hint_general_conflict_ignore_letter_1,"~
-Hiding under the hem of a woman's skirt as soon as you were asked to choose sides in the conflict? How can one trust such a brave soul? Don't ever think about asking me for help!"
+Bersembunyi di balik ujung rok seorang wanita begitu diminta memilih pihak dalam konflik? Bagaimana seseorang bisa mempercayai jiwa pemberani seperti itu? Jangan pernah berpikir untuk meminta bantuan dariku!"
 hint_general_conflict_ignore_letter_2,"~
-It matters not whether it was indecision or cowardice that guided you; to me, it's all the same. I asked for your support in this conflict, and now I know what kind of person I'm dealing with. You've permanently lost my trust."
-hint_running_lord_description,"Runaway lord
-The village elder reports that they have a lord, {soul_uuid}, from the province of {faction_uuid}, who wishes to join your family and humbly requests a title.
+Tidak masalah apakah itu ketidaktegasan atau pengecut yang membimbingmu; bagiku, semuanya sama saja. Aku meminta dukunganmu dalam konflik ini, dan sekarang aku tahu jenis orang seperti apa yang kuhadapi. Kau telah kehilangan kepercayaanku secara permanen."
+hint_running_lord_description,"Penguasa Pelarian
+Tetua desa melaporkan bahwa mereka memiliki seorang penguasa, {soul_uuid}, dari provinsi {faction_uuid}, yang ingin bergabung dengan keluargamu dan dengan rendah hati meminta gelar.
 
-They do not wish to explain why they left {faction_uuid}, but there was clearly a conflict, so {soul_uuid_king} will not be pleased if you accept them.
+Mereka tidak ingin menjelaskan mengapa mereka meninggalkan {faction_uuid}, tapi jelas ada konflik, sehingga {soul_uuid_king} tidak akan senang jika kau menerima mereka.
 
-The lord will stay in your village for a few days before departing.
+Penguasa itu akan tinggal di desamu selama beberapa hari sebelum pergi.
 
-<b>Consequences</b>
-$ {soul_uuid} will join your family and receive a title.
-$ {soul_uuid_king}: Relationship <red>{der}</red>"
-hint_running_lord_invite,"Invite the lord
-Invite the runaway lord into your noble family
+<b>Konsekuensi</b>
+$ {soul_uuid} akan bergabung dengan keluargamu dan menerima gelar.
+$ {soul_uuid_king}: Hubungan <red>{der}</red>"
+hint_running_lord_invite,"Undang Penguasa
+Undang penguasa pelarian ke dalam keluarga bangsawanmu
 
-<b>Consequences</b>
-$ {soul_uuid} will join your family and receive a title.
-$ {soul_uuid_king}: Relationship <red>{der}</red>"
+<b>Konsekuensi</b>
+$ {soul_uuid} akan bergabung dengan keluargamu dan menerima gelar.
+$ {soul_uuid_king}: Hubungan <red>{der}</red>"
 hint_running_lord_success,"~
-$ {soul_uuid} is pleased to join your family. He promises to be loyal.
-$ {soul_uuid_king}: Relationship <red>{der}</red>"
+$ {soul_uuid} senang bergabung dengan keluargamu. Ia berjanji akan setia.
+$ {soul_uuid_king}: Hubungan <red>{der}</red>"
 hint_running_lord_ignore,"~
-{soul_uuid} leaves your lands without waiting for an invitation. Most likely, they will become a free lord."
+{soul_uuid} meninggalkan tanahmu tanpa menunggu undangan. Paling Mungkin, mereka akan menjadi penguasa bebas."
 hint_running_lord_success_letter_1,"~
-This traitor deserved exile, but instead of wandering and living in destitution, you granted him a title. So, does the friendship between our kingdoms mean as little to you as spoiled meat? Well, it's your choice."
+Pengkhianat ini pantas diasingkan, tapi alih-alih mengembara dan hidup dalam kemiskinan, kau memberinya gelar. Jadi, apakah persahabatan antara kerajaan kita berarti begitu sedikit bagimu seperti daging busuk? Yah, itu pilihammu."
 hint_running_lord_ignore_letter_1,"~
-Your action is commendable. I applaud your decision not to bestow a title upon that scoundrel. He betrayed me and deserved a noose around his neck, and only pity compelled me to let him go."
-hint_lord_rebel_offer_context,"Invite to your family
-The cost will depend on the difference between the performer's skills and the target, as well as the skills of the invited lord.
+Tindakanmu patut dipuji. Aku tepuk tangan untuk keputusanmu tidak memberikan gelar kepada bajingan itu. Ia mengkhianatiku dan pantas digantung, dan hanya belas kasihan yang memaksaku membiarkannya pergi."
+hint_lord_rebel_offer_context,"Undang ke Keluargamu
+Biaya akan tergantung pada perbedaan antara keterampilan pelaku dan target, serta keterampilan penguasa yang diundang.
 {soul_uuid_performer} {skill_name} {skill_level} lvl.
 {soul_uuid_lord} {skill_name} {target_skill_level} lvl.
 
-Final cost: <hint=hint_resource_rune>{offer_cost}</hint> {price_change_percent}
+Biaya akhir: <hint=hint_resource_rune>{offer_cost}</hint> {price_change_percent}
 
-{soul_uuid_lord} will join your noble family.
+{soul_uuid_lord} akan bergabung dengan keluarga bangsawanmu.
 
-$ Relations with {soul_uuid_king}: <red>{rel_de}</red>"
-hint_lord_rebel_description,"Lord ready to leave
-Rumors have it that Lord {soul_uuid_lord} is planning to leave their noble house and is awaiting invitations from other kings.
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de}</red>"
+hint_lord_rebel_description,"Penguasa Siap Pergi
+Rumor mengatakan bahwa Penguasa {soul_uuid_lord} berencana meninggalkan rumah bangsawan mereka dan menunggu undangan dari raja-raja lain.
 
-You can intervene by offering lord <hint=hint_resource_rune>Holy Rings</hint> to encourage them to join your noble house, but this will worsen your relations with their current king, {soul_uuid_king}.
+Kau bisa campur tangan dengan menawarkan <hint=hint_resource_rune>Cincin Suci</hint> kepada penguasa untuk mendorong mereka bergabung dengan rumah bangsawanmu, tapi ini akan memperburuk hubunganmu dengan raja saat ini mereka, {soul_uuid_king}.
 
-Consequences:
-$ {soul_uuid_lord} will join your noble family
-$ Relationship with {soul_uuid_king} will deteriorate: <red>{rel_de}</red>
+Konsekuensi:
+$ {soul_uuid_lord} akan bergabung dengan keluarga bangsawanmu
+$ Hubungan dengan {soul_uuid_king} akan memburuk: <red>{rel_de}</red>
 
 [hint_SENDER]"
-hint_lord_rebel_offer,"Invite to join
-Offer {soul_uuid_lord} <hint=hint_resource_rune>Holy Rings</hint>, and the lord will join your noble family.
+hint_lord_rebel_offer,"Ajak Bergabung
+Berikan {soul_uuid_lord} <hint=hint_resource_rune>Cincin Suci</hint>, dan penguasa tersebut akan bergabung dengan keluarga bangsawan Anda.
 
-$ Relationship with {soul_uuid_king} will deteriorate: <red>{rel_de}</red>"
-hint_lord_rebel_success,"Welcome the new lord!
-{soul_uuid_lord} has joined your noble house.
+$ Hubungan dengan {soul_uuid_king} akan memburuk: <red>{rel_de}</red>"
+hint_lord_rebel_success,"Selamat datang penguasa baru!
+{soul_uuid_lord} telah bergabung dengan rumah bangsawan Anda.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de}</red>"
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de}</red>"
 hint_lord_rebel_success_letter_1,"~
-I see how skillfully you've drawn {rebel_name} to your side. Perhaps we had our differences, but meddling in our affairs was uncalled for. One should show more respect for neighbors."
+Saya melihat betapa terampilnya Anda menarik {rebel_name} ke pihak Anda. Mungkin kami pernah berselisih, tapi campur tangan dalam urusan kami tidak pantas. Seseorang harus lebih menghormati tetangga."
 hint_lord_rebel_success_letter_2,"~
-I write to you to announce that your interference has dismayed me. I am aware that {rebel_name} has joined your ranks. Although the loss is not substantial, I kindly request that you refrain from such interventions in the future!"
-hint_neutralise_lord_description,"Neutralization order
-{soul_uuid_king} is in a difficult situation with his neighbors from {faction_uuid_target}. He is planning to start a war soon, and it will greatly benefit him if one of the key lords of the enemy, {soul_uuid_target} of {faction_uuid_target} were to disappear.
+Saya menulis kepada Anda untuk mengumumkan bahwa campur tangan Anda telah mengecewakan saya. Saya sadar bahwa {rebel_name} telah bergabung dengan barisan Anda. Meskipun kerugiannya tidak besar, saya dengan hormat meminta Anda untuk menahan diri dari intervensi semacam itu di masa depan!"
+hint_neutralise_lord_description,"Perintah Netralisasi
+{soul_uuid_king} berada dalam situasi sulit dengan tetangganya dari {faction_uuid_target}. Dia berencana memulai perang segera, dan itu akan sangat menguntungkannya jika salah satu penguasa kunci musuh, {soul_uuid_target} dari {faction_uuid_target} menghilang.
 
-For this, they are willing to offer a reward of <hint=hint_resource_gold>{price}</hint> and their eternal gratitude.
+Untuk ini, mereka bersedia menawarkan hadiah <hint=hint_resource_gold>{price}</hint> dan rasa terima kasih abadi mereka.
 
-You are free to choose your method of neutralization, either by killing (including in battle or duel) or by kidnapping, but you also need to be prepared for the consequences.
+Anda bebas memilih metode netralisasi, baik dengan membunuh (termasuk dalam pertempuran atau duel) atau dengan menculik, tapi Anda juga harus siap dengan konsekuensinya.
 
-The target must be captured or killed.
+Target harus ditangkap atau dibunuh.
 
-<b>Consequences</b>
-$ You will receive <hint=hint_resource_gold>{price}</hint>.
-$ <b>There will be negative consequences</b> depending on the method you choose.
-$ Relationship with {soul_uuid_king}: <green>{rel_buff}</green>"
+<b>Konsekuensi</b>
+$ Anda akan menerima <hint=hint_resource_gold>{price}</hint>.
+$ <b>Akan ada konsekuensi negatif</b> tergantung pada metode yang Anda pilih.
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_buff}</green>"
 hint_neutralise_lord_success,"~
-Everything went well, and {soul_uuid_target} is no longer a threat. {soul_uuid_king} is very grateful to you.
+Semuanya berjalan lancar, dan {soul_uuid_target} tidak lagi menjadi ancaman. {soul_uuid_king} sangat berterima kasih kepada Anda.
 
-<b>Consequences</b>
-$ You receive <hint=hint_resource_gold>{price}</hint>.
-$ Relationship with {soul_uuid_king}: <green>{rel_buff}</green>"
+<b>Konsekuensi</b>
+$ Anda menerima <hint=hint_resource_gold>{price}</hint>.
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_buff}</green>"
 hint_neutralise_lord_success_letter_1,"~
-You've done me a good service by removing that lord. I shall honor my word, and the reward shall be yours. I hope this won't be our last mutually beneficial deal. And remember, not a word to anyone!"
+Anda telah memberikan layanan baik kepada saya dengan menghilangkan penguasa itu. Saya akan menepati kata saya, dan hadiah itu milik Anda. Saya harap ini bukan kesepakatan saling menguntungkan terakhir kita. Dan ingat, jangan katakan kepada siapa pun!"
 hint_neutralise_lord_success_letter_2,"~
-This is how matters should be handled. You have completely justified my trust by eliminating that lord from my path. Individuals like you deserve such rewards. I have various flaws, but miserliness is not one of them! And I trust you will keep our affairs secret!"
+Inilah cara menangani urusan. Anda telah sepenuhnya membenarkan kepercayaan saya dengan menghilangkan penguasa itu dari jalan saya. Individu seperti Anda pantas mendapatkan hadiah seperti itu. Saya punya berbagai kekurangan, tapi kekikiran bukan salah satunya! Dan saya percaya Anda akan menjaga kerahasiaan urusan kita!"
 hint_vassal_tribute,"~
-$ The amount of tribute will be: <hint=hint_resource_gold>{tax_amount}</hint>"
-hint_player_ask_for_vassal,"To request {soul_uuid_king} to become your <hint=hint_vassal>suzerain</hint>. However, he may refuse if your king is hated by too many neighbors (more than two)."
+$ Jumlah upeti akan menjadi: <hint=hint_resource_gold>{tax_amount}</hint>"
+hint_player_ask_for_vassal,"Mengajukan permintaan kepada {soul_uuid_king} untuk menjadi <hint=hint_vassal>suzerain</hint> Anda. Namun, dia mungkin menolak jika raja Anda dibenci oleh terlalu banyak tetangga (lebih dari dua)."
 hint_player_ask_for_vassal_successful,"~
-You have become a <hint=hint_vassal>vassal</hint>.
+Engkau telah menjadi seorang <hint=hint_vassal>vasal</hint>.
 
-{soul_uuid_king} is now your suzerain.
+{soul_uuid_king} sekarang adalah suzerain-mu.
 
-Serve him faithfully!
+Layani dia dengan setia!
 
 [hint_vassal_tribute]"
 hint_player_ask_for_vassal_fail,"~
-{soul_uuid_king} has declined to become your suzerain as he believes it would create too many problems with neighboring factions."
+{soul_uuid_king} menolak menjadi suzerain-mu karena ia percaya itu akan menimbulkan terlalu banyak masalah dengan faksi-faksi tetangga."
 hint_player_ask_for_vassal_success_letter_1,"~
-Your wisdom does you honor. By becoming my vassal, you will secure your protection - a value that few in our times truly comprehend. Very well, I agree."
+Kebijaksanaanmu menghormatimu. Dengan menjadi vasalku, engkau akan mengamankan perlindunganmu - nilai yang sedikit sekali dipahami di zaman kita sekarang. Baiklah, aku setuju."
 hint_player_ask_for_vassal_fail_letter_1,"~
-You seek vassalage out of desperation. Enemies surround you, and consider this: if I agree, they will become my enemies as well. I advise you to mend your relations with them first, and then seek assistance."
-hint_player_break_vassal,"Release the vassal
-Your sovereignty over {soul_uuid_king} is dissolved, and this faction will no longer be your <hint=hint_vassal>vassal</hint>."
+Engkau mencari kevasalan karena keputusasaan. Musuh-musuh mengelilingimu, dan pertimbangkan ini: jika aku setuju, mereka juga akan menjadi musuhku. Aku sarankan engkau perbaiki hubunganmu dengan mereka dulu, baru kemudian minta bantuan."
+hint_player_break_vassal,"Bebaskan Vasal
+Kedaulatanmu atas {soul_uuid_king} dibubarkan, dan faksi ini tidak lagi menjadi <hint=hint_vassal>vasal</hint>-mu."
 hint_player_break_vassal_successful,"~
-You have terminated the relationship, and {soul_uuid_king} is no longer your <hint=hint_vassal>vassal</hint>."
+Engkau telah mengakhiri hubungan itu, dan {soul_uuid_king} tidak lagi menjadi <hint=hint_vassal>vasal</hint>-mu."
 hint_king_vassal,"[hint_DESCRIPTION]
-{soul_uuid_king} believes that in the current situation, it would be best for you to become their <hint=hint_vassal>vassal</hint>.
+{soul_uuid_king} percaya bahwa dalam situasi saat ini, akan lebih baik jika engkau menjadi <hint=hint_vassal>vasal</hint> mereka.
 
-$ You have <b>2 days</b> to consider the offer.
-$ If you ignore the proposal, {soul_uuid_king} will attempt to test your strength in a few days.
-$ If this assault on your city is successful and your Hall is burned to the ground, you will be recognized as {soul_uuid_king}'s vassal by the entire world.
+$ Engkau memiliki <b>2 hari</b> untuk mempertimbangkan tawaran ini.
+$ Jika engkau mengabaikan proposal ini, {soul_uuid_king} akan mencoba menguji kekuatanmu dalam beberapa hari.
+$ Jika serangan ini terhadap kotamu berhasil dan Aula-mu dibakar sampai rata dengan tanah, engkau akan diakui sebagai vasal {soul_uuid_king} oleh seluruh dunia.
 {optional_player_is_vassal}
 {optional_possible_helpers}
 
 [hint_SENDER]"
-hint_king_accept_demand,"Agree
-Agree to become his <hint=hint_vassal>vassal</hint>.
+hint_king_accept_demand,"Setuju
+Setuju untuk menjadi <hint=hint_vassal>vasal</hint>-nya.
 {optional_player_is_vassal}
 
 [hint_vassal_tribute]"
 hint_king_accept_demand_success,"~
-You have become a <hint=hint_vassal>vassal</hint>.
+Engkau telah menjadi seorang <hint=hint_vassal>vasal</hint>.
 
-{soul_uuid_king} is now your suzerain.
+{soul_uuid_king} sekarang adalah suzerain-mu.
 
-Serve him faithfully!
+Layani dia dengan setia!
 {optional_player_ex_sir_result}
 
 [hint_vassal_tribute]"
 hint_king_ignore,"~
-You ignored the offer, and in a few days, {soul_uuid_king} will attempt to test your strength.
+Engkau mengabaikan tawaran itu, dan dalam beberapa hari, {soul_uuid_king} akan mencoba menguji kekuatanmu.
 
- If this assault on your city is successful and your Hall is burned to the ground, you will be recognized throughout the realm as {soul_uuid_king}'s <hint=hint_vassal>vassal</hint>."
+ Jika serangan ini terhadap kotamu berhasil dan Aula-mu dibakar sampai rata dengan tanah, engkau akan diakui di seluruh kerajaan sebagai <hint=hint_vassal>vasal</hint> {soul_uuid_king}."
 hint_king_coward,"~
-{soul_uuid_king} had a change of heart and decided not to assault your settlement, fearing the <hint=hint_army_power>strength</hint> of your army.
+{soul_uuid_king} berubah pikiran dan memutuskan untuk tidak menyerang pemukimanmu, karena takut pada <hint=hint_army_power>Kekuatan</hint> pasukanmu.
 
-Now he will be known as a coward."
+Sekarang dia akan dikenal sebagai pengecut."
 hint_king_accept_demand_success_letter_1,"~
-You've made a wise choice by becoming my vassal. In exchange for a small tribute, I provide you with protection. What more could you wish for?"
+Kau telah membuat pilihan bijak dengan menjadi vasalku. Sebagai gantinya dengan upeti kecil, aku memberikan perlindungan kepadamu. Apa lagi yang kau inginkan?"
 hint_king_accept_demand_success_letter_2,"~
-Many deem it shameful to become a vassal, but is it not advantageous for you to purchase my protection with a modest tribute? You have made the right choice, leaving war to those who understand it!"
+Banyak yang menganggap memalukan menjadi vasal, tapi bukankah menguntungkan bagimu membeli perlindunganku dengan upeti sederhana? Kau telah membuat pilihan yang tepat, meninggalkan perang kepada mereka yang memahaminya!"
 hint_king_ignore_letter_1,"~
-How foolish people can be! You refused to become my vassal and think I'll just let you go? What is not given to me willingly, I take by force!"
+Betapa bodohnya manusia! Kau menolak menjadi vasalku dan berpikir aku akan membiarkanmu pergi begitu saja? Apa yang tidak diberikan secara sukarela kepadaku, aku ambil dengan paksa!"
 hint_king_ignore_letter_2,"~
-I offered you a fair treaty. Becoming my vassal is a great honor for many. You chose to defy me. Well, that's your choice, not mine."
+Aku menawarkan perjanjian yang adil kepadamu. Menjadi vasalku adalah kehormatan besar bagi banyak orang. Kau memilih untuk menentangku. Baiklah, itu pilihammu, bukan milikku."
 hint_king_coward_letter_1,"~
-To your good fortune, more pressing matters have arisen for me than punishing a defiant neighbor. Well, for now, you may live in peace!"
+Untuk keberuntunganmu, urusan yang lebih mendesak muncul bagiku daripada menghukum tetangga yang menentang. Baiklah, untuk saat ini, kau boleh hidup damai!"
 hint_king_coward_letter_2,"~
-I would have punished you for your defiance, but the Holy Mother Sophia appeared to me in a dream and forbade me to do so. You are fortunate!"
+Aku akan menghukummu atas penentanganmu, tapi Bunda Suci Sophia muncul padaku dalam mimpi dan melarangku melakukannya. Kau beruntung!"
 hint_king_vassal_lite,"[hint_DESCRIPTION]
-{soul_uuid_king} believes that in the current situation, it would be best for you to become his <hint=hint_vassal>vassal</hint>.
+{soul_uuid_king} percaya bahwa dalam situasi saat ini, akan lebih baik bagimu menjadi <hint=hint_vassal>vasal</hint>nya.
 
-You have <b>2 days</b> to consider the offer.
+Kau memiliki <b>2 hari</b> untuk mempertimbangkan tawaran tersebut.
 
-$ If you ignore the proposal, {soul_uuid_king} will consider it as an act of insolence, and his attitude toward you will deteriorate by <red>{king_de}</red>.
+$ Jika kau mengabaikan proposal itu, {soul_uuid_king} akan menganggapnya sebagai tindakan kurang ajar, dan sikapnya terhadapmu akan memburuk sebesar <red>{king_de}</red>.
 
 [hint_SENDER]"
 hint_king_lite_ignore,"~
-You ignored the offer.
+Kau mengabaikan tawaran itu.
 
-$ Relationship with {soul_uuid_king}: <red>{king_de}</red>"
+$ Hubungan dengan {soul_uuid_king}: <red>{king_de}</red>"
 hint_king_lite_ignore_letter_1,"~
-I am not accustomed to receiving silent refusals, especially on matters of authority. You have shown open disrespect, and you will be treated accordingly!"
+Aku tidak terbiasa menerima penolakan diam-diam, terutama dalam urusan otoritas. Kau telah menunjukkan ketidakhormatan terbuka, dan kau akan diperlakukan sesuai itu!"
 hint_king_lite_ignore_letter_2,"~
-You refuse to become my vassal? To want enemies like me, you must consider yourself immortal! Well, the time will come, and we will test this in practice."
+Engkau menolak menjadi vasalku? Untuk ingin musuh seperti aku, engkau pasti menganggap dirimu abadi! Baiklah, waktunya akan tiba, dan kita akan mengujinya dalam praktik."
 hint_demand_vassal_fair_conditions,"~
-$ If the ruler does not agree to submit within 3 days, you will be required to attack the city.
-$ If you emerge victorious, this faction will become your vassal by force.
-$ If the ruler refuses but you don't attack the city, you will be seen as a coward."
-hint_demand_vassal_fair,"Demand vassalage
-You challenge the authority of {soul_uuid_king} and demand that they becomes your <hint=hint_vassal>vassal</hint>.
+$ Jika penguasa tidak setuju tunduk dalam 3 hari, engkau diwajibkan menyerang kota itu.
+$ Jika engkau menang, faksi ini akan menjadi vasalmu secara paksa.
+$ Jika penguasa menolak tapi engkau tidak menyerang kota, engkau akan dianggap pengecut."
+hint_demand_vassal_fair,"Menuntut Vasal
+Engkau menantang otoritas {soul_uuid_king} dan menuntut agar ia menjadi <hint=hint_vassal>vasal</hint>mu.
 {optional_conditions}
 
-In any case, this is an aggressive action:
+Bagaimanapun, ini adalah tindakan agresif:
 {optional_attack_on_vassal_or_ally}
 {optional_change_relations_with_owner}
-$ Relationship with neighbors: <red>{demand_vassal_fair_rel_de_neigh}</red>
-$ Relationship with Matriarch: <red>{demand_vassal_fair_matriarch_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{demand_vassal_fair_rel_de_neigh}</red>
+$ Hubungan dengan Matriark: <red>{demand_vassal_fair_matriarch_rel_de}</red>
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]
 {optional_duty_of_honor}"
 hint_demand_vassal_fair_success,"~
-You have challenged the authority of {soul_uuid_king} and will soon receive a response.
+Engkau telah menantang otoritas {soul_uuid_king} dan segera akan menerima tanggapan.
 
 {optional_attack_on_vassal_or_ally}
-$ Relationship with {soul_uuid_king}: <red>{demand_vassal_fair_rel_de}</red>
-$ Relationship with neighbors: <red>{demand_vassal_fair_rel_de_neigh}</red>
-$ Relationship with Matriarch: <red>{demand_vassal_fair_matriarch_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{demand_vassal_fair_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{demand_vassal_fair_rel_de_neigh}</red>
+$ Hubungan dengan Matriark: <red>{demand_vassal_fair_matriarch_rel_de}</red>
 {optional_holy_defence_will_removed}"
 hint_demand_vassal_fair_relations,"~
-$ Relationship with {soul_uuid_king}: <red>{demand_vassal_fair_rel_de}</red>"
-hint_demand_vassal_unfair,"Offer vassalage
-You challenge the authority of {soul_uuid_king} and demand that they becomes your <hint=hint_vassal>vassal</hint>.
+$ Hubungan dengan {soul_uuid_king}: <red>{demand_vassal_fair_rel_de}</red>"
+hint_demand_vassal_unfair,"Menawarkan Vasal
+Engkau menantang otoritas {soul_uuid_king} dan menuntut agar ia menjadi <hint=hint_vassal>vasal</hint>mu.
 
-$ If they do not agree to submit within 3 days, you must attack their city.
-$ If you win, they will become your vassal by force.
-$ If you don't attack their city in case of their refusal, you will be branded a coward.
+$ Jika ia tidak setuju tunduk dalam 3 hari, engkau harus menyerang kotanya.
+$ Jika engkau menang, ia akan menjadi vasalmu secara paksa.
+$ Jika engkau tidak menyerang kotanya dalam kasus penolakannya, engkau akan dicap sebagai pengecut.
 
-WARNING. Since you are in good (above <green>+15</green>) relations with the ruler of this settlement, such aggression will be seen as a <red>treacherous</red> act of backstabbing.
+PERINGATAN. Karena engkau memiliki hubungan baik (di atas <green>+15</green>) dengan penguasa pemukiman ini, agresi seperti itu akan dianggap sebagai tindakan <red>khianat</red> yang menusuk dari belakang.
 
 {optional_attack_on_vassal_or_ally}
-$ Relationship with {soul_uuid_king}: <red>{demand_vassal_rel_de}</red>
-$ Relationship with neighbors: <red>{demand_vassal_rel_neigh_de}</red>
-$ Relationship with Matriarch: <red>{demand_vassal_unfair_matriarch_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{demand_vassal_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{demand_vassal_rel_neigh_de}</red>
+$ Hubungan dengan Matriark: <red>{demand_vassal_unfair_matriarch_rel_de}</red>
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
 hint_demand_vassal_unfair_success,"~
-You have challenged the authority of {soul_uuid_king} and will soon receive a response.
+Engkau telah menantang otoritas {soul_uuid_king} dan segera akan menerima tanggapan.
 
 {optional_attack_on_vassal_or_ally}
-$ Relationship with {soul_uuid_king}: <red>{demand_vassal_rel_de}</red>
-$ Relationship with neighbors: <red>{demand_vassal_rel_neigh_de}</red>
-$ Relationship with Matriarch: <red>{demand_vassal_unfair_matriarch_rel_de}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{demand_vassal_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{demand_vassal_rel_neigh_de}</red>
+$ Hubungan dengan Matriark: <red>{demand_vassal_unfair_matriarch_rel_de}</red>
 {optional_holy_defence_will_removed}"
 hint_demand_vassal_fair_consequences,"~
 {optional_attack_on_vassal_or_ally}
-$ Relationship with neighbors: <red>{demand_vassal_fair_rel_de_neigh}</red>
-$ Relationship with Matriarch: <red>{demand_vassal_fair_matriarch_rel_de}</red>"
-hint_demand_vassal_wait,"Waiting for a response
-{soul_uuid_king} is contemplating your offer to become your <hint=hint_vassal>vassal</hint>
-He will give an answer soon."
+$ Hubungan dengan tetangga: <red>{demand_vassal_fair_rel_de_neigh}</red>
+$ Hubungan dengan Matriark: <red>{demand_vassal_fair_matriarch_rel_de}</red>"
+hint_demand_vassal_wait,"Menunggu Tanggapan
+{soul_uuid_king} sedang mempertimbangkan tawaranmu untuk menjadi <hint=hint_vassal>vasal</hint>mu
+Ia akan segera memberikan jawaban."
 hint_demand_vassal_success,"~
-{soul_uuid_king} has decided to accept your offer and has become your <hint=hint_vassal>vassal</hint>.
+{soul_uuid_king} telah memutuskan untuk menerima tawaranmu dan telah menjadi <hint=hint_vassal>vasal</hint>mu.
 
-You are now their suzerain.
+Kini engkau adalah suzerainnya.
 
-They has vowed to serve you faithfully.
+Ia telah bersumpah melayanimu dengan setia.
 {optional_consequences}
 
 [hint_vassal_tribute]
 {optional_duty_of_honor_complete}"
 hint_demand_vassal_fail,"~
-{soul_uuid_king} refuses your offer and invites you to settle the matter by force.
+{soul_uuid_king} menolak tawaran Anda dan mengundang Anda untuk menyelesaikan masalah ini dengan kekerasan.
 
-You must attack his city and defeat him within the next 3 days, or you will be deemed a coward."
+Anda harus menyerang kotanya dan mengalahkannya dalam 3 hari ke depan, atau Anda akan dianggap pengecut."
 hint_demand_vassal_success_letter_1,"~
-I am compelled to acquiesce to your demand. It was a difficult decision to make, but the times are turbulent, and I confess, I am in need of your protection."
+Saya terpaksa menurut tuntutan Anda. Ini adalah keputusan yang sulit, tapi masa ini penuh gejolak, dan saya akui, saya membutuhkan perlindungan Anda."
 hint_demand_vassal_success_letter_2,"~
-You present me with a harsh choice: to see my kingdom destroyed or to pay you an unbearable tribute... I choose the tribute! But remember, Holy Sophia sees all!"
+Anda menyajikan saya pilihan yang keras: melihat kerajaan saya hancur atau membayar upeti yang tak tertahankan... Saya pilih upeti! Tapi ingat, Holy Sophia melihat segalanya!"
 hint_demand_vassal_fail_letter_1,"~
-You think I'm ready to kneel before you? Never! Threats on paper don't require courage, but to prove oneself worthy in battle is not given to everyone! Our swords are already sharpened, and we await!"
+Anda pikir saya siap berlutut di hadapan Anda? Tidak pernah! Ancaman di atas kertas tidak memerlukan keberanian, tapi membuktikan diri layak di medan perang bukan untuk semua orang! Pedang kami sudah diasah, dan kami menanti!"
 hint_demand_vassal_fail_letter_2,"~
-Today, in front of all, I boldly declared that we shall not become your vassal. I fear not death, be it this world or the next. However, in the memories of all, I aspire to be remembered as a valiant warrior, not as an eagle caged in captivity."
-hint_demand_vassal_attack_description,"Anticipating the attack
-After declining your demand for <hint=hint_vassal>vassalage</hint>, {soul_uuid_king} is awaiting your assault.
+Hari ini, di hadapan semua orang, saya dengan berani menyatakan bahwa kami tidak akan menjadi vasal Anda. Saya tidak takut kematian, baik di dunia ini maupun yang akan datang. Namun, dalam ingatan semua, saya bercita-cita dikenang sebagai prajurit pemberani, bukan sebagai elang yang dikurung dalam penjara."
+hint_demand_vassal_attack_description,"Menanti Serangan
+Setelah menolak tuntutan Anda untuk <hint=hint_vassal>kedudukan vasal</hint>, {soul_uuid_king} sedang menanti serangan Anda.
 
-$ If you win, this faction will become your vassal.
-$ If your assault fails, the faction will remain independent.
-$ If you do not show up for the assault within 3 days, you will be declared a coward."
-hint_demand_vassal_attack,"Attack
-$ If you win, {soul_uuid_king} will become your vassal.
-$ If your assault fails, this faction will remain independent.
-$ If you do not show up for the assault within 3 days, you will be declared a coward."
+$ Jika Anda menang, faksi ini akan menjadi vasal Anda.
+$ Jika serangan Anda gagal, faksi ini akan tetap merdeka.
+$ Jika Anda tidak datang untuk serangan dalam 3 hari, Anda akan dinyatakan pengecut."
+hint_demand_vassal_attack,"Serangan
+$ Jika Anda menang, {soul_uuid_king} akan menjadi vasal Anda.
+$ Jika serangan Anda gagal, faksi ini akan tetap merdeka.
+$ Jika Anda tidak datang untuk serangan dalam 3 hari, Anda akan dinyatakan pengecut."
 hint_demand_vassal_attack_success,"~
-As a result of a successful assault, {soul_uuid_king} has acknowledged your power and agreed to become your <hint=hint_vassal>vassal</hint>.
+Akibat serangan yang berhasil, {soul_uuid_king} telah mengakui kekuatan Anda dan setuju menjadi <hint=hint_vassal>vasal</hint> Anda.
 
 [hint_vassal_tribute]"
 hint_demand_vassal_attack_fail,"~
-You lost the battle, and {soul_uuid_king} remains independent."
+Anda kalah dalam pertempuran, dan {soul_uuid_king} tetap merdeka."
 hint_demand_vassal_attack_timeover,"~
-You failed to show up for the assault, and now your king will be seen as a coward.
+Anda gagal hadir untuk serangan, dan sekarang raja Anda akan dipandang sebagai pengecut.
 
-$ Relationship with neighbors and {soul_uuid_king}: <red>{rel_coward}</red>"
+$ Hubungan dengan tetangga dan {soul_uuid_king}: <red>{rel_coward}</red>"
 hint_demand_vassal_attack_success_letter_1,"~
-How many deaths and sorrows have you sown with your attack! How many children have been left fatherless! Well, now I am your vassal. However, remember that I will always fight for my freedom!"
+Berapa banyak kematian dan kesedihan yang telah kau taburkan dengan seranganmu! Berapa banyak anak yang ditinggal yatim piatu! Baiklah, sekarang aku adalah bawahanmu. Namun, ingatlah bahwa aku akan selalu berjuang untuk kebebasanku!"
 hint_demand_vassal_attack_success_letter_2,"~
-You are a brave warrior, and I have no choice but to submit to you. But my heart will remain free!"
+Kau adalah prajurit pemberani, dan aku tak punya pilihan selain tunduk padamu. Tetapi hatiku akan tetap bebas!"
 hint_demand_vassal_attack_fail_letter_1,"~
-I will respect a worthy opponent, even if they suffer defeat! However, those neighbors who do not know how to fight and senselessly ruin their people, I despise!"
+Aku akan menghormati lawan yang layak, meskipun mereka mengalami kekalahan! Namun, para tetangga yang tak tahu cara bertarung dan merusak rakyatnya secara sia-sia, aku benci!"
 hint_demand_vassal_attack_fail_letter_2,"~
-The taste of victory is sweet, but it is unknown to you! However, even sweeter to me is my freedom, which I was able to defend with such dignity! I pray you stop your attempts to subdue me to avoid further disgrace!"
+Rasa kemenangan itu manis, tapi kau tak pernah merasakannya! Namun, yang lebih manis bagiku adalah kebebasanku, yang berhasil kupertahankan dengan begitu mulia! Aku berdoa agar kau hentikan upayamu untuk menaklukanku agar menghindari kehinaan lebih lanjut!"
 hint_demand_vassal_attack_timeover_letter_1,"~
-Everyone strives to be known throughout the land, and you have succeeded in that! Rumors of your cowardice will spread throughout the world, and believe me, I will contribute to it!"
+Semua orang berusaha dikenal di seluruh negeri, dan kau telah berhasil dalam hal itu! Rumor tentang kelemahanmu akan menyebar ke seluruh dunia, dan percayalah, aku akan ikut menyebarkannya!"
 hint_demand_vassal_attack_timeover_letter_2,"~
-Anyone can make threats, but carrying them out requires bravery. However, fate has rewarded you only with cowardice, and rest assured, tomorrow all our neighbors will talk about this gift!"
-hint_demand_exit_vassal_wait,"Awaiting response
-{soul_uuid_king} is considering your decision to exit <hint=hint_vassal>vassalage</hint>.
+Siapa pun bisa mengancam, tapi melaksanakannya membutuhkan keberanian. Namun, nasib hanya memberimu kelemahan, dan yakinlah, besok semua tetangga kita akan membicarakan 'hadiah' ini!"
+hint_demand_exit_vassal_wait,"Menunggu tanggapan
+{soul_uuid_king} sedang mempertimbangkan keputusanmu untuk keluar dari <hint=hint_vassal>vasalitas</hint>.
 
-$ If your suzerain is strong enough, a seige will fall upon your city. If the assault razes your Hall, your bondage will continue.
-$ However, if you successfully defend your freedom, you will have secured your independence.
-$ The suzerain may choose to grant you freedom without a fight if you are sufficiently strong.
+$ Jika suzerainmu cukup kuat, pengepungan akan menimpa kotamu. Jika serangan itu menghancurkan Aula, ikatanmu akan berlanjut.
+$ Namun, jika kau berhasil mempertahankan kebebasanmu, kau akan mengamankan kemerdekaanmu.
+$ Suzerain mungkin memilih memberimu kebebasan tanpa pertarungan jika kau cukup kuat.
 
-A response will arrive soon. In the meantime, you can request military assistance from your allies."
-hint_exit_vassal_description,"Withdrawal from vassalage
-You announce your desire to challenge and break free from the authority of your suzerain.
+Tanggapan akan segera tiba. Sementara itu, kau bisa meminta bantuan militer dari sekutumu."
+hint_exit_vassal_description,"Penarikan dari vasalitas
+Kau mengumumkan keinginanmu untuk menantang dan membebaskan diri dari otoritas suzerainmu.
 {optional_conditions}
 
-In any case, this is a violation of the vassal's oath:
+Bagaimanapun juga, ini adalah pelanggaran sumpah vasal:
 {optional_change_relations_with_owner}
-$ Relationship with neighbors: <red>{break_vassal_agreement_rel_de_neigh}</red>
+$ Hubungan dengan tetangga: <red>{break_vassal_agreement_rel_de_neigh}</red>
 {optional_possible_helpers}
 
 [hint_SENDER]
 {optional_duty_of_honor}"
 hint_exit_vassal_success,"~
-You have challenged the authority of {soul_uuid_king} and will soon receive a response.
+Kau telah menantang otoritas {soul_uuid_king} dan segera akan menerima tanggapan.
 
-$ Relationship with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>
-$ Relationship with neighbors: <red>{break_vassal_agreement_rel_de_neigh}</red>"
+$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>
+$ Hubungan dengan tetangga: <red>{break_vassal_agreement_rel_de_neigh}</red>"
 hint_exit_vassal_attack,"~
-{soul_uuid_king} has decided to teach you a lesson. The force of your suzerain will fall upon you.
-If you defend your city, you will gain your freedom."
+{soul_uuid_king} telah memutuskan untuk memberimu pelajaran. Pasukan suzerainmu akan menyerangmu.
+Jika kau mempertahankan kotamu, kau akan mendapatkan kebebasanmu."
 hint_exit_vassal_coward,"~
-{soul_uuid_king} decided that there are more important matters than putting down an unruly vassal and grants you freedom. 
+{soul_uuid_king} memutuskan bahwa ada urusan yang lebih penting daripada menindas seorang vassal yang tidak patuh dan memberikan kebebasan kepada Anda. 
 
-But your former master will remember this.
+Tapi mantan tuan Anda akan mengingat hal ini.
 {optional_duty_of_honor_complete}"
 hint_exit_vassal_attack_lose,"~
-You lost the battle, and {soul_uuid_king} remains your suzerain."
+Anda kalah dalam pertempuran, dan {soul_uuid_king} tetap menjadi suzerain Anda."
 hint_exit_vassal_attack_win,"~
-You emerged victorious and became independent. {soul_uuid_king} is no longer your suzerain."
+Anda keluar sebagai pemenang dan menjadi merdeka. {soul_uuid_king} tidak lagi menjadi suzerain Anda."
 hint_exit_vassal_attack_letter_1,"~
-So, you wish to break free from my rule. You know well that for your wish to come true, you must stand against the strength of my army. Don't flatter yourself, it's impossible! So tell your women to prepare their mourning dresses."
+Jadi, engkau ingin melepaskan diri dari kekuasaanku. Engkau tahu betul bahwa untuk keinginanmu terwujud, engkau harus melawan kekuatan pasukanku. Jangan terlalu angkuh, itu mustahil! Suruhlah kaum wanitamu mempersiapkan pakaian berkabung mereka."
 hint_exit_vassal_attack_letter_2,"~
-You're not the first to challenge me, but as you can see, I'm still on the throne. Do you think luck plays a role here? I stopped believing in it long ago. Only a powerful army commands respect, and I have one. Prepare for battle!"
+Engkau bukan yang pertama menantangku, tapi seperti yang kau lihat, aku masih duduk di takhta. Apakah menurutmu keberuntungan berperan di sini? Aku sudah lama berhenti mempercayainya. Hanya pasukan yang kuat yang bisa memerintah rasa hormat, dan aku memilikinya. Siapkan diri untuk pertempuran!"
 hint_exit_vassal_coward_letter_1,"~
-Do you think you can withstand your enemies without my help? Well, go ahead! Watching fools suffer defeat is the best entertainment!"
+Apakah engkau pikir engkau bisa bertahan melawan musuh-musuhmu tanpa pertolonganku? Baiklah, silakan! Menonton orang bodoh menderita kekalahan adalah hiburan terbaik!"
 hint_exit_vassal_coward_letter_2,"~
-I am relieved by your decision. I have more important matters to attend to than dealing with a fool who doesn't understand his own interests!"
+Aku lega dengan keputusanmu. Aku punya urusan yang lebih penting daripada mengurusi orang bodoh yang tidak mengerti kepentingannya sendiri!"
 hint_exit_vassal_attack_lose_letter_1,"~
-Did you think you could defeat me? You miscalculated badly. So don't forget to pay your tribute and never dare threaten me again, you son of a servant!"
+Apakah engkau pikir engkau bisa mengalahkanku? Engkau salah perhitungan parah. Jadi jangan lupa bayar upeti mu dan jangan pernah berani mengancamku lagi, dasar anak pelayan!"
 hint_exit_vassal_attack_lose_letter_2,"~
-This is how the battle ends when arrogance and ambition cloud the mind. Admit that you need my protection, and do not meddle in the affairs of the strong if they are beyond your capability!"
+Inilah bagaimana pertempuran berakhir ketika kesombongan dan ambisi mengaburkan pikiran. Akui bahwa engkau membutuhkan perlindunganku, dan jangan ikut campur urusan orang kuat jika itu di luar kemampuanmu!"
 hint_exit_vassal_attack_win_letter_1,"~
-You have proven your courage, and I acknowledge it. Well, I grant you your freedom; you have earned it. But what now will you do with your enemies?"
+Engkau telah membuktikan keberanianmu, dan aku mengakuinya. Baiklah, aku berikan kebebasanmu; engkau pantas mendapatkannya. Tapi sekarang, apa yang akan engkau lakukan terhadap musuh-musuhmu?"
 hint_exit_vassal_attack_win_letter_2,"~
-I write to congratulate you on your independence, because only the weak cannot admit their defeat. May Holy Sophia help you with your new friends and enemies!"
+Saya menulis untuk mengucapkan selamat atas kemerdekaan Anda, karena hanya yang lemah yang tidak bisa mengakui kekalahan mereka. Semoga Santa Sophia membantu Anda dengan teman dan musuh baru Anda!"
 hint_exit_vassal_attack_lose_new_vassalage,"~  
-You have lost the battle, and {soul_uuid_king} becomes your suzerain."
-hint_good_vassal_description,"Friendly vassalage
-In a friendly manner, offer your neighbor {soul_uuid_king} to become your <hint=hint_vassal>vassal</hint>.
+Anda telah kalah dalam pertempuran, dan {soul_uuid_king} menjadi suzerain Anda."
+hint_good_vassal_description,"Kevasalan ramah
+Secara ramah, tawarkan pada tetangga Anda {soul_uuid_king} untuk menjadi <hint=hint_vassal>vassal</hint> Anda.
 
-This neighbor will agree, as your relationship exceeds <green>{rel_good_vassal_requiments}</green>, and your army is much stronger.
+Tetangga ini akan setuju, karena hubungan Anda melebihi <green>{rel_good_vassal_requiments}</green>, dan pasukan Anda jauh lebih kuat.
 
 [hint_SENDER]"
-hint_good_vassal_send_request,"Offering vassalage
-He will agree, as your relationship exceeds <green>{rel_good_vassal_requiments}</green>, and your army is much stronger.
+hint_good_vassal_send_request,"Penawaran kevasalan
+Dia akan setuju, karena hubungan Anda melebihi <green>{rel_good_vassal_requiments}</green>, dan pasukan Anda jauh lebih kuat.
 
-$ {soul_uuid_king} will become your vassal."
-hint_good_vassal_unavalable,"The proposal doesn't make sense.
-{soul_uuid_king} will not agree to become your vassal willingly until you share at least <green>{rel_good_vassal_requiments}</green> relations and your army is the stronger one."
+$ {soul_uuid_king} akan menjadi vasal Anda."
+hint_good_vassal_unavalable,"Proposal ini tidak masuk akal.
+{soul_uuid_king} tidak akan setuju menjadi vasal Anda secara sukarela sampai Anda memiliki setidaknya <green>{rel_good_vassal_requiments}</green> hubungan dan pasukan Anda yang lebih kuat."
 hint_good_vassal_success,"~
-{soul_uuid_king} has recognised your power and agrees to become your <hint=hint_vassal>vassal</hint>.
+{soul_uuid_king} telah mengakui kekuatan Anda dan setuju menjadi <hint=hint_vassal>vassal</hint> Anda.
 
 [hint_vassal_tribute]"
 hint_good_vassal_success_letter_1,"~
-I write to you to announce my decision to become your vassal. I believe this path will allow me to reduce my military expenses, as I'm currently dealing with many internal issues, as you may know."
+Saya menulis kepada Anda untuk mengumumkan keputusan saya menjadi vasal Anda. Saya percaya jalan ini akan memungkinkan saya mengurangi biaya militer saya, karena saat ini saya sedang menghadapi banyak masalah internal, seperti yang mungkin Anda ketahui."
 hint_good_vassal_success_letter_2,"~
-Well, I am ready to accept your terms because, with the neighbors I have now, a few years of peace won't hurt. I hope I won't regret my decision."
-hint_vassal_rebel_description,"Vassal uprising
-Your vassal {soul_uuid_king} from {faction_uuid} has decided that they are no longer willing to serve under your crown and challenges you.
+Baiklah, saya siap menerima syarat Anda karena, dengan tetangga-tetangga yang saya miliki sekarang, beberapa tahun perdamaian tidak akan merugikan. Saya harap saya tidak akan menyesali keputusan saya."
+hint_vassal_rebel_description,"Pemberontakan vasal
+Vasal Anda {soul_uuid_king} dari {faction_uuid} telah memutuskan bahwa mereka tidak lagi bersedia melayani di bawah mahkota Anda dan menantang Anda.
 
-$ You have <b>{number_of_remain_days} days</b> to attack their city, and in case of victory, they will remain your vassal.
-$ In case of your defeat, they will no longer be considered your vassal.
-$ If you do not show up for the battle, your vassal and your neighbors will consider you a coward, and will worsen their relationship with you by <red>{rel_coward}</red>.
+$ Anda memiliki <b>{number_of_remain_days} hari</b> untuk menyerang kota mereka, dan dalam kasus kemenangan, mereka akan tetap menjadi vasal Anda.
+$ Dalam kasus kekalahan Anda, mereka tidak lagi dianggap sebagai vasal Anda.
+$ Jika Anda tidak muncul untuk pertempuran, vasal Anda dan tetangga-tetangga Anda akan menganggap Anda sebagai pengecut, dan akan memperburuk hubungan mereka dengan Anda sebesar <red>{rel_coward}</red>.
 {optional_possible_helpers}"
 hint_vassal_rebel_coward,"~
-You did not respond to the challenge, and now {soul_uuid_king} is no longer your vassal.
+Anda tidak merespons tantangan tersebut, dan sekarang {soul_uuid_king} tidak lagi menjadi vasal Anda.
 
-Moreover, they and your neighbors have deemed you a coward, and are worsening their relationship with you by <red>{rel_coward}</red>."
+Lebih lanjut, mereka dan tetangga-tetangga Anda telah menganggap Anda sebagai pengecut, dan memperburuk hubungan mereka dengan Anda sebesar <red>{rel_coward}</red>."
 hint_vassal_rebel_attack_lose,"~
-You lost the battle, and {soul_uuid_king} is no longer your vassal."
+Anda kalah dalam pertempuran, dan {soul_uuid_king} tidak lagi menjadi vassal Anda."
 hint_vassal_rebel_attack_win,"~
-You won the battle, and {soul_uuid_king} remains your vassal."
+Anda menang dalam pertempuran, dan {soul_uuid_king} tetap menjadi vassal Anda."
 hint_vassal_rebel_coward_letter_1,"~
-Are courage and pride not considered the paramount virtues of a lord? Yet what do I see before me? A timorous neighbor, incapable of defending his own rights. Better you retreat to a monastery and spare your province the disgrace!"
+Bukankah keberanian dan kebanggaan dianggap sebagai kebajikan utama seorang tuan? Namun apa yang kulihat di hadapanku? Seorang tetangga yang pengecut, tidak mampu membela haknya sendiri. Lebih baik engkau mundur ke biara dan hemat provinsimu dari kehinaan!"
 hint_vassal_rebel_coward_letter_2,"~
-Such bravery I have yet to encounter: even my peasants rise up in rebellion. And here, the king himself is afraid to respond to my challenge. One cannot deny your cowardice."
+Keberanian seperti itu belum pernah kutemui: bahkan petaniku pun bangkit memberontak. Dan di sini, sang raja sendiri takut merespons tantanganku. Tak dapat disangkal ketakutanmu."
 hint_vassal_rebel_attack_lose_letter_1,"~
-You must admit that I am a worthy adversary. Not everyone would have the courage to go against the will of a suzerain. Perhaps we should put our disagreements aside and attempt to mend our relations?"
+Engkau harus mengakui bahwa aku adalah lawan yang layak. Tidak semua orang memiliki keberanian untuk melawan kehendak seorang suzerain. Mungkin kita harus menyimpan perselisihan kita dan mencoba memperbaiki hubungan kita?"
 hint_vassal_rebel_attack_lose_letter_2,"~
-A noble ruler is one who can recognize the bravery in others. Have I not won my freedom in fair combat? The prosperity of our kingdoms should be built upon good relations with our neighbors. Why should we not choose such a path?"
+Seorang penguasa bangsawan adalah yang dapat mengenali keberanian pada orang lain. Bukankah aku telah memenangkan kebebasanku dalam pertarungan yang adil? Kemakmuran kerajaan kita harus dibangun di atas hubungan baik dengan tetangga kita. Mengapa kita tidak memilih jalan seperti itu?"
 hint_vassal_rebel_attack_win_letter_1,"~
-You have triumphed, and against my will, I remain your vassal. But I swear by the Holy Sophia, my fight for freedom has only just begun! And I will strike when you least expect it!"
+Engkau telah menang, dan melawanku, aku tetap menjadi vassalmu. Tetapi aku bersumpah demi Sophia yang Suci, perjuanganku untuk kebebasan baru saja dimulai! Dan aku akan menyerang saat engkau paling tidak menduganya!"
 hint_vassal_rebel_attack_win_letter_2,"~
-Battling someone weaker than yourself is something any fool can do! Perhaps I have suffered losses now, but the day will come when Holy Sophia will aid me in claiming victory. And believe me, that day will arrive soon, I promise you!"
+Bertarung dengan seseorang yang lebih lemah dari dirimu adalah hal yang bisa dilakukan siapa saja yang bodoh! Mungkin aku mengalami kerugian sekarang, tapi hari akan tiba ketika Sophia yang Suci akan membantuku meraih kemenangan. Dan percayalah, hari itu akan segera tiba, aku janjikan!"
 hint_demand_exit_vassal_change_relations,"~
-$ Relationship with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
+$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
 hint_demand_exit_vassal_conditions,"~
-$ If your suzerain is strong enough, a seige will fall upon your city. If the assault razes your Hall, your bondage will continue.
-$ However, if you successfully defend your freedom, you will have secured your independence.
-$ The suzerain may choose to grant you freedom without a fight if you are sufficiently strong."
+$ Jika suzerain Anda cukup kuat, pengepungan akan menimpa kota Anda. Jika serangan itu meratakan Aula Anda, ikatan Anda akan berlanjut.
+$ Namun, jika Anda berhasil membela kebebasan Anda, Anda akan mengamankan kemerdekaan Anda.
+$ Suzerain mungkin memilih untuk memberikan kebebasan kepada Anda tanpa pertarungan jika Anda cukup kuat."
 hint_bandits_description,"~
-Success depends on the {skill_name_1} and {skill_name_2} skills of the actor.
+Kesuksesan bergantung pada keterampilan {skill_name_1} dan {skill_name_2} pelaku.
 
 {soul_uuid_performer} :
 {skill_name_1} {skill_level_1} lvl.
 {skill_name_2} {skill_level_2} lvl.
 
-$ Chances of success: {chances}%
+$ Peluang sukses: {chances}%
 {optional_puppets_bonus}
 
-<b>Cost:</b> <hint=hint_resource_gold>{price}</hint>"
-hint_assassinate_gm_description,"Lord's assassination
-Hiring local cutthroats to assassinate a chosen lord.
+<b>Biaya:</b> <hint=hint_resource_gold>{price}</hint>"
+hint_assassinate_gm_description,"Pembunuhan Penguasa
+Menyewa pembunuh berantai lokal untuk membunuh penguasa yang dipilih.
 
-$ If successful, the lord will be killed.
+$ Jika berhasil, penguasa tersebut akan dibunuh.
 
-In case of failure:
-$ Relationship with {soul_uuid_king}: <red>{rel_de_assassinate}</red>
-$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>
+Jika gagal:
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_assassinate}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_neigh_assassinate}</red>
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
-hint_assassinate_gm_person_select,"Order an assassination
+hint_assassinate_gm_person_select,"Pesan pembunuhan
 [hint_bandits_description]
 {optional_holy_defence_will_removed}"
-hint_assassinate_gm_success,"The assassination was successful!
-{soul_uuid_assassinate_target} was stabbed to death in their own bed at night."
-hint_assassinate_gm_fail,"The assassination has failed
-{soul_uuid_assassinate_target} managed to defend themselves against the hired assassins, and all of them were killed.
+hint_assassinate_gm_success,"Pembunuhan berhasil!
+{soul_uuid_assassinate_target} ditusuk hingga mati di tempat tidurnya sendiri pada malam hari."
+hint_assassinate_gm_fail,"Pembunuhan gagal
+{soul_uuid_assassinate_target} berhasil membela diri dari para pembunuh bayaran, dan semuanya dibunuh.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_assassinate}</red>
-$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_assassinate}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_neigh_assassinate}</red>
 {optional_holy_defence_will_removed}"
-hint_kidnap_gm_description,"Kidnapping a lord
-Hire local cutthroats to kidnap the selected character and bring them to your settlement.
+hint_kidnap_gm_description,"Penculikan Penguasa
+Sewa pembunuh berantai lokal untuk menculik karakter yang dipilih dan membawanya ke pemukiman Anda.
 
-$ If successful, the character becomes a captive and will be delivered to your settlement.
+$ Jika berhasil, karakter menjadi tawan dan akan dikirim ke pemukiman Anda.
 
-In case of failure:
-$ Relations with {soul_uuid_king}: <red>{rel_de_kidnap}</red>
-$ Relationship with the Matriarch: <red>{rel_de_neigh_kidnap}</red>
+Jika gagal:
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_kidnap}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_neigh_kidnap}</red>
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
-hint_kidnap_gm_person_select,"Ordering a kidnapping
+hint_kidnap_gm_person_select,"Pesan penculikan
 [hint_bandits_description]
 {optional_holy_defence_will_removed}"
-hint_kidnap_gm_success,"The kidnapping was successful!
-{soul_uuid_kidnap_target} has been captured and will soon be delivered to your settlement."
-hint_kidnap_gm_fail,"The kidnapping attempt has failed
-{soul_uuid_kidnap_target} defended themselves against the hired cutthroats, and all of them were killed.
+hint_kidnap_gm_success,"Penculikan berhasil!
+{soul_uuid_kidnap_target} telah ditangkap dan segera akan dikirim ke pemukiman Anda."
+hint_kidnap_gm_fail,"Percobaan penculikan gagal
+{soul_uuid_kidnap_target} membela diri dari pembunuh berantai yang disewa, dan semuanya dibunuh.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_kidnap}</red>
-$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_kidnap}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_neigh_assassinate}</red>
 {optional_holy_defence_will_removed}"
-hint_robbery_description,"Hall robbery
-Hire cutthroats to rob the local treasury and bring you <hint=hint_resource_gold>Gold</hint>.
+hint_robbery_description,"Pencurian Aula
+Sewa pembunuh berantai untuk merampok perbendaharaan lokal dan membawa <hint=hint_resource_gold>Emas</hint> untuk Anda.
 
-In case of failure:
-$ Relations with {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>
-$ Relationship with the Matriarch: <red>{rel_de_gold_stealer_neigh}</red>
+Jika gagal:
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_gold_stealer_neigh}</red>
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
-hint_robbery_person_select,"Ordering a Hall robbery
+hint_robbery_person_select,"Memerintahkan Perampokan Aula
 [hint_bandits_description]
 
-$ The cutthroats will deliver <hint=hint_resource_gold>{robbery_money}</hint>.
+$ Pembunuh berantai akan mengirimkan <hint=hint_resource_gold>{robbery_money}</hint>.
 {optional_holy_defence_will_removed}"
-hint_unavailable_nothing_to_robbery,"Nothing to rob 
-There is too little gold in the city to rob."
-hint_robbery_success,"The hall robbery was successful!
-The hired cutthroats have stolen <hint=hint_resource_gold>{sum}</hint>, which will be delivered to you soon."
-hint_robbery_fail,"The robbery has failed.
-The hired cutthroats got into a fight with the guards and were killed.
+hint_unavailable_nothing_to_robbery,"Tidak ada yang dirampok 
+Emas di kota terlalu sedikit untuk dirampok."
+hint_robbery_success,"Perampokan aula berhasil!
+Pembunuh berantai yang disewa telah mencuri <hint=hint_resource_gold>{sum}</hint>, yang akan segera dikirimkan kepada Anda."
+hint_robbery_fail,"Perampokan gagal.
+Pembunuh berantai yang disewa bertarung dengan para penjaga dan tewas.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>
-$ Relationship with the Matriarch: <red>{rel_de_gold_stealer_neigh}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_gold_stealer_neigh}</red>
 {optional_holy_defence_will_removed}"
-hint_robbery_books_description,"Library robbery
-Hire cutthroats to rob the local library and bring you 3-5 random <hint=hint_book>books</hint>.
+hint_robbery_books_description,"Perampokan Perpustakaan
+Sewa pembunuh berantai untuk merampok perpustakaan lokal dan membawa 3-5 <hint=hint_book>buku</hint> acak kepada Anda.
 
-$ If successful, each cutthroat will bring one randomly seized book.
+$ Jika berhasil, setiap pembunuh berantai akan membawa satu buku yang dirampas secara acak.
 
-In case of failure:
-$ Relations with {soul_uuid_king}: <red>{rel_de_book_stealer}</red>
-$ Relationship with the Matriarch: <red>{rel_de_book_stealer_neigh}</red>
+Jika gagal:
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_book_stealer}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_book_stealer_neigh}</red>
 {optional_holy_defence_will_removed}
 
 [hint_SENDER]"
-hint_robbery_books_person_select,"Library robbery
+hint_robbery_books_person_select,"Perampokan Perpustakaan
 [hint_bandits_description]
 
-$ The cutthroats will deliver <hint=hint_book>{books_min} - {books_max}</hint> books to you.
+$ Pembunuh berantai akan mengirimkan <hint=hint_book>{books_min} - {books_max}</hint> buku kepada Anda.
 {optional_holy_defence_will_removed}"
-hint_robbery_books_success,"The library robbery was successful!
-The hired cutthroats have stolen {sum} <hint=hint_book>books</hint>, which will be delivered to you soon."
-hint_robbery_books_fail,"The library robbery attempt has failed!
-The hired cutthroats got into a fight with the guards and were killed.
+hint_robbery_books_success,"Perampokan perpustakaan berhasil!
+Pembunuh berantai yang disewa telah mencuri {sum} <hint=hint_book>buku</hint>, yang akan segera dikirimkan kepada Anda."
+hint_robbery_books_fail,"Upaya perampokan perpustakaan gagal!
+Pembunuh berantai yang disewa bertarung dengan para penjaga dan tewas.
 
-$ Relationship with {soul_uuid_king}: <red>{rel_de_book_stealer}</red>
-$ Relationship with the Matriarch: <red>{rel_de_book_stealer_neigh}</red>
+$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_book_stealer}</red>
+$ Hubungan dengan Matriark: <red>{rel_de_book_stealer_neigh}</red>
 {optional_holy_defence_will_removed}"
-hint_gift_for_king,"Offering to the King
-The lord will present {gift_for_king_resource} to the head of another house on behalf of your king. The type of gift depends on <hint=hint_culture>the culture</hint> of the city.
+hint_gift_for_king,"Persembahan untuk Raja
+Penguasa akan menyajikan {gift_for_king_resource} kepada kepala rumah lain atas nama rajamu. Jenis hadiah tergantung pada <hint=hint_culture>budaya</hint> kota.
 
-$ As a result, their attitude toward the leader of your noble family will improve by an amount based on the <hint=hint_skill_manners>Manners</hint> skill of the giver.
-$ With each use, the action will seem less sincere, reducing its effect.
-$ This action is possible even if the king is not in the city – he will be informed of the gift.
+$ Akibatnya, sikap mereka terhadap pemimpin keluarga bangsawanmu akan membaik sebesar jumlah yang didasarkan pada keterampilan <hint=hint_skill_manners>Etika</hint> pemberi.
+$ Dengan setiap penggunaan, tindakan ini akan tampak kurang tulus, mengurangi efeknya.
+$ Tindakan ini mungkin dilakukan bahkan jika raja tidak berada di kota – dia akan diberitahu tentang hadiah tersebut.
 
 [hint_SENDER]"
-hint_gift_for_king_choose_performer,"Offering to the King
-Performer {soul_uuid_performer}: {skill_name} {skill_level} lvl
+hint_gift_for_king_choose_performer,"Persembahan untuk Raja
+Pelaksana {soul_uuid_performer}: {skill_name} {skill_level} lvl
 
-Relationship with your king: <green>{gift_rel_improve}</green>
+Hubungan dengan rajamu: <green>{gift_rel_improve}</green>
 
-<b>Gift to be given:</b> {gift_for_king_resource}"
+<b>Hadiah yang akan diberikan:</b> {gift_for_king_resource}"
 hint_gift_for_king_success,"~
-{soul_uuid_king} has accepted your offering and improved their relationship with you by <green>{gift_rel_improve}</green>."
+{soul_uuid_king} telah menerima persembahan Anda dan meningkatkan hubungan mereka dengan Anda sebesar <green>{gift_rel_improve}</green>."
 hint_gift_for_king_success_letter_1,"~
-I write to you with heartfelt thanks for your generous gift! Neighborly relations ought to be built upon friendship, but alas, few understand this in our times."
+Saya menulis kepada Anda dengan ucapan terima kasih yang tulus atas hadiah murah hati Anda! Hubungan tetangga seharusnya dibangun di atas Persahabatan, tetapi sayangnya, sedikit yang memahami ini di zaman kita."
 hint_gift_for_king_success_letter_2,"~
-To have a neighbor like you is a great honor! You have given me a most generous gift, and rest assured, it will not go unappreciated!"
+Memiliki tetangga seperti Anda adalah kehormatan besar! Anda telah memberikan saya hadiah yang sangat murah hati, dan yakinlah, itu tidak akan sia-sia!"
 hint_gift_for_king_success_letter_3,"~
-May Sophia look favorably upon you! Truly, I did not expect such a valuable gift! If you ever require any assistance, do not hesitate to write."
-hint_slander_for_king,"Slander against a neighbor
-One of your lords <b>speaks ill</b> of your mutual neighbor on behalf of your king.
+Semoga Sophia memandang Anda dengan baik! Sungguh, saya tidak menyangka hadiah yang begitu berharga! Jika suatu saat Anda membutuhkan bantuan apa pun, jangan ragu untuk menulis."
+hint_slander_for_king,"Fitnah terhadap tetangga
+Salah satu penguasa Anda <b>bicara buruk</b> tentang tetangga bersama Anda atas nama raja Anda.
 
-As a result, the relationship between {soul_uuid_king} and the neighbor <b>worsens</b> by an amount dependent on the performer's <hint=hint_skill_speech>Persuasion</hint> skill.
+Akibatnya, hubungan antara {soul_uuid_king} dan tetangga tersebut <b>memburuk</b> sebesar jumlah yang bergantung pada keterampilan <hint=hint_skill_speech>Persuasi</hint> pelaku.
 
-Nevertheless, no one likes slander, and {soul_uuid_king} will also worsen their relationship with your ruler by <red>{rel_de_slander}</red>.
+Meskipun demikian, tidak ada yang menyukai fitnah, dan {soul_uuid_king} juga akan memburukkan hubungan mereka dengan penguasa Anda sebesar <red>{rel_de_slander}</red>.
 
-<b>Hint</b> 
-Deteriorating relations below <red>-25</red> signify hostility.
-$ Between independent kings, this marks the beginning of military actions. 
-$ If this is the relationship of a vassal to their overlord, the vassal will rebel. 
-$ If this is the relationship of an ally to the leader of an alliance of free cities, they will leave the alliance.
+<b>Petunjuk</b> 
+Hubungan yang memburuk di bawah <red>-25</red> menandakan Permusuhan.
+$ Antara raja-raja independen, ini menandai awal tindakan militer. 
+$ Jika ini adalah hubungan bawahan dengan penguasa atas mereka, bawahan tersebut akan memberontak. 
+$ Jika ini adalah hubungan sekutu dengan pemimpin aliansi kota-kota bebas, mereka akan meninggalkan aliansi.
 
 [hint_SENDER]"
-hint_slander_for_king_choose_performer,"Slander against a neighbor
-Performer {soul_uuid_performer}: {skill_name} level {skill_level}
+hint_slander_for_king_choose_performer,"Fitnah terhadap tetangga
+Pelaku {soul_uuid_performer}: {skill_name} tingkat {skill_level}
 
-<b>Consequences</b>
-$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <red>{rel_de_slander_to_target_king}</red>
-$ Relationship of {soul_uuid_king} to your king: <red>{rel_de_slander}</red>
+<b>Konsekuensi</b>
+$ Hubungan {soul_uuid_king} dengan {soul_uuid_king_s}: <red>{rel_de_slander_to_target_king}</red>
+$ Hubungan {soul_uuid_king} dengan raja Anda: <red>{rel_de_slander}</red>
 
-Current relationship of {soul_uuid_king} to {soul_uuid_king_s}: {rel_current}"
+Hubungan saat ini {soul_uuid_king} dengan {soul_uuid_king_s}: {rel_current}"
 hint_slander_for_king_successs,"~
-{soul_uuid_king} has taken into account your opinion about {soul_uuid_king_s}, and although it seems like dirty slander and does not honor your ruler, he has still given it some thought.
+{soul_uuid_king} telah mempertimbangkan pendapat Anda tentang {soul_uuid_king_s}, dan meskipun itu tampak seperti fitnah kotor dan tidak menghormati penguasa Anda, dia tetap memikirkannya.
 
-<b>Consequences</b>
-$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <red>{rel_de_slander_to_target_king}</red>
-$ Relationship of {soul_uuid_king} to your king: <red>{rel_de_slander}</red>"
+<b>Konsekuensi</b>
+$ Hubungan {soul_uuid_king} dengan {soul_uuid_king_s}: <red>{rel_de_slander_to_target_king}</red>
+$ Hubungan {soul_uuid_king} dengan raja Anda: <red>{rel_de_slander}</red>"
 hint_slander_for_king_success_letter_1,"~
-I never would have guessed that you'd choose to speak ill of our neighbor. Still, I hope there is some truth to your words; otherwise, your actions would be quite dishonorable."
+Saya tidak pernah menduga bahwa Anda akan memilih untuk bicara buruk tentang tetangga kita. Namun, saya harap ada kebenaran dalam kata-kata Anda; jika tidak, tindakan Anda akan sangat tidak terhormat."
 hint_slander_for_king_success_letter_2,"~
-Slandering our neighbor does not bring honor to your name. But knowing you, I would assume you have some evidence to back up your claims. After all, an honorable person wouldn’t act this way without good reason."
+Fitnah terhadap tetangga kita tidak membawa kehormatan bagi nama Anda. Tetapi mengenal Anda, saya akan mengasumsikan Anda memiliki bukti untuk mendukung klaim Anda. Lagipula, orang terhormat tidak akan bertindak seperti ini tanpa alasan yang baik."
 hint_slander_for_king_success_letter_3,"~
-Using slander is a low and disgraceful action, especially when it's directed toward your own neighbor. My sole assumption is that there must be a modicum of truth in these rumors; otherwise, your conduct could not be deemed worthy of a king!"
-hint_action_task_invite,"Invitation to visit 
-Invite the lord to visit your settlement. 
+Menggunakan fitnah adalah tindakan rendah dan memalukan, terutama ketika ditujukan kepada tetangga sendiri. Asumsi saya satu-satunya adalah bahwa pasti ada sedikit kebenaran dalam rumor-rumor ini; jika tidak, perilaku Anda tidak bisa dianggap layak bagi seorang raja!"
+hint_action_task_invite,"Undangan untuk Berkunjung 
+Undang penguasa untuk mengunjungi pemukiman Anda. 
 
 [hint_SENDER]"
 hint_invite_success,"~
-{soul_uuid_guest} has accepted your invitation and will arrive in your city soon."
+{soul_uuid_guest} telah menerima undangan Anda dan akan tiba di kota Anda dalam waktu dekat."
 hint_invite_success_letter_1,"~
-I hasten to inform you that I have received your invitation, and with great joy, I accept it! What could be better than to embark on a journey and temporarily forget about the endless troubles?"
+Saya dengan sigap memberitahukan bahwa saya telah menerima undangan Anda, dan dengan sukacita besar, saya terimanya! Apa yang lebih menyenangkan daripada memulai perjalanan dan sementara melupakan semua kesulitan yang tak berkesudahan?"
 hint_invite_success_letter_2,"~
-My thanks to you for extending such an offer. I shall make my way to you at the earliest convenience, and I assure you, I will not be a great bother!"
+Terima kasih atas tawaran semacam itu. Saya akan segera datang ke tempat Anda, dan saya jamin, saya tidak akan merepotkan!"
 hint_trade_agreement_demand_generic,"~
-As part of the <hint=hint_trade_agreement>trade agreement</hint>, {soul_uuid_king} will offer to buy {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint> on a <b>daily</b> basis, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per item."
+Sebagai bagian dari <hint=hint_trade_agreement>perjanjian perdagangan</hint>, {soul_uuid_king} akan menawarkan untuk membeli {offer_resource_stack} seharga <hint=hint_resource_gold>{offer_price}</hint> secara <b>harian</b>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per item."
 hint_trade_agreement_offer_generic,"~
-As part of the <hint=hint_trade_agreement>trade agreement</hint>, {soul_uuid_king} will offer to sell {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint> on a <b>daily</b> basis, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per item."
-hint_trade_agreement_demand,"City buys: {offer_resource_name}
+Sebagai bagian dari <hint=hint_trade_agreement>perjanjian perdagangan</hint>, {soul_uuid_king} akan menawarkan untuk menjual {offer_resource_stack} seharga <hint=hint_resource_gold>{offer_price}</hint> secara <b>harian</b>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per item."
+hint_trade_agreement_demand,"Kota membeli: {offer_resource_name}
 [hint_trade_agreement_demand_generic]
 
 {optional_holy_family_prices}
 {optional_paper_prices}
 {optional_trading_volumes_reduced}
 [hint_SENDER]"
-hint_trade_agreement_offer,"City sells: {offer_resource_name}
+hint_trade_agreement_offer,"Kota menjual: {offer_resource_name}
 [hint_trade_agreement_offer_generic]
 
 {optional_holy_family_prices}
@@ -7951,188 +7951,188 @@ hint_trade_agreement_offer,"City sells: {offer_resource_name}
 {optional_trading_volumes_reduced}
 [hint_SENDER]"
 hint_trade_agreement_generic,"~
-$ Cost of Church intermediary services: <hint=hint_resource_gold>{trade_agreement_cost_money}</hint>."
-hint_trade_agreement_demand_success,"Trade agreement
+$ Biaya layanan perantara Pihak Gereja: <hint=hint_resource_gold>{trade_agreement_cost_money}</hint>."
+hint_trade_agreement_demand_success,"Perjanjian Perdagangan
 [hint_trade_agreement_success_generic]
 
-$ Relationship with {soul_uuid_king} have improved: <green>{trade_agreement_king_im}</green>
-The city budget of the partner will increase, and the population of their city will grow by {add_peasant} inhabitants after each transaction.
+$ Hubungan dengan {soul_uuid_king} telah membaik: <green>{trade_agreement_king_im}</green>
+Anggaran kota mitra akan meningkat, dan populasi kota mereka akan bertambah sebanyak {add_peasant} penduduk setelah setiap transaksi.
 
 [hint_trade_agreement_demand_generic]"
-hint_trade_agreement_offer_success,"Trade agreement
+hint_trade_agreement_offer_success,"Perjanjian Perdagangan
 [hint_trade_agreement_success_generic]
 
-$ Relationship with {soul_uuid_king} have improved: <green>{trade_agreement_king_im}</green>
+$ Hubungan dengan {soul_uuid_king} telah membaik: <green>{trade_agreement_king_im}</green>
 
 [hint_trade_agreement_offer_generic]"
 hint_trade_agreement_success_generic,"~
-{soul_uuid_king} and you have entered into a <hint=hint_trade_agreement>trade agreement</hint>."
-hint_trade_agreement_declared_request,"Trade agreement
+{soul_uuid_king} dan Anda telah memasuki sebuah <hint=hint_trade_agreement>perjanjian perdagangan</hint>."
+hint_trade_agreement_declared_request,"Perjanjian Perdagangan
 [hint_trade_agreement_success_generic]
 
 [hint_trade_agreement_demand_generic]
 {optional_trading_volumes_reduced}
 
-<b>Remaining days until the end of the contract: {trade_agreement_duration_remain}</b>"
-hint_trade_agreement_declared_offer,"Trade agreement
+<b>Hari tersisa hingga akhir kontrak: {trade_agreement_duration_remain}</b>"
+hint_trade_agreement_declared_offer,"Perjanjian Perdagangan
 [hint_trade_agreement_success_generic]
 
 [hint_trade_agreement_offer_generic]
 {optional_trading_volumes_reduced}
 
-<b>Remaining days until the end of the contract: {trade_agreement_duration_remain}</b>"
-hint_trade_treaty_finish,"The trade agreement has expired.
-Now you and {soul_uuid_king} are no longer bound by mutual obligations."
-hint_trade_treaty_bad_relations,"The trade agreement has been terminated.
-Your relationship has deteriorated significantly.
+<b>Hari tersisa hingga akhir kontrak: {trade_agreement_duration_remain}</b>"
+hint_trade_treaty_finish,"Perjanjian perdagangan telah berakhir.
+Sekarang Anda dan {soul_uuid_king} tidak lagi terikat oleh kewajiban timbal balik."
+hint_trade_treaty_bad_relations,"Perjanjian perdagangan telah diakhiri.
+Hubungan Anda telah memburuk secara signifikan.
 
-$ You and {soul_uuid_king} are no longer bound by mutual obligations."
-hint_trade_treaty_king_dead,"The trade agreement has been terminated.
-Reason: the death of one of the signatories.
+$ Anda dan {soul_uuid_king} tidak lagi terikat oleh kewajiban timbal balik."
+hint_trade_treaty_king_dead,"Perjanjian perdagangan telah diakhiri.
+Alasan: kematian salah satu penandatangan.
 
-$ You and {soul_uuid_king} are no longer bound by mutual obligations."
+$ Anda dan {soul_uuid_king} tidak lagi terikat oleh kewajiban timbal balik."
 hint_trade_treaty_bad_relations_letter_1,"~
-I believe our relations can no longer serve as the basis for further trade. I hereby dissolve our trading agreement."
+Saya percaya hubungan kita tidak lagi dapat menjadi dasar untuk perdagangan lebih lanjut. Dengan ini saya membubarkan perjanjian perdagangan kita."
 hint_trade_treaty_bad_relations_letter_2,"~
-I don't think it makes sense to continue our trade."
+Saya tidak berpikir masuk akal untuk melanjutkan perdagangan kita."
 hint_trade_treaty_success_letter_1,"~
-For me, it is a great honor to engage in a trade agreement with you. Trade, above all, serves as an assurance of peace between our kingdoms."
+Bagi saya, ini adalah kehormatan besar untuk terlibat dalam perjanjian perdagangan dengan Anda. Perdagangan, di atas segalanya, berfungsi sebagai jaminan perdamaian antara kerajaan kita."
 hint_trade_treaty_success_letter_2,"~
-I am writing to express my delight at the inception of such a lucrative trade agreement. Not everyone can sheathe their sword and engage in negotiations."
+Saya menulis untuk menyatakan kegembiraan saya atas dimulainya perjanjian perdagangan yang begitu menguntungkan. Tidak semua orang bisa menyarungkan pedang mereka dan terlibat dalam negosiasi."
 hint_trade_treaty_finish_letter_1,"~
-As you may be aware, the term of our trade contract has expired. It has been quite advantageous."
+Seperti yang mungkin Anda ketahui, masa berlaku kontrak perdagangan kita telah berakhir. Ini telah sangat menguntungkan."
 hint_trade_treaty_finish_letter_2,"~
-I write to you to make you aware of the termination of our trade agreement. Could a new one be possible? We shall see."
+Saya menulis kepada Anda untuk memberitahukan berakhirnya perjanjian perdagangan kita. Bisakah yang baru dibuat? Kita lihat saja."
 hint_trade_treaty_king_dead_letter_1,"~
-I write to you to make you aware that my predecessor has passed away. The trade agreement you entered into with him yields no benefit. Consider it null and void."
+Saya menulis kepada Anda untuk memberitahukan bahwa pendahulu saya telah meninggal dunia. Perjanjian perdagangan yang Anda buat dengannya tidak memberikan manfaat. Anggap saja itu batal demi hukum."
 hint_trade_treaty_king_dead_letter_2,"~
-My predecessor has departed from this world, and I have always held reservations regarding this commercial arrangement. Can such terms truly be deemed advantageous? I hereby annul this pact."
+Pendahulu saya telah pergi dari dunia ini, dan saya selalu ragu-ragu mengenai pengaturan komersial ini. Bisakah syarat-syarat seperti itu benar-benar dianggap menguntungkan? Saya dengan ini membatalkan perjanjian ini."
 hint_trade_agreement_cost_paper,"~
-$ Contract creation cost: <hint=hint_resource_paper>{trade_agreement_cost_paper}."
+$ Biaya pembuatan kontrak: <hint=hint_resource_paper>{trade_agreement_cost_paper}."
 hint_king_demand_kill_own_bandits_description,"[hint_DESCRIPTION]
-{soul_uuid_king} believes that the bandit camp near your city poses a security threat to caravans and travelers. You must address this issue.
+{soul_uuid_king} percaya bahwa kamp perampok di dekat kota Anda menimbulkan ancaman keamanan bagi karavan dan para pelancong. Anda harus menangani masalah ini.
 
-$ You must destroy the bandit camp near your city.
-$ If you fail to do so, your relationship with {soul_uuid_king} will deteriorate by <red>{rel_de}</red> in 2 days."
+$ Anda harus menghancurkan kamp perampok di dekat kota Anda.
+$ Jika Anda gagal melakukannya, hubungan Anda dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de}</red> dalam 2 hari."
 hint_king_demand_kill_own_bandits_success,"~ 
-$ The bandit camp in your province has been destroyed, and {soul_uuid_king} no longer has any grievances."
+$ Kamp perampok di provinsi Anda telah dihancurkan, dan {soul_uuid_king} tidak lagi memiliki keluhan apa pun."
 hint_king_demand_kill_own_bandits_ignore,"~ 
-$ You have chosen not to attack the bandits, and their camp remains in place. 
-$ Your relationship with {soul_uuid_king} has deteriorated by <red>{rel_de}</red>."
+$ Anda telah memilih untuk tidak menyerang para perampok, dan kamp mereka tetap berdiri. 
+$ Hubungan Anda dengan {soul_uuid_king} telah memburuk sebesar <red>{rel_de}</red>."
 Got involved with forest bandits," "
 hint_village_description,"[hint_DESCRIPTION]
-Peaceful peasants engage in agriculture and pay tribute to you on the day of harvest. It is possible to attack the village at any time to capture prisoners, but the villagers will try to resist.
+Petani damai menekuni pertanian dan membayar upeti kepada Anda pada hari panen. Anda dapat menyerang desa kapan saja untuk menangkap tahanan, tetapi penduduk desa akan berusaha melawan.
 
-$ Tribute: {tribute_stack} in {days_left} days
-$ Defenders: {defenders}"
-hint_village_robbery,"Loot the village
-Guaranteed battle with the village militia ({defenders_min} - {defenders_max} people, peasants armed with daggers).
+$ Upeti: {tribute_stack} dalam {days_left} hari
+$ Pembela: {defenders}"
+hint_village_robbery,"Rampas desa
+Pertempuran dijamin dengan milisi desa ({defenders_min} - {defenders_max} orang, petani bersenjata belati).
 
-$ The village will be burned down and unable to pay tribute for the next two harvests.
+$ Desa akan dibakar habis dan tidak mampu membayar upeti untuk dua panen berikutnya.
 
-<b>Possible loot:</b> {possible_loot}"
+<b>Rampasan mungkin:</b> {possible_loot}"
 hint_village_robbery_fail,"~
-The peasants repelled your raid, but the village burned down during the battle and they will not be able to pay tribute for the next two harvests."
+Petani berhasil mengusir serangan Anda, tetapi desa terbakar selama pertempuran dan mereka tidak akan mampu membayar upeti untuk dua panen berikutnya."
 hint_village_robbery_success,"~
-The village has been plundered and burned down. It will be unable to pay tribute for the next two harvests. 
+Desa telah dirampok dan dibakar habis. Ia tidak akan mampu membayar upeti untuk dua panen berikutnya. 
 
-<b>Loot:</b> {loot}"
-hint_village_mifration_down,"To contain migration
-Bribe the locals to spread rumors throughout the province that there is a dangerous disease in your city.
+<b>Rampasan:</b> {loot}"
+hint_village_mifration_down,"Untuk membatasi migrasi
+Suap penduduk lokal agar menyebarkan rumor di seluruh provinsi bahwa ada penyakit berbahaya di kota Anda.
 
-$ This will <b>reduce</b> migration by a factor of {migration_down_factor} for the next {migration_down_duration} days.
-$ The task can be carried out in any of the villages and affects migration across the entire province.
+$ Ini akan <b>mengurangi</b> migrasi sebesar faktor {migration_down_factor} selama {migration_down_duration} hari berikutnya.
+$ Tugas ini dapat dilakukan di desa mana pun dan memengaruhi migrasi di seluruh provinsi.
 
-<b>Cost:</b> <hint=hint_resource_gold>{migration_down_price}</hint>
+<b>Biaya:</b> <hint=hint_resource_gold>{migration_down_price}</hint>
 
 [hint_SENDER]"
 hint_village_mifration_down_success,"~ 
-The rumors have taken hold, and migration to your city will be <b>reduced by a factor of {migration_down_factor}</b>. 
+Rumor-rumor tersebut telah menyebar, dan migrasi ke kota Anda akan <b>dikurangi sebesar faktor {migration_down_factor}</b>. 
 
-It will last for {migration_down_duration} days."
-hint_village_tribute,"Payment of tribute
-Tribute is paid regularly, every 4-6 days. The villagers refuse to transport the tribute themselves due to fear of bandits.
-$ If you <b>ignore</b> it, the village elder will consider that you don't need the tribute and will use it for the benefit of the community.
+Ini akan berlangsung selama {migration_down_duration} hari."
+hint_village_tribute,"Pembayaran upeti
+Upeti dibayar secara teratur, setiap 4-6 hari. Penduduk desa menolak mengangkut upeti sendiri karena takut pada perampok.
+$ Jika Anda <b>mengabaikan</b>nya, tetua desa akan menganggap Anda tidak membutuhkan upeti tersebut dan akan menggunakannya untuk kepentingan komunitas.
 
-<b>Tribute to be paid:</b> {loot}
+<b>Upeti yang harus dibayar:</b> {loot}
 
 [hint_SENDER]"
 hint_village_tribute_success,"~ 
-You have successfully collected the tribute. 
+Anda berhasil mengumpulkan upeti. 
 
-<b>Tribute collected:</b> {loot}"
+<b>Upeti yang dikumpulkan:</b> {loot}"
 hint_bandits_camp_description,"[hint_DESCRIPTION] 
-Some unfortunate and hungry people leaving your town have resorted to becoming bandits as they see no other options for survival. They will occasionally attack your settlement until you deal with them. 
+Beberapa orang malang dan lapar yang meninggalkan kota Anda terpaksa menjadi perampok karena tidak melihat pilihan lain untuk bertahan hidup. Mereka akan sesekali menyerang pemukiman Anda hingga Anda mengatasinya. 
 
-$ Number of bandits: {number_of_forest_bandits}
-$ Hostages: {hostages}
-$ Loot in their camp: {possible_loot}"
-hint_bandits_camp_attack,"Attack
-Engage in a battle with a bandit squad of {number_of_forest_bandits} individuals, consisting of light fighters.
+$ Jumlah perampok hutan: {number_of_forest_bandits}
+$ Sandera: {hostages}
+$ Rampasan di kamp mereka: {possible_loot}"
+hint_bandits_camp_attack,"Serang
+Terlibat dalam pertempuran dengan regu perampok hutan sebanyak {number_of_forest_bandits} individu, terdiri dari petarung ringan.
 
-The Church of Holy Sophia, represented by the <hint=hint_relations_matriarch>Matriarch</hint>, will be grateful when you destroy bandit camps.
+Pihak Gereja, diwakili oleh <hint=hint_relations_matriarch>Matriark</hint>, akan bersyukur ketika Anda menghancurkan kamp perampok.
 
-<b>Consequences</b>
-$ Relations with Matriarch: <green>{b_improve}</green>
-$ If there are hostages in the camp, they will be liberated in case of victory.
+<b>Konsekuensi</b>
+$ Hubungan dengan Matriark: <green>{b_improve}</green>
+$ Jika ada sandera di kamp, mereka akan dibebaskan jika menang.
 
-<b>Possible loot:</b> {possible_loot}"
+<b>Rampasan mungkin:</b> {possible_loot}"
 hint_bandits_camp_attack_fail,"~ 
-Your squad has suffered a defeat. 
+Regumu telah mengalami kekalahan. 
 
-Expect your city to be attacked by a bandit squad of {part_of_number_forest_bandits} fighters in the coming days."
+Harapkan kota Anda diserang oleh regu perampok hutan dengan {part_of_number_forest_bandits} petarung dalam beberapa hari mendatang."
 hint_bandits_camp_attack_success,"~
-Bandit camp destroyed.
+Kemah perampok hancur.
 
-$ Relations with <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>
-$ Loot: {loot}"
+$ Hubungan dengan <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>
+$ Rampasan: {loot}"
 hint_bandits_camp_neighbore_description,"[hint_DESCRIPTION]
-The camp of forest bandits is located in your neighbor's territory.
+Kemah perampok hutan berada di wilayah tetangga Anda.
 
-$ Number of bandits: {number_of_forest_bandits}
-$ Value in the camp: {possible_loot}
-$ Hostages: {hostages}"
-hint_bandits_camp_neighbore_attack,"Attack
-Engage in a battle with a bandit squad of {number_of_forest_bandits} individuals, consisting of light fighters.
+$ Jumlah perampok: {number_of_forest_bandits}
+$ Nilai di kemah: {possible_loot}
+$ Sandera: {hostages}"
+hint_bandits_camp_neighbore_attack,"Serang
+Terlibat dalam pertempuran dengan regu perampok {number_of_forest_bandits} individu, terdiri dari petarung ringan.
 
-The ruler of the province {soul_uuid_king} and the <hint=hint_relations_matriarch>Matriarch</hint> will be grateful for assistance in eliminating the bandits.
+Penguasa provinsi {soul_uuid_king} dan <hint=hint_relations_matriarch>Matriarch</hint> akan berterima kasih atas bantuan dalam menghabisi perampok.
 
-<b>Consequences</b>
-$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>
-$ Relations with Matriarch: <green>{b_improve}</green>
-$ If there are hostages in the camp, they will be liberated in case of victory.
+<b>Konsekuensi</b>
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>
+$ Hubungan dengan Matriarch: <green>{b_improve}</green>
+$ Jika ada sandera di kemah, mereka akan dibebaskan jika menang.
 
-Possible loot: {possible_loot}"
+Rampasan potensial: {possible_loot}"
 hint_bandits_camp_neighbore_attack_fail,"~
-Your squad has suffered a defeat."
+Regumu telah mengalami kekalahan."
 hint_bandits_camp_neighbore_attack_success,"~
-The bandit camp has been destroyed.
+Kemah perampok telah dihancurkan.
 
-$ Relations with <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>
-$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>
-$ Loot: {loot}"
-hint_unavailable_bandits_camp_already_bribed,"The bribery has already been done
-You have already paid these bandits. They will keep their commitment and not attack your settlements for another {bribe_day_remain} days."
-hint_bandits_camp_bribe,"Bribe 
-Pay bandits <hint=hint_resource_gold>{bribe_price_gold}</hint>.
+$ Hubungan dengan <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>
+$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>
+$ Rampasan: {loot}"
+hint_unavailable_bandits_camp_already_bribed,"Suap sudah dilakukan
+Anda sudah membayar perampok ini. Mereka akan menepati komitmen dan tidak menyerang pemukiman Anda selama {bribe_day_remain} hari lagi."
+hint_bandits_camp_bribe,"Suap 
+Bayar perampok <hint=hint_resource_gold>{bribe_price_gold}</hint>.
 
-$ Attacks on your settlements will be canceled for the next {bribe_days} days.
+$ Serangan terhadap pemukiman Anda akan dibatalkan selama {bribe_days} hari ke depan.
 
 [hint_SENDER]"
 hint_bandits_camp_bribe_success,"~
-The bandits graciously accepted your money and let your messenger go.
+Perampok dengan ramah menerima uang Anda dan melepaskan utusan Anda.
 
-$ Attacks on your settlements will be canceled for the next {days_without_attacks} days."
-hint_unavailable_bandits_camp_attack_in_process,"It's getting late
-The bandits are already gearing up to march on you and hope to loot more there than you would have offered."
-hint_trade_slaves,"Trade offer
-The bandit leader wishes to sell:
+$ Serangan terhadap pemukiman Anda akan dibatalkan selama {days_without_attacks} hari ke depan."
+hint_unavailable_bandits_camp_attack_in_process,"Sudah terlambat
+Perampok sudah bersiap untuk menyerbu Anda dan berharap merampok lebih banyak di sana daripada yang Anda tawarkan."
+hint_trade_slaves,"Penawaran Perdagangan
+Pemimpin perampok ingin menjual:
 
-<b>{offer_amount} prisoners</b> for <hint=hint_resource_gold>{offer_price}</hint>, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per prisoner. (minimum price from the Holy Caravan: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)"
-hhint_trade_slaves_context,"Buy prisoners
-Buy <b>{offer_amount} prisoners</b> for <hint=hint_resource_gold>{offer_price}</hint>, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per prisoner. (minimum market price at the Holy Caravan: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)
+<b>{offer_amount} Narapidana</b> untuk <hint=hint_resource_gold>{offer_price}</hint>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per Narapidana. (harga minimum dari Karavan Suci: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)"
+hhint_trade_slaves_context,"Beli Narapidana
+Beli <b>{offer_amount} Narapidana</b> untuk <hint=hint_resource_gold>{offer_price}</hint>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per Narapidana. (harga pasar minimum di Karavan Suci: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)
 
-<b>Consequences</b>:
+<b>Konsekuensi</b>:
 {optional_relation_aftermath}
 {optional_secret_deals}
 
@@ -8140,129 +8140,129 @@ Buy <b>{offer_amount} prisoners</b> for <hint=hint_resource_gold>{offer_price}</
 
 "
 hint_trade_slaves_success,"~
-You have successfully delivered <hint=hint_resource_gold>{offer_price}</hint> and received <b>{offer_amount} prisoners</b> in return. They will soon be delivered to your city.
+Anda telah berhasil mengirim <hint=hint_resource_gold>{offer_price}</hint> dan menerima <b>{offer_amount} Narapidana</b> sebagai imbalannya. Mereka segera akan dikirim ke kota Anda.
 
 {optional_relation_aftermath}
 {optional_secret_deals}"
-hint_bandits_camp_hire,"Army recruitment
-{number_of_forest_bandits_for_hire} bandits with Combat skill 5 and without weapons will join your army.
+hint_bandits_camp_hire,"Perekrutan Pasukan
+{number_of_forest_bandits_for_hire} perampok hutan dengan Keterampilan Tempur 5 dan tanpa senjata akan bergabung dengan pasukan Anda.
 {optional_aftermath}
 
-This will cost <hint=hint_resource_gold>{hire_price_gold}</hint>.
+Ini akan memakan biaya <hint=hint_resource_gold>{hire_price_gold}</hint>.
 {optional_secret_deals}
 
 [hint_SENDER]"
-hint_bandits_camp_hire_context,"Hire bandits
-{number_of_forest_bandits_for_hire} bandits with Combat skill 5 and without weapons will join your army.
+hint_bandits_camp_hire_context,"Rekrut Perampok
+{number_of_forest_bandits_for_hire} perampok hutan dengan Keterampilan Tempur 5 dan tanpa senjata akan bergabung dengan pasukan Anda.
 {optional_aftermath}
 
-This will cost <hint=hint_resource_gold>{hire_price_gold}</hint>.
+Ini akan memakan biaya <hint=hint_resource_gold>{hire_price_gold}</hint>.
 {optional_secret_deals}
 
 [hint_SENDER]"
 hint_bandits_camp_hire_success,"~
-{number_of_forest_bandits_for_hire} bandits have agreed to join your army and will soon arrive in your city.
+{number_of_forest_bandits_for_hire} perampok hutan telah setuju bergabung dengan pasukan Anda dan segera tiba di kota Anda.
 {optional_relation_aftermath}
 {optional_secret_deals}"
-hint_bandits_camp_rings,"Stolen Rings
-Someone in the camp is selling <hint=hint_resource_rune>{rings_count}</hint>, which they clearly stole from {soul_uuid_king}.
+hint_bandits_camp_rings,"Cincin Suci yang Dicuri
+Seseorang di perkemahan sedang menjual <hint=hint_resource_rune>{rings_count}</hint>, yang jelas dicuri dari {soul_uuid_king}.
 
-The price is very attractive: <hint=hint_resource_gold>{gold}</hint>, which is half the price compared to the Holy Caravan.
+Harganya sangat menarik: <hint=hint_resource_gold>{gold}</hint>, yang setengah harga dibandingkan dengan Karavan Suci.
 
-However, if you buy them, your actions will not go unnoticed by their former owner and your neighbors."
-hint_bandits_camp_rings_buy,"Purchase stolen Holy Rings
+Namun, jika Anda membelinya, tindakan Anda tidak akan luput dari perhatian pemilik sebelumnya dan tetangga Anda."
+hint_bandits_camp_rings_buy,"Beli Cincin Suci yang Dicuri
 
-<b>Consequences</b>
-$ You will receive <hint=hint_resource_rune>{rings_count}</hint> for <hint=hint_resource_gold>{gold}</hint>.
-$ Bandits will be able to hire more warriors with your gold.
+<b>Konsekuensi</b>
+$ Anda akan menerima <hint=hint_resource_rune>{rings_count}</hint> untuk <hint=hint_resource_gold>{gold}</hint>.
+$ Perampok akan bisa merekrut lebih banyak prajurit dengan emas Anda.
 {optional_relation_aftermath}
 {optional_secret_deals}
 
 [hint_SENDER]"
 hint_bandits_camp_rings_success,"~
-You have purchased <hint=hint_resource_rune>{rings_count}</hint> for <hint=hint_resource_gold>{gold}</hint>.
+Anda telah membeli <hint=hint_resource_rune>{rings_count}</hint> untuk <hint=hint_resource_gold>{gold}</hint>.
 
-<b>Consequences</b>
-$ Bandits will be able to hire more warriors with your gold.
+<b>Konsekuensi</b>
+$ Perampok akan bisa merekrut lebih banyak prajurit dengan emas Anda.
 {optional_relation_aftermath}
 {optional_secret_deals}"
 hint_bandits_camp_rings_letter_1,"~
-Do you think stolen rings can bring you prosperity? Perhaps you're currently enjoying your ill-gotten gains, but I have no intention of forgiving such an act. Rest assured, I will reclaim what rightfully belongs to me.
+Apakah Anda pikir cincin curian bisa membawa kemakmuran bagi Anda? Mungkin saat ini Anda sedang menikmati keuntungan haram Anda, tapi saya tidak berniat memaafkan tindakan seperti itu. Pastikanlah, saya akan merebut kembali apa yang sah milik saya.
 ~"
 hint_bandits_camp_rings_letter_2,"~
-Buying stolen goods is a dishonorable deed. You may take pride in acquiring what doesn't rightfully belong to you so easily, but I am no coward, and you know that well. I have no intention of letting this go unpunished."
+Membeli barang curian adalah perbuatan yang tidak terhormat. Anda mungkin bangga atas kemudahan memperoleh apa yang tidak secara sah menjadi milik Anda, tapi saya bukan pengecut, dan Anda tahu itu dengan baik. Saya tidak berniat membiarkan ini tanpa hukuman."
 hint_wolfes_description,"[hint_DESCRIPTION]
-The Holy Caravan will not risk visiting your settlement until the threat is eliminated. Additionally, individual lords' travels have become too dangerous. All armies entering and leaving your city will be forced to battle the pack."
-hint_wolfes_attack,"Attack
-$ Risk of battle with a pack of fleshwolves (<b>{wolves_min} - {wolves_max}</b> creatures).
-$ Relationship with neighbors: <green>{rel_improve}</green>"
+Karavan Suci tidak akan mengambil risiko mengunjungi pemukiman Anda sampai ancaman itu dihilangkan. Selain itu, perjalanan para penguasa individu telah menjadi terlalu berbahaya. Semua pasukan yang masuk dan keluar dari kota Anda akan dipaksa bertempur melawan kawanan itu."
+hint_wolfes_attack,"Serang
+$ Risiko pertempuran dengan kawanan Fleshwolf (<b>{wolves_min} - {wolves_max}</b> makhluk).
+$ Hubungan dengan tetangga: <green>{rel_improve}</green>"
 hint_wolfes_attack_success,"~
-$ The pack has been wiped out. 
-$ Relationship with neighbors: <green>{rel_improve}</green>"
+$ Kawanan itu telah dimusnahkan. 
+$ Hubungan dengan tetangga: <green>{rel_improve}</green>"
 hint_wolfes_attack_fail,"~
-$ You failed to destroy the pack. However, after a fierce battle, the fleshwolves eventually retreated"
+$ Anda gagal menghancurkan kawanan itu. Namun, setelah pertempuran sengit, Fleshwolf akhirnya mundur"
 hint_wolfes_ignore,"~
-$ The pack has left your territory."
+$ Kawanan itu telah meninggalkan wilayah Anda."
 Got involved with forest bandits," "
 hint_village_neighbor_description,"[hint_DESCRIPTION]
-The village is in another lord's territory. You can attack the village at any time to capture prisoners, but the villagers will resist, and it will strain your relationship with the ruler of the province.
+Desa itu berada di wilayah penguasa lain. Anda dapat menyerang desa itu kapan saja untuk menangkap Narapidana, tapi penduduk desa akan melawan, dan itu akan merusak hubungan Anda dengan penguasa provinsi.
 
-$ Owner: {soul_uuid_king}
-$ Defenders: {defenders}
-$ Possible loot: {possible_loot}"
-hint_village_neighbor_ride,"Raid the village
-Engage in a guaranteed battle with the village defenders ({number_of_defenders} people, armed with daggers and maces).
+$ Pemilik: {soul_uuid_king}
+$ Pembela: {defenders}
+$ Rampasan mungkin: {possible_loot}"
+hint_village_neighbor_ride,"Rampok desa
+Terlibat dalam pertempuran yang dijamin dengan pembela desa ({number_of_defenders} orang, bersenjata belati dan gada).
 
-$ The village will be plundered and unable to pay tribute for the next 2 harvests.
-$ Since the village is in {soul_uuid_king}'s territory, your relationship with them will worsen by <red>{rel_de}</red>.
+$ Desa akan dijarah dan tidak mampu membayar upeti untuk 2 panen berikutnya.
+$ Karena desa itu berada di wilayah {soul_uuid_king}, hubungan Anda dengan mereka akan memburuk sebesar <red>{rel_de}</red>.
 
-<b>Possible loot:</b> {possible_loot}
+<b>Rampasan mungkin:</b> {possible_loot}
 {optional_holy_defence_will_removed}"
 hint_village_neighbor_ride_success,"~
-The village has been plundered and burned down.
+Desa itu telah dijarah dan dibakar habis.
 
-Relationship with {soul_uuid_king}: <red>{rel_de}</red>
+Hubungan dengan {soul_uuid_king}: <red>{rel_de}</red>
 
-<b>Loot:</b> {loot}
+<b>Rampasan:</b> {loot}
 {optional_holy_defence_will_removed}"
 hint_village_neighbor_ride_fail,"~
-The peasants repelled your attack, but the village was burned down during the battle.
+Petani menolak serangan Anda, tetapi desa dibakar selama pertempuran.
 
-Relationship with {soul_uuid_king}: <red>{rel_de}</red>
+Hubungan dengan {soul_uuid_king}: <red>{rel_de}</red>
 {optional_holy_defence_will_removed}"
 hint_village_neighbor_ride_success_1,"~
-How low one must stoop to plunder villages? The peasants are unarmed and cannot go to war! Come and face me and my warriors, and we shall see how much of a warrior you truly are!"
+Sejauh mana seseorang harus merendahkan diri untuk merampok desa-desa? Para petani tidak bersenjata dan tidak bisa berperang! Datanglah dan hadapi aku serta prajurit-prajuritku, dan kita akan melihat seberapa besar prajurit sebenarnya yang kau miliki!"
 hint_village_neighbor_ride_success_2,"~
-You burned the village and killed the peasants. Is it the custom in your town to burn children at the stake? Better to attack me, and then all shall see what your aggression amounts to!"
+Kau membakar desa dan membunuh para petani. Apakah kebiasaan di kotamu membakar anak-anak di tiang pancang? Lebih baik seranglah aku, dan semua orang akan melihat apa artinya agresimu!"
 hint_village_neighbor_ride_fail_1,"~
-In all my years, I've never heard tell of peasants with pitchforks defeating a lord's army! Today, I shall send many a letter to my neighbors so they might have a good laugh."
+Sepanjang hidupku, aku belum pernah mendengar cerita tentang petani dengan garpu rumput yang mengalahkan pasukan seorang penguasa! Hari ini, aku akan mengirim banyak surat kepada tetanggaku agar mereka bisa tertawa terbahak-bahak."
 hint_village_neighbor_ride_fail_2,"~
-You've given me a good chuckle, neighbor. My peasants have driven your disgraceful army out of the village! The jesters will thank you for such a tale!"
-hint_burned_village_description,"Burnt village 
-This village has recently been plundered, and the residents are occupied with its restoration. Until then, they will be unable to pay tribute."
-hint_city_settlement_description,"Settle the ruins
-Establish a new settlement led by one of your lords.
+Kau telah membuatku tertawa puas, tetangga. Para petaniku telah mengusir pasukan memalukanmu keluar dari desa! Para badut akan berterima kasih atas cerita seperti ini!"
+hint_burned_village_description,"Desa yang Terbakar 
+Desa ini baru saja dirampok, dan penduduknya sedang sibuk memulihkannya. Sampai saat itu, mereka tidak akan bisa membayar upeti."
+hint_city_settlement_description,"Bangun Pemukiman di Reruntuhan
+Dirikan pemukiman baru yang dipimpin oleh salah satu penguasa Anda.
 
-Another free lord will be hired to assist, and if the lord has a spouse and children, they will come along to the new settlement.
+Seorang penguasa bebas lainnya akan direkrut untuk membantu, dan jika penguasa itu memiliki pasangan dan anak-anak, mereka akan ikut ke pemukiman baru.
 
-The settlement will mark the beginning of a new noble house, which will be your <hint=hint_vassal>vassal</hint>.
+Pemukiman ini akan menandai awal dari sebuah rumah bangsawan baru, yang akan menjadi <hint=hint_vassal>vasal</hint> Anda.
 
-Cost: <hint=hint_resource_gold>{settlement_cost}</hint>"
-hint_city_settlement_offer,"Send the lord
-{soul_uuid_lord} is being sent to the ruined city to establish a new noble house on your behalf.
+Biaya: <hint=hint_resource_gold>{settlement_cost}</hint>"
+hint_city_settlement_offer,"Kirim Penguasa
+{soul_uuid_lord} sedang dikirim ke kota yang hancur untuk mendirikan rumah bangsawan baru atas nama Anda.
 
-Accompanying the lord will be:
+Yang mendampingi penguasa adalah:
 {additional_souls_stack}
 
-Cost: <hint=hint_resource_gold>{settlement_cost}</hint>"
-hint_city_settlement_success,"Establishment of a new house 
-In {faction_uuid_new_faction}, a settlement for a new noble house has been founded. 
+Biaya: <hint=hint_resource_gold>{settlement_cost}</hint>"
+hint_city_settlement_success,"Pendirian Rumah Baru 
+Di {faction_uuid_new_faction}, sebuah pemukiman untuk rumah bangsawan baru telah didirikan. 
 
-It originates from the House of {faction_uuid_old_faction} and now serves as its <hint=hint_vassal>vassal</hint>. 
+Ini berasal dari Rumah {faction_uuid_old_faction} dan sekarang berfungsi sebagai <hint=hint_vassal>vasal</hint>nya. 
 
-This undoubtedly marks the beginning of a glorious journey!"
+Ini tanpa ragu menandai awal dari perjalanan yang gemilang!"
 hint_city_settlement_success_letter_1,"~
-I hasten to let you know, my liege, that we are gradually settling in. These lands, though undeniably wild, rest assured, we shall prevail!"
+Aku buru-buru ingin memberitahumu, tuanku, bahwa kami sedang secara bertahap menempati tempat ini. Tanah-tanah ini, meskipun tak dapat disangkal liar, yakinlah, kami akan berhasil!"
 hint_city_settlement_success_letter_2,"~
 I write to convey to you, my liege, that we are successfully developing the new settlement. This territory is untamed, but we shall exert every effort to transform it!"
 hint_city_settlement_success_alliance,"Establishment of a new House 

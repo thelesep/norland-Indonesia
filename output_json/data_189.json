@@ -1,12 +1,12 @@
 [
-  "~\nBuying stolen goods is a dishonorable deed. You may take pride in acquiring what doesn't rightfully belong to you so easily, but I am no coward, and you know that well. I have no intention of letting this go unpunished.",
-  "[hint_DESCRIPTION]\nThe Holy Caravan will not risk visiting your settlement until the threat is eliminated. Additionally, individual lords' travels have become too dangerous. All armies entering and leaving your city will be forced to battle the pack.",
-  "Attack\n$ Risk of battle with a pack of fleshwolves (<b>{wolves_min} - {wolves_max}</b> creatures).\n$ Relationship with neighbors: <green>{rel_improve}</green>",
-  "~\n$ The pack has been wiped out. \n$ Relationship with neighbors: <green>{rel_improve}</green>",
-  "~\n$ You failed to destroy the pack. However, after a fierce battle, the fleshwolves eventually retreated",
-  "~\n$ The pack has left your territory.",
+  "~\nMembeli barang curian adalah perbuatan yang tidak terhormat. Anda mungkin bangga atas kemudahan memperoleh apa yang tidak secara sah menjadi milik Anda, tapi saya bukan pengecut, dan Anda tahu itu dengan baik. Saya tidak berniat membiarkan ini tanpa hukuman.",
+  "[hint_DESCRIPTION]\nKaravan Suci tidak akan mengambil risiko mengunjungi pemukiman Anda sampai ancaman itu dihilangkan. Selain itu, perjalanan para penguasa individu telah menjadi terlalu berbahaya. Semua pasukan yang masuk dan keluar dari kota Anda akan dipaksa bertempur melawan kawanan itu.",
+  "Serang\n$ Risiko pertempuran dengan kawanan Fleshwolf (<b>{wolves_min} - {wolves_max}</b> makhluk).\n$ Hubungan dengan tetangga: <green>{rel_improve}</green>",
+  "~\n$ Kawanan itu telah dimusnahkan. \n$ Hubungan dengan tetangga: <green>{rel_improve}</green>",
+  "~\n$ Anda gagal menghancurkan kawanan itu. Namun, setelah pertempuran sengit, Fleshwolf akhirnya mundur",
+  "~\n$ Kawanan itu telah meninggalkan wilayah Anda.",
   " ",
-  "[hint_DESCRIPTION]\nThe village is in another lord's territory. You can attack the village at any time to capture prisoners, but the villagers will resist, and it will strain your relationship with the ruler of the province.\n\n$ Owner: {soul_uuid_king}\n$ Defenders: {defenders}\n$ Possible loot: {possible_loot}",
-  "Raid the village\nEngage in a guaranteed battle with the village defenders ({number_of_defenders} people, armed with daggers and maces).\n\n$ The village will be plundered and unable to pay tribute for the next 2 harvests.\n$ Since the village is in {soul_uuid_king}'s territory, your relationship with them will worsen by <red>{rel_de}</red>.\n\n<b>Possible loot:</b> {possible_loot}\n{optional_holy_defence_will_removed}",
-  "~\nThe village has been plundered and burned down.\n\nRelationship with {soul_uuid_king}: <red>{rel_de}</red>\n\n<b>Loot:</b> {loot}\n{optional_holy_defence_will_removed}"
+  "[hint_DESCRIPTION]\nDesa itu berada di wilayah penguasa lain. Anda dapat menyerang desa itu kapan saja untuk menangkap Narapidana, tapi penduduk desa akan melawan, dan itu akan merusak hubungan Anda dengan penguasa provinsi.\n\n$ Pemilik: {soul_uuid_king}\n$ Pembela: {defenders}\n$ Rampasan mungkin: {possible_loot}",
+  "Rampok desa\nTerlibat dalam pertempuran yang dijamin dengan pembela desa ({number_of_defenders} orang, bersenjata belati dan gada).\n\n$ Desa akan dijarah dan tidak mampu membayar upeti untuk 2 panen berikutnya.\n$ Karena desa itu berada di wilayah {soul_uuid_king}, hubungan Anda dengan mereka akan memburuk sebesar <red>{rel_de}</red>.\n\n<b>Rampasan mungkin:</b> {possible_loot}\n{optional_holy_defence_will_removed}",
+  "~\nDesa itu telah dijarah dan dibakar habis.\n\nHubungan dengan {soul_uuid_king}: <red>{rel_de}</red>\n\n<b>Rampasan:</b> {loot}\n{optional_holy_defence_will_removed}"
 ]

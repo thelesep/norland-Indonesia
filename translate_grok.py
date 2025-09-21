@@ -347,14 +347,13 @@ def translate_file(file_path):
     # Setup client OpenRouter
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key="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",  # Ganti dengan API key kamu jika perlu
+        api_key="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",  # Ganti dengan API key kamu jika perlu
     )
 
     # Kirim request
     try:
         completion = client.chat.completions.create(
             model="x-ai/grok-4-fast:free",  # Pilih model lain sesuai kebutuhan
-            verbosity="high",
             messages=[
                 {
                     "role": "user",
@@ -410,15 +409,35 @@ if arg == "trans-all":
         
         print(f"Found {len(json_files)} JSON files in '{folder}'. Starting translation with 30s delay between files...")
         
+        success_count = 0
+        failed_files = []
+        
         for i, file_name in enumerate(json_files, 1):
             file_path = os.path.join(folder, file_name)
             print(f"\n--- Processing file {i}/{len(json_files)}: {file_name} ---")
             success = translate_file(file_path)
+            if success:
+                success_count += 1
+            else:
+                failed_files.append(file_name)
             if success and i < len(json_files):
-                print("Waiting 10 seconds before next file...")
-                time.sleep(10)
+                print("Waiting 5 seconds before next file...")
+                time.sleep(5)
         
-        print("\nAll files processed!")
+        # Summary di akhir
+        print("\n" + "="*50)
+        print("TRANSLATION SUMMARY:")
+        print(f"Total files: {len(json_files)}")
+        print(f"Successful: {success_count}")
+        print(f"Failed: {len(failed_files)}")
+        if failed_files:
+            print("Failed files:")
+            for f in failed_files:
+                print(f"  - {f}")
+        else:
+            print("All files translated successfully!")
+        print("="*50)
+        
 else:
     # Single file mode
     file_path = arg

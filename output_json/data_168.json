@@ -1,12 +1,12 @@
 [
-  "~\nI thank you for responding to my call for help. It's bitter to realize that these godless marauders have harmed your warriors. You are a true friend!",
-  "~\n{soul_uuid_king} emerged victorious and defended his city.",
-  "~\n{soul_uuid_king} was defeated, and his city was plundered.",
-  "~\nBelieve me, I am not one to scatter words of gratitude lightly. You aided me in a moment of great difficulty. Your warriors displayed true valor and courage. Thank you, and know that such actions are not easily forgotten.",
-  "~\nYou helped me defend against the enemy, and this honors you greatly. Many neighbors will happily visit my province for merriment and hunting, but almost none of them responded when I needed help. Thank you!",
-  "~\nNature didn't bless me with eloquence, but my actions express my gratitude. You displayed bravery by coming to my aid. Perhaps we lost and suffered casualties, but your deed shines bright despite the defeat.",
-  "~\nI'm not accustomed to groveling or offering thanks to those weaker than me. However, a sense of justice is not foreign to me, and I express my gratitude to you for the assistance you provided.",
-  "Threat of plunder\n{optional_type_of_danger}\n\n{optional_possible_helpers}",
-  "~\n\nIn typical Makha fashion, {soul_uuid_king_1} is extremely upset that {soul_uuid_king_2} is in no hurry to repay the borrowed gold.\n\n{soul_uuid_king_2}, on the other hand, believes that such pettiness damages the collective image of the noble houses in the eyes of the peasants. He promises to repay the debt as soon as he can.",
-  "~\n\n{soul_uuid_king_1} belongs to the Kaiden culture, where loyalty is the highest virtue, so he believes that {soul_uuid_king_2} should hand the escaped lord over to him.\n\n{soul_uuid_king_2}, who has given shelter to the fugitive, believes that lords are not slaves and have the right to choose which noble house to join."
+  "~\nSaya berterima kasih karena Anda merespons panggilan bantuan saya. Pahit menyadari bahwa para begal atheis ini telah merugikan prajurit Anda. Anda adalah teman sejati!",
+  "~\n{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kotanya.",
+  "~\n{soul_uuid_king} dikalahkan, dan kotanya dirampok.",
+  "~\nPercayalah, saya bukan orang yang mudah mengucapkan kata-kata terima kasih. Anda menolong saya di saat kesulitan besar. Prajurit Anda menunjukkan keberanian dan valor sejati. Terima kasih, dan ketahuilah bahwa tindakan seperti itu tidak mudah dilupakan.",
+  "~\nAnda membantu saya mempertahankan diri dari musuh, dan ini sangat menghormati Anda. Banyak tetangga yang dengan senang hati mengunjungi provinsi saya untuk bersenang-senang dan berburu, tapi hampir tidak ada yang merespons saat saya membutuhkan bantuan. Terima kasih!",
+  "~\nAlam tidak memberkati saya dengan kefasihan bicara, tapi tindakan saya menyatakan rasa terima kasih. Anda menunjukkan keberanian dengan datang menolong saya. Mungkin kita kalah dan menderita korban jiwa, tapi perbuatan Anda bersinar terang meskipun kekalahan itu.",
+  "~\nSaya tidak terbiasa merendahkan diri atau mengucapkan terima kasih kepada orang yang lebih lemah dari saya. Namun, rasa keadilan bukanlah hal asing bagi saya, dan saya menyatakan rasa terima kasih atas bantuan yang Anda berikan.",
+  "Ancaman perampokan\n{optional_type_of_danger}\n\n{optional_possible_helpers}",
+  "~\n\nSesuai gaya khas Makha, {soul_uuid_king_1} sangat kesal karena {soul_uuid_king_2} tidak terburu-buru membayar kembali emas yang dipinjam.\n\n{soul_uuid_king_2}, di sisi lain, percaya bahwa kekikiran seperti itu merusak citra kolektif rumah bangsawan di mata petani. Ia berjanji untuk melunasi utang secepat mungkin.",
+  "~\n\n{soul_uuid_king_1} berasal dari budaya Kaiden, di mana kesetiaan adalah kebajikan tertinggi, sehingga ia percaya bahwa {soul_uuid_king_2} seharusnya menyerahkan penguasa yang melarikan diri kepadanya.\n\n{soul_uuid_king_2}, yang telah memberi perlindungan kepada pelarian itu, percaya bahwa para penguasa bukan budak dan berhak memilih rumah bangsawan mana yang akan diikuti."
 ]

@@ -1,12 +1,12 @@
 [
-  "~\nYou have become a <hint=hint_vassal>vassal</hint>.\n\n{soul_uuid_king} is now your suzerain.\n\nServe him faithfully!\n\n[hint_vassal_tribute]",
-  "~\n{soul_uuid_king} has declined to become your suzerain as he believes it would create too many problems with neighboring factions.",
-  "~\nYour wisdom does you honor. By becoming my vassal, you will secure your protection - a value that few in our times truly comprehend. Very well, I agree.",
-  "~\nYou seek vassalage out of desperation. Enemies surround you, and consider this: if I agree, they will become my enemies as well. I advise you to mend your relations with them first, and then seek assistance.",
-  "Release the vassal\nYour sovereignty over {soul_uuid_king} is dissolved, and this faction will no longer be your <hint=hint_vassal>vassal</hint>.",
-  "~\nYou have terminated the relationship, and {soul_uuid_king} is no longer your <hint=hint_vassal>vassal</hint>.",
-  "[hint_DESCRIPTION]\n{soul_uuid_king} believes that in the current situation, it would be best for you to become their <hint=hint_vassal>vassal</hint>.\n\n$ You have <b>2 days</b> to consider the offer.\n$ If you ignore the proposal, {soul_uuid_king} will attempt to test your strength in a few days.\n$ If this assault on your city is successful and your Hall is burned to the ground, you will be recognized as {soul_uuid_king}'s vassal by the entire world.\n{optional_player_is_vassal}\n{optional_possible_helpers}\n\n[hint_SENDER]",
-  "Agree\nAgree to become his <hint=hint_vassal>vassal</hint>.\n{optional_player_is_vassal}\n\n[hint_vassal_tribute]",
-  "~\nYou have become a <hint=hint_vassal>vassal</hint>.\n\n{soul_uuid_king} is now your suzerain.\n\nServe him faithfully!\n{optional_player_ex_sir_result}\n\n[hint_vassal_tribute]",
-  "~\nYou ignored the offer, and in a few days, {soul_uuid_king} will attempt to test your strength.\n\n If this assault on your city is successful and your Hall is burned to the ground, you will be recognized throughout the realm as {soul_uuid_king}'s <hint=hint_vassal>vassal</hint>."
+  "~\nEngkau telah menjadi seorang <hint=hint_vassal>vasal</hint>.\n\n{soul_uuid_king} sekarang adalah suzerain-mu.\n\nLayani dia dengan setia!\n\n[hint_vassal_tribute]",
+  "~\n{soul_uuid_king} menolak menjadi suzerain-mu karena ia percaya itu akan menimbulkan terlalu banyak masalah dengan faksi-faksi tetangga.",
+  "~\nKebijaksanaanmu menghormatimu. Dengan menjadi vasalku, engkau akan mengamankan perlindunganmu - nilai yang sedikit sekali dipahami di zaman kita sekarang. Baiklah, aku setuju.",
+  "~\nEngkau mencari kevasalan karena keputusasaan. Musuh-musuh mengelilingimu, dan pertimbangkan ini: jika aku setuju, mereka juga akan menjadi musuhku. Aku sarankan engkau perbaiki hubunganmu dengan mereka dulu, baru kemudian minta bantuan.",
+  "Bebaskan Vasal\nKedaulatanmu atas {soul_uuid_king} dibubarkan, dan faksi ini tidak lagi menjadi <hint=hint_vassal>vasal</hint>-mu.",
+  "~\nEngkau telah mengakhiri hubungan itu, dan {soul_uuid_king} tidak lagi menjadi <hint=hint_vassal>vasal</hint>-mu.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} percaya bahwa dalam situasi saat ini, akan lebih baik jika engkau menjadi <hint=hint_vassal>vasal</hint> mereka.\n\n$ Engkau memiliki <b>2 hari</b> untuk mempertimbangkan tawaran ini.\n$ Jika engkau mengabaikan proposal ini, {soul_uuid_king} akan mencoba menguji kekuatanmu dalam beberapa hari.\n$ Jika serangan ini terhadap kotamu berhasil dan Aula-mu dibakar sampai rata dengan tanah, engkau akan diakui sebagai vasal {soul_uuid_king} oleh seluruh dunia.\n{optional_player_is_vassal}\n{optional_possible_helpers}\n\n[hint_SENDER]",
+  "Setuju\nSetuju untuk menjadi <hint=hint_vassal>vasal</hint>-nya.\n{optional_player_is_vassal}\n\n[hint_vassal_tribute]",
+  "~\nEngkau telah menjadi seorang <hint=hint_vassal>vasal</hint>.\n\n{soul_uuid_king} sekarang adalah suzerain-mu.\n\nLayani dia dengan setia!\n{optional_player_ex_sir_result}\n\n[hint_vassal_tribute]",
+  "~\nEngkau mengabaikan tawaran itu, dan dalam beberapa hari, {soul_uuid_king} akan mencoba menguji kekuatanmu.\n\n Jika serangan ini terhadap kotamu berhasil dan Aula-mu dibakar sampai rata dengan tanah, engkau akan diakui di seluruh kerajaan sebagai <hint=hint_vassal>vasal</hint> {soul_uuid_king}."
 ]

@@ -1,12 +1,12 @@
 [
-  "~\nHow dare you oppose me and lend your aid to my vassal? And you, pitiful coward, thought you could defeat me? This is the fate that befalls those who interfere in the internal matters of their neighbors: they are met with defeat!",
-  "~\nYou chose to aid my vassal and strike against me. An unforgivable blunder! Now relish your defeat and don't forget to claim the title of a wretched soldier for yourself!",
-  "~\n$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>\n$ Relationship with {soul_uuid_king_s}: <red>{rel_de}</red>",
-  "Threat of plunder\n{optional_type_of_danger}\n\nTherefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.\n\nYou can send your army to help defend {faction_uuid}.\n\n<b>Consequences</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
-  "~\n{soul_uuid_king} emerged victorious and defended their city from plunder.",
-  "~\n{soul_uuid_king} was defeated and couldn't defend their city from plunder.",
-  "~\nI hasten to thank you for standing by my side. I know the battle was fierce, and you suffered significant losses. But rest assured: the good you have done will not be forgotten!",
-  "~\nIt seems that victory might have eluded me if not for your support. You stood for justice when you decided to back my cause. Such deeds are etched in memory, and I vow to come to your aid the moment you call for it!",
-  "~\nFrom you, such treachery was unforeseen! To strike at me so vilely, alongside my enemy! But Holy Sophia was by my side. Now reap the fruits of your folly, while I shall revel in my victory!",
-  "~\nYou chose to join forces with my enemy and attack me. But I know that you did not expect such a rout, and I myself could not have imagined how weak your army was. Next time, I will know just how insignificant an opponent you are!"
+  "~\nBagaimana beraninya kau menentangku dan membantunya vasalku? Dan engkau, pengecut yang menyedihkan, mengira bisa mengalahkanku? Inilah nasib yang menimpa mereka yang ikut campur dalam urusan internal tetangga mereka: mereka dikalahkan!",
+  "~\nKau memilih membantunya vasalku dan menyerangku. Kesalahan yang tak termaafkan! Sekarang nikmatilah kekalahanmu dan jangan lupa ambil gelar prajurit sial untuk dirimu sendiri!",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>\n$ Hubungan dengan {soul_uuid_king_s}: <red>{rel_de}</red>",
+  "Ancaman Penjarahan\n{optional_type_of_danger}\n\nOleh karena itu, Raja dari {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.\n\nKau bisa mengirim pasukanmu untuk membantu mempertahankan {faction_uuid}.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\n{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kotanya dari penjarahan.",
+  "~\n{soul_uuid_king} dikalahkan dan tidak bisa mempertahankan kotanya dari penjarahan.",
+  "~\nAku segera berterima kasih atas dukunganmu di sisiku. Aku tahu pertempuran itu sengit, dan kau menderita kerugian besar. Tapi tenanglah: kebaikan yang kau lakukan tidak akan dilupakan!",
+  "~\nSepertinya kemenangan mungkin lolos dariku jika bukan karena dukunganmu. Kau berdiri untuk keadilan saat memutuskan mendukung urusanku. Perbuatan seperti itu terukir dalam ingatan, dan aku bersumpah akan membantumu segera saat kau memanggil!",
+  "~\nDari engkau, pengkhianatan seperti itu tak terduga! Menyerangku begitu keji, bersama musuhku! Tapi Holy Sophia bersamaku. Sekarang tuailah buah kebodohanmu, sementara aku menikmati kemenanganku!",
+  "~\nKau memilih bergabung dengan musuhku dan menyerangku. Tapi aku tahu kau tak menduga kekalahan sebesar itu, dan aku sendiri tak membayangkan seberapa lemah pasukanmu. Lain kali, aku akan tahu betapa tidak berartinya lawan sepertimu!"
 ]

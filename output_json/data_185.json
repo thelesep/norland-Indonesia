@@ -1,12 +1,12 @@
 [
-  "~\nI am writing to express my delight at the inception of such a lucrative trade agreement. Not everyone can sheathe their sword and engage in negotiations.",
-  "~\nAs you may be aware, the term of our trade contract has expired. It has been quite advantageous.",
-  "~\nI write to you to make you aware of the termination of our trade agreement. Could a new one be possible? We shall see.",
-  "~\nI write to you to make you aware that my predecessor has passed away. The trade agreement you entered into with him yields no benefit. Consider it null and void.",
-  "~\nMy predecessor has departed from this world, and I have always held reservations regarding this commercial arrangement. Can such terms truly be deemed advantageous? I hereby annul this pact.",
-  "~\n$ Contract creation cost: <hint=hint_resource_paper>{trade_agreement_cost_paper}.",
-  "[hint_DESCRIPTION]\n{soul_uuid_king} believes that the bandit camp near your city poses a security threat to caravans and travelers. You must address this issue.\n\n$ You must destroy the bandit camp near your city.\n$ If you fail to do so, your relationship with {soul_uuid_king} will deteriorate by <red>{rel_de}</red> in 2 days.",
-  "~ \n$ The bandit camp in your province has been destroyed, and {soul_uuid_king} no longer has any grievances.",
-  "~ \n$ You have chosen not to attack the bandits, and their camp remains in place. \n$ Your relationship with {soul_uuid_king} has deteriorated by <red>{rel_de}</red>.",
+  "~\nSaya menulis untuk menyatakan kegembiraan saya atas dimulainya perjanjian perdagangan yang begitu menguntungkan. Tidak semua orang bisa menyarungkan pedang mereka dan terlibat dalam negosiasi.",
+  "~\nSeperti yang mungkin Anda ketahui, masa berlaku kontrak perdagangan kita telah berakhir. Ini telah sangat menguntungkan.",
+  "~\nSaya menulis kepada Anda untuk memberitahukan berakhirnya perjanjian perdagangan kita. Bisakah yang baru dibuat? Kita lihat saja.",
+  "~\nSaya menulis kepada Anda untuk memberitahukan bahwa pendahulu saya telah meninggal dunia. Perjanjian perdagangan yang Anda buat dengannya tidak memberikan manfaat. Anggap saja itu batal demi hukum.",
+  "~\nPendahulu saya telah pergi dari dunia ini, dan saya selalu ragu-ragu mengenai pengaturan komersial ini. Bisakah syarat-syarat seperti itu benar-benar dianggap menguntungkan? Saya dengan ini membatalkan perjanjian ini.",
+  "~\n$ Biaya pembuatan kontrak: <hint=hint_resource_paper>{trade_agreement_cost_paper}.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} percaya bahwa kamp perampok di dekat kota Anda menimbulkan ancaman keamanan bagi karavan dan para pelancong. Anda harus menangani masalah ini.\n\n$ Anda harus menghancurkan kamp perampok di dekat kota Anda.\n$ Jika Anda gagal melakukannya, hubungan Anda dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de}</red> dalam 2 hari.",
+  "~ \n$ Kamp perampok di provinsi Anda telah dihancurkan, dan {soul_uuid_king} tidak lagi memiliki keluhan apa pun.",
+  "~ \n$ Anda telah memilih untuk tidak menyerang para perampok, dan kamp mereka tetap berdiri. \n$ Hubungan Anda dengan {soul_uuid_king} telah memburuk sebesar <red>{rel_de}</red>.",
   " "
 ]

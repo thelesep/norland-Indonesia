@@ -1,12 +1,12 @@
 [
-  "~\nIt is a rare deed in these times for one to aid a neighbor whose kingdom lies in peril! I thank you for saving my home from certain doom!",
-  "~\nYou not only aligned with my foe but also revealed to the world your cowardice as a warrior! Your defeat today is merely the prelude. I shall make it my endeavor to leave you without a single warrior to call your own.",
-  "~\nNot only did you side with my enemy, but you also displayed to the world your cowardice as a warrior! Your defeat today is but the beginning. I will exert all my efforts to ensure that not a single warrior remains at your side.",
-  "~\nNo one dares to side with my enemy and goes unpunished! The fact that you would lose this battle was so obvious that it makes me question your sanity!",
-  "Marauders approaching\n{optional_type_of_danger}\n\nTherefore, King {soul_uuid_king} requests all neighbors who are able to help him.\n\nAnd since the marauders are <hint=hint_cainism>heretic Cainites</hint>, this action is warmly blessed by <hint=hint_sofia_cult>the Church</hint>.\n\n<b>Consequences</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
-  "~\nYou have defeated the marauder squad, and {soul_uuid_king} will save his village.",
-  "~\nYou suffered a defeat from the marauder squad, but {soul_uuid_king} is grateful to you for the attempt.",
-  "~\nOnly a valiant warrior such as yourself could contend with these marauders. You have saved a multitude of innocent souls from death and bondage, and I shall remain indebted to you until the end of my days. Great thanks to you!",
-  "~\nIf it weren't for your help, these marauders would have destroyed my entire settlement. May Holy Sophia protect you and your family at all times!",
-  "~\nI sincerely regret that you and your warriors have suffered at the hands of these merciless marauders. I am to blame for all of this-after all, it was I who called upon you for help. Thank you, dear neighbor, for your invaluable support!"
+  "~\nSungguh perbuatan langka di zaman ini bagi seseorang untuk menolong tetangga yang kerajaannya berada dalam bahaya! Aku berterima kasih padamu atas penyelamatan rumahku dari kehancuran yang pasti!",
+  "~\nEngkau tidak hanya bersekutu dengan musuhku tetapi juga memperlihatkan kepada dunia kelemahanmu sebagai prajurit! Kekalahanmu hari ini hanyalah pengantar. Aku akan berusaha sekuat tenaga untuk meninggalkanmu tanpa satu pun prajurit yang bisa kau panggil milikmu.",
+  "~\nEngkau tidak hanya berpihak pada musuhku, tapi juga memperlihatkan kepada dunia kelemahanmu sebagai prajurit! Kekalahanmu hari ini hanyalah permulaan. Aku akan mengerahkan segala upayaku untuk memastikan bahwa tidak ada satu pun prajurit yang tersisa di sisimu.",
+  "~\nTidak ada yang berani berpihak pada musuhku tanpa dihukum! Fakta bahwa engkau akan kalah dalam pertempuran ini begitu jelas sehingga membuatku mempertanyakan kewarasanmu!",
+  "Begal mendekat\n{optional_type_of_danger}\n\nOleh karena itu, Raja {soul_uuid_king} meminta bantuan dari semua tetangga yang mampu membantunya.\n\nDan karena para begal itu adalah <hint=hint_cainism>Kainit heretik</hint>, tindakan ini mendapat <hint=hint_sofia_cult>berkah hangat dari Pihak Gereja</hint>.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\nEngkau telah mengalahkan regu begal, dan {soul_uuid_king} akan menyelamatkan desanya.",
+  "~\nEngkau mengalami kekalahan dari regu begal, tapi {soul_uuid_king} berterima kasih padamu atas usahanya.",
+  "~\nHanya prajurit pemberani seperti dirimu yang bisa melawan para begal ini. Engkau telah menyelamatkan banyak jiwa tak bersalah dari kematian dan perbudakan, dan aku akan tetap berhutang budi padamu hingga akhir hari-hariku. Terima kasih banyak!",
+  "~\nJika bukan karena bantuanmu, para begal ini akan menghancurkan seluruh pemukimanku. Semoga Santa Sofia melindungi engkau dan keluargamu setiap saat!",
+  "~\nAku sangat menyesal bahwa engkau dan para prajuritmu menderita di tangan para begal kejam ini. Aku yang patut disalahkan atas semua ini—lagipula, akulah yang memanggilmu untuk membantu. Terima kasih, tetangga tercinta, atas dukunganmu yang tak ternilai!"
 ]

@@ -1,12 +1,12 @@
 [
-  "~\nYou lost the battle, and {soul_uuid_king} is no longer your vassal.",
-  "~\nYou won the battle, and {soul_uuid_king} remains your vassal.",
-  "~\nAre courage and pride not considered the paramount virtues of a lord? Yet what do I see before me? A timorous neighbor, incapable of defending his own rights. Better you retreat to a monastery and spare your province the disgrace!",
-  "~\nSuch bravery I have yet to encounter: even my peasants rise up in rebellion. And here, the king himself is afraid to respond to my challenge. One cannot deny your cowardice.",
-  "~\nYou must admit that I am a worthy adversary. Not everyone would have the courage to go against the will of a suzerain. Perhaps we should put our disagreements aside and attempt to mend our relations?",
-  "~\nA noble ruler is one who can recognize the bravery in others. Have I not won my freedom in fair combat? The prosperity of our kingdoms should be built upon good relations with our neighbors. Why should we not choose such a path?",
-  "~\nYou have triumphed, and against my will, I remain your vassal. But I swear by the Holy Sophia, my fight for freedom has only just begun! And I will strike when you least expect it!",
-  "~\nBattling someone weaker than yourself is something any fool can do! Perhaps I have suffered losses now, but the day will come when Holy Sophia will aid me in claiming victory. And believe me, that day will arrive soon, I promise you!",
-  "~\n$ Relationship with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
-  "~\n$ If your suzerain is strong enough, a seige will fall upon your city. If the assault razes your Hall, your bondage will continue.\n$ However, if you successfully defend your freedom, you will have secured your independence.\n$ The suzerain may choose to grant you freedom without a fight if you are sufficiently strong."
+  "~\nAnda kalah dalam pertempuran, dan {soul_uuid_king} tidak lagi menjadi vassal Anda.",
+  "~\nAnda menang dalam pertempuran, dan {soul_uuid_king} tetap menjadi vassal Anda.",
+  "~\nBukankah keberanian dan kebanggaan dianggap sebagai kebajikan utama seorang tuan? Namun apa yang kulihat di hadapanku? Seorang tetangga yang pengecut, tidak mampu membela haknya sendiri. Lebih baik engkau mundur ke biara dan hemat provinsimu dari kehinaan!",
+  "~\nKeberanian seperti itu belum pernah kutemui: bahkan petaniku pun bangkit memberontak. Dan di sini, sang raja sendiri takut merespons tantanganku. Tak dapat disangkal ketakutanmu.",
+  "~\nEngkau harus mengakui bahwa aku adalah lawan yang layak. Tidak semua orang memiliki keberanian untuk melawan kehendak seorang suzerain. Mungkin kita harus menyimpan perselisihan kita dan mencoba memperbaiki hubungan kita?",
+  "~\nSeorang penguasa bangsawan adalah yang dapat mengenali keberanian pada orang lain. Bukankah aku telah memenangkan kebebasanku dalam pertarungan yang adil? Kemakmuran kerajaan kita harus dibangun di atas hubungan baik dengan tetangga kita. Mengapa kita tidak memilih jalan seperti itu?",
+  "~\nEngkau telah menang, dan melawanku, aku tetap menjadi vassalmu. Tetapi aku bersumpah demi Sophia yang Suci, perjuanganku untuk kebebasan baru saja dimulai! Dan aku akan menyerang saat engkau paling tidak menduganya!",
+  "~\nBertarung dengan seseorang yang lebih lemah dari dirimu adalah hal yang bisa dilakukan siapa saja yang bodoh! Mungkin aku mengalami kerugian sekarang, tapi hari akan tiba ketika Sophia yang Suci akan membantuku meraih kemenangan. Dan percayalah, hari itu akan segera tiba, aku janjikan!",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
+  "~\n$ Jika suzerain Anda cukup kuat, pengepungan akan menimpa kota Anda. Jika serangan itu meratakan Aula Anda, ikatan Anda akan berlanjut.\n$ Namun, jika Anda berhasil membela kebebasan Anda, Anda akan mengamankan kemerdekaan Anda.\n$ Suzerain mungkin memilih untuk memberikan kebebasan kepada Anda tanpa pertarungan jika Anda cukup kuat."
 ]

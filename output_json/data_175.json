@@ -1,12 +1,12 @@
 [
-  "~\n{soul_uuid_king} refuses your offer and invites you to settle the matter by force.\n\nYou must attack his city and defeat him within the next 3 days, or you will be deemed a coward.",
-  "~\nI am compelled to acquiesce to your demand. It was a difficult decision to make, but the times are turbulent, and I confess, I am in need of your protection.",
-  "~\nYou present me with a harsh choice: to see my kingdom destroyed or to pay you an unbearable tribute... I choose the tribute! But remember, Holy Sophia sees all!",
-  "~\nYou think I'm ready to kneel before you? Never! Threats on paper don't require courage, but to prove oneself worthy in battle is not given to everyone! Our swords are already sharpened, and we await!",
-  "~\nToday, in front of all, I boldly declared that we shall not become your vassal. I fear not death, be it this world or the next. However, in the memories of all, I aspire to be remembered as a valiant warrior, not as an eagle caged in captivity.",
-  "Anticipating the attack\nAfter declining your demand for <hint=hint_vassal>vassalage</hint>, {soul_uuid_king} is awaiting your assault.\n\n$ If you win, this faction will become your vassal.\n$ If your assault fails, the faction will remain independent.\n$ If you do not show up for the assault within 3 days, you will be declared a coward.",
-  "Attack\n$ If you win, {soul_uuid_king} will become your vassal.\n$ If your assault fails, this faction will remain independent.\n$ If you do not show up for the assault within 3 days, you will be declared a coward.",
-  "~\nAs a result of a successful assault, {soul_uuid_king} has acknowledged your power and agreed to become your <hint=hint_vassal>vassal</hint>.\n\n[hint_vassal_tribute]",
-  "~\nYou lost the battle, and {soul_uuid_king} remains independent.",
-  "~\nYou failed to show up for the assault, and now your king will be seen as a coward.\n\n$ Relationship with neighbors and {soul_uuid_king}: <red>{rel_coward}</red>"
+  "~\n{soul_uuid_king} menolak tawaran Anda dan mengundang Anda untuk menyelesaikan masalah ini dengan kekerasan.\n\nAnda harus menyerang kotanya dan mengalahkannya dalam 3 hari ke depan, atau Anda akan dianggap pengecut.",
+  "~\nSaya terpaksa menurut tuntutan Anda. Ini adalah keputusan yang sulit, tapi masa ini penuh gejolak, dan saya akui, saya membutuhkan perlindungan Anda.",
+  "~\nAnda menyajikan saya pilihan yang keras: melihat kerajaan saya hancur atau membayar upeti yang tak tertahankan... Saya pilih upeti! Tapi ingat, Holy Sophia melihat segalanya!",
+  "~\nAnda pikir saya siap berlutut di hadapan Anda? Tidak pernah! Ancaman di atas kertas tidak memerlukan keberanian, tapi membuktikan diri layak di medan perang bukan untuk semua orang! Pedang kami sudah diasah, dan kami menanti!",
+  "~\nHari ini, di hadapan semua orang, saya dengan berani menyatakan bahwa kami tidak akan menjadi vasal Anda. Saya tidak takut kematian, baik di dunia ini maupun yang akan datang. Namun, dalam ingatan semua, saya bercita-cita dikenang sebagai prajurit pemberani, bukan sebagai elang yang dikurung dalam penjara.",
+  "Menanti Serangan\nSetelah menolak tuntutan Anda untuk <hint=hint_vassal>kedudukan vasal</hint>, {soul_uuid_king} sedang menanti serangan Anda.\n\n$ Jika Anda menang, faksi ini akan menjadi vasal Anda.\n$ Jika serangan Anda gagal, faksi ini akan tetap merdeka.\n$ Jika Anda tidak datang untuk serangan dalam 3 hari, Anda akan dinyatakan pengecut.",
+  "Serangan\n$ Jika Anda menang, {soul_uuid_king} akan menjadi vasal Anda.\n$ Jika serangan Anda gagal, faksi ini akan tetap merdeka.\n$ Jika Anda tidak datang untuk serangan dalam 3 hari, Anda akan dinyatakan pengecut.",
+  "~\nAkibat serangan yang berhasil, {soul_uuid_king} telah mengakui kekuatan Anda dan setuju menjadi <hint=hint_vassal>vasal</hint> Anda.\n\n[hint_vassal_tribute]",
+  "~\nAnda kalah dalam pertempuran, dan {soul_uuid_king} tetap merdeka.",
+  "~\nAnda gagal hadir untuk serangan, dan sekarang raja Anda akan dipandang sebagai pengecut.\n\n$ Hubungan dengan tetangga dan {soul_uuid_king}: <red>{rel_coward}</red>"
 ]

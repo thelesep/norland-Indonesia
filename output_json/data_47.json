@@ -1,12 +1,12 @@
 [
-  "Funeral Ceremony\nAt 8:00 in the evening, a farewell ceremony will be held at the local Temple for: {actor_list}\n\nMay the mercy of Holy Sophia be boundless!",
-  "Wedding Ceremony\nAt 8:00 in the evening, at the local Temple, {husband} and {wife} will be united in holy matrimony.\n\nMay Holy Sophia bless them with healthy children!",
-  "Lord has been bribed\n{soul_uuid_1} has been bribed by someone among your neighbors (possibly a messenger). Their loyalty is at risk, and if it drops below <red>{threshold}</red>, they may leave.\n\nYour neighbor took this action in response to your recent aggressive move or the expansion of your state on the map.\n\n<b>Hint:</b> To restore loyalty, the king can give the lord rings as a gift or threaten them. And to protect yourself from such intrigues entirely, keep the lord in a good mood so that they become a <hint=hint_loyalist>loyalist</hint>, who cannot be bribed or tempted with seduction.",
-  "Knowledge unavailable\nThe lord lacks the required <hint=hint_skill_knowledge>Intelligence</hint> level to study the book. If the level increases, the study can be resumed.",
-  "Talent discovered\nThanks to the gift of <hint=hint_trait_insightful>Insight</hint> from the teacher, the lord has discovered a new <hint=hint_talant>talent</hint> within themselves.",
-  "Character dying of old age\nDue to natural causes, the days of this character are numbered, and soon they will depart from this mortal world. Relatives and friends have a couple of days to bid their farewells.",
-  "The ruler is dying\nDue to natural causes, the days of this character are numbered, and soon he will depart from this mortal world.\n\nSince the ruler is helpless, the heir {soul_uuid_1}, and the next in line for the crown {soul_uuid_2}, will develop mutual distrust over these few days, which could lead to tragic events.\n{optional_politics_rival}",
-  "Warrior cannot move. \nWarriors who cannot move cannot be added to the squad.",
-  "Hired warrior en route\nThey will arrive at your settlement in {remain_hours} hours.",
-  "Warrior in battle\nThey're in combat right now."
+  "Upacara Pemakaman\nPukul 20:00 malam, upacara perpisahan akan diadakan di Kuil setempat untuk: {actor_list}\n\nSemoga rahmat Holy Sophia tak terbatas!",
+  "Upacara Pernikahan\nPukul 20:00 malam, di Kuil setempat, {husband} dan {wife} akan disatukan dalam ikatan pernikahan suci.\n\nSemoga Holy Sophia memberkahi mereka dengan anak-anak yang sehat!",
+  "Penguasa Telah Disuap\n{soul_uuid_1} telah disuap oleh seseorang di antara tetangga Anda (mungkin seorang utusan). Kesetiaan mereka dalam bahaya, dan jika turun di bawah <red>{threshold}</red>, mereka mungkin pergi.\n\nTetangga Anda melakukan tindakan ini sebagai respons terhadap langkah agresif terbaru Anda atau perluasan wilayah Anda di peta.\n\n<b>Hint:</b> Untuk memulihkan kesetiaan, raja dapat memberikan cincin kepada penguasa sebagai hadiah atau mengancam mereka. Dan untuk melindungi diri dari intrik semacam ini sepenuhnya, jaga suasana hati penguasa tetap baik agar mereka menjadi seorang <hint=hint_loyalist>loyalis</hint>, yang tidak dapat disuap atau digoda dengan rayuan.",
+  "Pengetahuan Tidak Tersedia\nPenguasa kekurangan tingkat <hint=hint_skill_knowledge>Kecerdasan</hint> yang diperlukan untuk mempelajari buku. Jika tingkatnya meningkat, studi dapat dilanjutkan.",
+  "Bakat Ditemukan\nBerkat pemberian <hint=hint_trait_insightful>Wawasan</hint> dari guru, penguasa telah menemukan <hint=hint_talant>bakat</hint> baru dalam dirinya.",
+  "Karakter Mati Karena Usia Tua\nAkibat sebab alamiah, hari-hari karakter ini sudah dihitung, dan sebentar lagi ia akan pergi dari dunia fana ini. Kerabat dan teman memiliki beberapa hari untuk mengucapkan selamat tinggal.",
+  "Penguasa Sedang Sekarat\nAkibat sebab alamiah, hari-hari karakter ini sudah dihitung, dan sebentar lagi ia akan pergi dari dunia fana ini.\n\nKarena penguasa tak berdaya, pewaris {soul_uuid_1}, dan yang berikutnya dalam antrean mahkota {soul_uuid_2}, akan mengembangkan ketidakpercayaan timbal balik selama beberapa hari ini, yang bisa mengarah pada peristiwa tragis.\n{optional_politics_rival}",
+  "Prajurit Tidak Dapat Bergerak. \nPrajurit yang tidak dapat bergerak tidak bisa ditambahkan ke regu.",
+  "Prajurit Bayaran Dalam Perjalanan\nMereka akan tiba di pemukiman Anda dalam {remain_hours} jam.",
+  "Prajurit Dalam Pertempuran\nMereka sedang bertempur saat ini."
 ]

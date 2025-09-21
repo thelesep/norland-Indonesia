@@ -1,12 +1,12 @@
 [
-  "Resources Spent\nIncludes wages, consumption of food and alcohol by lords and prisoners, construction costs, and resources used in production.",
-  "Local Market Trade\nThe total value of all goods sold to your peasants at the local market, taverns, and drug dens.",
-  "External Trade\nThe balance of trade with your neighbors on the world map.",
-  "Trade with the Holy Caravan\nThe balance of trade with the Holy Caravan.",
-  "Lords\n\n{details_stack}",
-  "Peasants\n\n{details_stack}",
-  "Prisoners\n\n{details_stack}",
-  "Warriors\n\n{details_stack}",
-  "Vagabonds\n\n{details_stack}",
-  "Terror is getting out of control\nDuring the ongoing terror, all vagabonds and unemployed peasants have been punished. If you do not stop it, the executioners will begin punishing ordinary peasants.\n\nTo stop the terror, find the <hint=hint_bld_scafod>Scaffold</hint> where this mode is enabled."
+  "Sumber Daya yang Dikeluarkan\nTermasuk upah, konsumsi makanan dan alkohol oleh penguasa dan tahanan, biaya pembangunan, dan sumber daya yang digunakan dalam produksi.",
+  "Perdagangan Pasar Lokal\nNilai total semua barang yang dijual kepada petani Anda di pasar lokal, kedai, dan sarang narkoba.",
+  "Perdagangan Luar\nNeraca perdagangan dengan tetangga Anda di peta dunia.",
+  "Perdagangan dengan Karavan Suci\nNeraca perdagangan dengan Karavan Suci.",
+  "Penguasa\n\n{details_stack}",
+  "Petani\n\n{details_stack}",
+  "Tahanan\n\n{details_stack}",
+  "Prajurit\n\n{details_stack}",
+  "Pengembara\n\n{details_stack}",
+  "Teror Semakin Tak Terkendali\nSelama teror yang sedang berlangsung, semua pengembara dan petani pengangguran telah dihukum. Jika Anda tidak menghentikannya, algojo akan mulai menghukum petani biasa.\n\nUntuk menghentikan teror, temukan <hint=hint_bld_scafod>Panggung Gantung</hint> di mana mode ini diaktifkan."
 ]

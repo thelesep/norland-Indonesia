@@ -1,12 +1,12 @@
 [
-  "Technology\nReduces the amount of food required for pigs by {pigs_feed_down_percentage}%.\n",
-  "Technology\nReduces the consumption of <hint=hint_resource_instruments>Tools</hint> when repairing buildings by {tools_down_percentage}%.",
-  "Technology\nReturns {return}% of the resources saved during production at the end of the day.",
-  "Technology\nPrevents the building from breaking down.",
-  "Technology\nPrevents the building from catching fire.",
-  "Technology\nEliminates accidents and illnesses in the workplace.",
-  "Technology\nSpeeds up the construction of all buildings by {building_speed_down_percentage}%.",
-  "Technology\nReduces the consumption of <hint=hint_resource_wood>Wood</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
-  "Technology\nReduces the consumption of <hint=hint_resource_iron>Iron</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
-  "Technology\nWhen learned, grants {number} experience in skill {skill_name}."
+  "Teknologi\nMengurangi jumlah makanan yang diperlukan untuk babi sebesar {pigs_feed_down_percentage}%.\n",
+  "Teknologi\nMengurangi konsumsi <hint=hint_resource_instruments>Alat</hint> saat memperbaiki bangunan sebesar {tools_down_percentage}%.",
+  "Teknologi\nMengembalikan {return}% dari sumber daya yang disimpan selama produksi di akhir hari.",
+  "Teknologi\nMencegah bangunan dari rusak.",
+  "Teknologi\nMencegah bangunan dari terbakar.",
+  "Teknologi\nMenghilangkan kecelakaan dan penyakit di tempat kerja.",
+  "Teknologi\nMempercepat pembangunan semua bangunan sebesar {building_speed_down_percentage}%.",
+  "Teknologi\nMengurangi konsumsi <hint=hint_resource_wood>Kayu</hint> saat membangun dan meningkatkan bangunan sebesar {building_wood_down_percentage}%.",
+  "Teknologi\nMengurangi konsumsi <hint=hint_resource_iron>Besi</hint> saat membangun dan meningkatkan bangunan sebesar {building_wood_down_percentage}%.",
+  "Teknologi\nSaat dipelajari, memberikan {number} pengalaman dalam keterampilan {skill_name}."
 ]

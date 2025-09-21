@@ -1,12 +1,12 @@
 [
-  "Knowledge\nDoubles the impact of positive thoughts during trade between kings.",
-  "Knowledge\nReduces the negative thought caused by sinning by half.",
-  "Knowledge\nThe time of thought for terror is halved.",
-  "Knowledge\nVisiting lords are happy to educate your lords for free.",
-  "No suitable teacher available\nThe skill level of all lords present in the city is not high enough to increase this lord's skills\n\nTry searching for a teacher on the global map.",
-  "Low skill level\nThis character's skill level is too low to teach anything new.",
-  "Not enough paper\nYou need <hint=hint_resource_paper>{paper_number}</hint> to create a book.",
-  "No library\nBuild a Library for the lord so that they have a place to engage in knowledge-related activities.",
-  "No lords\nCurrently, there are no lords available for this task.",
-  "No housing available\nBuild a <hint=hint_bld_noble_house>House</hint> for the lord to have a place to engage in knowledge."
+  "Pengetahuan\nMenggandakan dampak pikiran positif selama perdagangan antara raja-raja.",
+  "Pengetahuan\nMengurangi pikiran negatif yang disebabkan oleh dosa sebesar setengahnya.",
+  "Pengetahuan\nWaktu pikiran untuk teror menjadi setengahnya.",
+  "Pengetahuan\nPara penguasa yang berkunjung senang mendidik para penguasa Anda secara gratis.",
+  "Tidak Ada Guru yang Cocok Tersedia\nTingkat keterampilan semua penguasa yang hadir di kota tidak cukup tinggi untuk meningkatkan keterampilan penguasa ini\n\nCoba cari guru di peta dunia.",
+  "Tingkat Keterampilan Rendah\nTingkat keterampilan karakter ini terlalu rendah untuk mengajarkan sesuatu yang baru.",
+  "Kertas Tidak Cukup\nAnda membutuhkan <hint=hint_resource_paper>{paper_number}</hint> untuk membuat buku.",
+  "Tidak Ada Perpustakaan\nBangun Perpustakaan untuk penguasa agar mereka memiliki tempat untuk terlibat dalam aktivitas terkait pengetahuan.",
+  "Tidak Ada Penguasa\nSaat ini, tidak ada penguasa yang tersedia untuk tugas ini.",
+  "Tidak Ada Perumahan Tersedia\nBangun <hint=hint_bld_noble_house>Rumah</hint> untuk penguasa agar memiliki tempat untuk terlibat dalam pengetahuan."
 ]

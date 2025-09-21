@@ -1,12 +1,12 @@
 [
-  "Technology\nSpeeds up army movement by {percent}%\n\nMovement speed bonuses are not cumulative; the highest one is selected.",
-  "Communication Lost\nYou no longer share borders with the province of {faction_uuid}, which means the termination of all relations.\n\nIf this was your vassal or ally, it means that these agreements are no longer in effect.",
-  "Reinforcements have arrived!\n{soul_uuid_king} from {faction_uuid} has sent a squad to assist you in the upcoming battle.\n\nThe warriors will remain in your province until the end of the battle or until the crisis is resolved through other means.",
-  "Priority\nIf priority servicing for a building is enabled, then in case of a shortage of workers, workers will be assigned to that building first.",
-  "Upgrade\n$ One additional job slot\n$ Total production increases by {effect_add}%",
-  "Poison Secrets\nGrants the character the <hint=hint_trait_poisoner>Poisoner</hint> trait, which allows them to craft and use poisons.",
-  "Unavailable\nNone of your characters possess the <hint=hint_trait_poisoner>Poisoner</hint> trait to perform this action.\n\n<b>HINT:</b> Learn the knowledge of Alchemy Lab and then <hint=hint_tech_poisoner>Poison Secrets</hint> to create a poisoner character. Such a character is recommended to have a high level of <hint=hint_skill_knowledge>Intelligence</hint> skill.",
-  "~\nAs long as the <hint=hint_sofia_cult>Сhurch</hint> considers your city too small to send a <hint=hint_bishop>bishop</hint>, the Matriarch remains unaware of your internal affairs.",
-  "No priority\nRandom free workers will be hired in this building without any priority.",
-  "Automatic Assignment\nWorkers who can provide the maximum production bonus here will be automatically hired in this building"
+  "Teknologi\nMempercepat pergerakan pasukan sebesar {percent}%\n\nBonus kecepatan pergerakan tidak akumulatif; yang tertinggi dipilih.",
+  "Komunikasi Hilang\nAnda tidak lagi berbagi perbatasan dengan provinsi {faction_uuid}, yang berarti penghentian semua hubungan.\n\nJika ini vasal atau sekutu Anda, berarti perjanjian ini tidak lagi berlaku.",
+  "Bala Bantuan Telah Tiba!\n{soul_uuid_king} dari {faction_uuid} telah mengirim regu untuk membantu Anda dalam pertempuran mendatang.\n\nPara prajurit akan tetap di provinsi Anda hingga akhir pertempuran atau hingga krisis diselesaikan melalui cara lain.",
+  "Prioritas\nJika pelayanan prioritas untuk bangunan diaktifkan, maka dalam kasus kekurangan pekerja, pekerja akan ditugaskan ke bangunan itu terlebih dahulu.",
+  "Peningkatan\n$ Satu slot pekerjaan tambahan\n$ Produksi total meningkat sebesar {effect_add}%",
+  "Rahasia Racun\nMemberikan karakter sifat <hint=hint_trait_poisoner>Pengracun</hint>, yang memungkinkan mereka membuat dan menggunakan racun.",
+  "Tidak Tersedia\nTidak ada karakter Anda yang memiliki sifat <hint=hint_trait_poisoner>Pengracun</hint> untuk melakukan aksi ini.\n\n<b>PETUNJUK:</b> Pelajari pengetahuan Laboratorium Alkimia dan kemudian <hint=hint_tech_poisoner>Rahasia Racun</hint> untuk menciptakan karakter pengracun. Karakter seperti itu disarankan memiliki tingkat tinggi keterampilan <hint=hint_skill_knowledge>Kecerdasan</hint>.",
+  "~\nSelama <hint=hint_sofia_cult>Pihak Gereja</hint> menganggap kota Anda terlalu kecil untuk mengirim <hint=hint_bishop>Uskup</hint>, Matriark tetap tidak sadar akan urusan internal Anda.",
+  "Tidak Ada Prioritas\nPekerja bebas secara acak akan direkrut di bangunan ini tanpa prioritas apa pun.",
+  "Penugasan Otomatis\nPekerja yang bisa memberikan bonus produksi maksimum di sini akan direkrut secara otomatis di bangunan ini"
 ]

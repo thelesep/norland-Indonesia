@@ -2945,7 +2945,7 @@ $ For <b>purple</b>-level knowledge, a minimum skill of 13 is required."
 hint_no_dialect,"Does not know the language
 The lord does not know the {dialect_name} language and cannot work with this knowledge."
 hint_cant_build_need_book,"Technology
-To construct this building, you need to acquire a book from the <hint=hint_holy_caravan>Holy Caravan and study it in the Knowledge menu."
+To construct this building, you need to acquire a book from the <hint=hint_holy_caravan>Holy Caravan</hint> and study it in the Knowledge menu."
 hint_cant_build_read_book,"Technology
 To construct this building, one of your lords needs to study the corresponding <hint=hint_idea>knowledge</hint>.
 
@@ -3351,7 +3351,7 @@ As a result of your recent actions, your <hint=hint_relations_matriarch>relation
 Further deterioration will result in an embargo on certain goods from the Holy Caravan, followed by a complete embargo and ultimately a <hint=hint_church_curse>Church curse</hint>.
 
 To restore relations:
-$ Improve your king's relationship with the bishop (above <green>+25</green>, preferably above </green>+50</green>).
+$ Improve your king's relationship with the bishop (above <green>+25</green>, preferably above <green>+50</green>).
 $ Increase the number of fanatics through preaching in Temples.
 $ Perform righteous deeds on the world map (e.g., destroying bandit camps)."
 hint_cant_relocate_no_wood,"Insufficient Resources

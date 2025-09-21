@@ -1,12 +1,12 @@
 [
-  "Normal\nThe kings of this province will pursue typical policies, occasionally engaging in conflicts with neighbors and sometimes showing aggression.",
+  "Normal\nRaja-raja provinsi ini akan mengejar kebijakan tipikal, sesekali terlibat dalam konflik dengan tetangga dan kadang-kadang menunjukkan agresi.",
   "~\n<center>Province Resources:</center>\n{optional_resources}\n\n<center>Village Resources:</center>\n{optional_village_resources}",
-  "Church Curse\nImposed by the Matriarch on the king when relations with him fall below <red>-50</red>.\n\nIt's better for you not to know what will happen...",
-  "Title\nThe \"Fear of death\" thought experienced by peasants hired into the army is half as strong.",
-  "Title\nThe relationship threshold required for neighboring kings to trade with you is lowered to <red>{trade_threshold}</red>.",
-  "Title\nTerror against fanatics will not have negative consequences.",
-  "Title\nThe Chancellery requires three times less paper to operate.",
-  "Title\n<hint=hint_tutorial_church_tax>The tax on warriors</hint> will be {percent}% less.",
-  "Title\nThe effectiveness of warrior training at the Training Field is increased by {bonus}%.",
-  "Title\nOnce becoming <hint=hint_loyalist>loyalists</hint>, characters will remain so forever."
+  "Kutukan Gereja\nDiberlakukan oleh Matriark kepada raja ketika hubungan dengannya jatuh di bawah <red>-50</red>.\n\nLebih baik Anda tidak tahu apa yang akan terjadi...",
+  "Gelar\nPikiran \"Ketakutan mati\" yang dialami petani yang direkrut ke pasukan menjadi setengah kuatnya.",
+  "Gelar\nAmbang batas hubungan yang diperlukan untuk raja-raja tetangga berdagang dengan Anda diturunkan menjadi <red>{trade_threshold}</red>.",
+  "Gelar\nTeror terhadap fanatik tidak akan memiliki konsekuensi negatif.",
+  "Gelar\nKanselari membutuhkan tiga kali lebih sedikit Kertas untuk beroperasi.",
+  "Gelar\n<hint=hint_tutorial_church_tax>Pajak pada prajurit</hint> akan {percent}% lebih sedikit.",
+  "Gelar\nEfektivitas pelatihan prajurit di Lapangan Latihan meningkat sebesar {bonus}%.",
+  "Gelar\nSetelah menjadi <hint=hint_loyalist>loyalis</hint>, karakter akan tetap seperti itu selamanya."
 ]

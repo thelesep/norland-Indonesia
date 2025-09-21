@@ -2692,1390 +2692,1390 @@ $ <hint=hint_re_built>Sumber Daya Diinvestasikan</hint> dalam ekonomi: <hint=hin
 {buildings_list_depleted_soon}
 
 $ Tekan <b>RMB</b> untuk menutup notifikasi."
-hint_re_prod,"Resources Produced
-$ Shows the value of all resources produced by all buildings in a day.
-$ Measured in gold, based on the selling price of the caravan.
-$ On harvest days, the value can be significantly higher."
-hint_re_saled,"Goods Sold
-Shows how much gold you have received from selling goods to peasants and warriors at your local markets, as well as in taverns and drug dens."
-hint_re_built,"Resources Invested
-Shows the value of resources (measured in gold) spent on constructing and upgrading buildings."
-hint_nt_character_part_of_nature_add,"Personality Traits
-Personality traits provide unique characteristics and abilities to a character.
+hint_re_prod,"Sumber Daya Diproduksi
+$ Menampilkan nilai semua sumber daya yang diproduksi oleh semua bangunan dalam sehari.
+$ Diukur dalam emas, berdasarkan harga jual karavan.
+$ Pada hari panen, nilai dapat jauh lebih tinggi."
+hint_re_saled,"Barang Dijual
+Menunjukkan berapa banyak emas yang Anda terima dari penjualan barang kepada petani dan prajurit di pasar lokal Anda, serta di kedai dan sarang narkoba."
+hint_re_built,"Sumber Daya Diinvestasikan
+Menunjukkan nilai sumber daya (diukur dalam emas) yang dihabiskan untuk membangun dan meningkatkan bangunan."
+hint_nt_character_part_of_nature_add,"Sifat Kepribadian
+Sifat kepribadian memberikan karakteristik dan kemampuan unik kepada seorang karakter.
 
-They can be given from birth or discovered during life events, upbringing, or skill training.
+Mereka dapat diberikan sejak lahir atau ditemukan selama peristiwa kehidupan, didikan, atau pelatihan keterampilan.
 
-The list of personality traits can be found on the third tab of the Character menu."
-hint_nt_heir_rebellion,"Heir's Rebellion
-Due to low <hint=hint_loyalty>loyalty</hint> to the king, the heir to the throne declares their claim to the crown and initiates a rebellion.
+Daftar sifat kepribadian dapat ditemukan di tab ketiga menu Karakter."
+hint_nt_heir_rebellion,"Pemberontakan Pewaris
+Karena kesetiaan <hint=hint_loyalty>kesetiaan</hint> rendah kepada raja, pewaris tahta menyatakan klaimnya atas mahkota dan memulai pemberontakan.
 
-$ Their friends among the lords join them, while the king's loyalists join him. The army is divided proportionally between them.
-$ Neutral lords do not participate in the rebellion.
-$ If the heir is victorious, they will inherit the throne, although the supporters of the current king will not be pleased with this outcome."
-hint_nt_heir_rebellion_former,"Former Heir's Rebellion
-Due to low <hint=hint_loyalty>loyalty</hint> to the king, the former heir to the throne feels deceived and proclaims that the crown should rightfully belong to them.
+$ Teman-teman mereka di antara para penguasa bergabung dengan mereka, sementara loyalis raja bergabung dengannya. Pasukan dibagi secara proporsional di antara mereka.
+$ Penguasa netral tidak berpartisipasi dalam pemberontakan.
+$ Jika pewaris menang, mereka akan mewarisi tahta, meskipun pendukung raja saat ini tidak akan senang dengan hasil ini."
+hint_nt_heir_rebellion_former,"Pemberontakan Mantan Pewaris
+Karena kesetiaan <hint=hint_loyalty>kesetiaan</hint> rendah kepada raja, mantan pewaris tahta merasa tertipu dan menyatakan bahwa mahkota seharusnya menjadi milik mereka secara sah.
 
-$ Their friends among the lords join them, while the king's loyalists join the king. The army is divided proportionally between them.
-$ Neutral lords do not participate in the rebellion.
-$ If the former heir emerges victorious, they will inherit the throne, although the supporters of the current king will not be pleased with this outcome."
-hint_nt_kid_need_lesson,"Child not receiving education
-In the past few days, {soul_uuid_1} has not been receiving any education."
-hint_nt_lord_dead_in_travell,"Lord killed in campaign
-{soul_uuid_1} was killed while on a campaign.
+$ Teman-teman mereka di antara para penguasa bergabung dengan mereka, sementara loyalis raja bergabung dengan raja. Pasukan dibagi secara proporsional di antara mereka.
+$ Penguasa netral tidak berpartisipasi dalam pemberontakan.
+$ Jika mantan pewaris muncul sebagai pemenang, mereka akan mewarisi tahta, meskipun pendukung raja saat ini tidak akan senang dengan hasil ini."
+hint_nt_kid_need_lesson,"Anak tidak menerima pendidikan
+Dalam beberapa hari terakhir, {soul_uuid_1} tidak menerima pendidikan apa pun."
+hint_nt_lord_dead_in_travell,"Penguasa Tewas dalam Kampanye
+{soul_uuid_1} tewas saat kampanye.
 {optional_sad_list}"
-hint_nt_other_faction_king_dead,"Ruler deceased
-{faction_uuid} : Ruler {soul_uuid_1} has passed away."
-hint_nt_soldier_for_rises,"Soldiers available for promotion
-Some of your soldiers have improved their combat skills and are now eligible for promotion to a higher combat class."
-hint_nt_ceremony_funeral,"Funeral Ceremony
-At 8:00 in the evening, a farewell ceremony will be held at the local Temple for: {actor_list}
+hint_nt_other_faction_king_dead,"Penguasa Meninggal
+{faction_uuid} : Penguasa {soul_uuid_1} telah meninggal."
+hint_nt_soldier_for_rises,"Prajurit Siap Dipromosikan
+Beberapa prajurit Anda telah meningkatkan keterampilan tempur mereka dan sekarang layak untuk promosi ke kelas tempur yang lebih tinggi."
+hint_nt_ceremony_funeral,"Upacara Pemakaman
+Pukul 20:00 malam, upacara perpisahan akan diadakan di Kuil setempat untuk: {actor_list}
 
-May the mercy of Holy Sophia be boundless!"
-hint_nt_ceremony_wedding,"Wedding Ceremony
-At 8:00 in the evening, at the local Temple, {husband} and {wife} will be united in holy matrimony.
+Semoga rahmat Holy Sophia tak terbatas!"
+hint_nt_ceremony_wedding,"Upacara Pernikahan
+Pukul 20:00 malam, di Kuil setempat, {husband} dan {wife} akan disatukan dalam ikatan pernikahan suci.
 
-May Holy Sophia bless them with healthy children!"
-hint_nt_lord_bribed,"Lord has been bribed
-{soul_uuid_1} has been bribed by someone among your neighbors (possibly a messenger). Their loyalty is at risk, and if it drops below <red>{threshold}</red>, they may leave.
+Semoga Holy Sophia memberkahi mereka dengan anak-anak yang sehat!"
+hint_nt_lord_bribed,"Penguasa Telah Disuap
+{soul_uuid_1} telah disuap oleh seseorang di antara tetangga Anda (mungkin seorang utusan). Kesetiaan mereka dalam bahaya, dan jika turun di bawah <red>{threshold}</red>, mereka mungkin pergi.
 
-Your neighbor took this action in response to your recent aggressive move or the expansion of your state on the map.
+Tetangga Anda melakukan tindakan ini sebagai respons terhadap langkah agresif terbaru Anda atau perluasan wilayah Anda di peta.
 
-<b>Hint:</b> To restore loyalty, the king can give the lord rings as a gift or threaten them. And to protect yourself from such intrigues entirely, keep the lord in a good mood so that they become a <hint=hint_loyalist>loyalist</hint>, who cannot be bribed or tempted with seduction."
-hint_nt_knowledge_too_hard_again,"Knowledge unavailable
-The lord lacks the required <hint=hint_skill_knowledge>Intelligence</hint> level to study the book. If the level increases, the study can be resumed."
-hint_nt_discovered_talent,"Talent discovered
-Thanks to the gift of <hint=hint_trait_insightful>Insight</hint> from the teacher, the lord has discovered a new <hint=hint_talant>talent</hint> within themselves."
-hint_nt_death_is_near,"Character dying of old age
-Due to natural causes, the days of this character are numbered, and soon they will depart from this mortal world. Relatives and friends have a couple of days to bid their farewells."
-hint_nt_death_is_near_king,"The ruler is dying
-Due to natural causes, the days of this character are numbered, and soon he will depart from this mortal world.
+<b>Hint:</b> Untuk memulihkan kesetiaan, raja dapat memberikan cincin kepada penguasa sebagai hadiah atau mengancam mereka. Dan untuk melindungi diri dari intrik semacam ini sepenuhnya, jaga suasana hati penguasa tetap baik agar mereka menjadi seorang <hint=hint_loyalist>loyalis</hint>, yang tidak dapat disuap atau digoda dengan rayuan."
+hint_nt_knowledge_too_hard_again,"Pengetahuan Tidak Tersedia
+Penguasa kekurangan tingkat <hint=hint_skill_knowledge>Kecerdasan</hint> yang diperlukan untuk mempelajari buku. Jika tingkatnya meningkat, studi dapat dilanjutkan."
+hint_nt_discovered_talent,"Bakat Ditemukan
+Berkat pemberian <hint=hint_trait_insightful>Wawasan</hint> dari guru, penguasa telah menemukan <hint=hint_talant>bakat</hint> baru dalam dirinya."
+hint_nt_death_is_near,"Karakter Mati Karena Usia Tua
+Akibat sebab alamiah, hari-hari karakter ini sudah dihitung, dan sebentar lagi ia akan pergi dari dunia fana ini. Kerabat dan teman memiliki beberapa hari untuk mengucapkan selamat tinggal."
+hint_nt_death_is_near_king,"Penguasa Sedang Sekarat
+Akibat sebab alamiah, hari-hari karakter ini sudah dihitung, dan sebentar lagi ia akan pergi dari dunia fana ini.
 
-Since the ruler is helpless, the heir {soul_uuid_1}, and the next in line for the crown {soul_uuid_2}, will develop mutual distrust over these few days, which could lead to tragic events.
+Karena penguasa tak berdaya, pewaris {soul_uuid_1}, dan yang berikutnya dalam antrean mahkota {soul_uuid_2}, akan mengembangkan ketidakpercayaan timbal balik selama beberapa hari ini, yang bisa mengarah pada peristiwa tragis.
 {optional_politics_rival}"
-hint_soldier_immobilized,"Warrior cannot move. 
-Warriors who cannot move cannot be added to the squad."
-hint_merc_on_the_way,"Hired warrior en route
-They will arrive at your settlement in {remain_hours} hours."
-hint_cant_add_to_army_in_battle,"Warrior in battle
-They're in combat right now."
-hint_cant_add_to_army_pregnant,"Pregnancy
-She is now expecting a baby."
-hint_cant_add_to_army_madness,"Mad
-The warrior is currently lost to madness."
-hint_cant_hire_king_not_saint,"Fanatic  
-Fanatics are primarily loyal to the Church, so they will not take up arms until the Matriarch <hint=hint_saint>blesses</hint> your ruler."
-hint_no_available_dummy_for_hiring,"In the city, there are no unemployed individuals available to be recruited into the militia."
-hint_army_command_bonus,"Command Bonus
-The <hint=hint_skill_command>Command</hint> skill of this lord provides a morale bonus to all members of the squad as long as the commander is alive."
-hint_bonus_prodution,"Extra Production
-Shows how much additional output (from the total quantity indicated on the left) is produced by workers due to the lord-manager's <hint=hint_skill_management>Management</hint> skill."
-hint_enemy,"Enemy
-If relations between kings deteriorate and fall below <red>-25</red>, they become enemies.
+hint_soldier_immobilized,"Prajurit Tidak Dapat Bergerak. 
+Prajurit yang tidak dapat bergerak tidak bisa ditambahkan ke regu."
+hint_merc_on_the_way,"Prajurit Bayaran Dalam Perjalanan
+Mereka akan tiba di pemukiman Anda dalam {remain_hours} jam."
+hint_cant_add_to_army_in_battle,"Prajurit Dalam Pertempuran
+Mereka sedang bertempur saat ini."
+hint_cant_add_to_army_pregnant,"Kehamilan
+Dia sekarang sedang mengandung bayi."
+hint_cant_add_to_army_madness,"Gila
+Prajurit ini saat ini telah hilang dalam kegilaan."
+hint_cant_hire_king_not_saint,"Fanatik  
+Fanatik pada dasarnya setia kepada Pihak Gereja, sehingga mereka tidak akan mengangkat senjata sampai Matriark <hint=hint_saint>memberikan berkah</hint> kepada penguasa Anda."
+hint_no_available_dummy_for_hiring,"Di kota, tidak ada individu pengangguran yang tersedia untuk direkrut ke dalam milisi."
+hint_army_command_bonus,"Bonus Komando
+Keterampilan <hint=hint_skill_command>Komando</hint> penguasa ini memberikan bonus moral kepada semua anggota regu selama komandan masih hidup."
+hint_bonus_prodution,"Produksi Tambahan
+Menunjukkan seberapa banyak output tambahan (dari total kuantitas yang ditunjukkan di sebelah kiri) yang diproduksi oleh pekerja karena keterampilan <hint=hint_skill_management>Manajemen</hint> penguasa-manajer."
+hint_enemy,"Musuh
+Jika hubungan antara raja-raja memburuk dan jatuh di bawah <red>-25</red>, mereka menjadi musuh.
 
-In this case, once the enemy king senses their military advantage, they will try to exploit it and attack your city, intending to plunder it.
+Dalam hal ini, begitu raja musuh merasakan keunggulan militernya, ia akan mencoba memanfaatkannya dan menyerang kota Anda, dengan niat merampoknya.
 
-Such action will not be condemned by neighbors, as an attack by an enemy is not considered dishonorable."
-hint_vassal,"Vassalage
-When one king submits to another, he becomes a vassal, while the other becomes his suzerain.
-This means the following:
+Tindakan semacam itu tidak akan dikutuk oleh tetangga, karena serangan oleh musuh tidak dianggap tidak terhormat."
+hint_vassal,"Kewasalan
+Ketika satu raja tunduk kepada raja lain, ia menjadi vasal, sementara yang lain menjadi suzerain-nya.
+Ini berarti hal berikut:
 
-$ The vassal has the right to demand protection from the suzerain when his city is under attack.
-$ The vassal cannot independently attack the cities of other lords or demand tribute from them.
-$ The vassal pays a tribute to the suzerain in <hint=hint_resource_gold>Gold</hint>, the amount of which depends on the population of the vassal's city.
-$ The agreement will continue after the death of the suzerain or the vassal.
-$ All <hint=hint_action_shadow>dark deeds</hint> and unfriendly intrigues are also precluded.
-$ Members of a vassal kingdom can trade with each other without restrictions, and their market demand is <hint=hint_market_volume_bonus>increased</hint>."
-hint_alliance_of_free_cities,"Alliance of free cities
+$ Vasal berhak menuntut perlindungan dari suzerain ketika kotanya diserang.
+$ Vasal tidak dapat secara independen menyerang kota-kota penguasa lain atau menuntut upeti dari mereka.
+$ Vasal membayar upeti kepada suzerain dalam bentuk <hint=hint_resource_gold>Emas</hint>, jumlahnya tergantung pada populasi kota vasal.
+$ Perjanjian ini akan berlanjut setelah kematian suzerain atau vasal.
+$ Semua <hint=hint_action_shadow>perbuatan gelap</hint> dan intrik tidak ramah juga dicegah.
+$ Anggota kerajaan vasal dapat berdagang satu sama lain tanpa batasan, dan permintaan pasar mereka <hint=hint_market_volume_bonus>meningkat</hint>."
+hint_alliance_of_free_cities,"Aliansi Kota-Kota Bebas
 [hint_defence_alliance_only_description]"
-hint_army_menu,"Army Menu
-In the army menu, you can see all your <hint=hint_persons_warriors>warriors</hint> as well as commanders who can lead armed <hint=hint_army>squads</hint>.
+hint_army_menu,"Menu Pasukan
+Di menu pasukan, Anda dapat melihat semua <hint=hint_persons_warriors>prajurit</hint> Anda serta komandan yang dapat memimpin <hint=hint_army>regu</hint> bersenjata.
 
 <img=hint_army_menu></img>
 
-By clicking the button on the left, you can recruit warriors from your <hint=hint_persons_peasant>peasants</hint> or <hint=hint_persons_slave>prisoners</hint> or invite more experienced armed <hint=hint_persons_merc>mercenaries</hint>, including <hint=hint_knight>knights</hint>.
+Dengan mengklik tombol di sebelah kiri, Anda dapat merekrut prajurit dari <hint=hint_persons_peasant>petani</hint> atau <hint=hint_persons_slave>tahanan</hint> Anda atau mengundang <hint=hint_persons_merc>tentara bayaran</hint> bersenjata yang lebih berpengalaman, termasuk <hint=hint_knight>ksatria</hint>.
 
-The button on the right is for creating a squad: a unit that can attack your enemies on the local map or the world map. Don't forget to equip your squad with weapons!"
-hint_finance_menu,"Economy Menu
-The gear button in the bottom center menu. Allows configuration of production, resource distribution, and internal trade.
+Tombol di sebelah kanan digunakan untuk membuat regu: sebuah unit yang dapat menyerang musuh Anda di peta lokal atau peta dunia. Jangan lupa melengkapi regu Anda dengan senjata!"
+hint_finance_menu,"Menu Ekonomi
+Tombol roda gigi di menu tengah bawah. Memungkinkan konfigurasi produksi, distribusi sumber daya, dan perdagangan internal.
 
 <img=hint_finance_menu></img>
 
-$ In the left column, create orders for the production of goods.  
-$ In the central column, set up daily or one-time resource distribution among your subjects. The ""Wages"" knowledge allows distributing Gold to them.  
-$ In the right column, you can set up the sale of goods on the internal market (this requires the ""Internal Trade"" knowledge)."
-hint_production_menu,"Production Menu
-Unlike the basic resources produced by resource buildings like the Lumbermill, which always produce as much as they're able to, the production of complex goods needs to be ordered via the Production menu.
+$ Di kolom kiri, buat pesanan untuk produksi barang.  
+$ Di kolom tengah, atur distribusi sumber daya harian atau satu kali di antara rakyat Anda. Pengetahuan ""Upah"" memungkinkan distribusi Emas kepada mereka.  
+$ Di kolom kanan, Anda dapat mengatur penjualan barang di pasar internal (ini memerlukan pengetahuan ""Perdagangan Internal"")."
+hint_production_menu,"Menu Produksi
+Berbeda dengan sumber daya dasar yang diproduksi oleh bangunan sumber daya seperti Penggergajian Kayu, yang selalu memproduksi sebanyak yang mereka bisa, produksi barang kompleks perlu dipesan melalui menu Produksi.
 
 <img=hint_production_menu></img>
 
-$ ""Make X"" is a one-time production of a complex resource. Once the order is completed, it will be closed.
-$ ""Do until X"" is an order to maintain a specified quantity of the resource in the city warehouse. Each day, workers will try to produce up to the target amount.
-$ In the morning, workers will take the required raw materials from the city warehouse for production, and at the end of the workday, they will bring the produced goods and receive their wages."
-hint_knowledge_menu,"Knowledge Menu
-The Knowledge menu displays the <hint=hint_idea>knowledge</hint> available to your noble house. It can be found in <hint=hint_book>Books</hint> or in the minds of lords.
+$ ""Buat X"" adalah produksi satu kali dari sumber daya kompleks. Setelah pesanan selesai, itu akan ditutup.
+$ ""Lakukan hingga X"" adalah pesanan untuk mempertahankan jumlah sumber daya yang ditentukan di gudang kota. Setiap hari, pekerja akan mencoba memproduksi hingga jumlah target.
+$ Di pagi hari, pekerja akan mengambil bahan baku yang diperlukan dari gudang kota untuk produksi, dan di akhir hari kerja, mereka akan membawa barang yang diproduksi dan menerima upah mereka."
+hint_knowledge_menu,"Menu Pengetahuan
+Menu Pengetahuan menampilkan <hint=hint_idea>pengetahuan</hint> yang tersedia untuk rumah bangsawan Anda. Itu dapat ditemukan di <hint=hint_book>Buku</hint> atau di pikiran para penguasa.
 
 <img=hint_knowledge_menu></img>
 
-$ To apply knowledge contained in your books, such as unlocking the ability to construct a new building, the book must be read by a lord. Assign a lord to study the knowledge for this purpose.
-$ Here, you can also transcribe or create new books. To do this, the lord must possess the knowledge. (Their portrait will be displayed on the knowledge card.)
-$ New books can be purchased from the <hint=hint_holy_caravan>Holy Caravan</hint> or acquired from neighboring factions."
-hint_tech_item,"Book
-Enables the production of {resource_name} in {building_name}."
-hint_tech_upgrade_prod,"Knowledge
-Allows the upgrade of {building_name} to levels 4 and 5, which will create additional job opportunities."
-hint_tech_upgrade_house,"Technology
-Allows the upgrade of {building_name} to include a softer bed that provides a positive <hint=hint_thought>thought</hint> after sleep and enhanced protection against intrusions by <hint=hint_persons_criminal>vagabonds</hint>."
-hint_tech_efficiency,"Technology
-Increases the quantity of resources produced in the building by {ef_prod}%."
-hint_tech_soil,"Technology
-Reduces the amount of <hint=hint_resource_wood>Wood</hint> required for fertilizing the soil of fields by {soil_down_percentage}%."
-hint_tech_wood,"Technology
-Increases the amount of <hint=hint_resource_wood>Wood</hint> extracted from a single tree by {more_wood_percentage}%. This helps reduce the level of deforestation."
-hint_tech_survive,"Technology
-Reduces the probability of plant death in fields by {plant_survive_percentage}%."
-hint_tech_pigfarm,"Technology
-Reduces the amount of food required for pigs by {pigs_feed_down_percentage}%.
+$ Untuk menerapkan pengetahuan yang terkandung dalam buku Anda, seperti membuka kemampuan untuk membangun bangunan baru, buku harus dibaca oleh seorang penguasa. Tetapkan seorang penguasa untuk mempelajari pengetahuan untuk tujuan ini.
+$ Di sini, Anda juga dapat menyalin atau membuat buku baru. Untuk melakukan ini, penguasa harus memiliki pengetahuan tersebut. (Potret mereka akan ditampilkan di kartu pengetahuan.)
+$ Buku baru dapat dibeli dari <hint=hint_holy_caravan>Karavan Suci</hint> atau diperoleh dari faksi tetangga."
+hint_tech_item,"Buku
+Memungkinkan produksi {resource_name} di {building_name}."
+hint_tech_upgrade_prod,"Pengetahuan
+Memungkinkan peningkatan {building_name} ke level 4 dan 5, yang akan menciptakan peluang kerja tambahan."
+hint_tech_upgrade_house,"Teknologi
+Memungkinkan peningkatan {building_name} untuk menyertakan tempat tidur yang lebih lembut yang memberikan <hint=hint_thought>pikiran</hint> positif setelah tidur dan perlindungan yang ditingkatkan terhadap intrusi oleh <hint=hint_persons_criminal>pengembara</hint>."
+hint_tech_efficiency,"Teknologi
+Meningkatkan jumlah sumber daya yang diproduksi di bangunan sebesar {ef_prod}%."
+hint_tech_soil,"Teknologi
+Mengurangi jumlah <hint=hint_resource_wood>Kayu</hint> yang diperlukan untuk memupuk tanah ladang sebesar {soil_down_percentage}%."
+hint_tech_wood,"Teknologi
+Meningkatkan jumlah <hint=hint_resource_wood>Kayu</hint> yang diekstrak dari satu pohon sebesar {more_wood_percentage}%. Ini membantu mengurangi tingkat deforestasi."
+hint_tech_survive,"Teknologi
+Mengurangi probabilitas kematian tanaman di ladang sebesar {plant_survive_percentage}%."
+hint_tech_pigfarm,"Teknologi
+Mengurangi jumlah makanan yang diperlukan untuk babi sebesar {pigs_feed_down_percentage}%.
 "
-hint_tech_repair,"Technology
-Reduces the consumption of <hint=hint_resource_instruments>Tools</hint> when repairing buildings by {tools_down_percentage}%."
-hint_tech_save_res,"Technology
-Returns {return}% of the resources saved during production at the end of the day."
-hint_tech_no_break,"Technology
-Prevents the building from breaking down."
-hint_tech_no_fire,"Technology
-Prevents the building from catching fire."
-hint_tech_no_trauma,"Technology
-Eliminates accidents and illnesses in the workplace."
-hint_tech_fast_building,"Technology
-Speeds up the construction of all buildings by {building_speed_down_percentage}%."
-hint_tech_fast_build_less_wood,"Technology
-Reduces the consumption of <hint=hint_resource_wood>Wood</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%."
-hint_tech_fast_build_less_iron,"Technology
-Reduces the consumption of <hint=hint_resource_iron>Iron</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%."
-hint_tech_skill,"Technology
-When learned, grants {number} experience in skill {skill_name}."
-hint_knowledge_new_book,"New Book
-A new book has been written. Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see the result."
-hint_knowledge_new_knowledge,"New Knowledge
-New knowledge has been learned! Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see which features are now available."
-hint_tech_building,"Technology
-Allows the construction of {building_name} through the Construction menu."
-hint_tech_building_2,"Technology
-Allows the construction of {building_name} and {building_name_2} through the Construction menu."
-hint_tech_building_prod,"Technology
-Allows the construction of {building_name} and the production of {resource_name}."
+hint_tech_repair,"Teknologi
+Mengurangi konsumsi <hint=hint_resource_instruments>Alat</hint> saat memperbaiki bangunan sebesar {tools_down_percentage}%."
+hint_tech_save_res,"Teknologi
+Mengembalikan {return}% dari sumber daya yang disimpan selama produksi di akhir hari."
+hint_tech_no_break,"Teknologi
+Mencegah bangunan dari rusak."
+hint_tech_no_fire,"Teknologi
+Mencegah bangunan dari terbakar."
+hint_tech_no_trauma,"Teknologi
+Menghilangkan kecelakaan dan penyakit di tempat kerja."
+hint_tech_fast_building,"Teknologi
+Mempercepat pembangunan semua bangunan sebesar {building_speed_down_percentage}%."
+hint_tech_fast_build_less_wood,"Teknologi
+Mengurangi konsumsi <hint=hint_resource_wood>Kayu</hint> saat membangun dan meningkatkan bangunan sebesar {building_wood_down_percentage}%."
+hint_tech_fast_build_less_iron,"Teknologi
+Mengurangi konsumsi <hint=hint_resource_iron>Besi</hint> saat membangun dan meningkatkan bangunan sebesar {building_wood_down_percentage}%."
+hint_tech_skill,"Teknologi
+Saat dipelajari, memberikan {number} pengalaman dalam keterampilan {skill_name}."
+hint_knowledge_new_book,"Buku Baru
+Sebuah buku baru telah ditulis. Klik untuk membuka <hint=hint_knowledge_menu>Menu Pengetahuan</hint> dan lihat hasilnya."
+hint_knowledge_new_knowledge,"Pengetahuan Baru
+Pengetahuan baru telah dipelajari! Klik untuk membuka <hint=hint_knowledge_menu>Menu Pengetahuan</hint> dan lihat fitur mana yang sekarang tersedia."
+hint_tech_building,"Teknologi
+Memungkinkan pembangunan {building_name} melalui menu Pembangunan."
+hint_tech_building_2,"Teknologi
+Memungkinkan pembangunan {building_name} dan {building_name_2} melalui menu Pembangunan."
+hint_tech_building_prod,"Teknologi
+Memungkinkan pembangunan {building_name} dan produksi {resource_name}."
 hint_tech_criminal_intimidation,"[tech.criminal_intimidation]
-<hint=hint_persons_criminal>Vagabonds</hint> intimidated by <hint=hint_bld_scafod>executioners</hint> will be afraid to commit crimes for 2 days instead of one."
-hint_tech_loyalist_more,"Basics of Loyalty
-The likelihood of <hint=hint_loyalist>loyalists</hint> appearing in the city is doubled."
-hint_tech_preach_better,"Effective Sermons
-The effectiveness of <hint=hint_sermon>sermons</hint> in the Temple is doubled."
-hint_tech_slaves_happiness,"Prisoner Happiness
-The likelihood of <hint=hint_slave_riot>prisoner uprisings</hint> drops to zero."
-hint_tech_tanaya_paper,"Tanayan Paper
-Special composition protects all your books from burning in case of a Library fire."
-hint_tech_crevav_swede,"Braised Rutabaga
-A special recipe for braised <hint=hint_resource_rutabaga>Rutabaga</hint> that prevents death from Rutabaga Typhus (but does not prevent the disease itself)."
-hint_tech_drought_fight,"Drought Resistance
-Seed planting and soil treatment methods that eliminate crop loss during droughts."
-hint_tech_longevity,"Longevity
-A special diet and mental state will help slow down aging, causing it to begin {effect_days} days later. Only affects lords who have personally studied this knowledge."
-hint_tech_addiction_resist,"Overcoming Addiction
-Usually, a character must refrain from using the addictive substance for 4 days, but the knowledge held in this book reduces this period to 2 days."
-hint_tech_fanatic_pretend,"False Fanaticism
-A lord trained in social mimicry will be considered a <hint=hint_persons_fanatic>fanatic</hint> by others, but their inner faith and thoughts will remain unchanged."
-hint_tech_marah_ale,"Makha Ale
-The positive thought brought on by drinking flavorful <hint=hint_resource_ale>Ale</hint> will be twice as strong if the drink was produced locally in the province."
-hint_tech_right_nectar,"Proper Nectar
-The desire for further consumption brought on by consuming <hint=hint_resource_nectar>Nectar</hint> will be reduced by half if the nectar was produced locally in the province."
-hint_tech_fertilize_cost_less,"Precise fertilization
-Fertilizing fields uses up half the amount of <hint=hint_resource_wood>Wood</hint>."
-hint_tech_tree_more_wood,"Proper Logging
-All woodcutters in the province gain the knowledge of how to obtain {felled_tree_bonus}% more resources from each felled tree."
-hint_tech_better_meat,"Meat Cooking
-The positive thought brought on by eating <hint=hint_resource_meat>meat</hint> in the province will be twice as strong."
-hint_tech_flirt_art,"Art of Flirting
-The art of eliciting an additional {bonus} points of <hint=hint_interest>interest</hint> from the opposite sex."
-hint_tech_voruns_moonshine,"Vаrns Moonshine
-The negative thought brought on by consuming <hint=hint_resource_moonshine>Moonshine</hint> in the province will be half as strong"
-hint_tech_dialect,"Knowledge
-Read this book to learn a new language."
-hint_tech_cutter,"Headchopper
-Your lords and warriors will have an additional 20% chance of instantly beheading their enemies in battle."
-hint_tech_axe_mastery,"Axe Mastery
-Your lords and warriors are <b>twice</b> as skilled in using axes, regardless of their skill."
-hint_tech_handfighter,"Hand-to-Hand Combat
-Your lords and warriors are <b>twice</b> as skilled in hand-to-hand combat techniques, regardless of their skill."
-hint_tech_tanya_shield,"Tanayan Shields
-Your shield-bearing lords and warriors are <b>twice</b> as well-protected against arrows, regardless of their skill."
-hint_tech_bow_mastery,"Bow Mastery
-Your lords and warriors are <b>twice</b> as skilled in using bows, regardless of their skill."
-hint_tech_mace_stun,"Mace Stunning
-Your lords and warriors have <b>3 times</b> the chance to daze with maces, regardless of their skill."
-hint_tech_heavy_armor_wear,"Armor Wear
-Your lords and warriors do not receive penalties for wearing heavy and light armor at low skill levels."
-hint_tech_polite_trade,"Knowledge
-Doubles the impact of positive thoughts during trade between kings."
-hint_tech_sin_mind_reducer,"Knowledge
-Reduces the negative thought caused by sinning by half."
-hint_tech_common_good,"Knowledge
-The time of thought for terror is halved."
-hint_tech_joy_of_education,"Knowledge
-Visiting lords are happy to educate your lords for free."
-hint_learn_no_teacher,"No suitable teacher available
-The skill level of all lords present in the city is not high enough to increase this lord's skills
+<hint=hint_persons_criminal>Pengembara</hint> yang diintimidasi oleh <hint=hint_bld_scafod>algojo</hint> akan takut melakukan kejahatan selama 2 hari alih-alih satu."
+hint_tech_loyalist_more,"Dasar Kesetiaan
+Kemungkinan munculnya <hint=hint_loyalist>loyalis</hint> di kota menjadi dua kali lipat."
+hint_tech_preach_better,"Khotbah Efektif
+Efektivitas <hint=hint_sermon>khotbah</hint> di Kuil menjadi dua kali lipat."
+hint_tech_slaves_happiness,"Kebahagiaan Tahanan
+Kemungkinan <hint=hint_slave_riot>pemberontakan tahanan</hint> turun menjadi nol."
+hint_tech_tanaya_paper,"Kertas Madura
+Komposisi khusus melindungi semua buku Anda dari terbakar jika terjadi kebakaran Perpustakaan."
+hint_tech_crevav_swede,"Rutabaga Rebus
+Resep khusus untuk merebus <hint=hint_resource_rutabaga>Rutabaga</hint> yang mencegah kematian akibat Tifus Rutabaga (tetapi tidak mencegah penyakit itu sendiri)."
+hint_tech_drought_fight,"Ketahanan Kekeringan
+Metode penanaman benih dan perawatan tanah yang menghilangkan kerugian panen selama kekeringan."
+hint_tech_longevity,"Umur Panjang
+Diet khusus dan kondisi mental akan membantu memperlambat penuaan, menyebabkannya dimulai {effect_days} hari kemudian. Hanya memengaruhi penguasa yang secara pribadi telah mempelajari pengetahuan ini."
+hint_tech_addiction_resist,"Mengatasi Kecanduan
+Biasanya, seorang karakter harus menahan diri dari menggunakan zat adiktif selama 4 hari, tetapi pengetahuan yang terkandung dalam buku ini mengurangi periode ini menjadi 2 hari."
+hint_tech_fanatic_pretend,"Fanatisme Palsu
+Seorang penguasa yang dilatih dalam mimikri sosial akan dianggap sebagai <hint=hint_persons_fanatic>fanatik</hint> oleh orang lain, tetapi iman batin dan pikiran mereka tetap tidak berubah."
+hint_tech_marah_ale,"Bir Dayak
+Pikiran positif yang ditimbulkan oleh minum <hint=hint_resource_ale>Ale</hint> beraroma akan dua kali lebih kuat jika minuman itu diproduksi secara lokal di provinsi."
+hint_tech_right_nectar,"Nektar yang Tepat
+Keinginan untuk konsumsi lebih lanjut yang ditimbulkan oleh mengonsumsi <hint=hint_resource_nectar>Nektar</hint> akan berkurang setengah jika nektar itu diproduksi secara lokal di provinsi."
+hint_tech_fertilize_cost_less,"Pemupukan yang Tepat
+Memupuk ladang menggunakan setengah jumlah <hint=hint_resource_wood>Kayu</hint>."
+hint_tech_tree_more_wood,"Penebangan yang Tepat
+Semua penebang kayu di provinsi memperoleh pengetahuan tentang cara mendapatkan {felled_tree_bonus}% lebih banyak sumber daya dari setiap pohon yang ditebang."
+hint_tech_better_meat,"Memasak Daging
+Pikiran positif yang ditimbulkan oleh makan <hint=hint_resource_meat>daging</hint> di provinsi akan dua kali lebih kuat."
+hint_tech_flirt_art,"Seni Rayuan
+Seni memunculkan tambahan {bonus} poin <hint=hint_interest>minat</hint> dari lawan jenis."
+hint_tech_voruns_moonshine,"Moonshine Sunda
+Pikiran negatif yang ditimbulkan oleh mengonsumsi <hint=hint_resource_moonshine>Moonshine</hint> di provinsi akan setengah kuatnya"
+hint_tech_dialect,"Pengetahuan
+Baca buku ini untuk mempelajari bahasa baru."
+hint_tech_cutter,"Pemenggal Kepala
+Para penguasa dan prajurit Anda akan memiliki peluang tambahan 20% untuk langsung memenggal musuh mereka dalam pertempuran."
+hint_tech_axe_mastery,"Penguasaan Kapak
+Para penguasa dan prajurit Anda <b>dua kali</b> lebih terampil dalam menggunakan kapak, terlepas dari keterampilan mereka."
+hint_tech_handfighter,"Pertarungan Tangan Kosong
+Para penguasa dan prajurit Anda <b>dua kali</b> lebih terampil dalam teknik pertarungan tangan kosong, terlepas dari keterampilan mereka."
+hint_tech_tanya_shield,"Perisai Madura
+Para penguasa dan prajurit pembawa perisai Anda <b>dua kali</b> lebih terlindungi terhadap panah, terlepas dari keterampilan mereka."
+hint_tech_bow_mastery,"Penguasaan Busur
+Para penguasa dan prajurit Anda <b>dua kali</b> lebih terampil dalam menggunakan busur, terlepas dari keterampilan mereka."
+hint_tech_mace_stun,"Pemingsanan Gada
+Para penguasa dan prajurit Anda memiliki peluang <b>3 kali</b> untuk membingungkan dengan gada, terlepas dari keterampilan mereka."
+hint_tech_heavy_armor_wear,"Pemakaian Baju Zirah
+Para penguasa dan prajurit Anda tidak menerima penalti untuk memakai baju zirah berat dan ringan pada tingkat keterampilan rendah."
+hint_tech_polite_trade,"Pengetahuan
+Menggandakan dampak pikiran positif selama perdagangan antara raja-raja."
+hint_tech_sin_mind_reducer,"Pengetahuan
+Mengurangi pikiran negatif yang disebabkan oleh dosa sebesar setengahnya."
+hint_tech_common_good,"Pengetahuan
+Waktu pikiran untuk teror menjadi setengahnya."
+hint_tech_joy_of_education,"Pengetahuan
+Para penguasa yang berkunjung senang mendidik para penguasa Anda secara gratis."
+hint_learn_no_teacher,"Tidak Ada Guru yang Cocok Tersedia
+Tingkat keterampilan semua penguasa yang hadir di kota tidak cukup tinggi untuk meningkatkan keterampilan penguasa ini
 
-Try searching for a teacher on the global map."
-hint_learn_low_skill,"Low skill level
-This character's skill level is too low to teach anything new."
-hint_no_paper,"Not enough paper
-You need <hint=hint_resource_paper>{paper_number}</hint> to create a book."
-hint_no_library,"No library
-Build a Library for the lord so that they have a place to engage in knowledge-related activities."
-hint_no_actors,"No lords
-Currently, there are no lords available for this task."
-hint_no_house_for_book,"No housing available
-Build a <hint=hint_bld_noble_house>House</hint> for the lord to have a place to engage in knowledge."
-hint_no_smart_enough,"Lack of intelligence
-The lord's <hint=hint_skill_knowledge>Intelligence</hint> skill is too low to work with this knowledge.
+Coba cari guru di peta dunia."
+hint_learn_low_skill,"Tingkat Keterampilan Rendah
+Tingkat keterampilan karakter ini terlalu rendah untuk mengajarkan sesuatu yang baru."
+hint_no_paper,"Kertas Tidak Cukup
+Anda membutuhkan <hint=hint_resource_paper>{paper_number}</hint> untuk membuat buku."
+hint_no_library,"Tidak Ada Perpustakaan
+Bangun Perpustakaan untuk penguasa agar mereka memiliki tempat untuk terlibat dalam aktivitas terkait pengetahuan."
+hint_no_actors,"Tidak Ada Penguasa
+Saat ini, tidak ada penguasa yang tersedia untuk tugas ini."
+hint_no_house_for_book,"Tidak Ada Perumahan Tersedia
+Bangun <hint=hint_bld_noble_house>Rumah</hint> untuk penguasa agar memiliki tempat untuk terlibat dalam pengetahuan."
+hint_no_smart_enough,"Kekurangan Kecerdasan
+Keterampilan <hint=hint_skill_knowledge>Kecerdasan</hint> penguasa terlalu rendah untuk bekerja dengan pengetahuan ini.
 
-$ For <b>gray</b>-level knowledge, a minimum skill of 3 is required.
-$ For <b>green</b>-level knowledge, a minimum skill of 9 is required.
-$ For <b>purple</b>-level knowledge, a minimum skill of 13 is required."
-hint_no_dialect,"Does not know the language
-The lord does not know the {dialect_name} language and cannot work with this knowledge."
-hint_cant_build_need_book,"Technology
-To construct this building, you need to acquire a book from the <hint=hint_holy_caravan>Holy Caravan and study it in the Knowledge menu."
-hint_cant_build_read_book,"Technology
-To construct this building, one of your lords needs to study the corresponding <hint=hint_idea>knowledge</hint>.
+$ Untuk pengetahuan tingkat <b>abu-abu</b>, diperlukan keterampilan minimum 3.
+$ Untuk pengetahuan tingkat <b>hijau</b>, diperlukan keterampilan minimum 9.
+$ Untuk pengetahuan tingkat <b>ungu</b>, diperlukan keterampilan minimum 13."
+hint_no_dialect,"Tidak Mengetahui Bahasa
+Penguasa tidak mengetahui bahasa {dialect_name} dan tidak dapat bekerja dengan pengetahuan ini."
+hint_cant_build_need_book,"Teknologi
+Untuk membangun bangunan ini, Anda perlu memperoleh buku dari <hint=hint_holy_caravan>Karavan Suci</hint> dan mempelajarinya di menu Pengetahuan."
+hint_cant_build_read_book,"Teknologi
+Untuk membangun bangunan ini, salah satu penguasa Anda perlu mempelajari <hint=hint_idea>pengetahuan</hint> yang sesuai.
 
-<b>Hint:</b> The required book is already in your library. Assign a lord to study it via the Knowledge menu."
-hint_cant_build_limit_reached,"Limit reached
-The construction limit for this building has been reached."
-hint_cant_upgrade_building_need_knowledge,"Technology
-To upgrade this building, one of your lords must research the corresponding <hint=hint_idea>knowledge.</hint>"
-hint_building_prefer_slaves,"Assign Prisoners
-Appoint workers from among the <hint=hint_persons_slave>prisoner</hint> population. They work 3 hours longer than all other workers, which results in a significant increase in productivity.
-
-[hint_priority_workers]"
-hint_building_prefer_drugs,"Assign Nectar Addicts
-Appoint workers from among the <hint=hint_addict>nectar addict</hint> population.
-
-They work faster than regular workers (<b>+30%</b> productivity bonus).
+<b>Petunjuk:</b> Buku yang diperlukan sudah ada di perpustakaan Anda. Tetapkan penguasa untuk mempelajarinya melalui menu Pengetahuan."
+hint_cant_build_limit_reached,"Batas Tercapai
+Batas pembangunan untuk bangunan ini telah tercapai."
+hint_cant_upgrade_building_need_knowledge,"Teknologi
+Untuk meningkatkan bangunan ini, salah satu penguasa Anda harus meneliti <hint=hint_idea>pengetahuan.</hint>"
+hint_building_prefer_slaves,"Tetapkan Tahanan
+Tunjuk pekerja dari antara populasi <hint=hint_persons_slave>tahanan</hint>. Mereka bekerja 3 jam lebih lama daripada semua pekerja lain, yang menghasilkan peningkatan produktivitas yang signifikan.
 
 [hint_priority_workers]"
-hint_building_prefer_loyalist,"Assign Loyalists
-Appoint workers from among the <hint=hint_loyalist>loyalist</hint> population.
+hint_building_prefer_drugs,"Tetapkan Pecandu Nektar
+Tunjuk pekerja dari antara populasi <hint=hint_addict>pecandu nektar</hint>.
 
-They work more diligently than regular workers, providing a <b>+30%</b> productivity bonus.
-
-[hint_priority_workers]"
-hint_building_prefer_culture_gwelts,"Assign Kaiden
-Appoint workers from among the <hint=hint_culture_gwelts>kaiden</hint> population.
-
-Their traditional skills allow them to work in weapon and armor forges 20% more efficiently.
+Mereka bekerja lebih cepat daripada pekerja biasa (<b>+30%</b> bonus produktivitas).
 
 [hint_priority_workers]"
-hint_building_prefer_culture_tanaya,"Assign Tanaya
-Appoint workers from among the <hint=hint_culture_tanaya>tanaya</hint> population.
+hint_building_prefer_loyalist,"Tetapkan Loyalis
+Tunjuk pekerja dari antara populasi <hint=hint_loyalist>loyalis</hint>.
 
-Their traditional skills allow them to work with paper 20% more efficiently.
-
-[hint_priority_workers]"
-hint_building_prefer_culture_makha,"Assign Makha
-Appoint workers from among the <hint=hint_culture_makha>makha</hint> population.
-
-Their traditional skills allow them to brew potions and make tools 20% more efficiently.
+Mereka bekerja lebih tekun daripada pekerja biasa, memberikan bonus produktivitas <b>+30%</b>.
 
 [hint_priority_workers]"
-hint_building_prefer_culture_voruns,"Assign Varns
-Appoint workers from among the <hint=hint_culture_voruns>varn</hint> population.
+hint_building_prefer_culture_gwelts,"Tetapkan Jawa
+Tunjuk pekerja dari antara populasi <hint=hint_culture_gwelts>jawa</hint>.
 
-Their traditional skills allow them to work in agriculture 20% more efficiently.
+Keterampilan tradisional mereka memungkinkan mereka bekerja di Tempa Senjata dan Tempa Zirah 20% lebih efisien.
 
 [hint_priority_workers]"
-hint_building_every_day_inspection,"Daily inspection
-The lord will conduct inspections every day."
-hint_building_any_lord,"Any lord
-If the inspection has ended (but the lord is still appointed), it is carried out first by the clerk from the Chancellery, and then, if possible, by any other lord with the minimum number of inspections."
-hint_cant_build_no_castle,"No lord's Hall
-To construct other buildings, you need to first build a Hall for your lords."
-hint_clerk_button,"Administration
-The clerk from the <hint=hint_bld_chancellery>Chancellery</hint> will distribute instructions to workers.
+hint_building_prefer_culture_tanaya,"Tetapkan Madura
+Tunjuk pekerja dari antara populasi <hint=hint_culture_tanaya>madura</hint>.
+
+Keterampilan tradisional mereka memungkinkan mereka bekerja dengan kertas 20% lebih efisien.
+
+[hint_priority_workers]"
+hint_building_prefer_culture_makha,"Tetapkan Dayak
+Tunjuk pekerja dari antara populasi <hint=hint_culture_makha>dayak</hint>.
+
+Keterampilan tradisional mereka memungkinkan mereka meracik ramuan dan membuat alat 20% lebih efisien.
+
+[hint_priority_workers]"
+hint_building_prefer_culture_voruns,"Tetapkan Sunda
+Tunjuk pekerja dari antara populasi <hint=hint_culture_voruns>sunda</hint>.
+
+Keterampilan tradisional mereka memungkinkan mereka bekerja di pertanian 20% lebih efisien.
+
+[hint_priority_workers]"
+hint_building_every_day_inspection,"Inspeksi Harian
+Penguasa akan melakukan inspeksi setiap hari."
+hint_building_any_lord,"Penguasa Mana Saja
+Jika inspeksi telah selesai (tetapi penguasa masih ditugaskan), itu dilakukan terlebih dahulu oleh petugas dari Kanselari, dan kemudian, jika memungkinkan, oleh penguasa lain mana saja dengan jumlah inspeksi minimum."
+hint_cant_build_no_castle,"Tidak Ada Aula Penguasa
+Untuk membangun bangunan lain, Anda perlu membangun Aula untuk para penguasa Anda terlebih dahulu."
+hint_clerk_button,"Administrasi
+Petugas dari <hint=hint_bld_chancellery>Kanselari</hint> akan mendistribusikan instruksi kepada pekerja.
 
 {bonus_info}
 
-The Chancellery serves the production: {number} / {limit}"
-hint_clerk_button_unavailable,"Unavailable
-All clerks are busy or the chancelleries are not working."
-hint_chancellery_any,"Any chancellery
-The building will be able to inspect any <hint=hint_bld_chancellery>Chancellery</hint> at the first opportunity."
-hint_action_task_unavailable_no_executors,"Action unavailable
-No actors available for this action."
-hint_army_returned_from_global_map,"The squad has returned
-Loot:
+Kanselari melayani produksi: {number} / {limit}"
+hint_clerk_button_unavailable,"Tidak Tersedia
+Semua petugas sibuk atau kanselari tidak berfungsi."
+hint_chancellery_any,"Kanselari Mana Saja
+Bangunan akan dapat memeriksa kanselari <hint=hint_bld_chancellery>Kanselari</hint> mana saja pada kesempatan pertama."
+hint_action_task_unavailable_no_executors,"Aksi Tidak Tersedia
+Tidak ada pelaku yang tersedia untuk aksi ini."
+hint_army_returned_from_global_map,"Regu telah kembali
+Rampasan:
 {loot}"
-hint_hired_bandits_returned_from_global_map,"Loot
-From {faction_uuid}
+hint_hired_bandits_returned_from_global_map,"Rampasan
+Dari {faction_uuid}
 {loot}"
-hint_faction_relations_deadly_enemy,"Deadly Enmity
-Relationships that are <red>-50</red> and below.
+hint_faction_relations_deadly_enemy,"Kebencian Mematikan
+Hubungan yang <red>-50</red> dan di bawahnya.
 
-In addition to other hostile actions, this means the possibility of <hint=hint_agression>surprise attacks</hint>."
-hint_faction_relations_enemy,"Enmity
-Relationships that range from <red>-25</red> to <red>-50</red>
+Selain tindakan permusuhan lainnya, ini berarti kemungkinan <hint=hint_agression>serangan mendadak</hint>."
+hint_faction_relations_enemy,"Kebencian
+Hubungan yang berkisar dari <red>-25</red> hingga <red>-50</red>
 
-Signifies potential for armed military actions against each other's villages and cities, attempts at subjugation through vassalage, blackmail, assassinations, and abductions.
+Menandakan potensi untuk tindakan militer bersenjata terhadap desa dan kota masing-masing, upaya penaklukan melalui kewasalan, pemerasan, pembunuhan, dan penculikan.
 
-Due to the status of enmity, these hostile actions will not be condemned by other neighbors or the Matriarch."
-hint_faction_relations_opponent,"Hostility
-Relationships that range from <red>-15</red> to <red>-25</red>.
+Karena status kebencian, tindakan permusuhan ini tidak akan dikutuk oleh tetangga lain atau Matriark."
+hint_faction_relations_opponent,"Permusuhan
+Hubungan yang berkisar dari <red>-15</red> hingga <red>-25</red>.
 
-Hostile neighbors begin to carry out intrigues against you. They can bribe your lords, hire your <hint=hint_persons_cuthroat>cutthroats</hint> for robberies or abductions, and more. Aggressive demands are also possible, but there are no combat actions yet, as this is not yet a war."
-hint_faction_relations_neutral,"Neutral
-Typical relations between neighbors. Some actions are available, while others are not."
-hint_faction_relations_buddy,"Sympathy
-Not quite friendship, but some actions like trade contracts, marriage proposals, and alliance invitations gradually become available."
-hint_faction_relations_friend,"Friendship
-Relationships that range from <green>25</green> and above. Friendships open up additional interaction possibilities, such as the ability to invite lords for visits."
-hint_battle_squad_order_no_orders,"No Orders
-The squad currently does not have any orders."
-hint_battle_squad_order_moving,"Movement
-The squad is moving toward the specified location."
-hint_battle_squad_order_attack,"Attack Target
-The squad will pursue the target and engage in combat when it gets closer."
-hint_battle_squad_order_ambush_prepare,"Preparation for Attack
-The squad is preparing for an attack on the city."
-hint_battle_squad_order_breakdown,"Building Breakdown
-The squad will break into the building and destroy it."
-hint_battle_squad_order_burning,"Building Arson
-The squad will break into the building and set it on fire. Caution: The fire may spread to neighboring buildings!"
-hint_battle_squad_order_robbery,"Building Robbery
-The squad will rob the building's storage. The captured valuables can be recovered by enemies upon killing or capturing the squad's warriors."
-hint_battle_squad_order_in_battle,"Battle
-The squad engages in battle with the enemy. Direct control over the squad is lost until the battle is over."
-hint_books_in_inventory,"Books in inventory
+Tetangga permusuhan mulai melakukan intrik terhadap Anda. Mereka dapat menyuap para penguasa Anda, menyewa <hint=hint_persons_cuthroat>pembunuh berantai</hint> Anda untuk perampokan atau penculikan, dan sebagainya. Tuntutan agresif juga mungkin, tetapi belum ada tindakan tempur, karena ini belum perang."
+hint_faction_relations_neutral,"Netral
+Hubungan khas antara tetangga. Beberapa tindakan tersedia, sementara yang lain tidak."
+hint_faction_relations_buddy,"Simpati
+Bukan sepenuhnya persahabatan, tetapi beberapa tindakan seperti perjanjian perdagangan, lamaran pernikahan, dan undangan aliansi secara bertahap menjadi tersedia."
+hint_faction_relations_friend,"Persahabatan
+Hubungan yang berkisar dari <green>25</green> ke atas. Persahabatan membuka kemungkinan interaksi tambahan, seperti kemampuan untuk mengundang penguasa untuk berkunjung."
+hint_battle_squad_order_no_orders,"Tidak Ada Perintah
+Regu saat ini tidak memiliki perintah apa pun."
+hint_battle_squad_order_moving,"Gerakan
+Regu sedang bergerak menuju lokasi yang ditentukan."
+hint_battle_squad_order_attack,"Sasaran Serangan
+Regu akan mengejar sasaran dan terlibat dalam pertempuran ketika mendekat."
+hint_battle_squad_order_ambush_prepare,"Persiapan untuk Serangan
+Regu sedang mempersiapkan serangan terhadap kota."
+hint_battle_squad_order_breakdown,"Pemusnahan Bangunan
+Regu akan menerobos masuk ke bangunan dan menghancurkannya."
+hint_battle_squad_order_burning,"Pembakaran Bangunan
+Regu akan menerobos masuk ke bangunan dan membakarnya. Hati-hati: Api mungkin menyebar ke bangunan tetangga!"
+hint_battle_squad_order_robbery,"Perampokan Bangunan
+Regu akan merampok penyimpanan bangunan. Barang berharga yang dirampok dapat dipulihkan oleh musuh dengan membunuh atau menangkap prajurit regu."
+hint_battle_squad_order_in_battle,"Pertempuran
+Regu terlibat dalam pertempuran dengan musuh. Kontrol langsung atas regu hilang hingga pertempuran selesai."
+hint_books_in_inventory,"Buku di inventaris
 {books}"
-hint_king_role_strong_supporter,"Supporter of Power
-$ Respects those whose army is more than twice the size of his own.
-$ Disdains those whose army is less than half of his own."
-hint_king_role_trader,"Materialist
-$ Has a good attitude toward neighbors who have more than twice as many Holy Rings as him.
-$ Has a bad attitude toward neighbors who have less than half as many Holy Rings as him."
-hint_king_role_religious,"Religious
-$ Respects fanatic kings.
-$ Dislikes agnostic kings."
-hint_king_role_order_supporter,"Defender of Order
-$ Dislikes kings who tolerate forest bandit camps in their province and those who interact with them.
-$ Appreciates those who destroy bandit camps."
-hint_king_role_suggestable,"Impressionable
-$ Carries twice as much disdain for the enemies of his friends compared to other kings."
-hint_king_role_liberator,"Liberator
-$ Dislikes kings whose population is made up of 50% or more prisoners.
-$ Appreciates those who have no prisoners at all."
+hint_king_role_strong_supporter,"Pendukung Kekuasaan
+$ Menghormati mereka yang pasukannya lebih dari dua kali ukuran pasukannya sendiri.
+$ Meremehkan mereka yang pasukannya kurang dari setengah ukurannya sendiri."
+hint_king_role_trader,"Materialis
+$ Bersikap baik terhadap tetangga yang memiliki lebih dari dua kali lipat Cincin Suci daripada dirinya.
+$ Bersikap buruk terhadap tetangga yang memiliki kurang dari setengah Cincin Suci daripada dirinya."
+hint_king_role_religious,"Religius
+$ Menghormati raja-raja fanatik.
+$ Tidak menyukai raja-raja agnostik."
+hint_king_role_order_supporter,"Pembela Ketertiban
+$ Tidak menyukai raja-raja yang menoleransi kamp perampok hutan di provinsi mereka dan mereka yang berinteraksi dengan para perampok hutan.
+$ Menghargai mereka yang menghancurkan kamp perampok."
+hint_king_role_suggestable,"Mudah Terpengaruh
+$ Membawa dua kali lebih banyak kebencian untuk musuh teman-temannya dibandingkan dengan raja-raja lainnya."
+hint_king_role_liberator,"Pembebas
+$ Tidak menyukai raja-raja yang populasinya terdiri dari 50% atau lebih tahanan.
+$ Menghargai mereka yang tidak memiliki tahanan sama sekali."
 hint_king_role_lick,"Egalitarian
-$ Despises suzerains and sympathizes with vassals."
-hint_king_role_scientist,"Scholar
-$ Respects kings whose Intelligence skill surpasses his own."
-hint_knowledge_how_to_unlock,"Locked
+$ Membenci suzerain dan bersimpati dengan pengikut."
+hint_king_role_scientist,"Sarjana
+$ Menghormati raja-raja yang keterampilan Kecerdasan mereka melampaui miliknya sendiri."
+hint_knowledge_how_to_unlock,"Terkunci
 {optional_description}
 {optional_culture}
 
 {optional_lock_condition}"
 hint_social_relation_filter,"Filter
 <bcenter>{filter}</bcenter>"
-hint_building_production_average,"Average Production
-Shows how much one worker will produce, assuming the managing lord has a <hint=hint_skill_management>Management</hint> skill of 10, and the distance to the workplace and <hint=hint_bld_store>Warehouse</hint> is such that the commute takes about an hour (thus making the net working time approximately 7 hours).
+hint_building_production_average,"Produksi Rata-rata
+Menunjukkan seberapa banyak satu pekerja akan menghasilkan, dengan asumsi penguasa yang mengelola memiliki keterampilan <hint=hint_skill_management>Manajemen</hint> 10, dan jarak ke tempat kerja dan <hint=hint_bld_store>Gudang</hint> sedemikian rupa sehingga perjalanan memakan waktu sekitar satu jam (sehingga membuat waktu kerja bersih sekitar 7 jam).
 
-For <hint=hint_bld_woodcutter>Lumbermills</hint> and <hint=hint_bld_forester>Herbalists</hint>, it is also necessary to consider the distance to the logging and harvesting areas, which changes as resources are collected.
+Untuk <hint=hint_bld_woodcutter>Penggergajian Kayu</hint> dan <hint=hint_bld_forester>Ahli Rempah</hint>, juga perlu mempertimbangkan jarak ke area penebangan dan pemanenan, yang berubah saat sumber daya dikumpulkan.
 
-The calculation also does not take into account bonuses from <hint=hint_persons_slave>prisoners</hint>, <hint=hint_addict>nectar addicts</hint>, and <hint=hint_loyalist>loyalists</hint>."
+Perhitungan juga tidak memperhitungkan bonus dari <hint=hint_persons_slave>tahanan</hint>, <hint=hint_addict>pecandu nektar</hint>, dan <hint=hint_loyalist>loyalis</hint>."
 hint_building_construction_average_production_inline,"~
-One worker <hint=hint_building_production_average>can</hint> produce:
+Satu pekerja <hint=hint_building_production_average>dapat</hint> memproduksi:
 $ {average_production_resource}"
 hint_building_construction_average_production_inline_farm,"~
-Three workers <hint=hint_building_production_average> can </hint> produce:
+Tiga pekerja <hint=hint_building_production_average> dapat </hint> memproduksi:
 $ {average_production_resource}"
-hint_scenario_no_scenario,"Basic scenario
-Your new noble house is currently unremarkable. But who knows what scenarios await it in the future?"
-hint_scenario_nectar_slaves,"Nectar's Children
-Your noble house has fallen victim to nectar. All your lords and 20 peasants are dependent on consuming nectar. Can you gather their willpower and turn this addiction to your advantage?
+hint_scenario_no_scenario,"Skenario Dasar
+Rumah bangsawan barumu saat ini tidak luar biasa. Namun, siapa tahu skenario apa yang menantinya di masa depan?"
+hint_scenario_nectar_slaves,"Anak-anak Nektar
+Rumah bangsawanmu telah menjadi korban nektar. Semua para penguasa dan 20 petani bergantung pada konsumsi nektar. Dapatkah kau mengumpulkan tekad mereka dan mengubah kecanduan ini menjadi keuntunganmu?
 
-And yes, there are some benefits to beginning with this harmful habit - your library contains books on Alchemy and Nectar production."
-hint_scenario_path_of_sword,"The Path of the Sword
-Your noble house is ruled by an exiled bastard who, in order to survive, has learned to stand up for himself and has thus gathered a decent army.
+Dan ya, ada beberapa keuntungan untuk memulai dengan kebiasaan berbahaya ini - perpustakaanmu berisi buku tentang Alkimia dan produksi Nektar."
+hint_scenario_path_of_sword,"Jalur Pedang
+Rumah bangsawanmu diperintah oleh anak haram yang diasingkan, yang, untuk bertahan hidup, telah belajar untuk membela dirinya sendiri dan dengan demikian telah mengumpulkan pasukan yang lumayan.
 
-A decent amount of weapons is also available, but unfortunately, the food was consumed on the last campaign, and wood and other resources were lost.
+Sejumlah senjata yang lumayan juga tersedia, tetapi sayangnya, makanan telah dikonsumsi pada kampanye terakhir, dan kayu serta sumber daya lainnya hilang.
 
-<b>This is an additional challenge for experienced players.</b>"
-hint_scenario_deserters,"Deserters
-You begin the game with a large and formidable camp of bandit deserters who emerged during the last major war.
+<b>Ini adalah tantangan tambahan untuk pemain berpengalaman.</b>"
+hint_scenario_deserters,"Pembelot
+Kau memulai permainan dengan kamp besar dan tangguh dari pembelot bandit yang muncul selama perang besar terakhir.
 
-<b>This is an additional challenge for experienced players.</b>"
-hint_scenario_juice_of_life,"Juice of Life
-All of your starting lords have hemophilia - their bleeding cannot be stopped, so any injury is deadly.
+<b>Ini adalah tantangan tambahan untuk pemain berpengalaman.</b>"
+hint_scenario_juice_of_life,"Jus Kehidupan
+Semua para penguasa yang memulai permainan memiliki hemofilia - pendarahan mereka tidak dapat dihentikan, jadi setiap luka mematikan.
 
-Can you survive with such a condition, considering that blood is shed almost every day in the world of Norland?
+Dapatkah kau bertahan dengan kondisi seperti itu, mengingat bahwa darah hampir setiap hari tertumpah di dunia Norland?
 
-<b>This is an additional challenge for experienced players.</b>"
-hint_scenario_to_the_touch,"By Touch
-No one takes your noble family seriously because all your lords have been <hint=hint_blindness>blind</hint> since birth.
+<b>Ini adalah tantangan tambahan untuk pemain berpengalaman.</b>"
+hint_scenario_to_the_touch,"Dengan Sentuhan
+Tidak ada yang menganggap serius keluarga bangsawanimu karena semua para penguasa telah <hint=hint_blindness>buta</hint> sejak lahir.
 
-Demonstrate remarkable management skills and cunning to make all your neighbors see what true greatness is.
+Perlihatkan keterampilan manajemen dan kelicikan yang luar biasa untuk membuat semua tetanggamu melihat kehebatan sejati itu.
 
-<b>This is an additional challenge for experienced players.</b>"
-hint_scenario_path_of_hammer,"The Hammer's Way
-Your lords are renowned craftsmen but poor merchants.
+<b>Ini adalah tantangan tambahan untuk pemain berpengalaman.</b>"
+hint_scenario_path_of_hammer,"Jalur Palu
+Para penguasamu adalah pengrajin terkenal tetapi pedagang yang buruk.
 
-You start with books about blacksmithing and weapons, but you have significantly less money."
-hint_scenario_captured_wife,"Hostage
-A member of your noble family has been captured by bandits during a recent raid on your young settlement.
+Kau mulai dengan buku-buku tentang pandai besi dan senjata, tetapi kau memiliki uang yang jauh lebih sedikit."
+hint_scenario_captured_wife,"Sandera
+Seorang anggota keluarga bangsawanimu telah ditangkap oleh bandit selama serangan baru-baru ini di pemukiman mudamu.
 
-Free them as soon as possible!"
-hint_scenario_slave_owner,"Prison Owners
-Your family traditionally relies on prison labor as the foundation of its economy.
+Bebaskan mereka sesegera mungkin!"
+hint_scenario_slave_owner,"Pemilik Penjara
+Keluargamu secara tradisional mengandalkan tenaga kerja penjara sebagai fondasi ekonominya.
 
-You start with prisoners instead of peasants"
-hint_mutator_wave_fanatism,"Wave of Fanaticism
-The cult of Mother Sophia has reached its zenith. The world has gone mad with fanaticism.
+Kau memulai dengan tahanan alih-alih petani"
+hint_mutator_wave_fanatism,"Gelombang Fanatisme
+Kultus Bunda Sophia telah mencapai puncaknya. Dunia telah gila dengan fanatisme.
 
-All incoming migrants to your domain are fanatics."
-hint_mutator_after_war,"After the War
-A protracted war has many consequences. One of them is an elevated level of combat skills and equipment among forest bandits, as many of them were once warriors."
-hint_mutator_decline_of_trade,"Trade Decline
-A crisis always hits trade first. A recent epidemic has lowered the level of trade, and it's unclear when it will recover. You'd better rely on yourself.
+Semua migran yang datang ke wilayahmu adalah fanatik."
+hint_mutator_after_war,"Setelah Perang
+Perang yang berkepanjangan memiliki banyak konsekuensi. Salah satunya adalah tingkat keterampilan tempur dan peralatan yang lebih tinggi di antara perampok hutan, karena banyak dari mereka dulunya adalah prajurit."
+hint_mutator_decline_of_trade,"Penurunan Perdagangan
+Krisis selalu menghantam perdagangan terlebih dahulu. Wabah baru-baru ini telah menurunkan tingkat perdagangan, dan tidak jelas kapan akan pulih. Lebih baik andalkan diri sendiri.
 
-The Holy Caravan arrives with only a 25% chance, but it will show up no less than once every 5 days."
-hint_mutator_power_of_crowd,"Strength in Numbers
-Peasants and prisoners have decided that no one will protect them better than themselves.
+Karavan Suci tiba hanya dengan peluang 25%, tapi ia akan muncul tidak kurang dari sekali setiap 5 hari."
+hint_mutator_power_of_crowd,"Kekuatan dalam Jumlah
+Petani dan Tahanan telah memutuskan bahwa tidak ada yang akan melindungi mereka lebih baik daripada diri mereka sendiri.
 
-As a result, all migrants and prisoners start with a combat skill of 5-10."
-hint_mutator_fast_metabolism,"Fast Metabolism
-The lives of characters unfold at twice the speed: one in-game day equals one year of life (by default, one year of life corresponds to two in-game days).
+Akibatnya, semua migran dan tahanan memulai dengan keterampilan tempur 5-10."
+hint_mutator_fast_metabolism,"Metabolisme Cepat
+Hidup para karakter berjalan pada kecepatan dua kali lipat: satu hari dalam permainan setara dengan satu tahun kehidupan (secara default, satu tahun kehidupan sesuai dengan dua hari dalam permainan).
 
-This also speeds up the acquisition of experience and some other aspects."
-hint_crisis_horde,"The Unholy Horde
-Shortly after the start of the game, the <b>Unholy Horde</b> will appear on the map - a formidable opponent that will burn down all cities in its path.
+Ini juga mempercepat perolehan pengalaman dan beberapa aspek lainnya."
+hint_crisis_horde,"Unholy Horde
+Tak lama setelah permainan dimulai, <b>Unholy Horde</b> akan muncul di peta - lawan tangguh yang akan membakar semua kota di jalurnya.
 
-You cannot negotiate with the Horde; you can either defeat it, or try to <b>survive for {duration_days} days</b>, after which it will disappear on its own.
+Anda tidak bisa bernegosiasi dengan Gerombolan; Anda bisa mengalahkannya, atau mencoba <b>bertahan selama {duration_days} hari</b>, setelah itu ia akan menghilang dengan sendirinya.
 
-Unite your neighbors under your rule or make them stronger through trade and defensive alliances - or pray that you won't become the Horde's target.
+Satukan tetangga Anda di bawah kekuasaan Anda atau buat mereka lebih kuat melalui perdagangan dan aliansi pertahanan - atau berdoalah agar Anda tidak menjadi sasaran Gerombolan.
 
-<b>Hint:</b> When choosing your starting province, keep in mind that the <b>Unholy Horde appears in the forests to the northwest</b>, so the closer you are to that region, the more danger you'll be in."
-hint_crisis_no_crisis,"No crisis
-Play a free game where crises don't occur."
-hint_ambition_conquer,"Ambitions
-<b>Conqueror</b>
-Your ruler has announced that during their reign, the <hint=hint_tutorial_states>state</hint> will expand by <b>{vas_num} vassal or allied provinces.</b>.
+<b>Petunjuk:</b> Saat memilih provinsi awal Anda, ingatlah bahwa <b>Unholy Horde muncul di hutan ke barat laut</b>, jadi semakin dekat Anda dengan wilayah itu, semakin besar bahayanya."
+hint_crisis_no_crisis,"Tidak Ada Krisis
+Mainkan permainan bebas di mana krisis tidak terjadi."
+hint_ambition_conquer,"Ambisi
+<b>Penakluk</b>
+Penguasa Anda telah mengumumkan bahwa selama masa pemerintahannya, <hint=hint_tutorial_states>negara</hint> akan berkembang dengan <b>{vas_num} provinsi vasal atau sekutu.</b>.
 
-Current progress: <b>{progress}%</b>"
-hint_ambition_gain_population,"Ambitions
-<b>Fertile.</b>
-Your ruler has declared that under their reign, the population of your province will reach <b>{pop_num} people.</b>
+Kemajuan saat ini: <b>{progress}%</b>"
+hint_ambition_gain_population,"Ambisi
+<b>Subur.</b>
+Penguasa Anda telah menyatakan bahwa di bawah pemerintahannya, populasi provinsi Anda akan mencapai <b>{pop_num} orang.</b>
 
-Current progress: <b>{progress}%</b>"
-hint_ambition_produce_goods,"Ambitions
-<b>Economic</b>
-Your king has declared that during his reign, the daily production of goods will reach a value of <b><hint=hint_resource_gold>{prod_num}</hint> per day</b>.
+Kemajuan saat ini: <b>{progress}%</b>"
+hint_ambition_produce_goods,"Ambisi
+<b>Ekonomi</b>
+Raja Anda telah menyatakan bahwa selama masa pemerintahannya, produksi barang harian akan mencapai nilai <b><hint=hint_resource_gold>{prod_num}</hint> per hari</b>.
 
-Current progress: <hint=hint_resource_gold>{current_gold}</hint><b> <b>({progress}%)</b>)"
-hint_dark_order_action_stolen_books_list,"Stolen books:
+Kemajuan saat ini: <hint=hint_resource_gold>{current_gold}</hint><b> <b>({progress}%)</b>)"
+hint_dark_order_action_stolen_books_list,"Buku yang Dicuri:
 {list}"
-hint_culture_gwelts,"Kaiden
-Being former barbarians who lived on the border of the <hint=hint_crimson_empire>Crimson Empire</hint>, which used them to guard its borders, the Kaiden value honor and martial valor above all. Their songs extol bravery and heroism, while their material culture is notably austere and ascetic.
+hint_culture_gwelts,"Jawa
+Sebagai mantan barbar yang tinggal di perbatasan <hint=hint_crimson_empire>Kekaisaran Crimson</hint>, yang menggunakan mereka untuk menjaga perbatasannya, orang Jawa menghargai kehormatan dan keberanian militer di atas segalanya. Lagu-lagu mereka memuji keberanian dan kepahlawanan, sementara budaya material mereka secara khas sederhana dan asketis.
 
-$ Values: <hint=hint_kaiden_views>Strength</hint>
-$ Xenophobia: <hint=hint_kaiden_xenophobia>Varn</hint>
-$ Knowledge: <hint=hint_kaiden_knowledge>Military</hint>"
-hint_culture_tanaya,"Tanaya
-Once a great culture and the initial founders of the <hint=hint_crimson_empire>Crimson Empire</hint>, the Tanaya culture eventually became too steeped in religious dogma, which was one of the reasons for their downfall. Nevertheless, they still retain many aspects of the old imperial culture, from efficient bureaucracy to special ties with the <hint=hint_sofia_cult>Loving Family</hint>, which supports them in conflicts with their neighbors.
+$ Nilai: <hint=hint_kaiden_views>Kekuatan</hint>
+$ Xenofobia: <hint=hint_kaiden_xenophobia>Sunda</hint>
+$ Pengetahuan: <hint=hint_kaiden_knowledge>Militer</hint>"
+hint_culture_tanaya,"Madura
+Sekali waktu sebuah budaya besar dan pendiri awal <hint=hint_crimson_empire>Kekaisaran Crimson</hint>, budaya Madura akhirnya terlalu tenggelam dalam dogma agama, yang menjadi salah satu alasan kehancuran mereka. Namun demikian, mereka masih mempertahankan banyak aspek budaya kekaisaran lama, dari birokrasi yang efisien hingga ikatan khusus dengan <hint=hint_sofia_cult>Keluarga Penuh Kasih</hint>, yang mendukung mereka dalam konflik dengan tetangga mereka.
 
-$ Values: <hint=hint_tanaya_views>Intrigues</hint>.
-$ Xenophobia: <hint=hint_tanaya_xenophobia>Makha</hint>.
-$ Knowledge: <hint=hint_tanaya_knowledge>Bureaucracy, Demagogy, and Religion</hint>."
-hint_culture_makha,"Makha
-The oldest civilized people of Norland, who created the first cities, philosophies, and inter-kingdom trade relationships, the Makha have long been overshadowed by the more enterprising Tanaya, and for many hundreds of years have been in demographic decline. Philosophers and skeptics, the Makha are practical and prefer money and earthly comfort above all other values. The <hint=hint_sofia_cult>Loving Family</hint> views the Makha with suspicion, believing that the seed of heresy still lives within this agnostic-leaning culture.
+$ Nilai: <hint=hint_tanaya_views>Intrik</hint>.
+$ Xenofobia: <hint=hint_tanaya_xenophobia>Dayak</hint>.
+$ Pengetahuan: <hint=hint_tanaya_knowledge>Birokrasi, Demagogi, dan Agama</hint>."
+hint_culture_makha,"Dayak
+Orang-orang beradab tertua Norland, yang menciptakan kota-kota pertama, filsafat, dan hubungan perdagangan antar-kerajaan, orang Dayak sudah lama tersaingi oleh Madura yang lebih berani, dan selama ratusan tahun telah mengalami penurunan demografis. Sebagai filsuf dan skeptis, orang Dayak praktis dan lebih memilih uang dan kenyamanan duniawi di atas segala nilai lainnya. <hint=hint_sofia_cult>Keluarga Penuh Kasih</hint> memandang orang Dayak dengan curiga, percaya bahwa benih bidah masih hidup dalam budaya yang cenderung agnostik ini.
 
-$ Values: <hint=hint_makha_views>Trade</hint>
-$ Xenophobia: <hint=hint_makha_xenophobia>Tanaya</hint>
-$ Knowledge: <hint=hint_makha_knowledge>Textbooks and Potions</hint>"
-hint_culture_voruns,"Varn
-The native inhabitants of the central plains of Norland, the Varn were pushed eastward by the expanding empire. Their seclusion and strict social antagonism against outsiders to their culture allowed them not to assimilate into the empire like other native peoples. Possessing ancient knowledge about the nature of Norland, Varns seek their unique path in harmony with the living nature and with neighbors.
+$ Nilai: <hint=hint_makha_views>Perdagangan</hint>
+$ Xenofobia: <hint=hint_makha_xenophobia>Madura</hint>
+$ Pengetahuan: <hint=hint_makha_knowledge>Buku Pelajaran dan Ramuan</hint>"
+hint_culture_voruns,"Sunda
+Penduduk asli dataran tengah Norland, orang Sunda didorong ke timur oleh kekaisaran yang berkembang. Keterpencilan dan antagonisme sosial ketat terhadap orang luar budaya mereka memungkinkan mereka tidak berasimilasi ke dalam kekaisaran seperti bangsa asli lainnya. Memiliki pengetahuan kuno tentang alam Norland, orang Sunda mencari jalan unik mereka dalam harmoni dengan alam hidup dan dengan tetangga.
 
-$ Values: <hint=hint_varns_views>Peace</hint>
-$ Xenophobia: <hint=hint_varns_xenophobia>Kaiden</hint>
-$ Knowledge: <hint=hint_varns_knowledge>Nature</hint>"
-hint_nt_terror_culture,"Cultural Terror
-Executioners begin to drag to the <hint=hint_bld_scafod>Scaffold</hint> and punish members of the culture you have chosen.
+$ Nilai: <hint=hint_varns_views>Perdamaian</hint>
+$ Xenofobia: <hint=hint_varns_xenophobia>Jawa</hint>
+$ Pengetahuan: <hint=hint_varns_knowledge>Alam</hint>"
+hint_nt_terror_culture,"Teror Budaya
+Algojo mulai menyeret ke <hint=hint_bld_scafod>Panggung Gantung</hint> dan menghukum anggota budaya yang Anda pilih.
 
-$ This will deter migrants of that culture from your province for a few days.
-$ Cause terror among those members who remain.
-$ Bring joy to the culture that hates them (for example, all Kaiden will be happy about terror against Varns)."
-hint_nt_culture_rage,"Massacre
-When peasants of a certain culture are <hint=hint_nt_unhappy>unhappy</hint>, there is a daily chance that they will carry out a massacre against members of the culture they are accustomed to blaming for their sins.
+$ Ini akan mencegah migran dari budaya itu ke provinsi Anda selama beberapa hari.
+$ Menimbulkan teror di antara anggota yang tersisa.
+$ Membawa kegembiraan kepada budaya yang membenci mereka (misalnya, semua Jawa akan senang tentang teror terhadap Sunda)."
+hint_nt_culture_rage,"Pembantaian
+Ketika petani dari budaya tertentu <hint=hint_nt_unhappy>tidak bahagia</hint>, ada peluang harian bahwa mereka akan melakukan pembantaian terhadap anggota budaya yang biasa mereka salahkan atas dosa mereka.
 
-There are various ways to improve the mood of members of a culture, such as performing actions they approve of, or <hint=hint_nt_terror_culture>the terror of culture</hint> (the one they hate)."
-hint_nt_character_assimilated,"Culture Change
-During their education, influenced by the authority, the lords' cultural values shifted to match those of their teacher."
-hint_nt_culture_migration_increase,"War Consequences
-As a result of the war in the neighboring province of {faction_uuid}, emigration from there has increased. The refugees belong to the <b>{culture}</b> culture.
+Ada berbagai cara untuk meningkatkan suasana hati anggota budaya, seperti melakukan tindakan yang mereka setujui, atau <hint=hint_nt_terror_culture>teror budaya</hint> (yang mereka benci)."
+hint_nt_character_assimilated,"Perubahan Budaya
+Selama pendidikan mereka, dipengaruhi oleh otoritas, nilai-nilai budaya para penguasa bergeser untuk sesuai dengan guru mereka."
+hint_nt_culture_migration_increase,"Konsekuensi Perang
+Akibat perang di provinsi tetangga {faction_uuid}, emigrasi dari sana telah meningkat. Para pengungsi termasuk budaya <b>{culture}</b>.
 
-The Holy Caravan will sell <b>{recource}</b>, a resource heavily traded by the province, at <b>2 times</b> the price for several days, reflecting the economic impacts of the war.
+Karavan Suci akan menjual <b>{recource}</b>, sumber daya yang banyak diperdagangkan oleh provinsi, dengan harga <b>2 kali lipat</b> selama beberapa hari, mencerminkan dampak ekonomi perang.
 
-The consequences will last <b>for 3 days</b>."
+Konsekuensi akan berlangsung <b>selama 3 hari</b>."
 hint_city_on_the_map,"~
-<b>General</b>
-$ Population: {pop}
-$ City budget: <hint=hint_resource_gold>{budget}</hint>
+<b>Umum</b>
+$ Populasi: {pop}
+$ Anggaran kota: <hint=hint_resource_gold>{budget}</hint>
 
-<b>Migration factors</b>
-$ Adult lords: {lords}
-$ Burned villages: {burned_villages}
-$ Total arriving per day: {mig_max} peasants
+<b>Faktor Migrasi</b>
+$ Penguasa dewasa: {lords}
+$ Desa yang dibakar: {burned_villages}
+$ Total kedatangan per hari: {mig_max} petani
 
-<b>Economy</b>
-$ {pop} people produce per day: <hint=hint_resource_gold>+{sum}</hint>
-$ Daily investments in the army: <hint=hint_resource_gold>-{sum_army}</hint>
-$ Army maintenance: <hint=hint_resource_gold>-{sum_army_support}</hint>
+<b>Ekonomi</b>
+$ {pop} orang memproduksi per hari: <hint=hint_resource_gold>+{sum}</hint>
+$ Investasi harian di pasukan: <hint=hint_resource_gold>-{sum_army}</hint>
+$ Pemeliharaan pasukan: <hint=hint_resource_gold>-{sum_army_support}</hint>
 
-<b>Army</b>
+<b>Pasukan</b>
 {army_list}
 
-<b>List of Knowledge</b>
+<b>Daftar Pengetahuan</b>
 {knowledge_list}"
-hint_tech_prisoners,"Technology
-Normally, armies with captives move 50% slower than without them. This knowledge removes this penalty."
-hint_tech_war_logistic,"Technology
-Speeds up army movement by {percent}%
+hint_tech_prisoners,"Teknologi
+Biasanya, pasukan dengan tawanan bergerak 50% lebih lambat daripada tanpa mereka. Pengetahuan ini menghilangkan penalti ini."
+hint_tech_war_logistic,"Teknologi
+Mempercepat pergerakan pasukan sebesar {percent}%
 
-Movement speed bonuses are not cumulative; the highest one is selected."
-hint_display_event_communication_lost,"Communication Lost
-You no longer share borders with the province of {faction_uuid}, which means the termination of all relations.
+Bonus kecepatan pergerakan tidak akumulatif; yang tertinggi dipilih."
+hint_display_event_communication_lost,"Komunikasi Hilang
+Anda tidak lagi berbagi perbatasan dengan provinsi {faction_uuid}, yang berarti penghentian semua hubungan.
 
-If this was your vassal or ally, it means that these agreements are no longer in effect."
-hint_display_event_help_arrived,"Reinforcements have arrived!
-{soul_uuid_king} from {faction_uuid} has sent a squad to assist you in the upcoming battle.
+Jika ini vasal atau sekutu Anda, berarti perjanjian ini tidak lagi berlaku."
+hint_display_event_help_arrived,"Bala Bantuan Telah Tiba!
+{soul_uuid_king} dari {faction_uuid} telah mengirim regu untuk membantu Anda dalam pertempuran mendatang.
 
-The warriors will remain in your province until the end of the battle or until the crisis is resolved through other means."
-hint_building_workplace_priority,"Priority
-If priority servicing for a building is enabled, then in case of a shortage of workers, workers will be assigned to that building first."
-hint_building_upgrade_button,"Upgrade
-$ One additional job slot
-$ Total production increases by {effect_add}%"
-hint_tech_poisoner,"Poison Secrets
-Grants the character the <hint=hint_trait_poisoner>Poisoner</hint> trait, which allows them to craft and use poisons."
-hint_action_task_poison_unavailable_no_performers,"Unavailable
-None of your characters possess the <hint=hint_trait_poisoner>Poisoner</hint> trait to perform this action.
+Para prajurit akan tetap di provinsi Anda hingga akhir pertempuran atau hingga krisis diselesaikan melalui cara lain."
+hint_building_workplace_priority,"Prioritas
+Jika pelayanan prioritas untuk bangunan diaktifkan, maka dalam kasus kekurangan pekerja, pekerja akan ditugaskan ke bangunan itu terlebih dahulu."
+hint_building_upgrade_button,"Peningkatan
+$ Satu slot pekerjaan tambahan
+$ Produksi total meningkat sebesar {effect_add}%"
+hint_tech_poisoner,"Rahasia Racun
+Memberikan karakter sifat <hint=hint_trait_poisoner>Pengracun</hint>, yang memungkinkan mereka membuat dan menggunakan racun."
+hint_action_task_poison_unavailable_no_performers,"Tidak Tersedia
+Tidak ada karakter Anda yang memiliki sifat <hint=hint_trait_poisoner>Pengracun</hint> untuk melakukan aksi ini.
 
-<b>HINT:</b> Learn the knowledge of Alchemy Lab and then <hint=hint_tech_poisoner>Poison Secrets</hint> to create a poisoner character. Such a character is recommended to have a high level of <hint=hint_skill_knowledge>Intelligence</hint> skill."
+<b>PETUNJUK:</b> Pelajari pengetahuan Laboratorium Alkimia dan kemudian <hint=hint_tech_poisoner>Rahasia Racun</hint> untuk menciptakan karakter pengracun. Karakter seperti itu disarankan memiliki tingkat tinggi keterampilan <hint=hint_skill_knowledge>Kecerdasan</hint>."
 hint_matriarch_bishop_not_arrived,"~
-As long as the <hint=hint_sofia_cult>Сhurch</hint> considers your city too small to send a <hint=hint_bishop>bishop</hint>, the Matriarch remains unaware of your internal affairs."
-hint_building_prefer_noone,"No priority
-Random free workers will be hired in this building without any priority."
-hint_building_prefer_all,"Automatic Assignment
-Workers who can provide the maximum production bonus here will be automatically hired in this building"
-hint_building_sent_production,"Send now
-All materials that are currently ready will be transferred to the warehouse immediately, but this will distract the workers from production."
-hint_building_destroy,"Destroy
-Completely demolish the building. This happens instantly."
-hint_building_replace,"Move
-Move the building to a new location."
-hint_building_fire_all,"Suspend work
-Work in the building will be halted, warehouses will be cleared, and workers will move to other productions."
-hint_building_appoint_inspector,"Appoint a manager.
-Appoint a building manager who will start the work."
-hint_building_appoint_preach,"Sermon
-Appoint a lord as a preacher and choose a sermon."
-hint_building_priority_build,"Build with Priority
-Builders will prioritize constructing this building."
-hint_building_pause_buiding,"Pause Construction
-Suspend construction until further instructions."
-hint_building_resume_buiding,"Resume Construction
-Workers will return to building the structure."
-hint_building_discard_building,"Cancel Construction
-Building construction will be canceled, and resources already allocated for construction will be returned to the warehouse."
-hint_display_event_low_loyalty,"Low Loyalty
-Low loyalty (below 25) can lead a character to leave for another noble house or, if they are an heir, start a rebellion.
+Selama <hint=hint_sofia_cult>Pihak Gereja</hint> menganggap kota Anda terlalu kecil untuk mengirim <hint=hint_bishop>Uskup</hint>, Matriark tetap tidak sadar akan urusan internal Anda."
+hint_building_prefer_noone,"Tidak Ada Prioritas
+Pekerja bebas secara acak akan direkrut di bangunan ini tanpa prioritas apa pun."
+hint_building_prefer_all,"Penugasan Otomatis
+Pekerja yang bisa memberikan bonus produksi maksimum di sini akan direkrut secara otomatis di bangunan ini"
+hint_building_sent_production,"Kirim Sekarang
+Semua bahan yang saat ini siap akan dipindahkan ke gudang segera, tapi ini akan mengalihkan perhatian pekerja dari produksi."
+hint_building_destroy,"Hancurkan
+Hancurkan bangunan sepenuhnya. Ini terjadi secara instan."
+hint_building_replace,"Pindahkan
+Pindahkan bangunan ke lokasi baru."
+hint_building_fire_all,"Hentikan Pekerjaan
+Pekerjaan di bangunan akan dihentikan, gudang akan dibersihkan, dan pekerja akan pindah ke produksi lain."
+hint_building_appoint_inspector,"Tetapkan Manajer.
+Tetapkan manajer bangunan yang akan memulai pekerjaan."
+hint_building_appoint_preach,"Khotbah
+Tetapkan seorang penguasa sebagai pendeta dan pilih khotbah."
+hint_building_priority_build,"Bangun dengan Prioritas
+Tukang bangunan akan memprioritaskan pembangunan bangunan ini."
+hint_building_pause_buiding,"Jeda Pembangunan
+Hentikan pembangunan hingga instruksi lebih lanjut."
+hint_building_resume_buiding,"Lanjutkan Pembangunan
+Pekerja akan kembali membangun struktur."
+hint_building_discard_building,"Batalkan Pembangunan
+Pembangunan bangunan akan dibatalkan, dan sumber daya yang sudah dialokasikan untuk pembangunan akan dikembalikan ke gudang."
+hint_display_event_low_loyalty,"Kesetiaan Rendah
+Kesetiaan rendah (di bawah 25) dapat menyebabkan seorang karakter pergi ke rumah bangsawan lain atau, jika mereka adalah pewaris, memulai pemberontakan.
 
-Loyalty is displayed in the Character menu (crown icon). Hover over the loyalty number next to the crown to find out why and how it has changed recently.
+Kesetiaan ditampilkan di Menu Karakter (ikon mahkota). Arahkan kursor ke angka kesetiaan di sebelah mahkota untuk mengetahui mengapa dan bagaimana itu berubah baru-baru ini.
 
-<b>HINT:</b> You can quickly raise loyalty by rewarding a lord or by using threats (king's actions)."
-hint_building_repair_button,"Repair
-Restore the functionality of the building."
-hint_army_menu_card_mercenary,"Mercenaries
-Experienced warriors ready to fight for you immediately. 
+<b>PETUNJUK:</b> Anda dapat dengan cepat meningkatkan kesetiaan dengan memberi hadiah kepada seorang penguasa atau dengan menggunakan ancaman (tindakan raja)."
+hint_building_repair_button,"Perbaiki
+Memulihkan fungsionalitas bangunan."
+hint_army_menu_card_mercenary,"Tentara Bayaran
+Prajurit berpengalaman yang siap bertarung untuk Anda segera. 
 
-The mercenary is hired for {knight_duration_days} days, after which he will leave your settlement (but can be hired again).
+Tentara bayaran disewa selama {knight_duration_days} hari, setelah itu ia akan meninggalkan pemukiman Anda (tapi bisa disewa lagi).
 
-$ It takes them a day or two to reach your settlement.
-$ You hire them without equipment, so make sure to provide it before sending them into battle."
-hint_army_menu_card_dummy,"Peasants
-The weakest and most cowardly warriors.
+$ Dibutuhkan satu atau dua hari bagi mereka untuk mencapai pemukiman Anda.
+$ Anda menyewa mereka tanpa peralatan, jadi pastikan untuk menyediakannya sebelum mengirim mereka ke pertempuran."
+hint_army_menu_card_dummy,"Petani
+Prajurit yang paling lemah dan pengecut.
 
-$ After being hired, they receive a strong negative thought of fear of death, which lowers their <hint=hint_moral_level>courage threshold</hint>
-$ In order to be useful, they will need to spend time in the <hint=hint_bld_training_ground>Training Ground</hint> to increase their Combat skill."
-hint_army_menu_card_fanatic,"Fanatics
-Fanatically inclined peasants fall into religious ecstasy from the pain they receive. This raises their <hint=hint_moral_level>courage threshold</hint> so they very rarely flee from the battlefield.
+$ Setelah direkrut, mereka menerima pikiran negatif kuat tentang ketakutan mati, yang menurunkan <hint=hint_moral_level>ambang batas keberanian</hint> mereka
+$ Untuk berguna, mereka perlu menghabiskan waktu di <hint=hint_bld_training_ground>Lapangan Latihan</hint> untuk meningkatkan Keterampilan Tempur mereka."
+hint_army_menu_card_fanatic,"Fanatik
+Petani yang cenderung fanatik jatuh ke dalam ekstasi agama dari sakit yang mereka terima. Ini meningkatkan <hint=hint_moral_level>ambang batas keberanian</hint> mereka sehingga mereka sangat jarang melarikan diri dari medan pertempuran.
 
-However, they are only willing to fight for a blessed king.
+Namun, mereka hanya bersedia bertarung untuk raja yang diberkahi.
 
-<b>Hint:</b> Select the ""Blessing"" action in your king's Character menu (bishop section) to see the Church's requirements for this service."
-hint_army_menu_card_loyalist,"Loyalists
-Peasant loyalists are always ready to defend their hometown, so they fear no death in their hearts.
+<b>Petunjuk:</b> Pilih aksi ""Berkah"" di Menu Karakter raja Anda (bagian uskup) untuk melihat persyaratan Pihak Gereja untuk layanan ini."
+hint_army_menu_card_loyalist,"Loyalis
+Loyalis petani selalu siap membela kampung halaman mereka, sehingga mereka tidak takut mati di hati mereka.
 
-In addition, they feel extra inspiration when fighting, and if their unit is commanded by the king himself, they do not surrender or flee."
-hint_army_menu_card_slave,"Free a prisoner
-Among the prisoners, there are experienced warriors.
+Selain itu, mereka merasakan inspirasi tambahan saat bertempur, dan jika unit mereka dipimpin oleh raja sendiri, mereka tidak menyerah atau melarikan diri."
+hint_army_menu_card_slave,"Bebaskan Tahanan
+Di antara para tahanan, ada prajurit berpengalaman.
 
-$ After being hired, they receive a strong negative thought of fear of death, which lowers their <hint=hint_moral_level>courage threshold</hint>.
-$ Former bandits (knife icon) receive a bad thought from the need to obey commands, but they have a higher Combat skill.
-$ A freed prisoner cannot be made a prisoner again.
+$ Setelah direkrut, mereka menerima pikiran negatif kuat tentang ketakutan mati, yang menurunkan <hint=hint_moral_level>ambang batas keberanian</hint> mereka.
+$ Mantan perampok (ikon pisau) menerima pikiran buruk dari kebutuhan untuk taat perintah, tapi mereka memiliki Keterampilan Tempur yang lebih tinggi.
+$ Tahanan yang dibebaskan tidak bisa dijadikan tahanan lagi.
 "
 main_menu.tutorial_offer,"~
-Norland is a complex game with a lot of new mechanics.
+Norland adalah permainan kompleks dengan banyak mekanik baru.
 
-For new players, we HIGHLY recommend going through our brief tutorial, after which you will be able to continue playing with beginner-friendly settings."
-hint_nt_build_library,"Build a Library 
-To acquire new knowledge from books, it is necessary to build a Library."
-hint_family_editor.hard_culture,"Attention! 
-The Matriarch of the Church of Mother Sophia does not favor the kings of this culture.
+Untuk pemain baru, kami SANGAT merekomendasikan melalui tutorial singkat kami, setelah itu Anda dapat melanjutkan bermain dengan pengaturan ramah pemula."
+hint_nt_build_library,"Bangun Perpustakaan 
+Untuk memperoleh pengetahuan baru dari buku, diperlukan untuk membangun Perpustakaan."
+hint_family_editor.hard_culture,"Perhatian! 
+Matriark dari Pihak Gereja Ibu Sophia tidak menyukai raja-raja budaya ini.
 
-Recommended for experienced players familiar with the Church's politics."
-hint_nt_retrieve_bishop,"Bishop
-The bishop leaves the province because relations with the <hint=hint_relations_matriarch>Matriarch</hint> have fallen below <red>-50</red>"
-hint_production_product_requirement,"Title
-To begin pruducing {product}"
-hint_nt_holy_family_below_zero,"Poor relations with the Matriarch
-As a result of your recent actions, your <hint=hint_relations_matriarch>relations with the Matriarch</hint> have fallen below 0.
+Direkomendasikan untuk pemain berpengalaman yang akrab dengan politik Pihak Gereja."
+hint_nt_retrieve_bishop,"Uskup
+Uskup meninggalkan provinsi karena hubungan dengan <hint=hint_relations_matriarch>Matriark</hint> telah jatuh di bawah <red>-50</red>"
+hint_production_product_requirement,"Gelar
+Untuk mulai memproduksi {product}"
+hint_nt_holy_family_below_zero,"Hubungan Buruk dengan Matriark
+Akibat tindakan terbaru Anda, <hint=hint_relations_matriarch>hubungan Anda dengan Matriark</hint> telah jatuh di bawah 0.
 
-Further deterioration will result in an embargo on certain goods from the Holy Caravan, followed by a complete embargo and ultimately a <hint=hint_church_curse>Church curse</hint>.
+Pemburukan lebih lanjut akan mengakibatkan embargo pada barang-barang tertentu dari Karavan Suci, diikuti oleh embargo lengkap dan akhirnya <hint=hint_church_curse>Kutukan Gereja</hint>.
 
-To restore relations:
-$ Improve your king's relationship with the bishop (above <green>+25</green>, preferably above </green>+50</green>).
-$ Increase the number of fanatics through preaching in Temples.
-$ Perform righteous deeds on the world map (e.g., destroying bandit camps)."
-hint_cant_relocate_no_wood,"Insufficient Resources
-To relocate the building, <hint=hint_resource_wood>{wood_count}</hint> is required."
-hint_display_event_lord_seduced,"Lord has been seduced
-{soul_uuid_1} has been seduced by someone from among your neighbors. Their <hint=hint_loyalty>loyalty</hint> is at risk, and if it drops below <red>{threshold}</red>, they may leave.
+Untuk memulihkan hubungan:
+$ Tingkatkan hubungan raja Anda dengan uskup (di atas <green>+25</green>, sebaiknya di atas <green>+50</green>).
+$ Tingkatkan jumlah fanatik melalui khotbah di Kuil.
+$ Lakukan perbuatan benar di peta dunia (misalnya, menghancurkan kamp perampok)."
+hint_cant_relocate_no_wood,"Sumber Daya Tidak Cukup
+Untuk memindahkan bangunan, diperlukan <hint=hint_resource_wood>{wood_count}</hint>."
+hint_display_event_lord_seduced,"Penguasa Telah Digoda
+{soul_uuid_1} telah digoda oleh seseorang dari tetangga Anda. <hint=hint_loyalty>Kesetiaan</hint> mereka dalam bahaya, dan jika turun di bawah <red>{threshold}</red>, mereka mungkin pergi.
 
-<b>Hint:</b> To restore loyalty, the king can give the lord rings as a gift or threaten him. To protect yourself from such intrigues completely, maintain the lord's high spirits so that they become a <hint=hint_loyalist>loyalist</hint>, who cannot be bribed or seduced.
+<b>Petunjuk:</b> Untuk memulihkan kesetiaan, raja dapat memberikan cincin kepada penguasa sebagai hadiah atau mengancamnya. Untuk melindungi diri dari intrik semacam ini sepenuhnya, jaga semangat penguasa tetap tinggi agar mereka menjadi <hint=hint_loyalist>loyalis</hint>, yang tidak dapat disuap atau digoda.
 
-A lord cannot be seduced if they are in love with someone else."
-hint_display_event_player_lord_captured,"Lord has been captured
-A lord has been captured and is currently in captivity."
-hint_family_editor.age,"Age
-Age is set automatically and depends on the level of skills the character has acquired when spawning in. The more experienced the character is, the older they are."
-bishop_actions_category_unavailabe,"Unavailable
-The bishop has not yet arrived at your estate because the Matriarch considers its population too small.
+Seorang penguasa tidak bisa digoda jika mereka sedang jatuh cinta dengan orang lain."
+hint_display_event_player_lord_captured,"Penguasa Telah Ditangkap
+Seorang penguasa telah ditangkap dan saat ini dalam penahanan."
+hint_family_editor.age,"Usia
+Usia ditetapkan secara otomatis dan tergantung pada tingkat keterampilan yang diperoleh karakter saat muncul. Semakin berpengalaman karakter itu, semakin tua usianya."
+bishop_actions_category_unavailabe,"Tidak Tersedia
+Uskup belum tiba di perkebunan Anda karena Matriark menganggap populasinya terlalu kecil.
 
-For the bishop to take an interest in your affairs, the population must be greater than <b>{population}</b>.
+Agar uskup tertarik pada urusan Anda, populasi harus lebih besar dari <b>{population}</b>.
 
-Additionally, the bishop will not come if your king's relationship with the <hint=hint_relations_matriarch>Matriarch</hint> is below <red>{opinion}</red>."
-bishop_actions_category_unavailabe_2,"Bishop is absent
-A new bishop will arrive when the relationship between your king and the <hint=hint_relations_matriarch>Matriarch</hint> is above <red>{opinion}</red>."
-hint_new_game_faction_temperament_peaceful,"Peaceful
-The kings of this province will behave peacefully, avoiding subjugation and conflicts with neighbors."
+Selain itu, uskup tidak akan datang jika hubungan raja Anda dengan <hint=hint_relations_matriarch>Matriark</hint> di bawah <red>{opinion}</red>."
+bishop_actions_category_unavailabe_2,"Uskup Tidak Hadir
+Uskup baru akan tiba ketika hubungan antara raja Anda dan <hint=hint_relations_matriarch>Matriark</hint> di atas <red>{opinion}</red>."
+hint_new_game_faction_temperament_peaceful,"Damai
+Raja-raja provinsi ini akan berperilaku damai, menghindari penaklukan dan konflik dengan tetangga."
 hint_new_game_faction_temperament_default,"Normal
-The kings of this province will pursue typical policies, occasionally engaging in conflicts with neighbors and sometimes showing aggression."
+Raja-raja provinsi ini akan mengejar kebijakan tipikal, sesekali terlibat dalam konflik dengan tetangga dan kadang-kadang menunjukkan agresi."
 hint_new_game_area_info,"~
 <center>Province Resources:</center>
 {optional_resources}
 
 <center>Village Resources:</center>
 {optional_village_resources}"
-hint_church_curse,"Church Curse
-Imposed by the Matriarch on the king when relations with him fall below <red>-50</red>.
+hint_church_curse,"Kutukan Gereja
+Diberlakukan oleh Matriark kepada raja ketika hubungan dengannya jatuh di bawah <red>-50</red>.
 
-It's better for you not to know what will happen..."
-hint_tech_kaiden_army,"Title
-The ""Fear of death"" thought experienced by peasants hired into the army is half as strong."
-hint_tech_makha_trade,"Title
-The relationship threshold required for neighboring kings to trade with you is lowered to <red>{trade_threshold}</red>."
-hint_tech_makha_fanatic_terror,"Title
-Terror against fanatics will not have negative consequences."
-hint_tech_econom_writing,"Title
-The Chancellery requires three times less paper to operate."
-hint_tech_faith_defender,"Title
-<hint=hint_tutorial_church_tax>The tax on warriors</hint> will be {percent}% less."
-hint_tech_kaiden_training,"Title
-The effectiveness of warrior training at the Training Field is increased by {bonus}%."
-hint_tech_kaiden_loyalist,"Title
-Once becoming <hint=hint_loyalist>loyalists</hint>, characters will remain so forever."
-hint_tech_makha_secret_deals,"Title
-Conducting trade dealings with forest bandit camps (such as buying prisoners and stolen Holy Rings) will not negatively impact your relations with neighbors."
-hint_incompatible_trait,"Incompatible trait
-This trait cannot be selected because it is not compatible with already selected traits."
-hint_holy_protection,"Protection of the Loving Family
-For the harmony of the world of Norland, and as a grace of Mother Sophia to all that is new and renewing, the <hint=hint_synode>Loving Family</hint> prohibits aggression toward young and righteous noble houses.
+Lebih baik Anda tidak tahu apa yang akan terjadi..."
+hint_tech_kaiden_army,"Gelar
+Pikiran ""Ketakutan mati"" yang dialami petani yang direkrut ke pasukan menjadi setengah kuatnya."
+hint_tech_makha_trade,"Gelar
+Ambang batas hubungan yang diperlukan untuk raja-raja tetangga berdagang dengan Anda diturunkan menjadi <red>{trade_threshold}</red>."
+hint_tech_makha_fanatic_terror,"Gelar
+Teror terhadap fanatik tidak akan memiliki konsekuensi negatif."
+hint_tech_econom_writing,"Gelar
+Kanselari membutuhkan tiga kali lebih sedikit Kertas untuk beroperasi."
+hint_tech_faith_defender,"Gelar
+<hint=hint_tutorial_church_tax>Pajak pada prajurit</hint> akan {percent}% lebih sedikit."
+hint_tech_kaiden_training,"Gelar
+Efektivitas pelatihan prajurit di Lapangan Latihan meningkat sebesar {bonus}%."
+hint_tech_kaiden_loyalist,"Gelar
+Setelah menjadi <hint=hint_loyalist>loyalis</hint>, karakter akan tetap seperti itu selamanya."
+hint_tech_makha_secret_deals,"Gelar
+Melakukan urusan perdagangan dengan kamp perampok hutan (seperti membeli tahanan dan Cincin Suci yang dicuri) tidak akan berdampak negatif pada hubungan Anda dengan tetangga."
+hint_incompatible_trait,"Sifat Tidak Kompatibel
+Sifat ini tidak dapat dipilih karena tidak kompatibel dengan sifat yang sudah dipilih."
+hint_holy_protection,"Perlindungan Keluarga Penuh Kasih
+Untuk harmoni dunia Norland, dan sebagai rahmat Ibu Sophia kepada segala yang baru dan memperbarui, <hint=hint_synode>Keluarga Penuh Kasih</hint> melarang agresi terhadap rumah bangsawan muda dan benar.
 
-This means that neighboring provinces will not engage in blackmail, warfare, and intrigue against you while the protection is in place.
+Ini berarti bahwa provinsi tetangga tidak akan terlibat dalam pemerasan, perang, dan intrik terhadap Anda selama perlindungan ini berlaku.
 {optional_remove_by_population}
 
-However, the <b>protection will be lifted</b> if you take <red>aggressive actions</red> against your neighbors first."
-hint_display_event_holy_protection_removed_by_agression,"The Protection of the Loving Family has been removed!
-The <hint=hint_synode>Loving Family</hint> believes that your aggressive actions have shown that your noble house no longer requires their protection.
+Namun, <b>perlindungan akan dicabut</b> jika Anda mengambil <red>tindakan agresif</red> terhadap tetangga Anda terlebih dahulu."
+hint_display_event_holy_protection_removed_by_agression,"Perlindungan Keluarga Penuh Kasih Telah Dicabut!
+<hint=hint_synode>Keluarga Penuh Kasih</hint> percaya bahwa tindakan agresif Anda telah menunjukkan bahwa rumah bangsawan Anda tidak lagi memerlukan perlindungan mereka.
 
-Now, other noble houses may take aggressive actions against you.
+Sekarang, rumah bangsawan lain mungkin mengambil tindakan agresif terhadap Anda.
 
-Make sure you have a competitive army."
-hint_display_event_holy_protection_will_removed_by_population,"Protection of the Loving Family will be removed!
-The <hint=hint_synode>Loving Family</hint> notifies you that as your province's population has reached {population_threshold}, within {remain_days} days, they will withdraw their protection.
+Pastikan Anda memiliki pasukan yang kompetitif."
+hint_display_event_holy_protection_will_removed_by_population,"Perlindungan Keluarga Penuh Kasih Akan Dicabut!
+<hint=hint_synode>Keluarga Penuh Kasih</hint> memberi tahu Anda bahwa karena populasi provinsi Anda telah mencapai {population_threshold}, dalam waktu {remain_days} hari, mereka akan menarik perlindungan mereka.
 
-After this, your neighbors who have relations with you below <red>-15</red> and below will be able to engage in aggressive actions against you, including blackmail, intrigue, coercion into vassalage, and so on.
+Setelah ini, tetangga Anda yang memiliki hubungan dengan Anda di bawah <red>-15</red> dan di bawahnya akan dapat terlibat dalam tindakan agresif terhadap Anda, termasuk pemerasan, intrik, paksaan menjadi vasal, dan sebagainya.
 
-Make sure that by this time, you have good relations with powerful noble houses and a competitive army."
-hint_display_event_holy_protection_was_removed,"Protection of the Loving Family has been removed!
-The <hint=hint_synode>Loving Family</hint> informs you that they are withdrawing their protection. You have been warned about this.
+Pastikan bahwa pada saat itu, Anda memiliki hubungan baik dengan rumah bangsawan yang kuat dan pasukan yang kompetitif."
+hint_display_event_holy_protection_was_removed,"Perlindungan Keluarga Penuh Kasih Telah Dicabut!
+<hint=hint_synode>Keluarga Penuh Kasih</hint> memberi tahu Anda bahwa mereka menarik perlindungan mereka. Anda telah diperingatkan tentang ini.
 
-Now, your neighbors who have relations with you below <red>-15</red> and below can engage in aggressive actions against you, including blackmail, intrigue, coercion into vassalage, and so on.
+Sekarang, tetangga Anda yang memiliki hubungan dengan Anda di bawah <red>-15</red> dan di bawahnya dapat terlibat dalam tindakan agresif terhadap Anda, termasuk pemerasan, intrik, paksaan menjadi vasal, dan sebagainya.
 
-Make sure you have a competitive army."
+Pastikan Anda memiliki pasukan yang kompetitif."
 hint_display_event_holy_protection_pop_add,"~
 
-Usually, the Loving Family <b>removes the protection</b> when the settlement reaches {population_threshold} (including warriors, lords, peasants, and prisoners)."
-hint_display_event_swede_typh_allowed,"Rutabaga typhus
-The long cultivation of the rutabaga has led to its degeneration, and its consumption may now cause cases of infection by a new disease, which has been dubbed ""Rutabaga typhus"". 
+Biasanya, Keluarga Penuh Kasih <b>mencabut perlindungan</b> ketika pemukiman mencapai {population_threshold} (termasuk prajurit, penguasa, Petani, dan Tahanan)."
+hint_display_event_swede_typh_allowed,"Tifus Rutabaga
+Pengolahan Rutabaga yang lama telah menyebabkan degenerasinya, dan konsumsinya sekarang mungkin menyebabkan kasus infeksi oleh penyakit baru, yang disebut ""Tifus Rutabaga"". 
 
-If possible, feed your subjects with flour and meat, leaving the rutabaga for pig feed or in case of famine."
-hint_encyclopedia.mode.disabled,Disabled
-hint_encyclopedia.mode.default,Headers Only
-hint_encyclopedia.mode.with_popups,Full Help
-hint_loyalty_with_log,"Loyalty
-<hint=hint_loyalty>Loyalty</hint> indicates how devoted the lord is to their <hint=hint_persons_king>king</hint>. With a value below <red>25</red>, the lord may leave the settlement or start a rebellion.
+Jika memungkinkan, beri makan rakyat Anda dengan tepung dan daging, sisakan Rutabaga untuk pakan babi atau dalam kasus kelaparan."
+hint_encyclopedia.mode.disabled,Dinonaktifkan
+hint_encyclopedia.mode.default,Hanya Header
+hint_encyclopedia.mode.with_popups,Bantuan Lengkap
+hint_loyalty_with_log,"Kesetiaan
+<hint=hint_loyalty>Kesetiaan</hint> menunjukkan seberapa setia penguasa terhadap <hint=hint_persons_king>raja</hint>-nya. Dengan nilai di bawah <red>25</red>, penguasa mungkin meninggalkan pemukiman atau memulai pemberontakan.
 {optional_loyalty_log}"
-hint_loyalty_with_log_captive,"Hostage's Loyalty
-Indicates how devoted the lord is to your king. Raise it above zero, and then upon release, the hostage will decide to stay with you.
+hint_loyalty_with_log_captive,"Kesetiaan Sandera
+Menunjukkan seberapa setia penguasa terhadap raja Anda. Naikkan di atas nol, dan kemudian saat dibebaskan, sandera akan memutuskan untuk tetap bersama Anda.
 
 {optional_loyalty_log}"
-hint_mood_with_reasons,"Mood
-Indicates how happy the character is. With values below <red>25</red>, the lord will refuse to carry out your orders and fall into depression, which can lead to a nervous breakdown.
+hint_mood_with_reasons,"Suasana Hati
+Menunjukkan seberapa bahagia karakter itu. Dengan nilai di bawah <red>25</red>, penguasa akan menolak menjalankan perintah Anda dan jatuh ke dalam depresi, yang bisa mengarah pada penyakit mental.
 {optional_mood_reasons}"
-hint_kaiden_views,"Kaiden Values
-Kaiden will be pleased if their king bravely conducts military actions on the world map."
-hint_kaiden_xenophobia,"Kaiden Xenophobia
-For many centuries, the Varns troubled the empire with raids, while the Kaiden defended it. Echoes of this ancient conflict are preserved in songs and proverbs. Kaiden do not trust the Varns and consider them wild people without honor.
+hint_kaiden_views,"Nilai Jawa
+Orang Jawa akan senang jika rajanya dengan berani melakukan tindakan militer di peta dunia."
+hint_kaiden_xenophobia,"Xenofobia Jawa
+Selama berabad-abad, orang Sunda mengganggu kekaisaran dengan serangan, sementara orang Jawa membelanya. Gema konflik kuno ini terjaga dalam lagu dan pepatah. Orang Jawa tidak mempercayai orang Sunda dan menganggap mereka orang liar tanpa kehormatan.
 
-$ In case of dissatisfaction, Kaiden attack the Varn people."
-hint_kaiden_production,"Kaiden Traditional Skills
-Kaiden peasants play with weapons from childhood, which makes them more efficient workers in Weapon Forge, Armor Forge, and Archery Workshop"
-hint_kaiden_knowledge,"Kaiden Knowledge
-Books in the Kaiden language are naturally dedicated to weapons, military art, and loyalty"
-hint_tanaya_views,"Tanaya Values
-Tanayas will be pleased if their king commits dark deeds, bribes, and seductions on the world map."
-hint_tanaya_xenophobia,"Tanaya Xenophobia
-The greedy babblers of the Makha have strayed from the Holy Mother and, in their pride, spawned heresy that consumed everything the Tanaya had built over the centuries.
+$ Dalam kasus ketidakpuasan, orang Jawa menyerang orang Sunda."
+hint_kaiden_production,"Keterampilan Tradisional Jawa
+Petani Jawa bermain dengan senjata sejak kecil, yang membuat mereka pekerja lebih efisien di Tempa Senjata, Tempa Zirah, dan Bengkel Pemanah"
+hint_kaiden_knowledge,"Pengetahuan Jawa
+Buku dalam bahasa Jawa secara alami didedikasikan untuk senjata, seni militer, dan kesetiaan"
+hint_tanaya_views,"Nilai Madura
+Orang Madura akan senang jika rajanya melakukan perbuatan gelap, suap, dan godaan di peta dunia."
+hint_tanaya_xenophobia,"Xenofobia Madura
+Para pembual serakah Dayak telah menyimpang dari Ibu Suci dan, dalam kesombongan mereka, melahirkan bidah yang menghabiskan segala yang dibangun Madura selama berabad-abad.
 
-$ In case of dissatisfaction, Tanaya attack the Makha people."
-hint_tanaya_production,"Tanaya Traditional Skills
-Paper production bonuses result from traditionally high rates of literacy among the Tanaya peasants."
-hint_tanaya_knowledge,"Tanaya Knowledge
-Books in the Tanaya language emphasize the use of intrigue and religion instead of brute force."
-hint_makha_views,"Makha Values
-Makha will be pleased if the king makes trade contracts with neighbors."
-hint_makha_xenophobia,"Makha Xenophobia
-Tanayas are hypocrites and schemers, just waiting for a moment to stab someone in the back. Tanayas are responsible for the near-extinction of the fire of civilization that was once ignited by the Makha.
+$ Dalam kasus ketidakpuasan, orang Madura menyerang orang Dayak."
+hint_tanaya_production,"Keterampilan Tradisional Madura
+Bonus produksi Kertas berasal dari tingkat melek huruf yang secara tradisional tinggi di antara petani Madura."
+hint_tanaya_knowledge,"Pengetahuan Madura
+Buku dalam bahasa Madura menekankan penggunaan intrik dan agama alih-alih kekerasan kasar."
+hint_makha_views,"Nilai Dayak
+Orang Dayak akan senang jika raja membuat perjanjian perdagangan dengan tetangga."
+hint_makha_xenophobia,"Xenofobia Dayak
+Orang Madura adalah munafik dan perencana, hanya menunggu momen untuk menusuk seseorang dari belakang. Orang Madura bertanggung jawab atas hampir punahnya api peradaban yang pernah dinyalakan oleh orang Dayak.
 
-$ In case of dissatisfaction, Makha attack the Tanaya people."
-hint_makha_production,"Traditional Skills of Makha
-For many centuries, the Makha have been honestly creating the best tools and potions in Norland, and their family secrets make them excellent workers in the Workshop, Brewery, and Alchemy."
-hint_makha_knowledge,"Makha Knowledge
-Many books on intellectual development, trade, special handling of nectar, and the recipe for their famous ale are written in the Makha language."
-hint_varns_views,"Varn Values
-Varns will be pleased if the king does not attack foreign towns and villages for a long time."
-hint_varns_xenophobia,"Varn Xenophobia
-Once brethren to the Varn, Kaiden sold their old gods for imperial gold and trinkets and expelled the Varn from the land of their ancestors.
+$ Dalam kasus ketidakpuasan, orang Dayak menyerang orang Madura."
+hint_makha_production,"Keterampilan Tradisional Dayak
+Selama berabad-abad, orang Dayak telah jujur menciptakan alat dan ramuan terbaik di Norland, dan rahasia keluarga mereka membuat mereka pekerja unggul di Bengkel, Pabrik Bir, dan Alkimia."
+hint_makha_knowledge,"Pengetahuan Dayak
+Banyak buku tentang pengembangan intelektual, perdagangan, penanganan khusus nektar, dan resep bir terkenal mereka ditulis dalam bahasa Dayak."
+hint_varns_views,"Nilai Sunda
+Orang Sunda akan senang jika raja tidak menyerang kota dan desa asing untuk waktu yang lama."
+hint_varns_xenophobia,"Xenofobia Sunda
+Sekali waktu saudara bagi orang Sunda, orang Jawa menjual dewa-dewa lama mereka untuk emas kekaisaran dan pernak-pernik dan mengusir orang Sunda dari tanah leluhur mereka.
 
-$ In case of dissatisfaction, Varns attack Kaiden people."
-hint_varns_production,"Traditional Skills of the Varn
-The Varn know how to interact with nature so that its fruits bring a lot of tasty food. Growing traditional rutabagas, gathering forest herbs, and pig farming have been familiar to them since childhood."
-hint_varns_knowledge,"Varns Knowledge
-Knowledge in the Varns language is dedicated to the topics of cooking, farming, resource gathering, and longevity."
-hint_bld_patrol_sign_day,"Daytime Patrol
-Marks the area of daytime <hint=hint_persons_guard>patrolling</hint>.
+$ Dalam kasus ketidakpuasan, orang Sunda menyerang orang Jawa."
+hint_varns_production,"Keterampilan Tradisional Sunda
+Orang Sunda tahu cara berinteraksi dengan alam sehingga buah-buahnya membawa banyak makanan lezat. Menanam rutabaga tradisional, mengumpul rempah hutan, dan peternakan babi telah akrab bagi mereka sejak kecil."
+hint_varns_knowledge,"Pengetahuan Sunda
+Pengetahuan dalam bahasa Sunda didedikasikan untuk topik memasak, pertanian, pengumpulan sumber daya, dan umur panjang."
+hint_bld_patrol_sign_day,"Patroli Siang
+Menandai area <hint=hint_persons_guard>patroli</hint> siang hari.
 
-Position patrol banners near production sites where prisoners work to prevent their escape, as well as places where lumberjacks and herbalists work to protect them from fleshwolf attacks.
+Letakkan Bendera Patroli dekat situs produksi di mana Tahanan bekerja untuk mencegah pelarian mereka, serta tempat di mana penebang kayu dan ahli rempah bekerja untuk melindungi mereka dari serangan Fleshwolf.
 
-Guards from among your warriors will automatically go on patrol during <b>daytime</b>."
-hint_display_event_village_tribute,"They brought tribute
-The village chief of {village_name} has brought tribute. He will now deliver it to your warehouse.
+Garda dari prajurit Anda akan secara otomatis berpatroli selama <b>siang hari</b>."
+hint_display_event_village_tribute,"Mereka Membawa Upeti
+Kepala desa {village_name} telah membawa upeti. Ia sekarang akan mengantarkannya ke Gudang Anda.
 {optional_resources}"
-hint_inventroy_container,"Box
+hint_inventroy_container,"Kotak
 {resources}"
-hint_clerk_button_unavailable_by_limit,"Unavailable
-The Chancellery can serve {limit} productions."
-hint_nt_culture_approve,"Approve
-Culture approves of the king's actions."
-hint_action_wise_talk,"Wise Conversation
-A conversation takes place during which the character shares knowledge, provided the interlocutor has a sufficient Intelligence skill level.
+hint_clerk_button_unavailable_by_limit,"Tidak Tersedia
+Kanselari dapat melayani {limit} produksi."
+hint_nt_culture_approve,"Menyetujui
+Budaya menyetujui tindakan raja."
+hint_action_wise_talk,"Percakapan Bijak
+Percakapan berlangsung di mana karakter berbagi pengetahuan, dengan syarat lawan bicara memiliki tingkat keterampilan Kecerdasan yang cukup.
 
-Required Intelligence skill level:
-$ Basic knowledge (gray): level {var_1}
-$ Advanced knowledge (green): level {var_2}
-$ Superior knowledge (purple): level {var_3}
+Tingkat keterampilan Kecerdasan yang diperlukan:
+$ Pengetahuan dasar (abu-abu): tingkat {var_1}
+$ Pengetahuan lanjutan (hijau): tingkat {var_2}
+$ Pengetahuan unggul (ungu): tingkat {var_3}
 
-One random piece of knowledge is shared at a time, from simpler to more complex.
+Satu potong pengetahuan acak dibagikan pada satu waktu, dari yang lebih sederhana ke yang lebih kompleks.
 
-<b>Additionally:</b>
-$ A character with the ""Enlightener"" trait can share any knowledge with anyone without restrictions, but their conversation partner may convert to their culture.
-$ If the character is <hint=hint_oldman>elderly</hint>, they will share two pieces of knowledge at once.
+<b>Selain itu:</b>
+$ Karakter dengan sifat ""Pencerah"" dapat berbagi pengetahuan apa pun dengan siapa pun tanpa batasan, tapi mitra percakapannya mungkin berpindah ke budayanya.
+$ Jika karakter adalah <hint=hint_oldman>lansia</hint>, ia akan berbagi dua potong pengetahuan sekaligus.
 
-<b>Hint:</b> You can invite friendly characters from other cities (or abduct them) to gain valuable knowledge — for example, knowledge from other cultures."
-hint_wise_talk_unavailable_by_opinion,"Not available
-{soul_uuid_1} has a low opinion of {soul_uuid_2}.
-current: {opinion}
-required: {threshold}"
-hint_unavailable_senility,"The character is insane
-The character is in a state of insanity and cannot perform this action."
-hint_unavailable_to_senility,"The character is insane
-The character is in a state of insanity and cannot perform this action."
-hint_cant_add_to_army_senility,"Senility
-The warrior is currently lost to madness."
-hint_nt_senility_begin,"Senile dementia
-This character has fallen into senile dementia and lost their mind.
+<b>Petunjuk:</b> Anda dapat mengundang karakter ramah dari kota lain (atau menculik mereka) untuk memperoleh pengetahuan berharga — misalnya, pengetahuan dari budaya lain."
+hint_wise_talk_unavailable_by_opinion,"Tidak Tersedia
+{soul_uuid_1} memiliki pendapat rendah tentang {soul_uuid_2}.
+saat ini: {opinion}
+diperlukan: {threshold}"
+hint_unavailable_senility,"Karakter Gila
+Karakter berada dalam keadaan kegilaan dan tidak dapat melakukan aksi ini."
+hint_unavailable_to_senility,"Karakter Gila
+Karakter berada dalam keadaan kegilaan dan tidak dapat melakukan aksi ini."
+hint_cant_add_to_army_senility,"Kepikunan
+Prajurit ini saat ini telah hilang dalam kegilaan."
+hint_nt_senility_begin,"Kepikunan
+Karakter ini telah jatuh ke dalam kepikunan dan kehilangan akalnya.
 
-The condition will stay with them until they pass into the next world."
-hint_nt_mine_limit_reached,"Reserves Depleted
-At the Mine's current depth, all Iron reserves are exhausted.
+Kondisi ini akan bertahan dengan mereka hingga mereka pergi ke dunia berikutnya."
+hint_nt_mine_limit_reached,"Cadangan Habis
+Di kedalaman Tambang saat ini, semua cadangan Besi telah habis.
 
-Upgrade the Mine to access deeper reserves."
-hint_nt_mine_limit_soon,"Reserves Are Running Low
-At the mine's current depth, the iron reserves are almost depleted.
+Tingkatkan Tambang untuk mengakses cadangan yang lebih dalam."
+hint_nt_mine_limit_soon,"Cadangan Hampir Habis
+Di kedalaman tambang saat ini, cadangan besi hampir habis.
 
-Upgrade the mine to access deeper reserves before the available iron runs out.
+Tingkatkan tambang untuk mengakses cadangan yang lebih dalam sebelum besi yang tersedia habis.
 
-<b>Hint:</b> Click on the mine to see how much iron is left. This can also be seen in the <hint=hint_statistic_menu>Statistics menu</hint>."
-hint_nt_fetility_loss_from_tree,"Fertility Decline
-Due to deforestation, the soil fertility throughout the province has decreased, and if you continue to cut down trees, fertility will decrease even further. 
-This, in turn, reduces the productivity of fields and the gathering of forest herbs.
+<b>Petunjuk:</b> Klik pada tambang untuk melihat berapa banyak besi yang tersisa. Ini juga dapat dilihat di <hint=hint_statistic_menu>Menu Statistik</hint>."
+hint_nt_fetility_loss_from_tree,"Penurunan Kesuburan
+Akibat deforestasi, kesuburan tanah di seluruh provinsi telah menurun, dan jika Anda terus menebang pohon, kesuburan akan menurun lebih lanjut. 
+Ini, pada gilirannya, mengurangi produktivitas ladang dan pengumpulan rempah hutan.
 
-New trees grow next to the existing ones, so the forest will recover if you prevent clear-cutting. 
+Pohon baru tumbuh di sebelah yang ada, jadi hutan akan pulih jika Anda mencegah penebangan bersih. 
 
-<b>Hint:</b> The current fertility of the fields can be checked in the <hint=hint_statistic_menu>Statistics menu</hint>."
-hint_trade_agreements_window,"Foreign Trade Menu 
-This displays all the trade contracts concluded with neighbors. They are updated daily. 
+<b>Petunjuk:</b> Kesuburan ladang saat ini dapat diperiksa di <hint=hint_statistic_menu>Menu Statistik</hint>."
+hint_trade_agreements_window,"Menu Perdagangan Luar Negeri 
+Ini menampilkan semua kontrak perdagangan yang disepakati dengan tetangga. Mereka diperbarui setiap hari. 
 
-You can execute any of them manually, or do it automatically. 
+Anda dapat mengeksekusi salah satu dari mereka secara manual, atau melakukannya secara otomatis. 
 
-For trading, a free peasant is sent from and then returns to your city (no <hint=hint_resource_paper>Paper</hint> is required for this)."
-hint_trade_agreements_results,"Foreign Trade Report
-Today's trade balance is as follows:
+Untuk perdagangan, seorang petani bebas dikirim dari dan kemudian kembali ke kota Anda (tidak ada <hint=hint_resource_paper>Kertas</hint> yang diperlukan untuk ini)."
+hint_trade_agreements_results,"Laporan Perdagangan Luar Negeri
+Neraca perdagangan hari ini adalah sebagai berikut:
 {optional_stack_balance}
 
-Your trading partners have increased their budget and population."
-hint_trade_dynamic_prices,"Market Saturation
-A product's market saturation increases each time you sell that product. If the number remains below the <hint=hint_market_volume>local demand</hint> threshold, prices will not change. However, once market saturation increases above local demand threshold, prices will begin to drop, giving you less value for your goods.
+Mitra dagang Anda telah meningkatkan anggaran dan populasi mereka."
+hint_trade_dynamic_prices,"Jenuh Pasar
+Jenuh pasar suatu produk meningkat setiap kali Anda menjual produk tersebut. Jika angka tetap di bawah ambang batas <hint=hint_market_volume>permintaan lokal</hint>, harga tidak akan berubah. Namun, begitu jenuh pasar meningkat di atas ambang batas permintaan lokal, harga akan mulai turun, memberikan nilai lebih sedikit untuk barang Anda.
 
-Market saturation decreases steadily as populations gradually use up the exported resources. This process is represented by the <b>daily consumption</b> value of each product."
-hint_market_volume,"Local Demand
-A unique indicator for each product that shows the amount the market can absorb without the price decreasing.
+Jenuh pasar menurun secara bertahap karena populasi secara bertahap menghabiskan sumber daya yang diekspor. Proses ini diwakili oleh nilai <b>konsumsi harian</b> dari setiap produk."
+hint_market_volume,"Permintaan Lokal
+Indikator unik untuk setiap produk yang menunjukkan jumlah yang dapat diserap pasar tanpa harga menurun.
 
 <img=hint_market_volume></img>
 
-If the quantity of your sales exceeds the local demand for the resource, the market becomes oversaturated and the price drops.
+Jika jumlah penjualan Anda melebihi permintaan lokal untuk sumber daya, pasar menjadi terlalu jenuh dan harga turun.
 
-Participation in <hint=hint_tutorial_states>states</hint> can <hint=hint_market_volume_bonus>increase</hint> local demand"
-hint_building_stores,"Building Storage
-In the morning, workers take the resources they need for production from the city's storage, and in the evening, they bring back what they have produced. While resources are in the building's storage, they are not available to other workers.
+Partisipasi dalam <hint=hint_tutorial_states>negara</hint> dapat <hint=hint_market_volume_bonus>meningkatkan</hint> permintaan lokal"
+hint_building_stores,"Penyimpanan Bangunan
+Di pagi hari, pekerja mengambil sumber daya yang mereka butuhkan untuk produksi dari penyimpanan kota, dan di malam hari, mereka membawa kembali apa yang telah mereka produksi. Sementara sumber daya berada di penyimpanan bangunan, mereka tidak tersedia untuk pekerja lain.
 
-Therefore, resources produced during the day only become available in the evening when they reach the city storage.
+Oleh karena itu, sumber daya yang diproduksi selama hari hanya menjadi tersedia di malam hari ketika mencapai penyimpanan kota.
 
-You can deliver the produced resources to the city storage immediately by pressing the button in the required building."
-hint_market_volume_bonus,"Increasing Local Demand
-The <hint=hint_market_volume>local demand</hint> indicator proportionally increases for all goods when your province is part of a <hint=hint_tutorial_states>state</hint> - a vassal kingdom or alliance of free cities. 
+Anda dapat mengirimkan sumber daya yang diproduksi ke penyimpanan kota segera dengan menekan tombol di bangunan yang diperlukan."
+hint_market_volume_bonus,"Meningkatkan Permintaan Lokal
+Indikator <hint=hint_market_volume>permintaan lokal</hint> meningkat secara proporsional untuk semua barang ketika provinsi Anda adalah bagian dari <hint=hint_tutorial_states>negara</hint> - kerajaan vasal atau aliansi kota-kota bebas. 
 
-Demand capacity will increase based on the total population size of all the provinces in that state."
-hint_nt_prophecy_soon,"Disaster is near!
-According to the Church's prophecy, in just a few days, your lands will be struck by the following disaster:
+Kapasitas permintaan akan meningkat berdasarkan ukuran populasi total dari semua provinsi di negara itu."
+hint_nt_prophecy_soon,"Bencana sudah dekat!
+Menurut nubuat Pihak Gereja, dalam beberapa hari saja, tanah Anda akan dilanda bencana berikut:
 
 {optional_prophecy_text}"
-hint_prophecy_wolf_attack,"Fleshwolf Invasion
-A moon that humans cannot perceive will drive <hint=hint_fleshwolf>fleshwolves</hint> mad and compel them to gather in large packs to hunt humans.
-$ A pack of {size} fleshwolves will attack the center of your city and kill everyone they see."
-hint_prophecy_bandits_capm,"Army of Deserters
-Long civil wars will lead to the emergence of a large band of deserters who will see your province as an excellent place to live.
-$ On the world map, near your city, a particularly large camp of bandits consisting of {size_1} - {size_2} experienced fighters will appear."
-hint_prophecy_fields_sick_one,"Crop Infection 
-{type} will be infected by a parasitic fungus that destroys the crops. 
-$ All fields with this crop will yield no harvest for {duration_days} days .
-$ The price for the crop at the <hint=hint_holy_caravan>Holy Caravan</hint> during this time will be {price_factor} times higher."
-hint_prophecy_cholera_epidemy,"Smallpox Epidemic 
-The numerous sins of your subjects upset Mother Sophia, and soon she will pour her sorrow upon your heads. 
-$ For {duration_days} days, every resident of your city may contract a deadly disease with a {sick_chance}% chance per day.
-$ Smallpox can be treated with <hint=hint_resource_med>Medical Salve</hint>, but it may lead to blindness and terrible scars."
-hint_prophecy_xenophoby,"Xenophobia Outbreak 
-Among your subjects of {culture}, rumors will arise that the inhabitants of the despised culture {culture_target} practice black magic and steal their children. 
-$ For {duration_days} days, characters of {culture} will attack characters of {culture_target} on the streets.
-$ Guards of <hint=hint_persons_guard>patrols</hint> will protect the victims of the attacks."
-hint_prophecy_crocks_wave,"Invasion of Vagabonds 
-Numerous disasters among neighbors will generate a large number of impoverished peasants who will decide to become vagabonds and cutthroats. 
-$ For {duration_days} days, all incoming migrants will be <hint=hint_persons_criminal>vagabonds</hint> or <hint=hint_persons_cuthroat>cutthroats</hint>."
-hint_prophecy_fanatics_wave,"Yellow Fanatics
-One of the strange sects that believe consuming <hint=hint_resource_nectar>Nectar</hint> brings them closer to Holy Sophia will decide to move to your city after being expelled from their previous location.
-$ For {duration_days} days, an additional {size_1} - {size_2} <hint=hint_addict>nectar-dependent</hint> <hint=hint_persons_fanatic>fanatics</hint> will arrive in your city daily.
-$ Moreover, all of them belong to the culture {culture}."
-hint_prophecy_fields_sick_all,"Hungry Days 
-A disease will strike all crops, leading to days of hunger. 
-$ For {duration_days} days, all fields will yield no harvest. 
-$ Prices for <hint=hint_resource_rye>Rye</hint>, <hint=hint_resource_rutabaga>Rutabaga</hint>, and <hint=hint_resource_hop>Hops</hint> will increase by {price_factor} times."
-hint_prophecy_tree_bug,"Wood Beetle 
-Trees in your province will be infested by wood beetles, which rapidly consume the wood and render it unsuitable for use. 
-$ For {duration_days} days, lumberjacks will harvest <hint=hint_resource_wood>Wood</hint> at a rate {wood_decrease} times lower.
-$ The price of wood at the <hint=hint_holy_caravan>Holy Caravan</hint> will increase by {price_factor} times."
-hint_prophecy_rats_invasion,"Rat Invasion
-A large colony of rats will settle in your warehouses. Your food supplies will be consumed every day.
-$ For {duration_days} days, <hint=hint_resource_rye>Rye</hint>, <hint=hint_resource_rutabaga>Rutabaga</hint>, <hint=hint_resource_hop>Hops</hint>, <hint=hint_resource_food>Flour</hint>, and <hint=hint_resource_meat>Meat</hint> will spoil by {size_1} - {size_2}% per day.
-$ The price of these resources at the <hint=hint_holy_caravan>Holy Caravan</hint> will increase by {price_factor} times."
-hint_nt_unknown_prophecy,"Disturbing Rumors 
-There are rumors that in the coming days, the city will be struck by a disaster warned of by the Church's seers. 
+hint_prophecy_wolf_attack,"Serbuan Fleshwolf
+Bulan yang tidak bisa dirasakan manusia akan membuat <hint=hint_fleshwolf>fleshwolf</hint> gila dan memaksa mereka berkumpul dalam kawanan besar untuk berburu manusia.
+$ Kawanan {size} fleshwolf akan menyerang pusat kota Anda dan membunuh semua yang mereka lihat."
+hint_prophecy_bandits_capm,"Pasukan Pembelot
+Perang saudara yang panjang akan menyebabkan munculnya kelompok besar pembelot yang akan melihat provinsi Anda sebagai tempat tinggal yang sangat baik.
+$ Di peta dunia, dekat kota Anda, kamp bandit besar yang terdiri dari {size_1} - {size_2} petarung berpengalaman akan muncul."
+hint_prophecy_fields_sick_one,"Infeksi Tanaman 
+{type} akan terinfeksi oleh jamur parasit yang menghancurkan tanaman. 
+$ Semua ladang dengan tanaman ini tidak akan menghasilkan panen selama {duration_days} hari .
+$ Harga tanaman di <hint=hint_holy_caravan>Karavan Suci</hint> selama waktu ini akan {price_factor} kali lebih tinggi."
+hint_prophecy_cholera_epidemy,"Wabah Cacar 
+Banyak dosa rakyat Anda menyinggung Ibu Sophia, dan segera ia akan mencurahkan kesedihannya ke atas kepala Anda. 
+$ Selama {duration_days} hari, setiap penduduk kota Anda mungkin tertular penyakit mematikan dengan peluang {sick_chance}% per hari.
+$ Cacar dapat diobati dengan <hint=hint_resource_med>Salep Medis</hint>, tapi itu mungkin menyebabkan buta dan bekas luka mengerikan."
+hint_prophecy_xenophoby,"Wabah Xenofobia 
+Di antara rakyat Anda dari {culture}, rumor akan muncul bahwa penduduk budaya yang dibenci {culture_target} mempraktikkan sihir hitam dan mencuri anak-anak mereka. 
+$ Selama {duration_days} hari, karakter dari {culture} akan menyerang karakter dari {culture_target} di jalanan.
+$ Garda dari <hint=hint_persons_guard>patroli</hint> akan melindungi korban serangan."
+hint_prophecy_crocks_wave,"Serbuan Pengembara 
+Banyak bencana di antara tetangga akan menghasilkan jumlah besar petani miskin yang memutuskan menjadi pengembara dan pembunuh berantai. 
+$ Selama {duration_days} hari, semua migran yang datang akan menjadi <hint=hint_persons_criminal>pengembara</hint> atau <hint=hint_persons_cuthroat>pembunuh berantai</hint>."
+hint_prophecy_fanatics_wave,"Fanatik Kuning
+Salah satu sekte aneh yang percaya mengonsumsi <hint=hint_resource_nectar>Nektar</hint> membawa mereka lebih dekat ke Holy Sophia akan memutuskan pindah ke kota Anda setelah diusir dari lokasi sebelumnya.
+$ Selama {duration_days} hari, tambahan {size_1} - {size_2} <hint=hint_addict>pecandu nektar</hint> <hint=hint_persons_fanatic>fanatik</hint> akan tiba di kota Anda setiap hari.
+$ Selain itu, semuanya termasuk budaya {culture}."
+hint_prophecy_fields_sick_all,"Hari-Hari Kelaparan 
+Penyakit akan menyerang semua tanaman, menyebabkan hari-hari kelaparan. 
+$ Selama {duration_days} hari, semua ladang tidak akan menghasilkan panen. 
+$ Harga untuk <hint=hint_resource_rye>Rye</hint>, <hint=hint_resource_rutabaga>Rutabaga</hint>, dan <hint=hint_resource_hop>Hop</hint> akan meningkat {price_factor} kali lipat."
+hint_prophecy_tree_bug,"Kumbang Kayu 
+Pohon di provinsi Anda akan dikuasai oleh kumbang kayu, yang dengan cepat mengonsumsi kayu dan membuatnya tidak layak digunakan. 
+$ Selama {duration_days} hari, penebang kayu akan memanen <hint=hint_resource_wood>Kayu</hint> pada laju {wood_decrease} kali lebih rendah.
+$ Harga kayu di <hint=hint_holy_caravan>Karavan Suci</hint> akan meningkat {price_factor} kali lipat."
+hint_prophecy_rats_invasion,"Serbuan Tikus
+Sebuah koloni besar tikus akan menetap di gudang Anda. Persediaan makanan Anda akan dikonsumsi setiap hari.
+$ Selama {duration_days} hari, <hint=hint_resource_rye>Rye</hint>, <hint=hint_resource_rutabaga>Rutabaga</hint>, <hint=hint_resource_hop>Hop</hint>, <hint=hint_resource_food>Tepung</hint>, dan <hint=hint_resource_meat>Daging</hint> akan rusak sebesar {size_1} - {size_2}% per hari.
+$ Harga sumber daya ini di <hint=hint_holy_caravan>Karavan Suci</hint> akan meningkat {price_factor} kali lipat."
+hint_nt_unknown_prophecy,"Rumor Mengganggu 
+Ada rumor bahwa dalam beberapa hari mendatang, kota akan dilanda bencana yang diperingatkan oleh peramal Pihak Gereja. 
 
-Due to poor relations with the Matriarch, you do not have the opportunity to find out what the disaster may be."
-hint_display_event_market_depth_increased,"The local demand for all goods has increased
-The <hint=hint_tutorial_states>state</hint> you are part of has recently expanded, meaning the <hint=hint_market_volume>local demand</hint> has increased due to the residents of the new province."
-hint_nt_culture_approve_gwelts,"Kaiden Approval 
-Your subjects of the Kaiden culture are pleased that their king is no coward and earns glory in battles, which aligns with <hint=hint_kaiden_views>their values</hint>."
-hint_nt_culture_approve_tanaya,"Tanaya Approval 
-Your subjects of the Tanaya culture are pleased with the ways in which your king gains influence with neighbors, namely through intrigue and dark deeds. This aligns with <hint=hint_tanaya_views>their values</hint> and their idea of what true politics is."
-hint_nt_culture_approve_makha,"Makha Approval 
-Your subjects of the Makha culture are satisfied to see that you make profitable trade deals with your neighbors, which aligns with <hint=hint_makha_views>their values</hint>."
-hint_nt_culture_approve_voruns,"Varn Approval 
-Your subjects of the <hint=hint_culture_voruns>Varn</hint> culture are pleased that your king has refrained from conflicts with your neighbors and pursued a policy of peace. This is in alignment with <hint=hint_varns_views>their values</hint>."
-hint_nt_culture_terror_approve,"Approval of Terror
-Your subjects of the {culture} culture are pleased with your decision to carry out repression against {culture_2}, as, in their opinion, ""The world would be better off without those dirty rutabaga eaters""."
-hint_building_terror_culture,"Terror against {culture}
-Executioners begin to drag members of the {culture} culture to the <hint=hint_bld_scafod>Scaffold</hint> and punish them.
+Akibat hubungan buruk dengan Matriark, Anda tidak memiliki kesempatan untuk mengetahui apa bencana itu mungkin."
+hint_display_event_market_depth_increased,"Permintaan lokal untuk semua barang telah meningkat
+<hint=hint_tutorial_states>Negara</hint> yang Anda ikuti baru-baru ini berkembang, yang berarti <hint=hint_market_volume>permintaan lokal</hint> telah meningkat karena penduduk provinsi baru."
+hint_nt_culture_approve_gwelts,"Persetujuan Jawa 
+Rakyat Anda dari budaya Jawa senang bahwa rajanya bukan pengecut dan memperoleh kemuliaan dalam pertempuran, yang selaras dengan <hint=hint_kaiden_views>nilai-nilai mereka</hint>."
+hint_nt_culture_approve_tanaya,"Persetujuan Madura 
+Rakyat Anda dari budaya Madura senang dengan cara-cara yang digunakan raja Anda untuk memperoleh pengaruh dengan tetangga, yaitu melalui intrik dan perbuatan gelap. Ini selaras dengan <hint=hint_tanaya_views>nilai-nilai mereka</hint> dan gagasan mereka tentang politik sejati."
+hint_nt_culture_approve_makha,"Persetujuan Dayak 
+Rakyat Anda dari budaya Dayak puas melihat bahwa Anda membuat kesepakatan perdagangan yang menguntungkan dengan tetangga, yang selaras dengan <hint=hint_makha_views>nilai-nilai mereka</hint>."
+hint_nt_culture_approve_voruns,"Persetujuan Sunda 
+Rakyat Anda dari budaya <hint=hint_culture_voruns>Sunda</hint> senang bahwa raja Anda telah menahan diri dari konflik dengan tetangga dan mengejar kebijakan perdamaian. Ini selaras dengan <hint=hint_varns_views>nilai-nilai mereka</hint>."
+hint_nt_culture_terror_approve,"Persetujuan Teror
+Rakyat Anda dari budaya {culture} senang dengan keputusan Anda untuk melakukan represi terhadap {culture_2}, karena, menurut pendapat mereka, ""Dunia akan lebih baik tanpa para pemakan rutabaga kotor itu""."
+hint_building_terror_culture,"Teror terhadap {culture}
+Algojo mulai menyeret anggota budaya {culture} ke <hint=hint_bld_scafod>Panggung Gantung</hint> dan menghukum mereka.
 
-$ This will deter migrants of that culture from your province for a few days.
-$ 3 acquaintances of each punished character from the {culture} culture will receive a strong negative thought.
-$ Subjects of the {culture_2} culture will be pleased with the repression against {culture}.
+$ Ini akan mencegah migran dari budaya itu ke provinsi Anda selama beberapa hari.
+$ 3 kenalan dari setiap karakter yang dihukum dari budaya {culture} akan menerima pikiran negatif kuat.
+$ Rakyat dari budaya {culture_2} akan senang dengan represi terhadap {culture}.
 {optional_culture_lords}"
-hint_action_task_sick_visit,"Visit the Sick 
-The character will visit the sick to comfort them."
-hint_action_task_sick_visit_context,"Visit the Sick 
-{soul_uuid_1} will visit the gravely ill {soul_uuid_2} to comfort them. 
+hint_action_task_sick_visit,"Kunjungi yang Sakit 
+Karakter akan mengunjungi yang sakit untuk menghibur mereka."
+hint_action_task_sick_visit_context,"Kunjungi yang Sakit 
+{soul_uuid_1} akan mengunjungi {soul_uuid_2} yang sakit parah untuk menghibur mereka. 
 
-<b>As a result:</b> 
-Mood of {soul_uuid_2}: {moral_change_1}"
-hint_building_terror_fanatics,"Fanatic Terror
-When assigned to instate terror against fanatics, executioners drag <hint=hint_persons_fanatic>religious fanatics</hint> to the <hint=hint_bld_scafod>Scaffold</hint> and punish them with the set punishment. 
+<b>Akibatnya:</b> 
+Suasana hati {soul_uuid_2}: {moral_change_1}"
+hint_building_terror_fanatics,"Teror Fanatik
+Ketika ditugaskan untuk menegakkan teror terhadap fanatik, algojo menyeret <hint=hint_persons_fanatic>fanatik agama</hint> ke <hint=hint_bld_scafod>Panggung Gantung</hint> dan menghukum mereka dengan hukuman yang ditetapkan. 
 
-Effects:
-$ Strong negative <hint=hint_thought>thought</hint> among all peasants, because no one feels safe.
-$ Unhappy <hint=hint_persons_peasant>peasants</hint> will not become <hint=hint_persons_criminal>vagabonds</hint>, and vagabonds will not become cutthroats."
-hint_building_terror_no,"Terror
-Terror is not carried out; executioners are engaged in the proper search and punishment of true criminals."
-hint_unavailable_knowledge_interaction_blind,"Unavailable 
-The character is <hint=hint_blindness>blind</hint>, therefore they cannot interact with books."
-hint_nt_old_age_begin,"Old age 
-The character has become <hint=hint_oldman>elderly</hint>"
-hint_nt_contrband_begin,"Speculators
-Because prices for some of your goods on the market are lower compared to those offered by the <hint=hint_holy_caravan>Holy Caravan</hint>, some enterprising <hint=hint_persons_criminal>vagabonds</hint> are buying up your goods and leaving the city to resell them elsewhere.
+Efek:
+$ Pikiran negatif kuat <hint=hint_thought>pikiran</hint> di antara semua petani, karena tidak ada yang merasa aman.
+$ Petani <hint=hint_persons_peasant>petani</hint> yang tidak bahagia tidak akan menjadi <hint=hint_persons_criminal>pengembara</hint>, dan pengembara tidak akan menjadi pembunuh berantai."
+hint_building_terror_no,"Teror
+Teror tidak dilakukan; algojo terlibat dalam pencarian dan hukuman yang tepat terhadap penjahat sejati."
+hint_unavailable_knowledge_interaction_blind,"Tidak Tersedia 
+Karakter adalah <hint=hint_blindness>buta</hint>, oleh karena itu mereka tidak dapat berinteraksi dengan buku."
+hint_nt_old_age_begin,"Usia Tua 
+Karakter telah menjadi <hint=hint_oldman>lansia</hint>"
+hint_nt_contrband_begin,"Spekulator
+Karena harga untuk beberapa barang Anda di pasar lebih rendah dibandingkan dengan yang ditawarkan oleh <hint=hint_holy_caravan>Karavan Suci</hint>, beberapa <hint=hint_persons_criminal>pengembara</hint> yang berinisiatif membeli barang Anda dan meninggalkan kota untuk menjualnya kembali di tempat lain.
 
-In addition to your local population, this opportunity attracts the attention of vagabonds from neighboring cities. who start coming to your city to engage in speculation.
+Selain populasi lokal Anda, peluang ini menarik perhatian pengembara dari kota tetangga. yang mulai datang ke kota Anda untuk melakukan spekulasi.
 
-<b>Hint:</b> You can either raise prices to match the Caravan or combat the vagabonds through <hint=hint_terror_peasants>terror</hint>."
-hint_finance_contraband_possible,"Speculation
-Setting your prices lower than the market price given by the <hint=hint_holy_caravan>Holy Caravan</hint> may lead to the emergence of <hint=hint_nt_contrband_begin>speculators</hint> in the city."
-hint_mutator_no_prophecy,"No Disasters
-Starting from a certain time, various disasters such as criminal invasions, crop failures, or diseases can strike your province.
+<b>Petunjuk:</b> Anda bisa menaikkan harga agar sesuai dengan Karavan atau memerangi pengembara melalui <hint=hint_terror_peasants>teror</hint>."
+hint_finance_contraband_possible,"Spekulasi
+Menetapkan harga Anda lebih rendah daripada harga pasar yang diberikan oleh <hint=hint_holy_caravan>Karavan Suci</hint> dapat menyebabkan munculnya <hint=hint_nt_contrband_begin>spekulator</hint> di kota."
+hint_mutator_no_prophecy,"Tidak Ada Bencana
+Mulai dari waktu tertentu, berbagai bencana seperti invasi kriminal, kegagalan panen, atau penyakit dapat menyerang provinsi Anda.
 
-This modifier turns them off."
-hint_wise_talk_unavailable_by_knowledge,"Not available
-There is no knowledge that the characters could exchange."
-hint_part_of_nature_trader,"Trader
-This character is responsible for trading operations in the province, so all trade agreements will be conducted with him and calculated based on his skill in <hint=hint_skill_negotiations>Trade</hint>.
+Modifier ini mematikannya."
+hint_wise_talk_unavailable_by_knowledge,"Tidak Tersedia
+Tidak ada pengetahuan yang bisa ditukar oleh karakter."
+hint_part_of_nature_trader,"Pedagang
+Karakter ini bertanggung jawab atas operasi perdagangan di provinsi, sehingga semua perjanjian perdagangan akan dilakukan dengannya dan dihitung berdasarkan keterampilan <hint=hint_skill_negotiations>Perdagangan</hint>-nya.
 
-<b>Hint:</b> If he becomes your ruler's <hint=hint_encyclopedia_puppets>puppet</hint>, he will offer you a very significant discount (his Trade skill will be treated as 1)!"
-hint_display_event_forest_bandits_will_attack_soon,"Forest bandits plan an attack
-Rumors have reached you that forest bandits from your province plan to raid a settlement in the next day or two.
+<b>Petunjuk:</b> Jika ia menjadi <hint=hint_encyclopedia_puppets>boneka</hint> penguasa Anda, ia akan menawarkan diskon yang sangat signifikan (keterampilan Perdagangannya akan diperlakukan sebagai 1)!"
+hint_display_event_forest_bandits_will_attack_soon,"Perampok hutan merencanakan serangan
+Rumor telah sampai kepada Anda bahwa perampok hutan dari provinsi Anda berencana menyerang pemukiman dalam satu atau dua hari ke depan.
 
-Their target could be either your city or nearby villages.
+Target mereka bisa jadi kota Anda atau desa-desa terdekat.
 
-$ You can gather an army and attack their camp first.
-$ You can also bribe them (action in the bandits' camp on the world map) to leave you alone for some time."
-hint_sender_low_manners,"Bad manners
-The ruler will not take this lord's assurances seriously as he has a lower <hint=hint_skill_manners>Manners</hint> skill than the ruler."
-hint_sender_cooldown,"The opinion has already been formed. 
-The king has already heard the envoy's opinion about your king and is not yet ready to hear it again.
+$ Anda bisa mengumpulkan pasukan dan menyerang kamp mereka terlebih dahulu.
+$ Anda juga bisa menyuap mereka (aksi di kamp perampok di peta dunia) agar meninggalkan Anda sendirian untuk sementara waktu."
+hint_sender_low_manners,"Etika buruk
+Penguasa tidak akan menganggap serius jaminan penguasa ini karena ia memiliki keterampilan <hint=hint_skill_manners>Etika</hint> yang lebih rendah daripada penguasa."
+hint_sender_cooldown,"Pendapat sudah terbentuk. 
+Raja sudah mendengar pendapat utusan tentang raja Anda dan belum siap mendengarnya lagi.
 
-Available again in: {time} d."
-hint_nt_character_is_pregnant,"Pregnancy
-{soul_uuid_female} is now pregnant by {soul_uuid_male}.
+Tersedia lagi dalam: {time} h."
+hint_nt_character_is_pregnant,"Kehamilan
+{soul_uuid_female} sekarang hamil oleh {soul_uuid_male}.
 
-Pregnancy will last for several days, and its progress can be tracked on the main tab of the character's menu."
-hint_nt_character_go_insight,"Insight
+Kehamilan akan berlangsung selama beberapa hari, dan kemajuannya dapat dilacak di tab utama menu karakter."
+hint_nt_character_go_insight,"Wawasan
 {optional_insight_text}"
-hint_menu_army_tax,"Tax on warriors
-Current tax: {tax}"
-hint_display_event_heir_can_soon_rise,"Heir Uprising
-The <hint=hint_loyalty>loyalty</hint> of the crown heir {soul_uuid} is already below 40 and continuously decreasing. When his loyalty drops to 25, he will <hint=hint_nt_heir_rebellion>rise up</hint> against the king.
+hint_menu_army_tax,"Pajak pada prajurit
+Pajak saat ini: {tax}"
+hint_display_event_heir_can_soon_rise,"Pemberontakan Pewaris
+<hint=hint_loyalty>Kesetiaan</hint> pewaris mahkota {soul_uuid} sudah di bawah 40 dan terus menurun. Ketika kesetiaannya turun ke 25, ia akan <hint=hint_nt_heir_rebellion>bangkit</hint> melawan raja.
 
-<b>Hint:</b> Increase the character's loyalty through the king's actions - a reward or a threat. You can also try more radical measures, such as staging a duel with the king."
-hint_display_event_loyalists_can_soon_rage,"Loyalists Prepare a Massacre
-Your <hint=hint_loyalist>loyalists</hint> among the peasants are <hint=hint_nt_unhappy>unhappy</hint>, and they tend to blame the <hint=hint_nt_fanatics_perc>fanatics</hint>, who are loyal not to the king but to the church, for all the kingdom's misfortunes.
+<b>Petunjuk:</b> Tingkatkan kesetiaan karakter melalui tindakan raja - hadiah atau ancaman. Anda juga bisa mencoba langkah-langkah yang lebih radikal, seperti mengatur duel dengan raja."
+hint_display_event_loyalists_can_soon_rage,"Loyalis Mempersiapkan Pembantaian
+<hint=hint_loyalist>Loyalis</hint> Anda di antara Petani <hint=hint_nt_unhappy>tidak bahagia</hint>, dan mereka cenderung menyalahkan <hint=hint_nt_fanatics_perc>Fanatik</hint>, yang setia bukan kepada raja tapi kepada Pihak Gereja, atas semua kesengsaraan kerajaan.
 
-As long as their mood remains below <red>25</red>, there is a daily chance that they will organize a massacre of the fanatics."
-hint_display_event_soldiers_deserting,"Warriors Desert
-Due to <hint=hint_sodiers_happiness>unhappiness</hint>, your warriors are leaving your province.
+Selama suasana hati mereka tetap di bawah <red>25</red>, ada peluang harian bahwa mereka akan mengorganisir pembantaian terhadap Fanatik."
+hint_display_event_soldiers_deserting,"Prajurit Membelot
+Akibat <hint=hint_sodiers_happiness>ketidakbahagiaan</hint>, prajurit Anda meninggalkan provinsi Anda.
 
-Deserters join the <hint=hint_persons_forest_bandits>forest bandits</hint>, which can create a significant problem."
-hint_display_event_fanatics_can_soon_rise,"Fanatics Prepare Uprising
-Your peasants are <hint=hint_nt_unhappy>unhappy</hint>, and the <hint=hint_nt_fanatics_perc>fanatics</hint> among them tend to blame all misfortunes on the sinful lords.
+Pembelot bergabung dengan <hint=hint_persons_forest_bandits>perampok hutan</hint>, yang bisa menciptakan masalah signifikan."
+hint_display_event_fanatics_can_soon_rise,"Fanatik Mempersiapkan Pemberontakan
+Petani Anda <hint=hint_nt_unhappy>tidak bahagia</hint>, dan <hint=hint_nt_fanatics_perc>Fanatik</hint> di antara mereka cenderung menyalahkan semua kesengsaraan pada penguasa berdosa.
 
-As long as the average mood of the peasants remains below <red>25</red>, there is a daily chance that they will rise up in an <hint=hint_pogrom>uprising</hint>."
-hint_display_event_bishop_can_soon_rise,"Bishop Prepares Uprising
-The <hint=hint_bishop>bishop</hint> has a enemy (relationship below <red>{relation_treshold}</red>) among your lords, and as long as this is the case, there is a chance that he will incite an <hint=hint_pogrom>uprising</hint> among the <hint=hint_nt_fanatics_perc>fanatics</hint>, who will demand to blind this lord.
+Selama suasana hati rata-rata Petani tetap di bawah <red>25</red>, ada peluang harian bahwa mereka akan bangkit dalam <hint=hint_pogrom>pemberontakan</hint>."
+hint_display_event_bishop_can_soon_rise,"Uskup Mempersiapkan Pemberontakan
+<hint=hint_bishop>Uskup</hint> memiliki musuh (hubungan di bawah <red>{relation_treshold}</red>) di antara penguasa Anda, dan selama ini berlangsung, ada kemungkinan ia akan memprovokasi <hint=hint_pogrom>pemberontakan</hint> di antara <hint=hint_nt_fanatics_perc>Fanatik</hint>, yang akan menuntut untuk membutakan penguasa ini.
 
-To prevent this, try to improve relations between the bishop and his enemy, or if that fails, a duel can always be arranged (the Matriarch will understand an honest settling of relations)."
-hint_construction_road,"Road tile
-Increases character movement speed by {road_bonus}%."
-hint_trade_agreement,"Trade Agreement
-Concluded between two provinces with the mediation of the Сhurch.
+Untuk mencegah ini, coba tingkatkan hubungan antara uskup dan musuhnya, atau jika gagal, duel selalu bisa diatur (Matriark akan memahami penyelesaian hubungan yang jujur)."
+hint_construction_road,"Ubin Jalan
+Meningkatkan kecepatan pergerakan karakter sebesar {road_bonus}%."
+hint_trade_agreement,"Perjanjian Perdagangan
+Disepakati antara dua provinsi dengan mediasi Pihak Gereja.
 
-$ Your trading partner will offer the agreed deal <b>daily</b>, which will be displayed in the <b>Trade menu</b>.
-$ Conducting the deal will require a messenger, but it will not require <hint=hint_resource_paper>Paper</hint>.
-$ Relations with the partner will <green>improve</green> upon making the deal and will enhance with each transaction.
-$ Any money given to your trading partner will be added to that city's budget and spent on strengthening the army.
-$ The agreement has been arranged to last {days} days but can be terminated if the relations become hostile."
+$ Mitra dagang Anda akan menawarkan kesepakatan yang disepakati <b>harian</b>, yang akan ditampilkan di <b>Menu Perdagangan</b>.
+$ Melakukan kesepakatan akan memerlukan utusan, tapi tidak memerlukan <hint=hint_resource_paper>Kertas</hint>.
+$ Hubungan dengan mitra akan <green>meningkat</green> saat melakukan kesepakatan dan akan meningkat dengan setiap transaksi.
+$ Uang apa pun yang diberikan kepada mitra dagang Anda akan ditambahkan ke anggaran kota itu dan dibelanjakan untuk memperkuat pasukan.
+$ Perjanjian telah diatur untuk berlangsung {days} hari tapi bisa dihentikan jika hubungan menjadi permusuhan."
 hint_priority_workers,"~
-Available for assignment: {count}
+Tersedia untuk penugasan: {count}
 Total: {count_2}
 
-<b>Hint:</b> Characters from the selected group who are not assigned to other buildings are available for assignment. You can see the composition of the assigned workers in the overview mode by zooming the camera out as much as possible."
-hint_mutator_longlive,"Longevity
-The time before aging begins is increased by 10 years."
-hint_building_upgrade_button_mine,"Upgrade
-$ One additional job slot
-$ Iron deposit in the mine will increase by {iron_add}"
-hint_soldier_filter_wounded,"Wounded
-Warriors suffer <hint=hint_pain>pain</hint> from their wounds, which may affect their <hint=hint_moral_level>bravery</hint> in battle."
-hint_soldier_filter_low_moral,"Unhappy
-Warriors are <hint=hint_sodiers_happiness>unhappy</hint>, which may affect their <hint=hint_moral_level>bravery</hint> in battle."
-hint_soldier_filter_grug_addicted,"Nectar Addicts
-Warriors with a nectar <hint=hint_addict>addiction</hint>.
+<b>Petunjuk:</b> Karakter dari grup yang dipilih yang tidak ditugaskan ke bangunan lain tersedia untuk penugasan. Anda bisa melihat komposisi pekerja yang ditugaskan di mode overview dengan memperbesar kamera keluar sebanyak mungkin."
+hint_mutator_longlive,"Umur Panjang
+Waktu sebelum penuaan dimulai ditingkatkan sebesar 10 tahun."
+hint_building_upgrade_button_mine,"Peningkatan
+$ Satu slot pekerjaan tambahan
+$ Cadangan Besi di tambang akan meningkat sebesar {iron_add}"
+hint_soldier_filter_wounded,"Terluka
+Prajurit menderita <hint=hint_pain>sakit</hint> dari luka mereka, yang mungkin memengaruhi <hint=hint_moral_level>keberanian</hint> mereka dalam pertempuran."
+hint_soldier_filter_low_moral,"Tidak Bahagia
+Prajurit <hint=hint_sodiers_happiness>tidak bahagia</hint>, yang mungkin memengaruhi <hint=hint_moral_level>keberanian</hint> mereka dalam pertempuran."
+hint_soldier_filter_grug_addicted,"Pecandu Nektar
+Prajurit dengan <hint=hint_addict>kecanduan</hint> nektar.
 
-Using <hint=hint_resource_nectar>Nectar</hint> before battle can greatly increase their <hint=hint_moral_level>bravery</hint>, but if these warriors lack it, they can experience significantly decreased <hint=hint_sodiers_happiness>mood</hint>."
-hint_soldier_filter_fanatic,"Fanatics
-<hint=hint_persons_fanatic>Fanatic warriors</hint> can be very effective in battle, as they gain positive thoughts from <hint=hint_pain>pain</hint>."
-hint_soldier_filter_ex_bandit,"Vagabonds
-These warriors were previously <hint=hint_persons_criminal>vagabonds</hint>, so military discipline causes them to suffer.
+Menggunakan <hint=hint_resource_nectar>Nektar</hint> sebelum pertempuran bisa sangat meningkatkan <hint=hint_moral_level>keberanian</hint> mereka, tapi jika prajurit ini kekurangan, mereka bisa mengalami penurunan <hint=hint_sodiers_happiness>suasana hati</hint> yang signifikan."
+hint_soldier_filter_fanatic,"Fanatik
+<hint=hint_persons_fanatic>Prajurit fanatik</hint> bisa sangat efektif dalam pertempuran, karena mereka mendapatkan pikiran positif dari <hint=hint_pain>sakit</hint>."
+hint_soldier_filter_ex_bandit,"Pengembara
+Para prajurit ini sebelumnya adalah <hint=hint_persons_criminal>pengembara</hint>, sehingga disiplin militer membuat mereka menderita.
 
-This may affect their <hint=hint_moral_level>bravery</hint> in battle."
-hint_nt_soul_missing,"Lord Missing
-After the defeat, the lord managed to escape from the battlefield, but their fate is unknown.
+Ini mungkin memengaruhi <hint=hint_moral_level>keberanian</hint> mereka dalam pertempuran."
+hint_nt_soul_missing,"Penguasa Hilang
+Setelah kekalahan, penguasa berhasil melarikan diri dari medan pertempuran, tapi nasib mereka tidak diketahui.
 
-The situation will become clear in 2 days."
-hint_chancellery_unavailable_by_no_inspector,"Unavailable
-No manager appointed in the <hint=hint_bld_chancellery>Chancellery</hint>"
-hint_action_emperor_coronation,"Declare Yourself Emperor
-Proclaim yourself the Emperor of Norland and challenge the <hint=hint_synode>Loving Family.</hint>
+Situasi akan menjadi jelas dalam 2 hari."
+hint_chancellery_unavailable_by_no_inspector,"Tidak Tersedia
+Tidak ada manajer yang ditugaskan di <hint=hint_bld_chancellery>Kanselari</hint>"
+hint_action_emperor_coronation,"Nyatakan Diri Anda Sebagai Kaisar
+Proklamasikan diri Anda sebagai Kaisar Norland dan tantang <hint=hint_synode>Keluarga Penuh Kasih.</hint>
 
-<b>Hint:</b> By choosing this action, there will be no turning back, and you will begin the final trial in which you must defeat the punitive army of the <hint=hint_inqusitors>Inquisition</hint>. If you win the battle, you win the game."
-hint_emperor_coronation_unavailable_by_place,"Unavailable
-A sacred place is required for the ceremony - for example, an Altar or a Temple."
-hint_nt_emperor_inquizition_soon,"The Inquisition is on the way
-The Matriarch and the entire <hint=hint_synode>Loving Family</hint> lament your fall into sin and blasphemy. They send the Strict Father to cleanse you with fire.
+<b>Petunjuk:</b> Dengan memilih tindakan ini, tidak ada jalan mundur, dan Anda akan memulai ujian akhir di mana Anda harus mengalahkan pasukan hukuman dari <hint=hint_inqusitors>Inkuisisi</hint>. Jika Anda menang dalam pertempuran, Anda memenangkan permainan."
+hint_emperor_coronation_unavailable_by_place,"Tidak Tersedia
+Tempat suci diperlukan untuk upacara - misalnya, Altar atau Kuil."
+hint_nt_emperor_inquizition_soon,"Inkuisisi Sedang Menuju
+Matriark dan seluruh <hint=hint_synode>Keluarga Penuh Kasih</hint> meratapi jatuh Anda ke dalam dosa dan bidah. Mereka mengirim Bapa Ketat untuk membersihkan Anda dengan api.
 
-Soon, the <hint=hint_inqusitors>Inquisition</hint> squads will arrive in your city, and the survivors will be forgiven."
-hint_statistics_peoples_total,"All inhabitants
-
-{details_stack}"
-hint_statistics_resources_in_stock,"City Storage
-All resources that are in your city's storage and available to you."
-hint_statistics_resources_in_inventories,"Resources in Inventories
-Resources in the storage of production buildings and in the inventories of characters, including the weapons carried by warriors and lords."
-hint_statistics_resources_produced,"Resources Produced
-The amount of resources that have been produced and gathered throughout the day."
-hint_statistics_resources_used,"Resources Spent
-Includes wages, consumption of food and alcohol by lords and prisoners, construction costs, and resources used in production."
-hint_statistics_resources_sold_local,"Local Market Trade
-The total value of all goods sold to your peasants at the local market, taverns, and drug dens."
-hint_statistics_resources_sold_external,"External Trade
-The balance of trade with your neighbors on the world map."
-hint_statistics_resources_sold_caravan,"Trade with the Holy Caravan
-The balance of trade with the Holy Caravan."
-hint_statistics_peoples_lords,"Lords
+Segera, regu <hint=hint_inqusitors>Inkuisisi</hint> akan tiba di kota Anda, dan para penyintas akan diampuni."
+hint_statistics_peoples_total,"Semua Penduduk
 
 {details_stack}"
-hint_statistics_peoples_dummies,"Peasants
+hint_statistics_resources_in_stock,"Penyimpanan Kota
+Semua sumber daya yang ada di penyimpanan kota Anda dan tersedia untuk Anda."
+hint_statistics_resources_in_inventories,"Sumber Daya di Inventaris
+Sumber daya di penyimpanan bangunan produksi dan di inventaris karakter, termasuk senjata yang dibawa oleh prajurit dan penguasa."
+hint_statistics_resources_produced,"Sumber Daya Diproduksi
+Jumlah sumber daya yang telah diproduksi dan dikumpulkan sepanjang hari."
+hint_statistics_resources_used,"Sumber Daya yang Dikeluarkan
+Termasuk upah, konsumsi makanan dan alkohol oleh penguasa dan tahanan, biaya pembangunan, dan sumber daya yang digunakan dalam produksi."
+hint_statistics_resources_sold_local,"Perdagangan Pasar Lokal
+Nilai total semua barang yang dijual kepada petani Anda di pasar lokal, kedai, dan sarang narkoba."
+hint_statistics_resources_sold_external,"Perdagangan Luar
+Neraca perdagangan dengan tetangga Anda di peta dunia."
+hint_statistics_resources_sold_caravan,"Perdagangan dengan Karavan Suci
+Neraca perdagangan dengan Karavan Suci."
+hint_statistics_peoples_lords,"Penguasa
 
 {details_stack}"
-hint_statistics_peoples_slaves,"Prisoners
+hint_statistics_peoples_dummies,"Petani
 
 {details_stack}"
-hint_statistics_peoples_soldiers,"Warriors
+hint_statistics_peoples_slaves,"Tahanan
 
 {details_stack}"
-hint_statistics_peoples_bandits,"Vagabonds
+hint_statistics_peoples_soldiers,"Prajurit
 
 {details_stack}"
-hint_nt_terror_no_more_criminal_and_jobless,"Terror is getting out of control
-During the ongoing terror, all vagabonds and unemployed peasants have been punished. If you do not stop it, the executioners will begin punishing ordinary peasants.
+hint_statistics_peoples_bandits,"Pengembara
 
-To stop the terror, find the <hint=hint_bld_scafod>Scaffold</hint> where this mode is enabled."
-hint_family_creation_king_is_too_young,"It is impossible to continue
-Ruler {name} must be an adult - at least {age_adult} years old.
+{details_stack}"
+hint_nt_terror_no_more_criminal_and_jobless,"Teror Semakin Tak Terkendali
+Selama teror yang sedang berlangsung, semua pengembara dan petani pengangguran telah dihukum. Jika Anda tidak menghentikannya, algojo akan mulai menghukum petani biasa.
 
-To raise his age, increase his skill level."
-hint_duel_unavailable_actor_without_equipment,"No equipment
-{soul_uuid} lacks any weapon or armor. According to the sacred rules of dueling, both opponents must be properly equipped."
-hint_unavailable_homeless,"The lord has no residence
-To execute this order, the lord must have their own residence."
-hint_army_menu_card_mercenary_knight,"Knights
-This mercenary is a <hint=hint_knight>Knight</hint>. 
+Untuk menghentikan teror, temukan <hint=hint_bld_scafod>Panggung Gantung</hint> di mana mode ini diaktifkan."
+hint_family_creation_king_is_too_young,"Tidak mungkin melanjutkan
+Penguasa {name} harus dewasa - setidaknya {age_adult} tahun.
 
-The knight is hired for {knight_duration_days} days, after which he will leave your settlement (but can be hired again).
+Untuk menaikkan usianya, tingkatkan tingkat keterampilannya."
+hint_duel_unavailable_actor_without_equipment,"Tidak Ada Peralatan
+{soul_uuid} tidak memiliki senjata atau zirah apa pun. Menurut aturan suci duel, kedua lawan harus dilengkapi dengan benar."
+hint_unavailable_homeless,"Penguasa tidak memiliki kediaman
+Untuk menjalankan perintah ini, penguasa harus memiliki kediaman sendiri."
+hint_army_menu_card_mercenary_knight,"Ksatria
+Tentara bayaran ini adalah seorang <hint=hint_knight>Ksatria</hint>. 
 
-$ This is an experienced warrior who can also lead a squad in place of a lord. His <hint=hint_skill_command>Command</hint> skill is {skill_command_level}.  
-$ He arrives equipped with <hint=hint_resource_light_armor>light armor</hint> and a <hint=hint_resource_wooden_spear>spear</hint>.  
-$ It takes him one or two days to reach your settlement."
-hint_knight,"Knight
-Formerly failed Free Lords who chose to pursue a military career.
+Ksatria disewa selama {knight_duration_days} hari, setelah itu ia akan meninggalkan pemukiman Anda (tapi bisa disewa lagi).
+
+$ Ini adalah prajurit berpengalaman yang juga bisa memimpin regu menggantikan penguasa. Keterampilan <hint=hint_skill_command>Komando</hint>-nya adalah {skill_command_level}.  
+$ Ia tiba dilengkapi dengan <hint=hint_resource_light_armor>baju zirah ringan</hint> dan sebuah <hint=hint_resource_wooden_spear>tombak</hint>.  
+$ Dibutuhkan satu atau dua hari baginya untuk mencapai pemukiman Anda."
+hint_knight,"Ksatria
+Dulu penguasa bebas yang gagal dan memilih mengejar karir militer.
 
 <img=hint_knight></img>  
 
-$ Possess a high <hint=hint_skill_combat>Combat skill</hint>  
-$ Can lead a squad in place of a lord.  
-$ They can be hired in the Army menu for {knight_duration_days} days, after which they will leave."
-hint_statistics_resources_special_food_and_drinks_dummies,How many peasants are employed in this area of the economy.
-hint_statistics_resources_special_food_and_drinks_slaves,How many prisoners are employed in this area of the economy.
-hint_statistics_resources_special_food_and_drinks_salary,The wages received by peasants who work in this area of the economy.
-hint_mutator_iron_excess,"Surplus of Iron
-The mines will be rich in iron, so you won't have to worry about it running out.
+$ Memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint> yang tinggi  
+$ Bisa memimpin regu menggantikan penguasa.  
+$ Mereka bisa disewa di menu Pasukan selama {knight_duration_days} hari, setelah itu mereka akan pergi."
+hint_statistics_resources_special_food_and_drinks_dummies,Berapa banyak Petani yang bekerja di bidang ekonomi ini.
+hint_statistics_resources_special_food_and_drinks_slaves,Berapa banyak Tahanan yang bekerja di bidang ekonomi ini.
+hint_statistics_resources_special_food_and_drinks_salary,Upah yang diterima oleh Petani yang bekerja di bidang ekonomi ini.
+hint_mutator_iron_excess,"Surplus Besi
+Tambang akan kaya akan besi, jadi Anda tidak perlu khawatir kehabisan.
 
-$ Each level of the mine contains <hint=hint_resource_iron>500</hint>."
-hint_mutator_old_grudge,"Old Grudges
-Kaiden and Varns, as well as Makha and Tanaya, hate each other more intensely.
+$ Setiap level tambang berisi <hint=hint_resource_iron>500</hint>."
+hint_mutator_old_grudge,"Dendam Lama
+Jawa dan Sunda, serta Dayak dan Madura, saling membenci lebih intens.
 
-This is a conflict modification for experienced players."
-hint_display_event_players_vassal_left,"The kingdom is getting smaller
-As a result of recent political events, {faction_uuid} is no longer part of your kingdom."
-hint_display_event_players_ally_left,"The alliance is getting smaller
-As a result of recent political events, {faction_uuid} is no longer part of your alliance."
-hint_give_title_to_soldier_unavailable_by_knight,"Unavailable
-This character cannot be granted a title"
-hint_emperor_coronation_unavailable_by_control,"Unavailable
-To declare yourself Emperor you must have control over {count} provinces. You currently have {under_control} provinces under your control."
-hint_statistics_peoples_mood,"Mood
-Hover over the numbers in the mood column and row to learn the most common negative thoughts of different categories of people."
-hint_cant_build_mine_in_province,"Unavailable
-There are no iron deposits in the province."
-hint_sedecu_unavailable_sex_planned,"Unavailable
-This lord has an appointment already."
-hint_statistics_hovered_group_of_peoples,"Hovered group of people
+Ini adalah modifikasi konflik untuk pemain berpengalaman."
+hint_display_event_players_vassal_left,"Kerajaan semakin mengecil
+Akibat peristiwa politik baru-baru ini, {faction_uuid} tidak lagi menjadi bagian dari kerajaan Anda."
+hint_display_event_players_ally_left,"Aliansi semakin mengecil
+Akibat peristiwa politik baru-baru ini, {faction_uuid} tidak lagi menjadi bagian dari aliansi Anda."
+hint_give_title_to_soldier_unavailable_by_knight,"Tidak Tersedia
+Karakter ini tidak dapat diberikan gelar"
+hint_emperor_coronation_unavailable_by_control,"Tidak Tersedia
+Untuk menyatakan diri sebagai Kaisar, Anda harus menguasai {count} provinsi. Saat ini Anda menguasai {under_control} provinsi."
+hint_statistics_peoples_mood,"Suasana Hati
+Arahkan kursor ke angka-angka di kolom dan baris suasana hati untuk mengetahui pikiran negatif paling umum dari berbagai kategori orang."
+hint_cant_build_mine_in_province,"Tidak Tersedia
+Tidak ada cadangan besi di provinsi."
+hint_sedecu_unavailable_sex_planned,"Tidak Tersedia
+Penguasa ini sudah memiliki tugas."
+hint_statistics_hovered_group_of_peoples,"Kelompok Orang yang Diarahkan
 {details_stack}"
-hint_nectar_action,"Effect of Nectar
-$ While <hint=hint_resource_nectar>Nectar</hint> is active, the character moves {speed_improve} faster, and their skills increase by {skill_improve}.
-$ The character begins to experience a strong craving for Nectar every day.
-$ This is accompanied by intense negative <hint=hint_thought>thought</hint> and physical <hint=hint_pain>pain</hint>, which intensifies each day until the character consumes it.
-$ Immediately after consumption, there is a chance that the dependent will go into a rage and attack the nearest character. Over time, this probability increases."
-hint_building_production_ordered,"Ordered
-List of current orders in the <hint=hint_production_menu>Production menu</hint> for this type of building:
+hint_nectar_action,"Efek Nektar
+$ Saat <hint=hint_resource_nectar>Nektar</hint> aktif, karakter bergerak {speed_improve} lebih cepat, dan keterampilan mereka meningkat sebesar {skill_improve}.
+$ Karakter mulai mengalami keinginan kuat terhadap Nektar setiap hari.
+$ Ini disertai dengan <hint=hint_thought>pikiran</hint> negatif intens dan <hint=hint_pain>sakit</hint> fisik, yang semakin parah setiap hari hingga karakter mengonsumsinya.
+$ Segera setelah konsumsi, ada kemungkinan pecandu akan marah dan menyerang karakter terdekat. Seiring waktu, probabilitas ini meningkat."
+hint_building_production_ordered,"Dipesan
+Daftar perintah saat ini di <hint=hint_production_menu>Menu Produksi</hint> untuk jenis bangunan ini:
 
 {optional_orders}
 
-<b>Hint:</b> If the number for an order is <red>red</red>, it means that there are not enough ingredients in the city warehouse to produce this resource."
-hint_building_production_produced,"Produced
-How many resources were produced in this building today.
+<b>Petunjuk:</b> Jika angka untuk perintah berwarna <red>merah</red>, itu berarti tidak cukup bahan di gudang kota untuk memproduksi sumber daya ini."
+hint_building_production_produced,"Sumber Daya Diproduksi
+Berapa banyak sumber daya yang diproduksi di bangunan ini hari ini.
 
-The information is updated in real time."
-hint_building_production_bonus,"Production Bonus
-The higher the <hint=hint_skill_management>Management</hint> skill of the lord-manager assigned in the Hall,, the more effective their <hint=hint_inspection>instructions</hint> are, and the more the building will produce. For resource buildings, this means additional resources, and for production buildings (like Breweries), this means increased production speed.
+Informasi diperbarui secara waktu nyata."
+hint_building_production_bonus,"Bonus Produksi
+Semakin tinggi keterampilan <hint=hint_skill_management>Manajemen</hint> penguasa-manajer yang ditugaskan di Aula,, semakin efektif <hint=hint_inspection>instruksi</hint> mereka, dan semakin banyak yang akan diproduksi bangunan. Untuk bangunan sumber daya, ini berarti sumber daya tambahan, dan untuk bangunan produksi (seperti Pabrik Bir), ini berarti peningkatan kecepatan produksi.
 
-Assigning specialized workers (configured on the left) also grants a production bonus.
+Menugaskan pekerja khusus (dikonfigurasi di sebelah kiri) juga memberikan bonus produksi.
 
-Production bonus from the manager:
+Bonus produksi dari manajer:
 {optional_bonus_inspector}
 
-Bonus to production from building level:
+Bonus produksi dari level bangunan:
 {optional_bonus_building}"
-hint_gallows_punishments,"Execution
+hint_gallows_punishments,"Eksekusi
 [hint_punish]"
-hint_speculation_statistics,"Speculations
-Shows how many goods were bought up in your market by <hint=hint_nt_contrband_begin>speculators</hint> in the last 3 days. These goods then left the province."
-hint_statistic_menu,"Statistics Menu
-Here you can view all the data on your province's economy and population.
+hint_speculation_statistics,"Spekulasi
+Menunjukkan berapa banyak barang yang dibeli secara besar-besaran di pasar Anda oleh <hint=hint_nt_contrband_begin>spekulator</hint> dalam 3 hari terakhir. Barang-barang ini kemudian meninggalkan provinsi."
+hint_statistic_menu,"Menu Statistik
+Di sini Anda dapat melihat semua data tentang ekonomi dan populasi provinsi Anda.
 
 <img=hint_statistic_menu></img>
 
-$ Hover over the column icons to see what they represent.
-$ In the characters tab, you can also hover over mood values to see the most common negative thoughts."
-hint_dynasty_menu,"Dynasty Menu
-Here you can set permissions for your lords.
+$ Arahkan kursor ke ikon kolom untuk melihat apa yang mereka wakili.
+$ Di tab karakter, Anda juga dapat mengarahkan kursor ke nilai suasana hati untuk melihat pikiran negatif paling umum."
+hint_dynasty_menu,"Menu Dinasti
+Di sini Anda dapat mengatur izin untuk para penguasa Anda.
 
-$ By default, only the consumption of <hint=hint_resource_nectar>Nectar</hint> is prohibited, as it can have dangerous <hint=hint_addict>consequences</hint>. Remove this restriction, and the lord will start consuming nectar instead of alcohol.
-$ Prohibiting <hint=hint_alcohol>Alcohol</hint> consumption will help combat alcoholism (it will likely subside after a few days of abstinence).
-$ Prohibiting <hint=hint_resource_meat>Meat</hint> consumption will give you more control over how the resource is used if your stockpile is scarce in the warehouse. For example, if one of the lords is obsessed with eating meat, prohibit its consumption for everyone except him to ensure he can maintain access.
-$ If you notice your character repeatedly losing at dice to a gambling guest, prohibiting this behavior can also help."
-hint_prisoners_service,"Prisoner Management
-This section displays the number of <hint=hint_persons_slave>prisoners</hint> living in your <hint=hint_bld_slaves_barrack>Prisoners Ward</hint> and being overseen by a warden - a worker of the Prisoners Ward.
+$ Secara default, hanya konsumsi <hint=hint_resource_nectar>Nektar</hint> yang dilarang, karena itu bisa memiliki konsekuensi <hint=hint_addict>berbahaya</hint>. Hapus pembatasan ini, dan penguasa akan mulai mengonsumsi nektar alih-alih alkohol.
+$ Melarang konsumsi <hint=hint_alcohol>alkohol</hint> akan membantu memerangi Alkoholisme (kemungkinan akan mereda setelah beberapa hari pantang).
+$ Melarang konsumsi <hint=hint_resource_meat>Daging</hint> akan memberi Anda kontrol lebih atas penggunaan sumber daya jika stok Anda langka di gudang. Misalnya, jika salah satu penguasa terobsesi dengan makan daging, larang konsumsinya untuk semua orang kecuali dia untuk memastikan ia bisa mempertahankan akses.
+$ Jika Anda perhatikan karakter Anda berulang kali kalah bermain dadu dengan tamu judi, melarang perilaku ini juga bisa membantu."
+hint_prisoners_service,"Manajemen Tahanan
+Bagian ini menampilkan jumlah <hint=hint_persons_slave>Tahanan</hint> yang tinggal di <hint=hint_bld_slaves_barrack>Blok Penjara</hint> Anda dan diawasi oleh sipir - seorang pekerja Blok Penjara.
 
-If there are not enough Prisoners Wards, prisoners will live outside and will not have a warden to bring them food."
-hint_motive_task_eat,"Eat
-Click to make the lord drop the current activity and go fulfill the <hint=hint_need_food>need for food</hint>."
-hint_display_event_lord_want_to_kill_someone,"The lord is planning a murder
-The lord has grown to hate his enemy so intensely that he feels a burning desire to kill him, and in a few days, he will attempt to do so.
+Jika tidak cukup Blok Penjara, tahanan akan tinggal di luar dan tidak akan memiliki sipir untuk membawa makanan mereka."
+hint_motive_task_eat,"Makan
+Klik untuk membuat penguasa meninggalkan aktivitas saat ini dan pergi memenuhi <hint=hint_need_food>kebutuhan makanan</hint>."
+hint_display_event_lord_want_to_kill_someone,"Penguasa sedang merencanakan pembunuhan
+Penguasa telah tumbuh membenci musuhnya begitu intens sehingga ia merasakan keinginan membara untuk membunuhnya, dan dalam beberapa hari, ia akan mencoba melakukannya.
 
-As a result, you will end up with one corpse and one criminal despised by the entire family.
+Akibatnya, Anda akan berakhir dengan satu mayat dan satu penjahat yang dibenci seluruh keluarga.
 
-$ Try inviting them to spend time together or go hunting, while boosting their moods beforehand to ensure a productive conversation. If one of them isn't too angry at the other, he might even apologize. The desire for death will be removed if the relationship improves to at least <red>{remove_kill_desire}</red>.
-$ As a last resort, try arranging a <hint=hint_duel>duel</hint>. Duels can result in the death of either combatant, but even if both lords survived, the desire to kill will be removed when the duel is over."
-hint_motive_task_eat_unavailable,"Unavailable
-At this moment, the lord cannot perform this action.
+$ Coba undang mereka untuk menghabiskan waktu bersama atau berburu, sambil meningkatkan suasana hati mereka terlebih dahulu untuk memastikan percakapan yang produktif. Jika salah satu dari mereka tidak terlalu marah pada yang lain, ia mungkin bahkan meminta maaf. Keinginan untuk kematian akan dihilangkan jika hubungan membaik setidaknya <red>{remove_kill_desire}</red>.
+$ Sebagai upaya terakhir, coba atur <hint=hint_duel>duel</hint>. Duel bisa mengakibatkan kematian salah satu petarung, tapi bahkan jika kedua penguasa selamat, keinginan untuk membunuh akan dihilangkan ketika duel selesai."
+hint_motive_task_eat_unavailable,"Tidak Tersedia
+Pada saat ini, penguasa tidak dapat melakukan aksi ini.
 
-This could be due to a lack of food in the <hint=hint_bld_castle>Hall</hint>'s storehouse, or the lord is unable to move."
-hint_motive_task_sleep,"Go to Sleep
-Click to make the lord drop the current activity and go to sleep to fulfill the <hint=hint_need_sleep>need for sleep</hint>."
-hint_motive_task_sleep_unavailable,"Unavailable
-At this moment, the lord cannot perform this action.
+Ini bisa karena kekurangan makanan di gudang <hint=hint_bld_castle>Aula</hint>, atau penguasa tidak mampu bergerak."
+hint_motive_task_sleep,"Tidur
+Klik untuk membuat penguasa meninggalkan aktivitas saat ini dan pergi tidur untuk memenuhi <hint=hint_need_sleep>kebutuhan tidur</hint>."
+hint_motive_task_sleep_unavailable,"Tidak Tersedia
+Pada saat ini, penguasa tidak dapat melakukan aksi ini.
 
-Most likely, he is unable to move."
-hint_motive_task_pray,"Pray
-Click to make the lord abandon the current task and go pray to gain a positive thought from communing with Sophia.
+Kemungkinan besar, ia tidak mampu bergerak."
+hint_motive_task_pray,"Berdoa
+Klik untuk membuat penguasa meninggalkan tugas saat ini dan pergi berdoa untuk mendapatkan pikiran positif dari pergaulan dengan Sophia.
 
-If possible, he will try to pray in the <hint=hint_bld_temple>Temple</hint> or at the <hint=hint_bld_altar>Altar</hint>. If these buildings are not available, or if it is nighttime, he will pray at home."
-hint_motive_task_pray_unavalilable,"Unavailable
-At this moment, the lord cannot perform this action.
+Jika memungkinkan, ia akan mencoba berdoa di <hint=hint_bld_temple>Kuil</hint> atau di <hint=hint_bld_altar>Altar</hint>. Jika bangunan ini tidak tersedia, atau jika malam hari, ia akan berdoa di rumah."
+hint_motive_task_pray_unavalilable,"Tidak Tersedia
+Pada saat ini, penguasa tidak dapat melakukan aksi ini.
 
-Most likely, the required space for prayer is unavailable, or he simply cannot move."
-hint_motive_task_rest,"Go Rest
-Click to make the lord drop the current activity and go drink <hint=hint_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint> to fulfill the <hint=hint_need_fun>need for rest</hint>.
+Kemungkinan besar, ruang yang diperlukan untuk doa tidak tersedia, atau ia hanya tidak mampu bergerak."
+hint_motive_task_rest,"Istirahat
+Klik untuk membuat penguasa meninggalkan aktivitas saat ini dan pergi minum <hint=hint_alcohol>alkohol</hint> atau <hint=hint_resource_nectar>Nektar</hint> untuk memenuhi <hint=hint_need_fun>kebutuhan istirahat</hint>.
 
-Hint: Consumption of Nectar is prohibited for lords by default. You can allow it in the dynasty menu (button at the bottom with a crown icon)."
-hint_motive_task_rest_unavalilable,"Unavailable
-At this moment, the lord cannot perform this action.
+Petunjuk: Konsumsi Nektar dilarang untuk penguasa secara default. Anda bisa mengizinkannya di menu Dinasti (tombol di bawah dengan ikon mahkota)."
+hint_motive_task_rest_unavalilable,"Tidak Tersedia
+Pada saat ini, penguasa tidak dapat melakukan aksi ini.
 
-The reason could be:
-$ A lack of <hint=hint_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint> in the <hint=hint_bld_castle>Hall</hint>'s storehouse
-$ The lord is unable to move
-$ He drank recently but was interrupted and didn't have a chance to rest
-$ Restrictions are set in the Dynasty menu (button with a crown at the bottom)."
-hint_motive_task_sex,"Have Sex
-Click to make the lord drop the current activity and bribe a peasant to fulfill the need for sex.
+Alasannya bisa:
+$ Kekurangan <hint=hint_alcohol>alkohol</hint> atau <hint=hint_resource_nectar>Nektar</hint> di gudang <hint=hint_bld_castle>Aula</hint>
+$ Penguasa tidak mampu bergerak
+$ Ia baru minum tapi terganggu dan tidak sempat istirahat
+$ Pembatasan ditetapkan di Menu Dinasti (tombol dengan mahkota di bawah)."
+hint_motive_task_sex,"Hubungan Seksual
+Klik untuk membuat penguasa meninggalkan aktivitas saat ini dan menyuap petani untuk memenuhi kebutuhan seksual.
 
-$ Bribing a peasant for sex is considered a <hint=hint_sin>sin</hint> and adultery if the lord is married. The action might cause more harm than the thoughts of lacking sex.
-$ The lord will spend <hint=hint_resource_rune>{runes}</hint> on the bribe."
-hint_motive_task_sex_unavalilable,"Unavailable
-At this moment, the lord cannot perform this action.
+$ Menyuap petani untuk seks dianggap sebagai <hint=hint_sin>dosa</hint> dan perzinahan jika penguasa sudah menikah. Aksi ini mungkin menyebabkan lebih banyak kerugian daripada pikiran kekurangan seks.
+$ Penguasa akan menghabiskan <hint=hint_resource_rune>{runes}</hint> untuk suap."
+hint_motive_task_sex_unavalilable,"Tidak Tersedia
+Pada saat ini, penguasa tidak dapat melakukan aksi ini.
 
-It is possible the lord is deeply in love with someone, lacks enough <hint=hint_resource_rune>Holy Rings</hint>, or already has a date planned."
-hint_global_map_object_garrison,"Army Strength
-Aggregate metrics that provide an approximate assessment of the army's strength. Exact composition of your warriors can be seen in the third tab of the city (Army).
+Mungkin penguasa sedang jatuh cinta dalam dengan seseorang, kekurangan <hint=hint_resource_rune>Cincin Suci</hint> yang cukup, atau sudah memiliki kencan yang direncanakan."
+hint_global_map_object_garrison,"Kekuatan Pasukan
+Metrik agregat yang memberikan penilaian perkiraan kekuatan pasukan. Komposisi tepat prajurit Anda dapat dilihat di tab ketiga kota (Pasukan).
 
-$ The first number indicates the total cost of all the warriors' weapons and armor.
-$ The second indicates the number of warriors in the province.
-$ The third indicates the average combat level of your warriors."
-hint_new_game_neighbore_settings_type_of_state,"Expansion of boundaries
-Create a State by clicking the buttons on the province borders and then determine its type."
-hint_new_game_faction_temperament_ambitious,"Ambitious King
-A strong, talented, and aggressive ruler aiming to conquer Norland.
+$ Angka pertama menunjukkan biaya total semua senjata dan zirah prajurit.
+$ Yang kedua menunjukkan jumlah prajurit di provinsi.
+$ Yang ketiga menunjukkan tingkat tempur rata-rata prajurit Anda."
+hint_new_game_neighbore_settings_type_of_state,"Perluasan Batas
+Buat negara dengan mengklik tombol di batas provinsi dan kemudian tentukan jenisnya."
+hint_new_game_faction_temperament_ambitious,"Raja Ambisius
+Seorang penguasa yang kuat, berbakat, dan agresif yang bertujuan untuk menaklukkan Norland.
 
-Poses a significant danger, so it is best not to position this ruler near the starting province."
-hint_new_game_neighbore_type_of_state_independent,"Independent Province
-A province that is not part of any other state."
-hint_new_game_neighbore_type_of_state_vassal,"Vassal
-A province that is part of a vassal kingdom. It is obliged to pay tribute to the suzerain, who protects it.
+Menimbulkan bahaya yang signifikan, jadi sebaiknya jangan letakkan penguasa ini di dekat provinsi awal."
+hint_new_game_neighbore_type_of_state_independent,"Provinsi Independen
+Provinsi yang tidak termasuk dalam negara mana pun."
+hint_new_game_neighbore_type_of_state_vassal,"Vasal
+Provinsi yang merupakan bagian dari kerajaan vasal. Ia wajib membayar upeti kepada suzerain, yang melindunginya.
 
-Politically restricted, meaning it cannot, for example, directly attack neighbors."
-hint_new_game_neighbore_type_of_state_ally,"Ally
-A province that is part of a free city alliance. It does not pay tribute but has obligations to defend its allies.
+Secara politik dibatasi, artinya tidak bisa, misalnya, menyerang tetangga secara langsung."
+hint_new_game_neighbore_type_of_state_ally,"Sekutu
+Provinsi yang merupakan bagian dari aliansi kota bebas. Ia tidak membayar upeti tapi memiliki kewajiban untuk membela sekutunya.
 
-Politically restricted, meaning it cannot, for example, directly attack neighbors."
-hint_new_game_neighbore_type_of_state_alliance_leader,"Head of the Alliance
-A province that is the leader of the free city alliance.
+Secara politik dibatasi, artinya tidak bisa, misalnya, menyerang tetangga secara langsung."
+hint_new_game_neighbore_type_of_state_alliance_leader,"Kepala Aliansi
+Provinsi yang merupakan pemimpin aliansi kota bebas.
 
-There are no trade restrictions within the alliance, and the head of the alliance gets a discount."
+Tidak ada batasan perdagangan dalam aliansi, dan kepala aliansi mendapatkan diskon."
 hint_new_game_neighbore_type_of_state_suzrain,"Suzerain
-A province that is the head of a vassal kingdom.
+Provinsi yang merupakan kepala kerajaan vasal.
 
-Keeps its vassals in check by force, receiving tribute from them."
-hint_new_game_faction_temperament_random,Random
-hint_new_game_neighbore_trade_hint,"City Sells
-The goods that this province will trade at the start of the game."
-hint_new_game_neighbore_trade_fixed,"Unavailable
-The sale of iron in this province cannot be changed as it is crucial for the late stage of the game."
-hint_new_game_neighbore_trade_random,Random
-hint_new_game_player_village_random,Random
-hint_new_game_player_village_hint,"Village Tribute
-Select the resources that your villages will provide every few days."
-hint_nt_hate,"Hate
-When one lord hates another, it may end in murder. You have a few days to <hint=hint_tutorial_hate>take action</hint>.
+Menjaga vasalnya dengan kekuatan, menerima upeti dari mereka."
+hint_new_game_faction_temperament_random,Acak
+hint_new_game_neighbore_trade_hint,"Kota Menjual
+Barang-barang yang akan diperdagangkan provinsi ini di awal permainan."
+hint_new_game_neighbore_trade_fixed,"Tidak Tersedia
+Penjualan besi di provinsi ini tidak bisa diubah karena krusial untuk tahap akhir permainan."
+hint_new_game_neighbore_trade_random,Acak
+hint_new_game_player_village_random,Acak
+hint_new_game_player_village_hint,"Upeti Desa
+Pilih sumber daya yang akan disediakan desa Anda setiap beberapa hari."
+hint_nt_hate,"Kebencian
+Ketika satu penguasa membenci yang lain, itu mungkin berakhir dengan pembunuhan. Anda memiliki beberapa hari untuk <hint=hint_tutorial_hate>bertindak</hint>.
 
-List of social thoughts that led to hatred:
+Daftar pemikiran sosial yang menyebabkan kebencian:
 
 {mind_list}"
 hint_savefile,"{king_name}, {province_name}
-Day {day}
-Provinces under control: {state_size}
+Hari {day}
+Provinsi di bawah kendali: {state_size}
 
-Game difficulty: {difficulty}
+Kesulitan permainan: {difficulty}
 {optional_iron_will_mode}
 
-Modifiers: 
+Modifier: 
 {list}"
-hint_untitled_lord,"Lesser Lord
-A character of noble blood but without a title. The King can determine their fate but cannot give them direct orders.
+hint_untitled_lord,"Penguasa Rendahan
+Seorang karakter keturunan bangsawan tapi tanpa gelar. Raja dapat menentukan nasib mereka tapi tidak bisa memberikan perintah langsung.
 
 <img=hint_untitled_lord></img>
 
-Usually, lesser lords are grown children or lords who were stripped of their titles.
+Biasanya, penguasa rendahan adalah anak-anak yang sudah dewasa atau penguasa yang dicopot gelarnya.
 
-Lesser lords live in the province and wait for their fate to follow one of the possible paths:
-$ Marriage
-$ Lordship
-$ Knighthood
-$ Free Lord
-$ Leaving to become a priest"
-hint_mutator_lazy_workers,"Lazy Workers
-After the instructions expire, work in the buildings will be completely halted.
+Penguasa rendahan tinggal di provinsi dan menunggu nasib mereka mengikuti salah satu jalur yang mungkin:
+$ Pernikahan
+$ Kepemimpinan
+$ Ksatria
+$ Penguasa Bebas
+$ Pergi menjadi pendeta"
+hint_mutator_lazy_workers,"Pekerja Malas
+Setelah instruksi kedaluwarsa, pekerjaan di bangunan akan dihentikan sepenuhnya.
 
-An additional challenge for experienced players."
-hint_building_inspection_overtime,"Instructions are outdated
-The managing lord has not visited this production site for three days already, and the workers see no point in trying.
+Tantangan tambahan untuk pemain berpengalaman."
+hint_building_inspection_overtime,"Instruksi Kedaluwarsa
+Penguasa manajer belum mengunjungi situs produksi ini selama tiga hari, dan pekerja melihat tidak ada gunanya mencoba.
 
-Productivity has dropped by {work_penalty}"
+Produktivitas telah turun sebesar {work_penalty}"
 hint_injury_remain_time,"~
-Time until <hint=hint_recovery>recovery</hint>: {time}"
+Waktu hingga <hint=hint_recovery>pemulihan</hint>: {time}"
 hint_injury_inflamed_wound_chance,"~
-$ With a {inflamed_wound_chance}% chance, it can cause an <hint=hint_inflamed_wound>inflamed wound</hint>."
+$ Dengan peluang {inflamed_wound_chance}%, itu bisa menyebabkan <hint=hint_inflamed_wound>luka meradang</hint>."
 hint_injury_pain_shock_chance,"~
-$ With a {pain_shock_chance}% chance, it can cause a <hint=hint_painful_shock>painful shock</hint>."
+$ Dengan peluang {pain_shock_chance}%, itu bisa menyebabkan <hint=hint_painful_shock>syok menyakitkan</hint>."
 hint_not_heal,"~
-$ The wound was not treated with <hint=hint_resource_med>Medical Salve</hint>. There is a possibility of infection with <hint=hint_poisoned>gangrene</hint> within: {time}."
-hint_inspection_friendly,"Instructed
-The character has received instructions from the lord and knows what to do in the near future.
+$ Luka tidak dirawat dengan <hint=hint_resource_med>Salep Medis</hint>. Ada kemungkinan infeksi dengan <hint=hint_poisoned>Luka Busuk</hint> dalam waktu: {time}."
+hint_inspection_friendly,"Diinstruksikan
+Karakter telah menerima instruksi dari penguasa dan tahu apa yang harus dilakukan dalam waktu dekat.
 
-Will end in: {time}"
-hint_th_inspection_fatigue,"Management fatigue
-Every time a lord gives instructions to production workers, the lord receives the thought ""fatigue"" for each visited building. This thought can accumulate with each passing day.
+Akan berakhir dalam: {time}"
+hint_th_inspection_fatigue,"Kelelahan Manajemen
+Setiap kali penguasa memberikan instruksi kepada pekerja produksi, penguasa menerima pikiran ""kelelahan"" untuk setiap bangunan yang dikunjungi. Pikiran ini bisa menumpuk setiap hari yang berlalu.
 
-The best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>."
-hint_th_fatigue,"Work fatigue
-Every day, when a character works all day, they receive the thought ""fatigue"". This thought can accumulate with each passing day.
+Cara terbaik untuk meringankannya adalah minum <hint=hint_resource_alcohol>alkohol</hint> atau <hint=hint_resource_nectar>Nektar</hint>."
+hint_th_fatigue,"Kelelahan Kerja
+Setiap hari, ketika karakter bekerja sepanjang hari, ia menerima pikiran ""kelelahan"". Pikiran ini bisa menumpuk setiap hari yang berlalu.
 
-The best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>."
-hint_th_speach_fatigue,"Communication fatigue
-Every time a lord <hint=hint_learning>learns or teaches</hint>, <hint=hint_sermon>preaches</hint>, or performs another <hint=hint_action>communication-related task</hint>, they receive the thought ""Communication fatigue."" This thought tends to accumulate with each passing day.
+Cara terbaik untuk meringankannya adalah minum <hint=hint_resource_alcohol>alkohol</hint> atau <hint=hint_resource_nectar>Nektar</hint>."
+hint_th_speach_fatigue,"Kelelahan Bicara
+Setiap kali penguasa <hint=hint_learning>belajar atau mengajar</hint>, <hint=hint_sermon>khotbah</hint>, atau melakukan tugas terkait <hint=hint_action>komunikasi</hint> lainnya, ia menerima pikiran ""Kelelahan Bicara."" Pikiran ini cenderung menumpuk setiap hari yang berlalu.
 
-The best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>."
-hint_th_study_fatigue,"Knowledge fatigue
-Every time a lord <hint=hint_book_learn>learns</hint> or <hint=hint_book_rewrite>rewrites</hint> a book, they experience the thought ""Knowledge fatigue"". This thought has the tendency to accumulate with each passing day.
+Cara terbaik untuk meringankannya adalah minum <hint=hint_resource_alcohol>alkohol</hint> atau <hint=hint_resource_nectar>Nektar</hint>."
+hint_th_study_fatigue,"Kelelahan Belajar
+Setiap kali penguasa <hint=hint_book_learn>belajar</hint> atau <hint=hint_book_rewrite>tulis ulang</hint> buku, ia mengalami pikiran ""Kelelahan Belajar"". Pikiran ini cenderung menumpuk setiap hari yang berlalu.
 
-The best way to alleviate it is to drink <hint=hint_resource_alcohol>alcohol</hint> or <hint=hint_resource_nectar>Nectar</hint>."
-hint_th_hangover,"Hangover
-A heavy thought in the morning after consuming an excessive amount of <hint=hint_alcohol>alcohol</hint>."
-hint_inflamed_wound,"Infected wound
-The <hint=hint_wounds>wound</hint> has become infected and requires treatment with <hint=hint_resource_med>Medical Salve</hint>. Otherwise, the infection may develop into <hint=hint_poisoned>gangrene</hint>!
+Cara terbaik untuk meringankannya adalah minum <hint=hint_resource_alcohol>alkohol</hint> atau <hint=hint_resource_nectar>Nektar</hint>."
+hint_th_hangover,"Mabuk Berat
+Pikiran berat di pagi hari setelah mengonsumsi jumlah berlebih <hint=hint_alcohol>alkohol</hint>."
+hint_inflamed_wound,"Luka meradang
+<hint=hint_wounds>Luka</hint> telah terinfeksi dan memerlukan pengobatan dengan <hint=hint_resource_med>Salep Medis</hint>. Jika tidak, infeksi mungkin berkembang menjadi <hint=hint_poisoned>Luka Busuk</hint>!
 
-Onset of Gangrene: {time}"
-hint_blood_poisoning,"Gangrene
-The <hint=hint_wounds>wounds</hint> have become inflamed, leading to tissue necrosis and blood infection due to lack of timely treatment with <hint=hint_resource_med>Medical Salve</hint>.
+Awal Luka Busuk: {time}"
+hint_blood_poisoning,"Luka Busuk
+<hint=hint_wounds>luka</hint> telah meradang, menyebabkan nekrosis jaringan dan infeksi darah karena kurangnya pengobatan tepat waktu dengan <hint=hint_resource_med>Salep Medis</hint>.
 
-Death in: {time}"
-hint_fatigue,"Exhaustion
-The lord has collapsed from fatigue and fallen asleep, as his need for <hint=hint_need_sleep>sleep</hint> is at zero.
+Kematian dalam: {time}"
+hint_fatigue,"Kelelahan
+Penguasa telah roboh karena kelelahan dan tertidur, karena kebutuhannya untuk <hint=hint_need_sleep>tidur</hint> mencapai nol.
 
-Will wake up in: {time}"
+Akan bangun dalam: {time}"
 hint_blindness,"Blindness  
 <b>For lords:</b>  
 $ The character cannot read or copy books. Some other actions are also restricted.  

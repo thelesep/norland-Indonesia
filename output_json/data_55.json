@@ -1,12 +1,12 @@
 [
-  "Lack of intelligence\nThe lord's <hint=hint_skill_knowledge>Intelligence</hint> skill is too low to work with this knowledge.\n\n$ For <b>gray</b>-level knowledge, a minimum skill of 3 is required.\n$ For <b>green</b>-level knowledge, a minimum skill of 9 is required.\n$ For <b>purple</b>-level knowledge, a minimum skill of 13 is required.",
-  "Does not know the language\nThe lord does not know the {dialect_name} language and cannot work with this knowledge.",
-  "Technology\nTo construct this building, you need to acquire a book from the <hint=hint_holy_caravan>Holy Caravan and study it in the Knowledge menu.",
-  "Technology\nTo construct this building, one of your lords needs to study the corresponding <hint=hint_idea>knowledge</hint>.\n\n<b>Hint:</b> The required book is already in your library. Assign a lord to study it via the Knowledge menu.",
-  "Limit reached\nThe construction limit for this building has been reached.",
-  "Technology\nTo upgrade this building, one of your lords must research the corresponding <hint=hint_idea>knowledge.</hint>",
-  "Assign Prisoners\nAppoint workers from among the <hint=hint_persons_slave>prisoner</hint> population. They work 3 hours longer than all other workers, which results in a significant increase in productivity.\n\n[hint_priority_workers]",
-  "Assign Nectar Addicts\nAppoint workers from among the <hint=hint_addict>nectar addict</hint> population.\n\nThey work faster than regular workers (<b>+30%</b> productivity bonus).\n\n[hint_priority_workers]",
-  "Assign Loyalists\nAppoint workers from among the <hint=hint_loyalist>loyalist</hint> population.\n\nThey work more diligently than regular workers, providing a <b>+30%</b> productivity bonus.\n\n[hint_priority_workers]",
-  "Assign Kaiden\nAppoint workers from among the <hint=hint_culture_gwelts>kaiden</hint> population.\n\nTheir traditional skills allow them to work in weapon and armor forges 20% more efficiently.\n\n[hint_priority_workers]"
+  "Kekurangan Kecerdasan\nKeterampilan <hint=hint_skill_knowledge>Kecerdasan</hint> penguasa terlalu rendah untuk bekerja dengan pengetahuan ini.\n\n$ Untuk pengetahuan tingkat <b>abu-abu</b>, diperlukan keterampilan minimum 3.\n$ Untuk pengetahuan tingkat <b>hijau</b>, diperlukan keterampilan minimum 9.\n$ Untuk pengetahuan tingkat <b>ungu</b>, diperlukan keterampilan minimum 13.",
+  "Tidak Mengetahui Bahasa\nPenguasa tidak mengetahui bahasa {dialect_name} dan tidak dapat bekerja dengan pengetahuan ini.",
+  "Teknologi\nUntuk membangun bangunan ini, Anda perlu memperoleh buku dari <hint=hint_holy_caravan>Karavan Suci</hint> dan mempelajarinya di menu Pengetahuan.",
+  "Teknologi\nUntuk membangun bangunan ini, salah satu penguasa Anda perlu mempelajari <hint=hint_idea>pengetahuan</hint> yang sesuai.\n\n<b>Petunjuk:</b> Buku yang diperlukan sudah ada di perpustakaan Anda. Tetapkan penguasa untuk mempelajarinya melalui menu Pengetahuan.",
+  "Batas Tercapai\nBatas pembangunan untuk bangunan ini telah tercapai.",
+  "Teknologi\nUntuk meningkatkan bangunan ini, salah satu penguasa Anda harus meneliti <hint=hint_idea>pengetahuan.</hint>",
+  "Tetapkan Tahanan\nTunjuk pekerja dari antara populasi <hint=hint_persons_slave>tahanan</hint>. Mereka bekerja 3 jam lebih lama daripada semua pekerja lain, yang menghasilkan peningkatan produktivitas yang signifikan.\n\n[hint_priority_workers]",
+  "Tetapkan Pecandu Nektar\nTunjuk pekerja dari antara populasi <hint=hint_addict>pecandu nektar</hint>.\n\nMereka bekerja lebih cepat daripada pekerja biasa (<b>+30%</b> bonus produktivitas).\n\n[hint_priority_workers]",
+  "Tetapkan Loyalis\nTunjuk pekerja dari antara populasi <hint=hint_loyalist>loyalis</hint>.\n\nMereka bekerja lebih tekun daripada pekerja biasa, memberikan bonus produktivitas <b>+30%</b>.\n\n[hint_priority_workers]",
+  "Tetapkan Jawa\nTunjuk pekerja dari antara populasi <hint=hint_culture_gwelts>jawa</hint>.\n\nKeterampilan tradisional mereka memungkinkan mereka bekerja di Tempa Senjata dan Tempa Zirah 20% lebih efisien.\n\n[hint_priority_workers]"
 ]

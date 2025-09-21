@@ -1,12 +1,12 @@
 [
-  "Full Help",
-  "Loyalty\n<hint=hint_loyalty>Loyalty</hint> indicates how devoted the lord is to their <hint=hint_persons_king>king</hint>. With a value below <red>25</red>, the lord may leave the settlement or start a rebellion.\n{optional_loyalty_log}",
-  "Hostage's Loyalty\nIndicates how devoted the lord is to your king. Raise it above zero, and then upon release, the hostage will decide to stay with you.\n\n{optional_loyalty_log}",
-  "Mood\nIndicates how happy the character is. With values below <red>25</red>, the lord will refuse to carry out your orders and fall into depression, which can lead to a nervous breakdown.\n{optional_mood_reasons}",
-  "Kaiden Values\nKaiden will be pleased if their king bravely conducts military actions on the world map.",
-  "Kaiden Xenophobia\nFor many centuries, the Varns troubled the empire with raids, while the Kaiden defended it. Echoes of this ancient conflict are preserved in songs and proverbs. Kaiden do not trust the Varns and consider them wild people without honor.\n\n$ In case of dissatisfaction, Kaiden attack the Varn people.",
-  "Kaiden Traditional Skills\nKaiden peasants play with weapons from childhood, which makes them more efficient workers in Weapon Forge, Armor Forge, and Archery Workshop",
-  "Kaiden Knowledge\nBooks in the Kaiden language are naturally dedicated to weapons, military art, and loyalty",
-  "Tanaya Values\nTanayas will be pleased if their king commits dark deeds, bribes, and seductions on the world map.",
-  "Tanaya Xenophobia\nThe greedy babblers of the Makha have strayed from the Holy Mother and, in their pride, spawned heresy that consumed everything the Tanaya had built over the centuries.\n\n$ In case of dissatisfaction, Tanaya attack the Makha people."
+  "Bantuan Lengkap",
+  "Kesetiaan\n<hint=hint_loyalty>Kesetiaan</hint> menunjukkan seberapa setia penguasa terhadap <hint=hint_persons_king>raja</hint>-nya. Dengan nilai di bawah <red>25</red>, penguasa mungkin meninggalkan pemukiman atau memulai pemberontakan.\n{optional_loyalty_log}",
+  "Kesetiaan Sandera\nMenunjukkan seberapa setia penguasa terhadap raja Anda. Naikkan di atas nol, dan kemudian saat dibebaskan, sandera akan memutuskan untuk tetap bersama Anda.\n\n{optional_loyalty_log}",
+  "Suasana Hati\nMenunjukkan seberapa bahagia karakter itu. Dengan nilai di bawah <red>25</red>, penguasa akan menolak menjalankan perintah Anda dan jatuh ke dalam depresi, yang bisa mengarah pada penyakit mental.\n{optional_mood_reasons}",
+  "Nilai Jawa\nOrang Jawa akan senang jika rajanya dengan berani melakukan tindakan militer di peta dunia.",
+  "Xenofobia Jawa\nSelama berabad-abad, orang Sunda mengganggu kekaisaran dengan serangan, sementara orang Jawa membelanya. Gema konflik kuno ini terjaga dalam lagu dan pepatah. Orang Jawa tidak mempercayai orang Sunda dan menganggap mereka orang liar tanpa kehormatan.\n\n$ Dalam kasus ketidakpuasan, orang Jawa menyerang orang Sunda.",
+  "Keterampilan Tradisional Jawa\nPetani Jawa bermain dengan senjata sejak kecil, yang membuat mereka pekerja lebih efisien di Tempa Senjata, Tempa Zirah, dan Bengkel Pemanah",
+  "Pengetahuan Jawa\nBuku dalam bahasa Jawa secara alami didedikasikan untuk senjata, seni militer, dan kesetiaan",
+  "Nilai Madura\nOrang Madura akan senang jika rajanya melakukan perbuatan gelap, suap, dan godaan di peta dunia.",
+  "Xenofobia Madura\nPara pembual serakah Dayak telah menyimpang dari Ibu Suci dan, dalam kesombongan mereka, melahirkan bidah yang menghabiskan segala yang dibangun Madura selama berabad-abad.\n\n$ Dalam kasus ketidakpuasan, orang Madura menyerang orang Dayak."
 ]

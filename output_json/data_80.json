@@ -1,12 +1,12 @@
 [
-  "It is impossible to continue\nRuler {name} must be an adult - at least {age_adult} years old.\n\nTo raise his age, increase his skill level.",
-  "No equipment\n{soul_uuid} lacks any weapon or armor. According to the sacred rules of dueling, both opponents must be properly equipped.",
-  "The lord has no residence\nTo execute this order, the lord must have their own residence.",
-  "Knights\nThis mercenary is a <hint=hint_knight>Knight</hint>. \n\nThe knight is hired for {knight_duration_days} days, after which he will leave your settlement (but can be hired again).\n\n$ This is an experienced warrior who can also lead a squad in place of a lord. His <hint=hint_skill_command>Command</hint> skill is {skill_command_level}.  \n$ He arrives equipped with <hint=hint_resource_light_armor>light armor</hint> and a <hint=hint_resource_wooden_spear>spear</hint>.  \n$ It takes him one or two days to reach your settlement.",
-  "Knight\nFormerly failed Free Lords who chose to pursue a military career.\n\n<img=hint_knight></img>  \n\n$ Possess a high <hint=hint_skill_combat>Combat skill</hint>  \n$ Can lead a squad in place of a lord.  \n$ They can be hired in the Army menu for {knight_duration_days} days, after which they will leave.",
-  "How many peasants are employed in this area of the economy.",
-  "How many prisoners are employed in this area of the economy.",
-  "The wages received by peasants who work in this area of the economy.",
-  "Surplus of Iron\nThe mines will be rich in iron, so you won't have to worry about it running out.\n\n$ Each level of the mine contains <hint=hint_resource_iron>500</hint>.",
-  "Old Grudges\nKaiden and Varns, as well as Makha and Tanaya, hate each other more intensely.\n\nThis is a conflict modification for experienced players."
+  "Tidak mungkin melanjutkan\nPenguasa {name} harus dewasa - setidaknya {age_adult} tahun.\n\nUntuk menaikkan usianya, tingkatkan tingkat keterampilannya.",
+  "Tidak Ada Peralatan\n{soul_uuid} tidak memiliki senjata atau zirah apa pun. Menurut aturan suci duel, kedua lawan harus dilengkapi dengan benar.",
+  "Penguasa tidak memiliki kediaman\nUntuk menjalankan perintah ini, penguasa harus memiliki kediaman sendiri.",
+  "Ksatria\nTentara bayaran ini adalah seorang <hint=hint_knight>Ksatria</hint>. \n\nKsatria disewa selama {knight_duration_days} hari, setelah itu ia akan meninggalkan pemukiman Anda (tapi bisa disewa lagi).\n\n$ Ini adalah prajurit berpengalaman yang juga bisa memimpin regu menggantikan penguasa. Keterampilan <hint=hint_skill_command>Komando</hint>-nya adalah {skill_command_level}.  \n$ Ia tiba dilengkapi dengan <hint=hint_resource_light_armor>baju zirah ringan</hint> dan sebuah <hint=hint_resource_wooden_spear>tombak</hint>.  \n$ Dibutuhkan satu atau dua hari baginya untuk mencapai pemukiman Anda.",
+  "Ksatria\nDulu penguasa bebas yang gagal dan memilih mengejar karir militer.\n\n<img=hint_knight></img>  \n\n$ Memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint> yang tinggi  \n$ Bisa memimpin regu menggantikan penguasa.  \n$ Mereka bisa disewa di menu Pasukan selama {knight_duration_days} hari, setelah itu mereka akan pergi.",
+  "Berapa banyak Petani yang bekerja di bidang ekonomi ini.",
+  "Berapa banyak Tahanan yang bekerja di bidang ekonomi ini.",
+  "Upah yang diterima oleh Petani yang bekerja di bidang ekonomi ini.",
+  "Surplus Besi\nTambang akan kaya akan besi, jadi Anda tidak perlu khawatir kehabisan.\n\n$ Setiap level tambang berisi <hint=hint_resource_iron>500</hint>.",
+  "Dendam Lama\nJawa dan Sunda, serta Dayak dan Madura, saling membenci lebih intens.\n\nIni adalah modifikasi konflik untuk pemain berpengalaman."
 ]

@@ -1,12 +1,12 @@
 [
-  "Daytime Patrol\nMarks the area of daytime <hint=hint_persons_guard>patrolling</hint>.\n\nPosition patrol banners near production sites where prisoners work to prevent their escape, as well as places where lumberjacks and herbalists work to protect them from fleshwolf attacks.\n\nGuards from among your warriors will automatically go on patrol during <b>daytime</b>.",
-  "They brought tribute\nThe village chief of {village_name} has brought tribute. He will now deliver it to your warehouse.\n{optional_resources}",
-  "Box\n{resources}",
-  "Unavailable\nThe Chancellery can serve {limit} productions.",
-  "Approve\nCulture approves of the king's actions.",
-  "Wise Conversation\nA conversation takes place during which the character shares knowledge, provided the interlocutor has a sufficient Intelligence skill level.\n\nRequired Intelligence skill level:\n$ Basic knowledge (gray): level {var_1}\n$ Advanced knowledge (green): level {var_2}\n$ Superior knowledge (purple): level {var_3}\n\nOne random piece of knowledge is shared at a time, from simpler to more complex.\n\n<b>Additionally:</b>\n$ A character with the \"Enlightener\" trait can share any knowledge with anyone without restrictions, but their conversation partner may convert to their culture.\n$ If the character is <hint=hint_oldman>elderly</hint>, they will share two pieces of knowledge at once.\n\n<b>Hint:</b> You can invite friendly characters from other cities (or abduct them) to gain valuable knowledge — for example, knowledge from other cultures.",
-  "Not available\n{soul_uuid_1} has a low opinion of {soul_uuid_2}.\ncurrent: {opinion}\nrequired: {threshold}",
-  "The character is insane\nThe character is in a state of insanity and cannot perform this action.",
-  "The character is insane\nThe character is in a state of insanity and cannot perform this action.",
-  "Senility\nThe warrior is currently lost to madness."
+  "Patroli Siang\nMenandai area <hint=hint_persons_guard>patroli</hint> siang hari.\n\nLetakkan Bendera Patroli dekat situs produksi di mana Tahanan bekerja untuk mencegah pelarian mereka, serta tempat di mana penebang kayu dan ahli rempah bekerja untuk melindungi mereka dari serangan Fleshwolf.\n\nGarda dari prajurit Anda akan secara otomatis berpatroli selama <b>siang hari</b>.",
+  "Mereka Membawa Upeti\nKepala desa {village_name} telah membawa upeti. Ia sekarang akan mengantarkannya ke Gudang Anda.\n{optional_resources}",
+  "Kotak\n{resources}",
+  "Tidak Tersedia\nKanselari dapat melayani {limit} produksi.",
+  "Menyetujui\nBudaya menyetujui tindakan raja.",
+  "Percakapan Bijak\nPercakapan berlangsung di mana karakter berbagi pengetahuan, dengan syarat lawan bicara memiliki tingkat keterampilan Kecerdasan yang cukup.\n\nTingkat keterampilan Kecerdasan yang diperlukan:\n$ Pengetahuan dasar (abu-abu): tingkat {var_1}\n$ Pengetahuan lanjutan (hijau): tingkat {var_2}\n$ Pengetahuan unggul (ungu): tingkat {var_3}\n\nSatu potong pengetahuan acak dibagikan pada satu waktu, dari yang lebih sederhana ke yang lebih kompleks.\n\n<b>Selain itu:</b>\n$ Karakter dengan sifat \"Pencerah\" dapat berbagi pengetahuan apa pun dengan siapa pun tanpa batasan, tapi mitra percakapannya mungkin berpindah ke budayanya.\n$ Jika karakter adalah <hint=hint_oldman>lansia</hint>, ia akan berbagi dua potong pengetahuan sekaligus.\n\n<b>Petunjuk:</b> Anda dapat mengundang karakter ramah dari kota lain (atau menculik mereka) untuk memperoleh pengetahuan berharga — misalnya, pengetahuan dari budaya lain.",
+  "Tidak Tersedia\n{soul_uuid_1} memiliki pendapat rendah tentang {soul_uuid_2}.\nsaat ini: {opinion}\ndiperlukan: {threshold}",
+  "Karakter Gila\nKarakter berada dalam keadaan kegilaan dan tidak dapat melakukan aksi ini.",
+  "Karakter Gila\nKarakter berada dalam keadaan kegilaan dan tidak dapat melakukan aksi ini.",
+  "Kepikunan\nPrajurit ini saat ini telah hilang dalam kegilaan."
 ]

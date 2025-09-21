@@ -1,12 +1,12 @@
 [
-  "Vagabonds\nThese warriors were previously <hint=hint_persons_criminal>vagabonds</hint>, so military discipline causes them to suffer.\n\nThis may affect their <hint=hint_moral_level>bravery</hint> in battle.",
-  "Lord Missing\nAfter the defeat, the lord managed to escape from the battlefield, but their fate is unknown.\n\nThe situation will become clear in 2 days.",
-  "Unavailable\nNo manager appointed in the <hint=hint_bld_chancellery>Chancellery</hint>",
-  "Declare Yourself Emperor\nProclaim yourself the Emperor of Norland and challenge the <hint=hint_synode>Loving Family.</hint>\n\n<b>Hint:</b> By choosing this action, there will be no turning back, and you will begin the final trial in which you must defeat the punitive army of the <hint=hint_inqusitors>Inquisition</hint>. If you win the battle, you win the game.",
-  "Unavailable\nA sacred place is required for the ceremony - for example, an Altar or a Temple.",
-  "The Inquisition is on the way\nThe Matriarch and the entire <hint=hint_synode>Loving Family</hint> lament your fall into sin and blasphemy. They send the Strict Father to cleanse you with fire.\n\nSoon, the <hint=hint_inqusitors>Inquisition</hint> squads will arrive in your city, and the survivors will be forgiven.",
-  "All inhabitants\n\n{details_stack}",
-  "City Storage\nAll resources that are in your city's storage and available to you.",
-  "Resources in Inventories\nResources in the storage of production buildings and in the inventories of characters, including the weapons carried by warriors and lords.",
-  "Resources Produced\nThe amount of resources that have been produced and gathered throughout the day."
+  "Pengembara\nPara prajurit ini sebelumnya adalah <hint=hint_persons_criminal>pengembara</hint>, sehingga disiplin militer membuat mereka menderita.\n\nIni mungkin memengaruhi <hint=hint_moral_level>keberanian</hint> mereka dalam pertempuran.",
+  "Penguasa Hilang\nSetelah kekalahan, penguasa berhasil melarikan diri dari medan pertempuran, tapi nasib mereka tidak diketahui.\n\nSituasi akan menjadi jelas dalam 2 hari.",
+  "Tidak Tersedia\nTidak ada manajer yang ditugaskan di <hint=hint_bld_chancellery>Kanselari</hint>",
+  "Nyatakan Diri Anda Sebagai Kaisar\nProklamasikan diri Anda sebagai Kaisar Norland dan tantang <hint=hint_synode>Keluarga Penuh Kasih.</hint>\n\n<b>Petunjuk:</b> Dengan memilih tindakan ini, tidak ada jalan mundur, dan Anda akan memulai ujian akhir di mana Anda harus mengalahkan pasukan hukuman dari <hint=hint_inqusitors>Inkuisisi</hint>. Jika Anda menang dalam pertempuran, Anda memenangkan permainan.",
+  "Tidak Tersedia\nTempat suci diperlukan untuk upacara - misalnya, Altar atau Kuil.",
+  "Inkuisisi Sedang Menuju\nMatriark dan seluruh <hint=hint_synode>Keluarga Penuh Kasih</hint> meratapi jatuh Anda ke dalam dosa dan bidah. Mereka mengirim Bapa Ketat untuk membersihkan Anda dengan api.\n\nSegera, regu <hint=hint_inqusitors>Inkuisisi</hint> akan tiba di kota Anda, dan para penyintas akan diampuni.",
+  "Semua Penduduk\n\n{details_stack}",
+  "Penyimpanan Kota\nSemua sumber daya yang ada di penyimpanan kota Anda dan tersedia untuk Anda.",
+  "Sumber Daya di Inventaris\nSumber daya di penyimpanan bangunan produksi dan di inventaris karakter, termasuk senjata yang dibawa oleh prajurit dan penguasa.",
+  "Sumber Daya Diproduksi\nJumlah sumber daya yang telah diproduksi dan dikumpulkan sepanjang hari."
 ]

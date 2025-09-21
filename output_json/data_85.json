@@ -1,12 +1,12 @@
 [
-  "Random",
-  "Village Tribute\nSelect the resources that your villages will provide every few days.",
-  "Hate\nWhen one lord hates another, it may end in murder. You have a few days to <hint=hint_tutorial_hate>take action</hint>.\n\nList of social thoughts that led to hatred:\n\n{mind_list}",
-  "{king_name}, {province_name}\nDay {day}\nProvinces under control: {state_size}\n\nGame difficulty: {difficulty}\n{optional_iron_will_mode}\n\nModifiers: \n{list}",
-  "Lesser Lord\nA character of noble blood but without a title. The King can determine their fate but cannot give them direct orders.\n\n<img=hint_untitled_lord></img>\n\nUsually, lesser lords are grown children or lords who were stripped of their titles.\n\nLesser lords live in the province and wait for their fate to follow one of the possible paths:\n$ Marriage\n$ Lordship\n$ Knighthood\n$ Free Lord\n$ Leaving to become a priest",
-  "Lazy Workers\nAfter the instructions expire, work in the buildings will be completely halted.\n\nAn additional challenge for experienced players.",
-  "Instructions are outdated\nThe managing lord has not visited this production site for three days already, and the workers see no point in trying.\n\nProductivity has dropped by {work_penalty}",
-  "~\nTime until <hint=hint_recovery>recovery</hint>: {time}",
-  "~\n$ With a {inflamed_wound_chance}% chance, it can cause an <hint=hint_inflamed_wound>inflamed wound</hint>.",
-  "~\n$ With a {pain_shock_chance}% chance, it can cause a <hint=hint_painful_shock>painful shock</hint>."
+  "Acak",
+  "Upeti Desa\nPilih sumber daya yang akan disediakan desa Anda setiap beberapa hari.",
+  "Kebencian\nKetika satu penguasa membenci yang lain, itu mungkin berakhir dengan pembunuhan. Anda memiliki beberapa hari untuk <hint=hint_tutorial_hate>bertindak</hint>.\n\nDaftar pemikiran sosial yang menyebabkan kebencian:\n\n{mind_list}",
+  "{king_name}, {province_name}\nHari {day}\nProvinsi di bawah kendali: {state_size}\n\nKesulitan permainan: {difficulty}\n{optional_iron_will_mode}\n\nModifier: \n{list}",
+  "Penguasa Rendahan\nSeorang karakter keturunan bangsawan tapi tanpa gelar. Raja dapat menentukan nasib mereka tapi tidak bisa memberikan perintah langsung.\n\n<img=hint_untitled_lord></img>\n\nBiasanya, penguasa rendahan adalah anak-anak yang sudah dewasa atau penguasa yang dicopot gelarnya.\n\nPenguasa rendahan tinggal di provinsi dan menunggu nasib mereka mengikuti salah satu jalur yang mungkin:\n$ Pernikahan\n$ Kepemimpinan\n$ Ksatria\n$ Penguasa Bebas\n$ Pergi menjadi pendeta",
+  "Pekerja Malas\nSetelah instruksi kedaluwarsa, pekerjaan di bangunan akan dihentikan sepenuhnya.\n\nTantangan tambahan untuk pemain berpengalaman.",
+  "Instruksi Kedaluwarsa\nPenguasa manajer belum mengunjungi situs produksi ini selama tiga hari, dan pekerja melihat tidak ada gunanya mencoba.\n\nProduktivitas telah turun sebesar {work_penalty}",
+  "~\nWaktu hingga <hint=hint_recovery>pemulihan</hint>: {time}",
+  "~\n$ Dengan peluang {inflamed_wound_chance}%, itu bisa menyebabkan <hint=hint_inflamed_wound>luka meradang</hint>.",
+  "~\n$ Dengan peluang {pain_shock_chance}%, itu bisa menyebabkan <hint=hint_painful_shock>syok menyakitkan</hint>."
 ]

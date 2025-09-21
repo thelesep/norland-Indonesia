@@ -1,12 +1,12 @@
 [
-  "Ambitious King\nA strong, talented, and aggressive ruler aiming to conquer Norland.\n\nPoses a significant danger, so it is best not to position this ruler near the starting province.",
-  "Independent Province\nA province that is not part of any other state.",
-  "Vassal\nA province that is part of a vassal kingdom. It is obliged to pay tribute to the suzerain, who protects it.\n\nPolitically restricted, meaning it cannot, for example, directly attack neighbors.",
-  "Ally\nA province that is part of a free city alliance. It does not pay tribute but has obligations to defend its allies.\n\nPolitically restricted, meaning it cannot, for example, directly attack neighbors.",
-  "Head of the Alliance\nA province that is the leader of the free city alliance.\n\nThere are no trade restrictions within the alliance, and the head of the alliance gets a discount.",
-  "Suzerain\nA province that is the head of a vassal kingdom.\n\nKeeps its vassals in check by force, receiving tribute from them.",
-  "Random",
-  "City Sells\nThe goods that this province will trade at the start of the game.",
-  "Unavailable\nThe sale of iron in this province cannot be changed as it is crucial for the late stage of the game.",
-  "Random"
+  "Raja Ambisius\nSeorang penguasa yang kuat, berbakat, dan agresif yang bertujuan untuk menaklukkan Norland.\n\nMenimbulkan bahaya yang signifikan, jadi sebaiknya jangan letakkan penguasa ini di dekat provinsi awal.",
+  "Provinsi Independen\nProvinsi yang tidak termasuk dalam negara mana pun.",
+  "Vasal\nProvinsi yang merupakan bagian dari kerajaan vasal. Ia wajib membayar upeti kepada suzerain, yang melindunginya.\n\nSecara politik dibatasi, artinya tidak bisa, misalnya, menyerang tetangga secara langsung.",
+  "Sekutu\nProvinsi yang merupakan bagian dari aliansi kota bebas. Ia tidak membayar upeti tapi memiliki kewajiban untuk membela sekutunya.\n\nSecara politik dibatasi, artinya tidak bisa, misalnya, menyerang tetangga secara langsung.",
+  "Kepala Aliansi\nProvinsi yang merupakan pemimpin aliansi kota bebas.\n\nTidak ada batasan perdagangan dalam aliansi, dan kepala aliansi mendapatkan diskon.",
+  "Suzerain\nProvinsi yang merupakan kepala kerajaan vasal.\n\nMenjaga vasalnya dengan kekuatan, menerima upeti dari mereka.",
+  "Acak",
+  "Kota Menjual\nBarang-barang yang akan diperdagangkan provinsi ini di awal permainan.",
+  "Tidak Tersedia\nPenjualan besi di provinsi ini tidak bisa diubah karena krusial untuk tahap akhir permainan.",
+  "Acak"
 ]

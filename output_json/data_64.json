@@ -1,12 +1,12 @@
 [
-  "Send now\nAll materials that are currently ready will be transferred to the warehouse immediately, but this will distract the workers from production.",
-  "Destroy\nCompletely demolish the building. This happens instantly.",
-  "Move\nMove the building to a new location.",
-  "Suspend work\nWork in the building will be halted, warehouses will be cleared, and workers will move to other productions.",
-  "Appoint a manager.\nAppoint a building manager who will start the work.",
-  "Sermon\nAppoint a lord as a preacher and choose a sermon.",
-  "Build with Priority\nBuilders will prioritize constructing this building.",
-  "Pause Construction\nSuspend construction until further instructions.",
-  "Resume Construction\nWorkers will return to building the structure.",
-  "Cancel Construction\nBuilding construction will be canceled, and resources already allocated for construction will be returned to the warehouse."
+  "Kirim Sekarang\nSemua bahan yang saat ini siap akan dipindahkan ke gudang segera, tapi ini akan mengalihkan perhatian pekerja dari produksi.",
+  "Hancurkan\nHancurkan bangunan sepenuhnya. Ini terjadi secara instan.",
+  "Pindahkan\nPindahkan bangunan ke lokasi baru.",
+  "Hentikan Pekerjaan\nPekerjaan di bangunan akan dihentikan, gudang akan dibersihkan, dan pekerja akan pindah ke produksi lain.",
+  "Tetapkan Manajer.\nTetapkan manajer bangunan yang akan memulai pekerjaan.",
+  "Khotbah\nTetapkan seorang penguasa sebagai pendeta dan pilih khotbah.",
+  "Bangun dengan Prioritas\nTukang bangunan akan memprioritaskan pembangunan bangunan ini.",
+  "Jeda Pembangunan\nHentikan pembangunan hingga instruksi lebih lanjut.",
+  "Lanjutkan Pembangunan\nPekerja akan kembali membangun struktur.",
+  "Batalkan Pembangunan\nPembangunan bangunan akan dibatalkan, dan sumber daya yang sudah dialokasikan untuk pembangunan akan dikembalikan ke gudang."
 ]

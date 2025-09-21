@@ -1,12 +1,12 @@
 [
-  "Desire for Revenge\nThe character wants {soul_uuid_target} to face punishment for their crimes.\n\n[hint_MORAL_DEBUFF]\n\nYou can help fulfill this desire in various ways:\n$ Challenge the criminal to a duel.\n$ Assign the King to punish the criminal.\n$ Or simply wait for the character to resolve the matter on their own.\n\n[hint_its_a_obsession]",
-  "Desire for Enemy's Death\nThe character hates their enemy, and they want {soul_uuid_target} to die.\n\n[hint_MORAL_DEBUFF]\n\nYou can help fulfill this desire in various ways:\n$ Challenge the enemy to a duel.\n$ Assign the King to execute this character's enemy.\n$ Or simply wait for the character to solve the matter on their own.\n\n[hint_its_a_obsession]",
-  "Desire for the Killer's Punishment\nThe character knows that {soul_uuid_target} is a killer and they want them to be punished.\n\n[hint_MORAL_DEBUFF]\n\nYou can help fulfill this desire in various ways:\n$ The King can execute, blind, or exile the criminal.\n$ Or simply wait for the character to solve the matter on their own.\n\n[hint_its_a_obsession]",
-  "Desire for the Sinner's Salvation\nThe bishop believes that {soul_uuid_target} is an incorrigible <hint=hint_sin>sinner</hint> and should be <hint=hint_punishment_blindness>blinded</hint> so they couldn't continue to sin so much.\n\n[hint_MORAL_DEBUFF]\n\n[hint_its_a_obsession]",
-  "Need for More Temples\nThe Bishop considers the situation where not all of Sophia's children can listen to the sermons unacceptable.\nTemples needed: {count}\n\n[hint_MORAL_DEBUFF]\n\n[hint_its_a_obsession]",
-  "Help has already arrived\nYour army has already arrived in the city and is ready to defend it.",
-  "Loyalty is too low\nThe captive's loyalty must become positive; only then will they be ready to join your noble family.",
-  "~\n<red>An unknown threat looms over this city.</red>",
-  "~\nAfter the recent events, {soul_uuid_king} has been weakened, and now scouts report that a group of <hint=hint_person_maroders>marauders</hint> is moving toward his city.",
-  "~\n<red>The hatred between neighboring kings has escalated too far, and now {soul_uuid_king_s} intends to burn {faction_uuid} to the ground.</red>"
+  "Keinginan untuk Balas Dendam\nKarakter ingin {soul_uuid_target} menghadapi hukuman atas kejahatan mereka.\n\n[hint_MORAL_DEBUFF]\n\nAnda dapat membantu memenuhi keinginan ini dengan berbagai cara:\n$ Tantang penjahat itu untuk duel.\n$ Tugaskan Raja untuk menghukum penjahat itu.\n$ Atau cukup tunggu karakter menyelesaikan masalah ini sendiri.\n\n[hint_its_a_obsession]",
+  "Keinginan untuk Kematian Musuh\nKarakter membenci musuhnya, dan mereka ingin {soul_uuid_target} mati.\n\n[hint_MORAL_DEBUFF]\n\nAnda dapat membantu memenuhi keinginan ini dengan berbagai cara:\n$ Tantang musuh itu untuk duel.\n$ Tugaskan Raja untuk mengeksekusi musuh karakter ini.\n$ Atau cukup tunggu karakter menyelesaikan masalah ini sendiri.\n\n[hint_its_a_obsession]",
+  "Keinginan untuk Hukuman Pembunuh\nKarakter tahu bahwa {soul_uuid_target} adalah pembunuh dan mereka ingin orang itu dihukum.\n\n[hint_MORAL_DEBUFF]\n\nAnda dapat membantu memenuhi keinginan ini dengan berbagai cara:\n$ Raja dapat mengeksekusi, membutakan, atau mengasingkan penjahat itu.\n$ Atau cukup tunggu karakter menyelesaikan masalah ini sendiri.\n\n[hint_its_a_obsession]",
+  "Keinginan untuk Keselamatan Orang Berdosa\nUskup percaya bahwa {soul_uuid_target} adalah <hint=hint_sin>pendosa</hint> yang tak terampuni dan harus <hint=hint_punishment_blindness>dibutakan</hint> agar mereka tidak bisa terus berbuat dosa sebanyak itu.\n\n[hint_MORAL_DEBUFF]\n\n[hint_its_a_obsession]",
+  "Kebutuhan untuk Lebih Banyak Kuil\nUskup menganggap situasi di mana tidak semua anak-anak Sophia bisa mendengarkan khotbah sebagai sesuatu yang tidak dapat diterima.\nKuil yang dibutuhkan: {count}\n\n[hint_MORAL_DEBUFF]\n\n[hint_its_a_obsession]",
+  "Bantuan Sudah Tiba\nPasukan Anda sudah tiba di kota dan siap mempertahankannya.",
+  "Kesetiaan Terlalu Rendah\nKesetiaan tawanan harus menjadi positif; hanya maka mereka akan siap bergabung dengan keluarga bangsawan Anda.",
+  "~\n<red>Ancaman tak dikenal mengancam kota ini.</red>",
+  "~\nSetelah peristiwa terbaru, {soul_uuid_king} telah melemah, dan sekarang pramuka melaporkan bahwa sekelompok <hint=hint_person_maroders>begal</hint> sedang bergerak menuju kotanya.",
+  "~\n<red>Kebencian antara raja-raja tetangga telah meningkat terlalu jauh, dan sekarang {soul_uuid_king_s} berniat membakar {faction_uuid} hingga rata dengan tanah.</red>"
 ]

@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nIt seems we're poorly guarded...\n\nReason: The ratio of the number of soldiers to prisoners.",
-  "[hint_mind_caption]\nWhat if we organize an escape?\n\nReason: The ratio of the number of soldiers to prisoners.",
-  "[hint_mind_caption]\nWe outnumber the warriors!\n\nReason: The ratio of the number of soldiers to prisoners.",
-  "[hint_mind_caption]\nCursed smallpox... How painful!\n\nEven if I survive and don't go blind, these damned scars will remain!\n\n<b>Hint:</b> In the main tab, in the Conditions section, you can see the current stage of the disease.",
-  "[hint_mind_caption]\nI hate fighting and commanding! Violence only brings evil!\n\nReason: <hint=hint_pacifist>Pacifist</hint>",
-  "[hint_mind_caption]\nWe were afraid of the enemy... What a shame!\n\nReason: Retreat before the battle.",
-  "[hint_mind_caption]\nOur king has gone mad and has challenged the authority of the Matriarch!\n\nThe Inquisition will burn this city to the ground, and we will burn in hell!\n\nReason: The coronation of the emperor.",
-  "[hint_mind_caption]\nThe king has decided to challenge the Church and proclaim himself the new emperor.\n\nWell, death awaits us all! I hope it won't involve eternal suffering...\n\nReason: Reaction of an <hint=hint_persons_agnostic>agnostic</hint> to the coronation of the emperor.",
-  "[hint_mind_caption]\nThe beloved king has finally decided to proclaim himself emperor! I've waited for this my whole life!\n\nThough the Inquisition will probably kill us all... But there is a slight hope!\n\nReason: Reaction of a <hint=hint_loyalist>loyalist</hint> to the coronation of the emperor.",
-  "[hint_mind_caption]\nOur holy king has proclaimed himself emperor!\n\nSince he is not afraid of the Inquisition, he must be the true prophet, for whom I am ready to die!\n\nReason: Reaction of a <hint=hint_persons_fanatic>fanatic</hint> to the coronation of the holy emperor."
+  "[hint_mind_caption]\nSepertinya kami dijaga dengan buruk...\n\nAlasan: Rasio jumlah prajurit terhadap narapidana.",
+  "[hint_mind_caption]\nBagaimana jika kami mengatur pelarian?\n\nAlasan: Rasio jumlah prajurit terhadap narapidana.",
+  "[hint_mind_caption]\nKami lebih banyak jumlahnya daripada prajurit!\n\nAlasan: Rasio jumlah prajurit terhadap narapidana.",
+  "[hint_mind_caption]\nCacar yang terkutuk... Betapa menyakitkannya!\n\nMeskipun saya selamat dan tidak menjadi buta, bekas luka terkutuk ini akan tetap ada!\n\n<b>Hint:</b> Di tab utama, di bagian Kondisi, Anda dapat melihat tahap penyakit saat ini.",
+  "[hint_mind_caption]\nSaya benci bertarung dan memerintah! Kekerasan hanya membawa kejahatan!\n\nAlasan: <hint=hint_pacifist>Pasifis</hint>",
+  "[hint_mind_caption]\nKami takut pada musuh... Sungguh memalukan!\n\nAlasan: Mundur sebelum pertempuran.",
+  "[hint_mind_caption]\nRaja kami telah gila dan menantang otoritas Matriark!\n\nInkuisisi akan membakar kota ini hingga rata dengan tanah, dan kami akan terbakar di neraka!\n\nAlasan: Penobatan kaisar.",
+  "[hint_mind_caption]\nRaja telah memutuskan untuk menantang Pihak Gereja dan memproklamasikan dirinya sebagai kaisar baru.\n\nYah, kematian menanti kami semua! Saya harap itu tidak melibatkan penderitaan abadi...\n\nAlasan: Reaksi seorang <hint=hint_persons_agnostic>agnostik</hint> terhadap penobatan kaisar.",
+  "[hint_mind_caption]\nRaja tercinta akhirnya memutuskan untuk memproklamasikan dirinya sebagai kaisar! Saya telah menunggu ini seumur hidup!\n\nMeskipun Inkuisisi mungkin membunuh kami semua... Tapi ada sedikit harapan!\n\nAlasan: Reaksi seorang <hint=hint_loyalist>loyalis</hint> terhadap penobatan kaisar.",
+  "[hint_mind_caption]\nRaja suci kami telah memproklamasikan dirinya sebagai kaisar!\n\nKarena dia tidak takut pada Inkuisisi, dia pasti adalah nabi sejati, untuk siapa saya siap mati!\n\nAlasan: Reaksi seorang <hint=hint_persons_fanatic>Fanatik</hint> terhadap penobatan kaisar suci."
 ]

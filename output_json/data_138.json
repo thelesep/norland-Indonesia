@@ -1,12 +1,12 @@
 [
-  "~\n<red><hint=hint_persons_forest_bandits>The forest bandits</hint> in the province have become so audacious that they are planning to plunder the city.</red>",
-  "~\n<red>A strong band of <hint=hint_person_maroders>marauders</hint> is moving toward the city to plunder it.</red>",
-  "~\n<red>{soul_uuid_king}'s relationship with their suzerain {soul_uuid_king_s} from {faction_uuid_sir} has completely deteriorated, and the vassal takes a stand, wishing to break free.</red>",
-  "~\n<red>The enmity between the kings has reached the stage of war, and now {soul_uuid_king_s} from {faction_uuid_s} is planning to plunder {faction_uuid}.</red>",
-  "~\n<hint=hint_unholy_horde>The Unholy Horde</hint> <red>is about to attack. If they succeed, this city will be completely destroyed and its lords exterminated.</red>\n",
-  "~\n<red>Due to low loyalty, the heir {soul_uuid_heir} has raised a rebellion. If the rebellion succeeds, the current king {soul_uuid_king} will be overthrown, and {soul_uuid_heir} will take his place.</red>",
-  "~\n<red>{soul_uuid_king_s} from {faction_uuid_s} is becoming stronger and plans to annex {faction_uuid} to his kingdom soon.</red>",
-  "This action is impossible\nYou cannot perform this action with your ally.",
-  "There is already an offer\n{soul_uuid_king} has already offered this agreement to you.",
-  "No armies\nThere are no armies available for selection on the global map."
+  "~\n<red><hint=hint_persons_forest_bandits>Perampok hutan</hint> di provinsi telah menjadi begitu berani sehingga mereka berencana merampok kota.</red>",
+  "~\n<red>Sekelompok <hint=hint_person_maroders>Begal</hint> yang kuat sedang menuju kota untuk merampoknya.</red>",
+  "~\n<red>Hubungan {soul_uuid_king} dengan suzerain mereka {soul_uuid_king_s} dari {faction_uuid_sir} telah memburuk sepenuhnya, dan bawahan itu mengambil sikap, ingin melepaskan diri.</red>",
+  "~\n<red>Kebencian antara para raja telah mencapai tahap perang, dan sekarang {soul_uuid_king_s} dari {faction_uuid_s} berencana merampok {faction_uuid}.</red>",
+  "~\n<hint=hint_unholy_horde>The Unholy Horde</hint> <red>akan menyerang. Jika mereka berhasil, kota ini akan hancur total dan para penguasanya dibantai.</red>\n",
+  "~\n<red>Karena kesetiaan yang rendah, pewaris {soul_uuid_heir} telah memicu pemberontakan. Jika pemberontakan berhasil, raja saat ini {soul_uuid_king} akan digulingkan, dan {soul_uuid_heir} akan mengambil alih tempatnya.</red>",
+  "~\n<red>{soul_uuid_king_s} dari {faction_uuid_s} semakin kuat dan berencana menganeksasi {faction_uuid} ke kerajaannya dalam waktu dekat.</red>",
+  "Aksi ini tidak mungkin\nAnda tidak dapat melakukan aksi ini dengan sekutu Anda.",
+  "Sudah ada tawaran\n{soul_uuid_king} sudah menawarkan perjanjian ini kepada Anda.",
+  "Tidak ada pasukan\nTidak ada pasukan yang tersedia untuk dipilih di peta global."
 ]

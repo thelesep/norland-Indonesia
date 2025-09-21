@@ -1,12 +1,12 @@
 [
-  "~\n$ Matriarch approves of help <hint=hint_support_tanaya>given to Tanaya</hint>: <green>{church_rel_im}</green>",
-  "~\n$ Matriarch <hint=hint_not_support_mahka>will not approve of your assistance</hint>: <red>{church_rel_de}</red>",
-  "~\nList of the King's allies:\n{list_of_defence_allies}",
-  "~\nThe Loving Family and the Matriarch support this king.\n\n$ Relationship with the Matriarch: <green>{church_im}</green>",
-  "~\nThe Loving Family and the Matriarch do not support this king.\n\n$ Relationship with the Matriarch: <red>{church_der}</red>",
-  "Attack\nYou will attempt to catch up with and attack this army.\n{optional_stack}",
-  "~\nKing {soul_uuid_king_1} from {faction_uuid_1} has sent <hint=hint_resource_gold>{sum}</hint> as aid to King {soul_uuid_king_2} from {faction_uuid_2} in their fight against the Unholy Horde.",
-  "~\n<red>Bad news</red>: The Unholy Horde has captured and razed the city {faction_uuid_1} - {soul_uuid_king} has perished, and their House has been destroyed.",
-  "~\nKing {soul_uuid_king_1} from {faction_uuid_1} has burned down the city and destroyed the Noble House of {faction_uuid_2} completely. {soul_uuid_king_2} and their family have perished.",
-  "~\nLord {soul_uuid_target} from {faction_uuid_target} has died while hunting."
+  "~\n$ Matriark menyetujui bantuan <hint=hint_support_tanaya>yang diberikan kepada Tanaya</hint>: <green>{church_rel_im}</green>",
+  "~\n$ Matriark <hint=hint_not_support_mahka>tidak akan menyetujui bantuan Anda</hint>: <red>{church_rel_de}</red>",
+  "~\nDaftar sekutu Raja:\n{list_of_defence_allies}",
+  "~\nKeluarga Penuh Kasih dan Matriark mendukung raja ini.\n\n$ Hubungan dengan Matriark: <green>{church_im}</green>",
+  "~\nKeluarga Penuh Kasih dan Matriark tidak mendukung raja ini.\n\n$ Hubungan dengan Matriark: <red>{church_der}</red>",
+  "Serang\nAnda akan mencoba mengejar dan menyerang pasukan ini.\n{optional_stack}",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah mengirim <hint=hint_resource_gold>{sum}</hint> sebagai bantuan kepada Raja {soul_uuid_king_2} dari {faction_uuid_2} dalam perjuangan mereka melawan Unholy Horde.",
+  "~\n<red>Berita buruk</red>: Unholy Horde telah menangkap dan membakar kota {faction_uuid_1} - {soul_uuid_king} telah tewas, dan Rumah mereka telah dihancurkan.",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah membakar kota dan menghancurkan Rumah Bangsawan {faction_uuid_2} sepenuhnya. {soul_uuid_king_2} dan keluarga mereka telah tewas.",
+  "~\nTuan {soul_uuid_target} dari {faction_uuid_target} telah meninggal saat berburu."
 ]

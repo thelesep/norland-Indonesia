@@ -1,12 +1,12 @@
 [
-  "~\nIt is a great honor for us to become kin with your house. May both heaven and earth bless this union. She is naturally homesick at the moment, but I believe she will soon acclimate. I promise that we will take good care of her.",
-  "~\nNothing but elation fills my heart at the thought of this union; your young lady is splendid in every way, though she is quite the emotional one! Wishing you every blessing.",
-  "[hint_DESCRIPTION]\n{soul_uuid_king} considers your army to be very <hint=hint_army_power>weak</hint> and suggests that you contribute to the region's security by providing funds.\n\n$ You are required to give {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ If you fail to do so, your relationship will deteriorate by <red>{rel_de}</red> in 2 days.\n\n[hint_SENDER]",
-  "Send the gold\n$ {soul_uuid_king} will receive <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Your relationship will improve by <green>{rel_imp}</green>.",
-  "~\n$ You have paid {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Your relationship has improved by <green>{rel_imp}</green>.",
-  "~\n$ You chose not to pay {soul_uuid_king}, which has offended him.\n$ Your relationship has deteriorated by <red>{rel_de}</red>.",
-  "~\nThank you for the gold you've sent! I'm especially pleased when it is given without any reservations. The fool is the one who places greed above their own defeat.",
-  "~\nI thank you for your obedience! It's reassuring to know that in our world, respect for strength still prevails. Do not be ashamed to bend your knee when necessary.",
-  "~\nYour silence speaks louder than any words. I hope that from your allies, you'll receive a different response when you need to seek their assistance in the near future!",
-  "~\nIgnoring my rightful requests would only make you either my enemy or a fool. Which do you wish to be?"
+  "~\nMerupakan suatu kehormatan besar bagi kami untuk menjadi kerabat dengan keluarga Anda. Semoga langit dan bumi memberkati persatuan ini. Dia saat ini merasa rindu pada rumahnya, tapi saya yakin dia akan segera beradaptasi. Saya berjanji bahwa kami akan merawatnya dengan baik.",
+  "~\nHati saya dipenuhi kegembiraan semata atas pemikiran tentang persatuan ini; putri muda Anda luar biasa dalam segala hal, meskipun dia cukup emosional! Kutukan berkah teruntuk Anda.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} menganggap pasukan Anda sangat <hint=hint_army_power>lemah</hint> dan menyarankan agar Anda berkontribusi pada keamanan wilayah dengan menyediakan dana.\n\n$ Anda diwajibkan untuk memberikan {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Jika Anda gagal melakukannya, hubungan Anda akan memburuk sebesar <red>{rel_de}</red> dalam 2 hari.\n\n[hint_SENDER]",
+  "Kirim emas\n$ {soul_uuid_king} akan menerima <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Hubungan Anda akan meningkat sebesar <green>{rel_imp}</green>.",
+  "~\n$ Anda telah membayar {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Hubungan Anda telah meningkat sebesar <green>{rel_imp}</green>.",
+  "~\n$ Anda memilih untuk tidak membayar {soul_uuid_king}, yang telah menyinggungnya.\n$ Hubungan Anda telah memburuk sebesar <red>{rel_de}</red>.",
+  "~\nTerima kasih atas emas yang telah Anda kirim! Saya sangat senang ketika diberikan tanpa syarat apa pun. Orang bodoh adalah yang menempatkan keserakahan di atas kekalahannya sendiri.",
+  "~\nSaya berterima kasih atas ketaatan Anda! Sungguh menenangkan mengetahui bahwa di dunia kita, rasa hormat terhadap kekuatan masih mendominasi. Jangan malu untuk membungkukkan lutut ketika diperlukan.",
+  "~\nKeheningan Anda berbicara lebih lantang daripada kata-kata apa pun. Saya harap dari sekutu Anda, Anda akan menerima respons yang berbeda ketika Anda perlu mencari bantuan mereka dalam waktu dekat!",
+  "~\nMengabaikan permintaan sah saya hanya akan membuat Anda menjadi musuh saya atau orang bodoh. Mana yang Anda inginkan?"
 ]

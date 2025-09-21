@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nGood events make you happy.",
-  "[hint_mind_caption]\nBad events make you sad.",
-  "[hint_mind_caption]\nIt's nice when the king upholds justice for everyone!\n\n<b>Reason:</b> The king punishes the lords.",
-  "[hint_mind_caption]\nI was a hair's breadth away from a terrible death! I can still smell the smoke! It's awful!\n\n<b>Reason:</b> Survived a fire",
-  "~\nMood Impact:\n<red>{debuff}</red>",
-  "Desire Fulfilled\nThe character is enjoying the sense of accomplishment.\n\nMood Impact:\n<green>{buff}</green>\n\nThis feeling is fleeting, and the next desire can be expected in a few days.",
-  "Learn to Fight\nThe character wants to improve their combat skills as they significantly differ from other lords.\n\n[hint_MORAL_DEBUFF]\n\nThe desire will be fulfilled when the character reaches a Combat skill level of <hint=hint_skill_combat>{required_skill_level}</hint> or higher.\n\n[hint_its_a_dream]",
-  "Learn Manners\nThe character wants to obtain more refined manners as they significantly differ from other lords.\n\n[hint_MORAL_DEBUFF]\n\nThe desire will be fulfilled when the character reaches an Manner skill level of <hint=hint_skill_manners>{required_skill_level}</hint> or higher.\n\n[hint_its_a_dream]",
-  "Deepen the Knowledge\nThe character wants to deepen their knowledge of the {skill} skill and raise its level to {lvl}.\n\n[hint_MORAL_DEBUFF]\n\nThe desire will be fulfilled when the character obtains a {skill} skill level of {lvl} or higher.\n\n[hint_its_a_dream]",
-  "Wish to Have a Home\nThe character is distressed because they don't have their own home.\n\n[hint_MORAL_DEBUFF]\n\nThe desire will be fulfilled when the character has a home.\n\n[hint_its_a_obsession]"
+  "[hint_mind_caption]\nPeristiwa baik membuatmu bahagia.",
+  "[hint_mind_caption]\nPeristiwa buruk membuatmu sedih.",
+  "[hint_mind_caption]\nSungguh menyenangkan ketika raja menegakkan keadilan untuk semua orang!\n\n<b>Alasan:</b> Raja menghukum para penguasa.",
+  "[hint_mind_caption]\nAku hampir saja mengalami kematian mengerikan! Aku masih bisa mencium bau asap! Mengerikan sekali!\n\n<b>Alasan:</b> Selamat dari kebakaran",
+  "~\nDampak pada Suasana Hati:\n<red>{debuff}</red>",
+  "Keinginan Terpenuhi\nKarakter sedang menikmati rasa pencapaian.\n\nDampak pada Suasana Hati:\n<green>{buff}</green>\n\nPerasaan ini sementara, dan keinginan berikutnya bisa diharapkan dalam beberapa hari.",
+  "Belajar Bertarung\nKarakter ingin meningkatkan keterampilan tempurnya karena sangat berbeda dari para penguasa lainnya.\n\n[hint_MORAL_DEBUFF]\n\nKeinginan akan terpenuhi ketika karakter mencapai tingkat Keterampilan Tempur <hint=hint_skill_combat>{required_skill_level}</hint> atau lebih tinggi.\n\n[hint_its_a_dream]",
+  "Belajar Etika\nKarakter ingin memperoleh etika yang lebih halus karena sangat berbeda dari para penguasa lainnya.\n\n[hint_MORAL_DEBUFF]\n\nKeinginan akan terpenuhi ketika karakter mencapai tingkat keterampilan Etika <hint=hint_skill_manners>{required_skill_level}</hint> atau lebih tinggi.\n\n[hint_its_a_dream]",
+  "Memperdalam Pengetahuan\nKarakter ingin memperdalam pengetahuan mereka tentang keterampilan {skill} dan meningkatkan tingkatnya menjadi {lvl}.\n\n[hint_MORAL_DEBUFF]\n\nKeinginan akan terpenuhi ketika karakter memperoleh tingkat keterampilan {skill} {lvl} atau lebih tinggi.\n\n[hint_its_a_dream]",
+  "Keinginan Memiliki Rumah\nKarakter merasa terganggu karena tidak memiliki rumah sendiri.\n\n[hint_MORAL_DEBUFF]\n\nKeinginan akan terpenuhi ketika karakter memiliki rumah.\n\n[hint_its_a_obsession]"
 ]

@@ -1,12 +1,12 @@
 [
-  "~\nLord {soul_uuid_target} from {faction_uuid_target} has been killed by {soul_uuid_member} from {faction_uuid_member}.",
-  "~\nLord {soul_uuid_target} from {faction_uuid_target} has been executed.",
-  "~\nLord {soul_uuid_target} from {faction_uuid_target} has died from wounds.",
-  "~\nLord {soul_uuid_target} from {faction_uuid_target} has been blinded.",
-  "~\nLord {soul_uuid_target} from {faction_uuid_old} has been exiled and joined {faction_uuid_new}.",
-  "~\nLord {soul_uuid_target} from {faction_uuid_old} has switched to noble house {faction_uuid_new}.",
-  "~\nKing {soul_uuid_king_1} from {faction_uuid_1} has befriended King {soul_uuid_king_2} from {faction_uuid_2}.",
-  "~\nKing {soul_uuid_king_1} from {faction_uuid_1} has quarreled with King {soul_uuid_king_2} from {faction_uuid_2}.",
-  "~\nA rebellion has occurred in {faction_uuid}. {dead_lords_stack} have perished.",
-  "~\nLord {soul_uuid_target} from {faction_uuid} has died during childbirth."
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid_target} telah dibunuh oleh {soul_uuid_member} dari {faction_uuid_member}.",
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid_target} telah dieksekusi.",
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid_target} telah meninggal karena luka.",
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid_target} telah dibutakan.",
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid_old} telah diasingkan dan bergabung dengan {faction_uuid_new}.",
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid_old} telah beralih ke rumah bangsawan {faction_uuid_new}.",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah berteman dengan Raja {soul_uuid_king_2} dari {faction_uuid_2}.",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah bertengkar dengan Raja {soul_uuid_king_2} dari {faction_uuid_2}.",
+  "~\nSebuah pemberontakan telah terjadi di {faction_uuid}. {dead_lords_stack} telah binasa.",
+  "~\nBangsawan {soul_uuid_target} dari {faction_uuid} telah meninggal saat melahirkan."
 ]

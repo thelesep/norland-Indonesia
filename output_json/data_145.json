@@ -1,12 +1,12 @@
 [
-  "~\n$ The squad defeated you and vanished into the depths of the forest",
-  "~\n$ You captured {slaves_captured} prisoners",
-  "More",
-  "~\nThis action can be executed with the help of a <hint=hint_sender>messenger</hint>.",
-  "The Church's attitude toward Tanaya\n<hint=hint_sofia_cult>The Loving Family</hint> always supports its loyal sons of <hint=hint_culture_tanaya>Tanaya</hint>, therefore helping this king is <b>blessed</b>.",
-  "The Church's attitude toward Makha\n<hint=hint_sofia_cult>The Loving Family</hint> has a dislike for the former heretics of <hint=hint_culture_makha>Makha</hint>, therefore helping this king is <b>not blessed</b>.",
-  "The danger is over\n{faction_uuid} is now safe, as the enemy has changed their plans and is no longer going to attack here. Your troops are on their way home.",
-  "~\nThe danger has passed; the enemy had a change of heart and decided not to attack. I appreciate your assistance, but I am relieved that it was not needed. Our prayers have been answered!",
-  "~\nThank you for the help you sent. However, the enemy proved to be more cowardly than a hare and had second thoughts about entering the battle. It will be quite a laugh when everyone hears about it!\n",
-  "~\n$ Matriarch approves aid against the Horde: <green>{church_rel_im}</green>"
+  "~\n$ Regu itu mengalahkanmu dan menghilang ke kedalaman hutan",
+  "~\n$ Kamu menangkap {slaves_captured} tahanan",
+  "Lebih",
+  "~\nAksi ini dapat dieksekusi dengan bantuan seorang <hint=hint_sender>utusan</hint>.",
+  "Sikap Pihak Gereja terhadap Tanaya\n<hint=hint_sofia_cult>Keluarga Penuh Kasih</hint> selalu mendukung putra-putra setianya dari <hint=hint_culture_tanaya>Tanaya</hint>, oleh karena itu membantu raja ini adalah <b>berkah</b>.",
+  "Sikap Pihak Gereja terhadap Makha\n<hint=hint_sofia_cult>Keluarga Penuh Kasih</hint> tidak menyukai mantan bidah dari <hint=hint_culture_makha>Makha</hint>, oleh karena itu membantu raja ini adalah <b>tidak diberkahi</b>.",
+  "Ancaman telah berakhir\n{faction_uuid} sekarang aman, karena musuh telah mengubah rencananya dan tidak lagi akan menyerang di sini. Pasukanmu sedang dalam perjalanan pulang.",
+  "~\nBahaya telah berlalu; musuh berubah pikiran dan memutuskan untuk tidak menyerang. Saya menghargai bantuanmu, tapi saya lega bahwa itu tidak diperlukan. Doa-doa kami telah dikabulkan!",
+  "~\nTerima kasih atas bantuan yang kamu kirim. Namun, musuh ternyata lebih pengecut daripada kelinci dan berpikir ulang untuk memasuki pertempuran. Ini akan menjadi tawa besar ketika semua orang mendengarnya!\n",
+  "~\n$ Matriark menyetujui bantuan melawan Horde: <green>{church_rel_im}</green>"
 ]

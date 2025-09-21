@@ -1,12 +1,12 @@
 [
-  "Vassalage is already in process\nYou have already begun the process of vassalage of this city.",
-  "Attack on the city in progress\nYou have started preparing to attack this city, so this action is unavailable.",
-  "There is no reason to request assistance\nNo one is trying to attack you right now, so you cannot request military assistance.",
-  "No available titles!\nYou do not have any available <hint=hint_title>titles</hint>, so you cannot invite another lord to join you.",
-  "Help has already been requested\nYou have already requested help from {soul_uuid_king}. If your ally has not arrived right away, their army is likely busy somewhere. It may be worth waiting for them to return to the city.",
-  "Close kinship\nThese lords have too close of a kinship.",
-  "Already married\nThis lord is already married.",
-  "Manual battle\nCurrently, only auto-battle is available. Please stay tuned for future updates!",
-  "Insufficient gold\n$ Requires <hint=hint_resource_gold>{gold}</hint>",
-  "Insufficient resources\n$ Requires {offer_resource_stack}"
+  "Proses vasalitas sedang berlangsung\nAnda telah memulai proses vasalitas untuk kota ini.",
+  "Serangan terhadap kota sedang dipersiapkan\nAnda telah memulai persiapan untuk menyerang kota ini, sehingga tindakan ini tidak tersedia.",
+  "Tidak ada alasan untuk meminta bantuan\nTidak ada yang sedang mencoba menyerang Anda saat ini, sehingga Anda tidak dapat meminta bantuan militer.",
+  "Tidak ada gelar yang tersedia!\nAnda tidak memiliki gelar <hint=hint_title>tersedia</hint>, sehingga Anda tidak dapat mengundang tuan lain untuk bergabung dengan Anda.",
+  "Bantuan sudah diminta\nAnda telah meminta bantuan dari {soul_uuid_king}. Jika sekutu Anda tidak segera tiba, pasukan mereka mungkin sedang sibuk di tempat lain. Mungkin layak menunggu mereka kembali ke kota.",
+  "Kerabat dekat\nPara tuan ini memiliki kerabat yang terlalu dekat.",
+  "Sudah menikah\nTuan ini sudah menikah.",
+  "Pertempuran manual\nSaat ini, hanya pertempuran otomatis yang tersedia. Tetap pantau untuk pembaruan mendatang!",
+  "Emas tidak mencukupi\n$ Membutuhkan <hint=hint_resource_gold>{gold}</hint>",
+  "Sumber daya tidak mencukupi\n$ Membutuhkan {offer_resource_stack}"
 ]

@@ -1,12 +1,12 @@
 [
-  "Schemer\nThis character is adept at manipulation and influence, capable of provoking conflicts and creating <hint=hint_encyclopedia_puppets>puppets</hint> among lords. Be cautious if he appears in your province.",
-  "Ragged Ones\nYour city has reached a high enough level of prosperity to start attracting the ragged ones.\n\n[hint_rags]",
-  "Ragged Ones\nThese are the lowest and weakest of bandits—former vagabonds and peasants, exiled from cities for crimes. They dwell in forests near towns, hoping to launch quick raids on nearby homes.\n\nUsually, they pose no threat to lords, as all they can hope for is to kidnap a peasant for ransom or steal some food from an outlying house. Sometimes, however, they set buildings on fire to create a distraction.",
-  "Sermon of Joy\n{skill_name}: {skill_level}\n\n$ Each participant in the sermon receives <green>+{moral_add}</hint> to mood.\n$ The thought will last for a day (its strength will decrease linearly).",
-  "Unavailable\n{soul_uuid} must have at least <hint=hint_resource_rune>{runes}</hint>",
-  "Workplaces\nThe number in brackets under the peasant icon in the top left corner shows the workplace balance.\n\nIf it's positive, it represents the number of unemployed people in the city.\nIf it's negative, it represents the number of available jobs (i.e., how many workers are missing).",
-  "Ragged ones attack!\nDefend your city!",
-  "[hint_mind_caption]\nPatrolling in full gear is quite the experience...\n\nReason: Participated in a patrol.",
-  "[hint_mind_caption]\nThat was so impressively solemn! I'm at a loss for words!\n\nReason: Participated in a ceremonial event.",
-  "Character Mood\n\nAll the residents of your city have their own <b>thoughts</b>, which together determine their <b>mood</b>.\n\nThoughts can arise if a character has unmet needs for a long time, as reactions to events, as a result of conversations, and for many other reasons.\n\n$ Select a lord by clicking on their portrait to see their thoughts.\n"
+  "Pengatur Tipu Dayak\nKarakter ini mahir dalam manipulasi dan pengaruh, mampu memprovokasi konflik dan menciptakan <hint=hint_encyclopedia_puppets>boneka</hint> di antara para penguasa. Waspadalah jika ia muncul di wilayah Anda.",
+  "Para Compang-camping\nKota Anda telah mencapai tingkat kemakmuran yang cukup tinggi untuk mulai menarik para compang-camping.\n\n[hint_rags]",
+  "Para Compang-camping\nMereka adalah bandit terendah dan terlemah—mantan pengembara dan petani, diasingkan dari kota-kota karena kejahatan. Mereka tinggal di hutan dekat kota, berharap melancarkan serangan cepat ke rumah-rumah terdekat.\n\nBiasanya, mereka tidak menjadi ancaman bagi para penguasa, karena yang bisa mereka harapkan hanyalah menculik petani untuk tebusan atau mencuri makanan dari rumah pinggiran. Namun, kadang-kadang mereka membakar bangunan untuk menciptakan pengalihan.",
+  "Khotbah Sukacita\n{skill_name}: {skill_level}\n\n$ Setiap peserta khotbah menerima <green>+{moral_add}</hint> ke suasana hati.\n$ Pikiran itu akan bertahan selama satu hari (kekuatannya akan berkurang secara linier).",
+  "Tidak Tersedia\n{soul_uuid} harus memiliki setidaknya <hint=hint_resource_rune>{runes}</hint>",
+  "Tempat Kerja\nAngka di dalam kurung di bawah ikon petani di sudut kiri atas menunjukkan keseimbangan tempat kerja.\n\nJika positif, itu mewakili jumlah orang pengangguran di kota.\nJika negatif, itu mewakili jumlah pekerjaan yang tersedia (yaitu, berapa banyak pekerja yang kurang).",
+  "Para compang-camping menyerang!\nPertahankan kota Anda!",
+  "[hint_mind_caption]\nPatroli dengan peralatan lengkap adalah pengalaman yang luar biasa...\n\nAlasan: Berpartisipasi dalam patroli.",
+  "[hint_mind_caption]\nItu begitu mengesankan dan khidmat! Saya kehabisan kata-kata!\n\nAlasan: Berpartisipasi dalam acara upacara.",
+  "Suasana Hati Karakter\n\nSemua penduduk kota Anda memiliki <b>pikiran</b> mereka sendiri, yang secara keseluruhan menentukan <b>suasana hati</b> mereka.\n\nPikiran bisa muncul jika suatu karakter memiliki kebutuhan yang tidak terpenuhi dalam waktu lama, sebagai reaksi terhadap peristiwa, sebagai hasil percakapan, dan karena banyak alasan lainnya.\n\n$ Pilih seorang penguasa dengan mengklik potret mereka untuk melihat pikiran mereka.\n"
 ]

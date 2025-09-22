@@ -1,12 +1,12 @@
 [
-  "Knowledge\nYou cannot see the knowledge of an incognito character.",
-  "Precise language\nEnables clerks to conduct inspections in {minutes} minutes and connect up to {counts} buildings to the <hint=hint_bld_chancellery>Chancellery</hint>",
-  "Auto-assign\nWhen constructing a new building, its manager will automatically be appointed a clerk from this Chancellery.",
-  "Building constructed  \nThe building {building_name} has been constructed.  \n\nA clerk from the <hint=hint_bld_chancellery>Chancellery</hint> has been assigned to it (you can change the auto-assignment in the Chancellery menu).",
-  "The building has been built\nThe building {building_name} has been built. \n\nDon't forget to assign an inspector!",
-  "Education Suspended\n{soul_uuid_teacher} has suspended the education of {soul_uuid_target} due to poor relations with {soul_uuid_king}.\n\nImprove your ruler’s relations with the Bishop to request that he resume the education.",
-  "No ragged ones\nRagged ones are bands of weak but numerous enemies that occasionally attack your city without warning, forcing you to consider risks, maintain a garrison, and build defensive structures.\n\nSelect this modifier if you want to disable such attacks. You'll get a more controlled but less thrilling gameplay experience.",
-  "Inheritance Transfer\n{soul_uuid_dead} is no longer with us, and their closest relative, {soul_uuid_heir}, inherits their property.\n\nInheritance amount: <hint=hint_resource_rune>{amount}</hint>",
-  "Warrior Training\n{skill_name}: {skill_level}\nFor each hit received during training, the warrior will gain {exp_boost} experience points in the <hint=hint_skill_combat>Combat</hint> skill.  \n\n{skill_name_limiter}: {skill_level_limiter}\nThe maximum Combat skill level that warriors can achieve: {skill_level_limiter}.",
-  "Training is not available  \nMany warriors can no longer gain experience from training because they have reached the <hint=hint_skill_combat>Combat</hint> skill level of the inspector."
+  "Pengetahuan\nAnda tidak dapat melihat pengetahuan dari seorang karakter yang menyamar.",
+  "Bahasa yang Tepat\nMemungkinkan klerk melakukan inspeksi dalam {minutes} menit dan menghubungkan hingga {counts} bangunan ke <hint=hint_bld_chancellery>Kanselari</hint>",
+  "Penugasan Otomatis\nSaat membangun bangunan baru, pengelolanya akan secara otomatis ditugaskan seorang klerk dari Kanselari ini.",
+  "Bangunan Dibangun  \nBangunan {building_name} telah dibangun.  \n\nSeorang klerk dari <hint=hint_bld_chancellery>Kanselari</hint> telah ditugaskan ke sana (Anda dapat mengubah penugasan otomatis di menu Kanselari).",
+  "Bangunan Telah Dibangun\nBangunan {building_name} telah dibangun. \n\nJangan lupa untuk menugaskan seorang inspektur!",
+  "Pendidikan Dihentikan\n{soul_uuid_teacher} telah menghentikan pendidikan {soul_uuid_target} karena hubungan buruk dengan {soul_uuid_king}.\n\nPerbaiki hubungan penguasa Anda dengan Uskup untuk meminta agar ia melanjutkan pendidikan tersebut.",
+  "Tidak Ada Kelompok Compang-camping\nKelompok compang-camping adalah kelompok musuh yang lemah tapi banyak jumlahnya yang sesekali menyerang kota Anda tanpa peringatan, memaksa Anda mempertimbangkan risiko, mempertahankan garnisun, dan membangun struktur pertahanan.\n\nPilih modifikasi ini jika Anda ingin menonaktifkan serangan semacam itu. Anda akan mendapatkan pengalaman bermain yang lebih terkendali tapi kurang mendebarkan.",
+  "Pemindahan Warisan\n{soul_uuid_dead} tidak lagi bersam kita, dan kerabat terdekatnya, {soul_uuid_heir}, mewarisi harta mereka.\n\nJumlah warisan: <hint=hint_resource_rune>{amount}</hint>",
+  "Pelatihan Prajurit\n{skill_name}: {skill_level}\nUntuk setiap pukulan yang diterima selama pelatihan, prajurit akan mendapatkan {exp_boost} poin pengalaman dalam keterampilan <hint=hint_skill_combat>Tempur</hint>.  \n\n{skill_name_limiter}: {skill_level_limiter}\nTingkat maksimum keterampilan Tempur yang dapat dicapai prajurit: {skill_level_limiter}.",
+  "Pelatihan Tidak Tersedia  \nBanyak prajurit tidak lagi dapat memperoleh pengalaman dari pelatihan karena mereka telah mencapai tingkat keterampilan <hint=hint_skill_combat>Tempur</hint> dari inspektur."
 ]

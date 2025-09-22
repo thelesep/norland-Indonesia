@@ -1,12 +1,12 @@
 [
-  "~\n{soul_uuid_king} accepted your offering and improved relations with {soul_uuid_king_s} by <green>{gift_rel_improve}</green>",
-  "[hint_mind_caption]  \nA pilgrim has blessed me with a holy slap! It's a true blessing!",
-  "Not enough Gold\nNot enough Gold in the treasury.\n\nRequires <hint=hint_resource_gold>{count}</hint>.",
-  "Unavailable  \n{soul_uuid} has the {trait_name} trait, which prevents this action.",
-  "Unavailable  \n{soul_uuid_performer} and {soul_uuid_target} are blood relatives.",
-  "Unavailable  \n{soul_uuid_performer} and {soul_uuid_target} must be of opposite genders.",
-  "[hint_mind_caption]\nI’m completely broke! What a disgrace!\n\nReason: The character has no <hint=hint_resource_gold>Gold</hint>. Reward them to rid them of this thought.\n\n<b>Hint:</b> If a character's wealth reaches <hint=hint_resource_gold>{rich_coins}</hint>, they will gain a permanent positive thought.",
-  "[hint_mind_caption]\nA lot of money is always a good thing! I hope I can keep it safe!\n\nReason: The character has accumulated a lot of <hint=hint_resource_gold>Gold</hint>.\n\n<b>Hint:</b> If the character’s condition reaches <hint=hint_resource_gold>{very_rich_coins}</hint>, they will gain an even stronger positive thought.",
-  "[hint_mind_caption]\nHoly Sophia, I’m rich! This is just an incredible feeling!\n\nReason: The character has accumulated a very large amount of <hint=hint_resource_gold>Gold.</hint>",
-  "[hint_mind_caption]\nI’m completely broke! What a disgrace!\n\nReason: The character has no <hint=hint_resource_gold>Gold</hint>. Reward them to rid them of this thought.\n\n<b>Hint:</b> If a character's wealth reaches <hint=hint_resource_gold>{rich_coins}</hint>, they will gain a permanent positive thought."
+  "~\n{soul_uuid_king} menerima persembahan Anda dan memperbaiki hubungan dengan {soul_uuid_king_s} sebesar <green>{gift_rel_improve}</green>",
+  "[hint_mind_caption]  \nSeorang peziarah telah memberkati saya dengan tamparan suci! Ini adalah berkah sejati!",
+  "Tidak Cukup Emas\nTidak Cukup Emas di perbendaharaan.\n\nMemerlukan <hint=hint_resource_gold>{count}</hint>.",
+  "Tidak Tersedia  \n{soul_uuid} memiliki sifat {trait_name}, yang mencegah tindakan ini.",
+  "Tidak Tersedia  \n{soul_uuid_performer} dan {soul_uuid_target} adalah kerabat darah.",
+  "Tidak Tersedia  \n{soul_uuid_performer} dan {soul_uuid_target} harus berjenis kelamin berbeda.",
+  "[hint_mind_caption]\nSaya benar-benar bangkrut! Sungguh memalukan!\n\nAlasan: Karakter tidak memiliki <hint=hint_resource_gold>Emas</hint>. Berikan hadiah kepada mereka untuk menghilangkan pikiran ini.\n\n<b>Petunjuk:</b> Jika kekayaan seorang karakter mencapai <hint=hint_resource_gold>{rich_coins}</hint>, mereka akan mendapatkan pikiran positif permanen.",
+  "[hint_mind_caption]\nBanyak uang selalu merupakan hal yang baik! Saya harap saya bisa menjaganya dengan aman!\n\nAlasan: Karakter telah mengumpulkan banyak <hint=hint_resource_gold>Emas</hint>.\n\n<b>Petunjuk:</b> Jika kekayaan karakter mencapai <hint=hint_resource_gold>{very_rich_coins}</hint>, mereka akan mendapatkan pikiran positif yang lebih kuat.",
+  "[hint_mind_caption]\nSophia Suci, saya kaya! Ini hanya perasaan yang luar biasa!\n\nAlasan: Karakter telah mengumpulkan jumlah <hint=hint_resource_gold>Emas</hint> yang sangat besar.",
+  "[hint_mind_caption]\nSaya benar-benar bangkrut! Sungguh memalukan!\n\nAlasan: Karakter tidak memiliki <hint=hint_resource_gold>Emas</hint>. Berikan hadiah kepada mereka untuk menghilangkan pikiran ini.\n\n<b>Petunjuk:</b> Jika kekayaan seorang karakter mencapai <hint=hint_resource_gold>{rich_coins}</hint>, mereka akan mendapatkan pikiran positif permanen."
 ]

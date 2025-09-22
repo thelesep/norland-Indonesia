@@ -1,12 +1,12 @@
 [
-  "[hint_mind_caption]\nA lot of money is always a good thing! I hope I can keep it safe!\n\nReason: The character has accumulated a lot of <hint=hint_resource_gold>Gold</hint>.\n\n<b>Hint:</b> If the character’s condition reaches <hint=hint_resource_gold>{very_rich_coins}</hint>, they will gain an even stronger positive thought.",
-  "[hint_mind_caption]\nHoly Sophia, I’m rich! This is just an incredible feeling!\n\nReason: The character has accumulated a very large amount of <hint=hint_resource_gold>Gold.</hint>",
-  "Unavailable\nThis character doesn't have a pet.",
-  "Unavailable\nThis character doesn't have a pet.",
-  "Unavailable  \nThe performer must be a <hint=hint_encyclopedia_puppet>puppet</hint>.",
-  "The Puppet Committed a Crime  \nThe <hint=hint_encyclopedia_puppet>puppet</hint> {soul_uuid} committed a crime on your orders and, fearing prosecution, left their home. {soul_uuid} will now become a <hint=hint_untitled_lord>lesser lord</hint> in your household.",
-  "Made a Gift\n{soul_uuid_politic} gave {soul_uuid_target} a small amount of money to draw him into his circle of <hint=hint_followers>followers.</hint>",
-  "Flattered the Lord\n{soul_uuid_politic} flattered {soul_uuid_target} to draw them into his circle of <hint=hint_followers>followers.</hint>",
-  "Received a Donation\n{soul_uuid_politic} received a donation for his ongoing political activity from his <hint=hint_followers>follower</hint> {soul_uuid_target}",
-  "Edit Squad\nOpens the squad editing menu, where you can change the composition of your warriors and adjust their equipment."
+  "[hint_mind_caption]\nBanyak uang selalu merupakan hal yang baik! Saya harap saya bisa menjaganya dengan aman!\n\nAlasan: Karakter telah mengumpulkan banyak <hint=hint_resource_gold>Emas</hint>.\n\n<b>Petunjuk:</b> Jika kondisi karakter mencapai <hint=hint_resource_gold>{very_rich_coins}</hint>, mereka akan mendapatkan pikiran positif yang lebih kuat lagi.",
+  "[hint_mind_caption]\nHoly Sophia, saya kaya! Ini adalah perasaan yang luar biasa!\n\nAlasan: Karakter telah mengumpulkan jumlah <hint=hint_resource_gold>Emas</hint> yang sangat besar.",
+  "Tidak Tersedia\nKarakter ini tidak memiliki hewan peliharaan.",
+  "Tidak Tersedia\nKarakter ini tidak memiliki hewan peliharaan.",
+  "Tidak Tersedia  \nPelaku harus berupa <hint=hint_encyclopedia_puppet>boneka</hint>.",
+  "Boneka Melakukan Kejahatan  \n<hint=hint_encyclopedia_puppet>Boneka</hint> {soul_uuid} melakukan kejahatan atas perintah Anda dan, karena takut diproses hukum, meninggalkan rumahnya. {soul_uuid} sekarang akan menjadi <hint=hint_untitled_lord>penguasa rendahan</hint> di rumah tangga Anda.",
+  "Memberikan Hadiah\n{soul_uuid_politic} memberikan sejumlah kecil uang kepada {soul_uuid_target} untuk menariknya ke dalam lingkaran <hint=hint_followers>pengikut</hint>nya.",
+  "Menyanjung Penguasa\n{soul_uuid_politic} menyanjung {soul_uuid_target} untuk menarik mereka ke dalam lingkaran <hint=hint_followers>pengikut</hint>nya.",
+  "Menerima Sumbangan\n{soul_uuid_politic} menerima sumbangan untuk kegiatan politiknya yang sedang berlangsung dari <hint=hint_followers>pengikut</hint>nya {soul_uuid_target}",
+  "Edit Regu\nMembuka menu pengeditan regu, di mana Anda dapat mengubah komposisi prajurit Anda dan menyesuaikan peralatan mereka."
 ]

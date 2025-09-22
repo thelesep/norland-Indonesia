@@ -1,12 +1,12 @@
 [
-  "Migration Setting\n<green>Migration allowed.</green>\n\n$ Migrants will enter the city freely and become full citizens.",
-  "Migration Settings\n<red>Migration forbidden.</red>\n\n$ Migrants will gather at the city gates and wait for your decision.\n$ If you don’t let them in, they will leave the province in {leaving_time}, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.\n\n<b>Hint:</b>\n$ For the restriction to work, the city center, including the Hall, must be enclosed by a wall.",
-  "Bribery by Puppet\n{soul_uuid_target} was bribed by {soul_uuid_briber}, who is a puppet acting in the interest of {soul_uuid_master}.\n\nThe character’s <hint=hint_loyalty>loyalty</hint> has decreased.",
-  "Bribery\n{soul_uuid_target} was bribed by {soul_uuid_iniciator}.\n\nThe character’s <hint=hint_loyalty>loyalty</hint> has decreased.",
-  "Migrants Leaving\nMigrants are leaving the city because migration is forbidden and the city gates remain closed.\n\nThey will leave the province, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.</hint>.\n\nMigrants leaving: {quantity}",
-  "Mercenary's Contract\nDays remaining until contract expiration: {remain_days}.",
-  "Mercenary's Contract Expired\nOne or more of your mercenaries' contracts with your ruler have expired.\n\nIf not rehired through the Army menu, they will leave the city in {leaving_time}.",
-  "Mercenary Leaving the Province\nOne or more of your mercenaries' contract duration has expired, and after the designated waiting period, they are leaving the province.\n\nThey can still be hired for a short time, but soon they will be replaced by other mercenaries.",
-  "[hint_advisor_caption]\nSome mercenaries' contracts are about to expire.\n\nAfter that, they will need to be rehired, or they will leave your city.\n\nYou can check contract durations in the Army menu.",
-  "Contract Expired\nThis mercenary's  contract has expired, so he cannot be added to the army.\n\nSoon, he will return his equipment to the warehouse, and then he can be <b>rehired</b> through the hiring menu."
+  "Pengaturan Migrasi\n<green>Migrasi diizinkan.</green>\n\n$ Para migran akan memasuki kota dengan bebas dan menjadi warga negara penuh.",
+  "Pengaturan Migrasi\n<red>Migrasi dilarang.</red>\n\n$ Para migran akan berkumpul di gerbang kota dan menunggu keputusan Anda.\n$ Jika Anda tidak membiarkan mereka masuk, mereka akan meninggalkan provinsi dalam {leaving_time}, dan sebagian dari mereka akan bergabung dengan <hint=hint_persons_forest_bandits>perampok hutan.\n\n<b>Hint:</b>\n$ Untuk pembatasan berfungsi, pusat kota, termasuk Aula, harus dikelilingi oleh tembok.",
+  "Suap melalui Boneka\n{soul_uuid_target} disuap oleh {soul_uuid_briber}, yang merupakan boneka yang bertindak demi kepentingan {soul_uuid_master}.\n\n<hint=hint_loyalty>Kesetiaan</hint> karakter telah menurun.",
+  "Suap\n{soul_uuid_target} disuap oleh {soul_uuid_iniciator}.\n\n<hint=hint_loyalty>Kesetiaan</hint> karakter telah menurun.",
+  "Para Migran Pergi\nPara migran sedang meninggalkan kota karena migrasi dilarang dan gerbang kota tetap tertutup.\n\nMereka akan meninggalkan provinsi, dan sebagian dari mereka akan bergabung dengan <hint=hint_persons_forest_bandits>perampok hutan.</hint>.\n\nJumlah migran yang pergi: {quantity}",
+  "Kontrak Tentara Bayaran\nHari tersisa hingga kontrak berakhir: {remain_days}.",
+  "Kontrak Tentara Bayaran Kedaluwarsa\nSatu atau lebih kontrak tentara bayaran Anda dengan penguasa Anda telah kedaluwarsa.\n\nJika tidak direkrut ulang melalui Menu Pasukan, mereka akan meninggalkan kota dalam {leaving_time}.",
+  "Tentara Bayaran Meninggalkan Provinsi\nDurasi kontrak satu atau lebih tentara bayaran Anda telah kedaluwarsa, dan setelah periode tunggu yang ditentukan, mereka sedang meninggalkan provinsi.\n\nMereka masih bisa direkrut untuk waktu singkat, tapi segera mereka akan digantikan oleh tentara bayaran lain.",
+  "[hint_advisor_caption]\nBeberapa kontrak tentara bayaran akan segera berakhir.\n\nSetelah itu, mereka perlu direkrut ulang, atau mereka akan meninggalkan kota Anda.\n\nAnda dapat memeriksa durasi kontrak di Menu Pasukan.",
+  "Kontrak Kedaluwarsa\nKontrak tentara bayaran ini telah kedaluwarsa, sehingga ia tidak dapat ditambahkan ke pasukan.\n\nSegera, ia akan mengembalikan peralatannya ke gudang, dan kemudian ia dapat <b>direkrut ulang</b> melalui menu perekrutan."
 ]

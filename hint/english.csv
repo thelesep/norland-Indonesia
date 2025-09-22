@@ -11453,9 +11453,9 @@ hint_nt_provinve_daily_statistic_new,"Daily statistics
 $ Press <b>RMB</b> to close the notification."
 hint_trait_blissful_new,"Blissful
 $ Everyone loves this character, and they only choose positive forms of <hint=hint_conversation>deep conversations.</hint>
-$ Talking to them removes <hint=hint_sin>sins from others.
+$ Talking to them removes <hint=hint_sin>sins</hint> from others.
 
-<b>Reason:</b> Survived a <hint=hint_tantrum>mental breakdown"
+<b>Reason:</b> Survived a <hint=hint_tantrum>mental breakdown</hint>"
 hint_preach_unavailable_by_disabled_church,"Unavailable
 The temple is not functioning because no priest is serving there."
 hint_soldier_filter_oldman,"Elders
@@ -11472,14 +11472,14 @@ hint_de_migrants_waiting_to_be_in_gates,"Migrants at the Gate
 Migrants have arrived, but the city gates are closed.
 
 $ If you wish to let them in, enable the “{option_name_allow_migrants}” option in the Hall menu.
-$ If you don’t let them in, the migrants will leave the province in {leaving_time}, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.
+$ If you don’t let them in, the migrants will leave the province in {leaving_time}, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.</hint>
 
 Waiting migrants: {quantity}"
 hint_de_migrants_waiting_to_be_in_walls,"Migrants at the Gate
 {quantity} migrants have arrived, but the entrance to the city is blocked by a solid wall.
 
 $ To let them in, remove a section of the wall or build a gate there, and enable the “{option_name_allow_migrants}” option in the Hall menu.
-$ If you don’t let them in, the migrants will leave the province in {leaving_time}, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.
+$ If you don’t let them in, the migrants will leave the province in {leaving_time}, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.</hint>
 
 Waiting migrants: {quantity}"
 hint_toggle_migration_allowed,"Migration Setting

@@ -347,13 +347,14 @@ def translate_file(file_path):
     # Setup client OpenRouter
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key="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",  # Ganti dengan API key kamu jika perlu
+        api_key="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",  # Ganti dengan API key kamu jika perlu
     )
 
     # Kirim request
     try:
         completion = client.chat.completions.create(
             model="x-ai/grok-4-fast:free",  # Pilih model lain sesuai kebutuhan
+            reasoning_effort="high",
             messages=[
                 {
                     "role": "user",

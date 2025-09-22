@@ -57,7 +57,7 @@ function validateTags(text, key) {
 
 // Read and parse CSV using csv-parser
 const allErrors = [];
-fs.createReadStream('updated_english.csv')
+fs.createReadStream('./localization/main-id.csv')
   .pipe(csv())
   .on('data', (row) => {
     const key = row.Key;

@@ -1408,12 +1408,12 @@ building.menu.terror_fanatics,Fanatik {count}
 global_map.relation_aftermath,$ Hubungan dengan tetangga: <red>{rel_de}</red>
 global_map.relation_aftermath_with_soul,$ Hubungan dengan {soul_uuid_king}: <red>{rel_de}</red>
 global_map.aftermath,<b>Konsekuensi</b>:
-tech.kaiden_army,Pasukan Kaiden
-tech.makha_trade,Perdagangan Makha
+tech.kaiden_army,Pasukan Jawa
+tech.makha_trade,Perdagangan Dayak
 tech.makha_fanatic_terror,Teror Fanatik
 tech.econom_writing,Penulisan hemat biaya
 tech.faith_defender,Pertahanan Iman
-tech.kaiden_training,Pelatihan Kaiden
+tech.kaiden_training,Pelatihan Jawa
 tech.kaiden_loyalist,Loyalist Abadi
 tech.makha_secret_deals,Kesepakatan Rahasia
 display_event.holy_protection_will_removed_soon,Perlindungan Keluarga Penuh Kasih segera dicabut!
@@ -2626,20 +2626,20 @@ opinion_mind.help_against_facelesse,Membantu melawan Unholy Horde
 opinion_mind.tried_to_poison,Upaya keracunan
 opinion_mind.tried_to_poison_my_member,Mencoba meracuni tuanku
 opinion_mind.greedy,Rakus
-opinion_mind.king_role_weaker_than_me,Lebih lemah dariku (Kaiden)
-opinion_mind.king_role_stronger_than_me,Lebih kuat dariku (Kaiden)
-opinion_mind.king_role_poorer_than_me,Lebih miskin dariku (Makha)
-opinion_mind.king_role_reacher_than_me,Lebih kaya dariku (Makha)
-opinion_mind.king_role_agnostic,Agnostik (Tanaya)
-opinion_mind.king_role_fanatic,Fanatik (Tanaya)
-opinion_mind.king_role_bandit_torelate,Mentolerir perampok (Kaiden)
-opinion_mind.king_role_fight_with_bandit,Bertarung dengan perampok (Kaiden)
-opinion_mind.king_role_many_slaves,Banyak tahanan (Varns)
-opinion_mind.king_role_no_slaves,Tidak ada tahanan (Varns)
-opinion_mind.king_role_vassal,Vassal (Varns)
-opinion_mind.king_role_suzerain,Suzerain (Varns)
-opinion_mind.king_role_dumber_than_me,Lebih bodoh dariku (Makha)
-opinion_mind.king_role_smarter_than_me,Lebih pintar dariku (Makha)
+opinion_mind.king_role_weaker_than_me,Lebih lemah dariku (Jawa)
+opinion_mind.king_role_stronger_than_me,Lebih kuat dariku (Jawa)
+opinion_mind.king_role_poorer_than_me,Lebih miskin dariku (Dayak)
+opinion_mind.king_role_reacher_than_me,Lebih kaya dariku (Dayak)
+opinion_mind.king_role_agnostic,Agnostik (Madura)
+opinion_mind.king_role_fanatic,Fanatik (Madura)
+opinion_mind.king_role_bandit_torelate,Mentolerir perampok (Jawa)
+opinion_mind.king_role_fight_with_bandit,Bertarung dengan perampok (Jawa)
+opinion_mind.king_role_many_slaves,Banyak tahanan (Sunda)
+opinion_mind.king_role_no_slaves,Tidak ada tahanan (Sunda)
+opinion_mind.king_role_vassal,Vassal (Sunda)
+opinion_mind.king_role_suzerain,Suzerain (Sunda)
+opinion_mind.king_role_dumber_than_me,Lebih bodoh dariku (Dayak)
+opinion_mind.king_role_smarter_than_me,Lebih pintar dariku (Dayak)
 opinion_mind.women_king,Wanita di Takhta
 opinion_mind.disinherited_me,Merampas warisanku
 opinion_mind.illigal_heir,Ahli Waris Haram
@@ -3575,10 +3575,10 @@ global_map_new.g_label.26,Sungai Sirenis
 global_map_new.g_label.27,Bukit Ramping
 global_map_new.g_label.28,Danau Cermin
 global_map_new.g_label.29,Bukit Kaza
-global_map_new.g_label.30,Padang Pasir Makha
+global_map_new.g_label.30,Padang Pasir Dayak
 global_map_new.g_label.31,Jalur Ferox
 global_map_new.g_label.32,Pegunungan Para Bidah
-global_map_new.g_label.33,Hutan Kaiden
+global_map_new.g_label.33,Hutan Jawa
 global_map_new.g_label.34,Padang Hijau Menari
 global_map_new.g_label.35,Danau Bupati
 global_map_new.g_label.36,Ladang Santo Michael

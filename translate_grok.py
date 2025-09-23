@@ -192,7 +192,7 @@ def translate_file(file_path):
     # Setup client OpenRouter
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key="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",  # Ganti dengan API key kamu jika perlu
+        api_key="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",  # Ganti dengan API key kamu jika perlu
     )
 
     # Kirim request

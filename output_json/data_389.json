@@ -1,0 +1,12 @@
+[
+  "Prosperous",
+  "Obscenely Wealthy",
+  "$ Thought of {soul_uuid_performer}: <red>{mind_value}</red>",
+  "$ {soul_uuid_performer} doesn't gain a negative thought due to having the <hint={trait_hint}>{talent_name}</hint> talent.",
+  "Loose in a recent battle",
+  "Was seduced",
+  "As a result of the seduction, {soul_uuid_target} will become a <hint=hint_encyclopedia_puppets>puppet</hint> of {soul_uuid_master}.",
+  "As a result of the seduction, {soul_uuid_target} will gain a <hint=hint_debt_of_honor>debt of honor</hint>.",
+  "UNAVAILABLE",
+  "Burned-down Building"
+]

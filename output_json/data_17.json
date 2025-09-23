@@ -1,0 +1,12 @@
+[
+  "Initializing New Game",
+  "Initializing GUI System",
+  "Creating Map Cells",
+  "Initializing Trade Manager",
+  "Loading Local Map Controller",
+  "Loading Province Data",
+  "Loading External Map",
+  "Loading Combat Injury Chances",
+  "Initializing In-Game Systems",
+  "Unloading In-Game Resources"
+]

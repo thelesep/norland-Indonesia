@@ -1,0 +1,12 @@
+[
+  "Automatic Archer Deployment",
+  "Invite to the Family",
+  "Lord Requests Asylum",
+  "I know that the scoundrel will seek refuge in your city. Please, don’t take him in - better yet, drive him out as quickly as possible. You have no idea what this animal has done to us!",
+  "The Lord {soul_uuid_lord} asks for asylum in your province.\n\nYou can either drive this lord away or accept him into your family as a <hint=hint_untitled_lord>lesser lord.</hint>\n\nIf you accept him, {soul_uuid} will worsen their relations with your ruler by <red>{rel_de}</red>.",
+  "We need to assign archers!",
+  "No soldiers available!",
+  "Soldiers rushing to the tower",
+  "Attacking {target_name}",
+  "Looking for danger."
+]

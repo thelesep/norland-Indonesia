@@ -1,0 +1,12 @@
+[
+  "Meat",
+  "Rutabaga",
+  "Herb",
+  "In the production <hint=hint_building_stores>warehouses</hint>, there are currently: {count} (grey number next to the icon)",
+  "Ripening in the fields now: {count} (grey number next to the icon)",
+  "The Holy Caravan sells this resource for <hint=hint_resource_gold>{cost_buy}</hint> and buys it for <hint=hint_resource_gold>{cost_sell}</hint>.",
+  "Day {day}",
+  "For 5 days",
+  "For today",
+  "For yesterday"
+]

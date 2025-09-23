@@ -1,0 +1,12 @@
+[
+  "{name}: seduced {target}",
+  "He was convincing in bed",
+  "Flattery",
+  "Representative of the Church",
+  "{name}: made a gift to their idol",
+  "Peasants",
+  "Stripped a title from a politician",
+  "You are stripping the title from the <hint=hint_politic>politician</hint>. Their followers will be displeased and gain the thought <red>{negative_mind}</red> about your ruler.  \n\nList of <hint=hint_followers>followers</hint>:  \n{list_of_followers}",
+  "Min combat level",
+  "GEAR"
+]

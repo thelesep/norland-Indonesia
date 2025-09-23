@@ -1,0 +1,12 @@
+[
+  "Upon leaving your city, your guest left you this note and a {culture_name} language dictionary as a gift.\n\nYour lords will warmly remember his company.",
+  "Note from a Guest",
+  "I thank you for your hospitality, but I must leave, as thanks to the participation of my friends in the Stone of Faith, the Matriarch has learned the full truth of my situation. Now, I am forgiven and in favor—for the truth will always find its way. In return, I promise to whisper a few words about you to the Matriarch as a pious and faithful ruler. May Mother Sophia protect you!",
+  "Upon leaving your city, your guest left you this note.\n\nIt seems that your relationship with the <hint=hint_relations_matriarch>Matriarch</hint> and <hint=hint_bishop>Bishop</hint> will soon improve.",
+  "Red mass",
+  "Branch: {character_name}",
+  "Lord",
+  "Build the Hall",
+  "We were delighted to learn of your generosity towards the holy pilgrims who visited your lands. May your piety serve as an example to all other righteous rulers!",
+  "The Matriarch expresses gratitude for your hospitality towards the pilgrims and for providing them with food.\n\n$ Relationship with Matriarch: <green>+{rel_inc}</green>"
+]

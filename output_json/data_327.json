@@ -1,0 +1,12 @@
+[
+  "I am the unfortunate one whom you ransomed from the bandits and freed. I apologize for leaving you so soon, but I was eager to reunite with my family.\n\nNow I realize that beautiful maidens can bring us not only the delights of love but also treacherous betrayal, so humiliating in its simplicity that I would rather die than admit to you who I truly am.\n\nNonetheless, I would like to express my gratitude for your kindness and somehow compensate you for your expenses.",
+  "The letter was accompanied by <hint=hint_resource_gold>{count}</hint>.",
+  "Sir! A simple priest writes to you on behalf of a certain man. He is an illiterate vagabond but claims that you recently freed him from captivity, paying a considerable sum.\n\nHe asks to convey that he lost himself in a game of dice, and to pay off his debt, he suggested to his companion that he sell himself dearly, pretending to be a mysterious lord.\n\nThe mercy you showed him has called to his conscience, and he asks for forgiveness for this small prank. He cannot repay you in any other way and asks me to pray for your health.",
+  "Besides the letter, there was nothing else in the envelope.",
+  "Demand to Send an Army",
+  "Delivered the witch to justice",
+  "Your ruler is feeling unwell",
+  "{name}: Risk of Knowledge Loss!",
+  "{name}: Persona non grata at {faction_name}!",
+  "Owner"
+]

@@ -1,0 +1,12 @@
+[
+  "<red>Attacking a guest, regardless of their actions, will be considered a violation of the sacred law of hospitality.</red>\n\n$ Relationship between {soul_uuid_performer_king} and {soul_uuid_target}: <red>{relations_modify_target}\n\n</b>HINT</b>: To resolve conflicts, it's better to use a <hint=hint_duel>duel</hint>.",
+  "<red>An attack on a member of the Loving Family, regardless of what they have done, will be considered a reason for your city to be punished by the <hint=hint_inquisitors>Inquisition</hint></red>",
+  "{age} years old",
+  "{age} y.o",
+  "Unarmed",
+  "Light Archer",
+  "Axeman",
+  "Guard",
+  "Heavy Axeman",
+  "Unholy Horde Fighter"
+]

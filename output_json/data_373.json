@@ -1,0 +1,12 @@
+[
+  "<b>Broken or non-functioning:</b>",
+  "<b>Insufficient workers:</b>",
+  "<b>Fields on the verge of depletion:</b>",
+  "<center>Events for the current day</center>",
+  "<center>Events from neighboring regions</center>",
+  "<b>PEASANTS</b>",
+  "$ Left the city: {peasant_left}",
+  "$ Became <hint=hint_persons_criminal>vagabonds</hint>: {peasant_criminal}",
+  "$ Became <hint=hint_persons_cuthroat>cutthroats</hint>: {peasant_thug}",
+  "$ Became <hint=hint_persons_fanatic>fanatics</hint>: {peasant_fanatic}"
+]

@@ -1,0 +1,12 @@
+[
+  "Control",
+  "Press a key...",
+  "Restore Defaults",
+  "Letter from a neighboring ruler",
+  "Dear neighbor! Your warriors have sent us a captured lord, known for his sinful behavior. Thank you for catching him; I thought I would never see him again. But now justice will prevail, and he will receive all that he deserves. Allow me to send you a small gift as a token of appreciation for your involvement in this matter.",
+  "{soul_uuid_maniac} has been captured and sent to his home province.\n\nAs a token of gratitude, the ruler of this province sends you a small gift: <hint=hint_resource_gold>{gold}</hint>",
+  "Going to kill",
+  "Waiting for death",
+  "Kills",
+  "Going to play with the dog"
+]

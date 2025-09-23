@@ -1,0 +1,12 @@
+[
+  "$ Studying this book will take <b>{learn_time}h</b>",
+  "Day Patrol",
+  "Keeping prisoners",
+  "{days}d",
+  "Envoy's Visit",
+  "{culture} approves of the king's actions",
+  "*Thanks to the Faith Defense knowledge, the tax is reduced by {discount}%",
+  "<b>Upon hiring this warrior</b>\n$ Based on his Combat skill, the <hint=hint_tutorial_church_tax>Church's tax on your army</hint> will increase by <hint=hint_resource_gold>{soldier_tax}</hint>. The total tax is now <hint=hint_resource_gold>{overal_tax}</hint> per day.",
+  "CAMERA SPEED",
+  "Wise conversation"
+]

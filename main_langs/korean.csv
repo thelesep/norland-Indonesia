@@ -1,0 +1,4170 @@
+Key,Korean
+PLACEHOLDER,PLACEHOLDER
+new_buildings_disclaimer_header,게임에 새로운 건물 모델이 추가되었습니다!
+tooltip.construction.place,오브젝트 배치
+tooltip.construction.rotate,변형 전환
+tooltip.construction.cancel,뒤로
+pause_menu.back_to_main_menu,메인 메뉴
+pause_menu.load,불러오기
+pause_menu.save,저장
+pause_menu.save_and_load,불러오기 및 저장
+pause_menu.resume_game,게임 계속하기
+options_menu.audio.gui_volume,GUI 볼륨
+options_menu.audio.sounds_volume,효과음 볼륨
+options_menu.audio.music_volume,음악 볼륨
+options_menu.audio,오디오
+options_menu.graphics.screen_format_err2,해상도 목록을 표시할 화면 형식을 선택하세요.
+options_menu.graphics.screen_format_err,사용자 지정 해상도를 선택했습니다.
+options_menu.graphics.screen_resolution,해상도
+options_menu.graphics.gui_scale,UI 크기
+options_menu.graphics.screen_format,화면 비율
+options_menu.graphics.fxaa,FXAA
+options_menu.graphics.vsync,VSync
+options_menu.graphics.fps_unlimited,무제한 FPS
+options_menu.graphics.borderless_mode,전체화면 창 모드
+options_menu.graphics.fullscreen_mode,전체화면 모드
+options_menu.graphics.windowed_mode,창 모드
+options_menu.graphics.screen_mode,화면 모드
+options_menu.graphics.global_map_blur,틸트 시프트 블러
+options_menu.graphics,그래픽
+options_menu.game.secs,초
+options_menu.game.hint_lock_delay,힌트 지속 시간
+options_menu.game.encyclopedia_events,게임 내 튜토리얼
+options_menu.game.language,언어
+options_menu.game,게임
+options_menu.title,게임 설정
+options_menu.cancel,취소
+options_menu.ok,확인
+options_menu.accept,수락
+statistics_menu.title,통계
+statistics_menu.crafting,제작
+statistics_menu.consumable,소모품
+main_menu.new_game.family.random,무작위
+main_menu.new_game.family.talents,재능:
+main_menu.new_game.family.unlimited,무제한
+main_menu.new_game.family.banner.back_color,배경 색상
+main_menu.new_game.family.banner.pattern_color,패턴 색상
+main_menu.new_game.province.game_params.beginning_scenario,시나리오 시작
+crisis.no_crisis,위기 없음
+crisis.horde,불경한 군단
+scenario.no_scenario,시나리오 없음
+scenario.nectar_slaves,넥타의 아이들
+scenario.path_of_sword,검의 길
+scenario.deserters,탈영병
+scenario.juice_of_life,생명의 주스
+scenario.to_the_touch,눈 대신 손으로
+scenario.path_of_hammer,망치의 길
+scenario.captured_wife,수감자
+scenario.surrounded_by_enemies,적의 포위
+scenario.peacepul_dolina,평화로운 계곡
+scenario.everything_is_lost,완전한 상실
+scenario.slave_owner,감옥 주인
+main_menu.new_game.province.game_params.crisis,위기
+main_menu.new_game.province.game_params.crisis.no_crisis,위기 없음
+main_menu.new_game.province.game_params.crisis.unholy_horde,불경한 군단
+main_menu.new_game.province.game_params.crisis.pandemic,대역병
+main_menu.new_game.province.game_params.crisis.religious_war,종교 전쟁
+main_menu.new_game.province.game_params.crisis.long_winter,긴 겨울
+main_menu.new_game.province.game_params.mutators,변수 보정
+mutator.wave_fanatism,광신주의 물결
+mutator.after_war,전쟁 후
+mutator.decline_of_trade,무역 감소
+mutator.power_of_crowd,머릿수의 힘
+mutator.fast_metabolism,빠른 신진대사
+main_menu.new_game.province.game_params.adv_neighbours_settings.setup,설정
+main_menu.new_game.family_editor.erethic,이단
+main_menu.new_game.province.game_params.adv_neighbours_settings,고급 이웃 설정
+main_menu.new_game.province.game_params.header,게임 매개변수
+main_menu.new_game.province.header,시작 영지를 선택하세요
+main_menu.new_game.province.header.back_to_select_mode,자신의 영지와 다른 영지를 설정하세요
+main_menu.new_game.province.header.next,다음
+main_menu.new_game.province.banner,깃발
+main_menu.new_game.province.difficulty,난이도
+main_menu.new_game.province.difficulty.peaceful,평화 모드
+main_menu.new_game.province.difficulty.normal,일반 모드
+main_menu.new_game.hardcore_start,하드코어
+main_menu.new_game.province.difficulty.ironman,철의 의지
+main_menu.new_game.province.neighbours.caution.careful,주의
+main_menu.new_game.province.neighbours.caution.risky,위험
+main_menu.new_game.province.neighbours.caution.balanced,균형
+main_menu.new_game.province.neighbours.pacifism.default,보통
+main_menu.new_game.province.neighbours.pacifism.peaceful,평화
+main_menu.new_game.province.neighbours.city_size,시작 도시 규모
+main_menu.new_game.province.neighbours.army_power,군대 전투력
+main_menu.new_game.province.neighbours.enemy,반감
+main_menu.new_game.province.neighbours.friend,공감
+main_menu.new_game.province.neighbours.neutral,중립
+main_menu.new_game.province.kingdom.culture.gwelts,카이덴
+main_menu.new_game.province.kingdom.culture.tanaya,타나야
+main_menu.new_game.province.kingdom.culture.makha,마카
+main_menu.new_game.province.kingdom.culture.voruns,반
+main_menu.new_game.province.neighbours.abandoned_town,버려진 마을
+main_menu.new_game.province.neighbours.empty,이웃 선택
+main_menu.new_game.family.banner.sign_color,기호 색상
+main_menu.new_game.family.banner.pattern,패턴
+main_menu.new_game.family.banner.sign,기호
+main_menu.new_game.family.look.body,몸
+main_menu.new_game.family.look.skin_color,피부색
+main_menu.new_game.family.look.hair_color,머리색
+main_menu.new_game.family.look.beard,수염
+main_menu.new_game.family.look.haircut,머리 모양
+main_menu.new_game.family.look.head,머리
+main_menu.new_game.family.look.sex,성별
+main_menu.new_game.family.look.random,무작위 외형
+main_menu.new_game.family.character_traits,캐릭터 특성
+main_menu.new_game.family.skills,스킬
+main_menu.new_game.family.overall_skills,전체 스킬
+main_menu.new_game.soft_onboarding,쉬운 시작
+main_menu.new_game.family.members,가문 구성원
+main_menu.new_game.family.members.husband_wife_child,"남편, 아내, 자녀"
+main_menu.new_game.family.members.two_sis_and_son,두 자매와 아들
+main_menu.new_game.family.members.two_bro,두 형제
+main_menu.new_game.family.members.three_sisters,세 자매
+main_menu.new_game.family.members.father_three_doughters,아버지와 딸
+main_menu.new_game.family_settings,가문 설정
+main_menu.ng_world_should_generate,세계 생성
+main_menu.ng_select_map,지도 선택
+main_menu.ng_save_name,저장 파일명 입력
+main_menu.save_load.delete,삭제
+main_menu.save_load.deleted,삭제 완료
+main_menu.save_load.save_as.desc2,현재 지도 파일명으로 저장하려면 비워두세요
+main_menu.save_load.save_as.desc,새 저장 파일명
+main_menu.save_load.save_as,새로 저장
+main_menu.save_load.rewrite,덮어쓰기
+main_menu.save_load.save,저장
+main_menu.save_load.load,불러오기
+main_menu.save_load.autosave_morning,아침
+main_menu.save_load.autosave_evening,저녁
+main_menu.mods,모드
+main_menu.credits,크레딧
+main_menu.discord,Discord
+main_menu.leave_feedback,의견
+main_menu.feedback.send,전송
+main_menu.exit,종료
+main_menu.settings,설정
+main_menu.load_game,게임 불러오기
+main_menu.start_tutorial,튜토리얼
+main_menu.start_new_game,새 게임
+main_menu.continue_last_game,계속하기
+main_menu.save_and_exit,저장 및 종료
+main_menu.start,시작
+main_menu.back,뒤로
+menu.problems,문제
+adv_tutorial.obj_build_sawmill_place_text,여기에 제재소를 건설
+adv_tutorial.obj_build_field_place_text,여기에 순무밭 배치
+adv_tutorial.obj_build_taverna_place_text,여기에 술집을 건설
+adv_tutorial.obj_build_generic_place_text,여기에 배치하세요
+notification.tutorial.ambush,도적단이 공격해 옵니다!
+loading_screen,불러오는 중... 잠시만 기다리세요.
+loading_screen.ingame.misc_loading,데이터 불러오는 중
+loading_screen.ingame.gui_init,GUI 생성 중
+loading_screen.ingame.save_game_load,저장된 게임 불러오는 중
+loading_screen.ingame.new_game_load,새 게임 시작 중
+loading_screen.ingame.gui_system,GUI 시스템 초기화 중
+loading_screen.ingame.map_cells,지도 칸 생성 중
+loading_screen.ingame.trade_manager,무역 관리자 초기화 중
+loading_screen.ingame.local_map_controller,지역 지도 제어기 불러오는 중
+loading_screen.ingame.province_controller,영지 데이터 불러오는 중
+loading_screen.ingame.global_map,외부 지도 불러오는 중
+loading_screen.ingame.battle_injuty_lottery,전투 부상 확률 불러오는 중
+loading_screen.ingame.game_system_init,게임 내 시스템 초기화 중
+loading_screen.ingame_unloading,게임 내 자원 내리는 중
+loading_screen.caching_textures,텍스처 캐싱 중
+loading_screen.game_vars,게임 변수 불러오는 중
+loading_screen.audio,오디오 시스템 실행 중
+loading_screen.animations,애니메이션 불러오는 중
+loading_screen.building_assets,건물 자산 불러오는 중
+loading_screen.actor_assets,행위자 자산 불러오는 중
+loading_screen.traits,특성 불러오는 중
+loading_screen.minds,사고방식 불러오는 중
+loading_screen.tantrums,분노 불러오는 중
+loading_screen.activity,활동 불러오는 중
+loading_screen.game_data,게임 내 데이터 불러오는 중
+loading_screen.building_constructions,건물 구조물 불러오는 중
+loading_screen.banners,깃발 불러오는 중
+loading_screen.gui,GUI 불러오는 중
+loading_screen.hints,힌트 불러오는 중
+loading_screen.rich_string,리치 스트링 불러오는 중
+loading_screen.knowledge_localization,지식 현지화 불러오는 중
+loading_screen.saves_and_maps,세계 및 저장 목록 불러오는 중
+loading_screen.done,불러오기 완료.
+encyclopedia.help,도움말
+encyclopedia.category.battle,전투
+encyclopedia.category.economics,경제
+encyclopedia.category.characters,캐릭터
+encyclopedia.category.mechanics,메커니즘
+encyclopedia.category.hints,힌트
+encyclopedia.category.global_map,지도
+encyclopedia.search,검색...
+action_task.skill_training_caption,{skill_name} 교육 중
+actor.relations.filter.location,인근
+actor.relations.filter.kings,왕
+actor.relations.filter.friends,친구
+actor.relations.filter.enemies,적
+actor.relations.filter.can_seduce,유혹 가능
+action_task.category.king,왕
+action_task.category.social,사회
+action_task.category.bishop,주교
+action_task.sub_category.social,소통
+action_task.sub_category.intrigue,음모
+actor.action_task.begging,용서 빌기
+actor.action_task.nominate_enemy,적으로 선포
+actor.action_task_hunt,살육늑대 사냥
+actor.action_task_sick_visit,환자 방문
+actor.action_task.marriage,결혼
+actor.action_task.bribe,뇌물
+actor.action_task.punish,처벌
+actor.action_task.reward,보상
+actor.action_task.rumors,소문 내기
+actor.action_task.spent_time,함께 시간 보내기
+actor.action_task.invite,초대
+actor.action_task.teach,교육
+actor.action_task.threat,위협
+actor.action_task.trade,무역
+actor.action_task.make_free,해방
+actor.action_task.seduction,유혹
+actor.action_task.donate,왕을 위한 선물
+actor.action_task.kill,암살
+actor.action_task.poison,독살
+actor.action_task.play_dice,주사위 굴리기
+actor.action_task.depart,추방
+actor.action_task.duel_call,결투 신청
+actor.action_task.duel_provocation,결투 도발
+actor.action_task.free_lord_hire,영주 고용
+actor.action_task.send_guest,손님 보내기
+actor.action_task.king_tribute,조공
+actor.action_task.confession,고해성사
+actor.action_task.kidnap,생포
+actor.action_task.free_captive,석방
+actor.action_task.forced_sex,강제 성관계
+actor.action_task.appoint_an_heir,후계자 선포
+actor.action_task.go_home,귀환
+actor.action_task.sex_with_dummy,성매매
+actor.action_task.new_heir,후계자로 임명
+actor.action_task.canonization,축복
+actor.action_task.divorce,이혼
+actor.action_task.consolation,위로
+actor.action_task.give_title_to_hired_free_lord,작위 수여
+actor.action_task.give_title_to_soldier,작위 수여
+actor.action_task.take_title,영주 작위 박탈
+actor.action_task.join_captive,석방하고 영입
+actor.action_task.new_king,왕위 선위
+actor.appoint_in_town,현재 위치: {town_name}
+actor.appoint_in_this_town,이 마을에 있음
+actor.appoint.our_lords,우리 영주
+actor.appoint.other_lords,다른 영주
+actor.action.training,훈련
+actor.action.conversation,협상
+actor.action.army.on_local_map,지역 지도
+actor.action.army.on_global_map,세계 지도에 있음
+actor.action.army,군대
+actor.action.executor,행위자
+actor.action.executor_replace,교체
+actor.action.teacher,교사
+actor.action.chancellery_any,모든 사무국
+actor.action.punishment,처벌
+actor.action.teach,학습
+actor.action.person,대상
+actor.action.different_actions,행동
+actor.action.trade,무역
+actor.action_task.invite_guest,내 영지로 초대
+actor.status.on_global_map,세계 지도
+actor.status.on_global_map_lost,실종
+actor.status.in_army,세계 지도의 분대 소속
+actor.status.in_travel,여행 중
+actor.status.in_object,현재 위치: {object_name}
+actor.adjective.addicted_to_drink,애주가
+actor.adjective.ambitious,야심만만
+actor.adjective.angry,복수심
+actor.adjective.arrogant,거만
+actor.adjective.ascetic,금욕
+actor.adjective.bloodthirsty,살기등등
+actor.adjective.contemptuous,경멸
+actor.adjective.contradictory,모순적
+actor.adjective.emotional,감정적
+actor.adjective.envious,질투
+actor.adjective.friendly,우호적
+actor.adjective.frivolous,경박
+actor.adjective.greedy,탐욕
+actor.adjective.indifferent,무관심
+actor.adjective.intemperate,충동적
+actor.adjective.jealous,시샘
+actor.adjective.mean,악의적
+actor.adjective.melancholy,우울
+actor.adjective.sarcastic,냉소적
+actor.adjective.subtle,교양
+actor.adjective.trusting,잘 속음
+actor.adjective.weakpowered,약골
+actor.appoint.skill.level,{level}
+actor.relation_hint_header,{name}({age_string})
+actor.appoint.nominate_enemy.peasant,<red>정당한 이유 없이 농민을 공격하면 <hint=hint_terror_peasants>공포</hint>가 조성됩니다</red>
+actor.appoint.nominate_enemy.lord,<red>정당한 이유 없이 영주를 공격하면 <hint=hint_terror_lord>공포</hint>가 조성됩니다</red>
+actor.appoint.nominate_enemy.guest,"<red>상대가 어떤 행동을 했든 손님을 공격하는 것은 신성한 환대의 법칙을 어긴 것으로 여겨집니다.</red>
+ 
+ $ {soul_uuid_performer_king} 및 {soul_uuid_target} 사이의 관계: <red>{relations_modify_target}
+ 
+ </b>힌트</b>: 갈등을 해결하려면 <hint=hint_duel>결투</hint>를 이용하는 것이 낫습니다."
+actor.appoint.nominate_enemy.bishop,<red>사랑의 가족이 무슨 짓을 했든 그들에 대한 공격은 도시가 <hint=hint_inquisitors>종교재판단</hint>의 처벌을 받을 이유로 여겨집니다.</red>
+actor.age,{age}세
+actor.age_short,{age}세
+actor.class.unarmed,비무장
+actor.class.l_archer,경갑 궁수
+actor.class.axeman,도끼병
+actor.class.guard,경비
+actor.class.h_axeman,중갑 도끼병
+actor.class.faceless_axeman,불경한 군단 투사
+actor.class.h_hammerhead,중갑 철퇴병
+actor.class.h_spearman,중갑 창병
+actor.class.h_swordman,중갑 검병
+actor.class.hammerhead,철퇴병
+actor.class.l_spearman,경갑 창병
+actor.class.outcast,추방자
+actor.class.spearman,창병
+actor.class.swordman,검병
+actor.class.light_archer,레벨 3-5 무장갑 궁수
+actor.class.light_hammerhead,레벨 3-5 무장갑 철퇴꾼
+actor.class.light_spearman,레벨 3-5 무장갑 창병
+actor.class.light_axeman,레벨 3-5 방패를 든 무장갑 도끼병
+actor.class.middle_archer,레벨 8-11 경갑 궁수
+actor.class.middle_hammerhead,레벨 8-11 방패를 든 경갑 철퇴꾼
+actor.class.middle_spearman,레벨 8-11 방패를 든 경갑 창병
+actor.class.heavy_axeman,레벨 13-17 방패를 든 중갑 도끼병
+actor.class.heavy_swordman,레벨 13-17 방패를 든 중갑 검병
+actor.class.lord,방패를 든 중갑 검병 영주
+actor.dignity.king,통치자
+actor.events,사건
+actor.events_date,날짜
+actor.knowledge,지식
+actor.hint.battle_skill,전투 스킬 레벨
+actor.hint.crimes.caption,범죄
+actor.hint.injury.caption,부상
+actor.hint.injury.pain_level,통증 레벨: {pain}
+actor.hint.injury.pain_threshold,<hint=hint_pain_level>통증 한계치:</hint> {pain_threshold}
+actor.hint.injury.risk_inflamation,* - 감염 위험 잔존
+actor.hint.sin.caption,죄
+actor.hint.sin.piety_impact,기분 영향: {piety_impact}
+actor.impact_on_person,행동
+actor.inventory,인벤토리
+actor.log.today,오늘
+actor.log.days_before,{day}일 전
+actor.log.yesterday,어제
+actor.loyalty,충성도 {loyalty}%
+menu.battle_result.win,승리!
+menu.battle_result.lose,패배
+menu.battle_result.deployed,배치됨
+menu.battle_result.died,사망
+menu.battle_result.escaped,탈출
+menu.battle_result.captured,생포
+actor.menu.appoint.hunt,사냥
+actor.mind.count_scheme,{mind_caption}({mind_count})
+actor.minds,생각
+actor.moral,기분
+actor.motive.energy,수면
+actor.motive.food,음식
+actor.motive.rest,휴식
+actor.motive.religion,신앙심
+actor.motive.sex,성관계
+actor.motive.care,돌봄
+actor.noun.adventurer,모험가
+actor.noun.depraved,난봉꾼
+actor.noun.fatalist,운명론자
+actor.noun.flatterer,아첨꾼
+actor.noun.genius,천재
+actor.noun.introvert,내향인
+actor.noun.moron,얼간이
+actor.noun.mystic,신비주의자
+actor.noun.narcissist,나르시시스트
+actor.noun.rude,악당
+actor.noun.shameless,괴짜
+actor.noun.skeptic,회의론자
+actor.noun.workaholic,일벌레
+actor.opinion.choose_factions.province_hint,지역 지도
+actor.opinion.interest,관심:
+actor.opinion.interest.high,높음
+actor.opinion.interest.low,낮음
+actor.opinion.interest.middle,중간
+actor.opinion.no_minds,생각 없음
+actor.opinion.opinion_of,{name}의 평가:
+actor.opinion.opinion_of_me,나에 대한 {name}의 평가:
+actor.opinion.opinion_of_third_person,{name}에 대한 {name_2}의 평가:
+actor.opinion.special.deadly_enemy,원수
+actor.opinion.special.enemy,적
+actor.opinion.special.friend,친구
+actor.opinion.special.like,좋은 관계
+actor.opinion.special.love,연애 관심
+actor.part_of_nature,성격 특성
+actor.punish.execute,처형
+actor.punish.expel,추방
+actor.punish.imprison,인질로 두기
+actor.desire,욕망
+actor.skill.command,명령
+actor.skill.education,교육
+actor.skill.fight,전투
+actor.skill.knowledge,지능
+actor.skill.management,관리
+actor.skill.manners,예의
+actor.skill.negotiation,무역
+actor.skill.oratory,설득
+actor.skill.points_remain,다음 레벨에 도달하려면 경험치 {number} 필요
+actor.skills,스킬
+actor.skills_training,훈련
+actor.skills.level,{level}
+actor.skill_category.rhetoric,수사학
+actor.skill_category.economic,경제
+actor.skill_category.philosophy,철학
+actor.skill_category.warcraft,전쟁
+actor.stata.bandit,도적
+actor.stata.thug,흉악범
+actor.states,상태
+actor.strata.animal,동물
+actor.strata.slave,수감자
+actor.traits,상태
+building.hostel,공동 숙소
+building.library,도서관
+building.armorsmith,방어구 대장간
+building.barracks,병영
+building.brewery,양조장
+building.caption_with_level,{building_name} 레벨 {level}
+building.castle,영주관
+building.chancellery,사무국
+building.church,사원
+building.altar,제단
+building.coal_burner,석탄 가공소
+building.coal_furnace,석탄 가공소
+building.coal_mine,석탄 광산
+building.description.burned,화재에 의해 파괴된 건물입니다. 철거만 가능합니다.
+building.farm,농장
+building.forge,무기 대장간
+building.hall_storage,영주관 창고
+building.herbalist,약초 채집가
+building.house,농가
+building.menu.appoint.church,설교
+building.menu.appoint.training,훈련
+building.menu.appoint.gallows,처벌
+building.menu.appoint.chancellery,사무관
+building.menu.appoint.culture,문화
+building.menu.appoint.appoint_culture,임명
+building.menu.castle.builders,건설자
+building.menu.castle.servants,시종
+building.menu.gallows.terror,공포
+building.menu.gallows.executers,사형집행인
+building.menu.in_stock,창고에 있음
+building.menu.required_resources,필요
+building.menu.required_resources.count,{available}/{required}
+building.menu.residence.residents,거주민
+building.menu.service.attendance,참석
+building.menu.service.inspection,정치
+building.menu.service.revenue,수익
+building.menu.combat_training.number_of_places,동시 훈련
+building.menu.sold,판매됨
+building.menu.trader,상인
+building.menu.special_button.auto_repair,자동 수리
+building.menu.special_button.abort,중단
+building.menu.special_button.destroy,파괴
+building.menu.special_button.relocate,이동
+building.menu.special_button.repair,수리
+building.menu.special_button.upgrade,업그레이드
+building.menu.special_button.upgrade_workplace,일자리 +1
+building.menu.status.breakdown,고장
+building.menu.status.need_charge,농장이 고갈되었습니다.
+building.menu.status.burned_full,화재로 인해 파괴되었습니다.
+building.menu.status.burned_partially,부분적으로 그을렸습니다.
+building.menu.status.burning,건물에 화재 발생!
+building.menu.status.church,도시 내 종교 광신도: {fanatics_percent}%
+building.menu.status.construction,건설 진행 중.
+building.menu.status.construction_template,{status}({progress}%) 완료
+building.menu.status.demolition,해체 중입니다.
+building.menu.status.extinguishing,화재 진압 중입니다.
+building.menu.status.harvest.after_tomorrow,수확물이 이틀 후 수거됩니다.
+building.menu.status.harvest.n_days,{days}일 후 농작물을 수확할 예정입니다.
+building.menu.status.harvest.today,오늘 농작물을 수확할 예정입니다.
+building.menu.status.harvest.tomorrow,내일 농작물을 수확할 예정입니다.
+building.menu.status.no_tasks,생산 메뉴에서 명령하세요.
+building.menu.status.fertilize,비옥도: {number}%
+building.menu.status.produce,생산 중: {resource}({progress}%)
+building.menu.status.raw_not_enough,생산에 필요한 자원이 부족합니다.
+building.menu.status.relocate,재배치 중입니다.
+building.menu.status.repair,수리 중입니다.
+building.menu.status.upgrade,업그레이드 중입니다.
+building.menu.status.work_time,작업 시간: {work_hour_begin}~{work_hour_end}
+building.menu.status.works_fine,평소처럼 작업 중
+building.menu.status.pig_farm_need_to_charge,순무 보충 필요
+building.menu.status.need_inspector,관리자 임명 필요
+building.menu.status.need_inspection,받은 지시 없음
+building.menu.status.need_paper_charge,종이 보충 필요
+building.menu.tavern.allow_nectar,넥타 허용
+building.menu.temple.donation,기부
+building.menu.temple.priest,사제
+building.menu.workplace.appoint_inspector,배정
+building.menu.workplace.inspection,관리
+building.menu.workplace.priority,우선순위
+building.menu.workplace.produced_today,오늘 생산량
+building.menu.workplace.bonus_slave,수감자 보너스: {bonus_slave}
+building.menu.workplace.bonus_addicted,중독자 보너스: {bonus_addicted}
+building.menu.workplace.bonus_culture,{culture} 전문 분야 보너스: {bonus_culture}
+building.menu.workplace.statistics,통계
+building.menu.workplace.workers,일꾼
+building.menu.workplace.workers.free,농민
+building.menu.workplace.workers.slaves,수감자
+building.menu.workplace.addicted,중독자
+building.menu.patrollers,순찰 깃발
+building.menu.radius,순찰 반경
+building.menu.combat_max,최대 전투 레벨
+building.menu.max_pain,최대 통증 레벨
+menu.patrol_sign.description,전사 순찰 장소
+building.mine,광산
+building.noble_house,영주의 집
+building.paper_factory,제지소
+building.slaves_barrack,감옥
+building.temple.preach.doubt,의심의 설교
+building.temple.preach.faith,믿음의 설교
+building.farm.pig_farm_charge_abort,보충 취소
+building.farm.pig_farm_charge,순무 보충
+building.gallows.crimes,범죄
+building.gallows.punishments,처벌
+building.gallows.change,변경
+building.training_field,훈련장
+building.woodcutter,제재소
+building.workshop,공방
+building.gallows,처형대
+building.market,시장
+building.storage,창고
+building.tavern,술집
+building.drug_deg,마약 소굴
+building.rye_farm,호밀밭
+building.hop_farm,홉밭
+building.swede_farm,순무밭
+building.pig_farm,돼지 농장
+building.mill,방앗간
+building.alchimestry,연금술 실험실
+building.melting_furnace,제련소
+building.patrol_sign,야간 순찰
+display_event.actor_complete_action_task_on_gm,{name}이(가) {task_name} 임무를 완료했습니다.
+display_event.actor_abort_action_task_on_gm,{name}이(가) 임무 완료에 실패했습니다.
+display_event.actor_arrived_in_town_as_guest_on_gm,{name}이(가) {town_name}에 도착했습니다.
+display_event.actors_married,{name_1}이(가) {name_2}(이)와 약혼했습니다.
+display_event.new_genius_king,소문: 정복자
+display_event.defence_alliance.squad_arrived,{faction_name} 지원군이 도착했습니다!
+display_event.defence_alliance.squad_created,지원군이 집결하여 명령에 따라 배치되었습니다.
+display_event.defence_alliance.leave.time_expired,지원군의 주둔이 끝났습니다. 이제 돌아갑니다.
+display_event.defence_alliance.leave.battle_finished,지원군이 나를 지원했으며 이제 돌아갑니다.
+display_event.defence_alliance.leave.defence_alliance_broken,{faction_name}와(과)의 동맹이 종료되었습니다. 지원군이 예정보다 빨리 돌아오는 중입니다.
+display_event.defence_alliance.leave.no_one_is_attacking_player,더 이상 위협을 받지 않습니다. 지원군이 오고 있습니다.
+display_event.defence_alliance.leave.other_reason,지원군이 일찍 돌아오는 중입니다.
+display_event.got_title,{name}에게 영주 작위가 주어졌습니다.
+display_event.kid_need_title,{name}이(가) 곧 남은 영주 작위를 요구할 것입니다.
+display_event.storage_robbery_gold,도둑들이 {number}개의 금화를 훔쳐 갔습니다!
+display_event.squad_go_to_take_equipment,전사들이 창고에서 무기를 가져오는 중입니다. 잠시만 기다려주세요...
+display_event.no_servants_in_hall,영주관에 시종이 없습니다!
+display_event.squad_take_all_equipment,전사들이 무장하고 출전 준비를 마쳤습니다!
+display_event.horde_apeears,불경한 군단 등장
+display_event.horde_gossip,소문: 먼 지역에 새롭게 등장한 이단 교단
+display_event.new_fraction,새로운 귀족 가문의 탄생: {faction_name}
+display_event.fraction_death,귀족 가문의 몰락: {faction_name}
+display_event.horde_murder_faction,불경한 군단이 귀족 가문을 하나 더 말살했습니다.
+display_event.horde_crisis_finish,불경한 군단이 Norland 땅에서 떠났습니다.
+display_event.forecast,{resource} 가격 예측 획득
+display_event.village_tribute,{village_name}: 공물 납부
+display_event.bandits_at_the_gate,인근에 적대적 분대 등장!
+display_event.army_at_the_gate,인근에 적대적 분대 등장!
+display_event.enemy_attack_city,적이 공격을 개시합니다!
+display_event.free_lord_expired,영주 계약이 만료되었습니다.
+display_event.free_lord_low_loyalty,자유 영주가 충성심을 잃었습니다.
+display_event.terror_lords,영주들 사이에 공포가 조성되었습니다!
+display_event.terror_peasants,농민들 사이에 공포가 조성되었습니다!
+display_event.bandits_prepare_to_attack,도적단이 마을을 공격하려고 준비합니다.
+display_event.caravan_arrive,신성한 대상단이 도시에 도착했습니다.
+display_event.free_lord_arrive,자유 영주가 고용을 기다리고 있습니다.
+display_event.character_bleeding,캐릭터가 출혈 중입니다.
+display_event.fire,화재가 발생했습니다.
+display_event.slaves_hungry,경제 메뉴에서 수감자가 음식을 충분히 받고 있는지 확인하세요.
+display_event.dummy_little_beer,경제 메뉴에서 캐릭터가 술을 충분히 받고 있는지 확인하세요.
+display_event.dummy_little_food,경제 메뉴에서 수감자가 음식을 충분히 받고 있는지 확인하세요.
+display_event.dummy_many_homeless,주거를 더 건설하세요.
+display_event.high_fanaticism_level,사원에서 의심의 설교를 하면 광신주의를 줄일 수 있습니다.
+display_event.low_dummy_happiness,가장 자주 발생하는 불행한 생각에 주의하세요.
+display_event.not_enough_barracks,병영을 더 건설하세요.
+display_event.not_enough_equipment,상단에서 장비를 구매하거나 장비를 만드세요.
+display_event.not_enough_taverns,술집을 더 건설하세요.
+display_event.not_enough_temples,사원을 더 건설하세요.
+display_event.too_much_unemploe,실업률을 줄이려면 평균 기분을 낮추어 이주를 줄이세요.
+display_event.high_prices,농민은 신성한 대상단으로부터 상품을 구매합니다.
+display_event.hired_soldiers_arrive,고용된 전사가 도착했습니다.
+display_event.migrants_arrive,{number}명의 이주자가 도착했습니다.
+display_event.knowledge_interaction,{name}이(가) {knowledge} 연구 중: {progress}%
+display_event.book_writing,{name}이(가) {knowledge} 책 집필 중: {progress}%
+display_event.not_enough_knowledge_paper,종이 부족으로 책 집필 불가: {name}
+display_event.knowledge_too_hard_again,{name}이(가) 연구 불가: {knowledge}
+display_event.not_enough_resources,자원이 부족합니다.
+display_event.building_breakdown,고장난 건물입니다.
+display_event.farm_depleted,농장 토양이 고갈되었습니다.
+display_event.farm_soon_depleted,농장 토양이 곧 고갈됩니다.
+display_event.not_enough_workers,일꾼이 부족합니다.
+display_event.wheat_destroyed,가뭄으로 인해 농작물이 말라 죽었습니다.
+display_event.building_needs_direct_contol,이 건물을 운영하려면 직접 통제가 필요합니다.
+display_event.building_without_inspector,건물에 관리자가 필요합니다.
+display_event.order_complete,{value} {resource}: 명령 완료!
+display_event.building_without_instruction,오늘 일꾼들이 지시를 받지 못했습니다.
+display_event.resources_stolen,자원을 도난당했습니다! {value} {resource}
+display_event.thugs_appear,도시에 흉악범이 등장했습니다.
+display_event.wolf_attack,살육늑대 공격!
+display_event.no_meds,의료 연고가 소진되었습니다!
+display_event.quest_result,결과: {quest_name}
+display_event.battle_result,전투 결과
+display_event.battle_start,새로운 전투!
+display_event.new_quest,{name}
+display_event.new_book,새로 제작된 책 사본: {knowledge}
+display_event.new_knowledge,지식 습득함: {knowledge}
+display_event.slave_escape,수감자가 탈출 시도 중입니다.
+display_event.unhappy_lord,영주가 불행합니다.
+display_event.actor_dont_work,{name}이(가) 기분이 안 좋아 임무 완수를 거부합니다.
+display_event.reg_riot_soon,광신도들이 {target_name}의 피를 요구합니다!
+display_event.reg_riot_cancel,광신도들이 {target_name}의 처형에 만족했습니다. 반란이 일어나지 않습니다.
+display_event.holy_family_become_enemy,총대주교의 총애를 잃었습니다!
+display_event.reg_riot_against_king,광신도들이 {target_name}이(가) 반드시 죽어야 한다고 믿습니다.
+display_event.reg_riot_in_hour,몇 시간 뒤면 반란이 시작됩니다!
+display_event.low_loyaled,영주가 영지를 떠나는 중입니다.
+display_event.bulglary_storage,부랑자들이 영주관 창고를 털었습니다.
+display_event.hall_robbed,부랑자들이 영주관에 잠입해 금화를 훔쳤습니다.
+display_event.library_robbed,부랑자들이 도서관에 잠입해 책을 훔쳤습니다.
+display_event.lord_kidnapped,부랑자들이 영주를 납치했습니다!
+display_event.lord_killed,매수된 흉악범들이 영주를 살해했습니다!
+display_event.army_returned_from_global_map,분대가 귀환했습니다.
+display_event.hirde_bandits_returned_from_global_map,고용된 흉악범들이 전리품을 가지고 귀환했습니다.
+display_event.kid_now_can_read,{name}이(가) 자라 청소년이 되었습니다.
+display_event.bishop_arrived,주교가 정착지에 도착했습니다.
+display_event.bishop_leave_province,주교가 정착지에서 떠나고 있습니다.
+display_event.faction_become_enemy,{faction_name} 진영이 적이 되었습니다.
+display_event.faction_soon_become_enemy,{faction_name} 진영이 곧 적이 될 예정입니다.
+display_event.economy_statistics,경제 보고서
+display_event.dayly_statistic,일일 통계
+display_event.daily_stat_main_pronlems,자주 발생하는 부정적 생각
+display_event.daily_stat_no_problems,문제없음
+display_event.world_summary,세계 요약
+display_event.world_summary_trade,무역
+display_event.world_summary_marriage,결혼
+display_event.world_summary_other,기타
+display_event.world_summary_politic,정책
+display_event.religious_rebellion_start,종교 반란이 발생했습니다!
+display_event.slaves_rebellion,수감자 반란이 발생했습니다!
+display_event.soldier_rebellion,전사 반란이 시작되었습니다!
+display_event.loyalist_rage,충성파가 학살을 시작합니다!
+display_event.loyalist_rage_over,충성파가 학살을 끝냄
+display_event.soldier_rebellion_finished,전사 반란이 끝났습니다.
+display_event.soldier_rebellion_crushed,전사 반란이 성공적으로 진압되었습니다!
+display_event.religion_rebellion_crushed,종교 봉기가 성공적으로 진압되었습니다!
+display_event.religion_rebellion_finished,종교 봉기가 끝났습니다.
+display_event.slaves_rebellion_finished,수감자 반란이 끝났습니다.
+display_event.slaves_rebellion_crushed,수감자 반란이 성공적으로 진압되었습니다!
+display_event.culture_rage_today,{name}: {name_2}을(를) 대상으로 폭동을 일으킬 수 있음
+display_event.culture_rage,{name}: 폭동을 시작합니다.
+display_event.culture_rage_over,폭동이 끝났습니다.
+display_event.no_new_events,사건이 없습니다.
+display_event.player_became_vassal,{sir_faction}의 봉신이 되었습니다.
+display_event.player_stopped_being_vassal,이제 {ex_sir_faction}의 봉신이 아닙니다.
+display_event.enemy_go_to_attack_town_soon,{faction} 진영이 곧 마을을 공격할 것 같습니다!
+display_event.enemy_go_to_attack_village,{faction} 진영에서 마을을 약탈하려고 군대를 보냈습니다!
+display_event.enemy_go_to_attack_town,{faction} 진영에서 도시를 약탈하려고 군대를 보냈습니다!
+display_event.bandits_go_to_attack_village,숲속 도적단이 마을로 진격했습니다!
+display_event.bandits_go_to_attack_town,숲속 도적단이 마을을 공격하러 오는 중입니다!
+display_event.bandits_looted_village,숲속 도적단이 마을을 약탈했습니다!
+display_event.enemy_looted_village,{faction} 진영이 마을을 약탈했습니다!
+display_event.heir_rebellion,후계자가 반란을 일으키는 중입니다!
+display_event.new_heir,새로운 왕관의 후계자는 {name}입니다.
+display_event.free_lord_was_hired,자유 영주 {name}이(가) {duration}일 동안 고용되었습니다.
+display_event.lord_captured,{faction_name}의 {name}이(가) {faction_name_2}에 생포되었습니다.
+display_event.captive_terror,{king_name} 왕이 나와 {captive_name} 사이의 소통에 대해 알게 되었습니다. 나에 대한 왕의 태도가 악화되었습니다.
+display_event.looted_books,훔친 책:
+display_event.character_part_of_nature_add,{name}이(가) 성격 특성({trait_name})을 획득했습니다.
+display_event.character_part_of_nature_delete,{name}이(가) 성격 특성({trait_name})을 잃었습니다.
+display_event.character_revail_skill_trait,{name}이(가) {skill_name} 스킬을 완전히 습득하고 {trait_name} 스킬 특성을 잠금 해제했습니다.
+display_event.dark_order,당신의 흉악범이 매수되었습니다.
+display_event.student_as_teacher,{student}이(가) {skill} 스킬에서 {teacher} 레벨에 도달했습니다.
+display_event.student_as_teacher_general,{student}이(가) 모든 스킬에서 {teacher} 레벨에 도달했습니다.
+display_event.murder_intention_add,{name}이(가) 살인 모의 중입니다.
+display_event.bishop_is_king_enemy,왕이 주교의 적이 되었습니다.
+display_event.kid_need_lesson,{name}: 학습하지 않는 중
+display_event.lord_dead_in_travell,{name}: 여정 중 사망
+display_event.other_faction_king_dead,{faction}의 통치자가 사망했습니다.
+display_event.soldier_for_rises,진급 가능한 전사들이 있습니다.
+display_event.persons_forest_bandits,영지에 숲속 도적단이 있습니다.
+display_event.religious_punishment_soon,곧 종교 재판단이 도착합니다.
+display_event.ceremony_start,식 시작: {name}
+display_event.ceremony_today,오늘 {name}의 식이 열립니다.
+display_event.guest_duel,{name}: {lord}에게 결투 신청
+display_event.lord_seduced,{name}이(가) 유혹당했습니다. 충성도가 위협받고 있습니다.
+display_event.lord_bribed,{name}이(가) 매수당했습니다. 충성도가 위협받고 있습니다.
+display_event.adopted_child_lord,{mother}이(가) 출산 중 사망하여 {king} 왕이 아이를 가족으로 입양하기로 결정했습니다.
+display_event.drunk_fight_start,{name}: 취중 싸움 시작
+display_event.nectar_rage_begin,{name}: 넥타 격노 상태!
+display_event.new_matriarch,새로운 총대주교
+display_event.synod_relations_begin,사랑의 가족과의 관계 시작
+display_event.discovered_talent,{name}: 훈련 중 새로운 재능 발견!
+display_event.inspired_today,{names}: 영감!
+display_event.terror_culture,{name} 사람들이 문화적 공포를 겪고 있습니다.
+display_event.culture_migration_increase,{name}: 전쟁의 결과
+display_event.character_assimilated,{name}: 영향을 받아 자신의 문화를 바꿨습니다.
+display_event.death_is_near,{name}: 죽어가는 중
+display_event.death_is_near_king,{name}: 군주가 죽어가는 중
+display_event.death_is_near_king_heirs_power_struggle,{name}: 군주가 죽어가는 중입니다. 왕좌를 위한 후계자들의 싸움이 시작되었습니다!
+family.brother_sister_f,여자 형제
+family.brother_sister_m,남자 형제
+family.child_f,딸
+family.child_m,아들
+family.ex_paramour_f,전 연인
+family.ex_paramour_m,전 연인
+family.ex_spouce_f,전 배우자
+family.ex_spouce_m,전 배우자
+family.nephew_niece_f,여자 조카
+family.nephew_niece_m,남자 조카
+family.paramour_f,연인
+family.paramour_m,연인
+family.parent_f,어머니
+family.parent_m,아버지
+family.spouce_f,배우자
+family.spouce_m,배우자
+family.uncle_aunt_f,고모/이모
+family.uncle_aunt_m,삼촌
+menu.appoint.inspection,점검
+menu.appoint.preaching,설교
+menu.appoint.soldiers_training,전사 훈련
+menu.appoint.training,훈련
+appoint.clerk_additional,사무국 소속
+menu.army,군대
+menu.army.commander,지휘관
+menu.army.create_army,생성
+menu.army.group.exp_mercenaries,노련한 용병
+menu.army.group.mercenaries,기사({count})
+menu.army.group.militia,농민 출신({count})
+menu.army.group.slave,풀려난 수감자({count})
+menu.army.group.rise,진급
+menu.army.hire,고용
+menu.army.hire_soldier.caption,병력 고용
+menu.army.lords,지휘관
+menu.army.new_army_button,군대
+menu.army.new_army.caption,새 군대
+menu.army.new_army.create,생성
+menu.army.new_army.auto,자동
+menu.army.new_army.warriors,전사({count})
+menu.army.new_army.warehouse,재고 보유
+menu.army.new_army.squad_equip,분대 보유
+menu.army.new_army.weapon,무기
+menu.army.new_army.armor,방어구
+menu.army.new_army.shield,방패
+menu.army.patrol,마을 순찰대
+menu.army.soldiers,전사
+menu.army.without_equip,비무장
+menu.construction.category.army,군대
+menu.construction.category.housing,주거
+menu.construction.category.production,생산
+menu.construction.category.resources,자원
+menu.construction.category.service,서비스
+menu.construction.category.decor,장식
+menu.construction.hint.produce,생산:
+menu.economy,경제
+menu.economy.do_up_to,목표 수량
+menu.economy.do_up_to_x,목표 수량까지
+menu.economy.in_construction,건설 중
+menu.economy.make,제작
+menu.economy.make_x,일정 수량 제작
+menu.economy.order_complete,목표 달성 완료
+menu.economy.required,필요
+menu.economy.resources,자원
+menu.economy.sell,수량
+menu.economy.sold,판매됨
+menu.economy.used,사용됨
+menu.economy.workshops,공방
+menu.finance.by_price,단위당 가격
+menu.finance.caption,재정
+menu.finance.daily,일일 지출
+menu.finance.daily_jobless,실업자
+menu.finance.daily_services,서비스
+menu.finance.daily_soldiers,전사
+menu.finance.daily_workers,농민
+menu.finance.dayly_sales,일일 판매량
+menu.finance.food,음식
+menu.finance.food_for_slaves,수감자
+menu.finance.market,지역 시장
+menu.finance.money,돈
+menu.finance.salary,임금
+menu.finance.sell,수량
+menu.finance.slaves,수감자
+menu.finance.taverns,술집
+menu.finance.total,총계
+menu.finance.goods_availability.title,주민의 부유함
+menu.finance.goods_availability.population,거주민:
+menu.finance.goods_availability.slaves,수감자:
+menu.finance.goods_availability.peasants,주민
+menu.finance.goods_availability.soldiers,전사
+menu.finance.goods_availability.food_for_sale,판매용 <hint=hint_food>음식</hint>:
+menu.finance.goods_availability.drinks_for_sale,판매용 <hint=hint_alcohol>술</hint>:
+menu.finance.goods_availability.food_for_slaves,배급된 <hint=hint_food>음식</hint>:
+menu.finance.goods_availability.drinks_for_slaves,배급된 <hint=hint_alcohol>술</hint>:
+menu.finance.goods_availability.savings,평균 <hint=hint_wealth>재산:</hint>
+menu.finance.goods_availability.sale_yesterday,<b>어제 총판매량:</b>
+menu.appoint.victory_chance,승리 확률:
+menu.production,생산
+menu.tools.hint.army,군대
+menu.tools.hint.clan,왕조
+menu.tools.hint.construction,건설
+menu.tools.hint.finance,재정
+menu.tools.hint.statistics,통계
+menu.tools.hint.knowledge,지식
+menu.tools.hint.production,생산
+menu.tools.hint.world,세계
+menu.trade,무역
+menu.trade.deal,무역
+menu.trade.price_change_reason,"{bonus_penalty_side}, 사유: {skill_name} 스킬 차이"
+menu.trade.price_change_global_map,세계 지도에서 발생한 사건으로 일부 상품 가격 상승
+menu.trade.price_change_reason.bonus,이익
+menu.trade.price_change_reason.penalty,상인 이익
+menu.family.restrictions,제한
+menu.family.tree,가계도
+menu.family.сhronicles,연대기
+menu.family.dogmas,교리
+menu.battle_squad.is_allow_shoot,사격 승인
+menu.battle_squad.stats.on_legs,거동 가능:
+menu.battle_squad.stats.moral,기분:
+menu.battle_squad.stats.equipment,장비:
+menu.battle_squad.stats.skill,전투 스킬:
+menu.battle_squad.hostage,인질 생포 중
+menu.battle_squad.surrender,항복
+menu.battle_squad.disband,해산
+menu.battle_squad.header,전투 분대
+menu.battle_squad.loot,전리품
+menu.battle_squad.order,명령
+menu.battle_squad.is_protect_archers,궁수 보호
+menu.battle_squad.is_commander_stay_in_back,후방 잔류
+name.trader,상인
+notification.miscarriage,{name}이(가) 유산했습니다.
+notification.actor_use_medicine,{name}이(가) 의료 연고를 사용했습니다.
+notification.character_get_robbed,{name}이(가) 강도에게 공격당했습니다.
+notification_character.immobilized,{name}이(가) 움직일 수 없습니다.
+notification.character_close_dead,{name_initiator} -> {name_target}: 상실로 위로할 수 없을 만큼 흐느낌
+notification.character_crime,{name}이(가) 범죄 혐의로 고발되었습니다!
+notification.character_date,{name_initiator}와(과) {name_target}이(가) 오늘 데이트를 합니다.
+notification.character_dead,{name}이(가) 사망했습니다.
+notification.character_disease_hard,{name}의 상태가 심각합니다.
+notification.character_gift,{name_initiator} -> {name_target}: 선물 제공
+notification.character_intrigue_full,{name_initiator} -> {name_target}: 음모로 인해 {name_third_person}와(과)의 관계가 악화되었습니다.
+notification.character_intrigue,{name_target} -> {name_third_person}: 음모로 인한 관계 악화
+notification.character_join_to_player,{name}이(가) 귀족 가문에 합류합니다.
+notification.character_love,{name_initiator} -> {name_target}: 사랑에 빠짐
+notification.character_low_loyalty,{name}: 충성도 낮음
+notification.character_praise,{name_target} -> {name_third_person}: 칭찬으로 인한 관계 개선
+notification.character_skill_new_level,{name}이(가) 새 레벨을 획득했습니다! {skill}: {level}
+notification.character_slander,{name_target} -> {name_third_person}: 중상모략으로 인한 관계 악화
+notification.character_unconscious,{name}이(가) 의식 불명입니다.
+notification.character_under_attack,{name}이(가) 전투에 참전했습니다!
+notification.character_go_insight,{name}이(가) {knowledge_name}에 대한 깨우침을 얻었습니다.
+notification.characters_start_fight,{name_initiator}와(과) {name_target}이(가) 전투를 시작했습니다!
+notification.characters_start_duel,{name_initiator}와(과) {name_target}이(가) 결투를 시작했습니다.
+notification.date_denied,{name_initiator} -> {name_target}: 데이트 거절
+notification.enemy_commander_dead,적 분대 지휘관을 처치했습니다!
+notification.enemy_commander_surrender,적 지휘관이 항복했습니다!
+notification.enemy_commander_retreat,적 분대 지휘관이 도망치고 있습니다!
+notification.enemy_commander_unconscious,적 분대 지휘관이 의식 불명입니다!
+notification.guest_bribe_fail,{name}: 손님이 왕의 선물을 거절
+notification.guest_bribe_success,{name}: 손님이 왕의 선물을 수락
+notification.guest_attempted_bribe_succes,{name}: {iniciator}의 선물을 수락. 충성도가 하락합니다.
+notification.character_start_action_task,{name}이(가) {action_task} 임무를 수행하기 시작했습니다.
+notification.guest_leaving,{name}: 손님이 정착지를 떠나는 중
+notification.guest_leaving_danger_wound,{name}: 손님이 위험한 상처로 인해 정착지를 떠납니다.
+notification.guest_leaving_bad_mood,{name}: 손님이 우울증으로 인해 정착지를 떠납니다.
+notification.guest_arrive,{name}: 손님이 정착지에 도착
+notification.murder_fighting,{name_initiator}이(가) 분노에 휩싸여 사력을 다해 싸웁니다!
+notification.murder_night_murder,{name_initiator}이(가) 암살 모의 중
+notification.murder_poison_success,{name_target}이(가) 독살당함
+notification.character_game_of_dice_win,{name_winner} -> {name_looser}: 주사위로 금화 획득
+notification.character_game_of_dice_loose,{name_looser} -> {name_winner}: 주사위로 금화 상실
+notification.murder_poison_unsuccess,{name_initiator} -> {name_target}: 적을 독살하려 했으나 들킴
+notification.reward,{name_initiator} -> {name_target}: 보상함
+notification.rumors,{name_initiator} -> {name_target}: {name_third_person}에 대한 소문 냄
+notification.rumors,{name_initiator} -> {name_target}: {name_third_person}에 대한 소문 냄
+notification.sex,{name_initiator}와(과) {name_target}이(가) 침대에서 시간을 보내는 중
+notification.sex_treason,{name_initiator}이(가) {name_target}와(과) 바람을 피우는 중
+notification.tantrum_begin,{name}: 신경 쇠약!
+notification.determination_begin,{name}이(가) 욕망을 충족하기로 결심했습니다!
+notification.madness_begin,{name}: 광기에 점령당함
+notification.tantrum_high_probability,{name}: 신경 쇠약 가능성 높음!
+notification.tantrum_probability,{name}: 신경 쇠약 가능성 있음!
+notification.threat,{name_initiator} -> {name_target}: 위협함
+notification.thugs_burglary,{name}: 흉악범들이 집에 침입하는 중입니다!
+notification.character_is_pregnant,{name}이(가) {father_name}의 아이를 임신
+notification.character_was_born,아이 탄생: {name}
+notification.kid_grow,{name}이(가) 성년이 되어 소영주가 됨
+notification.new_desire,{name}이(가) 내면의 강력한 욕망을 발견했습니다.
+notification.desire_strong,{name}: 욕망이 더더욱 강해졌습니다.
+notification.desire_complete,{name}의 욕망이 충족되었습니다!
+notification.king_greetings,{name}이(가) 왕을 맞이했습니다.
+notification.lord_return,{name}이(가) 영지로 복귀했습니다.
+notification.start_hate,{name_initiator} -> {name_target}: 증오 시작
+notification.captive_escape,{name}이(가) 감금에서 탈출하려고 합니다!
+notification.captive_welcome,{name}이(가) {fraction_name} 가문에 대한 충성을 맹세했습니다.
+notification.game_save,게임 저장 완료
+notification.got_knowledge_from_talk,{name}이(가) {name_2}와(과) 대화 중에 {knowledge} 지식을 획득했습니다.
+punishment.blindness,실명
+punishment.execution,처형
+punishment.exile,추방
+punishment.mask_of_shame,수치심의 가면
+punishment.enslavement,투옥
+resource.battle_axe,도끼
+resource.ale,풍미 있는 에일
+resource.moonshine,위스키
+resource.beer,맥주
+resource.bow,활
+resource.coal,석탄
+resource.crossbow,석궁
+resource.food,밀가루
+resource.heavy_armor,중갑
+resource.instruments,도구
+resource.iron,철
+resource.knife,단검
+resource.light_armor,경갑
+resource.medicine,의료 연고
+resource.nectar,넥타
+resource.paper,종이
+resource.rune,신성 반지
+resource.shield,방패
+resource.sword,검
+resource.wood,목재
+resource.wooden_hammer,철퇴
+resource.wooden_spear,창
+resource.hop,홉
+resource.rye,호밀
+resource.steel,강철
+resource.meat,고기
+resource.sweden,순무
+resource.herb,약초
+resource.producted_store,생산 <hint=hint_building_stores>창고</hint> 현재 보유량: {count} (아이콘 옆의 회색 숫자)
+resource.on_fields_now,밭에서 익는 중: {count} (아이콘 옆의 회색 숫자)
+resource.caravan_cost,신성한 대상단이 해당 자원을 <hint=hint_resource_gold>{cost_buy}</hint>에 구매하고 <hint=hint_resource_gold>{cost_sell}</hint>에 판매합니다.
+screen_ui.day,{day}일 차
+statistics.for_5_days,5일간
+statistics.for_today,오늘
+statistics.for_yesterday,어제
+time.hours,{hours}시간
+time.minutes,{minutes}분
+work.melter,용광로
+work.alchemist,연금술사
+work.miller,제분사
+work.pig_farmer,돼지치기
+work.armorsmith,방어구 대장간
+work.barman,여관 주인
+work.drug_dealer,약장수
+work.brewer,양조업자
+work.builder,건설자
+work.caravaneer,상단 상인
+work.carpenter,목수
+work.coal_furnace,숯꾼
+work.farmer,농부
+work.herbalist,약초 채집가
+work.inspector,점검관
+work.jobless,무직
+work.miner,광부
+work.paper_factory,제지업자
+work.patrol,순찰대
+work.priest,사제
+work.salesman,상인
+work.servant,시종
+work.weaponsmith,무기공
+work.woodcutter,벌목꾼
+work.clerk,사무관
+work.gallows_inspector,처형대 감독관
+work.chancellery_inspector,사무관
+work.trainer,훈련관
+social_class.dummy,농민
+actor.loyalty_change_reason.happy,기분 좋음
+actor.loyalty_change_reason.unhappy,기분 나쁨
+actor.loyalty_change_reason.satisfied,기분 보통
+actor.loyalty_change_reason.gift,보상받음
+actor.loyalty_change_reason.threat,위협받음
+actor.loyalty_change_reason.bribe,뇌물 받음
+actor.loyalty_change_reason.terror,공포
+actor.loyalty_change_reason.donate,강제로 신성 반지 포기
+actor.loyalty_change_reason.bad_relation_to_king,왕과 나쁜 관계
+actor.loyalty_change_reason.good_relation_to_king,왕과 좋은 관계
+actor.loyalty_change_reason.seduced,유혹됨
+actor.loyalty_change_reason.seduce_task,강제로 유혹함
+actor.loyalty_change_reason.seduced_me,유혹당함
+actor.loyalty_change_reason.bad_day,운수 나쁜 날
+battle_squad.no_orders,명령 없음
+battle_squad.caption,{commander_name} 분대
+battle_squad.bandits_squad,도적 분대
+battle_squad.average_mood,평균 기분
+battle_squad.average_skill,평균 스킬
+battle_squad.equipment,장비
+battle_squad.on_legs,대기 중
+knowledge.title,지식
+knowledge.title_second,및 그 소유자
+knowledge.technology,기술
+knowledge.dogmas,교리
+knowledge.holders,지식 보유자
+knowledge.usual,일반 기술
+knowledge.advanced,고급 기술
+knowledge.ultra,최고급 기술
+knowledge.study,학습
+knowledge.write,집필
+knowledge.rewrite,필사
+knowledge.book.good_info,지식 메뉴에서 연구 중
+knowledge.book.need_level,연구에는 {level}레벨 이상의 <hint=hint_skill_knowledge>지능</hint>을 권장합니다.
+knowledge.book.dialect,<b>{dialect}(으)로 작성된 책입니다.</b>
+knowledge.book.dialect_speakers,언어 구사자: {speakers}
+menu.knowledge.interaction,상호작용
+menu.knowledge.empty_menu,"상호작용에 필요한 지식이 없습니다.
+ 상인을 통해 획득할 수 있습니다."
+menu.knowledge.actor,캐릭터
+menu.knowledge.no_knowledge,지식 없음
+menu.knowledge.level,(레벨 {lvl})
+tech.building,{building_name}
+tech.building_2,{building_name} 및 {building_name_2}
+tech.building_resource,{building_name} 및 {resource_name}
+tech.resource,{resource_name}
+tech.upgrade,{building_name}: 업그레이드
+tech.efficiency,{building_name}: 효율성
+tech.soil,효율적인 밭 비옥화
+tech.wood,효율적인 벌목
+tech.survive,식물 관리
+tech.pigfarm,올바른 돼지 사육
+tech.repair,{building_name}. 경제적인 수리
+tech.save.res,{building_name}. 자원 절약
+tech.no.break,{building_name}. 고장 없는 작업
+tech.no.fire,{building_name}. 화재 안전 대책
+tech.no.trauma,{building_name}. 안전 대책
+tech.fast.building,신속 건설
+tech.fast.build.less.wood,목재. 경제적인 건설
+tech.fast.build.less.iron,철. 경제적인 건설
+tech.skill,{skill_name}. {tome}
+tech.criminal_intimidation,부랑자의 위협
+tech.loyalist_more,충성도의 기반
+tech.preach_better,효율적인 설교
+tech.slaves_happiness,수감자의 행복
+tech.tanya_paper,타나야 종이
+tech.crevav_swede,순무찜
+tech.drought_fight,가뭄 해소
+tech.longevity,장수
+tech.addiction_resist,중독 대응 방법
+tech.fanatic_pretend,거짓 광신주의
+tech.marah_ale,마카 에일
+tech.right_nectar,올바른 넥타
+tech.fertilize_cost_less,올바른 비옥화
+tech.tree_more_wood,올바른 벌목
+tech.better_meat,고기 요리
+tech.flirt_art,구애의 기술
+tech.voruns_moonshine,반 위스키
+tech.dialect,{dialect_name} 언어 사전
+tech.cutter,참수자
+tech.axe_mastery,도끼 숙련
+tech.handfighter,맨손 전투
+tech.tanya_shield,타나야 방패
+tech.bow_mastery,활시위 숙련
+tech.mace_stun,철퇴 기절
+tech.heavy_armor_wear,방어구 착용
+tech.polite_trade,정중한 거래
+tech.sin_mind_reducer,죄에 대해 걱정 떨치기
+tech.tome,{number}권
+tech.common_good,공익
+tech.joy_of_education,깨우침의 즐거움
+dialect.common,제국어
+dialect.tanaya,타나야
+dialect.voruns,반
+dialect.gwelts,카이덴
+dialect.makha,마카
+decor.signt_with_equipment,장착한 기호
+decor.bonfire,모닥불
+decor.sign,기호
+decor.sign_with_scull,해골 기호
+decor.stone,돌
+decor.pile_of_skulls,뼈 무더기
+decor.bush_1,관목 1
+decor.bush_2,관목 2
+decor.bush_3,관목 3
+decor.floor_remove,도로 제거
+decor.sub.statue,조각상
+decor.sub.torch,조명
+decor.sub.floor,바닥
+decor.sub.other,기타
+decor.sub.trees,식물
+decor.banner,깃발
+decor.statue,조각상
+decor.floor_1,밝은 돌
+decor.floor_2,어두운 돌
+decor.floor_3,밝은 목재
+decor.floor_4,어두운 목재
+decor.stone_arch,석조 아치
+decor.torch,횃불
+decor.plant,식물
+decor.bag,부대
+decor.box,상자
+decor.barrel,통
+restrictions.activity.beer,술 섭취
+restrictions.activity.nectar,넥타 섭취
+restrictions.activity.dice,주사위 게임
+restrictions.activity.weapon,무기 사용
+restrictions.activity.armor,방어구 착용
+restrictions.eat.meat,고기 섭취
+actor.hint.slave.age,나이: {age}세
+actor.hint.slave.past,과거:
+actor.culture,문화: {culture}
+actor.hint.slave.combat_skill,전투 스킬: {skill}
+actor.hint.slave.traums,부상:
+actor.hint.slave.will_to_be_free,자유를 갈망 중
+building.chancellery.need_charge,사무국 작업을 시작하려면 종이를 공급해야 합니다.
+building.chancellery.charging,일꾼들이 종이를 옮기는 중
+building.chancellery.charged,"사무국 작업 중
+ {day}일분의 종이가 있습니다."
+building.chacnellery.charge_abort,종이 보충 취소
+building.chacnellery.charge,종이 보충
+inspection.hint.today,오늘 점검함
+inspection.hint.yesterday,어제 점검함
+inspection.hint.not,미점검
+inspection.closest_time,{day}일 {hour}시간 후 점검 종료
+inspection.time,{day}일 {hour}시간
+inspection.remain_hours,{hour}시간
+actor.loyalty.log,충성도 변경
+menu.peoples.advice,힌트:
+menu.sodliers.lack_of_equipment,장비 부족:
+menu.migration.terror,<hint=hint_terror_peasants>공포</hint>가 도시를 <red>장악</red>하는 동안 <hint=hint_migration>이주</hint>가 <red>중단</red>되었습니다.
+menu.migration.one_village_burned,영지 내 마을이 불탄 이후 <hint=hint_migration>이주</hint>가 <red>감소</red>했습니다. 마을은 며칠 뒤 복원됩니다.
+menu.migration.all_village_burned,영지 내 모든 마을이 불탄 이후 <hint=hint_migration>이주</hint>가 <red>중단</red>되었습니다. 마을은 며칠 뒤 복원됩니다.
+menu.migration,$ 오늘 예상 <hint=hint_migration>이주자</hint>: {peasant_migrants_today}
+menu.migration.increased,<green>이주가 증가했습니다</green>. 효과가 {days}일 더 지속됩니다.
+menu.migration.decreased,<red>이주가 감소했습니다</red>. 효과가 {days}일 더 지속됩니다.
+actor.hint.no_sins,죄 없음
+social_strata.dummy,농민
+social_strata.slaves,수감자
+social_strata.soldiers,전사
+social_strata.lords,영주
+social_strata.animal,동물
+building.social_availability,이용 가능
+building.market_good_not_sell,판매 금지
+menu.trade.slave_final_cost,최종 가격
+menu.trade.slave_base_cost,기본 가격
+menu.trade.slave_fertility_cost,생식력
+menu.trade.slave_free_mind_cost,사랑하는 사람을 그리워하지 않음
+menu.trade.slave_combat_cost,전투 스킬
+menu.trade.slave_age_cost,나이
+menu.trade.slave_disability_cost,장애
+menu.trade.slave_slowdown_cost,둔화됨
+menu.trade.slave_faction_cost,변동치
+actor.matching.agree_to_sex,{lord_name}은(는) 이 영주와의 데이트에 동의할 것입니다.
+actor.part_of_nature.heir,후계자
+actor.part_of_nature.commander,지휘관
+actor.part_of_nature.queen,통치자의 배우자
+actor.name.hired_bandits,고용된 흉악범
+actor.personality_trait_locked,밝혀지지 않음. 이 특성을 잠금 해제하려면 {skill_name} 스킬을 15까지 높여야 합니다.
+king_role.strong_supporter,권력의 지지자
+king_role.trader,물질주의자
+king_role.religious,독실
+king_role.order_supporter,질서의 수호자
+king_role.suggestable,팔랑귀
+king_role.liberator,해방자
+king_role.lick,평등주의자
+king_role.intriguant,음모자
+king_role.scientist,현자
+menu.missing_equipment.no_problems,문제없음
+actor.deep_social.evil_joke,조롱
+actor.deep_social.good_joke,농담
+actor.deep_social.deep_talk,마음을 터놓은 대화
+actor.deep_social.abuse,모욕
+actor.deep_social.slight,무시
+actor.deep_social.intrigue,음모
+actor.deep_social.flattery,아첨
+actor.deep_social.sorry,사과
+actor.deep_social.rumors,소문
+actor.inspection_queue,점검 대기열
+knowledge.blocked_reason.population_required,도시 내 거주민 {number_of_peoples}/{required_peoples}명
+knowledge.blocked_reason.knowledge_required,{knowledge_name} 잠금 해제됨
+knowledge.blocked_reason.building_required,{building_name}' 건물 건설됨
+knowledge.blocked_reason.play_days,마을이 {days}일 동안 유지됩니다.
+knowledge.blocked_reason.no,조건을 충족합니다.
+ceremony.wedding,결혼식
+ceremony.funeral,장례식
+ceremony.coronation,대관식
+menu.choose_province.climate,기후:
+menu.choose_province.safety,안전:
+menu.choose_province.forest,숲:
+menu.choose_province.villages,마을:
+menu.choose_province.resources,자원:
+menu.choose_province.moderate,보통
+menu.choose_province.many,많음
+menu.choose_province.high,높음
+menu.playtest.welcome_caption,환영합니다!
+menu.demo.welcome,"환영합니다!
+ 
+ 이 데모에서는 게임 내 시간 기준 {demo_days_count}일까지 완전한 게임을 경험할 수 있습니다.
+ 
+ 아직 많은 부분이 개발 단계이기에, 혹시 모를 오류나 문제가 발생할 수 있음에 미리 사과드립니다.
+ 
+ <right>감사합니다.
+ Long Jaunt 팀</right>"
+menu.demo.alpha,"<b>미리 해보기</b>
+ 
+ 현재
+ 
+ $ 일부 언어
+ $ 발생 가능한 버그
+ $ 최적화
+ $ 기타
+ 
+ 게임의 여러 요소가 작업 중이며 개선될 예정입니다."
+menu.playtest.welcome,"Norland 플레이테스트 버전 초대를 수락해 주셔서 감사합니다.
+ 
+ 아직 게임에서 종종 충돌이나 오류가 발생하고 인터페이스도 부족하지만, 이 버전을 미리 해보기로 출시하고자 합니다.
+ 
+ 게임 종료 후 2분만 시간을 내어 <b>의견</b>을 남겨주세요(메인 메뉴의 버튼).
+ 
+ 이 버전은 게임 일수가 {demo_days_count}일로 제한됩니다.
+ 
+ <right>감사합니다.
+ Long Jaunt 팀</right>"
+menu.demo.under_logo,데모
+menu.playtest.under_logo,플레이테스트 베타
+menu.story,"Norland, 세계가 창조된 후 2898년.
+ 
+ 위대한 <b>크림슨 제국</b>이 종교 전쟁의 불길 속에서 멸망한 뒤로 200년의 세월이 흘렀습니다. 과거 제국의 영지는 야만인의 왕국이 되었으며, 전능한 <b>성모 소피아 교회</b>만이 서로의 파괴를 막아주고 있습니다.
+ 
+ 신성한 예언자들이 세계의 종말이 임박했다고 예언하는 가운데, 한 작은 왕국에서 신제국 탄생의 꿈이 피어나고 있습니다..."
+menu.new_game_story,"길고 고단한 여정을 마친 {soul_uuid_king} 왕은 문간에서 기다리는 아내의 모습을 기대하며 고국에 도착했습니다. 하지만 아내 대신, 남동생이 다가왔습니다. 얼굴 표정을 보니 나쁜 느낌이 듭니다.
+ 
+ ""왕이시여, 기쁜 소식을 전하지 못해 죄송합니다.""
+ ""무슨 일인가, {soul_uuid_brother}? 지체하지 말고 사실대로 말하거라.""
+ 차마 왕의 눈을 마주치지 못한 채, {soul_uuid_brother}은(는) 더듬거리며 말하기 시작했습니다.
+ ""지난밤 도적단의 공격이 있었습니다. 막아보려고 했으니 수가 너무 많았습니다. 도적단이 왕비님을 납치하여 몸값을 요구하고 있습니다.""
+ ""당장 전령을 불러 원하는 게 뭐든 갖다줘!""
+ ""왕이시여, 하지만 저희는 적에 둘러싸인 상황입니다. 지금은 봉신으로서 보호를 받고 있지만 노쇠한 왕의 시간이 얼마 남지 않았다는 것을 아시잖습니까. 금화와 자원이 부족하면, 버틸 수 없을 겁니다. 지금 필요한 것은 군대입니다.""
+ ""{soul_uuid_wife}을(를) 저버리라는 말인가?""
+ ""몸값을 받을 수 있다는 희망이 있는 한, 차마 왕비님을 건드리지 않을 것입니다.""
+ ""잠깐 생각을 좀 해봐야겠어. 물러나서 지시를 기다리게."""
+menu.new_game_story_header,이야기의 시작
+menu.demo.finish.header,이야기의 끝
+menu.demo.finish,"Norland 데모 버전은 여기서 끝입니다...
+ 
+ 더욱 어려운 시작 설정이나 다른 영주 스킬로 게임을 플레이해 보세요.
+ 
+ 플레이해 주셔서 감사합니다!"
+menu.demo.finish.back_to_menu,메뉴로 돌아가기
+menu.settings.change_resolution.apply.header,설정 변경 중
+menu.settings.change_resolution.apply.body,"화면 해상도 설정이 변경되었습니다.
+ 설정을 적용하려면 '{accept_button_caption}'을(를) 누르세요. 누르지 않으면 {time_remain_seconds}초 후 설정이 자동으로 취소됩니다."
+menu.hack_detected.header,저장 파일 수정 감지됨
+menu.hack_detected,"저장 파일에 제3자의 수정이 가해지면 게임의 올바른 작동을 보장할 수 없습니다.
+ 
+ 버그 보고서가 개발사에 제출되지만, 게임 버그 때문에 발생한 오류인지 제3자의 파일 조작에 의한 오류인지 확실히 파악할 수 없습니다.
+ 
+ 이렇게 되면 실제 오류를 수정하는 대신 존재하지 않는 오류를 찾는 데 시간을 쓰게 만들어 게임의 품질에 부정적인 영향을 미칩니다.
+ 
+ 이에 따라 게임이 출시될 때까지는 어쩔 수 없이 저장 파일 수정을 금지하기로 하였습니다."
+resource.not_available.by_synod,<hint=hint_relations_matriarch>총대주교와의 관계</hint>를 {number}까지 높이면 신성한 대상단이 이 제품을 판매하기 시작합니다.
+text.preposition,또는
+menu.ambition.screen_title,왕의 야망
+menu.ambition.text,왕이 우리 귀족 가문의 미래를 결정할 야망을 알릴 때가 됐다고 결정했습니다.
+ambition.conquer,정복
+ambition.allias,동맹 결성
+ambition.populate_city,도시 정착
+ambition.gain_population,인구 증가
+ambition.produce_goods,자원 생산
+menu.ambition.complete_title,야망 달성!
+menu.ambition.complete,"왕이 목표를 달성했습니다. 이제 모두가 왕을 {soul_uuid_1} <b>{name}(으)로 알게 됩니다!</b> 
+ 
+ 하지만 왕의 야망은 끝이 없습니다. 곧 새로운 야망이 왕의 머릿속에 생겨날 겁니다..."
+ambtion.button.ok,수락
+ambition.checkbox.conquer,<b>정복자.</b> 왕조를 번영하게 하는 것은 힘입니다. 왕국에 <b>{vas_num}개의 봉신</b>을 만드세요.
+ambition.checkbox.allias,<b>통합자.</b> 서로를 도와야만 꿋꿋이 버틸 수 있습니다. 자유 도시 동맹을 <b>{all_num}개의 영지</b>까지 확장하세요.
+ambition.checkbox.populate_city,도시 정착에 대한 내용입니다.
+ambition.checkbox.gain_population,<b>다산.</b> 인구가 많을수록 우리는 강해집니다. 영지의 인구를 <b>{pop_num}명</b>까지 늘리세요.
+ambition.checkbox.produce_goods,<b>경제.</b> 경제가 모든 것을 결정합니다. 상품 <b>일일 생산량</b>의 가치를 <b><hint=hint_resource_gold>{prod_num}</hint></b>까지 늘리세요.(현재 <hint=hint_resource_gold>{now}</hint>)
+menu.battle.auto_battle,자동 전투
+menu.battle.retreat,군대가 전투에서 후퇴할 것입니다. 이것은 패배로 간주되어 전사들의 기분을 망치겠지만 그들의 생명은 구할 수 있습니다.
+menu.battle.manually_battle,지도상 전투
+ambition.title.conquer,날카로운 검
+ambition.title.allias,강권
+ambition.title.gain_population,큰 보금자리
+ambition.title.produce_goods,장부
+ambition.resume,이전 야망 재개
+menu.resource_statistics.legend.title,통계의 의미
+menu.resource_statistics.legend.in_store,도시 창고의 기존 자원량
+menu.resource_statistics.legend.production,작업일에 생산되는 자원량
+menu.resource_statistics.legend.used,"다른 자원 생산 및 건물 건설에 사용되는 자원량, 음식과 술의 경우 영주 및 노예의 소비량"
+menu.resource_statistics.legend.in_use,생산 건물 창고 및 전사 인벤토리에 남은 자원량
+menu.resource_statistics.legend.in_local_market,"지역 시장, 술집, 마약 소굴의 오늘 판매량"
+menu.resource_statistics.legend.caravan,신성한 대상단과의 거래 결과
+menu.resource_statistics.header.in_store,보유
+menu.resource_statistics.header.production,생산
+menu.resource_statistics.header.used,사용됨
+menu.resource_statistics.header.in_use,건물 창고 재고 및 전사 보유
+menu.resource_statistics.header.in_local_market,지역 시장
+menu.resource_statistics.header.caravan,신성한 대상단과의 거래
+menu.resource_statistics.no_data,통계는 내일 표시됩니다.
+study.complex,일반 훈련
+soul.tab.logs,역사
+tech.war_logistic,군사 물류 {vol}권
+tech.prisoners,포로
+building.menu.lvl,레벨 {lvl}
+building.menu.resources,창고 건설
+building.menu.workers_road_time,일꾼 이동 시간
+building.menu.to_workplace,근무지로:
+building.menu.to_warehouse,창고로:
+building.menu.priority,우선순위
+building.menu.produced,생산 완료
+building.menu.workers_bonus,일꾼 보너스:
+building.menu.manager_bonus,관리자 보너스:
+building.menu.workers,일꾼
+building.menu.instructions,지시
+building.menu.set_inspector,관리자 임명
+"building.menu,inspection_bonus",보너스:
+building.menu.builld_first,이 건물 먼저 건설
+building.menu.upgrade,업그레이드
+building.menu.ship_now,"현재 생산된
+ 상품 배송"
+options_menu.audio.voice_volume,음성 볼륨
+building.prefer.noone,우선순위 없음
+building.prefer.nectar,넥타 중독자
+building.prefer.slaves,수감자
+building.prefer.loyalist,충성파
+building.prefer.culture,{culture}
+building.prefer.all,자동
+display_event.communication_lost,{faction_name}: 소통 끊김
+building.menu.terror_all,전체 {count}
+building.menu.terror_no,없음
+building.menu.terror_culture,{culture} {count}
+building.menu.execution,처형
+building.menu.terror,공포
+building.menu.daily_statistic,일일 통계
+building.menu.intimidations,위협
+building.menu.path_calculation,계산 중
+building.menu.path_cant_find,찾을 수 없음
+time.hour_minut,{hour}시간 {minut}분
+time.minut,{minut}분
+actor.social_strata.dummy,평민
+notification.sex_treason_with_dummy,{name_initiator}이(가) 평민과 바람을 피웁니다.
+building.menu.building_resources,건물 자원
+chancellery.inspection_bonus,점검에 따른 생산 보너스는 사무국을 담당하는 영주의 관리 스킬 레벨과 동일한 {bonus}%입니다.
+menu.army.new_army.warriors_count,전사 {warriors_count}명
+menu.army.new_army.weapons_count,무기 {weapons_count}개
+tech.poisoner,독의 비밀
+menu.building.church.morning_service_stat,최근 설교 통계
+menu.building.church.gathering_time,모임 시간:
+menu.building.church.congregation,신자:
+menu.building.church.sermons,설교
+menu.buidling.church.fanatics,광신도: +{count}
+menu.buidling.church.agnostics,불가지론자: +{count}
+building.menu.workplace.clerks,사무관
+building.menu.refill_auto,자동 재보충
+building.menu.inspections_delivered,전달된 지시: {count}
+building.menu.living.residents,거주민({current} / {max})
+building.menu.sold_today,오늘 판매됨
+building.menu.guards,경비병
+family.son_of,아버지:
+family.daughter_of,아버지:
+display_event.mountains_bandits_prepare_to_attack,약탈자들이 도시를 공격하려고 준비 중입니다.
+actor.mood,기분
+building.description.library,이곳에서는 영주가 지식으로 작업합니다.
+building.description.decor,눈이 즐거움
+building.description.altar,식 및 화장 장소
+building.menu.crimes_prevented,범죄 방지
+norland.plot_day_4_header,신제국
+norland.plot_day_4_body,"문명은 천천히 사라집니다. 그 과정은 몇백 년이 걸리기도 하여 평범한 시민은 최후가 올 때까지 아무것도 알아차리지 못합니다. 하지만 역사를 잘 아는 통치자는 전쟁 중인 왕국을 통합하는 것만이 암흑기의 도래를 막을 수 있는 유일한 방법이라는 것을 알아야 합니다.
+ 
+ Norland는 지금 중요한 기로에 있습니다. 교회는 시민들이 직면하는 여러 문제들을 오랫동안 해결하지 못하고 있습니다. 잦은 전쟁, 굶주림, 질병은 일상이 되었습니다. 아직 기술과 지식을 전부 잃은 것은 아니지만, 아무것도 하지 않으면 이 역시 곧 사라질 것입니다. 그렇게 되면 문명도 저무는 것이지요.
+ 
+ 하지만 언제나 희망은 있습니다. 그러려면 반드시 다음을 완수해야 합니다.
+ 
+ $ 봉신국의 왕이 되거나 자유 도시 동맹의 지도자가 되어 <b>{goal_number}</b>개의 Norland 영지 통합
+ $ 스스로를 새로운 황제로 선포하고 교회의 종교재판단에 도전"
+norland.plot.end_game_header,신제국: 최후의 전투
+norland.plot.end_game,"""내 앞에 Norland의 지도가 펼쳐져 있다. 그 위에 있는 {goal_number}명의 왕이 나를 따르고 존경한다. 제국의 왕위에 올라 성모 소피아 교회에 도전할 때가 왔다. 종교재판단이 나의 군대 앞에 무릎을 꿇으면, 전 세계가 나를 황제로 인정하고 믿음의 돌은 내 발치에 놓일 것이다. 자, 마지막 시험이 기다리고 있다.""
+ 
+ $ 준비가 되었다면 자신을 신제국의 황제로 선포하세요(왕의 행동).
+ $ 전장에서 신성 종교재판단을 무찌르고 작위를 손에 넣어 게임에서 승리하세요."
+ambitions.province_under_control,"<b>신제국</b>
+ 
+ 봉신 왕국의 왕 또는 자유 국가 동맹의 지도자가 되어 Norland에 있는 <b>{goal_number}</b>개의 영지를 통합하세요.
+ 
+ 지배 중인 영지: {under_control}/{total_province}개"
+display_event.global_map_ai_ask_help,{faction_name} {king_name} 왕이 {danger_faction_name} 진영을 상대로 지원을 요청합니다.
+display_event.global_map_ai_declare_peace,{faction_name}의 {king_name} 왕이 평화 조약을 제안합니다.
+display_event.global_map_ai_invite_to_alliance,{faction_name}의 {king_name} 왕이 동맹 합류를 제안합니다.
+main_menu.continue_without_tutorial,튜토리얼 없이 시작
+display_event.build_library,도서관 건설
+main_menu.warning,경고!
+display_event.retrieve_bishop,주교가 영지를 떠납니다.
+display_event.holy_family_below_zero,총대주교의 총애를 잃었습니다.
+resource.product_requirement.technology,기술 연구:<b>{technology}</b>
+resource.product_requirement.building,건물 건설:<b>{building}</b>
+main_menu.continue_start_tutorial,튜토리얼과 함께 시작
+main_menu.new_game.family.members.default,두 형제와 부인
+actor.faction_from,{town} 출신
+new_game.province_difficulty.easy,쉬움
+new_game.province_difficulty.normal,보통
+new_game.province_difficulty.hard,어려움
+new_game.province_difficulty.recommended,처음 시작하는 플레이어에게 추천합니다.
+display_event.loan_will_be_expired_soon,곧 {faction_name}에게 상환해야 합니다.
+main_menu.new_game.family.recommended_for_newbs,균형 잡힌 게임을 위한 권장 스킬 설정입니다.
+new_game.province_difficulty.header,난이도:
+secret_deals_effect,<b>{secret_deals_knowledge}</b>: <green>이웃 간의 관계가 나빠지지 않습니다</green>.
+building.menu.terror_fanatics,광신도 {count}명
+global_map.relation_aftermath,$ 이웃과의 관계: <red>{rel_de}</red>
+global_map.relation_aftermath_with_soul,$ {soul_uuid_king}와(과)의 관계: <red>{rel_de}</red>
+global_map.aftermath,<b>결과</b>:
+tech.kaiden_army,카이덴 군대
+tech.makha_trade,마카 무역
+tech.makha_fanatic_terror,광신도 공포
+tech.econom_writing,비용 효율적 집필
+tech.faith_defender,신앙 방어
+tech.kaiden_training,카이덴 훈련
+tech.kaiden_loyalist,영원한 충성파
+tech.makha_secret_deals,비밀 거래
+display_event.holy_protection_will_removed_soon,사랑의 가족의 보호가 곧 해제됩니다!
+display_event.holy_protection_was_removed,사랑의 가족의 보호가 해제되었습니다!
+display_event.holy_protection,사랑의 가족의 보호
+display_event.swede_typh_allowed,루타바가 열병
+tutorial_events.disabled,비활성화
+tutorial_events.articles_only,설명만
+tutorial_events.articles_and_advices,설명과 Tips
+soul.from_faction,{faction_uuid}의 {soul_uuid}
+gui.living_place.appoint.header,거주
+actor.loyalty_2,충성도
+actor.important_persons,중요 인물
+encyclopedia.popup_window.okay,확인
+encyclopedia.popup_window.read_full,다음
+actor.opinion.interest_simple,관심
+free_lord.first_hire,첫 번째 고용 {first_hire_discount}% 할인
+menu.knowledge.longer_time,"낮은 학습 스킬로 인해, 학습에 더 오랜 시간이 걸립니다!
+ 
+ 지식 레벨 {tech_level}
+ 영주 레벨 {lord_level}"
+menu.knowledge.write_time,책 집필에 걸리는 시간:<b>{learn_time}시간</b>
+menu.knowledge.learn_time,$ 이 책 연구에 걸리는 시간:<b>{learn_time}시간</b>
+building.patrol_sign_day,주간 순찰
+tech.slaves_contain,수감자 관리
+time.days,{days}일차
+actor.action_task.spent_time_diplomacy,사절 방문
+display_event.culture_approve,{culture} 문화는 왕의 행동에 찬성합니다.
+menu.trade.less_tax_for_amy,*신앙 방어 지식 덕분에 세금이 {discount}% 감소합니다.
+menu.army.tax_for_soldier,"<b>이 전사 고용 시</b>
+ $ 전사의 전투 스킬에 따라 <hint=hint_tutorial_church_tax>군대에 대한 교회 세금</hint>이 <hint=hint_resource_gold>{soldier_tax}</hint>만큼 증가합니다. 하루에 총 <hint=hint_resource_gold>{overal_tax}</hint>의 세금을 내야 합니다."
+options_menu.game.camera_speed,카메라 속도
+actor.action_task.wise_talk,현명한 대화
+display_event.senility_begin,{name}: 노인성 치매에 걸렸습니다!
+display_event.character_loss_skill_trait,{name}: {skill_name} 스킬 하락으로 {trait_name} 재능을 잃었습니다.
+display_event.character_loss_knowledge,{name}: 노화로 {knowledge} 지식을 잊었습니다.
+knowledge.unavailable_knowledge,사용 불가 지식
+building.menu.mine_resources,매장량
+building.menu.mine_mined,채굴한 철: {mined} / {limit}
+display_event.mine.limit_reached,광산이 고갈되었습니다.
+display_event.mine.limit_soon,광산이 고갈되어갑니다.
+display_event.fetility_loss_from_tree,토양 비옥도가 감소했습니다.
+statistics_menu.province.resources,영지 자원
+statistics_menu.province.trees_cuted,벌목한 숲:
+statistics_menu.province.ground_fertility,토양 비옥도:
+statistics_menu.province.iron_mines,철 매장량
+statistics_menu.province.no_mine,광산이 건설되지 않았습니다:
+trade_agreements.header,무역 협정
+trade_agreements.today_balance,오늘 무역:
+trade_agreements.auto_trade,자동 무역
+trade_agreements.no_trade_agreements,활성화된 무역 계약이 없습니다.
+statistics_menu.province.mine_n,광산 {n}:
+statistics_menu.province.not_builded,건설되지 않음
+knowledge.category.economic,경제
+knowledge.category.textbooks,교과서
+knowledge.category.cultural_knowledge,문화 지식
+display_event.character_loss_skill,{name}: 노화로 {skill_name} 스킬이 레벨 {level}(으)로 하락했습니다.
+menu.tools.hint.trade_agreements,무역
+display_event.trade_agreements_result,외국 무역 보고서
+menu.trade.market_saturation.header,시장 포화
+menu.trade.market_saturation.saturation,제품의 <hint=hint_trade_dynamic_prices>시장 포화</hint> 제품:
+menu.trade.market_saturation.price,포화가 가격에 미치는 효과:
+menu.trade.market_saturation.relaxaction,일일 소모량:
+menu.trade.market_saturation.warning,<red>상품 수량이 <hint=hint_market_volume>지역 수요</hint>를 초과하여 시장 포화에 따른 가격 인하로 이어집니다!</red>
+display_event.new_prophecy,총대주교: 새로운 예언
+display_event.prophecy_started,{prophecy} 예언이 이루어졌습니다!
+prophecy.wolf_attack,살육늑대 침략
+prophecy.bandits_capm,탈영병 군대
+prophecy.fields_sick_one,농작물 감염
+prophecy.cholera_epidemy,천연두 전염병
+prophecy.xenophoby,이방인 혐오 확산
+prophecy.crocks_wave,부랑자 침략
+prophecy.fanatics_wave,황색 광신도
+prophecy.fields_sick_all,허기진 날들
+prophecy.tree_bug,나무좀
+prophecy.rats_invasion,쥐의 습격
+display_event.prophecy_soon,{prophecy} 예언이 곧 이루어집니다.
+display_event.prophecy_complete,{prophecy} 재앙이 끝났습니다.
+prophecy.matriarch.soon_prophecy_1,총대주교가 {d1}~{d2}일 안에 영지에 <b>{prophecy}</b> 재앙이 닥칠 거라고 예언했습니다.
+prophecy.matriarch.soon_prophecy_2,총대주교가 {d2}일 안에 영지에 <b>{prophecy}</b> 재앙이 닥칠 거라고 예언했습니다.
+prophecy.matriarch.letter_caption,예언
+prophecy.matriarch.letter_text,교회의 예지자들은 {d1}~{d2}일 안에 영지에 다음의 재앙이 찾아올 거라고 합니다.
+display_event.prophecy_soon_unknown,임박한 재앙에 대한 소문
+opinion_mind.interest_to,{name_2}에 대한 관심:
+opinion_mind.interest_of_me,나에 대한 {name_2}의 관심:
+opinion_mind.interest_sex_ready,<center>{name_1}이(가) {name_2}와(과) 데이트할 <green>준비</green>가 됐습니다(관심 {interest_sign} <green>{interest_threshold}</green>)</center>.
+opinion_mind.interest_sex_not_ready,<center>{name_1}이(가) {name_2}와(과) 데이트할 <red>준비</red>가 되지 않았습니다(관심 {interest_sign} <red>{interest_threshold}</red>)</center>.
+display_event.market_depth_increased,모든 상품의 시장 규모가 증가했습니다.
+building.menu.escape_prevented,탈출 방지
+mutator.no_prophecy,예언 없음
+display_notification.auto_trade,무역 협정을 위해 전령 보내는 중
+knowledge.blocked_reason.production_building_count,생산 건물 {count}개 건설 완료
+display_tooltip.pause,일시정지
+menu.knowledge.culture_knowledge,{culture_name} 문화 지식.
+statistics_menu.province.market_depth.header,외부 시장
+statistics_menu.province.market_depth.additional_depth,추가 <hint=hint_market_volume_bonus>시장 규모</hint>: {percent}%
+display_event.old_age_begin,{name}: 나이 먹음
+display_event.contraband_begin,투기 감지됨
+statistics_menu.contraband_label,투기
+decor.dark_altar,교수대
+decor.dark_cage,우리
+decor.dark_garbage,피투성이 누더기
+decor.dark_stake_with_head,처형
+decor.dark_statue_sculls,경고
+decor.dark_statue_skeleton,죽은 신
+decor.dark_statue_wolf,토템
+decor.dark_tree,죽은 나무
+decor.dark_tree_2,벗겨진 나무
+decor.dark_tree_3,그루터기
+decor.sub.dark,위협
+options_menu.audio.master_volume,전체 볼륨
+options_menu.audio.video_volume,동영상 볼륨
+decor.sub.dark_2,뼈
+actor.part_of_nature.trader,상인
+display_event.forest_bandits_will_attack_soon,소문: 숲속 도적단의 공격 계획
+menu.trade.vassal_tax_from_player,"인구: {pop}명
+ 
+ <b>일일 총 세금:</b> <hint=hint_resource_gold>{sum}</hint>"
+menu.trade.vassal_tax_to_player_line,"{faction_uuid}: 인구 {pop}명, 세금: <hint=hint_resource_gold>{sum}</hint>"
+menu.trade.vassal_tax_to_player_result,<b>일일 총 세금:</b> <hint=hint_resource_gold>{sum}</hint>
+actor.action_task.garant_wakeup,이 캐릭터는 <hint=hint_anxious>불안증</hint> 특성 덕분에 반드시 깨어납니다.
+actor.hint.injury.courage_threshold,<hint=hint_moral_level>용기 한계치:</hint> {number}
+video.sub1,무자비한 종교 전쟁이 끝나고
+video.sub2,약 200년의 시간이 흘렀습니다.
+video.sub3,"제국은 무너졌고,"
+video.sub4,과거 제국의 영지는 결국 야만인의 왕국이 되어버렸습니다.
+video.sub5,그 가운데 교회는 옛 문명의 폐허 속에서
+video.sub6,희망과 평화 그리고 번영을 되찾았습니다.
+video.sub7,"시간이 흐를수록 교회의 영향력은 점점 커져갔지만,"
+video.sub8,역사는 돌고 돌기 마련이라 권력은 한쪽에 오랫동안 머무르지 못하기 마련입니다.
+video.sub9,"왕국 간의 전쟁이 잇다라 터졌고,"
+video.sub10,사람들은 굶주림과 가난으로 인해 고향을 떠나
+video.sub11,인근 정착지로 도피할 수밖에 없었습니다.
+video.sub12,과연 당신의 왕조는 왕국을 통합하고
+video.sub13,암흑기가 오는 것을 막을 수 있을까요?
+video.sub14,지금부터 당신이 이 역사를 써내려갈 것입니다.
+game.end.body,"정착지에 합리적인 지시를 내릴 수 있는 성인 영주가 없습니다.
+ 
+ 모든 미성년 영주가 교회에 입양되어 교회의 계급에 합류합니다.
+ 
+ 이렇게 당신의 귀족 가문 이야기가 끝이 납니다."
+game.end.caption,패배했습니다!
+building.menu.paper_in_stock,"종이 재고 보유: 
+ {current} / {need}"
+notification.insight.text,"캐릭터가 다음 지식을 소유했음을 갑작스럽게 깨달았습니다.
+ 
+ <b>{knowledge_name}</b>"
+actor.action_task.punish.free_lord,<red>자유 영주를 불합리하게 처벌하면 이웃의 비난을 받게 됩니다.</red>
+display_event.heir_can_soon_rise,후계자 {name}의 반란이 곧 일어날 것입니다!
+display_event.slaves_can_soon_rise,수감자들이 곧 반란을 일으킬 것입니다!
+display_event.loyalists_can_soon_rage,충성파가 학살을 저지를 것 같습니다!
+display_event.soldiers_deserting,전사들이 도시를 떠나고 있습니다!
+display_event.fanatics_can_soon_rise,광신도가 곧 봉기를 일으킬 것입니다!
+display_event.bishop_can_soon_rise,주교가 곧 광신도 봉기를 일으킬 것입니다!
+mind.remain_time,{remain_time} 후 만료
+unsupported_saves.header,지원되지 않는 저장 파일 감지
+unsupported_saves.body,"<b>Norland</b>는 활발히 개발 중이며 계속해서 개선되고 있습니다. 하지만 이전 저장 파일과의 호환성을 항상 유지할 수는 없으며 출시 전의 앞서 해보기 상태에서는 특히나 어렵습니다.
+ 
+ 지원되지 않는 모든 저장 파일은 ""unsupported_saves"" 폴더로 이동했습니다.
+ 
+ 불편을 드려 죄송합니다."
+menu.construction.category.roads,도로
+tooltip.construction.place_roads,도로 배치
+tooltip.construction.remove_roads,도로 제거
+tooltip.construction.hold_shift.start,직선으로 만들려면
+tooltip.construction.hold_shift.end,길게 누르기
+mutator.longlive,장수
+ambition.recommend_for_start,(추천)
+notification.lord_escaped,{name}: 영지 떠남
+notification.messenger_escaped,전령이 영지를 떠남
+notification.messenger_return,전령이 영지로 복귀함
+actor.status.back_to_home_town,고향으로 돌아가는 중
+actor.status.action_task_in_process,{order_name}
+army.status.attack_in_process,{target_name} 공격
+army.status.reinforcement_in_process,{target_name} 지원군
+mind.remain_time_exhaustion,허기로 인한 사망까지: {remain_time_hours}시간.
+mind.remain_time_starvation,탈진까지: {remain_time_hours}시간.
+display_event.soul_missing,{name}: 실종
+ceremony.emperor_coronation,황제의 대관식
+statistics.peoples.line.mood,기분
+statistics.peoples.line.capital,수도
+statistics.peoples.line.sick,아픈 사람
+statistics.peoples.line.hungry,허기진 사람
+statistics.peoples.line.strongly_tired,극도로 피곤함
+statistics.peoples.line.homeless,노숙자
+statistics.peoples.line.fanatics,광신도
+statistics.peoples.line.nectar_addicted,넥타 중독자
+statistics.peoples.line.loyalists,충성파
+statistics.peoples.category.happiness,행복도
+statistics.peoples.category.groups,집단
+statistics.peoples.category.cultures,문화
+trade.soldiers_tax.caption,전사 세금
+trade.vassal_tax.to_player,봉신의 공물
+trade.vassal_tax.from_player,종주에 바치는 공물
+actor.action_task.emperor_coronation,황제 선포
+statistics.tab.resources,자원
+statistics.tab.peoples,시민
+display_event.emperor_inquizition_soon,종교재판단의 진군
+statistics.resources.category.currency,화폐
+statistics.resources.category.food_and_drinks,음식 및 음료
+statistics.resources.category.extracted,채취한 자원
+statistics.resources.category.manufactured,제조한 자원
+statistics.resources.category.weapon_and_armor,무기 및 방어구
+statistics.resources.special_hint.consumed,영주 및 수감자의 소비량
+menu.ending.titile.emperor.fail,패배!
+menu.ending.text.emperor.fail,"종교재판단의 공격을 버텨내지 못했습니다.
+ 
+ 영지가 불타고 국가가 해체되었으며, 모든 왕들이 교훈을 얻어 오랫동안 그 누구도 감히 교회에 도전하지 않을 것입니다.
+ 
+ 향후 아무도 사랑의 가족을 거스를 수 없도록 종교재판단은 모든 책을 불태우고 문해를 금지하며 이를 위반할 경우 사형에 처합니다.
+ 
+ Norland는 암흑기의 어두운 심연으로 빠져듭니다..."
+menu.ending.titile.emperor.win,승리!
+menu.ending.text.emperor.win,"성공적으로 새로운 제국을 건설하고 교회의 절대 권력을 박탈했습니다. 당신의 왕조의 왕들의 이름은 수 세기 동안 연대기에 기록될 것입니다.
+ 
+ 암흑기의 위협은 지나갔고, 새로운 시대가 밝아옵니다."
+menu.ending.ok,게임 종료
+ambition.engame.emperor,"당신의 왕을 황제로 선포하고 사랑의 가족에게 도전하여 게임에서 승리하세요.
+ 
+ (군주의 메뉴에서 행동 잠금 해제)"
+display_event.press_right_click_to_close,$ <b>우클릭</b>으로 메시지를 닫으세요
+encyclopedia.press_right_click_to_unpin,
+display_event.soldier_tax_increased,군대 세금 인상됨
+menu.choose_province.extends_borders.header,국가 생성
+menu.choose_province.extends_borders.body,"<img=hint_extends_borders></img>
+ 독립 영지로 게임을 시작하거나 이웃을 합병하여 즉시 봉신 왕국을 만들 수 있습니다.
+ 
+ 이 행동을 수행하려면 <b>국경의 버튼</b>을 클릭하세요.
+ 
+ 마찬가지로 다른 왕들의 영지를 선택하고 국경을 확장하여 다른 왕국을 만들 수도 있습니다."
+actor.action.inspector.executor,관리자 선택
+display_event.terror_no_more_criminal_and_jobless,통제를 벗어나는 공포 조성!
+actor.age.child,어린아이
+actor.part_of_nature.king,통치자
+actor.class.heavy_archers,레벨 13-17 중갑 석궁병
+mutator.iron_excess,철 과잉
+mutator.old_grudge,해묵은 앙심
+display_event.players_vassal_left,봉신 {faction_name}이(가) 더 이상 왕국에 속하지 않습니다
+display_event.players_ally_left,동맹 {faction_name}이(가) 더 이상 동맹에 속하지 않습니다
+main_menu.new_game.province.header.start,게임 시작
+statistics_menu.province.no_iron_mines,철 매장량이 없습니다.
+statistics.resources.category.currency.army_tax,전사 세금
+statistics.resources.category.currency.tribute_from_your_vassals,봉신의 공물
+statistics.resources.category.currency.your_vassal_tribute,종주에 바치는 공물
+actor.loyalty.no_changes,지난 24시간 동안 충성도가 변하지 않았습니다
+encyclopedia.press_right_click_to_pin,$ <b>우클릭</b>으로 고정 또는 고정 해제하세요
+encyclopedia.press_lmb_to_mark_unread,
+encyclopedia.press_lmb_to_mark_read,$ <b>좌클릭</b>으로 읽음 또는 읽지 않음 표시하세요
+building.menu.ordered,명령 완료
+building.menu.bonus,보너스
+building.menu.no_orders,명령 없음
+building.menu.order_line,{order_type}: <hint={resource_hint}>{resource_count}</hint>. 남은 수량: {produced_count}
+building.menu.status.raw_waiting,영지의 창고에서 자원을 기다리는 중
+main_menu.wiki,Wiki
+menu.actor.free_lord,자유 영주
+actor.stata.knight,기사
+main_menu.external_links,외부 링크:
+main_menu.external_links.twitter,X (Twitter)
+main_menu.external_links.report_bug,버그 신고
+tutorial.enemy.attack,공격
+video.endgame.sub1,크림슨 왕좌를 차지했습니다.
+video.endgame.sub2,교회는 정치적 권력을 잃었고 이제 당신이 총대주교를 임명합니다.
+video.endgame.sub3,"잔혹한 전쟁의 시대는 끝났고, 이제 갈등은 오직 황제의 법정에서만 해결됩니다."
+video.endgame.sub4,"숲속 도적단은 사라졌고, 도서관은 더 이상 불타지 않으며, 자유 무역이 번창합니다."
+video.endgame.sub5,국가들은 분쟁을 잊고 평화롭게 노동에 종사합니다.
+video.endgame.sub6,"그러나 제국은 영원하지 않으며, 고대의 연대기에 수많은 제국의 몰락의 역사가 쓰여 있다는 것을 기억해야 합니다."
+video.endgame.sub7,오직 어리석은 자만이 신들이 미래의 우리에게 어떤 운명을 준비해 놨는지 안다고 주장할 것입니다.
+autosave_modes.two_in_one,1일 2회
+autosave_modes.one_in_one,1일 1회
+autosave_modes.one_in_two,2일 1회
+video.endgame.sub8,"""왕의 힘은 인간보다 강력하며, 그의 팔은 매우 길다."" — 헤로도토스, 역사"
+actor.action_task.force_eat,식사
+options_menu.game.autosave_modes,자동 저장
+display_event.lord_want_to_kill_someone,{lord_name}: 살인 계획 중
+work.caravanner,상단주
+global_map.object.army.garrison,군대
+global_map.object.army.on_global_map,세계 지도에 있음
+global_map.object.army.nobody,아무도 없음
+menu.tools.hint.menu,일시정지
+main_menu.new_game.province.neighbours.ally,동맹
+main_menu.new_game.province.neighbours.vassal,봉신
+main_menu.new_game.province.neighbours.suzrain,종주
+main_menu.new_game.province.neighbours.alliance_leader,동맹 수장
+main_menu.new_game.province.neighbours.independent,독립적
+main_menu.new_game.province.neighbours.pacifism.ambitious,야심만만
+main_menu.new_game.province.neighbours.pacifism.random,무작위
+main_menu.new_game.province.neighbours.town_sell,도시 판매품
+main_menu.new_game.province.neighbours.town_buy,도시 구매품
+main_menu.new_game.province.neighbours.sell.random,무작위로
+main_menu.new_game.province.player.village.1,첫 번째 마을
+main_menu.new_game.province.player.village.2,두 번째 마을
+main_menu.new_game.province.player.village.random,무작위
+mutator.lazy_workers,게으른 일꾼
+building.status.inspection_inactive,비활성화
+advisor.wood,목재가 부족합니다.
+advisor.alcohol,술 섭취가 낮습니다.
+advisor.nectar,넥타가 부족합니다.
+advisor.housing,주거가 부족합니다.
+advisor.tasks,영주가 너무 바쁩니다.
+advisor.patrols,도시에 부랑자가 너무 많습니다.
+advisor.scafod,범죄가 해결되지 않습니다.
+advisor.low_money,금고가 거의 비었습니다.
+advisor.matriarch,교회가 불만족스러워합니다.
+advisor.prestige,명성이 낮습니다.
+advisor.teach_children,아이들이 교육받지 않고 있습니다.
+advisor.marry,영주가 결혼할 시기가 됐습니다.
+advisor.chancellery,사무국이 필요합니다.
+advisor.loyality,영주의 충성도가 감소하고 있습니다.
+advisor.slaves_unhappy,수감자들이 불행합니다.
+advisor.peasants_unhappy,이주 중단
+advisor.culture_unhappy,일부 문화 구성원들이 불행합니다.
+advisor.warriros_unhappy,전사들이 불행합니다.
+advisor.depression,영주가 우울증에 걸렸습니다.
+advisor.feud,영주들 사이에 경쟁이 생겼습니다.
+advisor.train_sodiers,전사들이 훈련을 받지 않고 있습니다.
+advisor.knowledge,책을 연구하지 않고 있습니다.
+advisor.produce_goods,생산이 부진합니다.
+advisor.homeless,영주에게 주거가 없습니다.
+advisor.efffective,건물을 더욱 효율적으로 운영할 수 있습니다.
+advisor.bandit_camp,도적 진영이 커지고 있습니다.
+advisor.dont_like,위험한 이웃이 있습니다.
+advisor.intrigues,적이 음모를 꾸미고 있습니다.
+advisor.desire,영주가 욕망에 사로잡혔습니다.
+advisor.one_title,작위가 하나만 남았습니다.
+advisor.enemy,적이 적기를 기다리고 있습니다.
+advisor.slaves_hungry,수감자들이 굶주리고 있습니다.
+advisor.peasants_hungry,농민들이 굶주리고 있습니다.
+advisor.not_enought_tavernas,술집이 필요합니다.
+advisor.no_temples,사원이 필요합니다.
+advisor.no_barracks,병영이 필요합니다.
+advisor.rutabaga_poison,순무 열병 전염병
+advisor.inflamed_wound_lords,염증성 상처
+advisor.inflamed_wound_warriors,전사들에게 염증성 상처가 생겼습니다.
+advisor.free_lord_expire_soon,계약이 만료되었습니다.
+advisor.no_problems,문제가 없습니다.
+advisor.no_tavernas,술집이 작동하지 않습니다.
+advisor.no_altar,사람들이 기도할 곳이 없습니다.
+advisor.no_allcohol_production,술 생산이 이뤄지지 않습니다.
+advisor.no_food_production,음식 생산이 이뤄지지 않습니다.
+advisor.upgrade_woorcutter,제재소를 업그레이드해야 합니다.
+advisor.small_army,군대가 너무 약합니다.
+advisor.low_fertility,생식력 감소로 위험에 처했습니다.
+advisor.low_iron,철 매장량이 고갈되어갑니다.
+advisor.slaves_run,수감자가 제대로 감시받지 않습니다.
+advisor.no_work,실업자가 많습니다.
+advisor.contraband,도시에서 투기가 일어나고 있습니다.
+advisor.fanatics_rebellion,광신도의 봉기가 임박했습니다.
+advisor.bishop_rebellion,주교가 봉기를 계획하고 있습니다.
+advisor.onboard_1,제재소를 건설하세요.
+advisor.onboard_2,호밀 농작물을 수확하세요.
+advisor.onboard_3,밀가루 제작을 시작하세요.
+advisor.onboard_4,홉 농작물을 수확하세요.
+advisor.onboard_5,맥주 증류를 시작하세요.
+advisor.onboard_6,광산을 건설하세요.
+advisor.onboard_7,무역 협정을 체결하세요.
+advisor.onboard_8,인구 40명에 도달하세요.
+advisor.onboard_9,국가를 만드세요.
+advisor.clerks,사무관이 배정되지 않았습니다.
+advisor.no_paper,사무국에 종이가 부족합니다.
+advisor.wolves,살육늑대가 일꾼을 공격하고 있습니다.
+advisor.onboard_4_1,자유 영주를 고용하세요.
+advisor.onboard_6_1,도구 제작을 시작하세요.
+advisor.emperor_coronation,황제가 되세요.
+advisor.desire_to_kill,영주가 살인을 계획 중입니다.
+trait.hint.risk_of_infection,감염 위험 잔존
+trait.infertility,폐경기
+trait.beauty_beautyful,아름다움
+trait.beauty_pretty,매력적
+trait.beauty_ugly,비호감
+trait.beauty_unpretty,못생김
+trait.beer_addiction,술 의존증
+trait.beer_hangover,숙취
+trait.blindness,맹인
+trait.blood_poisoning,괴저
+trait.bruise,타박상
+trait.bruise_light,경미한 타박상
+trait.burglary,절도
+trait.burn_heavy,심한 화상
+trait.burn_light,경미한 화상
+trait.burn_middle,보통 화상
+trait.character_attack,영주 공격
+trait.cut,자상
+trait.cut_down,참수
+trait.dead,사망
+trait.deadly_fight,살인 미수
+trait.deep_wound,깊은 상처
+trait.doubting,불가지론자
+trait.dummy_bastard,농민의 사생아
+trait.lord_bastard,영주의 사생아
+trait.encephalitistrait,뇌염
+trait.exhalation,탈진
+trait.fatigue,피로
+trait.fear_of_punishment,처벌에 대한 공포
+trait.fight_with_king,왕과 싸움
+trait.heavy_bleeding,심한 출혈
+trait.homeless,노숙자
+trait.immobilization,거동 불가
+trait.injury_arm,손 부상
+trait.injury_face,얼굴 부상
+trait.injury_leg,다리 부상
+trait.injury_rib,갈비뼈 부상
+trait.inspection_friendly,지시받음
+trait.internal_bleeding,내출혈
+trait.kid,아이
+trait.leprosy,나병
+trait.loss_of_eye,눈 잃음
+trait.loss_of_hand,손 잃음
+trait.love,홀딱 반함
+trait.medium_bleeding,보통 출혈
+trait.mortal_wound,치명상
+trait.murder,살인
+trait.murder_of_aristocrat,영주 살인
+trait.nectar_addiction,넥타 중독
+trait.nectar_hangover,넥타 숙취
+trait.night_murder,야간 살인
+trait.night_murder_attempt,야간 살인 미수
+trait.oldman,노인
+trait.painful_shock,통증 쇼크
+trait.philosopher,철학자
+trait.poison_attempt,독살 시도 중
+trait.poison_begin_stage,독살 초기 단계
+trait.poison_middle_stage,독살 중간 단계
+trait.poison_last_stage,독살 최종 단계
+trait.pregnant,임신(1/3기)
+trait.pregnant_medium,임신(2/3기)
+trait.pregnant_heavy,임신(3/3기)
+trait.religious_fanatic,종교 광신도
+trait.robbery,강도
+trait.robbery_attempt,강도 미수
+trait.sin_abuse,모욕당함
+trait.sin_caption,{trait_name}
+trait.sin_criminal,범죄자
+trait.sin_cuthroat,흉악범
+trait.sin_fight,싸움
+trait.sin_forbidden_sex,금지된 성관계
+trait.sin_seduce,유혹
+trait.sin_bribe,뇌물
+trait.sin_divorce,이혼
+trait.sin_unfair_attack,부당한 공격
+trait.sin_dark_action,악행
+trait.slave,수감자
+trait.slave_roped,결박
+trait.roped_by_thugs,자객에게 결박
+trait.slowness,뇌진탕
+trait.starvation,굶주림
+trait.stunning,혼미
+trait.terror,공포 피해자
+trait.unconscious,의식 불명
+trait.weak_bleeding,경미한 출혈
+trait.scars,흉터 남음
+trait.person,성격
+trait.scars_ugly,신체 훼손
+trait.tantrum,신경 쇠약
+trait.throne_desire,왕좌에 대한 욕망
+trait.inflamed_wound,감염된 상처
+trait.sin_begin_terror,공포 조성됨
+trait.sin_murder,비도덕적인 살인
+trait.sin_forbidden_child,금지된 아이
+trait.sin_evil_joke,잔인한 농담
+trait.captive,수감자
+trait.early_bald,조기 탈모 진행 중
+trait.bald,탈모
+trait.savant,석학
+trait.nervous,과민
+trait.stupidity,지적 장애
+trait.hard_childbirth,난산
+trait.low_fertility,낮은 생식력
+trait.high_fertility,높은 생식력
+trait.gay,동성애자
+trait.bald,탈모
+trait.calm,침착
+trait.addiction_resist,중독 저항
+trait.empath,공감
+trait.strong_will,강력한 의지
+trait.brave,무모
+trait.monogam,일부일처
+trait.suggestible,팔랑귀
+trait.addiction_low_resist,중독 경향
+trait.home_tyran,가정의 폭군
+trait.lustful,음탕
+trait.envious,질투
+trait.cynic,비관적
+trait.gambler,도박 중독
+trait.ascet,금욕
+trait.contemptuous,경멸
+trait.coward,겁쟁이
+trait.gluttony,식탐
+trait.drug_hater,약물 혐오
+trait.misandrist,남성혐오자
+trait.misagonist,여성혐오자
+trait.blissful,황홀
+trait.early_gray,조기 노화
+trait.sarcastic,냉소적
+trait.religious,독실
+trait.pacifist,평화주의자
+trait.anxious,불안증
+trait.fearless,대담
+trait.protector,도시 수호자
+trait.poisoner,독살자
+trait.cutter,참수자
+trait.charisma,카리스마
+trait.precise_language,정확한 표현
+trait.diplomat,외교관
+trait.forecaster,예측가
+trait.insightful,통찰력
+trait.combat_teacher,전투 교관
+trait.greedy,탐욕
+trait.sublimation,승화
+trait.disinhereted,이전 후계자
+trait.saint,성인
+trait.determination,의지력 시험
+trait.depression,우울증
+trait.gray_head,백발
+trait.swede_typh_st_1,루타바가 열병 - 초기 단계
+trait.swede_typh_st_2,루타바가 열병 - 위기
+trait.swede_typh_st_3,루타바가 열병 - 회복기
+trait.madness,광기
+trait.light_cut,경미한 자상
+trait.pierced_arm,팔 관통
+trait.pierced_shoulder,어깨 관통
+trait.pierced_leg,다리 관통
+trait.pierced_lung,폐 관통
+trait.nectar_rage,넥타 광증
+trait.suspect,범죄자
+trait.criminal_intimidated,위협받음
+trait.matriarch,총대주교
+trait.lord_lowborn,천출
+trait.loyalist,충성파
+trait.inspired,영감받음
+trait.hemophilia,혈우병
+trait.ex_bandit,과거 도적
+trait.under_culture_terror,문화 공포
+trait.genius_king,야심찬 정복자
+trait.dying_from_old,다가오는 죽음
+trait.great_teacher,계몽자
+trait.senility,노망
+trait.cholera_st_1,천연두 - 초기
+trait.cholera_st_2,천연두 - 위기
+trait.cholera_st_3,천연두 - 회복기
+trait.typh_immunity,감염 면역
+trait.untitled_lord,소영주
+hello.neutral.1,"통치자 {name}에게,"
+hello.neutral.2,"{faction_name}의 통치자여,"
+hello.neutral.3,"통치자여,"
+hello.neutral.4,"고귀한 통치자 {name}에게,"
+hello.neutral.5,"고귀한 이웃에게,"
+hello.neutral.6,"존경하는 이웃에게,"
+hello.neutral.7,"{faction_name}의 정당한 통치자에게,"
+hello.neutral.8,안녕하신가.
+hello.good.1,"{name}에게,"
+hello.good.2,"나의 진실된 친구 {name},"
+hello.good.3,"사랑하는 친구 {name},"
+hello.good.4,"내 친구 {name},"
+hello.good.5,"안녕하신가, {name}!"
+hello.vassal.1,"나의 적법한 봉신 {name}(이)여,"
+hello.vassal.2,"봉신에게,"
+hello.vassal.3,"시종에게,"
+hello.suzeren.1,"자비로운 통치자에게,"
+hello.suzeren.2,"영주에게,"
+hello.suzeren.3,"국왕에게,"
+hello.bad.1,"수감자와 매춘부의 사생아여,"
+hello.bad.2,"겁쟁이이자 살인마여,"
+hello.bad.3,"부덕한 사기꾼이여,"
+hello.bad.4,"나의 적에게,"
+hello.bad.5,"비열한 도적에게,"
+hello.bad.6,"돼지 농장 {faction_name}의 우두머리에게,"
+letter.sign.1,내 손으로 직접 서명.
+letter.sign.2,주교의 참석하에 서명.
+letter.sign.3,당신의 영혼을 위해 기도하며.
+letter.sign.4,누구도 아닌 내가 직접 서명.
+letter.sign.5,서명하고 봉인.
+letter.sign.6,서명.
+letter.king_name,왕 {name}
+letter.lord_name,영주 {name}
+letter.from_lord.gone.1,"~
+ 그대의 무례함을 참은 지도 오래야. 난 진심으로 이 도시를 사랑하고 수호했다는 것을 맹세하지. 하지만 이젠 내 가치를 인정하는 사람들에게 갈 생각이네!"
+letter.from_lord.gone.2,"~
+ 충성스러운 조력자를 방치하는 건 왕이 할 법한 일이 아니네. 천국에 맹세하건대 이곳에 돌아올 일은 없을 거야! 잘 있게!"
+letter.now_enemy.0,"~
+ 더는 그대의 죄를 못 본 척할 수 없다는 것을 알려주려고 편지를 쓰네. 전쟁을 선택한 것은 바로 그대의 결정이야. 이제 성모 소피아께서 우리 중 승자가 누구인지 결정하실 걸세."
+letter.now_enemy.1,"~
+ 네 놈 같은 도둑과 살인자의 세상을 숙청할 때가 됐군. 무릎을 꿇고 자비를 빌어도 소용없을 걸세. 나에게는 네 놈의 두개골만이 가치 있는 트로피일 것이니."
+letter.now_enemy.2,"~
+ 사람들의 머릿속에서 네 놈과 네놈의 가족들에 대한 기억을 지우기 위해 전력을 다하지. 성모 소피아께서 나를 도우실 거야. 네 놈이 향할 곳은 기쁨이 없는 종말과 망각뿐."
+letter.now_enemy.3,"~
+ 네 놈도 곧 끝이다."
+letter.now_enemy.4,"~
+ 누군가는 네 놈과 네가 이 세상에 저지른 악행을 멈춰야 하지. 성모 소피아께서 그 역할에 나를 선택하셨다고 믿네. 내가 어찌 감히 성모의 의지를 거역하겠나?"
+letter.now_enemy.5,"~
+ 네 놈을 무찌르고 나면 세계는 더욱 순수해지고 사람들은 나에게 감사를 전하며 이를 축하할 거야. 벌써부터 네 놈의 종말을 기념하는 종소리가 들리는군. 네 놈도 들리나?"
+letter.dead_sister.1,"~
+ 너무나 슬프게도 우리 {soul_uuid_target}의 사망 소식을 듣게 되었네. 어떻게 죽었는지는 알 수 없겠지? 이제 그대가 무슨 덕을 쌓아도 우리 우정이 이전으로 되돌아가는 일은 없을 걸세!"
+letter.dead_sister.2,"~
+ 오늘 우리 {soul_uuid_target}의 사망 소식을 알게 되었네. 왜 약속과 달리 아무도 지켜주지 않은 거지? 혹시 자네가 죽음에 연루된 건가? 반드시 진실을 밝히고 말겠네!"
+letter.dead_daughter.1,"~
+ 어떻게 우리 딸 {soul_uuid_target}이(가) 죽게 할 수 있나? 그 애를 지켜주기로 맹세했지 않은가! 나는 그 애가 배신으로 인해 죽은 게 아닌가 싶군. 내가 어떻게 자네를 용서할 수 있겠나?"
+letter.dead_daughter.2,"~
+ 난 자네에게 우리 {soul_uuid_target}을(를) 지켜달라고 부탁했네. 이제 그 애는 가버렸군. 자네는 그 애가 죽은 이유를 인정하지 않겠지만 난 확신하네! 자네에게 그 애와 똑같은 운명이 닥치기를 바라지!"
+letter.hi_daughter.1,"~
+ 내 딸 {soul_uuid_target}에게 우리가 그 애를 아주 보고 싶어 하고 많이 사랑한다는 말을 전해주게. 성모 소피아의 축복으로 곧 그 애를 볼 수 있기를!"
+letter.hi_sister.1,"~
+ 시간이 정말 빠르군. {soul_uuid_target}이(가) 결혼해서 떠난 게 얼마 전 같은데... 우리의 바람은 딱 하나, 곧 다시 만나기를 바란다고 전해주게."
+letter.break_alliance_1,"~
+ {soul_uuid_target}와(과)의 동맹을 끝낼 것을 권고하네. 놈들이 나의 적이라는 건 이미 알고 있겠지. 자네까지 적으로 만들고 싶지는 않아. 우리 중에서 선택을 하도록 하게."
+letter.break_alliance_1,"~
+ {soul_uuid_target}와(과)의 동맹을 끝낼 것을 권고하네. 놈들이 나의 적이라는 건 이미 알고 있겠지. 자네까지 적으로 만들고 싶지는 않아. 우리 중에서 선택을 하도록 하게."
+letter.bandits_1,"~
+ 그대의 영지에서 온 도적들이 우리 마을을 공격하고 농민들에게 공포심을 심어주고 있어. 적에게 둘러싸인 데다가 이 쓰레기 같은 녀석을 처리할 시간도 여력도 없는 상황이네. 부탁인데 놈들을 어서 처리해 주게."
+letter.bandits_2,"~
+ 그대의 영지에서 온 도적들 때문에 농민들의 평화로운 삶이 위협받고 있네. 여자와 애들까지 가리지 않고 강도질에 살인을 일삼고 있어. 그대가 놈들을 처리해 주게. 내 요청을 무시하진 않겠지. 자네의 양심을 믿네!"
+letter.conflict_1,"~
+ 나는 도움을 요청하는 것이 약함을 드러내는 것이라고 생각하기 때문에 거의 도움을 요청하지 않지. 하지만 이웃과 심각한 갈등이 생겼다네. 내 편이 되어 나를 지원해 주게. 이 호의는 절대 잊지 않겠네."
+letter.conflict_2,"~
+ 나는 갈등을 평화롭게 해결하는 것을 선호하는 편이지만 다른 이들은 불화의 길을 택하는군. 이웃과 갈등이 생겨 자네의 도움이 필요하네. 부디 도와주길 바라네."
+letter.break_vassal_1,"~
+ 그대의 봉신 {soul_uuid_target}은(는) 나의 적일세. 오로지 그대 때문에 놈을 공격하지 않고 있지. 우리의 우정이 놈이 그대에게 지불하는 금화보다 가치 있기를 바라네. 놈의 봉신화를 끝내게!"
+letter.break_vassal_2,"~
+ {soul_uuid_target}(과)의 봉신화를 끝내주게. 놈은 그대의 보호를 받는다고 생각하고 그걸 이용하고 있네. 놈이 하는 짓의 상당수는 정당화될 수 없는 짓이야. 난 진심으로 우리의 관계를 소중히 생각하고 있네. 하지만 놈이 한 짓을 그냥 넘어가게 둘 생각은 없다네!"
+letter.post.dead,추신: 그대의 슬픔에 진심 어린 애도를 보내네.
+letter.post.wedding,추신: 결혼을 축하하네! 다음에 만나면 맥주 한 잔 얻어 마실 수 있기를 기대하겠네!
+letter.post.hunt,추신: 그대와 숲에서 사냥을 하던 기억이 떠오르는군. 정말 즐거운 시간이었지! 한 번은 인생이 주마등처럼 스쳐 지나가더라니까!
+letter.post.hi_friend,추신: {soul_uuid_target}에게 부디 안부 전해주게. 집 밖에서 보내는 시간이 너무 길어지지 않기를 바라네. 그가 사랑하는 이들이 아주 많이 그리워하고 있어.
+letter.post.battle_loose,추신: 전투 이야기는 전해 들었네. 유감이야. 포기하지 말게. 우리 둘 다 패배를 겪어보지 않은 것도 아니잖나.
+letter.post.dice_win,추신: 주사위 게임을 하면서 내가 자네 주머니를 털었던 거 기억하나? 기회가 되는대로 또 한 판 해보자고!
+letter.post.battle_win_together,추신: 우리가 이웃을 상대로 전투에서 승리했던 건 절대 잊지 못할 거야! 정말 엄청난 승리였지!
+letter.post.nice_trade,"추신: 아무튼 아주 좋은 상품을 보냈더군. 정말 고맙네, 친구!"
+letter.post.ex_player_lord,추신: 자네의 이전 영주였던 {soul_uuid_target}이(가) 자네한테서 해방되어 기쁘기 그지없다고 하더군. 그렇게까지 말하는 이유가 뭐지?
+letter.post.new_kid,추신: 아이가 생겼다고 들었네. {soul_uuid_target}은(는) 아주 좋은 이름이야! 성모 소피아께서 축복하시길!
+letter.post.battle_win,추신: 승리했다고 들었네. 부디 내 축하를 받아주게! 엄청난 전투였다고 들었어.
+letter.post.high_prestige,추신: 그렇게 명망 높은 가문의 왕을 만나는 것만큼 내 자부심을 채워주는 것도 없을 걸세!
+letter.post.drunk,추신: 흥청대며 놀다가 내가 바닥에 떨어졌던 거 기억하나? 아내가 아직도 그 얘기를 하곤 해.
+letter.post.thanks_for_help,추신: 도와줘서 정말 고맙네! 큰 도움이 되었어!
+letter.post.ex_ai_lord,추신: {soul_uuid_target}에게 내가 모든 걸 기억한다고 전하게! 배신은 절대 잊히지 않지!
+letter.post.enemy.battle_with_me_loose,추신: 내 손에 들린 검에 자네가 수치스럽게 패배했던 기억만큼 내 마음을 따뜻이 밝혀주는 건 없네! 기분이 안 좋을 때면 그 순간을 떠올리지.
+letter.post.enemy.battle_loose_enemy,추신: 자네가 전투에서 패배했다는 걸 듣고 얼마나 웃었는지! 그날 내 농민들 모두에게 무료 에일을 베풀었다네. 소피아는 참으로 옳으시다니까.
+letter.post.coward,추신: 뒤로 빠져서 나를 상대하길 거부했던 거 기억하나? 모든 이웃이 그 이야기를 들었다네! 우리 중에는 그렇게 멍청하고 겁 많은 왕이 없었거든.
+letter.post.enemy.village_destroyed,추신: 자네가 자기 마을도 지키지 못했다는 이야기를 듣고 어찌나 재미있던지! 농민들이 자네의 통치를 어떻게 생각하겠나?
+letter.post.enemy.battle_loose,"추신: 그렇게 수치스럽게 패배하고 나니 잠도 잘 못 이룰 것 같군! 솔직히 난 자네 상대가 적수도 못 될 거라 생각했거든. 성모 소피아시여, 제가 틀렸다는 걸 증명해 주셔서 감사합니다!"
+letter.post.enemy.battle_win,추신: 자네의 승리 소식을 듣고 참 이상하더군. 성모 소피아께 어떤 뇌물을 바친 거지? 자넬 도우시는 게 틀림없거든.
+letter.post.enemy.vassal,추신: 이제야 봉신이 되었다니! 자네의 텅 빈 상자와 병영에는 쥐새끼들만 뛰어다니고 있겠지? 약한 자는 순종하는 것이 운명이야.
+letter.post.enemy.low_prestige,추신: 우리 지역에서 가장 쓸모없는 영주라는 소리를 들었다면서? 놀랍지 않군. 곳간에서 밤을 보내는 게 어떻겠나?
+letter.post.enemy.betrayal,추신: 자네의 배신을 내가 잊을 것 같나? 복수할 기회가 생기기 전에 자네를 데려가지 말라고 성모 소피아께 기도까지 한다네!
+prophecy.letter_announce.wolf_attack,뼈가 재앙을 예견하고 있다. 보이지 않는 달이 뜨고 살육늑대의 굶주린 울음소리에 피가 얼어붙을 것이다! 야생 동물을 주의하고 놈들의 공격에 대비하라. 재앙이 멀지 않았다!
+prophecy.letter_announce.bandits_capm,해 질 녘에 붉은빛을 보았다. 피의 색깔이었지! 뼈를 던지자 죽음을 두려워하는 자들이 그대의 집에서 다른 사람들을 찾을 거라는 점괘가 나왔다.
+prophecy.letter_announce.fields_sick_one,어젯밤 예지몽을 꾸었다. 초록빛 농작물 대신 검은 까마귀가 보였지. 까마귀는 굶주림과 죽음의 조짐이다. 녀석들이 그대의 집을 향해 가고 있다!
+prophecy.letter_announce.cholera_epidemy,"지난번 제물을 바쳤을 때, 도살된 송아지에게서 진홍색 핏줄기 대신 고약한 냄새가 나는 검은 액체가 흘러나왔다. 정착지에 질병이 닥칠 징조다!"
+prophecy.letter_announce.xenophoby,성서에서 사람들이 야생동물처럼 서로에게 덤비고 불길 속에서 아이들의 울음소리가 들리는 페이지가 펼쳐졌다. 성모 소피아께서 경고하시는 것이다!
+prophecy.letter_announce.crocks_wave,어젯밤 꿈을 꾸었다. 모자를 쓴 그림자가 저에게 드리우고 그 손에는 단검이 반짝이고 있었지. 부랑자들을 조심하라. 하늘에서 알리는 징조다!
+prophecy.letter_announce.fanatics_wave,예지자들이 구름 속에서 손에 불타는 십자가를 들고 선 광인들을 보았다고 한다. 수가 아주 많았고 마음속에 분노가 가득했다고 하더군!
+prophecy.letter_announce.fields_sick_all,달이 열흘 내내 뜨지 않았다. 고대 서적에 따르면 흉작과 굶주림의 조짐이지. 성모 소피아가 도와주시기를!
+prophecy.letter_announce.tree_bug,악몽을 꾸었다. 그대의 초록빛 숲 대신 움직이지 않는 조각상처럼 잎이 하나도 없는 나무의 어두운 그루터기가 세워져 있는 꿈이었지. 어떻게 해야 하는지 알 것이다!
+prophecy.letter_announce.rats_invasion,넥타 망각에서 환영을 보았다. 제단에서 갓 태어난 아기 양의 살점을 뜯는 쥐가 보였지. 왕국에 굶주림과 고난이 닥칠 것이다!
+prophecy.letter.finish,상단 상인들이 재앙의 어두운 그림자가 물러났다고 한다. 그대가 사랑하는 이들이 무사하기를 바라지. 하지만 이번이 죄에 대한 성모 소피아의 마지막 심판이 아닐 것이기에 걱정이군.
+letter.sign.matriarch,"진심 어린 애정을 담아,
+ 총대주교"
+letter.post.diplomat_1,진정으로 좋은 결과로군. 인정하건대 이런 건 생각도 못 했다네. 우리의 증오가 이제 과거의 일이 되었다는 게 몹시 기쁘군. 과거는 잊으라고 있는 거 아니겠나?
+letter.post.diplomat_2,우리 왕국 사이에 평화를 되돌리려는 그대의 노력은 진심으로 대단하네. 하지만 이제부터 자네가 한 그런 행위의 고결함에는 나의 신뢰가 수반되지 않을 걸세.
+letter.post.vassal_out_1,"내가 더 이상 복종할 마음이 없다는 걸 알아두길 바라네. 내 불충의 이유를 찾고 싶다면, 거울을 보도록 해. 도움이 필요한 시기에 난 전혀 도움을 받지 못했지. 그에 따라 왕국이 작아진 거라고 생각하게."
+letter.post.vassal_out_2,"내가 봉신이 되기로 했을 때, 나는 군사 지원을 약속받았지. 그 대가로 나는 그대가 지정한 공물을 성실히 갖다 바쳤네. 하지만 중요한 순간에 나를 저버리더군. 이제 나는 봉신을 그만두겠네."
+letter.emperor,그대의 오만함이 성모 소피아께서 몸소 확립하신 세계의 신성한 질서를 파괴하려는 신성 모독으로 이어지게 되어 유감스럽군. 안타깝게도 이제 경고는 무의미하겠지. 엄정한 성부와 동료 종교재판관들이 출정 준비를 하고 있네. 성모 소피아께서 그대를 용서하시기를!
+letter.start.matriarch,친애하는 자녀여!
+letter.tax_increase,"우리 사랑의 가족은 그대의 정치적 성공을 매우 기쁘게 지켜보고 있다네. 바로 얼마 전까지만 해도 그대의 가문은 순무 잡초나 고르고 있었는데, 어느덧 이웃들에게 지시를 내리는 국가의 수장이 되었군! 그러니 이제 그대의 전사들에 대한 세금을 약간 인상하더라도 그다지 부담이 되지 않겠지!"
+letter.army_tax_increase_footer,"더 높은 정치계에 진출하고 영향력이 커짐에 따라, 사랑의 가족은 당신이 도로의 안전 유지에 더 많이 기여해야 한다고 생각합니다.
+ 
+ 교회가 전사 세금을 인상하여 이제 각 전사의 전투 스킬 단위당 {new_tax}을(를) 부과합니다(기존 {old_tax})."
+faction.player_village,농민
+faction.faceless,불경한 군단
+faction.forest_bandits,숲속 도적단
+faction.mercenaries,용병
+faction.wolves,살육늑대
+faction.inquisition,종교재판단
+faction.traders,신성한 대상단
+faction.traders_slaves,신성한 대상단의 노예
+faction.free_lords,자유 영주
+faction.holy_synod,사랑의 가족
+faction.rebellious_zealots,반역 광신도
+faction.rebellious_slaves,반역 노예
+faction.rebellious_soldiers,반역 전사
+faction.rebellious_heir,분리주의자
+faction.mountain_bandits,약탈자
+faction.hired_bandits,고용된 도적단
+faction.abandoned,버려진 정착지
+faction.low_loyalty,변절자
+faction.name.0,실버헤이븐
+faction.name.1,더스트 밸리
+faction.name.2,윈드픽
+faction.name.3,스타스트림
+faction.name.4,문레이크
+faction.name.5,스파크빌
+faction.name.6,크리스탈라이트
+faction.name.7,스타데일
+faction.name.8,인챈트먼트
+faction.name.9,트리우드
+faction.name.10,문레암
+faction.name.11,그레이트미스트
+faction.name.12,브라이트베일
+faction.name.13,미스트헤이븐
+faction.name.14,골드셔
+faction.name.15,스파크폴
+faction.name.16,레이크홀드
+faction.name.17,드래곤혼
+faction.name.18,그린스파이어
+faction.name.19,트와일라이튼
+faction.name.20,크리스탈리아
+faction.name.21,원더로어
+faction.name.22,프로스트킵
+faction.name.23,비스트우드
+faction.name.24,웨이브 마켓
+faction.name.25,오버그로스
+faction.name.26,페어리테일 글렌
+faction.name.27,아이시 고지
+faction.name.28,다크우드
+faction.name.29,미러 폰드
+faction.name.30,트와일라잇 포트리스
+faction.name.31,드림폴
+faction.name.32,에메랄드 힐
+faction.name.33,골드헤이븐
+faction.name.34,실버 리버
+faction.name.35,로스트 시티
+faction.name.36,선더 픽
+faction.name.37,더스트록
+faction.name.38,리빙 밸리
+faction.name.39,앰버 던
+faction.name.40,크리스탈 케이브
+faction.name.41,에메랄드 메이즈
+faction.name.42,스태리 그로브
+faction.name.43,블레이즈 크라운
+faction.name.44,골드헤이븐
+faction.name.45,클리어문
+faction.name.46,윈드블레이즈
+faction.name.47,스타홈
+faction.name.48,레이븐 타운
+faction.name.49,섀도우글라이드
+faction.name.50,스파크베일
+faction.name.51,트리우드
+faction.name.52,글림베일
+faction.name.53,언더킵
+faction.name.54,인챈티지
+faction.name.55,크리스탈라이트
+faction.name.56,포가튼리치
+faction.name.57,블레이즈폴
+faction.name.58,드림크레스트
+faction.name.59,프로스트픽
+faction.name.60,그레이트미스트
+faction.name.61,비스트헤이븐
+faction.name.62,히든스파이어
+faction.name.63,오버캐년
+faction.name.64,윈디 미도우
+faction.name.65,다크 케이브
+faction.name.66,아이시 캐스케이드
+faction.name.67,미스틱 시티
+faction.name.68,사일런트 쇼어
+faction.name.69,덴스 티킷
+faction.name.70,블레이징 던
+faction.name.71,리빙 오아시스
+faction.name.72,선릿 앨리
+faction.name.73,미스티 브룩
+faction.name.74,로스트 센티넬
+faction.name.75,골든스파이크
+faction.deserted_soldiers,탈영병
+faction.player_untitled,소영주
+0map.appoint.sub_category.others,기타
+9map.appoint.sub_category.expansion,확장
+8map.appoint.sub_category.others,기타
+product_change_price.neighbore_town_attacked,{faction_uuid_town}에 대한 공격으로 가격이 <red>{price_factor}%</red> 상승했습니다.
+no_defence_allies,아군 없음
+map.category.lords,영주
+map.hostage_player,인질 몸값
+map.lord_low_loyalty,영주가 떠날 준비를 마침
+map.lord_rebellion.nobody_support,없음
+map.lord_rebellion_heir,후계자 반란
+map.lord_rebellion_king,반란 방지
+map.hire_bandits,도적단 고용 중
+map.solders_gift,도움 제공
+map.appoint.events,사건
+map.category.criminals,악행
+map.category.politics,정치
+map.category.attack,공격
+map.category.marriage,결혼
+map.category.trade,무역
+map.abandoned_town,버려진 도시
+map.marriage_female,결혼할 신부
+map.marriage_male,결혼할 신랑
+map.loan,대출
+map.king_tribute,약탈 위협
+map.king_tribute_light,정중한 공물 요구
+map.demand_tribute,정중한 공물 요구
+map.assault_fair,도시 약탈
+map.assault_unfair,도시 약탈
+map.city_burn_ai,파괴 위협
+map.demand_peace,평화 조약 제안
+map.declared_peace_broken,평화 조약 해제
+map.trade_agreement_broken,무역 협정 종료
+map.declared_peace,평화 협정
+map.demand_defence_alliance_to_player,동맹 제안
+map.declared_defence_alliance,자유 도시 동맹
+map.demand_defence_ally_army,지원 요청
+map.demand_vassal_waiting,응답 대기 중
+map.demand_vassal_attack_waiting,공격 대기 중
+map.demand_vassal_light_player,봉신화 요구
+map.demand_vassal_player,봉신화 요구
+map.help_against_faceless,불경한 군단에 맞선 지원
+map.demand_kill_own_bandits_camp,도적단 섬멸 요구
+map.conquest,봉신 수복
+map.king_attack,공성 요구
+map.demand_attack,공성 요구
+map.slaves_offer,수감자 판매
+map.trade_offer,거래 제안
+map.trade_request,거래 요청
+map.village,마을
+map.village_neighbore,이웃 왕의 마을
+map.village.short,"무역, 철, 고급 도구를 이용할 수 없는 작은 정착지."
+map.burned_village,불탄 마을
+map.burned_village.short,약탈당하고 불에 탄 마을. 시간이 지나면 주변에 있는 숲에 숨은 거주민들이 돌아와 마을을 재건합니다. 하지만 지금은 마을에 아무도 없습니다.
+map.protect,공격 위협
+map.protect.short,도적단 무리가 마을 주변에 모이고 있습니다.
+map.tribute,공물
+map.tribute.short,- 마을에서 수확한 것을 모아 공물을 바칠 준비를 마쳤습니다.
+map.mill,방앗간 개선
+map.mill.short,마을 장로가 마을 방앗간을 개선할 계획을 세웁니다.
+map.hungry,기근
+map.hungry.short,마을의 작황이 안 좋습니다. 음식이 필요합니다.
+map.sick,역병
+map.sick.short,질병이 발발했습니다. 약이 시급하게 필요합니다.
+map.meat,새 돼지우리
+map.meat.short,거주민들이 새로운 돼지우리를 짓는 것을 도와달라고 요청합니다.
+map.bandits_camp,숲속 도적단 진영
+map.bandits_camp.short,숲속 도적단이 거주하는 곳입니다. 종종 정착지를 공격합니다.
+map.bandits_hostage,인질 - {lord_name}
+map.bandits_hostage.short,영주가 인질로 잡혔습니다. 몸값을 요구합니다.
+map.wolfes,인근의 살육늑대
+map.wolfes.short,살육늑대 무리가 정착지로 가는 도로를 막았습니다. 하지만 곧 떠날 수도 있습니다.
+map.slaves,도망 중인 수감자
+map.slaves.short,{city_name}에서 도망친 수감자 무리가 당신의 도시 인근에서 목격되었습니다.
+map.fanatics,고행자 무리
+map.fanatics.short,고행 중인 소규모의 순례자 무리가 음식을 요청합니다.
+map.theif,도망 중인 도둑
+map.theif.short,최근 {city_name}에서 활동했던 도둑이 근처에서 목격되었습니다.
+map.lord_in_run,도망 중인 영주
+map.lord_in_run.short,{house_name_1} 영주가 {house_name_2}의 억류에서 탈출했습니다. 추적자들이 가까이 있습니다.
+map.lord_in_run_2,도망 중인 영주
+maplord_in_run_2.short,{house_name_1} 영주가 도적들에게 쫓기고 있습니다. 영주의 병력이 고갈되고 있습니다.
+map.lord_in_run_3,도망 중인 영주
+map.lord_in_run_3.short,{house_name_1} 진영의 영주가 고향을 떠나 피난처를 찾기로 했습니다.
+map.lovers_in_run,
+map.lovers_in_run.short,서로 다른 가문의 두 청년이 사랑에 빠져 도망쳤습니다.
+map.caravan,보호 상단
+map.caravan.short,수감자와 상품을 실은 {house_name_1} 상단이 {city_name_2}에 가는 중입니다.
+map.dispute,
+map.dispute.short,두 가문이 마을의 소유권을 놓고 다투고 있습니다. 둘 중 한 명을 지지할 수 있습니다.
+map.bride,신부가 짝을 찾고 있습니다.
+map.bride.short,{soul_uuid_bride}이(가) 결혼할 나이가 되었습니다. 왕이 적절한 파트너를 찾고 있습니다.
+map.groom,신랑이 짝을 찾고 있습니다.
+map.groom.short,{soul_uuid_groom}이(가) 결혼할 나이가 되었습니다. 왕이 적절한 파트너를 찾고 있습니다.
+map.q_hermit,
+map.long.q_hermit,
+map.q_hermit.short,
+map.risk.q_hermit,
+map.menu.quest.description,설명
+map.menu.quest.details,세부 내용
+map.menu.quest.consequences,가능한 결과
+map.menu.quest.reward,가능한 보상
+map.menu.quest.reward_or,또는
+map.menu.status.days_left,{remain_days}일 남음
+map.menu.modal.result.success,성공!
+map.menu.modal.result.fail,실패!
+map.menu.modal.ok,확인
+map.menu.status.timeless,무기한
+map.menu.status.go_home,복귀 중
+map.menu.quest.ignore,무시 중
+map.menu.quest.waiting,대기 중
+map.menu.quest.time_over,협정 만료
+map.menu.quest.tragic,비극적인 사고
+map.menu.quest.bad_opinion,나쁜 관계
+map.menu.quest.hostage_rescue,인질 구출
+map.menu.button.create_army,새로운 분대 생성
+map.menu.button.send_army,파병
+map.menu.prepare_to_battle.header,{place} 전투
+map.menu.prepare_to_battle.in_town,{town_name} 관문
+map.menu.prepare_to_battle.near_town,{town_name} 근처
+map.menu.prepare_to_battle.battle_begin,전투 시작됨
+map.menu.town.guest_lords,손님으로 온 영주
+map.menu.town.information,정보
+map.menu.town.economic,경제
+map.menu.town.army,군대
+map.menu.army_composition,군대 구성
+map.menu.town.local_lords,영주
+map.menu.town.ruling_family,통치 가문
+map.menu.town.status.hostile,적대적
+map.menu.town.status.friendly,우호적
+map.menu.town.status.neutral,중립
+map.menu.town.status.independent,독립적
+map.menu.town.status.vassal,봉신
+map.menu.town.status.suzerain,종주
+map.menu.town.relations,관계
+map.menu.messenger,전령
+map.army,군대
+map.declared_trade_agreement,무역 협정
+map.forcing_neutrality,중립 강요 중
+map.personal_conflict,이웃 간의 갈등
+map.help_against_bandits,도적단 대항 지원
+map.help_against_mountains_bandits,약탈자 대항 지원
+map.neutralization_order,무력화 명령
+map.menu.town.status.ally,동맹 소속
+map.menu.town.status.alliance_leader,동맹 지도자
+map.stolen_rings_offer,도둑맞은 신성 반지
+map.holy_defence_was_removed,"<red>사랑의 가족의 보호가 해제되었습니다!</red>
+ 
+ 공격적인 행동은 <hint=hint_holy_protection>사랑의 가족의 보호</hint>가 필요하지 않다는 의미입니다."
+map.holy_defence_will_be_removed,<hint=hint_holy_protection>사랑의 가족의 보호</hint>가 해제됩니다!
+map.trade.offer.alias,도시 판매품: {resource_name}
+map.trade.request.alias,도시 구매품: {resource_name}
+map.menu.town.king_family,왕의 가족
+map.menu.town.guests,손님
+map.menu.town.faction_lords,{town} 영주
+map.menu.town.vassal_of,종주:
+map.menu.town.ally_of,동맹:
+map.player_vassal_rebellion,반란 봉신
+product_change_price.rats_invasion,<hint=hint_prophecy_rats_invasion>쥐의 습격</hint>으로 가격이 <red>{price_factor}%</red> 상승했습니다.
+product_change_price.tree_bug,<hint=hint_prophecy_tree_bug>나무좀</hint>으로 가격이 <red>{price_factor}%</red> 상승했습니다.
+product_change_price.fields_sick,<hint=hint_prophecy_fields_sick_one>농작물 감염</hint>으로 가격이 <red>{price_factor}%</red> 상승했습니다.
+map.universal_help.danger_army,<center>공격자 군대:</center>
+map.appoint.estimated_time,임무 완료 예상 시간: {estimated_time}
+map.appoint.estimated_time_army,도로 소요 시간: {estimated_time}
+map.appoint.tasks,행동
+map.category.improve_relations,관계 개선
+map.guest.remain_stay_time,"<tight><center><b>캐릭터가 도시에 없음</b></center>.
+ 
+ </tight>이 캐릭터는 현재 {faction_uuid} 도시에 손님으로 있습니다.
+ 
+ 아마 {remain_time} 후에 집으로 돌아올 것입니다."
+map.your_province,내 영지
+map.burn_town_waiting,도시를 불태우려 준비하는 중
+map.last_female_in_faction,미혼 여성이 하나 남았습니다.
+map.defence_alliance_leaving_ai,동맹과의 갈등
+map.defence_alliance_leaving_player,동맹 수장과의 갈등
+product_change_price.temporary,일시적 가격 인상 <red>{price_factor}%</red>
+actor.deep_social_alias.abuse_1,{name_initiator}이(가) {name_target}에게 굴욕을 주었습니다.
+actor.deep_social_alias.abuse_2,{name_initiator}이(가) {name_target}을(를) 모욕했습니다.
+actor.deep_social_alias.abuse_3,{name_initiator}이(가) {name_target}을(를) 질책했습니다.
+actor.deep_social_alias.abuse_4,{name_initiator}이(가) {name_target}에게 발을 닦았습니다.
+actor.deep_social_alias.abuse_5,{name_initiator}이(가) {name_target}을(를) 진흙 속에서 짓밟았습니다.
+actor.deep_social_alias.abuse_6,{name_initiator}이(가) {name_target}의 감정에 상처를 주었습니다.
+actor.deep_social_alias.abuse_7,{name_initiator}이(가) {name_target}을(를) 침묵시켰습니다.
+actor.deep_social_alias.deep_talk_1,{name_initiator}이(가) {name_target}을(를) 칭찬했습니다.
+actor.deep_social_alias.deep_talk_2,{name_initiator}이(가) {name_target}와(과) 깊은 대화를 나눴습니다.
+actor.deep_social_alias.deep_talk_3,{name_initiator}이(가) {name_target}을(를) 위로했습니다.
+actor.deep_social_alias.deep_talk_4,{name_initiator}이(가) {name_target}을(를) 격려했습니다.
+actor.deep_social_alias.deep_talk_5,{name_initiator}이(가) {name_target}에게 감사를 표했습니다.
+actor.deep_social_alias.deep_talk_6,{name_initiator}이(가) {name_target}을(를) 칭찬했습니다.
+actor.deep_social_alias.deep_talk_7,{name_initiator}이(가) {name_target}에게 공을 돌렸습니다.
+actor.deep_social_alias.evil_joke_1,{name_initiator}이(가) {name_target}을(를) 조롱했습니다.
+actor.deep_social_alias.evil_joke_2,{name_initiator}이(가) {name_target}을(를) 바보 취급했습니다.
+actor.deep_social_alias.evil_joke_3,{name_initiator}이(가) {name_target}을(를) 놀렸습니다.
+actor.deep_social_alias.evil_joke_4,{name_initiator}이(가) {name_target}을(를) 조롱했습니다.
+actor.deep_social_alias.evil_joke_5,{name_initiator}이(가) {name_target}을(를) 따라 했습니다.
+actor.deep_social_alias.evil_joke_6,{name_initiator}이(가) {name_target}을(를) 비꼬며 조롱했습니다.
+actor.deep_social_alias.flattery_1,{name_initiator}이(가) {name_target}에게 아첨했습니다.
+actor.deep_social_alias.flattery_2,{name_initiator}이(가) {name_target}에게 알랑거렸습니다.
+actor.deep_social_alias.flattery_3,{name_initiator}이(가) {name_target}의 환심을 샀습니다.
+actor.deep_social_alias.flattery_4,{name_initiator}이(가) {name_target}에게 굽실거렸습니다.
+actor.deep_social_alias.flattery_5,{name_initiator}이(가) 거짓으로 {name_target}을(를) 칭찬했습니다.
+actor.deep_social_alias.flattery_6,{name_initiator}이(가) {name_target}을(를) 격찬했습니다.
+actor.deep_social_alias.flattery_7,{name_initiator}이(가) {name_target}의 자존감을 높여주었습니다.
+actor.deep_social_alias.good_joke_1,{name_initiator}이(가) {name_target}와(과) 재담을 나누었습니다.
+actor.deep_social_alias.good_joke_2,{name_initiator}이(가) {name_target}에게 새로운 농담을 했습니다.
+actor.deep_social_alias.good_joke_3,{name_initiator}이(가) {name_target}와(과) 크게 웃었습니다.
+actor.deep_social_alias.good_joke_4,{name_initiator}이(가) {name_target}에게 이야기를 들려주었습니다.
+actor.deep_social_alias.good_joke_5,{name_initiator}이(가) {name_target}에게 따라 하는 모습을 보여주었습니다.
+actor.deep_social_alias.intrigue_1,{name_initiator}이(가) {name_target}에게 소문을 알려주었습니다.
+actor.deep_social_alias.intrigue_2,{name_initiator}이(가) {name_target}에게 모든 진실을 밝혔습니다.
+actor.deep_social_alias.intrigue_3,{name_initiator}이(가) {name_target}의 두려움을 확인했습니다.
+actor.deep_social_alias.intrigue_4,{name_initiator}이(가) {name_target}에게 비밀을 공유했습니다.
+actor.deep_social_alias.intrigue_5,{name_initiator}이(가) {name_target}의 눈을 뜨게 했습니다.
+actor.deep_social_alias.intrigue_6,{name_initiator}이(가) {name_target}의 실체를 밝혔습니다.
+actor.deep_social_alias.intrigue_7,{name_initiator}이(가) {name_target}에게 넌지시 알려주었습니다.
+actor.deep_social_alias.slight_1,{name_initiator}이(가) {name_target}을(를) 무시했습니다.
+actor.deep_social_alias.slight_2,{name_initiator}이(가) {name_target}을(를) 무시했습니다.
+actor.deep_social_alias.slight_3,{name_initiator}이(가) {name_target}의 코를 납작하게 만들었습니다.
+actor.deep_social_alias.slight_4,{name_initiator}이(가) {name_target}의 말을 못 들은 척했습니다.
+actor.deep_social_alias.sorry_1,{name_initiator}이(가) {name_target}에게 사과했습니다.
+actor.deep_social_alias.bye_1,{name_initiator}이(가) 떠나기 전에 {name_target}에게 작별 인사를 합니다.
+actor.deep_social_alias.bye_2,{name_initiator}이(가) {name_target}에게 최대한 빨리 돌아오겠다고 약속합니다.
+actor.deep_social_alias.bye_3,{name_target}이(가) {name_initiator}에게 안전한 여행이 되길 바란다고 말합니다.
+actor.deep_social_alias.flirt_1,{name_initiator}(이)가 {name_target}에 대한 유혹을 시도합니다
+actor.deep_social_alias.flirt_2,{name_initiator}(이)가 {name_target}(을)를 데이트에 초대합니다
+actor.deep_social_alias.flirt_3,{name_initiator}(이)가 {name_target}에게 위험할 정도로 구애합니다
+actor.deep_social_alias.flirt_4,{name_initiator}(이)가 {name_target}에게 뜨거운 밤을 약속합니다
+opinion_mind_interest.hint_title,관심: {interest}
+opinion_mind_interest.zodiak_signs,냄새
+opinion_mind_interest.beauty,외모
+opinion_mind_interest.age,젊음의 매력
+opinion_mind_interest.drank,술의 영향
+opinion_mind_interest.love,사랑에 빠짐
+opinion_mind_interest.religious_fan,종교 불일치
+opinion_mind_interest.scars,흉터
+opinion_mind_interest.ugly,신체 훼손
+opinion_mind_interest.romantic,성관계 욕구
+opinion_mind_interest.opinion,관계
+opinion_mind_interest.manners,예의 차이
+opinion_mind_interest.guest,손님
+opinion_mind_interest.has_paramour,현재 파트너에 대한 감정
+opinion_mind_rumor_prefix,소문: {rumor}
+opinion_mind.abuse,나를 모욕함
+opinion_mind.abuse_paramour,파트너를 모욕함
+opinion_mind.adultery,내 외도 사실을 모름
+opinion_mind.blinded_relative,사랑하는 이의 눈을 멀게 함
+opinion_mind.bribe_me,나에게 뇌물을 줌
+opinion_mind.chitchat,잡담
+opinion_mind.close_relative,가까운 친척
+opinion_mind.convicted_of_adultery,파트너의 배신
+opinion_mind.coward,겁쟁이
+opinion_mind.criminal,범죄에 관여
+opinion_mind.deep_talk,깊은 대화를 나눴음
+opinion_mind.drunk_fight,취중 싸움
+opinion_mind.beat_me,나를 때림
+opinion_mind.envy_happy,너무 행복해!
+opinion_mind.envy_runes,신성 반지 질투
+opinion_mind.envy_for_babys,자손 질투
+opinion_mind.envy_for_victory,승리 질투
+opinion_mind.evil_joke,나를 조롱했어!
+opinion_mind.ex_paramour,이전 파트너
+opinion_mind.executed_relative,사랑하는 이를 처형함
+opinion_mind.punished_me,나를 처벌했어!
+opinion_mind.flattery,나에게 아첨했음
+opinion_mind.flirt,다가오는 데이트
+opinion_mind.game_of_dice_loose,주사위 게임에서 나를 이겼어!
+opinion_mind.gift,나에게 선물함
+opinion_mind.good_commander,성공적인 지휘관
+opinion_mind.good_joke,함께 한껏 웃었어!
+opinion_mind.king_gift,나에게 하사품을 내림
+opinion_mind.heir_envy,왕좌에 대한 욕망
+opinion_mind.hunt_together,같이 사냥함
+opinion_mind.intrigue,더러운 소문
+opinion_mind.sorry,사과함
+opinion_mind.jealousy,경쟁자!
+opinion_mind.love,그에게 완전 빠졌어!
+opinion_mind.negative_rumor_1,야식을 먹음
+opinion_mind.negative_rumor_10,영원히 떠날 계획 중
+opinion_mind.negative_rumor_11,성병에 시달리는 중
+opinion_mind.negative_rumor_12,침대에 오줌을 쌈
+opinion_mind.negative_rumor_13,쓰레기를 모음
+opinion_mind.negative_rumor_14,비밀 무신론자
+opinion_mind.negative_rumor_15,문 옆의 깔개에서 잠
+opinion_mind.negative_rumor_16,비밀 방화광
+opinion_mind.negative_rumor_17,거의 목욕을 안 함
+opinion_mind.negative_rumor_18,항상 남은 음식을 다 먹음
+opinion_mind.negative_rumor_19,밤에 나체로 걸어 다님
+opinion_mind.negative_rumor_2,코를 팜
+opinion_mind.negative_rumor_20,악령에게 사로잡힘
+opinion_mind.negative_rumor_21,그루터기를 숭배함
+opinion_mind.negative_rumor_22,성행위를 할 수 없음
+opinion_mind.negative_rumor_23,겨드랑이를 긁음
+opinion_mind.negative_rumor_24,벌레를 먹음
+opinion_mind.negative_rumor_25,밤에 비명을 지름
+opinion_mind.negative_rumor_3,시종을 훔쳐봄
+opinion_mind.negative_rumor_4,방귀를 뀜
+opinion_mind.negative_rumor_6,과음함
+opinion_mind.negative_rumor_7,사람들 뒤에서 험담함
+opinion_mind.negative_rumor_8,식기를 훔침
+opinion_mind.negative_rumor_9,탈모 진행 중
+opinion_mind.night_murder,잔인한 살인마
+opinion_mind.other_relatives,다른 친척
+opinion_mind.paramour,영혼의 짝
+opinion_mind.paranoid_hate,편집증적 증오
+opinion_mind.personality_arrogant,가난을 경멸
+opinion_mind.personality_contradictory_hate,설명되지 않는 증오
+opinion_mind.personality_contradictory_love,설명되지 않는 사랑
+opinion_mind.personality_mismatch,불쾌한 성격
+opinion_mind.personality_mismatch_heavy,극도로 불쾌한 성격
+opinion_mind.positive_rumor_1,남몰래 시를 씀
+opinion_mind.positive_rumor_10,비밀 낭만파
+opinion_mind.positive_rumor_11,과거를 후회함
+opinion_mind.positive_rumor_12,죽은 사람이 보임
+opinion_mind.positive_rumor_13,말기 환자
+opinion_mind.positive_rumor_15,아이들을 좋아함
+opinion_mind.positive_rumor_16,애완 쥐를 키움
+opinion_mind.positive_rumor_17,최면 능력이 있음
+opinion_mind.positive_rumor_18,남몰래 짝사랑 중
+opinion_mind.positive_rumor_2,침대에서 다정함
+opinion_mind.positive_rumor_3,숨겨진 우울증
+opinion_mind.positive_rumor_4,죄책감에 시달림
+opinion_mind.positive_rumor_5,꽃을 심음
+opinion_mind.positive_rumor_6,나는 법을 배우는 꿈을 꿈
+opinion_mind.positive_rumor_7,벨트 버클을 수집함
+opinion_mind.positive_rumor_8,남몰래 환자를 도움
+opinion_mind.positive_rumor_9,하룻밤에 다섯 번 가능
+opinion_mind.pretender_envy,후계자 질투
+opinion_mind.refuse_flirt,데이트를 거부함
+opinion_mind.refuse_flirt_full,날 거부하다니! 어떻게 감히!
+opinion_mind.reward_me,나에게 보상함
+opinion_mind.sex,같이 밤을 보냈어!
+opinion_mind.shame_relative,사랑하는 이를 망신 줌
+opinion_mind.slight,나를 망신 줌
+opinion_mind.spouse,배우자
+opinion_mind.suspicion_of_adultery,외도 의심
+opinion_mind.try_to_kill_me,날 죽이려고 했어!
+opinion_mind.manners_good,예의 바름
+opinion_mind.manners_too_high,너무 예의 바름
+opinion_mind.manners_too_low,무례한 농민
+opinion_mind.pregnancy_father,내 아이의 아버지
+opinion_mind.pregnancy_mother,내 아이의 어머니
+opinion_mind.dummy_bastard,농민의 사생아
+opinion_mind.lord_bastard,영주의 사생아
+opinion_mind.child,내 아이
+opinion_mind.parent,내 부모
+opinion_mind.rescued_from_captivity,포로가 된 날 구해줬어!
+opinion_mind.speeping_with_my_partner,내 파트너와 동침했어!
+opinion_mind.uncle,삼촌/고모/이모
+opinion_mind.nephew,남자 조카/여자 조카
+opinion_mind.brother,남자 형제/여자 형제
+opinion_mind.related_marriage,결혼을 통한 관계
+opinion_mind.returned_debt,빚을 갚음
+opinion_mind.not_returned_debt,내 신뢰를 배신함
+opinion_mind.not_returned_debt_neighbor,이웃에 진 빚을 갚지 않음
+opinion_mind.player_paid_tribute,공물 납부함
+opinion_mind.player_refuse_to_pay,지불을 거부함
+opinion_mind.king_demand_pay,나에게 공물을 갈취해 감
+opinion_mind.attacked_me,날 공격했음
+opinion_mind.attack_neighbors,이웃을 공격함
+opinion_mind.attack_traity,나에 대한 공격성
+opinion_mind.attack_traity_neighbors,이웃에 대한 공격성
+opinion_mind.attack_coward,결투에 나타나지 않음
+opinion_mind.vassal,내 봉신
+opinion_mind.senior,내 상관
+opinion_mind.vassal_duty_did,봉신의 의무를 다함
+opinion_mind.betrayal,나를 배신함
+opinion_mind.betray_vassal_oath,봉신의 맹세를 깸
+opinion_mind.king_bastard,사생아가 왕관을 쓰면 안 되지!
+opinion_mind.king_woman,여자가 왕관을 쓰면 안 되지!
+opinion_mind.greetings_me,나를 맞이함
+opinion_mind.loot_my_village,내 마을을 약탈함
+opinion_mind.friend_of_bandits,숲속 도적단과 협상함
+opinion_mind.enemy_of_bandits,숲속 도적단을 처치함
+opinion_mind.killed_wolves,늑대 무리를 처치함
+opinion_mind.kicked_out,날 추방함
+opinion_mind.take_title,내 작위를 박탈함
+opinion_mind.kicked_out_my_lord,내 영주를 추방함
+opinion_mind.discharge,관계 해소
+opinion_mind.free_lord_terror,자유 영주에 대한 살해 기도
+opinion_mind.my_teacher,내 교사
+opinion_mind.dictator_habits,독재자 성향
+opinion_mind.threatened_me,나를 위협했음
+opinion_mind.crime_criminal_not_punished,처벌받지 않은 범죄자
+opinion_mind.friend_of_my_child,아이의 친구
+opinion_mind.best_friend_of_my_child,아이의 가장 친한 친구
+opinion_mind.enemy_of_my_child,아이의 적
+opinion_mind.worst_enemy_of_my_child,아이의 불구대천의 적
+opinion_mind.friend_of_my_spouce,배우자의 친구
+opinion_mind.best_friend_of_my_spouce,배우자의 가장 친한 친구
+opinion_mind.enemy_of_my_spouce,배우자의 적
+opinion_mind.worst_enemy_of_my_spouce,배우자의 불구대천의 적
+opinion_mind.sex_with_other,사랑하는 사람이 다른 사람과 동침함
+opinion_mind.caring_parent,돌보는 부모
+opinion_mind.good_child,순종적인 자녀
+opinion_mind.start_friend,옛 동맹
+opinion_mind.start_sympathy,공감
+opinion_mind.start_dislike,반감
+opinion_mind.start_enemy,평생의 적
+opinion_mind.too_smart,지나치게 똑똑함
+opinion_mind.sinner,죄인(광신)
+opinion_mind.was_punished,처벌받음
+opinion_mind.trade_with_enemy,내 적과 거래함
+opinion_mind.dont_kill_bandits,도적단 섬멸에 실패함
+opinion_mind.kill_not_own_bandits,다른 사람 일에 참견함
+opinion_mind.killed_my_friend,내 친구를 죽임
+opinion_mind.killed_my_enemy,내 적을 죽임
+opinion_mind.first_night_together,같이 보내는 첫 번째 밤
+opinion_mind.loot_vassal_village,봉신의 마을을 약탈함
+opinion_mind.trade_with_me,성공적인 거래
+opinion_mind.victorious_generosity,승자의 아량
+opinion_mind.knocked_up_my_daughter,내 딸을 임신시킴
+opinion_mind.rebelled_against_kin,자기 왕에게 반역함
+opinion_mind.traitors_slander,변절자의 중상모략
+opinion_mind.not_control_own_bandits,자기들 도적단을 통제하지 않음
+opinion_mind.unholly_hospitality,신성한 환대의 법칙을 어김
+opinion_mind.demand_vassalage_to_me,나를 정복하려고 했음
+opinion_mind.mind_kidnaper,납치범
+opinion_mind.mind_kidnaper_neighbore,이웃의 영주를 납치함
+opinion_mind.mind_assassinate,자객을 보냄
+opinion_mind.mind_assassinate_neighbore,이웃에게 자객을 보냄
+opinion_mind.dead_captive,인질이 사망함
+opinion_mind.captive_hold,인질을 잡고 있음
+opinion_mind.release_captive,인질을 석방했음
+opinion_mind.captive_terror,인질을 고문함
+opinion_mind.lord_rebellion_support_heir_to_heir,반란을 지원함
+opinion_mind.lord_rebellion_support_king_to_heir,반란을 지원하지 않음
+opinion_mind.lord_rebellion_support_heir_to_king,정당한 권력을 지원하지 않음
+opinion_mind.lord_rebellion_support_king_to_king,정당한 권력을 지원함
+opinion_mind.poaching_my_lords,내 영주를 포획함
+opinion_mind.betrayed_home,자신의 고국을 배신함
+opinion_mind.book_stealer,책을 훔쳤음
+opinion_mind.gold_stealer,강도짓을 함
+opinion_mind.refuse_light_vassals,봉신화 요구를 거부함
+opinion_mind.showed_weakness,약점을 보였음
+opinion_mind.guest_death_for_owners,가족의 수상한 죽음
+opinion_mind.guest_death_for_opponents,손님의 수상한 죽음
+opinion_mind.faceless,불경한 군단
+opinion_mind.not_faceless,불경한 군단이 아님
+opinion_mind.hate_males,남성 혐오
+opinion_mind.hate_females,여성 혐오
+opinion_mind.blissful,황홀
+opinion_mind.saint,성스러움
+opinion_mind.drug_addict,중독자
+opinion_mind.coward,겁쟁이
+opinion_mind.help_against_facelesse,불경한 군단 진압을 지원함
+opinion_mind.tried_to_poison,독살 시도 중
+opinion_mind.tried_to_poison_my_member,내 영주에 대한 독살 시도
+opinion_mind.greedy,탐욕
+opinion_mind.king_role_weaker_than_me,나보다 약함(카이덴)
+opinion_mind.king_role_stronger_than_me,나보다 강함(카이덴)
+opinion_mind.king_role_poorer_than_me,나보다 가난함(마카)
+opinion_mind.king_role_reacher_than_me,나보다 부유함(마카)
+opinion_mind.king_role_agnostic,불가지론자(타나야)
+opinion_mind.king_role_fanatic,광신도(타나야)
+opinion_mind.king_role_bandit_torelate,도적단을 용인(카이덴)
+opinion_mind.king_role_fight_with_bandit,도적단과 싸움(카이덴)
+opinion_mind.king_role_many_slaves,많은 수감자(반)
+opinion_mind.king_role_no_slaves,수감자 없음(반)
+opinion_mind.king_role_vassal,봉신(반)
+opinion_mind.king_role_suzerain,종주(반)
+opinion_mind.king_role_dumber_than_me,나보다 멍청함(마카)
+opinion_mind.king_role_smarter_than_me,나보다 똑똑함(마카)
+opinion_mind.women_king,왕좌에 오른 여성
+opinion_mind.disinherited_me,나의 유산을 박탈함
+opinion_mind.illigal_heir,사생아 후계자
+opinion_mind.few_fanatics,광신도 부족
+opinion_mind.few_churchs,사원 부족
+opinion_mind.enough_fanatics,도시 내에 광신도 많음
+opinion_mind.enough_churchs,충분한 수의 사원
+opinion_mind.blissful,황홀
+opinion_mind.provoke_duel,결투를 도발함
+opinion_mind.provoke_duel_neighbore,이웃과의 결투를 도발함
+opinion_mind.declare_peace,평화 조약
+opinion_mind.trade_agreement,무역 협정
+opinion_mind.cruel_ruler,믿을 수 없는 통치자
+opinion_mind.bishop_frogivness,용서를 받음
+opinion_mind.enemy_of_bandits_bishop,도적 진영을 파괴함
+opinion_mind.pitty,동정심
+opinion_mind.help_in_rescue,해방 지원
+opinion_mind.lord_lowborn,낮은 신분
+opinion_mind.matriarch_fanatic_mind,도시 내 광신도 수({percent})
+opinion_mind.friend_lost_title,내 친구의 작위를 박탈
+opinion_mind.bishop_opinion,주교의 평가
+opinion_mind.defence_alliance_lost_soldier,지원군 손실
+opinion_mind.defence_alliance_lost_lord,지원군 지휘관 패배
+opinion_mind.defence_alliance_broken,깨진 동맹
+opinion_mind.defence_alliance,나와 같은 동맹 소속
+opinion_mind.defence_alliance_send_army,동맹을 지킴
+opinion_mind.defence_alliance_broken_neighbore,동맹을 배신했음
+opinion_mind.new_bishop,새 주교
+opinion_mind.enemy_of_my_ally,동맹의 적
+opinion_mind.ally_of_my_enemy,적의 동맹
+opinion_mind.same_culture,같은 문화
+opinion_mind.xenophobic_culture,혐오하는 문화
+opinion_mind.slander_to_other_king,다른 왕에게 원한을 품었음
+opinion_mind.slander_from_other_king,중상모략당함
+opinion_mind.help_in_vassal_riot_to_vassal,독립 투쟁을 지원했음
+opinion_mind.help_in_vassal_riot_to_sir,반란을 일으킨 봉신을 지원했음
+opinion_mind.help_in_lords_family_attack_to_victim,도시 수비를 지원했음
+opinion_mind.help_in_lords_family_attack_to_attacker,우리측 공격을 막는 것을 지원했음
+opinion_mind.help_in_lords_family_destroy_to_victim,도시가 파괴되지 않게 지원했음
+opinion_mind.help_in_lords_family_destroy_to_attacker,도시가 파괴되지 않게 지원했음
+opinion_mind.help_in_mountais_bandits_attack,약탈자 처치를 지원했음
+opinion_mind.helped_tanaya_king,타나야 왕들을 지원함
+opinion_mind.helped_makha_king,마카 왕들을 지원함
+opinion_mind.rival_for_power,권력 경쟁자
+opinion_mind.crown_desire,왕위 소망
+opinion_mind.bishop_to_fanatic,광신도
+opinion_mind.bishop_to_agnostic,불가지론자
+opinion_mind.transfered_king,왕관을 내어줌
+opinion_mind.distrust,불신
+opinion_mind.try_to_vassal_my_vassal,내 봉신을 지배하려고 함
+opinion_mind.contempt_of_genius,다른 통치자는 다 별 볼 일 없어!
+opinion_mind.force_neutrality_my_ally,동맹의 중립을 강요했음
+opinion_mind.force_neutrality_my_vassal,봉신의 중립을 강요했음
+opinion_mind.force_neutrality_me,나에게 중립을 강요했음
+opinion_mind.force_neutrality_to_leader,협정을 파기함
+opinion_mind.competitor_for_influence,영향력 경쟁자
+opinion_mind.ally_was_attacked,아군을 공격함
+opinion_mind.vassal_was_attacked,내 봉신을 공격함
+opinion_mind.spouses_opinion_about_king,배우자의 평가
+opinion_mind.sir_of_my_enemy,적의 종주
+opinion_mind.ally_of_my_enemy,적의 동맹
+opinion_mind.bishop_is_dead,주교의 수상한 죽음
+opinion_mind.purification_by_fire,불에 의한 정화를 당함
+opinion_mind.personal_conflict_ignore,갈등에 휘말리는 것을 두려워함
+opinion_mind.personal_conflict_support_me,갈등에서 나를 지원했음
+opinion_mind.personal_conflict_support_enemy,갈등에서 내 적을 지원했음
+opinion_mind.betray_sir_oath,종주의 맹세를 어김
+opinion_mind.lord_neutralised,골칫거리 영주 제거를 지원했음
+opinion_mind.apostate,변절자
+opinion_mind.purchase_stolen_rings,내가 도둑맞은 신성 반지를 샀음!
+opinion_mind.took_my_house,내 집을 차지했어!
+opinion_mind.family_relative_strange_dead,친척의 죽음
+opinion_mind.want_to_burn_my_town,내 도시를 불태우려고 함!
+opinion_mind.want_to_burn_town_unfair_neighbores,이웃에 대한 공격성
+opinion_mind.defence_alliance_not_help,동맹을 배신했음
+opinion_mind.praise_from_other_king,이웃의 칭찬
+opinion_mind.demand_tribute_neighbors,이웃에게 공물 요구
+opinion_mind.king_diplomacy,사절을 통한 소통
+opinion_mind.strong_sir_army,종주의 강력한 군대
+opinion_mind.allowed_death_of_close,사랑하는 이의 죽음을 허락함
+opinion_mind.crown_envy,왕관 질투
+opinion_mind.forced_marriage,강제 결혼
+opinion_mind.ex_heir_enemy,왕좌를 노리던 이전 경쟁자
+opinion_mind.king_defied_church,교회의 권위에 도전함
+opinion_mind.agnostic_to_fanatic,저주받을 광신도(불가지론)
+opinion_mind.fanatic_to_agnostic,저주받을 불가지론자(광신주의)
+opinion_mind.untitled_to_others,작위 질투
+opinion_mind.others_to_untitled,소영주에 대한 경멸
+activity_state.ambush_panic.go_to,위험 탈출
+activity_state.ambush_panic.waiting,공황발작 중
+activity_state.ambush_prepare,공격 준비 중
+activity_state.atm.go_to,시체를 나르러 감
+activity_state.atm.process,시체 나르는 중
+activity_state.battle_follow_enemy,적을 쫓는 중
+activity_state.battle_process,전투 중
+activity_state.battle_squad_commander,분대 명령 중
+activity_state.battle_squad_go_to_formation,지휘관에게 감
+activity_state.battle_squad_in_formation,분대의 일원
+activity_state.battle_win,승리에 크게 기뻐함
+activity_state.book_reading.go_to,시를 읽으러 감
+activity_state.book_reading.process,시를 읽는 중
+activity_state.burning.process,고통 속에 불타는 중
+activity_state.caravaneer.trade.go_to,거래하러 감
+activity_state.caravaneer.trade.process,거래 준비 완료
+activity_state.slave.trade.go_to,상단 상인에게 감
+activity_state.free_lord.go_to,고용 대기 중
+activity_state.slave.suicide,자살 시도 중
+activity_state.church.go_to,사원에 감
+activity_state.church.morning_service.process,기쁨의 설교
+activity_state.church.morning_service.waiting,설교를 기다리를 중
+activity_state.church.pray,기도 중
+activity_state.conversation.go_to,{name}에게 대화하러 감
+activity_state.criminal.burglary.go_to,집에 침입하러 감
+activity_state.criminal.burglary.lockpicking,자물쇠 부수는 중
+activity_state.criminal.burglary.process,집 약탈
+activity_state.criminal.burglary.waiting,공범을 기다리는 중
+activity_state.criminal.night_murder,적을 죽이러 감
+activity_state.criminal.robbery,강도 대상 찾는 중
+activity_state.criminal.storage_robbery.go_to,창고를 털러 감
+activity_state.criminal.storage_robbery.process,창고를 터는 중
+activity_state.dead,사망
+activity_state.deep_social.go_to,친목하러 감
+activity_state.deep_social.process,친목 중
+activity_state.deep_social.waiting,대화할 사람을 기다리는 중
+activity_state.dice_of_fate.go_to,뼈점을 치러 감
+activity_state.dice_of_fate.process,뼈점을 치는 중
+activity_state.dreaming.go_to,몽상하러 감
+activity_state.dreaming.process,몽상 중
+activity_state.drinking.go_to,맥주를 마시러 감
+activity_state.drinking.process,술 마시는 중
+activity_state.drinking_nectar.go_to,넥타를 마시러 감
+activity_state.drinking_nectar.process,넥타 마시는 중
+activity_state.eating.go_to,먹으러 감
+activity_state.eating.process,먹는 중
+activity_state.fight_trainer.go_to,훈련을 감독하러 감
+activity_state.fight_trainer.process,훈련 감독 중
+activity_state.fight_training.go_to,훈련하러 감
+activity_state.fight_training.waiting,연습 상대 기다리는 중
+activity_state.finish_off_enemy,적을 끝장내는 중
+activity_state.firefight.go_to,불을 끄러 달려감
+activity_state.firefight.process,불 끄는 중
+activity_state.game_of_dice.go_to,주사위 게임을 하러 감
+activity_state.game_of_dice.process,주사위 게임 중
+activity_state.game_of_dice.waiting,상대 기다리는 중
+activity_state.home_pray.go_to,집에 기도하러 감
+activity_state.inspector.go_to,점검하러 감
+activity_state.inspector.process,점검 중
+activity_state.leaving_to_forest.go_to,정착지를 떠나는 중
+activity_state.music.listen.go_to,음악 감상하러 감
+activity_state.music.listen.process,음악 감상 중
+activity_state.music.play.go_to,음악 연주하러 감
+activity_state.music.play.process,음악 연주 중
+activity_state.nothing,아무것도 안 하는 중
+activity_state.order.attack,{name} 공격 중
+activity_state.order.building_burning.go_to,{building}에 방화하러 감
+activity_state.order.building_burning.process,{building}에 방화 중
+activity_state.order.building_robbery.go_to,{building}을(를) 약탈하러 감
+activity_state.order.building_robbery.process,{building} 약탈 중
+activity_state.order.follow,{name} 쫓는 중
+activity_state.order.moving,나아가는 중
+activity_state.order.travel_prepare.go_to,공급을 위해 나아가는 중
+activity_state.order.travel_prepare.process,공급받는 중
+activity_state.pain_shock,통증 쇼크로 의식 불명
+activity_state.patrol,순찰 중
+activity_state.punish_watching.go_to,처벌을 구경하러 감
+activity_state.punish_watching.process,처벌 구경 중
+activity_state.punish.go_to,범죄자 인도 중
+activity_state.punish.process,처벌 집행 중
+activity_state.punish.search,범죄자를 추격하러 감
+activity_state.punish.target.go_to,처형대에 감
+activity_state.punish.target.waiting,처벌 대기 중
+activity_state.punish.witness.go_to,증인을 신문하러 감
+activity_state.punish.witness.process,증인 신문 중
+activity_state.punish.witness.target.process,증언 중
+activity_state.punish.work_wait,작업 대기 중
+activity_state.punish.intimidate,위협하러 감
+activity_state.intimidate.process,위협 중
+activity_state.retreat,도망치는 중
+activity_state.rtm.go_to,자원을 찾으러 감
+activity_state.rtm.process,자원 운송 중
+activity_state.salary.go_to,임금을 받으러 감
+activity_state.sex.go_to,성관계를 하러 감
+activity_state.sex.process,성관계 중
+activity_state.sex.waiting,파트너를 기다리는 중
+activity_state.shopping.go_to,시장에 감
+activity_state.shopping.process,상품 구매 중
+activity_state.sick_visit.go_to,환자를 병문안하러 감
+activity_state.sick_visit.process,환자 병문안 중
+activity_state.sick_visit.target.process,병문안 때문에 행복함
+activity_state.sick_visit.target.waiting,병문안 기다리는 중
+activity_state.skill_training.go_to,{skill_name}을(를) 훈련하러 감
+activity_state.skill_training.process,{skill_name} 훈련 중
+activity_state.sleeping.fatigue.process,지쳐서 자는 중
+activity_state.sleeping.go_to,자러 감
+activity_state.sleeping.on_ground.process,땅바닥에서 자는 중
+activity_state.sleeping.process,자는 중
+activity_state.social_relaxation.go_to,사색하러 감
+activity_state.social_relaxation.process_1,미래 계획 중
+activity_state.social_relaxation.process_2,과거 반추 중
+activity_state.social_relaxation.process_3,이 순간을 즐기는 중
+activity_state.social_relaxation.process_4,죽음에 대한 생각 중
+activity_state.social_relaxation.process_5,운명에 대해 심사숙고 중
+activity_state.social_relaxation.process_6,사랑하는 사람을 생각 중
+activity_state.social_relaxation.process_7,행동 반추 중
+activity_state.social_relaxation.process_8,존재를 의심하는 중
+activity_state.spend_time.drinking.go_to,무리 지어 맥주를 마시러 감
+activity_state.spend_time.drinking.process,무리 지어 맥주 마시는 중
+activity_state.spend_time.hunt.go_to,사냥하러 감
+activity_state.spend_time.hunt.waiting,사냥 파트너 기다리는 중
+activity_state.spend_time.music.go_to,무리 지어 음악 연주하러 감
+activity_state.spend_time.music.process,무리 지어 음악 연주 중
+activity_state.spend_time.pray.go_to,무리 지어 기도하러 감
+activity_state.spend_time.pray.process,무리 지어 기도 중
+activity_state.spend_time.waiting,누군가를 기다리는 중
+activity_state.spend_time.walking.process,무리 지어 걷는 중
+activity_state.take_equipment.go_to,장비를 가지러 감
+activity_state.tantrum.binge.go_to,잔뜩 마시러 감
+activity_state.tantrum.binge.process,잔뜩 마시는 중
+activity_state.tantrum.crazy_pray.go_to,종교적 무아지경에 몰입 중
+activity_state.tantrum.crazy_pray.process,종교적 무아지경 상태
+activity_state.tantrum.rage.process,두들겨 팰 상대를 찾는 중
+activity_state.tantrum.self_immolation.go_to,불로 정화할 계획 중
+activity_state.trade.go_to,상단 상인과 거래하러 감
+activity_state.unconscious,의식 불명
+activity_state.use_bandage,출혈을 멈춤
+activity_state.use_medicine.go_to,약을 구하러 감
+activity_state.use_medicine.process,약 먹는 중
+activity_state.walking,산책 중
+activity_state.dancing,
+activity_state.wolf_walking,숲 답사 중
+activity_state.work.go_to,일하러 감
+activity_state.work.process,일하는 중
+activity_state.chancellaty_interact.go_to,지식을 연구하러 감
+activity_state.chancellaty_interact.interact,지식 연구 중
+activity_state.slave_free.go_to,수감자를 풀어주러 감
+activity_state.slave_free.making_free,수감자를 풀어주는 중
+activity_state.slave_free.wait,해방을 기다리는 중
+activity_state.pig_slaughter.go_to,돼지를 잡으러 감
+activity_state.tantrum.tantrum_insult,말다툼하러 감
+activity_state.tantrum.depression,우울증
+activity_state.tantrum.long_walk,우울증에 빠져 걷는 중
+activity_state.tantrum.self_harm.go_to,자해하러 감
+activity_state.tantrum.self_harm.process,자해 중
+activity_state.tantrum.tantrum_beating,누군가를 두들겨 패러 감
+activity_state.clerk.wait_for_work,임무 대기 중
+activity_state.clerk.talk_inspector,임무 받는 중
+activity_state.clerk.give_order,임무 배정 중
+activity_state.gallows_inspector.go_to,처형대를 관리하러 감
+activity_state.gallows_inspector.process,처형대 관리 중
+activity_state.chancellry.go_to,사무국을 관리하러 감
+activity_state.chancellry.process,사무국 관리 중
+activity_state.duel.go_to,결투하러 감
+activity_state.duel.waiting,결투 시작 대기 중
+activity_state.duel_watch.go_to,결투를 구경하러 감
+activity_state.duel_watch.process,결투 구경 중
+activity_state.bishop.transfer_runes,상단에 신성 반지 주는 중
+activity_state.enslave,인질 묶는 중
+activity_state.awaiting_inspector,점검관 기다리는 중
+activity_state.awaiting_building_site,건설할 대상 기다리는 중
+activity_state.criminal.kidnap.go_to,영주를 납치하러 감
+activity_state.criminal.lord_kill.go_to,영주를 죽이러 감
+activity_state.criminal.lord_kill.process,영주를 죽이는 중
+activity_state.criminal.kidnap.process,영주를 묶는 중
+activity_state.criminal.captive.go_to,영주를 생포하러 감
+activity_state.criminal.captive.process,영주를 생포하는 중
+activity_state.criminal.steal_library.go_to,도서관을 털러 감
+activity_state.criminal.steal_library.process,도서관을 터는 중
+activity_state.criminal.steal_hall.go_to,영주관을 털러 감
+activity_state.criminal.steal_hall.process,영주관을 터는 중
+activity_state.criminal.kidnap.go_to,영주를 납치하러 감
+activity_state.criminal.captive.process,영주를 생포하는 중
+activity_state.tantrum.ring_robbery.go_to,건물을 털러 감
+activity_state.tantrum.ring_robbery.lockpicking,자물쇠 부수는 중
+activity_state.tantrum.ring_robbery.process,터는 중
+activity_state.tantrum.eating.go_to,고기를 먹으러 감
+activity_state.tantrum.eating.process,고기 먹는 중
+activity_state.tantrum.spent_time.go_to,함께 시간을 보내러 감
+activity_state.tantrum.house_grab.go_to,누군가를 집에 데려다주러 감
+activity_state.tantrum.make_gift.go_to,선물을 만들러 감
+activity_state.ceremony.watch,식을 지켜봄
+activity_state.funeral_ceremony.process,불의 의식에 참석함
+activity_state.wedding_ceremony.process,결혼식에 참석함
+activity_state.coronotaion_ceremony.process,대관식에 참석함
+activity_state.ceremony.go_to,식에 참석함
+activity_state.ceremony.waiting,식이 시작하기를 기다리는 중
+activity_state.archer_shooting,활 쏘는 중
+activity_state.unleashing,아군 해방
+activity_state.stay_back,멀리서 분대에 명령함
+activity_state.village_headman_transfer_resources,창고로 공물을 옮김
+activity_state.go_to_breakdown,파괴하러 감
+activity_state.breakdown_process,파괴
+activity_state.wolf_prophecy_attack,영지 공격
+activity_state.contraband.go_to,투기에 관여함
+activity_state.contraband.process,투기에 관여함
+activity_state.out_of_burning.go_to,불타는 건물을 떠남
+mind.abuse,모욕당했어!
+mind.agnostic,불가지론자
+mind.battle_commander_bonus,지휘관 스킬
+mind.battle_commander_dead,우리 지휘관이 사망했다!
+mind.battle_commander_retreat,우리 지휘관이 도망쳤다!
+mind.battle_enemy_commander_dead,적 지휘관이 사망했다!
+mind.battle_enemy_commander_retreat,적 지휘관이 도망쳤다!
+mind.battle_enemy_soldier_retreat,적 전사가 도망쳤다!
+mind.battle_loose,전투 패배
+mind.battle_soldier_retreat,분대 전사가 도망쳤다!
+mind.battle_soldier_surrender,분대 전사가 항복했다!
+mind.battle_soldier_dead,분대 전사가 사망했다!
+mind.battle_commander_surrender,우리 지휘관이 항복했다!
+mind.battle_enemy_commander_surrender,적 지휘관이 항복했다!
+mind.battle_enemy_soldier_surrender,적 전사가 항복했다!
+mind.battle_enemy_soldier_dead,적 전사가 사망했다!
+mind.battle_win,전투 승리
+mind.catharsis,카타르시스
+mind.close_actor_dead,사랑하는 이의 죽음
+mind.close_actor_heavy_disease,사랑하는 이의 중병
+mind.close_actor_low_mid_disease,사랑하는 이의 건강 걱정
+mind.close_actor_punish,사랑하는 이의 처벌
+mind.conversation_fatigue,협상으로 인한 피로
+mind.conversation_reward,수여받음
+mind.conversation_threat,위협받음
+mind.conversation.rumors,소문에 대해 논의함
+mind.crime_criminal_not_punished,범죄자가 처벌받지 않음
+mind.crime_punished,처벌받음
+mind.crime_unfairly_punished,모욕 피해자
+mind.crime_victim,범죄 피해자
+mind.deep_talk,의미 있는 대화를 나눔!
+mind.dice_of_fate_bad_luck,뼈점에서 패배가 나옴!
+mind.dice_of_fate_luck,뼈점에서 행운을 약속함!
+mind.disease_death_inevitable,피할 수 없는 죽음
+mind.disease_easy,경증 질병
+mind.disease_hard,중증 질병
+mind.disease_middle,일반 질병
+mind.drank,술의 효과
+mind.drank_nectar,넥타의 효과
+mind.beer_addiction,맥주 갈망 중
+mind.nectar_addiction,넥타 갈망 중
+mind.enemy_actor_dead,적의 죽음
+mind.enemy_actor_heavy_disease,적의 죽음을 바람
+mind.envy_happy,질투
+mind.evil_joke,비웃음당함!
+mind.execution_watch,처형 구경
+mind.exhaustion,탈진
+mind.faction_actor_dead,가족의 사망
+mind.fanatic,광신도
+mind.fight_positive,화를 풀자!
+mind.flattery,아첨받음
+mind.force_action_task,강요로 인한 스트레스
+mind.seduce_task,감정 없는 성관계
+mind.game_of_dice_loose,주사위 게임에서 패배
+mind.game_of_dice_win,주사위 게임에서 승리
+mind.good_joke,농담을 함
+mind.hangover,숙취
+mind.nectar_hangover,넥타 숙취
+mind.force_donate,강제로 제물을 바침
+mind.hate,증오
+mind.homeless,노숙
+mind.hunt,성공적인 사냥
+mind.immobilization,거동 불가
+mind.lot_of_rings,신성 반지 아주 많음
+mind.low_rings,신성 반지 거의 없음
+mind.loyalty_low,낮은 충성도
+mind.many_rings,신성 반지 많음
+mind.morning_service,기쁨의 설교
+mind.motive.energy.1,졸림
+mind.motive.energy.2,심각한 수면 부족
+mind.motive.food.1,배불리 먹음
+mind.motive.food.2,가벼운 허기
+mind.motive.food.3,허기
+mind.motive.food.4,심각한 허기
+mind.motive.rest.1,넘치는 에너지
+mind.motive.rest.2,가벼운 피로
+mind.motive.rest.3,일반적인 피로
+mind.motive.rest.4,치명적인 피로
+mind.motive.religion.1,신앙심
+mind.motive.religion.2,황홀함
+mind.motive.religion.3,성모 소피아에게 버림받음
+mind.motive.religion.4,신께서 날 처벌하실 거야!
+mind.motive.sex.1,가벼운 외로움
+mind.motive.sex.2,성욕
+mind.motive.sex.3,성적 강박
+mind.motive.care.1,부모의 돌봄 부족
+mind.motive.care.2,부모가 그리움
+mind.motive.care.3,부모에게서 버림받음
+mind.new_town_resident,새로운 주민의 낙관
+mind.night_murder,비도덕적인 살인
+mind.no_rings,신성 반지 없음
+mind.no_salary,봉급 받지 못함
+mind.pain,부상으로 인한 통증
+mind.personality_blockhead,바보의 즐거움
+mind.personality_bloodthirsty_fight,싸움에 연루됨
+mind.personality_bloodthirsty_saw_fight,피 냄새
+mind.personality_greedy,부유함의 기쁨
+mind.quality_of_life_high,충만한 인생
+mind.religious_pain,통증의 기쁨
+mind.sex_bribe_dummy,지저분한 성관계
+mind.sex_bribe_slave,돈을 위한 성관계
+mind.sex_orgasm,절정을 느낌
+mind.sick_was_visit,질병에 대한 공감
+mind.slight,난 방치되고 있어!
+mind.starvation,굶주림
+mind.terror,공포
+mind.toothache,치통
+mind.knowledge_fatigue,지식으로 인한 피로
+mind.try_to_posion_me,독살 시도 중
+mind.ugly_scars,보기 싫은 흉터
+mind.work_fatigue,일로 인한 피로
+mind.inspection_fatigue,점검으로 인한 피로
+mind.paramour,연애 중
+mind.ex_paramour,헤어짐
+mind.love,사랑에 빠짐:
+mind.refuse_flirt_full,거절당함
+mind.refuse_flirt,데이트 거부당함
+mind.flirt,다가오는 데이트
+mind.convicted_of_adultery,파트너의 외도
+mind.adultery,외도로 인한 수치심
+mind.suspicion_of_adultery,외도 의심 중
+mind.restrictions,제한
+mind.want_to_breakout,사랑하는 사람이 그리움
+mind.breakout_happy,자유의 기쁨
+mind.child_born,자녀 탄생
+mind.ale_drinking,취기: 에일
+mind.moonshine_drinking,취기: 밀주
+mind.meat_eating,맛있는 고기
+mind.swede_eating,맛없는 순무
+mind.desire_success,충족된 욕망
+mind.anguished_desire,고통스러운 욕망
+mind.obsession_desire,욕망에 대한 강박
+mind.force_donate,강제로 제물을 바침
+mind.bandits_profit_premonition,이득 예상
+mind.rescued_from_captivity,포로 상태에서 구출됨
+mind.close_actor_hostage,사랑하는 사람이 포로 상태
+mind.king_greetings,환영받음
+mind.pregnancy_miscarriage,아이를 잃음
+mind.have_friend,친구가 있음
+mind.patrolling_fatigue,순찰로 인한 피로
+mind.fear_of_death,죽음에 대한 공포
+mind.few_fanatics,광신도 거의 없음
+mind.sin_cleaned,죄에서 정화됨
+mind.sinner,죄인
+mind.defender_of_bandits_camp,도적 진영 수호자
+mind.defender_of_town,도시 수호자
+mind.no_weapons,무기 없음
+mind.separate_living_place,별도의 주거
+mind.sin_shame,죄에 대한 수치심
+mind.captive,인질
+mind.happy_of_stupidity,바보의 즐거움
+mind.gambler_no_play,흥분 갈구
+mind.battle_squad_command_unhappy,분대 명령 중
+mind.disinherited,상속권 박탈
+mind.heir_became,후계자가 됨
+mind.my_king_is_saint,우리 왕은 신성해!
+mind.not_enough_equipment,장비 부족
+mind.swede_typh,루타바가 열병
+mind.commander_stay_in_back,지휘관이 전투에 참여하지 않아!
+mind.criminal_intimidated,사형집행인에게 위협받음
+mind.fanatic_service_skip,사원이 더 필요해!
+mind.got_title,작위 받음
+mind.friend_lost_title,친구가 영주 작위를 뺏김
+mind.sorrow_for_king,왕을 위해 애도 중
+mind.loyalist_with_king_squad,왕의 수행단에 포함
+mind.matriarch_dont_love_king,총대주교가 왕을 좋아하지 않음
+mind.prestiged_best,가장 명망 있는 가문
+mind.prestiged_worst,가장 명망 없는 가문
+mind.successful_king,성공적인 왕
+mind.spirit_of_freedom,자유의 영혼
+mind.under_culture_terror,내 문화를 대상으로 공포 조성
+mind.best_culture_gwelts,가장 강력한 군대
+mind.best_culture_tanaia,총대주교가 우리 도시를 사랑함
+mind.best_culture_makha,가장 명망 있는 도시
+mind.best_culture_vorun,가장 인구가 많음
+mind.worst_culture_gwelts,가장 약한 군대
+mind.worst_culture_tanaia,총대주교가 우리 도시를 사랑하지 않음
+mind.worst_culture_makha,가장 명망 없는 도시
+mind.worst_culture_voruns,가장 인구가 적음
+mind.king_other_culture,다른 문화의 왕
+mind.fight_for_freedom,자유를 위해 싸우는 중
+mind.too_many_xeno_culture,도시에 {culture} 너무 많음
+mind.too_many_gwelts,도시에 카이덴 너무 많음
+mind.too_many_tanaya,도시에 타나야 너무 많음
+mind.too_many_makha,도시에 마카 너무 많음
+mind.too_many_voruns,도시에 반 너무 많음
+mind.unfinished_ambition,충족되지 않은 야망
+mind.hopes_for_the_future,미래에 대한 희망
+mind.king_cursed,왕이 총대주교의 저주를 받음
+mind.loyalist_in_battle,전투 중인 충성파
+mind.kaiden_brave_king,용감한 왕
+mind.varns_peace_king,평화를 사랑하는 왕
+mind.tanaya_puppet_king,왕 조종자
+mind.makha_trader_king,상인 왕
+mind.many_gaidjins,외국인들이 우리를 몰아내고 있어!
+mind.hated_culture_punished,혐오하는 문화가 처벌받음
+mind.feeling_of_freedom,자유 기대
+mind.joy_of_riots,폭동의 즐거움
+mind.slave_soldiers_1,도시 내 전사 많음
+mind.slave_soldiers_2,엄격한 감시
+mind.slave_soldiers_3,허술한 감시
+mind.slave_soldiers_4,도시 내에 전사 거의 없음
+mind.slave_soldiers_5,수적 우세
+mind.cholera,천연두
+mind.retreat_from_battle,전투에서 후퇴함
+mind.king_apostate,왕 변절자
+mind.we_cursed,죽음이 우리 모두를 집어삼킬 거야!
+mind.fear_of_church,교회에 대한 공포
+mind.king_is_prophet,우리의 왕은 진정한 선지자야!
+mind.good_events,좋은 사건
+mind.bad_events,나쁜 사건
+mind.lord_terrored,모두를 위한 정의!
+mind.survived_the_fire,화재에서 생존함
+actor.action_task.give_title_to_untitled_lord,작위 수여
+actor.action_task.untitled_lord_depart,소영주 추방
+building.status.inspection_overtime,지시가 오래되었습니다. 효율성: {number}%
+actor.action_task.turn_untitled_lord_into_free_lord,자유 영주
+actor.action_task.move_untitled_lord_to_holy_family,사제
+actor.action_task.turn_untitled_lord_into_knight,기사
+actor.action_task.choose_your_destiny,운명 결정
+opinion_mind.donated_lord_to_holy_family,영주를 희생함
+opinion_mind.exile_from_faction,내 작위를 박탈하고 추방함
+opinion_mind.friend_exiled_from_faction,친구를 우리 가문에서 추방함
+mind.friend_exiled_from_faction,친구가 우리 가문에서 추방됨
+display_event.untitled_lord_leave_soon,소영주 {name}이(가) 곧 떠남
+display_event.untitled_lord_leave,Der Niedere Lord {name} geht
+notification.got_knowledge_from_teach,{name}이(가) {name_2}와(과) 수업 중에 {knowledge} 지식을 획득했습니다.
+mind.making_desire,욕망 충족 중
+menu.battle_squad.shoot_without_order,명령 없이 사격 가능
+main_menu.new_game.family.members.single_king,외로운 왕
+main_menu.new_game.family.members.king_wife_three_brothers,세 형제와 부인
+main_menu.new_game.family.members.king_wife_two_brothers,두 형제와 부인
+display_event.lost_knowledge,지식 위험
+display_event.soldier_tax_decreased,군대 세금 감면됨
+letter.tax_increase_2,당신의 국가가 점점 강성해지는 것을 경외하는 마음으로 지켜보았습니다! 이러한 행운은 우리 모두가 신실하게 섬기는 성모 소피아 님의 은총 없이는 불가능했을 것입니다. 감사의 뜻으로 그분의 종에게 재산의 일부를 돌려주는 것이야 말로 당신에게 은총이 계속되게 하는 최선의 길 아니겠습니가?
+letter.tax_decrease,최근 당신의 국가에 닥친 혹독한 시련을 비통한 마음으로 지켜보았습니다! 성모 소피아께선 자녀들의 고통에 무관심하지 않으실 것입니다. 따라서 당신에게 더 이상 높은 전사 세금을 요구할 근거가 없는 것 같습니다!
+letter.army_tax_decrease_footer,"이제 당신의 국가가 더 작아졌으니 사랑의 가족은 당신의 도로 안전 부담금을 줄이는 것이 정당하다고 생각합니다.
+ 
+ 교회가 전사 세금을 <b>감면</b>하여 전사 전투 스킬당 {new_tax}의 세금을 부과할 것입니다(기존 {old_tax})."
+menu.battle_squad.shoot_in_archers,궁수 조준
+statistics_menu.province.trees_felled_yesterday,어제 벌목된 나무:
+statistics_menu.province.trees_growed_yesterday,어제 새로 자란 나무:
+grave.king,"나는 위대한 업적을 이룬 후 이곳에서 평화를 찾았도다. {province_name}, 그대의 왕이 이룬 업적을 기억하라!"
+grave.king_kia,"왕국을 위한 전투에서 명예롭게 전사하였도다. {province_name}, 나를 기억하라!"
+grave.smart,무한한 지혜와 지식을 겸비했던 자가 여기에 잠들다.
+grave.mother,자상한 어머니이자 충실한 아내. 성모 소피아의 품으로.
+grave.victor,위대한 지휘관이 여기에 잠들다. 죽음을 제외하곤 모든 것을 이겼도다.
+grave.queen,사랑받은 여왕. {province_name}의 슬픔은 그칠 수 없으리라.
+grave.heir,왕관을 쓸 운명이 아니었던 후계자가 이 비석 아래 잠들다.
+grave.kia,전투에서 왕을 지키다 쓰러지다. 그 영광을 영원히 추도하리라!
+grave.generic_1,위대한 업적을 이루고 영면에 들다. 성모 소피아께서 영혼을 거두어 주시길!
+grave.generic_2,성모 소피아께서 시간을 더 주실 줄 알았지.
+grave.generic_3,삶에서 누리지 못한 평화를 이곳에서 누리길.
+grave.generic_4,다른 선택을 했다면?
+grave.generic_5,살아서는 잠을 즐기지 않던 자가 여기 잠들다.
+letter.villager_name,장로 {name}
+grave.dyed_at,{age}세에 세상을 떠남
+grave.grave_of,{name} 무덤
+map.defence_own_village,마을 방어
+activity_state.grave_visit_go,무덤 방문
+activity_state.grave_visit,고인을 추모하는 중
+mind.close_remember,고인의 추억
+mind.grave_visit,사랑하는 이의 무덤을 방문함
+menu.construction.category.graves,기념물
+building.grave,무덤: {name}
+notification.close_remember,{name}: 사랑하는 이를 추모하며 ({name_2})
+grave.generic_6,이 영주의 선행에 대한 기억은 사람들의 마음속에 영원히 남으리라.
+grave.generic_7,"이 영주는 생전에 신앙과 미덕의 모범이었으니, 성모 소피아께서 그의 영혼을 받아주시기를."
+grave.generic_8,"여기 많은 사람에게 빛이었던 이가 누워 있으니, 그 빛은 사람들의 기억 속에서 결코 사라지지 않으리라."
+grave.generic_9,"너무 상심하지 말기를, 다음은 그대의 차례니!"
+grave.generic_10,너무 오랫동안 운명을 농락한 자가 여기 잠들다.
+grave.generic_11,"이 귀족 영주는 더 나은 세상으로 가려 했으나, 아마도 잘못된 길을 택했으리라."
+grave.generic_12,이 귀족 영주는 한 번 숙취로 깨어났으나 결국 버티지 못했으니.
+grave.generic_13,"고인의 마지막 말: ""다 문제없을 거야!"""
+grave.generic_14,잔치를 너무 좋아했던... 특히 마지막 잔치를 실컷 즐긴 자가 여기 잠들다.
+grave.generic_15,죽음과의 주사위 게임에서 패배한 자가 여기 잠들다.
+grave.generic_16,"삶은 류트와 같아, 많은 줄이 있으나 단 하나의 정확한 음도 내지 못했다네."
+grave.generic_17,"""난 두렵지 않아!""라고 항상 말했으나 두려움을 알아야 했던 영주가 여기 잠들다."
+grave.generic_18,인생은 한낱 게임에 불과하다고 여겼던 자가 여기 잠들다.
+grave.generic_19,주사위 게임을 너무 좋아하다가... 마지막 주사위가 던져진 자가 여기 잠들다.
+grave.generic_20,이 귀족 영주는 너무 많은 것을 알았으므로... 몰락을 맞이했도다.
+grave.generic_21,"걱정하지 마, 내가 알아서 할 수 있어.'라고 말했던 자가 여기 잠들다."
+grave.generic_22,방어구의 강도를 스스로 시험하는 것은 좋지 않은 생각이었으니.
+grave.generic_23,모험을 지나치게 사랑했던 자가 여기 잠들다.
+grave.generic_24,성모 소피아와 다른 사람들을 위해 일생을 바친 자가 여기 잠들다.
+grave.generic_25,"지상에서의 여행은 끝났으나, 성모 소피아의 보살핌 아래 영원이 기다리고 있으리라."
+grave.generic_26,명예와 정의를 위해 싸운 진정한 통치자로서 편히 잠들기를.
+letter.inquisition_go_to_purge,"우리는 무거운 마음으로 오랫동안 그대가 죄의 심연으로 떨어지는 모습을 지켜보았네... 불행히도 더 이상 이대로 두고 볼 수만은 없기에, 모든 소피아의 자녀를 위해 우리는 그대와 그대의 신민을 불로 정화할 수밖에 없겠네. 엄정한 성부께서는 이미 그대의 영혼을 위해 기도하셨고, 종교재판단의 충성스러운 형제들을 소집하셨네."
+mind.enemy_grave_visited,적의 무덤을 방문함
+work.executor,사형집행인
+mind.caprice,충족되지 않은 꿈
+mind.caprice_success,충족된 꿈
+display_event.obession_appear,{name}: 새 강박.
+options_menu.graphics.display_scars,흉터 표시
+building.menu.gallows_culture_terror,영주가 이 문화에 속하여 왕과의 관계가 <red>{mind_strength}</red> 악화됩니다.
+opinion_mind.culture_terror,내 문화에 공포 조성
+display_event.lords_against_terror,영주들이 {culture}에 대한 공포 조성을 달가워하지 않습니다
+name.nickname_1,밑빠진 잔
+name.nickname_2,딸기코
+name.nickname_3,유리 깨기
+name.nickname_4,맥주 영주
+name.nickname_5,맥주 기사
+name.nickname_6,건배
+name.nickname_7,마무리
+name.nickname_8,댄스 댄스
+name.nickname_9,즐거운 친구
+name.nickname_10,누런 피부
+name.nickname_11,사팔뜨기
+name.nickname_12,즐거운 누런 친구
+name.nickname_13,신비의 영주
+name.nickname_14,넥타의 친구
+name.nickname_15,병나발
+name.nickname_16,누런 호객꾼
+name.nickname_17,더러운 붕대
+name.nickname_18,미치광이
+name.nickname_19,넥타 피
+name.nickname_20,빠른 발
+name.nickname_21,토끼 같은 영혼
+name.nickname_22,손 머리 위로
+name.nickname_23,발꿈치 위로
+name.nickname_24,겁쟁이 고슴도치
+name.nickname_25,작은 참새
+name.nickname_26,아윌비백
+name.nickname_27,작은 쥐
+name.nickname_28,꽁지 빠진 자
+name.nickname_29,공포의 주먹
+name.nickname_30,잔혹한 검
+name.nickname_31,용감한 심장
+name.nickname_32,사자의 영혼
+name.nickname_33,용감한 기백
+name.nickname_34,철의 주먹
+name.nickname_35,대담한 전사
+name.nickname_36,강한 일격
+name.nickname_37,마스터
+name.nickname_38,벌
+name.nickname_39,채찍
+name.nickname_40,굼뱅이의 천적
+name.nickname_41,일어나
+name.nickname_42,똑똑이
+name.nickname_43,책벌레
+name.nickname_44,종이 영주
+name.nickname_45,척쟁이
+name.nickname_46,사서
+name.nickname_47,태평양 이마
+name.nickname_48,현명한 영주
+name.nickname_49,스승
+name.nickname_50,문법학자
+name.nickname_51,교사
+name.nickname_52,감정가
+name.nickname_53,현명한 뱀
+name.nickname_54,멘토
+name.nickname_55,지식의 우물
+name.nickname_56,판사
+name.nickname_57,되갚으리라
+name.nickname_58,법 집행관
+name.nickname_59,도둑들의 재앙
+name.nickname_60,교수대의 거장
+name.nickname_61,폭군
+name.nickname_62,압제자
+name.nickname_63,사형집행인
+name.nickname_64,피 묻은 손
+name.nickname_65,흡혈귀
+name.nickname_66,올가미
+name.nickname_67,피에 굶주린 괴물
+name.nickname_68,교수대
+name.nickname_69,결투자
+name.nickname_70,사악한 검
+name.nickname_71,죽음의 부름
+name.nickname_72,행운아
+name.nickname_73,도전 수락
+name.nickname_74,과민
+name.nickname_75,정신 박약
+name.nickname_76,또라이
+name.nickname_77,정신병자
+name.nickname_78,사이코
+name.nickname_79,복 받은 이
+name.nickname_80,물러나
+name.nickname_81,쉬지 않는 영주
+name.nickname_82,여행자
+name.nickname_83,롱다리
+name.nickname_84,출발 준비 완료
+name.nickname_85,방랑자
+name.nickname_86,유랑자
+name.nickname_87,쉬지 않는 다리
+name.nickname_88,허수아비
+name.nickname_89,악몽
+name.nickname_90,내면의 아름다움
+name.nickname_91,아이의 울음
+name.nickname_92,얼간이
+name.nickname_93,맹인
+name.nickname_94,잘 믿는 피해자
+name.nickname_95,순진한 영주
+name.nickname_96,짝수에 올인
+name.nickname_97,한 번 더
+name.nickname_98,마지막 베팅
+name.nickname_99,올인
+name.nickname_100,어둠의 영주
+name.nickname_101,맹인 영주
+name.nickname_102,암흑의 영주
+name.nickname_103,두더지
+name.nickname_104,외눈 영주
+name.nickname_105,키클롭스
+name.nickname_106,맹안
+name.nickname_107,반쯤 눈먼 영주
+name.nickname_108,쟁반 든 자
+name.nickname_109,겸손한 포용
+name.nickname_110,틀린 손
+name.nickname_111,정신 박약
+name.nickname_112,외팔 영주
+name.nickname_113,그루터기
+opinion_mind.relative_suffer,그의 영지에 있는 내 친척이 고통받는 중
+opinion_mind.relative_dead,그의 영지서 내 친척이 사망함
+display_event.relatives_worse_relations,{name}: 캐릭터의 친척들의 왕에 대한 태도가 악화되었습니다
+display_event.got_nickname,"{name}: 캐릭터에게 별명(""{nickname}"")이 생겼습니다"
+display_event.lord_not_have_time_for_chancellery,사무국 관리자가 제시간에 도착할 수 없습니다.
+building.menu.status.waiting_inspector,관리자를 기다리는 중
+building.watch_tower.archers,궁수
+actor.action_task.assasins_guest_give_child,첫째 아이 희생
+actor.action_task.assassination,비밀 암살
+activity_state.npc_guest.go_to,도심으로 가는 중
+activity_state.npc_guest.wait,대화를 기다리는 중
+display_event.guest_arrive,특별한 손님 도착: {guest_name}
+building.watch_tower.weapons,무기
+building.watch_tower.armor,방어구
+building.watch_tower.orders,명령
+building.watch_tower,궁수탑
+building.watch_tower.auto_collect,자동 궁수 배치
+actor.action_task.hire_escaped_lord,가문으로 초대
+display_event.escaped_lord_arrive,영주 망명 요청
+letter.escaped_lord,그 악당이 자네의 도시로 피신하려 할 거라네. 부디 놈을 받아주지 말고 바로 쫓아내도록 하게. 그 짐승 같은 녀석이 우리에게 무슨 짓을 했는지 상상도 못 할 거야!
+letter.escaped_lord_richstring,"영주 {soul_uuid_lord}이(가) 우리 영지로의 망명을 요청합니다.
+ 
+ 이 영주를 쫓아내거나 가문의 <hint=hint_untitled_lord>소영주</hint>로 받아들일 수 있습니다.
+ 
+ 그를 받아들이면 당신의 통치자에 대한 {soul_uuid}의 관계가 <red>{rel_de}</red> 감소합니다."
+building.watch_tower.status.need_to_assign_watchmans,궁수 배정 필요!
+building.watch_tower.status.no_available_soldiers,가능한 전사 없음!
+building.watch_tower.status.soldiers_go_to_tower,전사들이 탑으로 돌진 중
+building.watch_tower.status.attack,{target_name} 공격 중
+building.watch_tower.status.on_duty,위험 탐지 중
+building.watch_tower.status.not_summoned,궁수가 소집되지 않았습니다.
+activity_state.watch_tower.go_to,궁수탑으로 갈 거야.
+activity_state.watch_tower.on_duty,궁수탑에서 근무 중
+letter.escaped_lord_final,그른 판단을 했군. {lord_uuid}은(는) 자네와 식사를 하는 대신 밧줄에 묶였어야 했어. 자네를 설득하기 위해 놈이 한 일을 밝히기에는 너무 수치스러운 일이라는 것이 유감이군. 내가 자네의 판단력을 너무 고평가한 것 같네.
+letter.escaped_lord_richstring_final,"도망 중인 영주를 가문의 <hint=hint_untitled_lord>소영주</hint>로 받아들였습니다.
+ 
+ 당신의 통치자에 대한 {king_uuid}의 관계가 <red>{rel_de}</red> 악화되었습니다."
+display_event.witch_save_message,편지 받음
+letter.witch_save_message,"새로운 여신의 무지한 종들로부터 피난처를 찾는 한낱 여인에게 이렇게 자비를 베푸는 통치자는 많지 않습니다!
+ 
+ 당신에게 감사드리며, 소박하나마 축복을 내려 드리겠습니다."
+letter.witch_save_message_richstring,마녀에게서 감사의 표시로 통치자가 특성을 득했습니다 <hint={trait_hint}>{trait_caption}</hint>.
+trait.impotence,성적 약점
+trait.longlive,장수
+trait.male_birth,아들의 축복
+actor.action_task.witch_save,마녀: 매수
+actor.action_task.witch_give,마녀: 인도
+actor.action_task.trade_with_knowledge_trade,거래
+actor.action_task.hire_mountain_knight,고용
+actor.action_task.hire_escaped_lord,가문으로 초대
+actor.action_task.bandit_slave_buy,수감자 몸값 지불
+actor.action_task.buy_dog,개 구매
+actor.action_task.sacrifice_allow,붉은 미사 허용
+actor.action_task.depart_uniq_guest,추방
+building.watch_tower.enemy_tower,탑은 배치된 궁수를 보호하고 명중률을 향상시킵니다. 유닛을 선택하고 <b>우클릭</b>으로 공격하세요.
+actor.class.light_crossbowman,경갑 석궁병
+global_map.object.army.defenders,주둔군
+map.ask_player_send_army_to_attack,군대 파병 요청
+opinion_mind.player_ally_send_army,지원 군대 파병함
+opinion_mind.leader,동맹 수장
+global_map.choose_army,분대 선택
+actor.action.army.allies,동맹
+actor.action.army.vassals,봉신
+display_event.uniq_slave_release_message,수감자로부터의 전갈
+letter.uniq_slave_release_message_noble,"저는 당신이 도적단에게서 몸값을 지불해 해방시켜줬던 한 불운한 자입니다. 너무 급히 떠나서 죄송하지만, 한시라도 빨리 가족에게 돌아가고 싶었습니다.
+ 
+ 아름다운 여인들이 사랑의 기쁨뿐만 아니라 간교한 배신을 선사하기도 한다는 것을 이제야 깨달았으며, 그 단순한 사실이 너무나도 굴욕적이기에 제가 어떤 자인지 고백하기보다는 차라리 죽음을 택하고 싶을 정도입니다.
+ 
+ 그럼에도 불구하고 당신의 친절에 감사드리며, 당신이 지출한 비용을 어떻게든 보상해 드리고 싶습니다."
+letter.uniq_slave_release_noble_richstring,편지와 함께 <hint=hint_resource_gold>{count}</hint>이(가) 동봉되어 있습니다.
+letter.uniq_slave_release_message_bandit,"통치자시여! 평범한 사제로서 어떤 자를 대신하여 당신께 편지를 씁니다. 그는 문맹인 부랑자인데, 얼마 전에 당신께서 상당한 액수를 지불하고 그자를 포로에서 해방시켜주었다고 하더군요.
+ 
+ 그는 주사위 게임에 빠져 이성을 잃었고, 빚을 갚기 위해 수수께끼의 영주 행세를 하며 높은 몸값을 받아내자고 동료에게 제안했다고 합니다.
+ 
+ 당신이 보여준 자비가 그의 양심을 일깨웠으며, 그는 이 작은 장난에 대해 용서를 구하고 있습니다. 당신께 보답할 길이 없어 대신 제게 당신의 건강을 위해 기도해 달라고 부탁했습니다."
+letter.uniq_slave_release_bandit_richstring,봉투 안에 편지 외에는 아무것도 들어 있지 않았습니다.
+map.demand_player_send_army_to_attack,군대 파병 요구
+opinion_mind.matriarch_witch_give,마녀를 정의로 인도함
+display_event.witch_king_got_impotence,통치자의 상태가 좋지 않습니다
+display_event.too_smart_old_lord,{name}: 지식 상실 위험!
+display_event.lord_banned,{name}: {faction_name} 추방 선언!
+mind.animal_master,주인
+activity_state.go_to_pet,애완동물에게 감
+mind.animal_play,개와 어울려 놂
+map.vassal_ai_want_to_rebel,반란을 일으키려 하는 봉신
+opinion_mind.bribe_my_heir,나에게 반역을 시도했어
+menu.army.keep_last_army,마지막 군대 편성 저장
+actor.action_task.order_song_religious,성가
+actor.action_task.order_song_lyric,서정시
+actor.action_task.order_song_glory,영웅 찬가
+actor.action_task.order_song_good,교훈 설화
+activity_state.npc_bard.go_to,공연하러 가는 중
+activity_state.npc_bard.work,공연 중
+actor.action_task.dog_tame,개 길들이기
+actor.action_task.dog_transit,개 선물하기
+activity_state.npc_joker.go_to,사람들을 웃기러 가는 중
+activity_state.npc_joker.work,사람들을 웃기는 중
+display_event.guest_assassin_success_death,{target_name}: 갑작스런 죽음
+auto_backup_saves.header,저장 백업 생성됨
+auto_backup_saves.body,"<b>Norland</b>의 실험적인 베타 버전을 실행하셨습니다. 안정성을 확보하기 위해 최선을 다하고 있지만 문제가 발생할 가능성도 있습니다!
+ 
+ 또한, 실험 버전에서 저장한 파일은 일반 버전과 일시적으로 호환되지 않을 수 있습니다(기존 버전으로 전환하려는 경우). 이러한 이유로 저장 파일의 백업을 모두 별도의 폴더에 생성했습니다: <b>%localappdata%/Strategy/saves/backup/</b>. Windows에서 이 폴더로 이동하려면 WIN+R을 누르고 %localappdata%/Strategy/를 입력한 후 Enter를 누르세요.
+ 
+ 이 저장 파일로 돌아가고 싶다면 해당 파일을 <b>saves/</b> 폴더로 이동만 하면 됩니다.
+ 
+ 저희가 개발하는 데 있어 변경 사항에 대한 여러분의 피드백은 매우 중요한 부분이니 Steam 포럼이나 Discord를 통해 의견을 들려주시길 바랍니다. 감사합니다!"
+mind.heard_good_song,음유시인의 서정곡
+display_event.unique_guest_bishop,총대주교의 서신
+letter.unique_guest_bishop,친애하는 자녀여! 그대의 환대와 너그러움에 대한 기쁜 소식이 우리에게 전해졌구나! 우리가 친애하는 이를 따뜻하게 맞이해 준 것에 감사를 표하네. 그가 한 통치자와 의견 충돌이 있긴 했으나 우리의 뜻을 따르는 평화롭고 명예로운 자이지. 그가 건강하며 그대의 영지에서 임시 거처를 구하게 되어 기쁘다네.
+letter.unique_guest_bishop_richstring,총대주교 및 주교와의 관계: <green>+{rel_de}</green>
+display_event.unique_guest_philosoph,멀리 떨어진 통치자의 서신
+letter.unique_guest_philosoph,"어떤 이가 변장을 하고 자네의 땅을 방문할지도 있다고 들었네. 그를 받아들이지 않기를 간곡히 부탁하네! 이자는 창녀와 개의 부정한 자식으로, 아침 예배 중에 성모 소피아의 선하신 의지를 공개적으로 의심하는 신성모독을 저질렀지! 이를 염두에 두길 바라겠네!"
+letter.unique_guest_philosoph_richstring,이제 {soul_uuid}이(가) 당신의 땅을 찾아온 이유를 알게 되었습니다.
+action_task_assassination,비밀 암살
+actor.action_task.trade_with_nectar_trader,거래
+activity_state.joker_watch.go_to,어릿광대를 보러 감
+activity_state.joker_watch.process,공연을 즐기는 중
+activity_state.joker_watch.give_gold,어릿광대에게 돈을 수여
+building.wooden_wall,울타리
+actor.action_task.dog_play,놀기
+work.warden,간수
+display_event.some_soldiers_refuse_patrol,일부 전사가 순찰 가기를 거부
+display_event.bard_complete_order,음유시인이 의뢰를 완료
+activity_state.bard_watch.go_to,음유시인 감상하러 감
+activity_state.bard_watch.process,음유시인 감상 중
+activity_state.npc_bard.wait,청중 기다리는 중
+opinion_mind.kick_out_me_from_alliance,동맹 파기
+opinion_mind.kick_out_me_from_vassalage,자유를 받음
+display_event.sacrifice_allowed,붉은 미사 승인됨
+display_event.sacrifice_result,붉은 미사 끝남
+opinion_mind.sacrifice_allowed,승인된 붉은 미사
+name.incognito,정체불명
+guest.assassin,다하마트의 사제
+guest.escaped_lord,도망친 영주
+guest.joker,어릿광대
+guest.knowledge_trader,스크립토닉스
+guest.mountain_knight,약탈자 기사
+guest.witch,마녀
+guest.bandit_and_slave,수감자를 데려온 부랑자
+guest.dog_seller,개 상인
+guest.cultists,죽은 신의 집정관
+guest.bard,음유시인
+guest.nectar_trader,넥타 상인
+guest.incognito,정체불명
+opinion_mind.escaped_lord_accept,탈출한 영주 받아들임
+display_event.click_to_read_message,전갈을 읽으려면 클릭하세요
+display_event.unique_guest_philosoph_depart,손님이 남긴 쪽지
+letter.unique_guest_philosoph_depart,"자네의 끝없는 친절함에 감사의 마음을 전하네! 하지만 불행히도 적들이 내가 있는 곳을 알아내어 친절했던 이 영지를 떠나야 하게 되었군. 하지만 우리의 즐거웠던 대화를 기념하는 의미로 이 책을 선물하겠네. 이 책을 통해 나를 기억하고, 다른 문화의 지식에 대한 개방적인 자세가 우리를 더 강하게 만든다는 사실을 상기하게 되길 바라겠네."
+letter.unique_guest_philosoph_richstring_depart,"손님이 도시를 떠나면서 이 쪽지와 함께 {culture_name} 언어 사전을 선물로 남겼습니다.
+ 
+ 당신의 영주들이 그와 함께했던 따뜻한 순간을 기억할 것입니다."
+display_event.unique_guest_bishop_depart,손님이 남긴 쪽지
+letter.unique_guest_bishop_depart,"자네의 환대에 감사하네. 그러나 믿음의 돌에 참여한 내 친구들 덕분에 총대주교께서 내 상황에 대한 진실을 모두 아셨기에 이제 떠날 때가 되었군. 나는 용서받았고, 은총을 받았다네. 진실은 언제나 밝혀지기 마련이지. 보답으로 자네가 독실하고 충실한 통치자임을 총대주교께 넌지시 전하도록 하겠네. 성모 소피아의 가호가 있기를!"
+letter.unique_guest_bishop_richstring_depart,"손님이 도시를 떠나면서 이 쪽지를 남겼습니다.
+ 
+ <hint=hint_relations_matriarch>총대주교</hint> 및 <hint=hint_bishop>주교</hint>와의 관계가 곧 개선될 것으로 보입니다."
+ceremony.sacrifice,붉은 미사
+family_tree.branch_of,계통: {character_name}
+family_tree.role.lord,영주
+display_event.place_hall,영주관 건설
+letter.unique_guest_piligrims_accept,자네의 땅을 방문한 성스러운 순례자들에게 보여준 관대함에 기쁘게 생각하네. 자네의 신앙심이 다른 정의로운 통치자들에게 본보기가 되기를!
+letter.unique_guest_piligrims_accept_richstring,"총대주교가 당신이 순례자들에게 베푼 환대와 음식에 대해 고마움을 전합니다.
+ 
+ $ 총대주교와의 관계: <green>+{rel_inc}</green>"
+letter.unique_guest_piligrims_not_accept,자네가 우리의 자녀인 성스러운 순례자들을 대한 방식에 실망했네. 성모 소피아의 말씀을 기억하게: 나의 자녀를 너희의 첫째 아이처럼 대하라! 자네가 마음을 고쳐먹고 은총의 길로 나아가기를 바라겠네!
+letter.unique_guest_piligrims_not_richstring,"총대주교가 당신이 순례자들을 대한 방식에 실망했습니다.
+ 
+ $ 총대주교와의 관계: <red>-{rel_de}</red>"
+guest.piligrims,성스러운 순례자
+actor.action_task.piligrims_give_food,밀가루 기부
+actor.action_task.piligrims_give_swede,순무 기부
+opinion_mind.piligrims_didnt_share,순례자 홀대
+opinion_mind.piligrims_share_swede,순례자에게 순무 대접
+opinion_mind.piligrims_share_food,순례자에게 밀가루 대접
+faction.new.name.1,마스토크
+faction.new.name.2,칼린
+faction.new.name.3,투르노
+faction.new.name.4,노스
+faction.new.name.5,레토스
+faction.new.name.6,소피아
+faction.new.name.7,우그라드
+faction.new.name.8,레킨
+faction.new.name.9,바스나
+faction.new.name.10,고르노
+faction.new.name.11,크리이
+faction.new.name.12,시바
+faction.new.name.13,라크리아
+faction.new.name.14,케나
+faction.new.name.15,얄마
+faction.new.name.16,에스나
+faction.new.name.17,페로누크
+faction.new.name.18,타미아
+faction.new.name.19,루르윅
+faction.new.name.20,아레스티아
+faction.new.name.21,네아 미아
+faction.new.name.22,크래스터
+faction.new.name.23,아덴
+faction.new.name.24,살라무트
+faction.new.name.25,하라우
+global_map_new.g_label.1,신성한 고지
+global_map_new.g_label.2,고요한 공터
+global_map_new.g_label.3,빛나는 정상
+global_map_new.g_label.4,머나먼 숲
+global_map_new.g_label.5,저주받은 늪
+global_map_new.g_label.6,이스토마 강
+global_map_new.g_label.7,안개 숲
+global_map_new.g_label.8,적막한 계곡
+global_map_new.g_label.9,우스마 강
+global_map_new.g_label.10,살육늑대 숲
+global_map_new.g_label.11,황제의 숲
+global_map_new.g_label.12,벨로라 강
+global_map_new.g_label.13,요새 산마루
+global_map_new.g_label.14,흰 만
+global_map_new.g_label.15,얼어붙은 바다
+global_map_new.g_label.16,오랜 신의 땅
+global_map_new.g_label.17,여동생 강
+global_map_new.g_label.18,누나 강
+global_map_new.g_label.19,에메랄드 평야
+global_map_new.g_label.20,핏빛 숲
+global_map_new.g_label.21,벨타 강
+global_map_new.g_label.22,흉터의 황무지
+global_map_new.g_label.23,거대 남쪽 숲
+global_map_new.g_label.24,무활 사막
+global_map_new.g_label.25,장로의 숲
+global_map_new.g_label.26,사이렌니스 강
+global_map_new.g_label.27,나긋한 언덕
+global_map_new.g_label.28,거울 강
+global_map_new.g_label.29,카자 언덕
+global_map_new.g_label.30,마카 사막
+global_map_new.g_label.31,페록스 산길
+global_map_new.g_label.32,이단의 산
+global_map_new.g_label.33,카이덴 숲
+global_map_new.g_label.34,춤추는 풀잎
+global_map_new.g_label.35,섭정의 강
+global_map_new.g_label.36,성인 마이클 평야
+global_map_new.g_label.37,그레이록 계곡
+global_map_new.g_label.38,앨텀 강
+global_map_new.g_label.39,철 산마루
+global_map_new.g_label.40,급변의 사막
+global_map_new.g_label.41,황량한 산
+global_map_new.g_label.42,남해
+global_map_new.g_label.43,폭풍의 바다
+global_map_new.g_label.44,성스러운 강
+global_map_new.g_label.45,금지된 섬
+global_map_new.g_label.46,울부짖는 숲
+global_map_new.g_label.47,엄버 산
+display_event.lost_knowledge_final,지식 소실
+advisor.knowledge_lost_soon,지식 위험
+global_map_new.g_label.48,믿음의 돌
+input.key.backspace,Backspace
+input.key.arrow_up,위쪽 화살표
+input.key.arrow_down,아래쪽 화살표
+input.key.arrow_left,왼쪽 화살표
+input.key.arrow_right,오른쪽 화살표
+input.key.enter,Enter
+input.key.f1,F1
+input.key.f2,F2
+input.key.f3,F3
+input.key.f4,F4
+input.key.f5,F5
+input.key.f6,F6
+input.key.f7,F7
+input.key.f8,F8
+input.key.f9,F9
+input.key.f10,F10
+input.key.f11,F11
+input.key.f12,F12
+input.key.delete,Delete
+input.key.end,End
+input.key.home,Home
+input.key.insert,Insert
+input.key.pg_up,Page Up
+input.key.pg_down,Page Down
+input.key.pause,Pause
+input.key.num_0,숫자 0
+input.key.num_1,숫자 1
+input.key.num_2,숫자 2
+input.key.num_3,숫자 3
+input.key.num_4,숫자 4
+input.key.num_5,숫자 5
+input.key.num_6,숫자 6
+input.key.num_7,숫자 7
+input.key.num_8,숫자 8
+input.key.num_9,숫자 9
+input.key.decimal,.
+input.key.divide,/
+input.key.shift,Shift
+input.key.alt,Alt
+input.key.ctrl,Ctrl
+input.key.space,Space
+input.key.subtract,-
+input.key.tab,Tab
+input.key.mb_left,마우스 왼쪽 버튼
+input.key.mb_right,마우스 오른쪽 버튼
+input.key.mb_middle,마우스 가운데 버튼
+input.key.mb_side1,마우스 앞으로 버튼
+input.key.mb_side2,마우스 뒤로 버튼
+input.key.mb_wheel_up,마우스 휠 위로
+input.key.mb_wheel_down,마우스 휠 아래로
+input.action.camera_up,위
+input.action.camera_down,아래
+input.action.camera_left,왼쪽
+input.action.camera_right,오른쪽
+input.action.zoom_in,확대
+input.action.zoom_out,축소
+input.action.camera_move,카메라 이동
+input.action.select_object,대상 선택
+input.action.menu_back_close,뒤로 / 메뉴 닫기
+input.action.speed_one,기존 속도
+input.action.speed_two,2배속
+input.action.speed_three,4배속
+input.action.speed_pause,일시정지
+input.action.menu_construction,건물 메뉴
+input.action.menu_production,생산 메뉴
+input.action.menu_finances,재정 메뉴
+input.action.menu_statistics,통계 메뉴
+input.action.menu_army,군대 메뉴
+input.action.menu_dynasty,가문 메뉴
+input.action.menu_knowledge,지식 메뉴
+input.action.menu_map,세계 지도
+input.action.construction_rotate_l,건물: 좌측 회전
+input.action.construction_rotate_r,건물: 우측 회전
+input.action.gui_add_more,추가 10
+input.action.squad_order_attack,분대 명령
+input.action.select_next_lord,다음 영주 선택
+input.action.select_previous_lord,이전 영주 선택
+input.category.general,일반 컨트롤
+input.category.speed,게임 속도
+input.category.menu,메뉴
+input.category.misc,기타
+display_event.bandit_save_message,정체불명의 서신
+letter.bandit_save_message,"나는 안드레이 신부라네, 구할 수 있는 최고급 종이에 이 편지를 써서 보내달라며 상당한 값을 치른 정체불명의 누군가를 대신해 편지를 보내네. 내 후원자가 나쁜 길에 들어 참사의 장본인이 됐고 그때 공범자들로부터 도망치기 전에 상당한 부를 쌓았다고 고백했다네.
+ 
+ 자네가 피난처를 제공하여 추격을 모면할 수 있었다고 해. 이제 그는 안전하다네. 신성한 대상단과 함께 뭔가를 보내 자네의 친절함에 보답하겠다고 약속하더군."
+letter.bandit_save_message_richstring,정체불명의 누군가는 도적이었지만 당신의 베푼 친절함과 피난처에 고마워하고 있습니다. 이 자비로운 행동에 대해 통치자에게 정말로 보답할지도 모릅니다.
+trade.bandit_reward,친절함에 대한 사례
+display_event.bandits_camp_was_bribed,숲속 도적단이 매수당했습니다!
+settings_menu.tab.general,일반
+settings_menu.tab.controls,컨트롤
+input.binding_mode,키 누르기...
+input.restore_default,기본값 복원
+display_event.maniac_captived_message,이웃 통치자의 서신
+letter.maniac_captived_message,이웃이여! 자네의 전사들이 벌받을 행동을 한 걸로 유명한 영주를 생포해서 여기로 보냈다네. 놈을 잡아줘서 고맙네. 다시는 볼 수 없을 줄 알았거든. 하지만 정의가 승리했으니 놈은 마땅한 벌을 받게 될 거야. 이 일에 나서준 데 대한 감사의 표시로 작은 선물을 받아주게.
+letter.maniac_captived_message_richstring,"{soul_uuid_maniac}이(가) 생포되어 본래의 영지로 보내졌습니다.
+ 
+ 해당 영지의 영주가 감사 표시로 보낸 작은 선물: <hint=hint_resource_gold>{gold}</hint>"
+activity_state.maniac.go_to_kill,암살하러 가는 중
+activity_state.killing.wait,죽음을 기다리는 중
+activity_state.maniac.killing,암살 중
+activity_state.dog_play.go_to,개랑 놀러 가는 중
+activity_state.dog_play.play,개랑 노는 중
+activity_state.dog_play.dog_wait,마스터를 기다리는 중
+activity_state.dog_play.dog_play,마스터와 노는 중
+mind.mind_joker_watched,어릿광대의 공연
+letter.maniac_about_message,"이웃이여! 우리 땅의 영주가 자네의 영지에 방문했다는 소문을 들었네. 이곳에서는 재미로 살육을 하는 제멋대로의 가학성애자로 오랫동안 알려져 있다네. 불행하게도 최근 구류에서 탈출했는데, 자네의 땅에서 그 비도덕적인 오락 행위를 계속하는 걸로 알고 있네. 놈이 처벌을 받지 않은 건 애석한 일이지만 성모 소피아께서 성스러운 손길로 놈을 벌하고 정의가 승리하기를 기도하지."
+letter.maniac_about_message_richstring,정체불명의 가학 성애자가 처벌을 받지 않고 당신의 영지를 떠났습니다. 어디서 다시 만나게 될지 누가 알까요?
+display_event.maniac_about_message,이웃 통치자의 서신
+display_event.bandit_leave,정체불명의 누군가가 영지를 떠났습니다
+tech.trade_tax_reduce,회색 계약
+tech.market_depth_increase,확장 요구
+tech.book_rewrite_cost_decrease,좁은 서체
+tech.saint_king,권력의 신성함
+tech.church_defence,소피아의 보호
+tech.easier_divorce,이혼에 대한 사과
+tech.bishop_fix_relations,구원의 화해
+tech.detach_ex_bandit,새로운 시작
+tech.knife_battle_stronger,단검의 거장
+tech.stronger_weapon,내구도 크림
+tech.better_training,모집
+tech.moral_vs_bandits,도적단의 망치
+knowledge.blocked_reason.contracts_required,{number_of_contracts} / {required_contracts} 무역 계약
+knowledge.blocked_reason.books_required,책: {number_of_books} / {required_books}
+knowledge.blocked_reason.soldiers_required,전사: {number_of_soldiers} / {required_soldiers}
+knowledge.blocked_reason.matriarch_relation_required,총대주교 관계: {number_of_relation} / {required_relation}
+map.maniac_in_bandit_camp,도적 진영의 정체불명의 누군가
+map.menu.quest.manuac_captived,정체불명의 누군가가 생포되었습니다.
+actor.part_of_nature.trader,상인
+actor.action_task.church_defence,사랑의 가족의 보호
+actor.action_task.bishop_fix_relations,증오를 씻는 참회
+opinion_mind.repentance_of_hatred,증오를 씻는 참회
+opinion_mind.church_defence_request,보호 요청으로 약점이 드러났습니다
+knowledge.blocked_reason.caravan_bring_required,영주 중 한 명이 {knowledge_name}을(를) 알고 있어야 합니다.
+input.not_bounded,미배정
+input.key_already_used,이미 사용 중인 키
+opinion_mind.bishop_guest_accept,사제를 보호했습니다
+input.action.quick_save,빠른 저장
+matriarch.church_defence_active,사랑의 가족의 보호가 종료되기까지: {days}.
+actor.part_of_nature.philosoph,학자
+mind.fight_agains_bandit,도적단의 망치
+opinion_mind.my_master,나의 우상
+opinion_mind.my_puppet,나의 꼭두각시
+mind.made_gift_to_master,우상에게 선물 제공
+mind.master_death,우상의 죽음
+appoint.puppet_action_set,이로 인해 꼭두각시의 충성도가 감소합니다
+display_event.puppet_become,{master}이(가) {puppet}의 의지를 꺾었습니다.
+display_event.puppet_reset,{puppet}은(는) 더 이상 꼭두각시가 아닙니다.
+opinion_mind.forced_to_crime,강제로 범죄를 저지름
+opinion_mind.forced_to_action,강제로 행동함
+actor.opinion.special.master,우상
+actor.opinion.special.puppet,꼭두각시
+actor.relations.filter.puppets,꼭두각시
+opinion_mind_interest.lust,음탕 특성
+menu.army.new_army.create.build_hall,사용 불가. 영주관을 건설하세요.
+opinion_mind.forced_puppet_rebellion,반란에 꼭두각시를 이용함
+map.lord_rebellion_puppet,꼭두각시 반란
+changelog.header,새로운 소식
+display_event.check_problems,문제 목록 확인
+display_event.lord_dead_in_hostage,{name}: 감금 중 사망
+mind.bad_hunt,실패한 사냥
+opinion_mind.bad_hunter,형편없는 사냥꾼
+display_event.bad_hunt_on_global_map,{name}: 실패한 사냥
+beta_branch.title,게임 브랜치
+beta_branch.set,설정 및 재시작
+display_event.guest_role_revealed,{guest_name}: 드러난 의도
+opinion_mind.good_reception,품위 있게 내 영주를 맞이함
+opinion_mind.bad_reception,내 영주를 푸대접함
+actor.action_task.slander,중상모략
+actor.action_task.praise,칭찬
+opinion_mind.made_a_gift,선물 제공
+guest_role.communicative,사교인
+guest_role.duelist,결투자
+guest_role.provoker,도발자
+guest_role.puppet_master,조종자
+guest_role.manipulator,모략가
+guest_role.seducer,유혹자
+guest_role.player,도박꾼
+guest_role.educator,계몽자
+actor.action_task.donate_to_master,우상에게 선물
+building.fortification_gate,관문
+building.fortification_tower,방어탑
+trait.puppet,꼭두각시
+opinion_mind.slander_to_other,다른 사람에게 원한을 품었음
+mind.beer_drinking,취기: 맥주
+mind.prayed,기도함
+mind.sleepiness,졸림
+trait.sleepiness,졸림
+map.category.agression,공격성
+9map.appoint.sub_category.sudden_attack,기습 공격
+trait.sex_desire_weak,성욕
+trait.sex_desire_strong,성적 강박
+mind.sex_desire_weak,성욕
+mind.sex_desire_strong,성적 강박
+trait.malnutrition,영양실조
+mind.malnutrition,영양실조
+opinion_mind.sudden_attacked_me,갑자기 날 공격했음
+opinion_mind.sudden_attack_traity,갑자기 배신하여 날 공격했음
+opinion_mind.sudden_force_neutrality_me,중립을 강요함
+menu.bodyguard,경호원
+bodyguard.maximal_count,경비병({current} / {maximal})
+bodyguard.minimal_battle_level,최소 전투 레벨
+activity_state.bodyguard_watching,영주 경비
+trait.on_bender,만취
+notification.on_bender,{name}: 폭음했습니다!
+display_event.sudden_attack,기습 공격! {faction_name}의 군대가 진군 중입니다!
+bodyguard.status.no_guards,가능한 전사가 없습니다.
+bodyguard.status.active,경호는 오전 4시까지 지속됩니다.
+bodyguard.status.start_soon,경호는 오후 11시에 시작됩니다.
+bodyguard.appoint_line_1,경호원 배정
+bodyguard.appoint_line_2,경호원 {current}/{limit}
+actor.general,일반
+actor.important_feelings,강렬한 감정
+opinion_mind.my_master_enemy,우상의 적
+opinion_mind_interest.culture,흥미로운 문화
+trait.crimer,범죄자
+building.menu.terror_slaves,수감자 {count}
+building.menu.criminal,범죄자
+menu.migration.change,이주자: {count}
+mind.crime_in_city,마을 내 범죄
+opinion_mind.small_talk,일상 대화를 나눴음
+wolf.name,늑대
+pig.name,돼지
+tech.philosophy_history,철학사
+mind.slept_on_ground,땅바닥에서 잠
+building.temple.preach.usual_preach,기쁨의 설교
+faction.bums_in_rags,남루한 사람
+menu.buidling.church.mind_add,기분 +{moral_add}
+menu.buidling.church.fanatics_new,광신도가 생성됨
+menu.buidling.church.agnostics_new,불가지론자가 생성됨
+menu.building.church.preach_cost,비용: <hint=hint_resource_rune>{cost}</hint> (주교의 주머니로 들어감).
+trait.duelist,결투자
+trait.intriguan,책략가
+display_event.bums_in_rags_can_attack,인근에서 남루한 사람 발견
+actor.class.only_fists,비무장
+display_event.bums_in_rags_attack_town,남루한 무리가 도시 공격 중!
+mind.was_in_patrol,순찰을 했음
+actor.deep_social_alias.small_talk_1,"{name_initiator}, {name_target}이(가) 가벼운 대화를 나눴습니다."
+actor.deep_social_alias.small_talk_2,"{name_initiator}, {name_target}이(가) 즐거운 대화를 나누며 시간을 보냈습니다."
+actor.deep_social_alias.small_talk_3,"{name_initiator}, {name_target}이(가) 잡담을 했습니다."
+actor.deep_social_alias.small_talk_4,"{name_initiator}, {name_target}이(가) 최근의 사건에 대해 논의했습니다."
+actor.deep_social_alias.small_talk_5,"{name_initiator}, {name_target}이(가) 서로 즐겁게 어울렸습니다."
+mind.ceremony,식에 감명받음.
+building.menu.church.repeat_preach,매일 반복
+opinion_mind.king_bribe_me,나에게 선물을 주도록 명령함
+opinion_mind.seduce,내 유혹자의 평가
+building.menu.terror_nodody,처벌 없음
+building.menu.terror_criminals,수감된 범죄자 {count}
+actor.action_task.make_puppet,꼭두각시 만들기
+mind.overpopulation,인구 과잉
+guest_role.parent,부모
+faction.unique_guests_piligrims,순례자
+advisor.peasants_unhappy_2,도시를 떠나는 농민
+action_task.category.intrigue,음모
+display_event.burned_library,도서관이 불에 탔습니다!
+display_event.bums_in_rags_attack_soon,남루한 사람들이 도시에 접근 중입니다!
+actor.action_task.donate_to_bishop,주교에게 보상
+advisor.deadly_enemy,극도의 증오
+building.menu.autoset_as_inspector,자동 배정
+display_event.clerk_autoseted,{building_name}: 건물이 건설되었습니다. 사무국의 사무관이 점검관으로 배정되었습니다.
+opinion_mind.matriarch_sudden_attack_fair,경고 없이 공격
+opinion_mind.matriarch_sudden_attack_unfair,이웃을 경고 없이 공격
+display_event.building_builded,{building_name}: 건물 건설 완료
+display_event.bishop_study_discard,{study_target}: 교육 중단됨
+duel.is_bad,"</b>주의:</b> 
+캐릭터들 간의 관계가 적대적이지 않으므로 결투 도발은 암살 시도로 간주되며, 통치자가 그 책임을 지게 됩니다. 
+
+그 결과, 당신의 통치자에 대한 <hint=hint_relations_matriarch>총대주교의</hint> 태도가 <red>{rel_de}</red> 악화됩니다."
+mutator.without_bums_in_rags,남루한 무리 없음
+display_event.rings_inheritance,{heir}: 유산 상속
+notification.puppet_donate_to_master,{puppet} -> {master}: 우상에게 선물 제공
+menu.army.create_squad.title,분대 생성
+menu.army.create_squad,분대 만들기
+menu.army.hire_soldier,전사 고용
+display_event.soldiers_cant_trait,전사 훈련 중지됨
+building.menu.farm_autorefill,자동 비옥화
+trait.planned_sex,예정된 데이트
+menu.army.new_army.save_squad_composition,구성 저장
+display_event.inspector_replaced,점검 재배정
+display_event.knowledge_interaction_removed_by_blind,지식 작업 취소됨
+activity_state.sacrifice_ceremony.process,희생에 참석함
+building.training_ground.training,훈련
+building.training_ground.experience,타격당 경험치:
+building.training_ground.max_level,최대 훈련 레벨:
+building.training_ground.trained,훈련된 전사:
+trait.monogam_warning,"캐릭터가 <hint=hint_monogam>일부일처</hint> 특성을 가지고 있으므로, 결혼한 상태에서는 성욕 충족 대상이 합법적인 배우자로 한정됩니다.
+
+$ 결혼한 상태라면 배우자의 캐릭터에 대한 태도를 0보다 높게 유지하도록 하세요."
+advisor.monogam_problem,일부일처 캐릭터가 고통을 받습니다.
+king_has_duty_of_honor,"{soul_uuid_king}은(는) 당신에게 <hint=hint_debt_of_honor>명예의 빚</hint>을 지고 있습니다. 상대가 이 행동을 기꺼이 수락하겠지만, 빚이 이행된 것으로 간주될 것입니다."
+king_remove_duty_of_honor,"{soul_uuid_king}은(는) 당신의 요청을 받아들였으며, 더 이상 당신에게 <hint=hint_debt_of_honor>명예의 빚</hint>을 지지 않습니다."
+advisor.puppet_can_act,꼭두각시 행동의 위험성
+advisor.matriarch_bad_opinion,총대주교가 분노합니다
+advisor.bishop_bad_opinion,주교가 분노합니다
+notification.puppet_bribe_success,{name}: 꼭두각시에게 뇌물 받음
+soul_will_gain_duty_of_honor,{soul_uuid_duty_target}은(는) 당신의 통치자에게 <hint=hint_debt_of_honor>명예로 구속</hint>될 것입니다.
+soul_gained_duty_of_honor,{soul_uuid_duty_target}은(는) 이제 당신의 통치자에게 <hint=hint_debt_of_honor>명예로 구속</hint>됩니다.
+opinion_mind.made_faith_preach,소피아 설교 중
+opinion_mind.made_doubt_preach,의심 설교 중
+map.duty_of_honor,명예의 빚
+display_event.duty_of_honor_appear,명예의 빚
+display_event.duty_of_honor_complete,명예의 빚 이행됨
+display_event.duty_of_honor_reset_player_king_changed,명예의 빚 적용 중단
+display_event.duty_of_honor_reset_king_changed,명예의 빚 적용 중단
+advisor.terror_active,공포로 인해 이주가 감소했습니다.
+trait.immobilization_reasons,이동 불가 이유:
+economic_summary.no_instruction,<b>받은 지시 없음:</b>
+economic_summary.broken,<b>망가졌거나 작동 불능:</b>
+economic_summary.not_enought_workers,<b>일꾼 부족:</b>
+economic_summary.depleted_soon,<b>고갈 직적의 밭:</b>
+world_summary.day_events,<center>오늘의 사건</center>
+world_summary.neighbore_events,<center>이웃 지역의 사건</center>
+daily_stat.peasants,<b>농민</b>
+daily_stat.peasant_left_city,$ 도시 떠남: {peasant_left}
+daily_stat.peasants_become_bandit,$ <hint=hint_persons_criminal>부랑자</hint>가 됨: {peasant_criminal}
+daily_stat.peasants_become_thug,$ <hint=hint_persons_cuthroat>흉악범</hint>이 됨: {peasant_thug}
+daily_stat.peasants_become_fanatics,$ <hint=hint_persons_fanatic>광신도</hint>가 됨: {peasant_fanatic}
+daily_stat.peasants_become_loyalists,$ <hint=hint_loyalist>충성파</hint>가 됨: {peasant_loyalist}
+daily_stat.migrants,$ 예상 <hint=hint_migration>이주자</hint>: {peasant_migrant}
+daily_stat.slaves,<b>수감자</b>
+daily_stat.slaves_dead,$ 사망한 수감자: {slave_dead}
+daily_stat.slaves_unhappy,$ 불행한 수감자: {slave_unhappy}
+daily_stat.slaves_rebellion_chance,$ <hint=hint_slave_riot>반란</hint> 확률: {slave_rebellion_chance}%
+daily_stat.warriors,<b>전사</b>
+daily_stat.warriors_dead,$ 사망한 전사: {soldier_dead}
+daily_stat.warriors_inflamed_wounds,$ <hint=hint_wounds_open>염증성 상처</hint>에 걸림: {soldiers_sick}</red>
+daily_stat.warriors_average_mood,$ 평균 기분: {soldier_happiness}
+daily_stat.warrirors_become_loyalists,$ <hint=hint_loyalist>충성파</hint>가 됨: {soldier_loyalist}
+daily_stat.deserted,$ 탈영: {soldier_gone}
+faction.migrants,이주자
+display_event.migrants_waiting_to_be_in,관문 앞의 이주자들
+building.menu.migration,이주
+display_event.migrants_leaving,도시를 떠나는 이주자
+activity.migrant_go,도시 관문으로 가는 중
+activity.knight_hire_waiting,재고용 대기 중
+menu.army.knight_expired_contract,용병의 계약이 만료되었으나 아직 도시를 떠나지 않았습니다. {leaving_time}까지 다시 고용할 수 있습니다.
+display_event.knight_contract_expired,용병의 계약이 만료되었습니다.
+display_event.knight_leaving_province,용병이 도시를 떠나고 있습니다.
+advisor.knights_contracts,용병의 계약이 곧 만료됩니다.
+social_class.soldier,전사
+actor.loyalty_rating,충성도
+building.temple.preach.preach_loyalty,충성의 설교
+display_event.puppet_sponsored,꼭두각시가 자금을 받음
+economics_manager.title,일일 경제
+display_event.loyalty_rebellion_can_soon_rise,{name}: 군사 반란 위험
+display_event.loyalty_rebellion_start,군사 반란 시작됨
+display_event.loyalty_rise_discarded,군사 반란 중지됨
+display_event.repair_hall,영주관 수리
+duel.loyalty_change,{soul_uuid}의 충성도 {number} 추가
+menu.buidling.church.preach_loyalty,충성도 증가
+actor.sad_about_death,"사망한 캐릭터의 죽음에 애도할 친척 및 친구:
+{lords_list}"
+display_event.lord_dead,{name} 사망함
+actor.angered_to_king_for_death,이 영주들은 또한 캐릭터의 죽음에 대해 왕에게 분노합니다.
+actor.sad_about_punish,"캐릭터가 처벌받는 경우 격분할 캐릭터의 친척 및 친구:
+{lords_list}"
+soldiers.loyalty_hud,$ 왕에 대한 충성도: {loyalty}%
+display_event.ai_loyalty_preach,{name}: 전사들에게 충성의 설교 진행
+advisor.high_loyalty,위험한 수준의 군대 충성도
+loyalty_reason.battle_win,최근 전투에서 승리
+loyalty_reason.duel,최근 결투에서 승리
+loyalty_reason.inspection,점검
+loyalty_reason.fanatics,광신도
+loyalty_reason.loyalists,충성파
+gui_economics.production,생산
+gui_economics.distribution,자원 배급
+gui_economics.trade,무역 및 재정
+gui_economics.once,한 번
+gui_economics.every_day,매일
+gui_economics.required,필요
+gui_economics.do_up_to_x,목표 수량까지
+gui_economics.do_x,일정 수량
+gui_economics.sell,판매
+gui_economics.by_price,가격
+gui_economics.internal_trade,내부 무역
+gui_economics.new_task,새 임무
+gui_economics.distribution_complete,분배 완료!
+gui_economics.sale.cap,판매
+gui_economics.do_x.cap,일정 수량
+gui_economics.do_up_to_x.cap,목표 수량까지
+gui_economics.every_day.cap,매일
+gui_economics.once.cap,한 번
+gui_economics.food,음식
+gui_economics.alcohol,술
+gui_economics.alchemy,연금술
+gui_economics.liquids,액체
+gui_economics.weapons,무기
+gui_economics.armor,방어구
+gui_economics.resources,자원
+building.menu.location_efficiency,장소 {hint}
+building.menu.total_efficiency,작업 시간:
+menu.building.church.preach_cost_new,비용: <hint=hint_resource_gold>{cost}</hint> (주교의 주머니로 들어감).
+loyalty.total,이 캐릭터에 대한 전사 충성도: {soldiers} ({value}%) ( 전사)
+loyalty.loyalists,왕에 대한 충성파 전사 충성도: {soldiers} ({value}%)
+loyalty.fanatics,주교에 대한 광신도 전사 충성도: {soldiers} ({value}%)
+loyalty.reasons_describe,지난 {days}일간의 변화:
+advisor.placement_inefficient,비효율적인 생산 배치:
+economic_summary.unefficient_placement,<b>비효율적인 배치:</b>
+activity_state.budget_transition.go,금고 상호작용 중
+activity.budget_transition,금고 상호작용
+actor.action_task.take_gold_small,금화 소량 수취하기
+actor.action_task.take_gold,금화 수취하기
+actor.action_task.put_gold_small,금화 소량 예치하기
+actor.action_task.put_gold,금화 예치하기
+action_task.category.budget,금고
+bodyguards.no_soldiers,가능한 경비병이 없습니다!
+universal_appoint.empty,가능한 행동 없음
+advice.food_not_distributed,{group_name}: 음식을 받지 못하고 있습니다!
+advice.food_not_for_sale,{group_name}: 음식을 구매할 수 없습니다!
+mind.take_gold,금화 수취함
+mind.put_gold,예치한 금화
+mind.take_ring,신성 반지 수취함
+mind.put_ring,신성 반지 예치함
+actor.action_task.take_ring_small,신성 반지 소량 수취하기
+actor.action_task.take_ring,신성 반지 수취하기
+actor.action_task.put_ring_small,신성 반지 소량 예치하기
+actor.action_task.put_ring,신성 반지 예치하기
+building.spoilage_per_day,매일 {spoilage}%씩 부패
+advice.storages_overflow,창고 가득 참
+menu.construction.category.storages,창고
+building.granary,곡창
+building.armory,무기고
+building.builders,건설자 야영지
+menu.tools.hint.economics,경제
+building.menu.no_workers,일꾼 없음
+activity_state.buy_runes_go,신성 반지를 구매하러 가는 중
+activity_state.buy_runes_process,신성 반지 구매 중
+activity_state.sell_runes_go,신성 반지를 판매하러 가는 중
+activity_state.sell_runes_process,신성 반지 판매 중
+building.support_preach,지지의 설교
+mind.humiliated_by_flattery,아첨으로 인한 굴욕감
+gui_economics.armory,전쟁 물자
+gui_economics.raw,원자재
+gui_economics.herbs,식물
+loyalty_rebellion.potential_supporters,"반란군의 편에 설 가능성이 높음:
+{lords_list}"
+economic_summary.spoilage_resources,<b>부패한 자원:</b>
+advice.storages_will_overflow_by_farm,수확으로 인해 창고가 넘칠 것입니다
+knight.name_prefix.male,{name} 경
+knight.name_prefix.female,{name} 부인
+tech.economics_salary,임금
+tech.internal_trade,내부 무역
+display_event.people_not_recieve_food,{group_name}: 음식을 받지 못하고 있습니다!
+mind.dummy_rich,재산
+map.lord_rebellion_lord,반란 정치가
+mind.visited_public_place,공공장소를 방문함
+building.menu.comfort,안락도:
+opinion_mind.my_protege,내 제자
+trait.politic,정치가
+building.menu.warriors_priority,전사 우선순위
+menu.army.group.mercenaries_new,용병({count})
+building.warehouse_header,용량
+building.effect.living_zone,이웃
+mind.house_comfort,건물 안락도
+menu.battle_squad.edit_squad,분대 편집
+menu.army.edit_squad.title,분대 편집
+menu.army.edit_squad.accept,적용
+display_event.lord_become_politic,{name}: 정치가가 됨
+actor.action_task.praise_super,화해
+notification.character_praise_super,{name_target} -> {name_third_person}: 화해로 인한 관계 개선
+mind.gold_count_no,빈 주머니
+mind.gold_count_mid,돈 많음
+mind.gold_count_high,돈 아주 많음
+opinion_mind_interest.rings,아름다운 신성 반지
+opinion_mind.envy_gold,금화 질투
+mind.saint_punch,신성한 뺨치기
+notification.ai_preach_process,{name}이(가) {preach}를 전파하고 있습니다
+mind.dummy_poor,빈 주머니
+mind.dummy_very_rich,극도로 부유함
+mind.soldier_poor,빈 주머니
+mind.soldier_rich,풍족함
+mind.soldier_very_rich,극도로 부유함
+negative_mind_inline,$ {soul_uuid_performer}의 생각: <red>{mind_value}</red>
+seduce_charisma_effect,$ {soul_uuid_performer}에게 <hint={trait_hint}>{talent_name}</hint> 재능이 있어 부정적 생각을 얻지 않습니다.
+loyalty_reason.battle_loose,최근 전투에서 패배
+opinion_mind_interest.was_seduce,유혹당했었음
+seduce_puppet_in_result,"유혹의 결과, {soul_uuid_target}은(는) {soul_uuid_master}의 <hint=hint_encyclopedia_puppets>꼭두각시</hint>가 될 것입니다"
+seduce_duty_of_honor_in_result,"유혹의 결과, {soul_uuid_target}은(는) <hint=hint_debt_of_honor>명예의 빚</hint>을 지게 될 것입니다."
+unavailable_header,사용 불가
+building.effect.burned,화재로 소실된 건물
+map.category.puppets,꼭두각시
+shadow_action.puppet_bonus,"{soul_uuid_performer}이(가) 지역의 영주이므로 성공 확률이 크게 증가합니다.
+
+꼭두각시는 악행을 저지른 뒤 자신의 정체를 드러내고 당신에게 피신해올 것입니다."
+display_event.puppet_make_crime_and_become_untitled,꼭두각시가 당신의 명령으로 범죄를 저지른 뒤 자신의 마을을 떠나 당신에게 가고 있습니다.
+display_event.politic_made_donat,{name}: 정치가가 선물 제공
+display_event.politic_made_flattery,{name}: 정치가가 영주에게 아첨
+display_event.politic_request_donate,{name}: 정치가가 기부를 받음
+notification.buy_ring_from_caravan,{name}: 대상단에서 신성 반지를 구매함
+notification.sell_ring_to_caravan,{name}: 대상단에 신성 반지를 판매함
+activity_state.shopping_caravan.go_to,대상단으로 가는 중
+conversation.politic_donate_to_bishop,주교에게 선물
+conversation.politic_donate_to_lord,영주에게 선물
+conversation.politic_flattery,아첨
+conversation.politic_request_donate,정치가에게 기부
+mutator.no_politics,정치가 없음
+display_event.bishop_bribe_politic,{iniciator} -> {name}: 정치가가 영주에게 뇌물 제공
+building.hut_6x10,주택
+building.hut_8x8,주택
+building.hut_10x6,주택
+building.lord_house_6x10,영주의 도시 주택
+building.lord_house_10x6,영주의 도시 주택
+menu.army.fire_selected,사격 선택됨
+menu.squad_creating.equipment_auto,자동
+menu.politic_ally_army_strenght,군대 전투력 <hint=hint_resource_gold>{number}</hint>
+economic_summary.caravan_purchase,$ 주민이 신성한 대상단으로부터 <hint=hint_dummy_caravan_purchases>상품을 구매</hint>했습니다. 비용(<hint=hint_resource_gold>{caravan_purchases}</hint>):
+building.caption_with_level.short,레벨 {level} - {building_name}
+menu.knowledge.autostudy,자동 학습
+opinion_mind.no_church,도시에 사원이 없음
+building.free.construction_cost,남은 무료 {remain}
+mind.house_discomfort,주거 불편
+notification.lord_become_politic_friend,{name}이(가) 정치가 {politic}의 추종자가 되었습니다.
+building.variation.vertical,세로
+building.variation.horizontal,가로
+building.variation.square,정사각형
+mind.good_housing,주거 안락도
+mind.excellent_housing,주거 안락도
+house_upgrade.living_places,$ 거주 공간의 수가 {number_of_living_places}(으)로 증가합니다.
+house_upgrade.housing_mind,$ 이 집의 주민이 생각 <green>{housing_mind}</green>을(를) 획득합니다.
+display_event.reg_riot_cancel_by_no_death,광신도들이 만족했습니다. 반란이 일어나지 않습니다.
+menu.finance.goods_availability.lords,영주
+display_event.lords_summary,영주 요약
+display_event.politic_seduce,{name}: {target} 유혹함
+opinion_mind.seduce_by_politic,침대 위에서 굉장한 남자였어
+actor.action_task.flattery,아첨
+opinion_mind.church_delegate,
+display_event.puppet_donated_to_master,{name}: 우상에게 선물함
+building.prefer.dummy,
+opinion_mind.take_title_from_politician,
+action_task_optional_take_title_from_politician,
+building.menu.combat_min,
+building.menu.gear,
+building.menu.no_weapon,
+building.menu.no_armor,
+building.menu.no_shield,
+building.menu.with_shield,
+mind.won_in_rebellion,
+prophecy.letter.finish_reward,
+opinion_mind.usurper,
+opinion_mind.usurper_to_ex_heir,
+opinion_mind.depose_my_enemy,
+opinion_mind.depose_my_friend,
+display_event.king_goes_punish,
+settings.reset_soft_tutorial,
+main_menu.offer_encyclopedia_reset.header,
+main_menu.offer_encyclopedia_reset.text,
+actor.action_task.agnostic_conversion,
+general.yes,
+general.no,
+actor.action_task.donate_new,
+actor.action_task.confiscation,
+actor.action_task.reward_new,
+display_event.spouse_bad_spouse_relation,
+advisor.spouses_hate,
+resource.carrot,
+conversation.politician_intrigue_againt_other_lord,
+notification.sex_cancelled,
+notification.character_low_loyalty_new,
+advisor.loyality_new,
+building.menu.gear_autoselect,
+building.menu.gear_element_auto,
+actor.action_task.sex_with_spouse,
+notification.character_gift_to_lord,
+actor.action_task.gift_to_lord,
+cannot_be_puppet.is_king,
+cannot_be_puppet.is_politic,
+cannot_be_puppet.is_in_master_puppet_relation,
+cannot_be_puppet.bad_opinion,
+display_event.loyalty_rise_successful,
+display_event.loyalty_rise_failed,
+loyalty_rebellion.potential_supporters_neighbores,
+mind.sex_good,
+mind.sex_bad,
+display_event.politician_bribed,
+soldier_hint.status,
+action_task.sub_category.gold,
+action_task.sub_category.rings,
+cannot_be_puppet.politic_seduce,
+soldier_hint.price.header,

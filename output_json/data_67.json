@@ -1,0 +1,12 @@
+[
+  "{faction} has sent an army to loot your village!",
+  "{faction} has sent an army to sack your city!",
+  "Forest bandits have marched on your village!",
+  "Forest bandits are heading to attack your town!",
+  "Forest bandits have looted your village!",
+  "{faction} has looted your village!",
+  "The heir is rising in rebellion!",
+  "The new heir to the crown is {name}",
+  "Free Lord {name} has been hired for {duration} days",
+  "{name} from {faction_name} has been captured by {faction_name_2}"
+]

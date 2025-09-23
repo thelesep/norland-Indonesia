@@ -1,0 +1,12 @@
+[
+  "{name_initiator} shared a secret with {name_target}",
+  "{name_initiator} opened {name_target}'s eyes",
+  "{name_initiator} revealed the essence of {name_target}",
+  "{name_initiator} subtly hinted to {name_target}",
+  "{name_initiator} disregarded {name_target}",
+  "{name_initiator} ignored {name_target}",
+  "{name_initiator} put {name_target} in their place",
+  "{name_initiator} pretended not to hear {name_target}",
+  "{name_initiator} apologized to {name_target}",
+  "{name_initiator} says goodbye to {name_target} before leaving.\n"
+]

@@ -1,0 +1,12 @@
+[
+  "Playing",
+  "Tame the Dog",
+  "Give the Dog",
+  "Going to entertain the people",
+  "Entertains the people",
+  "{target_name}: Sudden Death",
+  "Saves backup created",
+  "You have launched the experimental beta branch of the game <b>Norland</b>. We're striving to make it stable, but anything can happen!\n\nAlso, saves made in the experimental branch may be temporarily incompatible with the regular branch of the game (if you decide to switch back). That’s why we've created a backup of all your saves in a separate folder: <b>%localappdata%/Strategy/saves/backup/</b>. To access it in Windows, press WIN+R, type %localappdata%/Strategy/, and press Enter.\n\nIf you want to return to these saves, just move them to the <b>saves/</b> folder.\n\nYour feedback on the changes we’re making is very important to us, so we look forward to hearing from you on the Steam forum or in our Discord. Thank you!",
+  "A minstrel's lyric song",
+  "A Letter from the Matriarch"
+]

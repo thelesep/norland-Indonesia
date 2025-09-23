@@ -1,0 +1,12 @@
+[
+  "Spiteful",
+  "Melancholic",
+  "Sarcastic",
+  "Refined",
+  "Gullible",
+  "Weakling",
+  "{level}",
+  "{name} ({age_string})",
+  "<red>Unprovoked attacks on a peasant will cause <hint=hint_terror_peasants>terror</hint></red>",
+  "<red>Unprovoked attacks on a lord will cause <hint=hint_terror_lord>terror</hint></red>"
+]

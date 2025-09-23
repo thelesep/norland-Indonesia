@@ -1,0 +1,12 @@
+[
+  "{name_initiator} is plotting an assassination",
+  "{name_target} has been poisoned",
+  "{name_winner} -> {name_looser}: won the Gold in dice",
+  "{name_looser} -> {name_winner}: lost the Gold in dice",
+  "{name_initiator} -> {name_target}: attempted to poison the enemy, but was discovered",
+  "{name_initiator} -> {name_target}: rewarded",
+  "{name_initiator} -> {name_target}: spread rumors about: {name_third_person}",
+  "{name_initiator} -> {name_target}: learned rumors",
+  "{name_initiator} and {name_target} are spending time in bed",
+  "{name_initiator} is unfaithful to their spouse with {name_target}"
+]

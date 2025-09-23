@@ -1,0 +1,12 @@
+[
+  "The enemy squad commander is unconscious!",
+  "{name}: the guest refused to accept a gift from your king",
+  "{name}: the guest accepted a gift from your king",
+  "{name}: accepted a gift from {iniciator}. Loyalty decreased",
+  "{name} starts performing the task: {action_task}",
+  "{name}: the guest is leaving the settlement",
+  "{name}: a guest leaves the settlement due to a dangerous wound",
+  "{name}: a guest leaves the settlement due to depression.",
+  "{name}: the guest has arrived in the settlement",
+  "{name_initiator} is in rage and fights to the death!"
+]

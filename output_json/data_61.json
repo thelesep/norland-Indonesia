@@ -1,0 +1,12 @@
+[
+  "{value} {resource}: Order complete!",
+  "Workers have not received instructions today.",
+  "Resources stolen! {value} {resource}",
+  "Cutthroats have appeared in the city.",
+  "Fleshwolf attack!",
+  "Medical Salve is finished!",
+  "Result: {quest_name}",
+  "Battle Results",
+  "New battle!",
+  "{name}"
+]

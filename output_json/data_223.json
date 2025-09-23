@@ -1,0 +1,12 @@
+[
+  "{name_initiator} emotionally destroyed {name_target}",
+  "{name_initiator} silenced {name_target}",
+  "{name_initiator} praised {name_target}",
+  "{name_initiator} had a heartfelt conversation with {name_target}",
+  "{name_initiator} comforted {name_target}",
+  "{name_initiator} cheered up {name_target}",
+  "{name_initiator} thanked {name_target}",
+  "{name_initiator} complimented {name_target}",
+  "{name_initiator} gave credit to {name_target}",
+  "{name_initiator} mocked {name_target}"
+]

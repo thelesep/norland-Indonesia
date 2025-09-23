@@ -1,0 +1,12 @@
+[
+  "King {king_name} of {faction_name} asks for help against {danger_faction_name}",
+  "King {king_name} of {faction_name} proposes a peace treaty",
+  "King {king_name} of {faction_name} offers to join the alliance",
+  "Start without tutorial",
+  "Build a library",
+  "Warning!",
+  "Bishop leaves province",
+  "You have lost the favour of the Matriarch!",
+  "Study the technology <b>{technology}</b>",
+  "Build a building <b>{building}</b>"
+]

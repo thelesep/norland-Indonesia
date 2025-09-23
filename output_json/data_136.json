@@ -1,0 +1,12 @@
+[
+  "{soul_uuid} from {faction_uuid}",
+  "Populate",
+  "Loyalty",
+  "IMPORTANT PERSONS",
+  "Got it",
+  "Next",
+  "Interest",
+  "{first_hire_discount}% discount on first hire",
+  "Due to low learning skills, it takes longer to learn!\n\nKnowledge level {tech_level}\nLord level {lord_level}",
+  "Writing a book will take <b>{learn_time}h</b>"
+]

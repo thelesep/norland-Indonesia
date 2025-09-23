@@ -1,0 +1,12 @@
+[
+  "{king_name} has learned about your interaction with {captive_name}. His attitude toward you has worsened.",
+  "Stolen books:",
+  "{name} has gained the personality trait {trait_name}",
+  "{name} has lost the personality trait {trait_name}",
+  "{name} has achieved perfection in the skill {skill_name} and unlocked the skill trait {trait_name}",
+  "Your cutthroats have been bribed",
+  "{student} has reached the level of {teacher} in the skill {skill}",
+  "{student} reached {teacher} level in all skills",
+  "{name} is plotting murder",
+  "The king has become the enemy of the bishop"
+]

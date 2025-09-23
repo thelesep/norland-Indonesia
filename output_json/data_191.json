@@ -1,0 +1,12 @@
+[
+  "~\nBandits from your provinces do not allow my peasants to live in peace. They rob and kill, sparing neither women nor children. It's time for you to deal with them, and if you ignore my request, it will be on your own conscience!",
+  "~\nI seldom seek assistance, as I consider it a sign of weakness. However, a serious conflict has arisen with our neighbor. So, I ask you to take my side and come to my aid. I won't forget this favor, I promise.",
+  "~\nI prefer to resolve disputes peacefully, but others choose the path of discord. I need your support in the conflict with our neighbor. I hope I can count on you.",
+  "~\nYour vassal {soul_uuid_target} is my enemy, and I refrain from attacking him solely because of you. I hope our relationship means more to you than the coins he pays you. End your vassalage with him!",
+  "~\nTerminate your vassalage with {soul_uuid_target}. He believes he is protected by you and takes advantage of it. Many of his actions are unjustifiable. I value our relationship, believe me, but I won't let him go unpunished!",
+  "Postscript: I extend my heartfelt condolences for your loss.",
+  "Postscript: Congratulations on your wedding! When we meet, I hope you'll treat me to a glass of beer!",
+  "Postscript: I remembered how we used to hunt in the woods. It was so much fun! At one point, my whole life flashed before my eyes!",
+  "Postscript: Please convey my deepest regards to {soul_uuid_target}. I hope he won't stay abroad for too long. His loved ones miss him dearly.",
+  "Postscript: I heard about that battle. I'm sorry. Don't give up, as we've all endured defeats."
+]

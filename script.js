@@ -12,7 +12,7 @@ const command = args[0];
 const fileArg = args[1];
 const outputDir = 'output_json';
 const updatedCSV = 'updated_english.csv';
-const chunkSize = 100;  // Ukuran chunk, bisa diubah jika perlu
+const chunkSize = 10;  // Ukuran chunk, bisa diubah jika perlu
 
 // Pastikan folder output_json ada
 if (!fs.existsSync(outputDir)) {

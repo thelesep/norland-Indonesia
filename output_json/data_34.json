@@ -1,0 +1,12 @@
+[
+  "DATE",
+  "KNOWLEDGE",
+  "Combat Skill Level",
+  "Crimes",
+  "Injuries",
+  "Pain Level: {pain}",
+  "<hint=hint_pain_level>Pain threshold:</hint> {pain_threshold}",
+  "* - Risk of Infection remains",
+  "Sins",
+  "Influence on mood: {piety_impact}"
+]

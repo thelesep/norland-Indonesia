@@ -1,0 +1,12 @@
+[
+  "Fire Selected",
+  "Auto",
+  "Army strenght: {number}",
+  "$ Residents <hint=hint_dummy_caravan_purchases>bought goods</hint> from the Holy Caravan for (<hint=hint_resource_gold>{caravan_purchases}</hint>):",
+  "{level} level - {building_name}",
+  "Auto-Learning",
+  "No Temples in the city",
+  "FREE  x{remain}",
+  "Discomfort of housing",
+  "{name} has become a follower of the politician {politic}."
+]

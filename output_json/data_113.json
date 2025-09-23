@@ -1,0 +1,12 @@
+[
+  "<hint=hint_migration>Migration</hint> <red>has decreased</red> as a village in the province has been burned down. The village will be restored in a few days.",
+  "<hint=hint_migration>Migration</hint> <red>has been halted</red> as all the villages in the province have been burned down. The villages will be restored in a few days.",
+  "$ Expected <hint=hint_migration>migrants</hint> today: {peasant_migrants_today}",
+  "<green>Migration increased</green>. The effect will last for {days} day(s) more.",
+  "<red>Migration decreased</red>. The effect will last for {days} day(s) more.",
+  "No sins",
+  "Peasants",
+  "Prisoners",
+  "Warriors",
+  "Lords"
+]

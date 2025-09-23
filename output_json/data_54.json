@@ -1,0 +1,12 @@
+[
+  "Rutabaga Field",
+  "Pig Farm",
+  "Mill",
+  "Alchemy Lab",
+  "Smelting furnace",
+  "Night Patrol",
+  "{name} completed the task - {task_name}.",
+  "{name} failed to complete the task.",
+  "{name} arrived in {town_name}.",
+  "{name_1} and {name_2} are engaged."
+]

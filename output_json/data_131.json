@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
+  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
+  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
+  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
+  "[hint_mind_caption]\r\nUnfulfilled ambitions burn the soul... Am I truly so insignificant?",
+  "[hint_mind_caption]\r\nI am certain that a great future awaits our noble house! \r\n\r\nReason: Founding of a new city.",
+  "[hint_mind_caption]\r\nOur ruler is cursed! The Matriarch hates him!\r\n\r\nReason: the character is distressed because the <hint=hint_relations_matriarch>Matriarch</hint> is hostile toward the king.",
+  "[hint_mind_caption]\r\nI'm ready to die for my king!\r\n\r\nReason: <hint=hint_loyalist>Loyalist</hint>",
+  "[hint_mind_caption]\r\nOur king acts like a true brave <hint=hint_culture_gwelts>Kaiden</hint>! I like it!\r\n\r\nReason: The character's values (Kaiden) align with the king's aggressive policies.",
+  "[hint_mind_caption]\r\nOur king values peace like a true <hint=hint_culture_voruns>Varn</hint>... May Sophia protect him!\r\n\r\nReason: The character's values (Varn) align with the king's peaceful policies."
+]

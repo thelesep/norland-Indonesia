@@ -1,0 +1,12 @@
+[
+  "Education\r\nCharacters can improve their <hint=hint_skills>skills</hint> by <hint=hint_learning>learning</hint> with other characters or by performing actions related to that skill (for example, studying knowledge increases the <hint=hint_skill_knowledge>Intelligence</hint> level).\r\n\r\n<img=hint_encyclopedia_teaching></img>\r\n\r\nChildren gain several times more experience from training than adults.\r\n\r\n$ Find a child and start their education in the Character menu.\r\n\r\n<b>Hint</b> Your lords can also be trained by guests. With good relationships, you can invite skilled lords from neighboring settlements.",
+  "Sin\r\n[hint_sin]",
+  "Loyalty\r\n[hint_loyalty]",
+  "Desire\r\n[hint_desire]",
+  "Personality Traits\r\nEach lord has unique personality traits\r\n\r\n<img=hint_tutorial_traits></img>\r\n\r\n$ Inborn traits are given at birth and can be partially inherited from parents.\r\n$ Upbringing traits appear as they grow up; their quality depends on whether the character was happy or unhappy during childhood.\r\n$ Life traits may appear throughout life as a result of complex situations the character encounters.\r\n$ Finally, talent traits are granted when leveling up a <hint=hint_skills>skill</hint> marked with <hint=hint_talant>talent</hint> up to level {skill_level_to_talent}.",
+  "Nervous Breakdown\r\n[hint_tantrum]",
+  "Terror\r\n[hint_terror]",
+  "Patrols\r\n[hint_persons_guard]",
+  "The Effect of Nectar\r\nIn the <hint=hint_bld_alchemistry>Alchemy Lab</hint>, <hint=hint_resource_nectar>Nectar</hint> can be produced.\r\n\r\nIt leads to addiction but can significantly accelerate the development of your settlement.\r\n\r\nEffects within {hours} hours after consumption:\r\n$ A very strong positive <hint=hint_thought>thought</hint> is induced.\r\n$ All skills are temporarily improved by {skill_improve}.\r\n$ Movement speed is increased by {speed_improve}.\r\n\r\nHowever, one can quickly become <hint=hint_addict>addicted</hint> to nectar, so its consumption by lords is by default limited (Dynasty menu).\r\n\r\nYou can also adjust who can visit <hint=hint_bld_drug_deg>Dens</hint> to limit its consumption by certain classes.",
+  "Prisoners Escape\r\n[hint_nt_slave_escape]"
+]

@@ -1,0 +1,12 @@
+[
+  "Unconscious\r\n[hint_uncons]\r\n\r\nWill regain consciousness in: {time}.",
+  " ",
+  "Scarred\r\n$ <hint=hint_interest>Interest</hint> in the character {value}",
+  "Foul plague\r\n[hint_plague]\r\n\r\nDeath in: {time}",
+  " ",
+  " ",
+  "Hospital care\r\nAfter receiving medical care at the hospital, the recovery and healing time of wounds is significantly reduced.",
+  "Cleaned up\r\nThe character is briefly protected from <hint=hint_vshi>lice</hint> and also gains a bonus to <hint=hint_interest>interest</hint>.",
+  "{hint_vshi}",
+  "Inborn traits\r\nThese traits are randomly assigned to a character at birth and cannot be changed."
+]

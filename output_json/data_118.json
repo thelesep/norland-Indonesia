@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nSomehow, my soul feels lighter now... \r\n\r\nReason: Fight with the <hint=hint_enemy>enemy</hint> ({name}).\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\n{name} was so kind to acknowledge my virtues...\r\n\r\nReason: <hint=hint_speech_flattery>Flattery</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI know better what to do and when is best to do it!\r\n\r\nReason: Forced to do <hint=hint_action>task</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nIt was necessary to do this... \r\n\r\nReason: Task <hint=hint_action_task_seduce>seduce</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nDamn, luck wasn't on my side! Well, I'll make up for it!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nToday is my lucky day!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nHahaha! I still remember this <hint=hint_speech_joke>joke</hint>!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nHoly Sophia, my head!\r\n\r\nReason: Consumed <hint=hint_resource_beer>Beer</hint> yesterday: {number}\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nWhat a nightmare, I feel so sick!\r\n\r\nReason: Consumed <hint=hint_resource_nectar>Nectar</hint>yesterday: {number}\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nCould it be that the ruler thinks my <hint=hint_resource_gold>gold</hint> belongs to him?\r\n\r\nReason: Forced to <hint=hint_action_task_donate>donate</hint> <hint=hint_resource_gold>{number}</hint>.\r\n[hint_mind_remain_time]"
+]

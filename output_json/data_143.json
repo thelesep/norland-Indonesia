@@ -1,0 +1,12 @@
+[
+  "Risk of heir uprising\r\nThe heir has plans for a rebellion and therefore cannot leave the city.",
+  "Low loyalty\r\nThe lord is considering leaving the family and therefore will not leave the city at the moment.",
+  "Pregnancy\r\nThe lord is expecting a baby and therefore will not leave the city.",
+  "King\r\nThe lord is a king, so he cannot be assigned to this task.",
+  "Queen\r\nThe lord is a queen, so she cannot be assigned to this task.",
+  "Threat to the city\r\nThe king refuses to leave the city while it is threatened.",
+  "Squad in battle\r\nWhile the squad is engaged in battle, it cannot be assigned tasks.",
+  "Squad leader cannot walk\r\nAs long as the squad leader cannot walk, the squad cannot be assigned tasks.",
+  "No available messengers\r\nCurrently, there are no messengers available to be sent.",
+  "No cutthroats in the city\r\nThere are no cutthroats in this city, so there is no one to assign for this criminal action.\r\nThe number of cutthroats in the city is updated every few days."
+]

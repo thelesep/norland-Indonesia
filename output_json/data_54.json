@@ -1,0 +1,12 @@
+[
+  "Knowledge\r\nThe time of thought for terror is halved.",
+  "Knowledge\r\nVisiting lords are happy to educate your lords for free.",
+  "No suitable teacher available\r\nThe skill level of all lords present in the city is not high enough to increase this lord's skills\r\n\r\nTry searching for a teacher on the global map.",
+  "Low skill level\r\nThis character's skill level is too low to teach anything new.",
+  "Not enough paper\r\nYou need <hint=hint_resource_paper>{paper_number}</hint> to create a book.",
+  "No library\r\nBuild a Library for the lord so that they have a place to engage in knowledge-related activities.",
+  "No lords\r\nCurrently, there are no lords available for this task.",
+  "No housing available\r\nBuild a <hint=hint_bld_noble_house>House</hint> for the lord to have a place to engage in knowledge.",
+  "Lack of intelligence\r\nThe lord's <hint=hint_skill_knowledge>Intelligence</hint> skill is too low to work with this knowledge.\r\n\r\n$ For <b>gray</b>-level knowledge, a minimum skill of 3 is required.\r\n$ For <b>green</b>-level knowledge, a minimum skill of 9 is required.\r\n$ For <b>purple</b>-level knowledge, a minimum skill of 13 is required.",
+  "Does not know the language\r\nThe lord does not know the {dialect_name} language and cannot work with this knowledge."
+]

@@ -1,0 +1,12 @@
+[
+  "Liberator\r\n$ Dislikes kings whose population is made up of 50% or more prisoners.\r\n$ Appreciates those who have no prisoners at all.",
+  "Egalitarian\r\n$ Despises suzerains and sympathizes with vassals.",
+  "Scholar\r\n$ Respects kings whose Intelligence skill surpasses his own.",
+  "Locked\r\n{optional_description}\r\n{optional_culture}\r\n\r\n{optional_lock_condition}",
+  "Filter\r\n<bcenter>{filter}</bcenter>",
+  "Average Production\r\nShows how much one worker will produce, assuming the managing lord has a <hint=hint_skill_management>Management</hint> skill of 10, and the distance to the workplace and <hint=hint_bld_store>Warehouse</hint> is such that the commute takes about an hour (thus making the net working time approximately 7 hours).\r\n\r\nFor <hint=hint_bld_woodcutter>Lumbermills</hint> and <hint=hint_bld_forester>Herbalists</hint>, it is also necessary to consider the distance to the logging and harvesting areas, which changes as resources are collected.\r\n\r\nThe calculation also does not take into account bonuses from <hint=hint_persons_slave>prisoners</hint>, <hint=hint_addict>nectar addicts</hint>, and <hint=hint_loyalist>loyalists</hint>.",
+  "~\r\nOne worker <hint=hint_building_production_average>can</hint> produce:\r\n$ {average_production_resource}",
+  "~\r\nThree workers <hint=hint_building_production_average> can </hint> produce:\r\n$ {average_production_resource}",
+  "Basic scenario\r\nYour new noble house is currently unremarkable. But who knows what scenarios await it in the future?",
+  "Nectar's Children\r\nYour noble house has fallen victim to nectar. All your lords and 20 peasants are dependent on consuming nectar. Can you gather their willpower and turn this addiction to your advantage?\r\n\r\nAnd yes, there are some benefits to beginning with this harmful habit - your library contains books on Alchemy and Nectar production."
+]

@@ -1,0 +1,12 @@
+[
+  "~\r\nI write to you to make you aware of the termination of our trade agreement. Could a new one be possible? We shall see.",
+  "~\r\nI write to you to make you aware that my predecessor has passed away. The trade agreement you entered into with him yields no benefit. Consider it null and void.",
+  "~\r\nMy predecessor has departed from this world, and I have always held reservations regarding this commercial arrangement. Can such terms truly be deemed advantageous? I hereby annul this pact.",
+  "~\r\n$ Contract creation cost: <hint=hint_resource_paper>{trade_agreement_cost_paper}.",
+  "[hint_DESCRIPTION]\r\n{soul_uuid_king} believes that the bandit camp near your city poses a security threat to caravans and travelers. You must address this issue.\r\n\r\n$ You must destroy the bandit camp near your city.\r\n$ If you fail to do so, your relationship with {soul_uuid_king} will deteriorate by <red>{rel_de}</red> in 2 days.",
+  "~ \r\n$ The bandit camp in your province has been destroyed, and {soul_uuid_king} no longer has any grievances.",
+  "~ \r\n$ You have chosen not to attack the bandits, and their camp remains in place. \r\n$ Your relationship with {soul_uuid_king} has deteriorated by <red>{rel_de}</red>.",
+  " ",
+  "[hint_DESCRIPTION]\r\nPeaceful peasants engage in agriculture and pay tribute to you on the day of harvest. It is possible to attack the village at any time to capture prisoners, but the villagers will try to resist.\r\n\r\n$ Tribute: {tribute_stack} in {days_left} days\r\n$ Defenders: {defenders}",
+  "Loot the village\r\nGuaranteed battle with the village militia ({defenders_min} - {defenders_max} people, peasants armed with daggers).\r\n\r\n$ The village will be burned down and unable to pay tribute for the next two harvests.\r\n\r\n<b>Possible loot:</b> {possible_loot}"
+]

@@ -1,0 +1,12 @@
+[
+  "~\r\nWell, I suppose I have more pressing concerns than feuding with you. Consider that I have sheathed my sword. But do not think that I have forgotten everything.",
+  "Warriors refuse to go on patrol\r\nDue to a bad <hint=hint_mood>mood</hint>, some warriors refuse to go on patrol.\r\n\r\n<b>Tip:</b> Hover over the warriors’ icon in the upper left corner to find out their most frequent negative thoughts affecting their mood.",
+  "~\r\nThe new ruler of the province is writing to you. It seems that, as a result of your interference, both claimants to the throne have reunited with Mother Sophia, so now you’ll be dealing with me. And try not to meddle in the affairs of our province again!",
+  "Both rivals in the struggle for the throne have perished.\r\n\r\nThe ruler of the {faction_uuid} province is now {soul_uuid_king}.",
+  "Order completed\r\nThe minstrel has fulfilled your request and performed a <b>religious hymn</b>.\r\n\r\n{value} listeners were inspired by the power of his art and decided to devote their lives to Mother Sophia, becoming <hint=hint_persons_fanatic>fanatics</hint>.",
+  "Order completed\r\nThe minstrel has fulfilled your request and performed a <b>lyrical poem</b>.\r\n\r\n{value} listeners were inspired by the power of his art and received a boost in mood.",
+  "Order completed\r\nThe minstrel has fulfilled your request and performed a <b>heroic song</b>.\r\n\r\n{value} listeners were inspired by the power of his art and decided to become <hint=hint_loyalist>loyalists</hint>.",
+  "Order completed\r\nThe minstrel has fulfilled your request and performed a <b>moral tale</b>.\r\n\r\n{value} <hint=hint_persons_criminal>vagabonds</hint> were inspired by the power of his art and decided to return to an honest life.",
+  "Break Alliance\r\nSever the alliance with {faction_uuid}.\r\n\r\n$ The ruler of this province will see it as a breach of commitments and will worsen their relations towards you by <red>{rel_de_kick_out_alliance}</red>.",
+  "Alliance Broken\r\nYou have severed the alliance with {faction_uuid}.\r\n\r\n$ The relations of this province’s ruler towards you: <red>{rel_de_kick_out_alliance}</red>"
+]

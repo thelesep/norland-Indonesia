@@ -1,0 +1,12 @@
+[
+  "Graying\r\n$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>",
+  "Sarcastic\r\n$ Increased likelihood of a mean joke.\r\n\r\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
+  "Devout\r\n$ Becomes a fanatic permanently.\r\n\r\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away.",
+  "Pacifist\r\n$ Unhappy when having to command troops.\r\n\r\n<b>Cause:</b> Experienced defeat in battle.",
+  "Anxious\r\n$ Always wakes up during a home invasion.\r\n\r\n<b>Cause:</b> Experienced a home invasion or captivity.",
+  "Greedy\r\n$ Dresses in rags.\r\n$ Positive thoughts from <hint=hint_resource_gold>money</hint> are twice as strong.\r\n$ Other lords have a lower opinion of lords with this trait.\r\n\r\n<b>Cause:</b> Had no <hint=hint_resource_gold>money</hint> for {greedy_days} days",
+  "Sublimation\r\n$ Tiredness from work is 3 times weaker.\r\n$ 20% higher chance of a nervous breakdown.\r\n$ Does not suffer from lack of sex.\r\n\r\n<b>Cause:</b> Long period of time without sex",
+  "Former heir\r\nWas once the heir to the throne, but has been stripped of that status.\r\n\r\nIf their loyalty drops, they may lead a <hint=hint_nt_heir_rebellion_former>rebellion of the former heir</hint>.",
+  "Fearlessness\r\nThis character knows no fear and will not flee from battle.",
+  "Blessing\r\nThe Matriarch officially grants your ruler her blessing. It will influence the minds of the people for a while.  \r\n\r\n$ Your ruler will not suffer from sins.  \r\n$ <hint=hint_persons_fanatic>Fanatics</hint> among your peasants will be ready to join your army (Army recruitment menu).  \r\n$ The relations of all lords with ruler will improve, and the subjects will become happier.\r\n\r\nYou need to study <b>Sanctity of Power</b> to justify the request for a blessing."
+]

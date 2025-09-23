@@ -1,0 +1,12 @@
+[
+  "~\r\n<hint=hint_possible_helpers_allies>Most likely</hint> {soul_uuid_king} will help:",
+  "~\r\n<hint=hint_possible_helpers_enemies>It's possible</hint> you will receive help:",
+  "~\r\nSurely they will help you:",
+  "~\r\n$ The Matriarch approves of your actions in this situation. Relationship: {church_improve}",
+  "~\r\n$ The Matriarch disapproves of your actions in the situation. Relationship: {church_der}",
+  "[hint_DESCRIPTION]\r\n{soul_uuid_female} has reached the age of marriage and awaits proposals from noble suitors.\r\n\r\n$ A bride price of <hint=hint_resource_gold>{bride_price}</hint> is requested for the bride.\r\n$ Your relationship with this House will become familial.",
+  "{name}\r\n{soul_uuid_female} has reached the age of marriage and awaits proposals from noble suitors.\r\nShe will become the wife of one of your male lords.\r\n\r\n$ The bride's noble house will receive <hint=hint_resource_gold>{bride_price}</hint>.\r\n$ The relationship between the bride's king and your king will improve by <green>{rel_improve}</green>.\r\n$ <b>The bride will settle with her husband in your city</b>.\r\n",
+  "~\r\n{soul_uuid_female} has become the wife of {soul_uuid_groom} and will soon arrive in your city.\r\n\r\n$ The relationship between the bride's king and your king has improved by <green>{rel_improve}</green>.",
+  "~\r\nHow delighted I am at this union! Bonds of kinship are always more steadfast than stone, and the friendship between our kingdoms shall become just as strong, of this I am certain. I wish you every blessing and eagerly anticipate our soon reunion!",
+  "~\r\nI write to extend my heartfelt thanks for taking our young lady under your protection. I hope that in due time, the bells will ring out in celebration of the birth of the firstborn."
+]

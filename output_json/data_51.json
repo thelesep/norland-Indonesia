@@ -1,0 +1,12 @@
+[
+  "Technology\r\nAllows the construction of {building_name} through the Construction menu.",
+  "Technology\r\nAllows the construction of {building_name} and {building_name_2} through the Construction menu.",
+  "Technology\r\nAllows the construction of {building_name} and the production of {resource_name}.",
+  "[tech.criminal_intimidation]\r\n<hint=hint_persons_criminal>Vagabonds</hint> intimidated by <hint=hint_bld_scafod>executioners</hint> will be afraid to commit crimes for 2 days instead of one.",
+  "Basics of Loyalty\r\nThe likelihood of <hint=hint_loyalist>loyalists</hint> appearing in the city is doubled.",
+  "Effective Sermons\r\nThe effectiveness of <hint=hint_sermon>sermons</hint> in the Temple is doubled.",
+  "Prisoner Happiness\r\nThe likelihood of <hint=hint_slave_riot>prisoner uprisings</hint> drops to zero.",
+  "Tanayan Paper\r\nSpecial composition protects all your books from burning in case of a Library fire.",
+  "Braised Rutabaga\r\nA special recipe for braised <hint=hint_resource_rutabaga>Rutabaga</hint> that prevents death from Rutabaga Typhus (but does not prevent the disease itself).",
+  "Drought Resistance\r\nSeed planting and soil treatment methods that eliminate crop loss during droughts."
+]

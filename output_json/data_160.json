@@ -1,0 +1,12 @@
+[
+  "~\r\nI hasten to inform you that my aid will soon be on its way. I shall pray fervently for this battle to conclude with a resounding victory, and that we may not suffer grievous losses!",
+  "~\r\nTo aid our allies is our sacred duty. Await reinforcements; they shall arrive shortly! I pray that Mother Sophia does not turn her favor from us, although recently, she has not been as generous with her blessings.",
+  "~\r\nYou're asking me to send my warriors to a slaughter, not a war. Your enemy is formidable, and you should have thought twice before making such enemies! So, do not expect my support!",
+  "~\r\nYou are well aware that your adversary outpowers both our forces combined! It is sheer madness to send warriors to certain demise. Forgive me, but I have no intention of partaking in this!",
+  "Sending aid\r\n{optional_additional_header}\r\nForm an expedition and send it to provide assistance.\r\n\r\n$ {soul_uuid_supported} is utilizing them in their upcoming battle, after which they will return home.\r\n{optional_send_help_effects}\r\n{optional_allyship}\r\n{optional_will_gain_duty_of_honor}",
+  "Request for aid\r\n{optional_type_of_danger}\r\n\r\nYour forces have arrived as reinforcements for {soul_uuid_supported} and will remain in the city for 3 days or until the first battle.\r\n\r\nConsequences:\r\n{optional_send_help_effects}\r\n{optional_gain_duty_of_honor}",
+  "Request for aid\r\n{optional_type_of_danger}\r\n\r\n{soul_uuid_king} did not wait for your assistance.\r\n{optional_ignore_allyship}",
+  "Aid in battle\r\nYour forces have successfully aided in repelling the enemy's attack!",
+  "~\r\n<b>Ally's responsibilities</b>\r\n$ If you fail to send aid, he will consider it betrayal; relations with the union leader will be severely damaged, and as a result, <red>you may be expelled from the Free Cities Union</red>. Neighbors will also be unpleasantly surprised.",
+  "~\r\n<red>You have betrayed them.</red>\r\n\r\n$ Relationship with the union leader {soul_uuid_king_leader}: <red>{rel_defence_alliance_not_help}</red>\r\n$ Relationship with {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>\r\n$ Relationship with your neighbors: <red>{rel_defence_alliance_broken_neighbore}</red>"
+]

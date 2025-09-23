@@ -1,0 +1,12 @@
+[
+  "Trade agreement\r\n[hint_trade_agreement_success_generic]\r\n\r\n[hint_trade_agreement_demand_generic]\r\n{optional_trading_volumes_reduced}\r\n\r\n<b>Remaining days until the end of the contract: {trade_agreement_duration_remain}</b>",
+  "Trade agreement\r\n[hint_trade_agreement_success_generic]\r\n\r\n[hint_trade_agreement_offer_generic]\r\n{optional_trading_volumes_reduced}\r\n\r\n<b>Remaining days until the end of the contract: {trade_agreement_duration_remain}</b>",
+  "The trade agreement has expired.\r\nNow you and {soul_uuid_king} are no longer bound by mutual obligations.",
+  "The trade agreement has been terminated.\r\nYour relationship has deteriorated significantly.\r\n\r\n$ You and {soul_uuid_king} are no longer bound by mutual obligations.",
+  "The trade agreement has been terminated.\r\nReason: the death of one of the signatories.\r\n\r\n$ You and {soul_uuid_king} are no longer bound by mutual obligations.",
+  "~\r\nI believe our relations can no longer serve as the basis for further trade. I hereby dissolve our trading agreement.",
+  "~\r\nI don't think it makes sense to continue our trade.",
+  "~\r\nFor me, it is a great honor to engage in a trade agreement with you. Trade, above all, serves as an assurance of peace between our kingdoms.",
+  "~\r\nI am writing to express my delight at the inception of such a lucrative trade agreement. Not everyone can sheathe their sword and engage in negotiations.",
+  "~\r\nAs you may be aware, the term of our trade contract has expired. It has been quite advantageous."
+]

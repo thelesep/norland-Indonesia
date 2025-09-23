@@ -1,0 +1,12 @@
+[
+  "Unavailable\r\nThe Loving Family’s protection is active",
+  "[hint_mind_caption]\r\nBandits must not live!",
+  "Desire for Idol's Happiness\r\nThe character passionately desires happiness for their idol: {soul_uuid_target}\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n[hint_its_a_obsession]",
+  "[hint_mind_caption]\r\nI made my idol happier just by giving them a gift! It's worth any amount of money!",
+  "[hint_mind_caption]\r\nMother Sophia, my idol is dead! What will I do without them?!\r\n",
+  " ",
+  "Puppet\r\n{soul_uuid_master} has bent the will of the character {soul_uuid_puppet}, and now they are their <hint=hint_encyclopedia_puppets>puppet</hint>.",
+  "Puppet\r\n{soul_uuid_puppet} is no longer a <hint=hint_encyclopedia_puppets>puppet</hint>.",
+  "Puppet's Rebellion\r\nForce the <hint=hint_encyclopedia_puppets>puppet</hint> of one of your lords to start a rebellion in this province.\r\n\r\nAlthough there is no solid evidence, your connection to the puppet will not go unnoticed by the local ruler.",
+  "Unavailable\r\nYou have no <hint=hint_encyclopedia_puppets>puppets</hint> in this province.\r\n\r\nCreate a puppet from among the local characters using one of your lords to manipulate events in this province."
+]

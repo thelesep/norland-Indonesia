@@ -1,0 +1,12 @@
+[
+  "Church Curse\r\nImposed by the Matriarch on the king when relations with him fall below <red>-50</red>.\r\n\r\nIt's better for you not to know what will happen...",
+  "Title\r\nThe \"Fear of death\" thought experienced by peasants hired into the army is half as strong.",
+  "Title\r\nThe relationship threshold required for neighboring kings to trade with you is lowered to <red>{trade_threshold}</red>.",
+  "Title\r\nTerror against fanatics will not have negative consequences.",
+  "Title\r\nThe Chancellery requires three times less paper to operate.",
+  "Title\r\n<hint=hint_tutorial_church_tax>The tax on warriors</hint> will be {percent}% less.",
+  "Title\r\nThe effectiveness of warrior training at the Training Field is increased by {bonus}%.",
+  "Title\r\nOnce becoming <hint=hint_loyalist>loyalists</hint>, characters will remain so forever.",
+  "Title\r\nConducting trade dealings with forest bandit camps (such as buying prisoners and stolen Holy Rings) will not negatively impact your relations with neighbors.",
+  "Incompatible trait\r\nThis trait cannot be selected because it is not compatible with already selected traits."
+]

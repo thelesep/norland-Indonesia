@@ -1,0 +1,12 @@
+[
+  "Resources Invested\r\nShows the value of resources (measured in gold) spent on constructing and upgrading buildings.",
+  "Personality Traits\r\nPersonality traits provide unique characteristics and abilities to a character.\r\n\r\nThey can be given from birth or discovered during life events, upbringing, or skill training.\r\n\r\nThe list of personality traits can be found on the third tab of the Character menu.",
+  "Heir's Rebellion\r\nDue to low <hint=hint_loyalty>loyalty</hint> to the king, the heir to the throne declares their claim to the crown and initiates a rebellion.\r\n\r\n$ Their friends among the lords join them, while the king's loyalists join him. The army is divided proportionally between them.\r\n$ Neutral lords do not participate in the rebellion.\r\n$ If the heir is victorious, they will inherit the throne, although the supporters of the current king will not be pleased with this outcome.",
+  "Former Heir's Rebellion\r\nDue to low <hint=hint_loyalty>loyalty</hint> to the king, the former heir to the throne feels deceived and proclaims that the crown should rightfully belong to them.\r\n\r\n$ Their friends among the lords join them, while the king's loyalists join the king. The army is divided proportionally between them.\r\n$ Neutral lords do not participate in the rebellion.\r\n$ If the former heir emerges victorious, they will inherit the throne, although the supporters of the current king will not be pleased with this outcome.",
+  "Child not receiving education\r\nIn the past few days, {soul_uuid_1} has not been receiving any education.",
+  "Lord killed in campaign\r\n{soul_uuid_1} was killed while on a campaign.\r\n{optional_sad_list}",
+  "Ruler deceased\r\n{faction_uuid} : Ruler {soul_uuid_1} has passed away.",
+  "Soldiers available for promotion\r\nSome of your soldiers have improved their combat skills and are now eligible for promotion to a higher combat class.",
+  "Funeral Ceremony\r\nAt 8:00 in the evening, a farewell ceremony will be held at the local Temple for: {actor_list}\r\n\r\nMay the mercy of Holy Sophia be boundless!",
+  "Wedding Ceremony\r\nAt 8:00 in the evening, at the local Temple, {husband} and {wife} will be united in holy matrimony.\r\n\r\nMay Holy Sophia bless them with healthy children!"
+]

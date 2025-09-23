@@ -1,0 +1,12 @@
+[
+  "Unavailable  \r\nTo sell this resource, you need to build a <b>{building_name}</b>.",
+  "Inheritance Transfer\r\n{soul_uuid_dead} is no longer with us, and their closest relative, {soul_uuid_heir}, inherits their property.\r\n\r\nHeritage\r\n{loot}",
+  "Peasants\r\nRegular peasants will work at the production site.",
+  "[hint_mind_caption]\r\nAnd at home... Oh! Well, of course... Hmm... Well, why not?\r\n\r\n<b>Hint:</b> The thought reflects the character's impression of the <hint=hint_building_comfort>comfort</hint> of their housing.",
+  "[hint_mind_caption]\r\nNow everything will go our way!\r\n\r\nReason: victory in the uprising.",
+  "Punishment  \r\n{soul_uuid_king} can no longer resist their hatred toward {soul_uuid_target} and has decided to punish them.",
+  "Reset Hints  \r\nClick to re-enable contextual in-game hints.",
+  "Personality Traits\r\nPersonality traits provide unique characteristics and abilities to a character.",
+  "Unavailable  \r\nThe lord already has a date scheduled.",
+  "Unavailable  \r\n{soul_uuid} is not in town."
+]

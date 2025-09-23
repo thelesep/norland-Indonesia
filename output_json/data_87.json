@@ -1,0 +1,12 @@
+[
+  "Minor bruise\r\nCauses a little <hint=hint_pain>pain</hint>.\r\n\r\n[hint_injury_remain_time]",
+  "Severe burn\r\nCauses intense <hint=hint_pain>pain</hint>.\r\n\r\n[hint_injury_remain_time]",
+  "Minor burn\r\nCauses slight <hint=hint_pain>pain</hint>.\r\n\r\n[hint_injury_remain_time]",
+  "Moderate burn\r\nCauses significant <hint=hint_pain>pain</hint>.\r\n\r\n[hint_injury_remain_time]",
+  "Light cut\r\n<hint=hint_wounds>Wound</hint> from the cut.\r\n\r\n$ Causes <hint=hint_pain>pain</hint>.\r\n \r\n[hint_injury_remain_time]",
+  "Pierced hand\r\n<hint=hint_wounds>Wound</hint> from an arrow.\r\n\r\n$ Causes <hint=hint_pain>pain</hint>.\r\n \r\n[hint_injury_remain_time]",
+  "Pierced shoulder\r\n<hint=hint_wounds>Arrow wound</hint>.\r\n\r\n$ Causes <hint=hint_pain>pain</hint>.\r\n \r\n[hint_injury_remain_time]",
+  "Pierced leg\r\n<hint=hint_wounds>Arrow wound</hint>.\r\n\r\n$ Causes <hint=hint_pain>pain</hint>.\r\n \r\n[hint_injury_remain_time]",
+  "Pierced lung\r\n<hint=hint_wounds>Arrow wound</hint>.\r\n\r\n$ Causes <hint=hint_pain>pain</hint>.\r\n \r\n[hint_injury_remain_time]",
+  "Cut\r\nA small <hint=hint_wounds>wound</hint>\r\n\r\n$ Causes <hint=hint_pain>pain</hint>.\r\n $ Will leave a <hint=hint_scars>scar</hint> after healing.\r\n\r\n[hint_injury_remain_time]"
+]

@@ -1,0 +1,12 @@
+[
+  "~\r\n<red>{soul_uuid_king_head} from {faction_uuid_s} demands that {soul_uuid_king} secede from the alliance and become a neutral province.</red>",
+  "~\r\n<red>{soul_uuid_king_s} from {faction_uuid_s} demands that {soul_uuid_king} break the vassal treaty and become a neutral province.</red>",
+  "~\r\n{soul_uuid_king} has been forced to agree to the ultimatum of {soul_uuid_king_s}, and now {faction_uuid} is not bound by any treaties and is an independent province.",
+  "~\r\n{soul_uuid_king} has defended his position and maintained his political agreements.",
+  "~\r\nYou were expelled from the city alliance for not providing assistance, thus violating the treaty.",
+  "~\r\nYou know that you acted dishonorably; breaking a treaty is unforgivable. And while you may benefit from this now, in the long term, facing threats alone will be beyond your capacity.",
+  "~\r\nTreaties are made to be kept. Why did you even enter into an alliance? If you are so confident that you can face threats on your own, that is your choice, but do not expect any further assistance from us.",
+  "~\r\nYou were expelled from the city alliance because your relationship with {soul_uuid_king_head}, the leader of the alliance, has become hostile.",
+  "~\r\nAlliances are built on trust, and you know this well. There is no place for the dishonorable, so you are now excluded. I must learn to be better at judging people.",
+  "~\r\nIt would be better to appoint a bastard to your position, and he would be a more worthy ruler. Know that our alliance is dissolved, and there is no turning back. I cannot walk the same path as a traitor. You will not survive on your own, and for that, I am glad!"
+]

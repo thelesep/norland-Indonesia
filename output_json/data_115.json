@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nThis chatter is so exhausting! I hope we have some cold <hint=hint_resource_beer>Beer</hint> left...\r\n\r\nReason: <hint=hint_th_speach_fatigue>Speech fatigue</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nExplaining to these fools what they should do is so tiresome! I hope we have some cold <hint=hint_resource_beer>Beer</hint> left...\r\n\r\nReason: <hint=hint_th_inspection_fatigue>Inspection fatigue</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nPhew... All this knowledge... I'm really exhausted...\r\n\r\nReason: <hint=hint_th_study_fatigue>Study fatigue</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI'm terribly exhausted from work today!\r\n\r\nReason: <hint=hint_th_fatigue>Work fatigue</hint>.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nIt's nice when the <hint=hint_persons_king>king</hint> <hint=hint_action_task_reward>rewards</hint> your efforts!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\n <hint=hint_persons_king>The king</hint> believes that I could betray him... I'm scared, but I assured him of my <hint=hint_loyalty>loyalty</hint>!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nIt's so enjoyable to talk about someone behind their back...\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\n{name} must face punishment for their <hint=hint_crime>crimes</hint>. It's justice!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI have been <hint=hint_punish>punished</hint>!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI have been <hint=hint_punish>punished</hint> for nothing! Everyone knows it!\r\n[hint_mind_remain_time]"
+]

@@ -1,0 +1,12 @@
+[
+  "~\r\n{soul_uuid_king} has taken note of your opinion about {soul_uuid_king_s}, and although he has his their own thoughts on the matter, he is still pondering it.\r\n\r\n<b>Consequences</b>\r\n$ Relationship of {soul_uuid_king} to {soul_uuid_king_s}: <green>{rel_de_praise_to_target_king}</green>",
+  "~\r\nI didn't think your opinion of our mutual neighbor was so positive. But it's hard for me to discern any malice behind your words. Perhaps they are better than I thought.",
+  "~\r\nYour praise of the neighbor does you credit. Is there some truth in this, or is your mind asleep when it comes to them? We'll see.",
+  "~\r\nYou claim that our neighbor is a worthy person? I would like to think so. But time will tell; perhaps they have made a fool of you?",
+  "~\r\n* {soul_uuid_trader} respects {soul_uuid_players_king} as an alliance leader and <green>is willing to offer a significant discount.</green>",
+  "Conflict with an Ally\r\nA member of your alliance, {soul_uuid_king}, has serious disagreements with your ruler.\r\n\r\nIf relations with this monarch are not restored from {current_opinion} to {min_opinion_alliance_threshold} within 24 hours, {faction_uuid} <b>will leave the alliance</b>",
+  "Conflict with the Alliance Leader\r\nThe leader of the alliance, {soul_uuid_king}, has serious grievances against your king.\r\n\r\nIf relations with this monarch are not restored from {current_opinion} to {min_opinion_alliance_threshold} within 24 hours, <b>you will be forced to leave the alliance</b>.",
+  "Problem",
+  "[hint_advisor_caption]\r\nYour lumbermills are not producing enough <hint=hint_resource_wood>wood</hint>, which is crucial for development.\r\n\r\n$ Make sure you have at least 2, preferably 3 <hint=hint_bld_woodcutter>Lumbermills</hint> built.\r\n$ Lumberjacks gradually clear the forest around the Lumbermills, and it becomes increasingly distant to fetch wood. It might be time to relocate the built Lumbermills closer to the trees.\r\n\r\n<b>Note</b> that forests have the ability to regenerate, but only in proximity to other trees. If you clear-cut the entire forest, it won't regenerate.",
+  "[hint_advisor_caption]\r\n[hint_nt_dummy_low_beer]"
+]

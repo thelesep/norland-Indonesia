@@ -1,0 +1,12 @@
+[
+  "~\r\nKnow that our lands are now divided. And if you seek the reason for this, look in the mirror. In a difficult moment of need, I did not receive help from you. From this moment on, your state has become smaller!",
+  "~\r\nThe oath of military assistance was given by you when I agreed to become part of your state. And what was the response? In a difficult moment, you abandoned me! From now on, nothing binds us!",
+  "~\r\nAccept my gratitude for the support you sent me. And believe me, I regret that the sorrow of losing such warriors was not compensated by victory. However, we are now forced to go our separate ways. I hope you won't harbor any resentment towards me.",
+  "~\r\nYour wars were fought bravely, but luck was not on our side. I must confess to you, and don't think this decision came easily to me. Our paths must diverge. I regret it.",
+  "Power Struggle.\r\nAs long as there is a power struggle, the lords and armies of this province will not leave its borders.",
+  "The lord is in the army.\r\nThis lord is in the army that has come to the aid of this city. No social interactions are possible.",
+  "The lord is out of town\r\nThis character is currently a guest in the city of {faction_uuid}.\r\n\r\nPresumably will be home in {remain_time}.",
+  "Lord is on a journey\r\nThis character is currently travelling somewhere on the global map.",
+  "Burning to the ground\r\n\r\nNotify the enemy that his city will be completely destroyed and all members of his family will be killed. After this, the province will become uninhabited, and you will be able to resettle the ruins with your lords and peasants whenever you wish. A new noble family will be established.\r\n\r\nSince you are a <hint=hint_faction_relations_deadly_enemy>deadly enemy</hint> of this king, such an action will be met with understanding by the neighbors.\r\n\r\n$ Your warriors will need two days of prayer to spiritually prepare for the massacre.\r\n\r\nRelations with {soul_uuid_king}: {city_burn_rel_de}\r\n{optional_attack_on_vassal_or_ally}\r\n{optional_possible_helpers_against_player}\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]",
+  "~\r\n{soul_uuid_king} has received your notification and will be preparing for a decisive battle for his life.\r\n\r\nYour warriors should pray and confess before burning another settlement to the ground and slaughtering a noble family.\r\n\r\n$ Relations with {soul_uuid_king}: {city_burn_rel_de}\r\n{optional_possible_helpers_against_player}\r\n{optional_holy_defence_will_removed}"
+]

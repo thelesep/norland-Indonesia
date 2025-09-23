@@ -1,0 +1,12 @@
+[
+  "~\r\nThe peasants repelled your raid, but the village burned down during the battle and they will not be able to pay tribute for the next two harvests.",
+  "~\r\nThe village has been plundered and burned down. It will be unable to pay tribute for the next two harvests. \r\n\r\n<b>Loot:</b> {loot}",
+  "To contain migration\r\nBribe the locals to spread rumors throughout the province that there is a dangerous disease in your city.\r\n\r\n$ This will <b>reduce</b> migration by a factor of {migration_down_factor} for the next {migration_down_duration} days.\r\n$ The task can be carried out in any of the villages and affects migration across the entire province.\r\n\r\n<b>Cost:</b> <hint=hint_resource_gold>{migration_down_price}</hint>\r\n\r\n[hint_SENDER]",
+  "~ \r\nThe rumors have taken hold, and migration to your city will be <b>reduced by a factor of {migration_down_factor}</b>. \r\n\r\nIt will last for {migration_down_duration} days.",
+  "Payment of tribute\r\nTribute is paid regularly, every 4-6 days. The villagers refuse to transport the tribute themselves due to fear of bandits.\r\n$ If you <b>ignore</b> it, the village elder will consider that you don't need the tribute and will use it for the benefit of the community.\r\n\r\n<b>Tribute to be paid:</b> {loot}\r\n\r\n[hint_SENDER]",
+  "~ \r\nYou have successfully collected the tribute. \r\n\r\n<b>Tribute collected:</b> {loot}",
+  "[hint_DESCRIPTION] \r\nSome unfortunate and hungry people leaving your town have resorted to becoming bandits as they see no other options for survival. They will occasionally attack your settlement until you deal with them. \r\n\r\n$ Number of bandits: {number_of_forest_bandits}\r\n$ Hostages: {hostages}\r\n$ Loot in their camp: {possible_loot}",
+  "Attack\r\nEngage in a battle with a bandit squad of {number_of_forest_bandits} individuals, consisting of light fighters.\r\n\r\nThe Church of Holy Sophia, represented by the <hint=hint_relations_matriarch>Matriarch</hint>, will be grateful when you destroy bandit camps.\r\n\r\n<b>Consequences</b>\r\n$ Relations with Matriarch: <green>{b_improve}</green>\r\n$ If there are hostages in the camp, they will be liberated in case of victory.\r\n\r\n<b>Possible loot:</b> {possible_loot}",
+  "~ \r\nYour squad has suffered a defeat. \r\n\r\nExpect your city to be attacked by a bandit squad of {part_of_number_forest_bandits} fighters in the coming days.",
+  "~\r\nBandit camp destroyed.\r\n\r\n$ Relations with <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>\r\n$ Loot: {loot}"
+]

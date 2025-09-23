@@ -1,0 +1,12 @@
+[
+  "Ultimatum on neutrality\r\n{soul_uuid_king} issues you an ultimatum. You must sever all political agreements (with your suzerain, vassals, or leave the alliance) and become neutral.\r\n\r\n$ You have <b>2 days</b> to consider.\r\n$ If you ignore the proposal, then in a few days {soul_uuid_king} will try to test your strength.\r\n$ If the assault on your city is successful and your Hall is burned down, you will be forced to become neutral.\r\n{optional_possible_helpers}",
+  "Agree\r\nAgree and become a neutral independent province.\r\n{optional_additional_effects}\r\n\r\n[hint_SENDER]",
+  "~\r\nYou have become a neutral independent province.\r\n\r\nNow you are on your own.\r\n{optional_additional_effects}",
+  "~\r\nYou ignored the proposal, and soon {soul_uuid_king} will try to test your strength.\r\n\r\nIf the assault on your city is successful and your Hall is burned down, then you will become a neutral independent province.",
+  "~\r\n{soul_uuid_king} changed his mind about attacking your settlement, fearing the <hint=hint_army_power>strength</hint> of your army. All your political agreements remain in force.\r\n\r\nThis monarch will now be known as a coward.",
+  "~\r\nYou lost the battle and {soul_uuid_king} has forced you to break all your agreements.\r\n\r\n$ You have become a neutral independent province.\r\n$ Now you are on your own.",
+  "~\r\nYou won, and all your political agreements remain in force.",
+  "~\r\n$ Relationship with your suzerain {soul_uuid_king_head}: <red>{rel_de}</red>",
+  "~\r\n$ Relationship with the head of your alliance {soul_uuid_king_head}: <red>{rel_de}</red>",
+  "~\r\nI afforded you sufficient time to contemplate my proposition, yet you did not even dignify me with your response. Do you naively believe that they will come to your aid? No one wishes to champion the weak. Therefore, brace yourself for a battle!"
+]

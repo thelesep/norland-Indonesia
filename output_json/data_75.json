@@ -1,0 +1,12 @@
+[
+  "Terror\r\nTerror is not carried out; executioners are engaged in the proper search and punishment of true criminals.",
+  "Unavailable \r\nThe character is <hint=hint_blindness>blind</hint>, therefore they cannot interact with books.",
+  "Old age \r\nThe character has become <hint=hint_oldman>elderly</hint>",
+  "Speculators\r\nBecause prices for some of your goods on the market are lower compared to those offered by the <hint=hint_holy_caravan>Holy Caravan</hint>, some enterprising <hint=hint_persons_criminal>vagabonds</hint> are buying up your goods and leaving the city to resell them elsewhere.\r\n\r\nIn addition to your local population, this opportunity attracts the attention of vagabonds from neighboring cities. who start coming to your city to engage in speculation.\r\n\r\n<b>Hint:</b> You can either raise prices to match the Caravan or combat the vagabonds through <hint=hint_terror_peasants>terror</hint>.",
+  "Speculation\r\nSetting your prices lower than the market price given by the <hint=hint_holy_caravan>Holy Caravan</hint> may lead to the emergence of <hint=hint_nt_contrband_begin>speculators</hint> in the city.",
+  "No Disasters\r\nStarting from a certain time, various disasters such as criminal invasions, crop failures, or diseases can strike your province.\r\n\r\nThis modifier turns them off.",
+  "Not available\r\nThere is no knowledge that the characters could exchange.",
+  "Trader\r\nThis character is responsible for trading operations in the province, so all trade agreements will be conducted with him and calculated based on his skill in <hint=hint_skill_negotiations>Trade</hint>.\r\n\r\n<b>Hint:</b> If he becomes your ruler's <hint=hint_encyclopedia_puppets>puppet</hint>, he will offer you a very significant discount (his Trade skill will be treated as 1)!",
+  "Forest bandits plan an attack\r\nRumors have reached you that forest bandits from your province plan to raid a settlement in the next day or two.\r\n\r\nTheir target could be either your city or nearby villages.\r\n\r\n$ You can gather an army and attack their camp first.\r\n$ You can also bribe them (action in the bandits' camp on the world map) to leave you alone for some time.",
+  "Bad manners\r\nThe ruler will not take this lord's assurances seriously as he has a lower <hint=hint_skill_manners>Manners</hint> skill than the ruler."
+]

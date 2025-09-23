@@ -1,0 +1,12 @@
+[
+  "Trade Agreement\r\nConcluded between two provinces with the mediation of the Сhurch.\r\n\r\n$ Your trading partner will offer the agreed deal <b>daily</b>, which will be displayed in the <b>Trade menu</b>.\r\n$ Conducting the deal will require a messenger, but it will not require <hint=hint_resource_paper>Paper</hint>.\r\n$ Relations with the partner will <green>improve</green> upon making the deal and will enhance with each transaction.\r\n$ Any money given to your trading partner will be added to that city's budget and spent on strengthening the army.\r\n$ The agreement has been arranged to last {days} days but can be terminated if the relations become hostile.",
+  "~\r\nAvailable for assignment: {count}\r\nTotal: {count_2}\r\n\r\n<b>Hint:</b> Characters from the selected group who are not assigned to other buildings are available for assignment. You can see the composition of the assigned workers in the overview mode by zooming the camera out as much as possible.",
+  "Longevity\r\nThe time before aging begins is increased by 10 years.",
+  "Upgrade\r\n$ One additional job slot\r\n$ Iron deposit in the mine will increase by {iron_add}",
+  "Wounded\r\nWarriors suffer <hint=hint_pain>pain</hint> from their wounds, which may affect their <hint=hint_moral_level>bravery</hint> in battle.",
+  "Unhappy\r\nWarriors are <hint=hint_sodiers_happiness>unhappy</hint>, which may affect their <hint=hint_moral_level>bravery</hint> in battle.",
+  "Nectar Addicts\r\nWarriors with a nectar <hint=hint_addict>addiction</hint>.\r\n\r\nUsing <hint=hint_resource_nectar>Nectar</hint> before battle can greatly increase their <hint=hint_moral_level>bravery</hint>, but if these warriors lack it, they can experience significantly decreased <hint=hint_sodiers_happiness>mood</hint>.",
+  "Fanatics\r\n<hint=hint_persons_fanatic>Fanatic warriors</hint> can be very effective in battle, as they gain positive thoughts from <hint=hint_pain>pain</hint>.",
+  "Vagabonds\r\nThese warriors were previously <hint=hint_persons_criminal>vagabonds</hint>, so military discipline causes them to suffer.\r\n\r\nThis may affect their <hint=hint_moral_level>bravery</hint> in battle.",
+  "Lord Missing\r\nAfter the defeat, the lord managed to escape from the battlefield, but their fate is unknown.\r\n\r\nThe situation will become clear in 2 days."
+]

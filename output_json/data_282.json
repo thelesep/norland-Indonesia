@@ -1,0 +1,12 @@
+[
+  "Discontent is brewing\r\n{name}’s opinion of your ruler has recently worsened, which may lead to unpleasant consequences in the future, such as rebellion or leaving the settlement.",
+  "[hint_advisor_caption]  \r\nYour lord {soul_uuid} is having relationship issues with your ruler. In the future, this may lead to unpleasant consequences such as rebellion or departure from the settlement.\r\n\r\n$ To temporarily improve the relationship, <b>reward</b> the lord via the action menu",
+  "Auto-selection\r\nWarriors will automatically choose the best available equipment for patrols.",
+  "Lord was seduced\r\n{soul_uuid_1} was seduced by one of the lords of your neighbors.",
+  "Terror Among Lords\r\nSome of your actions, such as unjustified executions, will terrify the lords. However, execution during a <hint=hint_pogrom>religious uprising</hint> is not considered terror.\r\n\r\nEffects:\r\n$ Lords experience a strong negative <hint=hint_thought>thought</hint>.\r\n$ Lasts 5 days.",
+  "Release and Accept Into Family\r\nThe hostage will be released and join your family of lords.\r\n\r\nKing {soul_uuid_king} will strongly disapprove of you poaching his lords.",
+  "Unavailable\r\nThe prisoner holds too low an opinion of your ruler and will not join your noble house.",
+  "Support Sermon\r\nA politician is delivering a sermon asking for support in his efforts.\r\n\r\nUnhappy characters among the listeners will donate a small amount of gold to him so he can use it to pursue his political goals.",
+  "Unavailable  \r\nThe spouses hold too low an opinion of each other to go on a date.\r\n\r\nRelations of {soul_uuid_1} toward {soul_uuid_2}: {opinion_1_2}  \r\nRelations of {soul_uuid_2} toward {soul_uuid_1}: {opinion_2_1}  \r\n\r\nBoth spouses must have relations of at least {threshold}",
+  "Sex with spouse  \r\n{soul_uuid_target} will go on a date with {soul_uuid_spouse}"
+]

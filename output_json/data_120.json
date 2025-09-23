@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nI urgently need to sleep. I can barely stand on my feet!\r\n\r\nReason: <hint=hint_need_sleep>Need for sleep</hint>.",
+  "[hint_mind_caption]\r\nA pleasant feeling of being satisfied with food.\r\n\r\nReason: fully replenished <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\r\nTime for a snack!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\r\nI need to eat something urgently!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\r\nI'm dying of hunger!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>.",
+  "[hint_mind_caption]\r\nPhew... Well, it's not so bad, I still have some energy left.\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
+  "[hint_mind_caption]\r\nI think I haven't drunk anything for a day or two... I deserve this!\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
+  "[hint_mind_caption]\r\nI can't even remember the last time I had a drink! Where's my tankard?\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.\r\n\r\n<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>.",
+  "[hint_mind_caption]\r\nI can't work anymore! I want a drink!\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.\r\n\r\n<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>.",
+  "[hint_mind_caption]\r\nIt was fun!\r\n\r\nReason: Fully fulfilled <hint=hint_need_fun>Need for rest</hint>."
+]

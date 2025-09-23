@@ -1,0 +1,12 @@
+[
+  "Technology\r\nTo construct this building, you need to acquire a book from the <hint=hint_holy_caravan>Holy Caravan and study it in the Knowledge menu.",
+  "Technology\r\nTo construct this building, one of your lords needs to study the corresponding <hint=hint_idea>knowledge</hint>.\r\n\r\n<b>Hint:</b> The required book is already in your library. Assign a lord to study it via the Knowledge menu.",
+  "Limit reached\r\nThe construction limit for this building has been reached.",
+  "Technology\r\nTo upgrade this building, one of your lords must research the corresponding <hint=hint_idea>knowledge.</hint>",
+  "Assign Prisoners\r\nAppoint workers from among the <hint=hint_persons_slave>prisoner</hint> population. They work 3 hours longer than all other workers, which results in a significant increase in productivity.\r\n\r\n[hint_priority_workers]",
+  "Assign Nectar Addicts\r\nAppoint workers from among the <hint=hint_addict>nectar addict</hint> population.\r\n\r\nThey work faster than regular workers (<b>+30%</b> productivity bonus).\r\n\r\n[hint_priority_workers]",
+  "Assign Loyalists\r\nAppoint workers from among the <hint=hint_loyalist>loyalist</hint> population.\r\n\r\nThey work more diligently than regular workers, providing a <b>+30%</b> productivity bonus.\r\n\r\n[hint_priority_workers]",
+  "Assign Kaiden\r\nAppoint workers from among the <hint=hint_culture_gwelts>kaiden</hint> population.\r\n\r\nTheir traditional skills allow them to work in weapon and armor forges 20% more efficiently.\r\n\r\n[hint_priority_workers]",
+  "Assign Tanaya\r\nAppoint workers from among the <hint=hint_culture_tanaya>tanaya</hint> population.\r\n\r\nTheir traditional skills allow them to work with paper 20% more efficiently.\r\n\r\n[hint_priority_workers]",
+  "Assign Makha\r\nAppoint workers from among the <hint=hint_culture_makha>makha</hint> population.\r\n\r\nTheir traditional skills allow them to brew potions and make tools 20% more efficiently.\r\n\r\n[hint_priority_workers]"
+]

@@ -1,0 +1,12 @@
+[
+  "Unavailable\r\nNo manager appointed in the <hint=hint_bld_chancellery>Chancellery</hint>",
+  "Declare Yourself Emperor\r\nProclaim yourself the Emperor of Norland and challenge the <hint=hint_synode>Loving Family.</hint>\r\n\r\n<b>Hint:</b> By choosing this action, there will be no turning back, and you will begin the final trial in which you must defeat the punitive army of the <hint=hint_inqusitors>Inquisition</hint>. If you win the battle, you win the game.",
+  "Unavailable\r\nA sacred place is required for the ceremony - for example, an Altar or a Temple.",
+  "The Inquisition is on the way\r\nThe Matriarch and the entire <hint=hint_synode>Loving Family</hint> lament your fall into sin and blasphemy. They send the Strict Father to cleanse you with fire.\r\n\r\nSoon, the <hint=hint_inqusitors>Inquisition</hint> squads will arrive in your city, and the survivors will be forgiven.",
+  "All inhabitants\r\n\r\n{details_stack}",
+  "City Storage\r\nAll resources that are in your city's storage and available to you.",
+  "Resources in Inventories\r\nResources in the storage of production buildings and in the inventories of characters, including the weapons carried by warriors and lords.",
+  "Resources Produced\r\nThe amount of resources that have been produced and gathered throughout the day.",
+  "Resources Spent\r\nIncludes wages, consumption of food and alcohol by lords and prisoners, construction costs, and resources used in production.",
+  "Local Market Trade\r\nThe total value of all goods sold to your peasants at the local market, taverns, and drug dens."
+]

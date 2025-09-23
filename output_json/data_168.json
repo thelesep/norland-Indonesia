@@ -1,0 +1,12 @@
+[
+  "~\r\n{soul_uuid_king} was defeated, and his city was plundered.",
+  "~\r\nBelieve me, I am not one to scatter words of gratitude lightly. You aided me in a moment of great difficulty. Your warriors displayed true valor and courage. Thank you, and know that such actions are not easily forgotten.",
+  "~\r\nYou helped me defend against the enemy, and this honors you greatly. Many neighbors will happily visit my province for merriment and hunting, but almost none of them responded when I needed help. Thank you!",
+  "~\r\nNature didn't bless me with eloquence, but my actions express my gratitude. You displayed bravery by coming to my aid. Perhaps we lost and suffered casualties, but your deed shines bright despite the defeat.",
+  "~\r\nI'm not accustomed to groveling or offering thanks to those weaker than me. However, a sense of justice is not foreign to me, and I express my gratitude to you for the assistance you provided.",
+  "Threat of plunder\r\n{optional_type_of_danger}\r\n\r\n{optional_possible_helpers}",
+  "~\r\n\r\nIn typical Makha fashion, {soul_uuid_king_1} is extremely upset that {soul_uuid_king_2} is in no hurry to repay the borrowed gold.\r\n\r\n{soul_uuid_king_2}, on the other hand, believes that such pettiness damages the collective image of the noble houses in the eyes of the peasants. He promises to repay the debt as soon as he can.",
+  "~\r\n\r\n{soul_uuid_king_1} belongs to the Kaiden culture, where loyalty is the highest virtue, so he believes that {soul_uuid_king_2} should hand the escaped lord over to him.\r\n\r\n{soul_uuid_king_2}, who has given shelter to the fugitive, believes that lords are not slaves and have the right to choose which noble house to join.",
+  "~\r\n\r\n{soul_uuid_king_1} is a fanatic, so it is important to him that his neighbors are pious, while {soul_uuid_king_2} does not pay enough attention to faith and the construction of temples. Only the church can save Norland from falling into darkness; everyone must remember this.\r\n\r\n{soul_uuid_king_2} believes that it is his business how to conduct affairs, and no one dares to dictate his actions.",
+  "~\r\n\r\n{soul_uuid_king_1} learned that their neighbor {soul_uuid_king_2} has organized terror against the peasants of their culture in his city. He demands an immediate end to this.\r\n\r\n{soul_uuid_king_2} believes the governance of his own kingdom is a personal affair, and that use of these extreme means were justified."
+]

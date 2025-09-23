@@ -1,0 +1,12 @@
+[
+  "~\r\n$ <red>You are a vassal of {soul_uuid_king_sir} and they will be extremely unhappy if you voluntarily leave to another sire.</red>\r\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>",
+  "~ \r\n$ Relationship with the previous suzerain {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>",
+  "Not available\r\nThe vassalage agreement excludes such actions between a suzerain and their vassal.",
+  "Not available\r\nYou can't do this action with a suzerain",
+  "Not available\r\nThis action can only be performed with a neighbor with whom you share a common border.",
+  "Not available\r\nCannot perform this action with the head of the alliance",
+  "Not available\r\nCannot perform this action on a member of your own alliance.",
+  "Not available\r\nAs a member of the alliance, you cannot perform this action.",
+  "Not available\r\nAs suzerian, you cannot perform this action.",
+  "Not available\r\nThis action will be available in {cooldown_remain_hours} h."
+]

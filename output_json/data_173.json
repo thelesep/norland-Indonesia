@@ -1,0 +1,12 @@
+[
+  "~\r\nMany deem it shameful to become a vassal, but is it not advantageous for you to purchase my protection with a modest tribute? You have made the right choice, leaving war to those who understand it!",
+  "~\r\nHow foolish people can be! You refused to become my vassal and think I'll just let you go? What is not given to me willingly, I take by force!",
+  "~\r\nI offered you a fair treaty. Becoming my vassal is a great honor for many. You chose to defy me. Well, that's your choice, not mine.",
+  "~\r\nTo your good fortune, more pressing matters have arisen for me than punishing a defiant neighbor. Well, for now, you may live in peace!",
+  "~\r\nI would have punished you for your defiance, but the Holy Mother Sophia appeared to me in a dream and forbade me to do so. You are fortunate!",
+  "[hint_DESCRIPTION]\r\n{soul_uuid_king} believes that in the current situation, it would be best for you to become his <hint=hint_vassal>vassal</hint>.\r\n\r\nYou have <b>2 days</b> to consider the offer.\r\n\r\n$ If you ignore the proposal, {soul_uuid_king} will consider it as an act of insolence, and his attitude toward you will deteriorate by <red>{king_de}</red>.\r\n\r\n[hint_SENDER]",
+  "~\r\nYou ignored the offer.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{king_de}</red>",
+  "~\r\nI am not accustomed to receiving silent refusals, especially on matters of authority. You have shown open disrespect, and you will be treated accordingly!",
+  "~\r\nYou refuse to become my vassal? To want enemies like me, you must consider yourself immortal! Well, the time will come, and we will test this in practice.",
+  "~\r\n$ If the ruler does not agree to submit within 3 days, you will be required to attack the city.\r\n$ If you emerge victorious, this faction will become your vassal by force.\r\n$ If the ruler refuses but you don't attack the city, you will be seen as a coward."
+]

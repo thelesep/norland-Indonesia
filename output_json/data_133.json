@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nWe outnumber the warriors!\r\n\r\nReason: The ratio of the number of soldiers to prisoners.",
+  "[hint_mind_caption]\r\nCursed smallpox... How painful!\r\n\r\nEven if I survive and don't go blind, these damned scars will remain!\r\n\r\n<b>Hint:</b> In the main tab, in the Conditions section, you can see the current stage of the disease.",
+  "[hint_mind_caption]\r\nI hate fighting and commanding! Violence only brings evil!\r\n\r\nReason: <hint=hint_pacifist>Pacifist</hint>",
+  "[hint_mind_caption]\r\nWe were afraid of the enemy... What a shame!\r\n\r\nReason: Retreat before the battle.",
+  "[hint_mind_caption]\r\nOur king has gone mad and has challenged the authority of the Matriarch!\r\n\r\nThe Inquisition will burn this city to the ground, and we will burn in hell!\r\n\r\nReason: The coronation of the emperor.",
+  "[hint_mind_caption]\r\nThe king has decided to challenge the Church and proclaim himself the new emperor.\r\n\r\nWell, death awaits us all! I hope it won't involve eternal suffering...\r\n\r\nReason: Reaction of an <hint=hint_persons_agnostic>agnostic</hint> to the coronation of the emperor.",
+  "[hint_mind_caption]\r\nThe beloved king has finally decided to proclaim himself emperor! I've waited for this my whole life!\r\n\r\nThough the Inquisition will probably kill us all... But there is a slight hope!\r\n\r\nReason: Reaction of a <hint=hint_loyalist>loyalist</hint> to the coronation of the emperor.",
+  "[hint_mind_caption]\r\nOur holy king has proclaimed himself emperor!\r\n\r\nSince he is not afraid of the Inquisition, he must be the true prophet, for whom I am ready to die!\r\n\r\nReason: Reaction of a <hint=hint_persons_fanatic>fanatic</hint> to the coronation of the holy emperor.",
+  "[hint_mind_caption]\r\nGood events make you happy.",
+  "[hint_mind_caption]\r\nBad events make you sad."
+]

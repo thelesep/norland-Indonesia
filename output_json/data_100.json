@@ -1,0 +1,12 @@
+[
+  "Forecaster\r\nThanks to their special knowledge of trade language, this character gathers rumors from the Holy Caravan about upcoming price changes for certain goods.\r\n\r\nThe forecast comes in the form of a notification after each visit to the Holy Caravan.",
+  "Precise Language\r\nWhen this character is in charge of the Chancellery, their ability to explain production tasks in exceptionally precise and clear language eliminates the need for <hint=hint_resource_paper>Paper</hint>.",
+  "Poisoner\r\nThis character can poison someone, either by the order of the king or on their own whim. If everything goes well, no one will suspect anything. However, in case of failure, the target may start a fight to the death with the poisoner.\r\n\r\nThe probability of failure depends on the difference in the <hint=hint_skill_knowledge>Intelligence</hint> skill between the interacting characters.",
+  "Insightful\r\nWhen teaching, this character has a 5% chance of recognizing a new <hint=hint_talant>talent</hint> in their student (provided the student has no other talents).",
+  "City Defender\r\nThe Command skill of this lord inspires members of his squad when defending their town, doubling their <hint=hint_pain_level>pain threshold</hint> and <hint=hint_moral_level>bravery</hint>.",
+  "Head Chopper\r\nDuring combat, this character has a much higher chance of decapitating opponents.\r\n\r\nHand-to-hand combat and shield strikes are not included in this ability.",
+  "Charismatic\r\nThis character has a +{bonus} bonus to <hint=hint_interest>interest</hint> from the opposite sex and can freely visit enemy cities.\r\n\r\nAlso does not receive a negative thought when seducing someone in the interest of the king.",
+  "Diplomat\r\nThis character has the ability to convince any enemy king to forget all grievances and return to a normal level of relations.",
+  "Battle Instructor\r\nWhen this character trains warriors at the <hint=hint_bld_training_ground>Training Ground</hint>, they gain twice as many experience points.",
+  "Hostage\r\nA character from another noble family is in your custody and dreams of returning home. You can compel them to perform the same tasks you assign to your lords.\r\n \r\n$ If you manage to raise their loyalty to zero or above, they will remain in your family after their release (though their king won't be pleased about it).\r\n$ On the other hand, their king will be grateful if you release them without any conditions (though some resentment will remain)."
+]

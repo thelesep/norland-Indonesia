@@ -1,0 +1,12 @@
+[
+  "Migration has already been increased\r\nIt will only be possible to increase it again after {days} days.",
+  "Migration has already been decreased\r\nIt will only be possible to decrease it again after {days} days.",
+  "Not suitable for the task\r\nA lord of <b>male</b> gender is required.",
+  "Not suitable for the task\r\nA lord of <b>female</b> gender is required.",
+  "Not suitable for the task\r\nThe lord must not be married.",
+  "Lord in battle\r\nWhile the lord is engaged in battle, they cannot be sent away.",
+  "Lord in a squad\r\nWhile the lord is part of a squad, they cannot be assigned to individual tasks.",
+  "You have already helped\r\n{soul_uuid_king} is too proud to accept any further assistance.",
+  "Lord experiencing a nervous breakdown\r\nWhile the lord is having a nervous breakdown, they cannot be sent away.",
+  "Lord unable to walk\r\nWhile the lord is unable to walk, they cannot be sent away."
+]

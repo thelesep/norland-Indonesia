@@ -1,0 +1,12 @@
+[
+  "Box\r\n{resources}",
+  "Unavailable\r\nThe Chancellery can serve {limit} productions.",
+  "Approve\r\nCulture approves of the king's actions.",
+  "Wise Conversation\r\nA conversation takes place during which the character shares knowledge, provided the interlocutor has a sufficient Intelligence skill level.\r\n\r\nRequired Intelligence skill level:\r\n$ Basic knowledge (gray): level {var_1}\r\n$ Advanced knowledge (green): level {var_2}\r\n$ Superior knowledge (purple): level {var_3}\r\n\r\nOne random piece of knowledge is shared at a time, from simpler to more complex.\r\n\r\n<b>Additionally:</b>\r\n$ A character with the \"Enlightener\" trait can share any knowledge with anyone without restrictions, but their conversation partner may convert to their culture.\r\n$ If the character is <hint=hint_oldman>elderly</hint>, they will share two pieces of knowledge at once.\r\n\r\n<b>Hint:</b> You can invite friendly characters from other cities (or abduct them) to gain valuable knowledge — for example, knowledge from other cultures.",
+  "Not available\r\n{soul_uuid_1} has a low opinion of {soul_uuid_2}.\r\ncurrent: {opinion}\r\nrequired: {threshold}",
+  "The character is insane\r\nThe character is in a state of insanity and cannot perform this action.",
+  "The character is insane\r\nThe character is in a state of insanity and cannot perform this action.",
+  "Senility\r\nThe warrior is currently lost to madness.",
+  "Senile dementia\r\nThis character has fallen into senile dementia and lost their mind.\r\n\r\nThe condition will stay with them until they pass into the next world.",
+  "Reserves Depleted\r\nAt the Mine's current depth, all Iron reserves are exhausted.\r\n\r\nUpgrade the Mine to access deeper reserves."
+]

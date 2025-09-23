@@ -1,0 +1,12 @@
+[
+  "~\r\n{optional_remain_time_hours}",
+  "[hint_mind_caption]\r\nI have been <hint=hint_speech_insult>insulted</hint> and I feel humiliated!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI doubt that Mother Sophia truly created this cruel world...\r\n\r\nReason: <hint=hint_persons_agnostic>Agnostic</hint>.",
+  "[hint_mind_caption]\r\nI feel confident under the <hint=hint_skill_command>command</hint> of a commander like {name}.",
+  "[hint_mind_caption]\r\nWe had better run before it's too late!",
+  "[hint_mind_caption]\r\nWhat should we do? Victory appears out of reach for us!",
+  "[hint_mind_caption]\r\nThey are about to be defeated!",
+  "[hint_mind_caption]\r\nJust a little more, and they will run away too!",
+  "[hint_mind_caption]\r\nHaha! Cowards!",
+  "[hint_mind_caption]\r\nI saw an enemy warrior nearby fall! Just a bit longer, and victory will be ours!"
+]

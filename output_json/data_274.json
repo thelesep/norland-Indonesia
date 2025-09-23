@@ -1,0 +1,12 @@
+[
+  "Reconciliation\r\nThe lord will gift {gift_for_king_resource} to the ruler on behalf of a neighbor. \r\n\r\n<b>As a result:</b>\r\nThe relations of the ruler with this neighbor will improve by an amount depending on your lord's <hint=hint_skill_speech>Persuasion</hint> skill.\r\n\r\nThis action is possible even if the ruler is not in the city – he will be notified of the gift.\r\n\r\n[hint_SENDER]",
+  "Unavailable\r\nThis character currently does not feel hatred toward anyone.",
+  "[hint_mind_caption]\r\nI’m completely broke! What a disgrace!\r\n\r\nReason: The character has no <hint=hint_resource_gold>Gold</hint>. Reward them to rid them of this thought.\r\n\r\n<b>Hint:</b> If a character's wealth reaches <hint=hint_resource_gold>{rich_coins}</hint>, they will gain a permanent positive thought.",
+  "[hint_mind_caption]\r\nA lot of money is always a good thing! I hope I can keep it safe!\r\n\r\nReason: The character has accumulated a lot of <hint=hint_resource_gold>Gold</hint>.\r\n\r\n<b>Hint:</b> If the character’s condition reaches <hint=hint_resource_gold>{very_rich_coins}</hint>, they will gain an even stronger positive thought.",
+  "[hint_mind_caption]\r\nHoly Sophia, I’m rich! This is just an incredible feeling!\r\n\r\nReason: The character has accumulated a very large amount of <hint=hint_resource_gold>Gold.</hint>",
+  "~\r\nThank you for the generous gift! Perhaps I was too harsh towards {soul_uuid_king_s_name}. For your sake, I am willing to give this rutabaga digger a chance.",
+  "~\r\nVery well, I will forgive {soul_uuid_king_s_name} if you insist. Some may see this as weakness, but our people desire peace! Let him be grateful to you!",
+  "~\r\nI ought to punish {soul_uuid_king_s_name} for his insolence, but after such a gift I am obliged to give him a chance! But don’t think my patience can be bought so easily! I hope he behaves himself...",
+  "~\r\n{soul_uuid_king} accepted your offering and improved relations with {soul_uuid_king_s} by <green>{gift_rel_improve}</green>",
+  "[hint_mind_caption]  \r\nA pilgrim has blessed me with a holy slap! It's a true blessing!"
+]

@@ -1,0 +1,12 @@
+[
+  "Vassal\r\nA province that is part of a vassal kingdom. It is obliged to pay tribute to the suzerain, who protects it.\r\n\r\nPolitically restricted, meaning it cannot, for example, directly attack neighbors.",
+  "Ally\r\nA province that is part of a free city alliance. It does not pay tribute but has obligations to defend its allies.\r\n\r\nPolitically restricted, meaning it cannot, for example, directly attack neighbors.",
+  "Head of the Alliance\r\nA province that is the leader of the free city alliance.\r\n\r\nThere are no trade restrictions within the alliance, and the head of the alliance gets a discount.",
+  "Suzerain\r\nA province that is the head of a vassal kingdom.\r\n\r\nKeeps its vassals in check by force, receiving tribute from them.",
+  "Random",
+  "City Sells\r\nThe goods that this province will trade at the start of the game.",
+  "Unavailable\r\nThe sale of iron in this province cannot be changed as it is crucial for the late stage of the game.",
+  "Random",
+  "Random",
+  "Village Tribute\r\nSelect the resources that your villages will provide every few days."
+]

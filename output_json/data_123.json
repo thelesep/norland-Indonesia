@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nI'm the richest in the family, and there's nothing better than this feeling!\r\n\r\nReason: Has the Greedy trait and owns the most <hint=hint_resource_rune>Holy Rings</hint> among the family members.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI am happy to live in abundance! This city is the best on Earth!\r\n\r\nReason: <hint=hint_rich>Material wealth</hint>.",
+  "[hint_mind_caption]\r\nI know, Holy Sophia loves me! This pain is her blessing!\r\n\r\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
+  "[hint_mind_caption]\r\nThis is unworthy of a lord...\r\n\r\nReason: Sex with a peasant.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI know {name} was against this!\r\n\r\nReason: Close one was coerced into sex.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nBut now there's enough money for a long time...\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nIt hurts, but my honor is preserved!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nWhat could I have done against violence?\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nPhew... That was something!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nWhen I'm <hint=hint_sick>sick</hint>, any sympathetic word helps...\r\n[hint_mind_remain_time]"
+]

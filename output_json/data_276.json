@@ -1,0 +1,12 @@
+[
+  "Unavailable\r\nThis character doesn't have a pet.",
+  "Unavailable\r\nThis character doesn't have a pet.",
+  "Unavailable  \r\nThe performer must be a <hint=hint_encyclopedia_puppet>puppet</hint>.",
+  "The Puppet Committed a Crime  \r\nThe <hint=hint_encyclopedia_puppet>puppet</hint> {soul_uuid} committed a crime on your orders and, fearing prosecution, left their home. {soul_uuid} will now become a <hint=hint_untitled_lord>lesser lord</hint> in your household.",
+  "Made a Gift\r\n{soul_uuid_politic} gave {soul_uuid_target} a small amount of money to draw him into his circle of <hint=hint_followers>followers.</hint>",
+  "Flattered the Lord\r\n{soul_uuid_politic} flattered {soul_uuid_target} to draw them into his circle of <hint=hint_followers>followers.</hint>",
+  "Received a Donation\r\n{soul_uuid_politic} received a donation for his ongoing political activity from his <hint=hint_followers>follower</hint> {soul_uuid_target}",
+  "Edit Squad\r\nOpens the squad editing menu, where you can change the composition of your warriors and adjust their equipment.",
+  "Surrender\r\nThe squad will lay down their arms and raise their hands. \r\n\r\nIn critical situiations this may save the commander's life.",
+  "Disband\r\nThe squad will be disbanded, and the warriors will return their equipment to the storage."
+]

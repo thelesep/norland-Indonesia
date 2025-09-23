@@ -1,0 +1,12 @@
+[
+  "By Other Hands\r\n<b>Attention:</b> Since your armies are not involved, all loot will be divided among the other participants.",
+  "Equal Share\r\n<b>Attention:</b> All loot will be divided equally among all participants.",
+  "Demand to Fulfill Vassal Duty\r\nYour suzerain {soul_uuid_king} from {faction_uuid} demands that you join them in the attack on the province of {faction_uuid_target}. You must send a squad to join the suzerain's forces.\r\n\r\nThe reward gained during the campaign will be divided equally among all participants.\r\n\r\nIf you fail to fulfill your vassal duty, then:\r\n$ Relations with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
+  "Send Squad\r\nSend an squad to fulfill your vassal duty.",
+  "~\r\nYour suzerain {soul_uuid_king} did not wait for your troops. You have broken your vassal oath.\r\n\r\n$ Relations with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
+  "~\r\nYou have sent your troops to your suzerain. They will soon head into battle as part of the united army.",
+  "Witch\r\nThe witch asks for your shelter and protection from <hint=hint_bishop>Bishop</hint>, in exchange for her gratitude. She promises not to stay long.\r\n\r\n$ You can bribe the Bishop so he doesn't notice the witch's presence. In return, you will receive a gift from the witch.  \r\n$ You can report to the Bishop about your desire to execute the witch. Your relations with the <hint=hint_relations_matriarch>Matriarch</hint> will improve, but the witch may have enough time to curse your king.\r\n\r\n<b>Hint:</b> The decision regarding the witch must be made in the Bishop's menu.",
+  "Request to Send Army\r\n{soul_uuid_king} from {faction_uuid} is allied with you, and he invites you to join him in the attack on the province of {faction_uuid_target}. If you wish, you can send a squad to join his army.\r\n\r\nThe reward gained during the campaign will be divided equally among all participants.\r\n\r\nIf you send troops, then:\r\n$ Relations with {soul_uuid_king}: <green>{send_army_rel_im}</green>",
+  "Send Squad\r\nSend a squad to assist your ally.\r\n\r\n$ Relations with {soul_uuid_king}: <green>{send_army_rel_im}</green>",
+  "~\r\nYour ally {soul_uuid_king} did not wait for your assistance.\r\n\r\nSince such help is not part of your alliance obligations, this will not affect your relations."
+]

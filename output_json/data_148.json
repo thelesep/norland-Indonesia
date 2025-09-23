@@ -1,0 +1,12 @@
+[
+  "~\r\nThe capital of {faction_uuid_target} has been unsuccessfully attacked by the army of {faction_uuid_attacker}.",
+  "~\r\nThe village of {faction_uuid_target} has been burned down by the army of {faction_uuid_attacker}.",
+  "~\r\nThe bandit camp in the territory of {faction_uuid_bandit_area} has been destroyed by the army of {faction_uuid_attacker}.",
+  "~\r\nThe bandit camp in the territory of {faction_uuid_bandit_area} has been unsuccessfully attacked by the army of {faction_uuid_attacker}.",
+  "~\r\nKing {soul_uuid_king_1} of {faction_uuid_1} has joined the alliance of free cities led by {soul_uuid_king_2} of {faction_uuid_2}, in the face of a threat from {faction_uuid_3}.",
+  "~\r\nThe king {soul_uuid_king} from {faction_uuid} has subjected a third vassal!",
+  "~\r\n$ {soul_uuid_king} from {faction_uuid}",
+  "Enemies\r\nThere is a chance he will participate in a conflict against his enemy.",
+  "Allies\r\nAn ally is obligated to help in case of a military threat. But if they become fearful, their alliance contract will be terminated, and relations will be damaged.",
+  "~\r\n<hint=hint_possible_helpers_enemies>It's possible</hint> {soul_uuid_king} will help:"
+]

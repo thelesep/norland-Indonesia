@@ -1,0 +1,12 @@
+[
+  "There is no reason to request assistance\r\nNo one is trying to attack you right now, so you cannot request military assistance.",
+  "No available titles!\r\nYou do not have any available <hint=hint_title>titles</hint>, so you cannot invite another lord to join you.",
+  "Help has already been requested\r\nYou have already requested help from {soul_uuid_king}. If your ally has not arrived right away, their army is likely busy somewhere. It may be worth waiting for them to return to the city.",
+  "Close kinship\r\nThese lords have too close of a kinship.",
+  "Already married\r\nThis lord is already married.",
+  "Manual battle\r\nCurrently, only auto-battle is available. Please stay tuned for future updates!",
+  "Insufficient gold\r\n$ Requires <hint=hint_resource_gold>{gold}</hint>",
+  "Insufficient resources\r\n$ Requires {offer_resource_stack}",
+  "Vassal\r\n{soul_uuid_king} is a vassal, so they cannot be interacted with in this manner",
+  "You can't attack\r\nAn army on the march cannot be attacked unless it is on its way to attack your city."
+]

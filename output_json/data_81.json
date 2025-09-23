@@ -1,0 +1,12 @@
+[
+  "Unavailable\r\nThis character cannot be granted a title",
+  "Unavailable\r\nTo declare yourself Emperor you must have control over {count} provinces. You currently have {under_control} provinces under your control.",
+  "Mood\r\nHover over the numbers in the mood column and row to learn the most common negative thoughts of different categories of people.",
+  "Unavailable\r\nThere are no iron deposits in the province.",
+  "Unavailable\r\nThis lord has an appointment already.",
+  "Hovered group of people\r\n{details_stack}",
+  "Effect of Nectar\r\n$ While <hint=hint_resource_nectar>Nectar</hint> is active, the character moves {speed_improve} faster, and their skills increase by {skill_improve}.\r\n$ The character begins to experience a strong craving for Nectar every day.\r\n$ This is accompanied by intense negative <hint=hint_thought>thought</hint> and physical <hint=hint_pain>pain</hint>, which intensifies each day until the character consumes it.\r\n$ Immediately after consumption, there is a chance that the dependent will go into a rage and attack the nearest character. Over time, this probability increases.",
+  "Ordered\r\nList of current orders in the <hint=hint_production_menu>Production menu</hint> for this type of building:\r\n\r\n{optional_orders}\r\n\r\n<b>Hint:</b> If the number for an order is <red>red</red>, it means that there are not enough ingredients in the city warehouse to produce this resource.",
+  "Produced\r\nHow many resources were produced in this building today.\r\n\r\nThe information is updated in real time.",
+  "Production Bonus\r\nThe higher the <hint=hint_skill_management>Management</hint> skill of the lord-manager assigned in the Hall,, the more effective their <hint=hint_inspection>instructions</hint> are, and the more the building will produce. For resource buildings, this means additional resources, and for production buildings (like Breweries), this means increased production speed.\r\n\r\nAssigning specialized workers (configured on the left) also grants a production bonus.\r\n\r\nProduction bonus from the manager:\r\n{optional_bonus_inspector}\r\n\r\nBonus to production from building level:\r\n{optional_bonus_building}"
+]

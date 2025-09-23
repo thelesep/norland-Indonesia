@@ -1,0 +1,12 @@
+[
+  "Hate\r\nWhen one lord hates another, it may end in murder. You have a few days to <hint=hint_tutorial_hate>take action</hint>.\r\n\r\nList of social thoughts that led to hatred:\r\n\r\n{mind_list}",
+  "{king_name}, {province_name}\r\nDay {day}\r\nProvinces under control: {state_size}\r\n\r\nGame difficulty: {difficulty}\r\n{optional_iron_will_mode}\r\n\r\nModifiers: \r\n{list}",
+  "Lesser Lord\r\nA character of noble blood but without a title. The King can determine their fate but cannot give them direct orders.\r\n\r\n<img=hint_untitled_lord></img>\r\n\r\nUsually, lesser lords are grown children or lords who were stripped of their titles.\r\n\r\nLesser lords live in the province and wait for their fate to follow one of the possible paths:\r\n$ Marriage\r\n$ Lordship\r\n$ Knighthood\r\n$ Free Lord\r\n$ Leaving to become a priest",
+  "Lazy Workers\r\nAfter the instructions expire, work in the buildings will be completely halted.\r\n\r\nAn additional challenge for experienced players.",
+  "Instructions are outdated\r\nThe managing lord has not visited this production site for three days already, and the workers see no point in trying.\r\n\r\nProductivity has dropped by {work_penalty}",
+  "~\r\nTime until <hint=hint_recovery>recovery</hint>: {time}",
+  "~\r\n$ With a {inflamed_wound_chance}% chance, it can cause an <hint=hint_inflamed_wound>inflamed wound</hint>.",
+  "~\r\n$ With a {pain_shock_chance}% chance, it can cause a <hint=hint_painful_shock>painful shock</hint>.",
+  "~\r\n$ The wound was not treated with <hint=hint_resource_med>Medical Salve</hint>. There is a possibility of infection with <hint=hint_poisoned>gangrene</hint> within: {time}.",
+  "Instructed\r\nThe character has received instructions from the lord and knows what to do in the near future.\r\n\r\nWill end in: {time}"
+]

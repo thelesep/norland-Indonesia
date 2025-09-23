@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nMy parents don't notice me... Maybe they're too busy.\r\n\r\nReason: <hint=hint_need_care>Need for care</hint>.",
+  "[hint_mind_caption]\r\nWhy don't Mom and Dad talk to me? I feel so lonely!\r\n\r\nReason: <hint=hint_need_care>Need for care</hint>.",
+  "[hint_mind_caption]\r\nMy parents hate me! What have I done wrong?\r\n\r\nReason: <hint=hint_need_care>Need for care</hint>.",
+  "[hint_mind_caption]\r\nI hope I'll be happy here!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI killed a person in their sleep... It's despicable, I know!\r\n\r\nReason: Committed a wicked murder at night.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI need my money!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nAaaah! It hurts!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nOoh! Eh? Haha!\r\n\r\nReason: Character trait - Joy of silliness.\r\n\r\n",
+  "[hint_mind_caption]\r\nWhat could be better than a good fight?\r\n\r\nReason: Character trait - Bloodthirsty.\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI saw the blood spill... Oh yes, it was glorious!\r\n\r\nReason: Character trait - Bloodthirsty.\r\n[hint_mind_remain_time]"
+]

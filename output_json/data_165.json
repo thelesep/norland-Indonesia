@@ -1,0 +1,12 @@
+[
+  "~\r\n$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>\r\n$ Relationship with {soul_uuid_king_s}: <red>{rel_de}</red>",
+  "Threat of plunder\r\n{optional_type_of_danger}\r\n\r\nTherefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.\r\n\r\nYou can send your army to help defend {faction_uuid}.\r\n\r\n<b>Consequences</b>\r\n{optional_send_help_effects}\r\n{optional_allyship}\r\n{optional_possible_helpers}",
+  "~\r\n{soul_uuid_king} emerged victorious and defended their city from plunder.",
+  "~\r\n{soul_uuid_king} was defeated and couldn't defend their city from plunder.",
+  "~\r\nI hasten to thank you for standing by my side. I know the battle was fierce, and you suffered significant losses. But rest assured: the good you have done will not be forgotten!",
+  "~\r\nIt seems that victory might have eluded me if not for your support. You stood for justice when you decided to back my cause. Such deeds are etched in memory, and I vow to come to your aid the moment you call for it!",
+  "~\r\nFrom you, such treachery was unforeseen! To strike at me so vilely, alongside my enemy! But Holy Sophia was by my side. Now reap the fruits of your folly, while I shall revel in my victory!",
+  "~\r\nYou chose to join forces with my enemy and attack me. But I know that you did not expect such a rout, and I myself could not have imagined how weak your army was. Next time, I will know just how insignificant an opponent you are!",
+  "Threat of vassalage\r\n{optional_type_of_danger}\r\n\r\nTherefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.\r\n\r\nYou can send your army to help defend {faction_uuid}.\r\n\r\n<b>Consequences</b>\r\n{optional_send_help_effects}\r\n{optional_allyship}\r\n{optional_possible_helpers}",
+  "~\r\n{soul_uuid_king} emerged victorious and maintained his independence."
+]

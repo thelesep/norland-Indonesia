@@ -1,0 +1,12 @@
+[
+  "[hint_DESCRIPTION]\r\nThe camp of forest bandits is located in your neighbor's territory.\r\n\r\n$ Number of bandits: {number_of_forest_bandits}\r\n$ Value in the camp: {possible_loot}\r\n$ Hostages: {hostages}",
+  "Attack\r\nEngage in a battle with a bandit squad of {number_of_forest_bandits} individuals, consisting of light fighters.\r\n\r\nThe ruler of the province {soul_uuid_king} and the <hint=hint_relations_matriarch>Matriarch</hint> will be grateful for assistance in eliminating the bandits.\r\n\r\n<b>Consequences</b>\r\n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>\r\n$ Relations with Matriarch: <green>{b_improve}</green>\r\n$ If there are hostages in the camp, they will be liberated in case of victory.\r\n\r\nPossible loot: {possible_loot}",
+  "~\r\nYour squad has suffered a defeat.",
+  "~\r\nThe bandit camp has been destroyed.\r\n\r\n$ Relations with <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>\r\n$ Relationship with {soul_uuid_king}: <green>{rel_improve}</green>\r\n$ Loot: {loot}",
+  "The bribery has already been done\r\nYou have already paid these bandits. They will keep their commitment and not attack your settlements for another {bribe_day_remain} days.",
+  "Bribe \r\nPay bandits <hint=hint_resource_gold>{bribe_price_gold}</hint>.\r\n\r\n$ Attacks on your settlements will be canceled for the next {bribe_days} days.\r\n\r\n[hint_SENDER]",
+  "~\r\nThe bandits graciously accepted your money and let your messenger go.\r\n\r\n$ Attacks on your settlements will be canceled for the next {days_without_attacks} days.",
+  "It's getting late\r\nThe bandits are already gearing up to march on you and hope to loot more there than you would have offered.",
+  "Trade offer\r\nThe bandit leader wishes to sell:\r\n\r\n<b>{offer_amount} prisoners</b> for <hint=hint_resource_gold>{offer_price}</hint>, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per prisoner. (minimum price from the Holy Caravan: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)",
+  "Buy prisoners\r\nBuy <b>{offer_amount} prisoners</b> for <hint=hint_resource_gold>{offer_price}</hint>, which amounts to <hint=hint_resource_gold>{offer_price_per_item}</hint> per prisoner. (minimum market price at the Holy Caravan: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)\r\n\r\n<b>Consequences</b>:\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}\r\n\r\n[hint_SENDER]\r\n\r\n"
+]

@@ -1,0 +1,12 @@
+[
+  "hint_persons_criminal",
+  "hint_persons_cuthroat",
+  "Fight\r\nThe character got into a fight and feels guilty about it.\r\n\r\nThe sin will be forgotten in: {time}",
+  "Immoral sex\r\nThe character engaged in paid sexual activities. This is morally wrong.\r\n\r\nThe sin will be forgotten in: {time}",
+  "Bound\r\nThe character is bound and awaits their fate.\r\n\r\nSoon, they will become a <hint=hint_persons_slave>prisoner</hint>.",
+  "Concussion\r\nDue to a blow to the head, the character has lost their sense of spatial orientation.\r\n\r\n$ <hint=hint_skill_combat>Combat skill</hint> is reduced by half.\r\n$ Movement speed is decreased.\r\n\r\nIt will end in: {time}.",
+  "Severe hunger\r\nWhile it is not dangerous at the moment, it can soon lead to emaciation and eventually death from starvation.\r\n\r\nEmaciation in: {time}.",
+  "Stunned\r\nThe character is stunned as a result of a blow. After regaining consciousness, they will be slowed down for some time.\r\n\r\nRegains consciousness in: {time}.",
+  "Terror victim\r\n[hint_terror_peasants]\r\n\r\nEnds in: {time}.",
+  "Terror victim\r\n[hint_terror_lord]\r\n\r\nEnds in: {time}"
+]

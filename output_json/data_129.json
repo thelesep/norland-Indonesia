@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nI have become a true lord of Norland!",
+  "[hint_mind_caption]\r\nThe king has stripped my friend of lordship... What will happen to them now?",
+  "[hint_mind_caption]\r\nOur ruler has passed away! What will become of us now? Grief, grief!\r\n\r\nReason: <hint=hint_loyalist>Loyalist</hint>.",
+  "[hint_mind_caption]\r\nThey say the Matriarch doesn't favor our king... Only repentance can bring him back into the fold of the Holy Church!\r\n\r\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>.",
+  "[hint_mind_caption]\r\nI am happy to be a member of such a respected and prestigious noble family!\r\n\r\nReason: Your family has the highest <hint=hint_prestige>prestige</hint> rating among neighbors.",
+  "[hint_mind_caption]\r\nNo one respects our family... We live in a wretched hole. It's very oppressive!\r\n\r\nReason: Your family has the lowest <hint=hint_prestige>prestige</hint> rating among neighbors.",
+  "[hint_mind_caption]\r\nOur king always gets what he wants! All our neighbors envy us!\r\n\r\nReason: The king fulfilled his ambitions.",
+  "[hint_mind_caption]\r\nAfter many years of freedom in the forest, life in the barracks is oppressive!\r\n\r\nReason: A former forest bandit serving in the army.",
+  "[hint_mind_caption]\r\nPeople of my culture are being annihilated! For what?\r\n\r\nReason: Terror against this culture has begun.",
+  "[hint_mind_caption]\r\nOur king understands the art of war! As a true Kaiden, I am proud of him!\r\n\r\nReason: Values of the <hint=hint_culture_gwelts>Kaiden</hint>."
+]

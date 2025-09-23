@@ -1,0 +1,12 @@
+[
+  "Hostage's Loyalty\r\nIndicates how devoted the lord is to your king. Raise it above zero, and then upon release, the hostage will decide to stay with you.\r\n\r\n{optional_loyalty_log}",
+  "Mood\r\nIndicates how happy the character is. With values below <red>25</red>, the lord will refuse to carry out your orders and fall into depression, which can lead to a nervous breakdown.\r\n{optional_mood_reasons}",
+  "Kaiden Values\r\nKaiden will be pleased if their king bravely conducts military actions on the world map.",
+  "Kaiden Xenophobia\r\nFor many centuries, the Varns troubled the empire with raids, while the Kaiden defended it. Echoes of this ancient conflict are preserved in songs and proverbs. Kaiden do not trust the Varns and consider them wild people without honor.\r\n\r\n$ In case of dissatisfaction, Kaiden attack the Varn people.",
+  "Kaiden Traditional Skills\r\nKaiden peasants play with weapons from childhood, which makes them more efficient workers in Weapon Forge, Armor Forge, and Archery Workshop",
+  "Kaiden Knowledge\r\nBooks in the Kaiden language are naturally dedicated to weapons, military art, and loyalty",
+  "Tanaya Values\r\nTanayas will be pleased if their king commits dark deeds, bribes, and seductions on the world map.",
+  "Tanaya Xenophobia\r\nThe greedy babblers of the Makha have strayed from the Holy Mother and, in their pride, spawned heresy that consumed everything the Tanaya had built over the centuries.\r\n\r\n$ In case of dissatisfaction, Tanaya attack the Makha people.",
+  "Tanaya Traditional Skills\r\nPaper production bonuses result from traditionally high rates of literacy among the Tanaya peasants.",
+  "Tanaya Knowledge\r\nBooks in the Tanaya language emphasize the use of intrigue and religion instead of brute force."
+]

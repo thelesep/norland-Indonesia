@@ -1,0 +1,12 @@
+[
+  "~\r\nList of the King's allies:\r\n{list_of_defence_allies}",
+  "~\r\nThe Loving Family and the Matriarch support this king.\r\n\r\n$ Relationship with the Matriarch: <green>{church_im}</green>",
+  "~\r\nThe Loving Family and the Matriarch do not support this king.\r\n\r\n$ Relationship with the Matriarch: <red>{church_der}</red>",
+  "Attack\r\nYou will attempt to catch up with and attack this army.\r\n{optional_stack}",
+  "~\r\nKing {soul_uuid_king_1} from {faction_uuid_1} has sent <hint=hint_resource_gold>{sum}</hint> as aid to King {soul_uuid_king_2} from {faction_uuid_2} in their fight against the Unholy Horde.",
+  "~\r\n<red>Bad news</red>: The Unholy Horde has captured and razed the city {faction_uuid_1} - {soul_uuid_king} has perished, and their House has been destroyed.",
+  "~\r\nKing {soul_uuid_king_1} from {faction_uuid_1} has burned down the city and destroyed the Noble House of {faction_uuid_2} completely. {soul_uuid_king_2} and their family have perished.",
+  "~\r\nLord {soul_uuid_target} from {faction_uuid_target} has died while hunting.",
+  "~\r\nLord {soul_uuid_target} from {faction_uuid_target} has been killed by {soul_uuid_member} from {faction_uuid_member}.",
+  "~\r\nLord {soul_uuid_target} from {faction_uuid_target} has been executed."
+]

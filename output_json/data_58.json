@@ -1,0 +1,12 @@
+[
+  "Building Breakdown\r\nThe squad will break into the building and destroy it.",
+  "Building Arson\r\nThe squad will break into the building and set it on fire. Caution: The fire may spread to neighboring buildings!",
+  "Building Robbery\r\nThe squad will rob the building's storage. The captured valuables can be recovered by enemies upon killing or capturing the squad's warriors.",
+  "Battle\r\nThe squad engages in battle with the enemy. Direct control over the squad is lost until the battle is over.",
+  "Books in inventory\r\n{books}",
+  "Supporter of Power\r\n$ Respects those whose army is more than twice the size of his own.\r\n$ Disdains those whose army is less than half of his own.",
+  "Materialist\r\n$ Has a good attitude toward neighbors who have more than twice as many Holy Rings as him.\r\n$ Has a bad attitude toward neighbors who have less than half as many Holy Rings as him.",
+  "Religious\r\n$ Respects fanatic kings.\r\n$ Dislikes agnostic kings.",
+  "Defender of Order\r\n$ Dislikes kings who tolerate forest bandit camps in their province and those who interact with them.\r\n$ Appreciates those who destroy bandit camps.",
+  "Impressionable\r\n$ Carries twice as much disdain for the enemies of his friends compared to other kings."
+]

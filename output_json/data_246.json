@@ -1,0 +1,12 @@
+[
+  "Free lord is waiting to be hired\r\n[hint_tutorial_free_lord]",
+  "Puppet's Rebellion\r\nThe <hint=hint_encyclopedia_puppets>puppet</hint> will start a rebellion on the orders of their idol, one of your lords.\r\n\r\n<b>Consequences:</b>\r\n{soul_uuid_king}: relations will worsen by {rel_de}",
+  "~\r\n{soul_uuid_puppet} will soon start a rebellion.",
+  "Rebellion Defense\r\n{optional_type_of_danger}\r\n\r\nIt is expected that one of the lords of this settlement will soon rebel. It is believed that this lord is a <hint=hint_encyclopedia_puppets>puppet</hint>, acting on someone else's orders.\r\n\r\nThe ruler {soul_uuid_king} is under threat and requests your support by sending an army. He promises to remember your help in this difficult time.\r\n\r\nSupport for {soul_uuid_king} among warriors: {war_sup}%\r\n\r\nPossible consequences if you support {soul_uuid_king}:\r\n$ If {soul_uuid_king} wins, relations with him: <green>{rel_neigh_improve}</green>\r\n{optional_will_gain_duty_of_honor}\r\n$ If {soul_uuid_heir} wins, relations with him: <red>{rel_neigh_de}</red>\r\n{optional_allyship}\r\n\r\n[hint_unavailable_heir_rebellion_in_ai_town]",
+  "~\r\n<red>Someone has ordered {soul_uuid_heir} to start a rebellion. If he succeeds, the current king {soul_uuid_king} will be overthrown, and {soul_uuid_heir} will take his place.</red>",
+  "Puppet's Rebellion\r\n{optional_type_of_danger}\r\n\r\nOne of the lords will soon start a rebellion and asks for your support by sending an army, promising to be grateful for your help. It is believed that this lord is a <hint=hint_encyclopedia_puppets>puppet</hint>, acting on someone else's orders.\r\n\r\nSupport for {soul_uuid_heir} among warriors: {war_sup}%\r\n\r\nPossible consequences if you support {soul_uuid_heir}:\r\n[optional_relations_heir_rebellion]\r\n\r\n[hint_unavailable_heir_rebellion_in_ai_town]",
+  "Unsuccessful Hunt\r\nThe hunt was terrible... And it's my partner's fault!",
+  "Check Issues\r\nClick the flag with a number in the top-left corner to see the most pressing issues in your settlement.",
+  "Died in Captivity\r\n{soul_uuid_1} was killed by bandits.\r\n{optional_sad_list}",
+  "Hunting\r\n{soul_uuid_1}: <hint=hint_skill_combat>Combat skill</hint>: {skill_1}\r\n\r\n{soul_uuid_2}: <hint=hint_skill_combat>Combat skill</hint>: {skill_2}\r\n\r\nFleshwolf is equivalent in strength to a fighter with a {wolf_level} Combat skill, armed with a <hint=hint_resource_wooden_spear>Spear</hint>.\r\n\r\nChances of a successful hunt: {ver}%"
+]

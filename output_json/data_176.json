@@ -1,0 +1,12 @@
+[
+  "~\r\nI will respect a worthy opponent, even if they suffer defeat! However, those neighbors who do not know how to fight and senselessly ruin their people, I despise!",
+  "~\r\nThe taste of victory is sweet, but it is unknown to you! However, even sweeter to me is my freedom, which I was able to defend with such dignity! I pray you stop your attempts to subdue me to avoid further disgrace!",
+  "~\r\nEveryone strives to be known throughout the land, and you have succeeded in that! Rumors of your cowardice will spread throughout the world, and believe me, I will contribute to it!",
+  "~\r\nAnyone can make threats, but carrying them out requires bravery. However, fate has rewarded you only with cowardice, and rest assured, tomorrow all our neighbors will talk about this gift!",
+  "Awaiting response\r\n{soul_uuid_king} is considering your decision to exit <hint=hint_vassal>vassalage</hint>.\r\n\r\n$ If your suzerain is strong enough, a seige will fall upon your city. If the assault razes your Hall, your bondage will continue.\r\n$ However, if you successfully defend your freedom, you will have secured your independence.\r\n$ The suzerain may choose to grant you freedom without a fight if you are sufficiently strong.\r\n\r\nA response will arrive soon. In the meantime, you can request military assistance from your allies.",
+  "Withdrawal from vassalage\r\nYou announce your desire to challenge and break free from the authority of your suzerain.\r\n{optional_conditions}\r\n\r\nIn any case, this is a violation of the vassal's oath:\r\n{optional_change_relations_with_owner}\r\n$ Relationship with neighbors: <red>{break_vassal_agreement_rel_de_neigh}</red>\r\n{optional_possible_helpers}\r\n\r\n[hint_SENDER]\r\n{optional_duty_of_honor}",
+  "~\r\nYou have challenged the authority of {soul_uuid_king} and will soon receive a response.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>\r\n$ Relationship with neighbors: <red>{break_vassal_agreement_rel_de_neigh}</red>",
+  "~\r\n{soul_uuid_king} has decided to teach you a lesson. The force of your suzerain will fall upon you.\r\nIf you defend your city, you will gain your freedom.",
+  "~\r\n{soul_uuid_king} decided that there are more important matters than putting down an unruly vassal and grants you freedom. \r\n\r\nBut your former master will remember this.\r\n{optional_duty_of_honor_complete}",
+  "~\r\nYou lost the battle, and {soul_uuid_king} remains your suzerain."
+]

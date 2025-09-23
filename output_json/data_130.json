@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nThe Matriarch considers our city righteous... What could be better for the soul of a true Tanayan?\r\n\r\nReason: Values of the <hint=hint_culture_tanaya>Tanaya</hint>.",
+  "[hint_mind_caption]\r\nLiving in the most prestigious city, with envy from neighbors... As a Makha, I can't help but rejoice in this.\r\n\r\nReason: Values of the <hint=hint_culture_makha>Makha</hint>.",
+  "[hint_mind_caption]\r\nSo many people around... The heart of every Varn is filled with joy from this!\r\n\r\nReason: Values of the <hint=hint_culture_voruns>Varns</hint>.",
+  "[hint_mind_caption]\r\nOur army is so small that a bunch of prisoners could defeat it! What a disgrace!\r\n \r\nReason: Values of the <hint=hint_culture_gwelts>Kaiden</hint>.",
+  "[hint_mind_caption]\r\nSo many sinners in this city, that the Matriarch doesn't love us so much? It's very concerning...\r\n\r\nReason: Values of the <hint=hint_culture_tanaya>Tanaya</hint>.",
+  "[hint_mind_caption]\r\nThis is not a city, but a provincial backwater. I'm ashamed to say where I live.\r\n\r\nReason: values of <hint=hint_culture_makha>Makha</hint>",
+  "[hint_mind_caption]\r\nThere are so few of us. Doesn't the king understand where this leads?\r\n\r\nReason: Values of the <hint=hint_culture_voruns>Varns</hint>.",
+  "[hint_mind_caption]\r\nHow can one sleep peacefully when they are in power?\r\n\r\nReason: The ruler belongs to a different culture.",
+  "[hint_mind_caption]\r\nFor freedom!!!",
+  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia."
+]

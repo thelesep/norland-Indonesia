@@ -1,0 +1,12 @@
+[
+  "Insufficient permissions\r\nAs a vassal, you do not have the authority to interact with this object.",
+  "Suzerain's duty\r\nAs a suzerain, you are not allowed to launch attacks on your vassal.",
+  "Too poor relationship\r\n{soul_uuid_king} does not regard you highly enough. Currently, the relationship between your kings is {current_opinion}, but it must be at least {required_opinion}.",
+  "Action not possible\r\nYou cannot perform this aggressive action, as a sacred peace treaty has been established between you, sealed by an oath and guaranteed by the Loving Family.\r\n\r\nNone of the warriors or other inhabitants of Norland would dare to violate the sanctity of the treaty, so as not to incur the wrath of Holy Sophia.",
+  "Out of influence range\r\nThe borders of your province or vassal kingdom must be adjacent to the borders of this object.",
+  "Your opponents are too strong. \r\nYour opponents are too strong, so {soul_uuid_king} does not want to join your alliance.",
+  "You are too weak.\r\nYour army's <hint=hint_army_power>strength</hint> is less than that of this lord's army. He does not respect you.",
+  "Too many guests\r\nYou already have too many guests from this province.",
+  "Fleshwolves around our city\r\nAs long as our city is surrounded by a pack of fleshwolves, no one can enter or leave. \r\nOur army must deal with them, or we will have to wait until the pack disperses.",
+  "Fleshwolves around this city\r\nAs long as this city is surrounded by a pack of fleshwolves, no one can enter or leave.\r\nSomeone's army must deal with them, or we will have to wait until the pack disperses to interact with this province."
+]

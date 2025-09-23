@@ -1,0 +1,12 @@
+[
+  "The ruler cannot be a puppet\r\n{soul_uuid} is a ruller and cannot become a puppet",
+  "A puppet cannot be an idol\r\n{soul_uuid_1} is directly or indirectly a puppet of {soul_uuid_2}, so he cannot be their idol",
+  "A puppet cannot have two idols\r\n{soul_uuid_puppet} already has an idol {soul_uuid_master} and cannot become a puppet of another character.",
+  "Not available\r\n{soul_uuid_1} cannot become a puppet of {soul_uuid_2}\r\n{optional_reason}",
+  "An idol cannot be a puppet\r\n{soul_uuid} is already an idol and cannot be a puppet.",
+  "[hint_mind_caption]\r\nThere are so many people in this city that there’s nowhere to step! And that stench of sewage! Unbearable!\r\n\r\n<b>Hint</b>\r\nThe city’s population exceeds {threshold}, causing issues with hygiene, smell, and cleanliness. As the population grows further, discontent will increase, but this can be offset with alcohol, executions, religion, and other mood-lifting methods.",
+  "Parent\r\nThe character came to visit their child.",
+  "[hint_advisor_caption]  \r\nThe average mood of your peasants has dropped below <red>{gone_tres}</red> for the day, which means they are leaving the city.  \r\n\r\nThere are many ways to improve their mood to attract them back to your settlement.  \r\n\r\n$ Hover over the peasant icon in the top left corner and check their most frequent negative thoughts. Maybe they lack housing?  \r\n$ Hold Joy Sermons of Joy  or increase the number of fanatics by holding Sermons of Faith in the <hint=hint_bld_temple>Temple</hint> (the latter will strengthen the <hint=hint_bishop>Bishop</hint>).  \r\n$ Raise their wages, sell more high-quality alcohol and food, or consider <hint=hint_resource_nectar>Nectar</hint>.  \r\n$ Hold spectacular executions on the <hint=hint_bld_scaffold>Scaffold</hint>. Place the Scaffold near the Tavern to attract more spectators.  \r\n$ Finally, you can initiate a <hint=hint_nt_terror_culture>terror campaign</hint> against the culture disliked by the majority of the population.  \r\n\r\nYou can read more about peasant mood <hint=hint_nt_unhappy>here</hint>.  \r\n",
+  "The library burned down! \r\nAnd along with it, valuable books, including: \r\n\r\n{books_list}",
+  "The library burned down!\r\nMiraculously, not a single book was lost."
+]

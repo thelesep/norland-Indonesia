@@ -1,0 +1,12 @@
+[
+  "Upgrade  \r\n$ Residents of this house will gain the thought <green>{housing_mind}</green>.",
+  "Ultimatum from the bishop\r\nThe bishop is extremely displeased with your king, {soul_uuid_target}, and wants them to be punished. In 1 day, an uprising will occur, and there will be no changing the outcome - unless your king is about to pass the crown to another lord.\r\n\r\nReligious <hint=hint_persons_fanatic>fanatics</hint> will unite into squads that will burn down houses and kill anyone they deem insufficiently devout. Their final target will be {soul_uuid_target}, whom they believe to be responsible for their misfortunes.\r\n\r\n<b>Hint:</b> To cancel the uprising, transfer the crown to {soul_uuid_crown_target}.\r\n{optional_bishop_followers}",
+  "Demolition Impossible  \r\nThe building cannot be demolished while a fire is raging in the city.",
+  "Relocation Impossible  \r\nYou cannot relocate the building while a fire is raging in the city.",
+  "Lords Summary\r\n{events}\r\n$ Right-click (<b>RMB</b>) to close the notification.",
+  "Seduction\r\n{soul_uuid_politic} seduced {soul_uuid_target} to make them their puppet and increase their political influence.\r\n\r\n<b>Hint:</b> The target was ready to fall into the seducer's arms, either because they were lonely or had a poor relationship with their spouse.",
+  "Flattery\r\n{soul_uuid_iniciator} will flatter {soul_uuid_target}. The strength of the flattery depends on the <hint=hint_skill_manners>Manners</hint> skill.\r\n\r\n$ {soul_uuid_iniciator}: Mood {mood_stack_1}, <hint=hint_skill_manners>Manners:</hint> {skill_level_1}\r\n$ Current opinion of {soul_uuid_target} towards {soul_uuid_iniciator}: {rel}\r\n\r\n<b>As a result:</b>\r\n$ {soul_uuid_target} will gain the thought {rel_inc} about {soul_uuid_iniciator}\r\n$ {soul_uuid_iniciator} will gain the thought {moral_de}",
+  "Unavailable\r\nThe ruler is not in a good enough mood to endure the humiliation of flattery.\r\n\r\n$ Current mood of {soul_uuid}: {moral}\r\n$ Required: {moral_min}",
+  "Folowers\r\nFollowers of the king who will support him in case of a rebellion:\r\n{friends}",
+  "Gift to the Idol\r\n<hint=hint_encyclopedia_puppets>Puppet</hint> {soul_uuid_puppet} gave <hint=hint_resource_gold>{gift}</hint> to their idol {soul_uuid_master}"
+]

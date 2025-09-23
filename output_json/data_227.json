@@ -1,0 +1,12 @@
+[
+  "~\r\n$ This desire is an <hint=hint_desire_obsession>obsession</hint>.",
+  "Unavailable\r\nThis ambition has already been fulfilled",
+  "Relatives have worsened the relations\r\nAs a result of events, during which the character {soul_uuid_suffered} suffered, the relatives from their hometown have worsened their attitude towards your King, as they believe he is responsible for the well-being of all his subjects.\r\n\r\nList of relatives:\r\n{relatives_list}",
+  "Manager is not making it in time\r\nThe manager assigned to the Chancellery is not able to reach it in time to issue instructions to the clerks. Most likely, he is also assigned as a manager in other buildings, which leaves him short on time.\r\n\r\nCheck which buildings he is assigned to and cancel those assignments, leaving only the Chancellery, as it requires a full day’s work.\r\n\r\n<b>Hint:</b> Assigning clerks instead of having the lord manager personally visit it will not affect the building’s efficiency",
+  "Unable to move\r\nYou cannot move a building while enemy units are in the city",
+  "New Nickname\r\nDue to a rather obvious penchant for alcohol, character {soul_uuid} has received nickname “{nickname}\".",
+  "New Nickname\r\nDue to a rather obvious penchant for nectar, character {soul_uuid} has received nickname “{nickname}\".",
+  "New Nickname\r\nAs a result of displaying cowardice in battle, character {soul_uuid} has received nickname “{nickname}\".",
+  "New Nickname\r\nAs a result of a series of convincing victories in battle, character {soul_uuid} has received nickname “{nickname}\".",
+  "New Nickname\r\nFor successfully managing buildings for a long time, character {soul_uuid} has received nickname “{nickname}\"."
+]

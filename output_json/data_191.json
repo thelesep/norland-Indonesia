@@ -1,0 +1,12 @@
+[
+  "[hint_DESCRIPTION]\r\n{soul_uuid_hostage} is suffering in captivity and being subjected to torture. No one knows how long they will last.\r\n\r\nBandits are demanding a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.\r\n\r\nBut you can also attempt to free the hostage by force.\r\n\r\n[hint_SENDER]",
+  "Ransom \r\nTo free {soul_uuid_hostage}, you will need to pay a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
+  "~\r\nThe hostage {soul_uuid_hostage} has been <green>freed</green> and will soon return to your city!",
+  "~\r\nThe hostage {soul_uuid_hostage} <red>perished during the assault</red>.",
+  "~\r\nThe hostage {soul_uuid_hostage} <red>died from torture</red> before receiving your help.",
+  "[hint_DESCRIPTION] \r\n{soul_uuid_hostage} is in captivity. The lord could be killed, blinded, or brought to the side of the enemy. No one knows how long they will last. \r\n\r\nThe captors are asking for a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.\r\n\r\nHowever, you can also try to free the hostage by force, attacking the settlement. \r\n\r\n[hint_SENDER]",
+  "Ransom \r\nTo free {soul_uuid_hostage}, you need to pay a ransom of <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
+  "~\r\nThe hostage {soul_uuid_hostage} has been <green>freed</green> and will soon return to your city!",
+  "~\r\nThe hostage {soul_uuid_hostage} <red>died from torture</red> before receiving your help.",
+  "~\r\nThe hostage {soul_uuid_hostage} <red>perished during the assault</red>."
+]

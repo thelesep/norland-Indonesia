@@ -1,0 +1,12 @@
+[
+  "~\r\nIn any case, this is an aggressive action:\r\n$ Relationship with {soul_uuid_king}: <red>{demand_tribute_rel_de}</red> and you may become <hint=hint_faction_relations_enemy>enemies</hint>.",
+  "Politely demand tribute\r\nInform {soul_uuid_king} that you expect from them <hint=hint_resource_gold>{tribute_money}</hint> in exchange for your good relationship.\r\n\r\n{optional_change_relations_with_owner}\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]\r\n{optional_duty_of_honor}",
+  "~\r\n$ {soul_uuid_king} is offended, but sends <hint=hint_resource_gold>{tribute_money}</hint>.\r\n{optional_changed_relations_with_owner}\r\n{optional_holy_defence_will_removed}\r\n{optional_duty_of_honor_complete}",
+  "~\r\n$ {soul_uuid_king} responds that your demand is deeply offensive.\r\n$ Your relationship has worsened to <red>{demand_tribute_rel_de}</red>.\r\n{optional_holy_defence_will_removed}",
+  "~\r\nOnly the wicked take everything, leaving children and the elderly without bread. But fate is like the bones cast by the Holy Mother. The day will come when you lose everything, and they will congratulate me on victory!",
+  "~\r\nBelittling a neighbor brings little benefit, and you may not realize this now. But my memory never erases insults, and to exact revenge on the likes of you brings me sheer pleasure.",
+  "~\r\nDo you think you can intimidate me? My ascension to the throne was no accident, unlike yours. Come, then, try and take my gold!",
+  "~\r\nIn your dreams, you hear the jingle of coins - wake up! The only thing you'll see in reality is my sword, you cowardly wretch!",
+  "Threat of plunder\r\nChallenge the enemy and claim rights to all of their treasury. If they refuse to pay within two days, you will have the right to plunder the city and seize the treasury by force.\r\n\r\nSince you are in <hint=hint_faction_relations_enemy>hostile</hint> relations with the king of this settlement, such an attack will be viewed calmly by the neighbors.\r\n\r\n$ Plunder possible: <hint=hint_resource_gold>{town_money}</hint>\r\n$ Relationship with {soul_uuid_king}: <red>{assault_fair_rel_de}</red>\r\n{optional_attack_on_vassal_or_ally}\r\n{optional_possible_helpers_against_player}\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]",
+  "~\r\n$ {soul_uuid_king} is offended but sends <hint=hint_resource_gold>{tribute_money}</hint>.\r\n{optional_attack_on_vassal_or_ally}"
+]

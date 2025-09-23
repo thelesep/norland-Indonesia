@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\n{name} is my sworn <hint=hint_enemy>enemy</hint>! I hate you!",
+  "[hint_mind_caption]\r\nIs there really no bed and roof over my head to be found in this town?",
+  "[hint_mind_caption]\r\nThat fleshwolf didn't stand a chance against a hunter like me!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nI can't move! I hope someone takes care of me!",
+  "[hint_mind_caption]\r\nDo I look like a peasant? It's so demeaning! I need at least <hint=hint_resource_rune>5</hint>!\r\n\r\n<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy Rings</hint>, they start suffering from a sense of poverty. On the other hand, if they have 15 or, even better, more than 25 Holy Rings, their social status is elevated, which pleases them.",
+  "[hint_mind_caption]\r\nMy <hint=hint_resource_rune>Holy Rings</hint> are running out... Do I not deserve respect?\r\n\r\n<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy Rings</hint>, they start to suffer from awareness of poverty. On the other hand, if they have 15 or, even better, more than 25 Sacred rings, their social status increases, which pleases them.",
+  "[hint_mind_caption]\r\nIt seems I've accumulated quite a few <hint=hint_resource_rune>Holy rings</hint>. Not bad, not bad...\r\n\r\n<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy rings</hint>, they start to suffer from awareness of poverty. On the other hand, if they have 15 or, even better, more than 25 Holy rings, their social status increases, which pleases them.",
+  "[hint_mind_caption]\r\nWealth... Such a wonderful feeling!\r\n\r\n<b>Hint:</b> If a character has less than 5 <hint=hint_resource_rune>Holy rings</hint>, they begin to suffer from a realization of poverty. On the other hand, if they have 15 or, even better, more than 25 Holy rings, their social status increases, which pleases them.",
+  "[hint_mind_caption]\r\nThis feeling of hope for unity with Mother Sophia! <hint=hint_sermon_usual_preach>The Sermon of Joy</hint> is so uplifting!\r\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\r\nIt's really time for me to rest.\r\n\r\nReason: <hint=hint_need_sleep>Need for sleep</hint>."
+]

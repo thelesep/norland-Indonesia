@@ -1,0 +1,12 @@
+[
+  "~\r\nThis town had its <red>village burned</red>, and the supply of the resources it produced has been <red>reduced by half.</red>",
+  "Trade impossible \r\nThis town had <red>both its villages burned</red> - trade demand has been <red>reduced to zero</red>. Wait until at least one village of {faction_uuid} is rebuilt.",
+  "City buys: {offer_resource_name}\r\n[hint_trade_agreement_demand_generic]\r\n\r\nThe price has been adjusted by {price_penalty} due to the difference in  {skill_name} skill between the trading parties. \r\n$ {soul_uuid_performer} (level {performer_skill_level}) \r\n$ {soul_uuid_trader} (level {trader_skill_level})\r\n\r\n{optional_holy_family_prices}\r\n{optional_paper_prices}\r\n{optional_trading_volumes_reduced}\r\n[hint_SENDER]",
+  "City sells: {offer_resource_name}\r\n[hint_trade_agreement_offer_generic]\r\n\r\nThe price has been adjusted by {price_penalty} due to the difference in  {skill_name} skill between the trading parties. \r\n$ {soul_uuid_performer} (level {performer_skill_level})\r\n$ {soul_uuid_trader} (level {trader_skill_level})\r\n\r\n{optional_holy_family_prices}\r\n{optional_paper_prices}\r\n{optional_trading_volumes_reduced}\r\n[hint_SENDER]",
+  "Unable to select\r\nNo actions can be performed on this character.",
+  "Lord not in town\r\nClick to go to the lord's location.",
+  "Too poor relationship\r\n[hint_unavailable_bad_opinion]\r\n\r\nThe required relationship threshold is higher because your relationship with the suzerain or leader of the alliance {soul_uuid_leader} from {faction_uuid_leader}, of which {faction_uuid} is a member, is too poor.\r\n\r\n<b>Hint:</b> You can establish permanent trade contracts regardless of relations if you and your trade partners are part of the <b>free cities alliance</b> (this does not apply to vassal kingdoms).",
+  "The king is out of town.\r\nKing {soul_uuid} is currently visiting {faction_uuid} city.\r\n\r\nHe will presumably be home in {remain_time}.",
+  "~\r\n* {soul_uuid_trader} is infatuated with {soul_uuid_performer} (relationship above <green>100</green>) and <green>is willing to offer a significant discount.</green>",
+  "~\r\n* <b>Hint</b> If {soul_uuid_trader} were infatuated with {soul_uuid_performer} (relationship above <green>100</green>), they could offer a large discount."
+]

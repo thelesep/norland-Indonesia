@@ -1,0 +1,12 @@
+[
+  "Move\r\nMove the building to a new location.",
+  "Suspend work\r\nWork in the building will be halted, warehouses will be cleared, and workers will move to other productions.",
+  "Appoint a manager.\r\nAppoint a building manager who will start the work.",
+  "Sermon\r\nAppoint a lord as a preacher and choose a sermon.",
+  "Build with Priority\r\nBuilders will prioritize constructing this building.",
+  "Pause Construction\r\nSuspend construction until further instructions.",
+  "Resume Construction\r\nWorkers will return to building the structure.",
+  "Cancel Construction\r\nBuilding construction will be canceled, and resources already allocated for construction will be returned to the warehouse.",
+  "Low Loyalty\r\nLow loyalty (below 25) can lead a character to leave for another noble house or, if they are an heir, start a rebellion.\r\n\r\nLoyalty is displayed in the Character menu (crown icon). Hover over the loyalty number next to the crown to find out why and how it has changed recently.\r\n\r\n<b>HINT:</b> You can quickly raise loyalty by rewarding a lord or by using threats (king's actions).",
+  "Repair\r\nRestore the functionality of the building."
+]

@@ -1,0 +1,12 @@
+[
+  "The danger is behind us\r\n{village_name} is now safe, as the enemy has changed their plans and is no longer going to attack it. Your troops are on their way home.",
+  "[hint_mind_caption]\r\nI know that Mother Sophia welcomes everyone into her embrace, but it's so sad when those who we loved are no longer with us!\r\n\r\n{name}, I will always remember you!",
+  "[hint_mind_caption]\r\nMay the flame of the candle I lit at your grave ease the pain of loss!\r\n\r\n{name}, I will always remember you!",
+  "Grave\r\nThe grave of a deceased lord with a memorial tombstone.\r\n\r\nFor those who were close with the deceased, visiting the grave helps them cope with sad memories.",
+  "Impossible to demolish\r\nA building cannot be demolished while it's on fire",
+  "Impossible to demolish\r\nA building cannot be demolished while there are enemies in town",
+  "[hint_mind_caption]\r\nIt feels so good, to visit the grave of my enemy and experience that joy once again!",
+  "This action is impossible\r\nYou cannot perform this action while your army is in this town",
+  "Unavailable\r\nTo maintain the health of global trade, the Loving Family blesses you with the ability to conclude only {max_count} trade agreements.",
+  "Go on a Journey\r\nThe lord has never gone beyond the borders of your province and is very eager to know how people live in other places.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled if you send the character to another city on the world map.\r\n\r\n[hint_its_a_dream]"
+]

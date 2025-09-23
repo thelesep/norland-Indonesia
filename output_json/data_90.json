@@ -1,0 +1,12 @@
+[
+  "Crimes\r\nThe character has committed the following <hint=hint_crime>crimes</hint>:\r\n{list}\r\n\r\nEvidence will be lost in: {time}",
+  "Attempted poisoning\r\nThe character attempted to poison another person, but failed.\r\n\r\nVictim: {soul_uuid_victim}",
+  "Burglary attempt\r\nThe character attempted to break into someone's house to steal valuables.\r\n\r\nVictim: {soul_uuid_victim}",
+  "Lord's attack\r\nThe character attacked one of the members of your noble family.\r\n\r\nVictim: {soul_uuid_victim}",
+  "Killing in a brawl\r\nThe character lost control in the heat of the moment.\r\n\r\nVictim: {soul_uuid_victim}",
+  "Brawl with the ruler\r\nThe figure of the monarch is inviolable.\r\n\r\nVictim: {soul_uuid_victim}",
+  "Murder\r\nConsciously took someone's life.\r\n\r\nVictim: {soul_uuid_victim}",
+  "Lord's murder\r\nBrutally\r\n\r\nVictim: {soul_uuid_victim}",
+  "Night assassination\r\nThe character broke into the victim's house at night to kill them.\r\n\r\nVictim: {soul_uuid_victim}",
+  "[hint_night_murder]"
+]

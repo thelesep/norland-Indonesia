@@ -1,0 +1,12 @@
+[
+  "Deadly Enmity\r\nRelationships that are <red>-50</red> and below.\r\n\r\nIn addition to other hostile actions, this means the possibility of <hint=hint_agression>surprise attacks</hint>.",
+  "Enmity\r\nRelationships that range from <red>-25</red> to <red>-50</red>\r\n\r\nSignifies potential for armed military actions against each other's villages and cities, attempts at subjugation through vassalage, blackmail, assassinations, and abductions.\r\n\r\nDue to the status of enmity, these hostile actions will not be condemned by other neighbors or the Matriarch.",
+  "Hostility\r\nRelationships that range from <red>-15</red> to <red>-25</red>.\r\n\r\nHostile neighbors begin to carry out intrigues against you. They can bribe your lords, hire your <hint=hint_persons_cuthroat>cutthroats</hint> for robberies or abductions, and more. Aggressive demands are also possible, but there are no combat actions yet, as this is not yet a war.",
+  "Neutral\r\nTypical relations between neighbors. Some actions are available, while others are not.",
+  "Sympathy\r\nNot quite friendship, but some actions like trade contracts, marriage proposals, and alliance invitations gradually become available.",
+  "Friendship\r\nRelationships that range from <green>25</green> and above. Friendships open up additional interaction possibilities, such as the ability to invite lords for visits.",
+  "No Orders\r\nThe squad currently does not have any orders.",
+  "Movement\r\nThe squad is moving toward the specified location.",
+  "Attack Target\r\nThe squad will pursue the target and engage in combat when it gets closer.",
+  "Preparation for Attack\r\nThe squad is preparing for an attack on the city."
+]

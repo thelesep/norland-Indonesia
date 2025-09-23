@@ -1,0 +1,12 @@
+[
+  "Knowledge Menu\r\nThe Knowledge menu displays the <hint=hint_idea>knowledge</hint> available to your noble house. It can be found in <hint=hint_book>Books</hint> or in the minds of lords.\r\n\r\n<img=hint_knowledge_menu></img>\r\n\r\n$ To apply knowledge contained in your books, such as unlocking the ability to construct a new building, the book must be read by a lord. Assign a lord to study the knowledge for this purpose.\r\n$ Here, you can also transcribe or create new books. To do this, the lord must possess the knowledge. (Their portrait will be displayed on the knowledge card.)\r\n$ New books can be purchased from the <hint=hint_holy_caravan>Holy Caravan</hint> or acquired from neighboring factions.",
+  "Book\r\nEnables the production of {resource_name} in {building_name}.",
+  "Knowledge\r\nAllows the upgrade of {building_name} to levels 4 and 5, which will create additional job opportunities.",
+  "Technology\r\nAllows the upgrade of {building_name} to include a softer bed that provides a positive <hint=hint_thought>thought</hint> after sleep and enhanced protection against intrusions by <hint=hint_persons_criminal>vagabonds</hint>.",
+  "Technology\r\nIncreases the quantity of resources produced in the building by {ef_prod}%.",
+  "Technology\r\nReduces the amount of <hint=hint_resource_wood>Wood</hint> required for fertilizing the soil of fields by {soil_down_percentage}%.",
+  "Technology\r\nIncreases the amount of <hint=hint_resource_wood>Wood</hint> extracted from a single tree by {more_wood_percentage}%. This helps reduce the level of deforestation.",
+  "Technology\r\nReduces the probability of plant death in fields by {plant_survive_percentage}%.",
+  "Technology\r\nReduces the amount of food required for pigs by {pigs_feed_down_percentage}%.\r\n",
+  "Technology\r\nReduces the consumption of <hint=hint_resource_instruments>Tools</hint> when repairing buildings by {tools_down_percentage}%."
+]

@@ -1,0 +1,12 @@
+[
+  "[hint_mind_caption]\r\nI need to find some entertainment...\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
+  "[hint_mind_caption]\r\nEverything is so tiresome. I urgently need to relax!\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
+  "[hint_mind_caption]\r\nHoly Mother Sophia, bless me! Holy Mother Sophia, protect me!\r\n\r\nReason: fully fulfilled <hint=hint_need_piety>Need for piety</hint>.",
+  "[hint_mind_caption]\r\nMother Sophia loves me!\r\n\r\nReason: fulfilled <hint=hint_need_piety>Need for piety</hint>.",
+  "[hint_mind_caption]\r\nI haven't been to confession in a while... I need to repent!\r\n\r\nReason: <hint=hint_need_piety>Need for piety</hint>.",
+  "[hint_mind_caption]\r\nHoly Mother Sophia, forgive me for my sins!\r\n\r\nReason: <hint=hint_need_piety>Need for piety</hint>.\r\n\r\n<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone.",
+  "[hint_mind_caption]\r\nHoly Mother Sophia, forgive me for my sins!\r\n\r\nReason: <hint=hint_need_piety>Need for piety</hint>.\r\n\r\n<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone.",
+  "[hint_mind_caption]\r\nI haven't felt human warmth in a long time...\r\n\r\nReason: <hint=hint_need_sex>Need for sex</hint>.",
+  "[hint_mind_caption]\r\nI want sex. Yes, I want sex!\r\n\r\nReason: <hint=hint_need_sex>Need for sex</hint>.",
+  "[hint_mind_caption]\r\nAnyone will do! I can't take it anymore!\r\n\r\nReason: <hint=hint_need_sex>Need for sex</hint>."
+]

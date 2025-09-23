@@ -1,0 +1,12 @@
+[
+  "Scaffold\r\n[hint_bld_scafod]",
+  "Vagabonds\r\n[hint_persons_criminal]",
+  "Lords\r\nYou manage a family of lords who live in this city (red clothes). Their portraits are shown at the top.\r\n\r\n<img=hint_tut_3></img>\r\n\r\n$ You can give your lords <hint=hint_action>tasks</hint> by assigning them through the ACTION or INSTRUCTIONS button in the Character and Building menus, respectively.\r\n$ Lords will <b>not</b> perform your tasks if they are <hint=hint_unhappy>unhappy</hint>. Check their <hint=hint_thought>thoughts</hint> and <hint=hint_desire>desires</hint> to maintain their mood.\r\n\r\n<b>Hint:</b> One lord can be appointed to manage multiple buildings.",
+  "Peasants\r\n[hint_persons_peasant]",
+  "Bishop\r\n[hint_bishop]",
+  "Guest\r\nYour city often receives visitors from neighboring cities.\r\n\r\n<img=hint_tutorial_guest></img>\r\n\r\n$ Usually, guests have different plans during their visit: some just want to socialize and play dice, some seek sexual adventures, and some want to bribe your lords, turn them against each other, or even kidnap one of them.\r\n$ If a neighboring king comes, this is a good chance to improve relations between your rulers.\r\n$ Find out how you can interact with them by looking at the options in their Character menu.\r\n$ Guests can give also lessons.",
+  "Prisoners\r\n[hint_persons_slave]",
+  "Сutthroats\r\n[hint_persons_cuthroat]",
+  "Freelance Lord\r\nLords who left or were disowned from their family and did not join another. They arrive with the <hint=hint_holy_caravan>Holy Caravans</hint> and can be hired with <hint=hint_resource_gold>gold</hint>.\r\n\r\n<img=hint_tutorial_free_lord></img>\r\n\r\n$ The contract will last for 10 days, after which <b>the lord will leave</b>.\r\n$ Freelance lords can be assigned any tasks - teaching, going on campaigns against bandits, managing buildings, facilitating trade, and more.\r\n$ He can be invited into your family and granted a <hint=hint_title>title.</hint>.",
+  "Fanatics\r\n[hint_persons_fanatic]"
+]

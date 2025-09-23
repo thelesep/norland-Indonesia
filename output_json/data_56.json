@@ -1,0 +1,12 @@
+[
+  "Assign Varns\r\nAppoint workers from among the <hint=hint_culture_voruns>varn</hint> population.\r\n\r\nTheir traditional skills allow them to work in agriculture 20% more efficiently.\r\n\r\n[hint_priority_workers]",
+  "Daily inspection\r\nThe lord will conduct inspections every day.",
+  "Any lord\r\nIf the inspection has ended (but the lord is still appointed), it is carried out first by the clerk from the Chancellery, and then, if possible, by any other lord with the minimum number of inspections.",
+  "No lord's Hall\r\nTo construct other buildings, you need to first build a Hall for your lords.",
+  "Administration\r\nThe clerk from the <hint=hint_bld_chancellery>Chancellery</hint> will distribute instructions to workers.\r\n\r\n{bonus_info}\r\n\r\nThe Chancellery serves the production: {number} / {limit}",
+  "Unavailable\r\nAll clerks are busy or the chancelleries are not working.",
+  "Any chancellery\r\nThe building will be able to inspect any <hint=hint_bld_chancellery>Chancellery</hint> at the first opportunity.",
+  "Action unavailable\r\nNo actors available for this action.",
+  "The squad has returned\r\nLoot:\r\n{loot}",
+  "Loot\r\nFrom {faction_uuid}\r\n{loot}"
+]

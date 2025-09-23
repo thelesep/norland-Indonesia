@@ -1,0 +1,12 @@
+[
+  "Makha Values\r\nMakha will be pleased if the king makes trade contracts with neighbors.",
+  "Makha Xenophobia\r\nTanayas are hypocrites and schemers, just waiting for a moment to stab someone in the back. Tanayas are responsible for the near-extinction of the fire of civilization that was once ignited by the Makha.\r\n\r\n$ In case of dissatisfaction, Makha attack the Tanaya people.",
+  "Traditional Skills of Makha\r\nFor many centuries, the Makha have been honestly creating the best tools and potions in Norland, and their family secrets make them excellent workers in the Workshop, Brewery, and Alchemy.",
+  "Makha Knowledge\r\nMany books on intellectual development, trade, special handling of nectar, and the recipe for their famous ale are written in the Makha language.",
+  "Varn Values\r\nVarns will be pleased if the king does not attack foreign towns and villages for a long time.",
+  "Varn Xenophobia\r\nOnce brethren to the Varn, Kaiden sold their old gods for imperial gold and trinkets and expelled the Varn from the land of their ancestors.\r\n\r\n$ In case of dissatisfaction, Varns attack Kaiden people.",
+  "Traditional Skills of the Varn\r\nThe Varn know how to interact with nature so that its fruits bring a lot of tasty food. Growing traditional rutabagas, gathering forest herbs, and pig farming have been familiar to them since childhood.",
+  "Varns Knowledge\r\nKnowledge in the Varns language is dedicated to the topics of cooking, farming, resource gathering, and longevity.",
+  "Daytime Patrol\r\nMarks the area of daytime <hint=hint_persons_guard>patrolling</hint>.\r\n\r\nPosition patrol banners near production sites where prisoners work to prevent their escape, as well as places where lumberjacks and herbalists work to protect them from fleshwolf attacks.\r\n\r\nGuards from among your warriors will automatically go on patrol during <b>daytime</b>.",
+  "They brought tribute\r\nThe village chief of {village_name} has brought tribute. He will now deliver it to your warehouse.\r\n{optional_resources}"
+]

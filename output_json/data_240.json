@@ -1,0 +1,12 @@
+[
+  "Donate Flour\r\nDonate <hint=hint_resource_food>{count}</hint> to the holy pilgrims so they may continue their pious journey.\r\n\r\n$ <hint=hint_relations_matriarch>Matriarch’s</hint> relationship: <green>+{mat_inc}</green>\r\n$ The pilgrims will leave your province earlier than usual.",
+  "Donate Rutabaga\r\nDonate <hint=hint_resource_rutabaga>{count}</hint> to the holy pilgrims so they may continue their pious journey.\r\n\r\n$ <hint=hint_relations_matriarch>Matriarch’s</hint> relationship: <green>+{mat_inc}</green>\r\n$ The pilgrims will leave your province earlier than usual.",
+  "Donate Flour\r\n<red>Unavailable.</red>\r\n\r\nYou need <hint=hint_resource_food>{count}</hint> in storage.",
+  "Donate Rutabaga\r\n<red>Unavailable.</red>\r\n\r\nYou need <hint=hint_resource_rutabaga>{count}</hint> in storage.",
+  "Knowledge is lost\r\nAs a result of recent losses among the lords, the following knowledge has been erased from collective memory:\r\n\r\n{lost_list}",
+  "[hint_advisor_caption]\r\nAs a result of recent losses among the lords, there is no one left who has the following <hint=hint_idea>knowledge</hint>:\r\n\r\n{lost_list}\r\n\r\nIf you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory.\r\n\r\nCheck the Knowledge menu to see the details.",
+  "Knowledge at risk\r\nIf you still have books with this knowledge, now is the time to let other lords study them, as in a few days this knowledge will vanish from collective memory.",
+  "Reward for Kindness\r\nThe merchant explains: “A stranger asked me to give you this gold. He said it’s as a token of gratitude.””",
+  "Unavailable\r\nA lesser lord can only be offered to the church by the ruler of the land where this lord was born.\r\n\r\nThe church does not consider such a sacrifice from other rulers to be significant.",
+  "Bribe for an Attack\r\nPay bandits to attack a town (if possible) or villages in the province {faction_uuid_target}.\r\n\r\nAdditional bandits will be hired: {pop_increase}\r\n\r\n<b>Cost</b>: <hint=hint_resource_gold>{price}</hint>\r\n\r\n<b>Consequences</b>:\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}\r\n\r\n[hint_SENDER]"
+]

@@ -1,0 +1,12 @@
+[
+  "Order an assassination\r\n[hint_bandits_description]\r\n{optional_holy_defence_will_removed}",
+  "The assassination was successful!\r\n{soul_uuid_assassinate_target} was stabbed to death in their own bed at night.",
+  "The assassination has failed\r\n{soul_uuid_assassinate_target} managed to defend themselves against the hired assassins, and all of them were killed.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_assassinate}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>\r\n{optional_holy_defence_will_removed}",
+  "Kidnapping a lord\r\nHire local cutthroats to kidnap the selected character and bring them to your settlement.\r\n\r\n$ If successful, the character becomes a captive and will be delivered to your settlement.\r\n\r\nIn case of failure:\r\n$ Relations with {soul_uuid_king}: <red>{rel_de_kidnap}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_neigh_kidnap}</red>\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]",
+  "Ordering a kidnapping\r\n[hint_bandits_description]\r\n{optional_holy_defence_will_removed}",
+  "The kidnapping was successful!\r\n{soul_uuid_kidnap_target} has been captured and will soon be delivered to your settlement.",
+  "The kidnapping attempt has failed\r\n{soul_uuid_kidnap_target} defended themselves against the hired cutthroats, and all of them were killed.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_kidnap}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>\r\n{optional_holy_defence_will_removed}",
+  "Hall robbery\r\nHire cutthroats to rob the local treasury and bring you <hint=hint_resource_gold>Gold</hint>.\r\n\r\nIn case of failure:\r\n$ Relations with {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_gold_stealer_neigh}</red>\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]",
+  "Ordering a Hall robbery\r\n[hint_bandits_description]\r\n\r\n$ The cutthroats will deliver <hint=hint_resource_gold>{robbery_money}</hint>.\r\n{optional_holy_defence_will_removed}",
+  "Nothing to rob \r\nThere is too little gold in the city to rob."
+]

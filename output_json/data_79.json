@@ -1,0 +1,12 @@
+[
+  "External Trade\r\nThe balance of trade with your neighbors on the world map.",
+  "Trade with the Holy Caravan\r\nThe balance of trade with the Holy Caravan.",
+  "Lords\r\n\r\n{details_stack}",
+  "Peasants\r\n\r\n{details_stack}",
+  "Prisoners\r\n\r\n{details_stack}",
+  "Warriors\r\n\r\n{details_stack}",
+  "Vagabonds\r\n\r\n{details_stack}",
+  "Terror is getting out of control\r\nDuring the ongoing terror, all vagabonds and unemployed peasants have been punished. If you do not stop it, the executioners will begin punishing ordinary peasants.\r\n\r\nTo stop the terror, find the <hint=hint_bld_scafod>Scaffold</hint> where this mode is enabled.",
+  "It is impossible to continue\r\nRuler {name} must be an adult - at least {age_adult} years old.\r\n\r\nTo raise his age, increase his skill level.",
+  "No equipment\r\n{soul_uuid} lacks any weapon or armor. According to the sacred rules of dueling, both opponents must be properly equipped."
+]

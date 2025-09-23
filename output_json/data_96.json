@@ -1,0 +1,12 @@
+[
+  "Gay\r\nFalls in love with people of their own gender.",
+  "Savant\r\nHas very high proficiency in one or two skills, but they cannot be trained further.",
+  "Bald\r\n-20 to <hint=hint_interest>interest</hint>.",
+  "Childhood\r\nThe quality of a character's childhood is determined by the number of happy or unhappy days in the character's life before they turn {age_adult}.",
+  "~\r\nReason: unhappy <hint=hint_childhood_desc>childhood</hint>.",
+  "~\r\nReason: happy <hint=hint_childhood_desc>childhood</hint>.",
+  "~\r\n\r\nReason: inherited from parent {parent}",
+  "Nervous\r\nAll <hint=hint_tantrum>nervous breakdowns</hint> are severe.",
+  "Calm\r\nAll <hint=hint_tantrum>nervous breakdowns</hint> are light.",
+  "Resistance to addictions\r\nThe likelihood of developing addictions is reduced."
+]

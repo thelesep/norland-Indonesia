@@ -1,0 +1,12 @@
+[
+  "Desire for the Killer's Punishment\r\nThe character knows that {soul_uuid_target} is a killer and they want them to be punished.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nYou can help fulfill this desire in various ways:\r\n$ The King can execute, blind, or exile the criminal.\r\n$ Or simply wait for the character to solve the matter on their own.\r\n\r\n[hint_its_a_obsession]",
+  "Desire for the Sinner's Salvation\r\nThe bishop believes that {soul_uuid_target} is an incorrigible <hint=hint_sin>sinner</hint> and should be <hint=hint_punishment_blindness>blinded</hint> so they couldn't continue to sin so much.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n[hint_its_a_obsession]",
+  "Need for More Temples\r\nThe Bishop considers the situation where not all of Sophia's children can listen to the sermons unacceptable.\r\nTemples needed: {count}\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n[hint_its_a_obsession]",
+  "Help has already arrived\r\nYour army has already arrived in the city and is ready to defend it.",
+  "Loyalty is too low\r\nThe captive's loyalty must become positive; only then will they be ready to join your noble family.",
+  "~\r\n<red>An unknown threat looms over this city.</red>",
+  "~\r\nAfter the recent events, {soul_uuid_king} has been weakened, and now scouts report that a group of <hint=hint_person_maroders>marauders</hint> is moving toward his city.",
+  "~\r\n<red>The hatred between neighboring kings has escalated too far, and now {soul_uuid_king_s} intends to burn {faction_uuid} to the ground.</red>",
+  "~\r\n<red><hint=hint_persons_forest_bandits>The forest bandits</hint> in the province have become so audacious that they are planning to plunder the city.</red>",
+  "~\r\n<red>A strong band of <hint=hint_person_maroders>marauders</hint> is moving toward the city to plunder it.</red>"
+]

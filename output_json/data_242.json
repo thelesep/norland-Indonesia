@@ -1,0 +1,12 @@
+[
+  "Order to the Squad\r\nThis action is only possible with a selected squad.\r\n\r\nAssign the squad a location to move to or an enemy to attack (by clicking on the enemy banner).",
+  "The incognito has left the province\r\nThe character has left your province. Most likely, their story is not over, and you will hear about them again…",
+  "Technology\r\nTrade slang and the use of intermediaries will allow you to reduce the church tax on trade contracts by {percent}%",
+  "Technology\r\nThe skill of selling goods to those who don’t really need them ensures an increase in <hint=hint_market_volume>local demand</hint> for all goods by {perc}%.",
+  "Technology\r\nMore compact writing reduces the use of <hint=hint_resource_paper>Paper</hint> by {perc}% when creating books.",
+  "Technology\r\nA theological treatise explaining how the grace of Mother Sophia can be revealed to earthly rulers.\r\n\r\nBy the grace of the Church, your king will be able to receive a holy <hint=hint_action_task_canonization>Blessing</hint> (requires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>).",
+  "Technology\r\nA set of arguments that convinces the Church to grant <hint=hint_holy_protection>the protection of the Loving Family</hint> (usually reserved for young noble houses) to your province for a limited number of days.\r\n\r\nRequires good relations with the <hint=hint_relations_matriarch>Matriarch</hint>.",
+  "Technology\r\nWhile divorce is not approved by the Loving Family and usually requires very good <hint=hint_relations_matriarch>relations with the Matriarch</hint>, this knowledge will lower the requirements, convincingly proving the necessity of divorce in exceptional cases.",
+  "Technology\r\nAn ancient rite of repentance for the sin of hatred that grants absolution to the seeker. The rite allows the <hint=hint_bishop>Bishop</hint> to reconcile the chosen lord with all their enemies.\r\n\r\nRequires good relations between this lord and the Bishop and costs <hint=hint_resource_gold>{price}</hint>.",
+  "Technology\r\nA description of a special Kaiden rite that allows removing all negative traits and thoughts from a bandit when recruiting them into the army."
+]

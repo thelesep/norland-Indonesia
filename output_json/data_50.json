@@ -1,0 +1,12 @@
+[
+  "Technology\r\nReturns {return}% of the resources saved during production at the end of the day.",
+  "Technology\r\nPrevents the building from breaking down.",
+  "Technology\r\nPrevents the building from catching fire.",
+  "Technology\r\nEliminates accidents and illnesses in the workplace.",
+  "Technology\r\nSpeeds up the construction of all buildings by {building_speed_down_percentage}%.",
+  "Technology\r\nReduces the consumption of <hint=hint_resource_wood>Wood</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
+  "Technology\r\nReduces the consumption of <hint=hint_resource_iron>Iron</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
+  "Technology\r\nWhen learned, grants {number} experience in skill {skill_name}.",
+  "New Book\r\nA new book has been written. Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see the result.",
+  "New Knowledge\r\nNew knowledge has been learned! Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see which features are now available."
+]

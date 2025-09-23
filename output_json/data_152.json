@@ -1,0 +1,12 @@
+[
+  "~\r\n$ You have paid {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\r\n$ Your relationship has improved by <green>{rel_imp}</green>.",
+  "~\r\nYou didn't pay {soul_uuid_king}, which offended him.\r\n\r\n$ Your relationship has deteriorated by <red>{rel_de}</red>.\r\n$ {soul_uuid_king} gathers an army and marches on your city to plunder it.",
+  "~\r\nYou didn't pay {soul_uuid_king}, which offended him.\r\n\r\n$ Your relationship has deteriorated by <red>{rel_de}</red>.\r\n$ {soul_uuid_king} has soberly assessed his chances and will not attack you. Not for now.",
+  "~\r\nDespicable is the one whose army is weaker than an infant, but even lower stands the one whose treasury is empty in addition. Be thankful that you're not among the latter. I hope you'll continue to pay me promptly in the future.",
+  "~\r\nIt is clear to all that the training and maintenance of a courageous army is not a priority in your leadership. However, the weak often have a chance to compensate for this oversight with wealth. I hope that in the future, Holy Sophia will favor your purse.",
+  "~\r\nYour foolishness verges on madness if you believe I will ignore your failure to pay tribute. It is my money, and I will come to collect it when I see fit.",
+  "~\r\nYou may used to dealing with rulers who are cowards just like you, afraid of conflict and slow to enforce the terms of their agreements. But I will make you pay tribute. Right now, more important matters await me, but I will come for my gold. I promise!",
+  "~\r\nMy tribute is not burdensome for those who govern their kingdom wisely. But it seems you either cannot manage or, worse yet, you seek to deceive me. The only recourse left for me is to wield my strength to reclaim what rightfully belongs to me. Prepare for battle!",
+  "~\r\nIt appears you do not value the lives of your subjects; otherwise, you would have paid me tribute. Well, if that's your choice, here I come!",
+  "~\r\n$ Your relationship has deteriorated by <red>{demand_tribute_rel_de}</red>."
+]

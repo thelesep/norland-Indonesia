@@ -1,0 +1,12 @@
+[
+  "Dead\r\nRest in peace.",
+  "Mortal wound\r\nNo chance of survival.",
+  "Leprosy\r\nThe causes of its occurrence are unclear, but the disease is not contagious.\r\n\r\nIt is characterized by horrific <hint=hint_scars>scars</hint> on the face.",
+  "Pain shock\r\nThe character lost consciousness after a serious injury.\r\n\r\nWill regain consciousness in: {time}",
+  "Intoxication\r\nThe character has consumed alcohol and is in high spirits. However, if they <hint=hint_unhappy>are unhappy</hint>, they may fall into a drinking binge, leading to poisoning, an increased chance of starting a drunken fight, and ultimately losing consciousness.\r\n\r\nWill pass in: {time}",
+  "Intoxication from Nectar\r\nThe character is under the effect of <hint=hint_resource_nectar>Nectar</hint>.\r\n\r\n[hint_nectar_action]\r\n \r\nCause: Consumed Nectar: {number}\r\n\r\nWill pass in: {time}",
+  "Alcohol dependence\r\nA disease that arises from the consumption of <hint=hint_alcohol>alcohol</hint>.\r\n\r\nThe character develops a strong craving for alcohol every day.\r\n\r\nThis is accompanied by a negative <hint=hint_thought>thought</hint>, which intensifies each day until the character drinks.\r\n\r\nIf a <hint=hint_tantrum>nervous breakdown</hint> occurs, there is a small chance that the character will decide to overcome the harmful habit.\r\n\r\nAnother way to deal with alcoholism is to restrict the character's alcohol consumption in the Dynasty menu and hope that the dependence will fade away after a few days.",
+  "Nectar addict\r\nA character who is dependent on consuming <hint=hint_resource_nectar>Nectar</hint> and is regularly under its <hint=hint_nectar_action>effect</hint>.\r\n\r\n<img=hint_addict></img>\r\n\r\nAddicts can be identified by a blindfold, as they develop a high sensitivity to light.\r\n\r\n<b>Combatting Addiction</b>\r\n$ If a dependent lord has a <hint=hint_tantrum>nervous breakdown</hint>, there is a small chance that the character will decide to overcome this harmful habit.\r\n$ Another way to deal with lordly addiction is to limit the character's consumption of Nectar in the Dynasty menu and hope that the addiction will pass in a few days.",
+  "Depression\r\nThe lord is experiencing deep depression, and if their mood is not lifted, they will have a <hint=hint_tantrum>nervous breakdown</hint> in {time}.",
+  "Menopause\r\nMakes pregnancy impossible."
+]

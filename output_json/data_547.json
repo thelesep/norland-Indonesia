@@ -1,0 +1,7 @@
+[
+  "Rekonsiliasi\r\nSang lord akan memberikan hadiah {gift_for_king_resource} kepada Penguasa atas nama tetangga. \r\n\r\n<b>Akibatnya:</b>\r\nHubungan Penguasa dengan tetangga ini akan membaik sebesar jumlah yang bergantung pada skill <hint=hint_skill_speech>Persuasi</hint> lord Anda.\r\n\r\nTindakan ini mungkin dilakukan bahkan jika Penguasa tidak berada di kota – ia akan diberitahu tentang hadiah tersebut.\r\n\r\n[hint_SENDER]",
+  "Tidak Tersedia\r\nKarakter ini saat ini tidak merasakan kebencian terhadap siapa pun.",
+  "[hint_mind_caption]\r\nAku benar-benar bangkrut! Betapa memalukannya!\r\n\r\nAlasan: Karakter tidak memiliki <hint=hint_resource_gold>Emas</hint>. Berikan hadiah kepadanya untuk menghilangkan pikiran ini.\r\n\r\n<b>Petunjuk:</b> Jika kekayaan karakter mencapai <hint=hint_resource_gold>{rich_coins}</hint>, ia akan mendapatkan pikiran positif permanen.",
+  "[hint_mind_caption]\r\nBanyak uang selalu merupakan hal yang baik! Aku harap bisa menjaganya dengan aman!\r\n\r\nAlasan: Karakter telah mengumpulkan banyak <hint=hint_resource_gold>Emas</hint>.\r\n\r\n<b>Petunjuk:</b> Jika kondisi karakter mencapai <hint=hint_resource_gold>{very_rich_coins}</hint>, ia akan mendapatkan pikiran positif yang lebih kuat.",
+  "[hint_mind_caption]\r\nHoly Sophia, aku kaya! Ini perasaan yang luar biasa!\r\n\r\nAlasan: Karakter telah mengumpulkan jumlah <hint=hint_resource_gold>Emas</hint> yang sangat besar."
+]

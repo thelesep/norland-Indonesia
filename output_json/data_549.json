@@ -1,0 +1,7 @@
+[
+  "Tidak Cukup Emas\r\nTidak Cukup Emas di perbendaharaan.\r\n\r\nMemerlukan <hint=hint_resource_gold>{count}</hint>.",
+  "Tidak Tersedia  \r\n{soul_uuid} memiliki sifat {trait_name}, yang mencegah tindakan ini.",
+  "Tidak Tersedia  \r\n{soul_uuid_performer} dan {soul_uuid_target} adalah kerabat darah.",
+  "Tidak Tersedia  \r\n{soul_uuid_performer} dan {soul_uuid_target} harus berjenis kelamin berbeda.",
+  "[hint_mind_caption]\r\nAku benar-benar bangkrut! Sungguh memalukan!\r\n\r\nAlasan: Karakter tidak memiliki <hint=hint_resource_gold>Emas</hint>. Berikan hadiah kepada mereka untuk menghilangkan pikiran ini.\r\n\r\n<b>Petunjuk:</b> Jika kekayaan seorang karakter mencapai <hint=hint_resource_gold>{rich_coins}</hint>, mereka akan mendapatkan pikiran positif permanen."
+]

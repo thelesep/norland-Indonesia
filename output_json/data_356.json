@@ -1,0 +1,7 @@
+[
+  "~ \nBaiklah, saya siap menerima syarat Anda karena, dengan tetangga-tetangga yang saya miliki sekarang, beberapa tahun damai tidak akan merugikan. Saya harap saya tidak akan menyesali keputusan saya.",
+  "Pemberontakan Vasal\nVasal Anda {soul_uuid_king} dari {faction_uuid} telah memutuskan bahwa mereka tidak lagi bersedia melayani di bawah mahkota Anda dan menantang Anda.\n\n$ Anda memiliki <b>{number_of_remain_days} hari</b> untuk menyerang kota mereka, dan dalam kasus kemenangan, mereka akan tetap menjadi vasal Anda.\n$ Dalam kasus kekalahan Anda, mereka tidak lagi dianggap sebagai vasal Anda.\n$ Jika Anda tidak muncul untuk pertempuran, vasal Anda dan tetangga-tetangga Anda akan menganggap Anda sebagai pengecut, dan akan memperburuk hubungan mereka dengan Anda sebesar <red>{rel_coward}</red>.\n{optional_possible_helpers}",
+  "~ \nAnda tidak menanggapi tantangan tersebut, dan sekarang {soul_uuid_king} tidak lagi menjadi vasal Anda.\n\nLebih lanjut, mereka dan tetangga-tetangga Anda telah menganggap Anda sebagai pengecut, dan memperburuk hubungan mereka dengan Anda sebesar <red>{rel_coward}</red>.",
+  "~ \nAnda kalah dalam pertempuran, dan {soul_uuid_king} tidak lagi menjadi vasal Anda.",
+  "~ \nAnda menang dalam pertempuran, dan {soul_uuid_king} tetap menjadi vasal Anda."
+]

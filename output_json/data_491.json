@@ -1,0 +1,7 @@
+[
+  "Free lord sedang menunggu untuk direkrut\r\n[hint_tutorial_free_lord]",
+  "Pemberontakan Boneka\r\nOrang <hint=hint_encyclopedia_puppets>puppet</hint> akan memulai pemberontakan atas perintah idola mereka, salah satu lord Anda.\r\n\r\n<b>Konsekuensi:</b>\r\n{soul_uuid_king}: hubungan akan memburuk sebesar {rel_de}",
+  "~\r\n{soul_uuid_puppet} akan segera memulai pemberontakan.",
+  "Pertahanan Pemberontakan\r\n{optional_type_of_danger}\r\n\r\nDiharapkan bahwa salah satu lord di pemukiman ini akan segera memberontak. Dipercaya bahwa lord ini adalah seorang <hint=hint_encyclopedia_puppets>puppet</hint>, bertindak atas perintah orang lain.\r\n\r\nPenguasa {soul_uuid_king} sedang terancam dan meminta dukungan Anda dengan mengirimkan pasukan. Ia berjanji akan mengingat bantuan Anda di masa sulit ini.\r\n\r\nDukungan untuk {soul_uuid_king} di kalangan prajurit: {war_sup}%\r\n\r\nKonsekuensi mungkin jika Anda mendukung {soul_uuid_king}:\r\n$ Jika {soul_uuid_king} menang, hubungan dengan dia: <green>{rel_neigh_improve}</green>\r\n{optional_will_gain_duty_of_honor}\r\n$ Jika {soul_uuid_heir} menang, hubungan dengan dia: <red>{rel_neigh_de}</red>\r\n{optional_allyship}\r\n\r\n[hint_unavailable_heir_rebellion_in_ai_town]",
+  "~\r\n<red>Seseorang telah memerintahkan {soul_uuid_heir} untuk memulai pemberontakan. Jika ia berhasil, raja saat ini {soul_uuid_king} akan digulingkan, dan {soul_uuid_heir} akan mengambil alih tempatnya.</red>"
+]

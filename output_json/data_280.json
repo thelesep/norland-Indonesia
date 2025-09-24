@@ -1,12 +1,7 @@
 [
-  "Unavailable  \r\nNo place for a date - the lord has no home, or it’s currently occupied.",
-  "~  \r\nThe target refused the gift.",
-  "~  \r\nThe spouse has discovered the affair!",
-  "Sermon  \r\n{soul_uuid_bishop} will have a theological conversation with {soul_uuid_target}, who will cease to be an <hint=hint_persons_agnostic>agnostic</hint>.\r\n\r\n<b>Cost:</b> <hint=hint_resource_gold>{cost}</hint>",
-  "Unavailable  \r\nThe character is not an <hint=hint_persons_agnostic>agnostic</hint>.",
-  "Unavailable  \r\nThe politician no longer wishes to talk. It's time for action!",
-  "Low Relations  \r\nThe agent dislikes the ruler too much to fulfill such a request.\r\n\r\nRequired: {rel_need}  \r\nCurrent: {rel_current}",
-  "Character Abduction\r\nAttempt to capture the chosen character while they are sleeping.\r\n\r\n$ If the character does not wake up (probability - {wake_k}%), they will become a <hint=hint_trait_captive>hostage</hint>.\r\n$ If the target wakes up, a fight with the actor will ensue, after which the target will try to escape from the settlement. However, you still have a chance to capture them if the actor or guards manage to incapacitate them.\r\n\r\nIn any case, you will have violated the sacred law of hospitality, and your king's <hint=hint_relations>relationship</hint> with all neighboring <hint=hint_persons_king>kings</hint> will greatly deteriorate.\r\n\r\n<b>Hint:</b> The performer's opinion of your ruler must be higher than {relation} to accept the assignment.",
-  "Bribe\r\n$ The lord will give the character <hint=hint_resource_gold>{gold}</hint> and try to instill dissatisfaction with their own king.\r\n$ As a result, the <hint=hint_loyalty>loyalty</hint> of the lord toward their king will decrease.\r\n$ The magnitude of loyalty decrease in the target depends on the <hint=hint_skill_speech>Persuasion</hint> skill of the actor.\r\n\r\n[hint_loyal_conflict]",
-  "Assassination Attempt  \r\nAttempt to kill this character by attacking them while they sleep at night.\r\n\r\n$ If the target wakes up, a fight will break out with the agent, after which the target will try to flee the settlement.\r\n\r\nIf the attempt succeeds, <hint=hint_relations>relations</hint> between your <hint=hint_persons_king>kings</hint> will significantly deteriorate."
+  "Lawan Anda Terlalu Kuat. \nLawan Anda terlalu kuat, sehingga {soul_uuid_king} tidak ingin bergabung dengan aliansi Anda.",
+  "Anda Terlalu Lemah.\nKekuatan <hint=hint_army_power>tentara</hint> Anda lebih rendah daripada tentara lord ini. Dia tidak menghormati Anda.",
+  "Terlalu Banyak Tamu\nAnda sudah memiliki terlalu banyak tamu dari provinsi ini.",
+  "Fleshwolf di Sekitar Kota Kita\nSelama kota kita dikelilingi oleh kawanan Fleshwolf, tidak ada yang bisa masuk atau keluar. \nTentara kita harus menghadapi mereka, atau kita harus menunggu hingga kawanan itu bubar.",
+  "Fleshwolf di Sekitar Kota Ini\nSelama kota ini dikelilingi oleh kawanan Fleshwolf, tidak ada yang bisa masuk atau keluar.\nTentara seseorang harus menghadapi mereka, atau kita harus menunggu hingga kawanan itu bubar untuk berinteraksi dengan provinsi ini."
 ]

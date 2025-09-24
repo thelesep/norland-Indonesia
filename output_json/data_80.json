@@ -1,12 +1,7 @@
 [
-  "The lord has no residence\r\nTo execute this order, the lord must have their own residence.",
-  "Knights\r\nThis mercenary is a <hint=hint_knight>Knight</hint>. \r\n\r\nThe knight is hired for {knight_duration_days} days, after which he will leave your settlement (but can be hired again).\r\n\r\n$ This is an experienced warrior who can also lead a squad in place of a lord. His <hint=hint_skill_command>Command</hint> skill is {skill_command_level}.  \r\n$ He arrives equipped with <hint=hint_resource_light_armor>light armor</hint> and a <hint=hint_resource_wooden_spear>spear</hint>.  \r\n$ It takes him one or two days to reach your settlement.",
-  "Knight\r\nFormerly failed Free Lords who chose to pursue a military career.\r\n\r\n<img=hint_knight></img>  \r\n\r\n$ Possess a high <hint=hint_skill_combat>Combat skill</hint>  \r\n$ Can lead a squad in place of a lord.  \r\n$ They can be hired in the Army menu for {knight_duration_days} days, after which they will leave.",
-  "How many peasants are employed in this area of the economy.",
-  "How many prisoners are employed in this area of the economy.",
-  "The wages received by peasants who work in this area of the economy.",
-  "Surplus of Iron\r\nThe mines will be rich in iron, so you won't have to worry about it running out.\r\n\r\n$ Each level of the mine contains <hint=hint_resource_iron>500</hint>.",
-  "Old Grudges\r\nKaiden and Varns, as well as Makha and Tanaya, hate each other more intensely.\r\n\r\nThis is a conflict modification for experienced players.",
-  "The kingdom is getting smaller\r\nAs a result of recent political events, {faction_uuid} is no longer part of your kingdom.",
-  "The alliance is getting smaller\r\nAs a result of recent political events, {faction_uuid} is no longer part of your alliance."
+  "Rumor Kultus Baru\nPara pelancong dan pedagang berbicara tentang kultus baru yang menyebar luas di kalangan petani tidak berpendidikan di sisi lain benua.\n\nBeberapa mengatakan itu adalah sisa-sisa sekte sesat yang dikenal sebagai <hint=hint_cainism>Cainites</hint>, sementara yang lain menyebarkan rumor tentang pengorbanan manusia.\n\nBagaimanapun, <hint=hint_inqusitors>Inkuisisi</hint> telah memutuskan untuk mengirim misi ke tanah-tanah itu untuk menekan segala potensi bidah secara pencegahan.",
+  "Tidak ada pelayan di Aula.\nTanpa pelayan, makanan tidak akan dikirim ke Aula, dan para lord Anda tidak akan bisa makan.\n\n$ Klik pada Aula dan tetapkan sebagai tempat kerja prioritas untuk memastikan pelayan selalu bekerja di aula.",
+  "Rumah Bangsawan Baru\nSebuah rumah bangsawan baru telah muncul di dunia: {faction_uuid}.",
+  "Kehancuran Rumah Bangsawan\nAkibat serangkaian peristiwa tragis dan kematian, kisah Rumah Bangsawan {faction_uuid} berakhir hari ini.\n\nPemukiman leluhurnya telah berubah menjadi reruntuhan dan penduduknya telah tercerai-berai.\n\nSic transit gloria mundi!",
+  "Raja Ambisius\nRumor mengatakan bahwa Penguasa {soul_uuid_king} dari {faction_uuid_king} sangat berbakat dan ambisius.\n\n[hint_trait_genius_king]"
 ]

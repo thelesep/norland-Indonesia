@@ -1,12 +1,7 @@
 [
-  "Trade agreement\r\n[hint_trade_agreement_success_generic]\r\n\r\n[hint_trade_agreement_demand_generic]\r\n{optional_trading_volumes_reduced}\r\n\r\n<b>Remaining days until the end of the contract: {trade_agreement_duration_remain}</b>",
-  "Trade agreement\r\n[hint_trade_agreement_success_generic]\r\n\r\n[hint_trade_agreement_offer_generic]\r\n{optional_trading_volumes_reduced}\r\n\r\n<b>Remaining days until the end of the contract: {trade_agreement_duration_remain}</b>",
-  "The trade agreement has expired.\r\nNow you and {soul_uuid_king} are no longer bound by mutual obligations.",
-  "The trade agreement has been terminated.\r\nYour relationship has deteriorated significantly.\r\n\r\n$ You and {soul_uuid_king} are no longer bound by mutual obligations.",
-  "The trade agreement has been terminated.\r\nReason: the death of one of the signatories.\r\n\r\n$ You and {soul_uuid_king} are no longer bound by mutual obligations.",
-  "~\r\nI believe our relations can no longer serve as the basis for further trade. I hereby dissolve our trading agreement.",
-  "~\r\nI don't think it makes sense to continue our trade.",
-  "~\r\nFor me, it is a great honor to engage in a trade agreement with you. Trade, above all, serves as an assurance of peace between our kingdoms.",
-  "~\r\nI am writing to express my delight at the inception of such a lucrative trade agreement. Not everyone can sheathe their sword and engage in negotiations.",
-  "~\r\nAs you may be aware, the term of our trade contract has expired. It has been quite advantageous."
+  "Tifus Rutabaga\nKarakter telah tertular tifus rutabaga - ini terkadang terjadi saat mengonsumsi rutabaga mentah.\n\nIni adalah tahap kedua penyakit. Sakit perut telah memburuk, disertai diare dan demam.\n\nPada tahap ini, karakter tidak mampu bergerak dan membutuhkan perawatan dengan <hint=hint_resource_med>Salep Medis</hint>.\n\n$ Jika karakter dirawat, ada peluang 100% untuk bertahan hidup.\n$ Jika karakter tidak dirawat, ada peluang 50% untuk bertahan hidup dan 50% kemungkinan kematian.\n\nAkan sembuh dalam: {time}",
+  "Tifus Rutabaga\nKarakter telah tertular tifus rutabaga - ini terkadang terjadi saat mengonsumsi rutabaga mentah.\n\nKarakter telah selamat dari krisis penyakit dan berada pada tahap pemulihan, di mana gerakannya melambat.\n\nPemulihan penuh dalam: {time}",
+  "Hamil\nKarakter sedang mengandung anak\n$ Awalnya, mereka mungkin mengalami mual dan berjalan lambat.\n$ Tak lama sebelum melahirkan, karakter tidak akan bisa berjalan.\n$ Ada kemungkinan kecil ibu dan bayi keduanya meninggal.\n\nKelahiran kehidupan baru diharapkan dalam: {time}",
+  "Penghinaan\nKarakter menghina seseorang. Ini adalah perilaku yang tidak pantas.\n\nDosa akan terlupakan dalam: {time}.",
+  "Dosa\nKarakter telah <hint=hint_sin>berdosa</hint>, dan sekarang hati nuraninya menyiksa mereka.\n\n$ Maksimum <hint=hint_need_piety>ketaqwaan</hint> dibatasi hingga {X}  sampai dosa diampuni.\n$ Dosa dapat diampuni melalui <hint=hint_confession>pengakuan dosa</hint> di <hint=hint_bld_temple>Kuil</hint>.\n\n<hint=hint_sin>Dosa-dosa</hint> saat ini di hati nurani karakter:\n{list}\n\nDosa akan terlupakan dalam: {time}."
 ]

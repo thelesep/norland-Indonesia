@@ -1,12 +1,7 @@
 [
-  "~\r\n{faction_uuid} has left the alliance of cities led by {leader_faction_uuid}.",
-  "~\r\n{faction_uuid} has renounced their vassalage to {sir_faction_uuid}.",
-  "~\r\nThe alliance of {leader_faction_uuid} has completely dissolved.",
-  "~\r\nThe vassal kingdom of {sir_faction_uuid} has completely broken up.",
-  "The envoy's visit\r\nThe lord you have chosen will visit the king to improve relations with him on behalf of your ruler.\r\n\r\nDuring the process, there will be a conversation, the outcome of which will affect the attitude of {soul_uuid_king} toward your king.\r\n\r\nThe likelihood of a good conversation depends on the <hint=hint_skill_manners>Manners</hint> skill of your envoy.",
-  "Envoy's visit\r\nPerformer {soul_uuid_performer}: {skill_name} level {skill_level}.\r\n\r\nRelationship with your king: <green>{rel_improve}</green>",
-  "Unavailable\r\nKing {soul_uuid_king} is not in the city right now.",
-  "Unavailable\r\nThe king cannot be assigned to this task.\r\n\r\n<b>Hint:</b> To establish personal relations between kings, you can assign your king to the Spend Time action in the Character menu.",
-  "~\r\nYour envoy has completed the task.\r\n\r\nAs a result, the attitude of {soul_uuid_king} toward your king: <green>{rel_improve}</green>",
-  "Not a good enough relationship\r\n{optional_trade_info}\r\n[hint_unavailable_bad_opinion]\r\n\r\n<b>Hint:</b> You can enter into permanent trade agreements with Kings regardless of personal relations if you are part of the same <b>free cities alliance</b>."
+  "Pendekatan Kematian\n\nKarena sebab alamiah, hari-hari karakter ini mendekati akhir, dan dalam beberapa hari, api kehidupan akan padam.",
+  "Pencerah\n\nBerbagi pengetahuan mereka dengan siapa saja tanpa batasan level, tapi lawan bicara mereka mungkin mengadopsi budaya mereka.",
+  " ",
+  "Senil\n\nKarakter ini telah kehilangan akal sehatnya karena usia tua.\n\n\nSayangnya, ini tidak dapat disembuhkan, dan hanya ada harapan untuk kematian mereka yang cepat.",
+  "Cacar\n\nKarakter telah tertular cacar. Sayangnya, tidak ada metode yang diketahui untuk melindungi dari penyakit ini.\n\nIni bisa menyebabkan bekas luka, kebutaan, dan bahkan kematian.\n\n\nIni adalah tahap pertama penyakit, disertai sakit kepala parah dan malaise umum.\n\n\nTahap berikutnya dalam: {time}"
 ]

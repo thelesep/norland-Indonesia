@@ -1,0 +1,7 @@
+[
+  "~\nTerima kasih telah berdiri di sampingku dalam perjuangan ini dan mengakui otoritas hukumku! Engkau benar-benar telah menyelamatkanku dari kehancuran, dan aku tidak akan pernah melupakannya. Semoga Holy Sophia memberkahi engkau.",
+  "~ \nDengan hati yang berat aku mengakui dikelilingi oleh pengkhianat, dan keselamatan pun menghindar bahkan dari tempat tinggalku sendiri. Terima kasih telah mengakui pemerintahan hukumku dan membantuku mempertahankan takhta! Tindakan kesetiaan ini tidak akan pernah dilupakan.",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>\n$ Hubungan dengan {soul_uuid_king_s}: <red>{rel_de_sir}</red>",
+  "Pemberontakan Vasal\n{optional_type_of_danger}\n\nIa mencari bantuan dari semua tetangga yang tertarik pada persahabatannya dan tidak takut merusak hubungan dengan {soul_uuid_king_s}.\n\nKau bisa mengirim pasukanmu untuk mendukung pemberontakan.\n\n<b>Konsekuensi</b>\n$ Jika {soul_uuid_king} menang, ia akan menjadi independen.\n$ Jika {soul_uuid_king_s} menang, {soul_uuid_king} akan tetap menjadi vasal.\n{optional_send_help_effects}\n{optional_allyship}\n{optional_will_gain_duty_of_honor}\n{optional_possible_helpers}",
+  "~\n{soul_uuid_king} telah memperoleh kemerdekaan."
+]

@@ -1,0 +1,7 @@
+[
+  "~\nAkibat serangan yang sukses, {soul_uuid_king} telah mengakui kekuatanmu dan setuju menjadi <hint=hint_vassal>vasal</hint>mu.\n\n[hint_vassal_tribute]",
+  "~\nKau kalah dalam pertempuran, dan {soul_uuid_king} tetap merdeka.",
+  "~\nKau gagal muncul untuk serangan, dan sekarang rajamu akan dipandang sebagai pengecut.\n\n$ Hubungan dengan tetangga dan {soul_uuid_king}: <red>{rel_coward}</red>",
+  "~\nBerapa banyak kematian dan kesedihan yang kau tabur dengan seranganmu! Berapa banyak anak yang ditinggal ayahnya! Baiklah, sekarang aku adalah vasalmu. Namun, ingat bahwa aku akan selalu berjuang untuk kebebasanku!",
+  "~\nKau adalah prajurit pemberani, dan aku tidak punya pilihan selain tunduk padamu. Tetapi hatiku akan tetap bebas!"
+]

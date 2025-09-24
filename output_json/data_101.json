@@ -1,12 +1,7 @@
 [
-  "Madness\r\nAs a result of a prolonged depression, this lord has gone mad and behaves inappropriately, causing shame and pity in those around them. It will take several days before they regains their composure. At least, one can hope for that...",
-  "Nectar Rage\r\nAs a result of consuming <hint=hint_resource_nectar>Nectar</hint>, the character falls into a rage and attacks their surroundings.\r\n\r\nThe more they consume nectar, the more their consciousness deteriorates, and the fits of rage after consumption become more frequent.",
-  "Matriarch\r\nHead of <hint=hint_sofia_cult>the Church of Mother Sophia</hint>",
-  "Lowborn\r\nThis lord comes from peasant families, so he is not liked by highborn lords",
-  "Loyalists\r\n<hint=hint_nt_unhappy>Happy</hint> peasants, <hint=hint_sodiers_happiness>warriors</hint>, and <hint=hint_nt_events_unhappy_lord>lords</hint> can develop a deep love for the king and become loyalists. They can be identified by the crown pendant they wear.\r\n\r\n<img=hint_loyalist></img>\r\n\r\nTraits of loyalists:\r\n$ Loyalist lords cannot be bribed or tempted; their <hint=hint_loyalty>loyalty</hint> is always at its maximum.\r\n$ Loyalist peasants cannot become <hint=hint_persons_criminal>vagabonds</hint>.\r\n$ There is only room for one idol in a loyalist's heart. They cannot become <hint=hint_persons_fanatic>fanatics</hint>, and fanatics cannot become loyalists.\r\n$ Loyalist peasants aspire to serve in the king's army; in their hearts, there is no room for fear of death. They are also emboldened in battle and do not flee if their unit is led by the king.\r\n$ If loyalists become unhappy, they may lose this quality. And if there are many unhappy loyalists, they may start a riot, blaming the fanatics for everything.\r\n$ They will mourn when their beloved king passes away.",
-  "Inspired\r\nA good mood has sparked <hint=hint_tutorial_inspiration>inspiration</hint>. <green>All skills have been increased by {inc_number}</green>.\r\n\r\nThis state will last until the end of the day, but it may also disappear if the character becomes unhappy.",
-  "Hemophilia\r\nModerate and severe bleeding cannot be stopped.",
-  "Former gangster\r\nCarries a negative thought while serving in the army.",
-  "Terror against culture\r\nThe king has initiated terror against the people of this culture. Horror and fear have gripped all of its bearers.",
-  "Ambitious Conqueror\r\n$ This character believes it is destined for them to unite Norland and become an emperor.\r\n$ Conqueror kings put significant effort into governing their province and receive more money from their subjects.\r\n$ They regard their neighbors as insignificant obstacles on the path to their power, harboring particular hatred toward the leaders of <hint=hint_tutorial_states>states</hint>."
+  "Teknologi\nMemungkinkan pembangunan {building_name} melalui menu Pembangunan.",
+  "Teknologi\nMemungkinkan pembangunan {building_name} dan {building_name_2} melalui menu Pembangunan.",
+  "Teknologi\nMemungkinkan pembangunan {building_name} dan produksi {resource_name}.",
+  "[tech.criminal_intimidation]\n<hint=hint_persons_criminal>Pengembara</hint> yang diintimidasi oleh <hint=hint_bld_scafod>algojo</hint> akan takut untuk berbuat kejahatan selama 2 hari bukannya satu.",
+  "Dasar-Dasar Loyalitas\nKemungkinan munculnya <hint=hint_loyalist>loyalis</hint> di kota menjadi dua kali lipat."
 ]

@@ -1,12 +1,7 @@
 [
-  "Altar\r\nA religious object.\r\n\r\n$ Prayer at the street Altar fills the characters' hearts with joy.",
-  "Scaffold\r\nA place for carrying out <hint=hint_punish>punishments</hint>, which also entertain the residents, improving their <hint=hint_mood>mood</hint>.\r\n\r\n<img=hint_bld_scafod></img>\r\n\r\n$ Each evening, the executioner punishes one captured <hint=hint_crimer>criminal</hint> from among the prisoners.\r\n$ If there is time left or if there are no more suspects in the city, the executioner intimidates vagrants, discouraging them from committing crimes for the next day.\r\n$ You can also organize <hint=hint_terror>terror</hint> against different population groups.\r\n$ Idle characters within the Scaffold's radius become spectators of punishments and gain a <green>positive thought</green>, the strength of which depends on the type of punishment.",
-  "Chancellery\r\nClerks work here, who can be assigned to <hint=hint_inspection>manage</hint> buildings instead of lords.\r\n\r\n<img=hint_bld_chancellery></img>\r\n\r\n$ The building requires an inspection by the lord.  \r\n$ {number_of_clerks} clerks service up to {connected_number} production buildings, including other Chancelleries.  \r\n$ The production bonus from their instructions depends on the Management skill of the lord overseeing the Chancellery.  \r\n$ The Chancellery requires <hint=hint_resource_paper>{paper_cost}</hint> per day to operate.",
-  "Alchemy Lab\r\nThe following items are produced here:\r\n$ <hint=hint_resource_nectar>Nectar</hint>\r\n$ <hint=hint_resource_med>Medical Salve</hint>",
-  "Workshop\r\nThe following items are produced here:\r\n$ <hint=hint_resource_instruments>Tools</hint>\r\n$ <hint=hint_resource_knife>Daggers</hint>\r\n$ <hint=hint_resource_bow>Bows</hint>\r\n$ <hint=hint_resource_crossbow>Crossbows</hint>",
-  "Lumbermill\r\nA building for extracting <hint=hint_resource_wood>Wood</hint> from the nearby forest.\r\n\r\nIt's better to build them far from each other but closer to the trees.",
-  "Armor Forge\r\nThe following items are produced here:\r\n$ <hint=hint_resource_shield>Shields</hint>\r\n$ <hint=hint_resource_light_armor>Light Armor</hint>\r\n$ <hint=hint_resource_heavy_armor>Heavy Armor</hint>",
-  "Brewery\r\nThis is where <hint=hint_alcohol>alcohol</hint> is brewed.",
-  "Paper Workshop\r\nThis is where <hint=hint_resource_paper>Paper</hint> is pressed.",
-  "Weapon Forge\r\nThe following items are produced here:\r\n$ <hint=hint_resource_wooden_hammer>Maces</hint>\r\n$ <hint=hint_resource_wooden_spear>Spears</hint>\r\n$ <hint=hint_resource_battle_axe>Axes</hint>\r\n$ <hint=hint_resource_sword>Swords</hint>"
+  "~\r\nKetika kesetiaan <hint=hint_loyalty>kesetiaan</hint> seorang karakter turun di bawah 25, lord memasuki konflik dengan rajanya.\r\n\r\n$ Jika itu adalah pewaris dan mereka tidak ramah dengan raja, mereka mungkin memicu <hint=hint_nt_heir_rebellion>pemberontakan</hint>.\r\n$ Jika itu adalah lord biasa atau pewaris yang ramah dengan raja, mereka lebih suka pergi ke provinsi tetangga, yang memperburuk hubungan antar raja tetapi tidak memicu pemberontakan.\r\n\r\n<b>Akibatnya</b>, populasi, ekonomi, dan akibatnya, <b>tentara raja ini akan menurun</b>.",
+  "Belum siap\r\nPedagang karavan akan siap berdagang segera setelah mencapai pusat pemukiman.",
+  "Gila\r\nLord ini tidak bisa menangani ini sekarang.",
+  "Gila\r\nInteraksi ini tidak dapat ditugaskan saat ini.",
+  "Kembali ke rumah\r\nLord kembali ke kotanya."
 ]

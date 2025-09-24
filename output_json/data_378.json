@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\nDesa berada di wilayah lord lain. Anda dapat menyerang desa kapan saja untuk menangkap narapidana, tetapi penduduk desa akan melawan, dan itu akan merusak hubungan Anda dengan penguasa provinsi.\n\n$ Pemilik: {soul_uuid_king}\n$ Pembela: {defenders}\n$ Rampasan potensial: {possible_loot}",
+  "Serang desa\nLibatkan diri dalam pertempuran pasti dengan pembela desa ({number_of_defenders} orang, bersenjata belati dan gada).\n\n$ Desa akan dijarah dan tidak mampu membayar upeti untuk 2 panen berikutnya.\n$ Karena desa berada di wilayah {soul_uuid_king}, hubungan Anda dengan mereka akan memburuk sebesar <red>{rel_de}</red>.\n\n<b>Rampasan potensial:</b> {possible_loot}\n{optional_holy_defence_will_removed}",
+  "~ \nDesa telah dijarah dan dibakar habis.\n\nHubungan dengan {soul_uuid_king}: <red>{rel_de}</red>\n\n<b>Rampasan:</b> {loot}\n{optional_holy_defence_will_removed}",
+  "~ \nPetani berhasil mengusir serangan Anda, tetapi desa dibakar habis selama pertempuran.\n\nHubungan dengan {soul_uuid_king}: <red>{rel_de}</red>\n{optional_holy_defence_will_removed}",
+  "~ \nSejauh mana seseorang harus merendahkan diri untuk merampok desa? Petani-petani itu tidak bersenjata dan tidak bisa berperang! Datanglah dan hadapi aku serta para prajuritku, dan kita akan melihat seberapa besar prajurit sebenarnya engkau!"
+]

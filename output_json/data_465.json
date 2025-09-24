@@ -1,0 +1,7 @@
+[
+  "Oleh Tangan Lain\r\n<b>Perhatian:</b> Karena pasukan Anda tidak terlibat, semua rampasan akan dibagi di antara peserta lain.",
+  "Bagian yang Setara\r\n<b>Perhatian:</b> Semua rampasan akan dibagi secara setara di antara semua peserta.",
+  "Tuntutan untuk Memenuhi Kewajiban Vassal\r\nPenguasa Atas Anda {soul_uuid_king} dari {faction_uuid} menuntut Anda untuk bergabung dengan mereka dalam serangan ke provinsi {faction_uuid_target}. Anda harus mengirim regu untuk bergabung dengan pasukan Penguasa Atas.\r\n\r\nImbalan yang diperoleh selama kampanye akan dibagi secara setara di antara semua peserta.\r\n\r\nJika Anda gagal memenuhi kewajiban vassal, maka:\r\n$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
+  "Kirim Regu\r\nKirim sebuah regu untuk memenuhi kewajiban vassal Anda.",
+  "~\r\nPenguasa Atas Anda {soul_uuid_king} tidak menunggu pasukan Anda. Anda telah melanggar sumpah vassal.\r\n\r\n$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>"
+]

@@ -1,0 +1,7 @@
+[
+  "~\r\nBaiklah, kurasa saya punya urusan yang lebih mendesak daripada bertengkar denganmu. Anggap saja saya telah menyimpan pedangku. Tapi jangan pikir saya telah melupakan segalanya.",
+  "Prajurit menolak patroli\r\nKarena <hint=hint_mood>suasana hati</hint> yang buruk, beberapa prajurit menolak untuk patroli.\r\n\r\n<b>Tip:</b> Arahkan kursor ke ikon prajurit di sudut kiri atas untuk mengetahui pikiran negatif paling sering yang memengaruhi suasana hati mereka.",
+  "~\r\nPenguasa baru provinsi itu sedang menulis surat kepadamu. Sepertinya, akibat campur tanganmu, kedua penggugat tahta telah bersatu kembali dengan Ibu Sophia, jadi sekarang kau akan berhadapan denganku. Dan jangan campur tangan lagi dalam urusan provinsi kami!",
+  "Kedua rival dalam perebutan tahta telah tewas.\r\n\r\nPenguasa provinsi {faction_uuid} sekarang adalah {soul_uuid_king}.",
+  "Perintah selesai\r\nPenyanyi itu telah memenuhi permintaanmu dan memainkan <b>lagu rohani</b>.\r\n\r\n{value} pendengar terinspirasi oleh kekuatan seni musiknya dan memutuskan untuk mendedikasikan hidup mereka kepada Ibu Sophia, menjadi <hint=hint_persons_fanatic>fanatik</hint>."
+]

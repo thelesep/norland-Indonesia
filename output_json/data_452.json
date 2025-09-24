@@ -1,0 +1,7 @@
+[
+  "Teror Budaya\r\n{optional_culture_terror}",
+  "Obsesi\r\nKeinginan kuat <hint=hint_desire>keinginan</hint> yang biasanya muncul sebagai reaksi terhadap suatu peristiwa tertentu.\r\n\r\n$ Obsesi menciptakan pikiran negatif kuat yang menyiksa karakter hingga keinginan itu terpenuhi.\r\n$ Intensitas pikiran ini meningkat seiring waktu dan dapat menyebabkan penyakit mental.\r\n$ Beberapa obsesi mungkin memprovokasi karakter untuk mengambil tindakan tegas, dan mereka mungkin mencoba memenuhinya sendiri (misalnya, mereka mungkin mencoba membunuh musuh).",
+  "Impian\r\nKeinginan lemah <hint=hint_desire>keinginan</hint> yang kadang muncul pada karakter ketika mereka merenungkan tujuan mereka.\r\n\r\n$ Pikiran tentang impian tidak terlalu mengganggu karakter dan tidak berubah seiring waktu.\r\n$ Namun, jika impian terpenuhi, karakter akan menerima <hint=hint_tutorial_inspiration>Inspirasi</hint> sepanjang hari.",
+  "Tidak ada emas\r\nPerlu lebih banyak emas untuk membangun",
+  "~\r\n$ Keinginan ini adalah sebuah <hint=hint_desire_dream>impian</hint>."
+]

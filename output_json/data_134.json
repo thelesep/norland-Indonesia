@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nIt's nice when the king upholds justice for everyone!\r\n\r\n<b>Reason:</b> The king punishes the lords.",
-  "[hint_mind_caption]\r\nI was a hair's breadth away from a terrible death! I can still smell the smoke! It's awful!\r\n\r\n<b>Reason:</b> Survived a fire",
-  "~\r\nMood Impact:\r\n<red>{debuff}</red>",
-  "Desire Fulfilled\r\nThe character is enjoying the sense of accomplishment.\r\n\r\nMood Impact:\r\n<green>{buff}</green>\r\n\r\nThis feeling is fleeting, and the next desire can be expected in a few days.",
-  "Learn to Fight\r\nThe character wants to improve their combat skills as they significantly differ from other lords.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled when the character reaches a Combat skill level of <hint=hint_skill_combat>{required_skill_level}</hint> or higher.\r\n\r\n[hint_its_a_dream]",
-  "Learn Manners\r\nThe character wants to obtain more refined manners as they significantly differ from other lords.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled when the character reaches an Manner skill level of <hint=hint_skill_manners>{required_skill_level}</hint> or higher.\r\n\r\n[hint_its_a_dream]",
-  "Deepen the Knowledge\r\nThe character wants to deepen their knowledge of the {skill} skill and raise its level to {lvl}.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled when the character obtains a {skill} skill level of {lvl} or higher.\r\n\r\n[hint_its_a_dream]",
-  "Wish to Have a Home\r\nThe character is distressed because they don't have their own home.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled when the character has a home.\r\n\r\n[hint_its_a_obsession]",
-  "Least Rings\r\nThe character is worried about having the least Holy Rings in the city.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled when the character has more Rings than anyone else.\r\n\r\n[hint_its_a_obsession]",
-  "Desire for Fewer than 5 Criminals in the City\r\nThe King is concerned about the high crime rate.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nThe desire will be fulfilled when the number of criminals is 5 or fewer.\r\n\r\n[hint_its_a_dream]"
+  "Gelar\n<hint=hint_tutorial_church_tax>Pajak pada prajurit</hint> akan berkurang {percent}%.",
+  "Gelar\nEfektivitas pelatihan prajurit di Lapangan Latihan ditingkatkan sebesar {bonus}%.",
+  "Gelar\nSetelah menjadi <hint=hint_loyalist>loyalis</hint>, karakter akan tetap seperti itu selamanya.",
+  "Gelar\nMelakukan urusan perdagangan dengan kamp-kamp Begal (hutan) (seperti membeli narapidana dan Holy Rings yang dicuri) tidak akan berdampak negatif pada hubunganmu dengan tetangga.",
+  "Sifat tidak kompatibel\nSifat ini tidak dapat dipilih karena tidak kompatibel dengan sifat yang sudah dipilih."
 ]

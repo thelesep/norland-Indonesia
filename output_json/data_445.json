@@ -1,0 +1,7 @@
+[
+  "~\r\nDesa {village_name} telah mengusir serangan dan akan terus membayar upeti kepada Anda.",
+  "~\r\nDesa {village_name} telah dibakar. Ia akan pulih dalam beberapa hari, tetapi untuk saat ini tidak akan membayar upeti kepada Anda.",
+  "~\r\n<red><hint=hint_persons_forest_bandits>Begal (hutan)</hint> berencana merampok desa Anda.</red>",
+  "~\r\n<red>{enemy_soul_uuid_king} dari {enemy_faction_uuid} berencana merampok desa Anda.</red>",
+  "[hint_mind_caption]\r\nSaya hampir mencapai tujuan saya!\r\n\r\n<b>Alasan:</b> Dalam proses memenuhi keinginan."
+]

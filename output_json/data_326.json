@@ -1,0 +1,7 @@
+[
+  "Pewaris telah menang!\n{soul_uuid_previous_heir} menjadi raja baru, dan {soul_uuid_previous_king} dikalahkan!\n\n[hint_heir_riot_deathlist]\n{optional_gain_duty_of_honor}",
+  "Kemenangan Raja!\n{soul_uuid_previous_king} menghancurkan pemberontakan, sementara {soul_uuid_previous_heir} mengalami kekalahan!\n\n[hint_heir_riot_deathlist]\n{optional_gain_duty_of_honor}",
+  "~\nSaya buru-buru memberitahumu bahwa kemenangan adalah milikku, dan kini mahkota menjadi milikku! Ketahuilah bahwa saya tidak pernah melupakan baik pengkhianat maupun mereka yang telah membantuku.",
+  "~\nAkhirnya, saatnya telah tiba, dan kini saya adalah raja. Memang, tanpa bantuanmu, saya akan gagal. Tapi begitulah tetangga, bukan?",
+  "Perlindungan terhadap Pemberontakan\n{optional_type_of_danger}\n\nDiharapkan dalam waktu dekat, pewaris akan bangkit dan mencoba mempengaruhi sebagian para lord serta prajurit untuk bergabung di pihaknya.\n\nPenguasa {soul_uuid_king} sedang terancam dan meminta dukungan dengan mengirimkan pasukan kepadanya. Mereka berjanji tidak akan melupakan bantuanmu di masa sulit ini.\n\n$ Pada saat yang sama, tingkat dukungan untuk kedua pihak di kalangan pasukan tidak diketahui dan hanya akan jelas pada saat terakhir.\n\nKonsekuensi mungkin jika engkau mendukung {soul_uuid_king}:\n$ Jika {soul_uuid_king} menang, hubungan dengannya: <green>{rel_neigh_improve}</green>\n{optional_will_gain_duty_of_honor}\n$ Jika {soul_uuid_heir} menang, hubungan dengannya: <red>{rel_neigh_de}</red>\n{optional_allyship}\n\n[hint_unavailable_heir_rebellion_in_ai_town]"
+]

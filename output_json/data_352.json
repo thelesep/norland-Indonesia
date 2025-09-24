@@ -1,0 +1,7 @@
+[
+  "Pemutusan vasalitas\nKau mengumumkan keinginanmu untuk menantang dan membebaskan diri dari otoritas penguasa atasmu.\n{optional_conditions}\n\n\nBagaimanapun juga, ini adalah pelanggaran terhadap sumpah vasal:\n{optional_change_relations_with_owner}\n$ Hubungan dengan tetangga: <red>{break_vassal_agreement_rel_de_neigh}</red>\n{optional_possible_helpers}\n\n[hint_SENDER]\n{optional_duty_of_honor}",
+  "~\nKau telah menantang otoritas {soul_uuid_king} dan segera akan menerima respons.\n\n$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>\n$ Hubungan dengan tetangga: <red>{break_vassal_agreement_rel_de_neigh}</red>",
+  "~\n{soul_uuid_king} telah memutuskan untuk memberimu pelajaran. Pasukan penguasa atasmu akan menyerangmu.\nJika kau mempertahankan kotamu, kau akan mendapatkan kebebasanmu.",
+  "~\n{soul_uuid_king} memutuskan bahwa ada urusan lebih penting daripada menindas vasal yang tidak patuh dan memberimu kebebasan. \n\n\nTapi mantan tuanmu akan mengingat ini.\n{optional_duty_of_honor_complete}",
+  "~\nKau kalah dalam pertempuran, dan {soul_uuid_king} tetap menjadi penguasa atasmu."
+]

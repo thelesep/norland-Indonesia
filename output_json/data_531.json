@@ -1,0 +1,7 @@
+[
+  "Tidak Tersedia\r\nKota sedang gelisah - seseorang mungkin akan mencoba pemberontakan segera, sehingga prajurit dan karakter tertentu enggan meninggalkan kota.",
+  "Pemberontakan Militer\r\n<hint=hint_politic>Politisi</hint> dengan tingkat <hint=hint_soul_army_loyalty>kesetiaan pasukan</hint> yang tinggi dapat memicu pemberontakan jika <hint=hint_loyalty>Kesetiaan</hint> mereka terhadap penguasa Anda turun di bawah <red>25</red>\r\n\r\nDalam pemberontakan seperti itu, persentase prajurit yang sesuai dengan kesetiaan pasukan mereka akan berperang di pihak mereka.\r\n\r\nAnda dapat mencegah pertumpahan darah jika penguasa Anda dengan damai menyerahkan mahkota kepada pemberontak. Namun, ini akan mengubah hubungan di peta, dan mantan penguasa akan menyimpan dendam terhadap yang baru.",
+  "Karakter telah meninggal\r\nKarakter {soul_uuid} telah meninggal. Kerabat dan teman-teman tidak bisa dihibur.\r\n\r\nUpacara pemakaman akan diadakan segera, dan ahli waris mereka akan menerima harta mereka.\r\n\r\n{optional_sad_list}",
+  "Bangunan Gratis\r\n<color=13861954>Bangunan Gratis:</color>\r\n{buildings_list}",
+  "Khotbah Kesetiaan\r\nKarakter {soul_uuid} telah memutuskan untuk mengadakan khotbah guna meningkatkan kesetiaan terhadap diri mereka di antara para prajurit.\r\n\r\nAlasan yang mungkin:  \r\n$ Karakter adalah boneka, dan hubungan tuan mereka terhadap Penguasa Anda di bawah <red>0</red>.  \r\n$ Karakter baru-baru ini mencapai kemenangan sebagai komandan pasukan, tetapi hubungan mereka terhadap Penguasa Anda di bawah <red>0</red>."
+]

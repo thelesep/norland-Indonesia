@@ -1,0 +1,7 @@
+[
+  "Tidak Tersedia  \r\nTidak ada tempat untuk kencan - lord tidak memiliki rumah, atau saat ini sedang ditempati.",
+  "~  \r\nTarget menolak hadiah.",
+  "~  \r\nPasangan telah menemukan perselingkuhan!",
+  "Khotbah  \r\n{soul_uuid_bishop} akan mengadakan percakapan teologis dengan {soul_uuid_target}, yang akan berhenti menjadi seorang <hint=hint_persons_agnostic>agnostic</hint>.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{cost}</hint>",
+  "Tidak Tersedia  \r\nKarakter bukan seorang <hint=hint_persons_agnostic>agnostic</hint>."
+]

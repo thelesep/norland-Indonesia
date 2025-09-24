@@ -1,0 +1,7 @@
+[
+  "Khutbah Kesetiaan\r\n$ Dilakukan oleh lord yang ditunjuk di <hint=hint_bld_temple>Temple</hint> pada pagi hari.\r\n$ <hint=hint_soul_army_loyalty>Kesetiaan pasukan</hint> terhadap pelaksana akan meningkat.\r\n$ Efektivitas bergantung pada skill <hint=hint_skill_speech>Persuasi</hint>.\r\n{optional_preach_cost}",
+  "Khutbah Kesetiaan\r\n{skill_name}: {skill_level}\r\n\r\nAkibatnya, <hint=hint_soul_army_loyalty>kesetiaan pasukan</hint> terhadap pelaksana akan meningkat sebesar {loyalty_level}.\r\n{optional_preach_cost}",
+  "Boneka Menerima Dana\r\nBoneka {soul_uuid_puppet} menerima dana dari tuannya ({soul_uuid_sponsor}).\r\n\r\nKemungkinan besar, dana ini akan digunakan melawan Penguasa Anda.",
+  "Tidak Dapat Dihancurkan\r\nBangunan tidak dapat dihancurkan; khutbah penting dijadwalkan berlangsung di sana",
+  "Tidak Dapat Dipindahkan\r\nAnda tidak dapat memindahkan bangunan; khutbah penting dijadwalkan berlangsung di sana"
+]

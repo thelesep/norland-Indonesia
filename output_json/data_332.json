@@ -1,0 +1,7 @@
+[
+  "Ancaman kehancuran\r\n{optional_type_of_danger}\r\n\r\nOleh karena itu, Raja dari {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.\r\n\r\nAnda dapat mengirim pasukan Anda untuk membantu membela {faction_uuid} dari kehancuran total.\r\n\r\n<b>Konsekuensi</b>\r\n{optional_send_help_effects}\r\n{optional_allyship}\r\n{optional_will_gain_duty_of_honor}\r\n{optional_possible_helpers}",
+  "~\r\n{soul_uuid_king} muncul sebagai pemenang dan membela nyawa serta provinsinya.",
+  "~\r\n{soul_uuid_king} dikalahkan, dan keluarganya dihancurkan, serta kota itu diratakan",
+  "~\r\nIni adalah perbuatan langka di zaman ini bagi seseorang untuk membantu tetangga yang kerajaannya dalam bahaya! Saya berterima kasih karena telah menyelamatkan rumah saya dari kehancuran yang pasti!",
+  "~\r\nAnda tidak hanya bersekutu dengan musuh saya tetapi juga mengungkapkan kepada dunia pengecutan Anda sebagai prajurit! Kekalahan Anda hari ini hanyalah pengantar. Saya akan menjadikannya usaha saya untuk meninggalkan Anda tanpa satu pun prajurit yang bisa Anda panggil milik Anda sendiri."
+]

@@ -1,0 +1,7 @@
+[
+  "~\nSaya buru-buru memberitahukan Anda bahwa {hostage_name} tewas di tengah pembegaran. Saya berani menduga bahwa mereka jatuh di tangan prajurit Anda sendiri. Tetapi bukan prajurit yang membunuhnya, melainkan ketamakan Anda!",
+  "~\n{hostage_name} telah tewas dalam pertempuran! Dan hanya Anda yang harus disalahkan atas ini. Mengapa Anda tidak bisa membayar saja, bukankah nyawanya tidak bernilai beberapa koin emas?",
+  "~\nSaya buru-buru memberitahukan Anda bahwa {hostage_name} kini menjadi anggota keluarga kami. Percayalah, mereka membuat keputusan ini secara sukarela. Orang asing telah menjadi lebih dekat bagi mereka daripada keluarga sendiri; bukankah itu ulah Anda?",
+  "~\nAnda boleh mengucapkan selamat kepada saya: {hostage_name} kini menjadi anggota keluarga kami. Saya hanya bisa membayangkan apa yang harus mereka alami di bawah perawatan Anda hingga begitu mudah mengkhianati rumah bangsawan Anda.",
+  "~\n\n{soul_uuid_king} sedang mengumpulkan jumlah untuk tebusan, tetapi belum terkumpul sepenuhnya. Jika Anda ingin menerima lebih banyak uang, layak menunggu beberapa hari lagi.\n\n\nSaat ini terkumpul <hint=hint_resource_gold>{current_money}</hint> dari <hint=hint_resource_gold>{bribe_price_gold}</hint>."
+]

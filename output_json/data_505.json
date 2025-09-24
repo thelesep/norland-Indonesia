@@ -1,0 +1,7 @@
+[
+  "Serangan Mendadak!\r\nPenguasa {soul_uuid_king} dari {faction_uuid} tiba-tiba memutuskan untuk menyerang kota Anda guna menaklukkannya dan <b>menjadikan Anda sebagai vassal</b>. Pasukannya sudah dalam perjalanan.\r\n\r\nKarena sifat mendadak dari serangan ini, sekutu Anda tidak akan punya waktu untuk datang menolong, tetapi {soul_uuid_king} sendiri harus mengandalkan pasukannya sendiri saja.",
+  "Pengawal\r\nPengawal bertugas sekitar pukul 23:00 ketika penjahat menjadi aktif dan melayani hingga pukul 04:00.\r\n\r\nPengawal ditugaskan dari kumpulan prajurit yang tersedia (angka kedua) yang tidak terlibat dalam patroli atau menjaga para lord lainnya.",
+  "Tingkat Tempur\r\nTetapkan tingkat tempur minimum yang diperlukan untuk pengawal yang direkrut, tetapi pastikan Anda memiliki prajurit dengan tingkat tersebut yang tersedia.",
+  "Menara Kayu  \r\nSebuah <hint=hint_watch_tower_archers>menara pertahanan</hint> di mana <hint=hint_persons_warriors>prajurit</hint> dapat ditugaskan. Pemanah di menara menembak lebih jauh dan lebih akurat daripada biasanya.  \r\n\r\n$ Melengkapi prajurit di menara memerlukan senjata jarak jauh.  \r\n$ Menara Kayu lebih kokoh daripada <hint=hint_bld_watch_tower>Menara Pemanah</hint>.  \r\n$ Menara ini dapat menampung {arch_number} pemanah.",
+  "Pagar Kayu\r\nTembok kota kayu paling sederhana. Kelilingi struktur penting dengan pagar ini untuk melindunginya. Jangan lupa tambahkan gerbang dan menara."
+]

@@ -1,12 +1,7 @@
 [
-  "~\r\nI hasten to extend my heartfelt gratitude to you! I trust that this pact may herald the commencement of a lasting friendship between our noble houses!",
-  "~\r\nI am pleased to learn that a peace treaty has been signed, even if its terms are brief. The path to peace is challenging, but believe me, it is the only way to bring prosperity to our kingdoms!",
-  "~\r\n[hint_defence_alliance_only_description]\r\n$ Relationship with {soul_uuid_king}: <green>{rel_defence_alliance}</green>",
-  "Invite to your alliance\r\n{soul_uuid_king} will join the alliance of free cities under your leadership.\r\n\r\nThis means:\r\n[hint_defence_alliance_description]\r\n\r\nCost of invitation: <hint=hint_resource_gold>{alliance_invite_price}</hint>\r\n{optional_duty_of_honor}",
-  "The alliance is expanding!\r\n{soul_uuid_king} has decided to join your alliance of free cities.\r\n\r\nThis means:\r\n[hint_defence_alliance_description]\r\n{optional_duty_of_honor_complete}",
-  "Exit the city alliance\r\nThe head of the alliance would consider it a betrayal.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>",
-  "The alliance has been terminated.\r\nYou and {soul_uuid_king} are no longer mutually bound.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>",
-  "~\r\nI hope for a day when there will be no need to form alliances. Yet the world is steeped in enmity, and this treaty shall aid us in our joint struggle against wickedness and treachery.",
-  "~\r\nI'm glad we were able to establish an alliance between our cities. We are indubitably in need of each other's support. Long gone are the times when neighbors lived in peace and harmony!",
-  "~\r\nDissolving an alliance is a task easily done, but foreseeing its consequences is a far more intricate endeavor. I am bound to accept your decision, yet from my own experience, I would counsel that allies should not be taken for granted."
+  "Prajurit\n\n{details_stack}",
+  "Pengembara\n\n{details_stack}",
+  "Teror Semakin Tak Terkendali\nSelama teror yang sedang berlangsung, semua pengembara dan petani pengangguran telah dihukum. Jika Anda tidak menghentikannya, algojo akan mulai menghukum petani biasa.\n\nUntuk menghentikan teror, cari <hint=hint_bld_scafod>Scaffold</hint> di mana mode ini diaktifkan.",
+  "Tidak Mungkin Melanjutkan\nPenguasa {name} harus dewasa - setidaknya {age_adult} tahun.\n\nUntuk menaikkan usianya, tingkatkan level skill-nya.",
+  "Tidak Ada Peralatan\n{soul_uuid} tidak memiliki senjata atau zirah apa pun. Menurut aturan suci duel, kedua lawan harus dilengkapi dengan benar."
 ]

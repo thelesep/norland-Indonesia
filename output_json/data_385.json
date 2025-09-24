@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\n{soul_uuid_hostage} telah diculik.\nRaja-nya {soul_uuid_king} menawarkan imbalan untuk pembebasannya.\n\nKonsekuensi: \n$ Imbalan Anda: <hint=hint_resource_gold>{bribe_price_gold}</hint> \n$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>",
+  "Menuntut tebusan\nKirim sandera pulang dan terima tebusan. \n{optional_not_enough_money}\n\nKonsekuensi: \n$ Imbalan Anda: <hint=hint_resource_gold>{current_money}</hint> \n$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>",
+  "~\nAnda telah membebaskan {soul_uuid_hostage} dan mereka sedang menuju pulang!\n\n$ Imbalan Anda: <hint=hint_resource_gold>{current_money}</hint>\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>",
+  "~ {soul_uuid_hostage} telah dibebaskan dan sedang menuju pulang! {soul_uuid_king} senang bahwa sandera tersebut selamat.",
+  "~ {soul_uuid_hostage} telah bergabung dengan faksi {faction_uuid_player}. {soul_uuid_king} menyebut mereka pengkhianat."
+]

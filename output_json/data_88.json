@@ -1,12 +1,7 @@
 [
-  "Decapitation\r\nIt's a very serious matter.",
-  "Deep wound\r\nA dangerous <hint=hint_wounds>wound</hint>.\r\n\r\n$ Causes intense <hint=hint_pain>pain</hint>.\r\n$ After healing, will leave 3 <hint=hint_scars>scars</hint>.\r\n[hint_injury_inflamed_wound_chance]\r\n[hint_injury_pain_shock_chance]\r\n \r\n[hint_injury_remain_time]",
-  "Loss of hand\r\nA dangerous <hint=hint_wounds>wound</hint> and a lifelong injury.\r\n\r\n$ Causes intense <hint=hint_pain>pain</hint>.\r\n$ Combat <hint=hint_skill_combat>skill</hint> reduced by 50%.\r\n$ Character cannot perform physical work.\r\n$ Character cannot use a shield.\r\n$ Upon losing both hands, a character cannot use weapons.\r\n[hint_injury_inflamed_wound_chance]\r\n[hint_injury_pain_shock_chance]",
-  "Arm fracture\r\n$ Causes intense <hint=hint_pain>pain</hint>.\r\n$ Limits the use of weapons.\r\n[hint_injury_inflamed_wound_chance]\r\n[hint_injury_pain_shock_chance]\r\n\r\n[hint_injury_remain_time]",
-  "Facial injury\r\nPainful, but not life-threatening.\r\n\r\n$ Causes intense <hint=hint_pain>pain</hint>.\r\n$ After healing, it will leave 5 <hint=hint_scars>scars</hint>.\r\n[hint_injury_pain_shock_chance]\r\n\r\n[hint_injury_remain_time]",
-  "Leg fracture\r\n$ Causes intense <hint=hint_pain>pain</hint>.\r\n$ Slows down the character's movement.\r\n[hint_injury_inflamed_wound_chance]\r\n[hint_injury_pain_shock_chance]\r\n\r\n[hint_injury_remain_time]",
-  "Rib fracture\r\n<hint=hint_pain>Painful</hint>, but not life-threatening.\r\n[hint_injury_pain_shock_chance]\r\n\r\n[hint_injury_remain_time]",
-  "Eye loss\r\nA dangerous <hint=hint_wounds>wound</hint> and a lifelong injury.\r\n\r\n$ Causes severe <hint=hint_pain>pain</hint>.\r\n$ Decreases <hint=hint_skill_combat>Combat Skill</hint>.\r\n[hint_injury_inflamed_wound_chance]\r\n[hint_injury_pain_shock_chance]",
-  "Loss of mobility\r\nThe character is unable to move.\r\n{optional_reasons_list}",
-  "Emaciation\r\nThe character has become weak from hunger. Someone must feed them to save them from death.\r\n \r\nDeath in: {time}"
+  "Narapidana kelaparan!\r\n<tight>$ Pastikan Anda memiliki cukup <hint=hint_bld_slaves_barrack>Blok Penjara</hint> untuk semuanya.\r\n\r\n$ Pastikan Blok Penjara memiliki pekerja penjaga yang ditugaskan kepadanya.\r\n$ Verifikasi bahwa Anda telah mengalokasikan jumlah makanan yang memadai untuk jumlah narapidana Anda di <hint=hint_finance_menu>Menu Ekonomi</hint></tight>",
+  "Remaja\r\nKarakter telah dewasa. Sekarang mereka dapat mempelajari buku di <hint=hint_knowledge_menu>menu Pengetahuan</hint>.\r\n\r\nSelain itu, Anda dapat menugaskannya Percakapan Bijak dengan lord yang berpendidikan untuk mentransfer <hint=hint_idea>pengetahuan</hint> (remaja sangat reseptif terhadapnya).",
+  "Perampokan!\r\nAnda dapat mencoba memulihkan barang curian dengan merakit <hint=hint_army>regu</hint> dan menyerang pencuri.",
+  "Kemarahan Nektar\r\nSetelah mengonsumsi <hint=hint_resource_nectar>Nektar</hint>, karakter akan memasuki keadaan amarah dan menyerang siapa pun di bidang penglihatan mereka.\r\n\r\nSemakin sering karakter mengonsumsi nektar, semakin mungkin mereka mengalami episode Kemarahan Nektar.",
+  "Agresi Mabuk\r\nHari ini, mereka minum terlalu banyak <hint=hint_alcohol>alkohol</hint> dan memulai perkelahian.\r\n\r\nAda kemungkinan kecil hal ini terjadi setiap kali karakter tidak bahagia dan minum alkohol. Perhatikan pikiran terberat mereka untuk membuat ini terjadi lebih jarang."
 ]

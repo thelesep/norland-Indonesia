@@ -1,0 +1,7 @@
+[
+  "Lord tidak di kota\r\nKlik untuk pergi ke lokasi lord.",
+  "Hubungan terlalu buruk\r\n[hint_unavailable_bad_opinion]\r\n\r\nAmbang batas hubungan yang diperlukan lebih tinggi karena hubungan Anda dengan suzerain atau pemimpin aliansi {soul_uuid_leader} dari {faction_uuid_leader}, di mana {faction_uuid} adalah anggota, terlalu buruk.\r\n\r\n<b>Petunjuk:</b> Anda dapat menjalin kontrak perdagangan permanen tanpa mempedulikan hubungan jika Anda dan mitra dagang Anda adalah bagian dari <b>aliansi kota bebas</b> (ini tidak berlaku untuk kerajaan bawahan).",
+  "Raja sedang di luar kota.\r\nRaja {soul_uuid} saat ini sedang mengunjungi kota {faction_uuid}.\r\n\r\nIa kemungkinan akan pulang dalam {remain_time}.",
+  "~\r\n* {soul_uuid_trader} terpesona dengan {soul_uuid_performer} (hubungan di atas <green>100</green>) dan <green>bersedia memberikan diskon signifikan.</green>",
+  "~\r\n* <b>Petunjuk</b> Jika {soul_uuid_trader} terpesona dengan {soul_uuid_performer} (hubungan di atas <green>100</green>), mereka bisa menawarkan diskon besar."
+]

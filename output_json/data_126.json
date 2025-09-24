@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nOnly pigs can chew and swallow this!\r\n\r\nReason: Consumed <hint=hint_resource_rutabaga>Rutabaga</hint>.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nThe taste on my lips is as if an angel kissed me in spring! And a hint of wild berries...\r\n\r\nReason: consumed flavorful <hint=hint_resource_ale>Ale</hint>.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nPotent stuff! Though the taste is pretty mediocre...\r\n\r\nReason: consumed <hint=hint_resource_moonshine>Moonshine</hint>.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI am overwhelmed with a sense of satisfaction!\r\n\r\nReason: Fulfilled <hint=hint_desire>desire</hint>.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI must do it at all costs!\r\n\r\nReason: <hint=hint_desire_obsession>obsession</hint>.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nAll day long, it's the only thing I can think about. I'll go crazy if I don't fulfill my plan!\r\n\r\nReason: Intense <hint=hint_desire_obsession>obsession</hint>.",
-  "[hint_mind_caption]\r\nI feel like I'm not appreciated here... It's tormenting me.\r\n\r\nReason: Low <hint=hint_loyality>loyalty</hint>.\r\n\r\n",
-  "[hint_mind_caption]\r\nI thought it was the end, but now I'm free!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nTired from patrolling\r\n\r\nI've been on <hint=hint_persons_guard>patrol</hint> all night, and I'm very tired!\r\n\r\n<b>Hint:</b> Warriors are assigned and changed in patrols automatically. To reduce the overall load, decrease the number of guards in the <hint=hint_bld_patrol_sign>Patrol Banner</hint> menu.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI'm just a peasant, not a warrior! I'll be killed in the very first battle!\r\n[hint_mind_remain_time]"
+  "~\r\nSelama <hint=hint_sofia_cult>Pihak Gereja</hint> menganggap kota Anda terlalu kecil untuk mengirim <hint=hint_bishop>uskup</hint>, Matriark tetap tidak mengetahui urusan internal Anda.",
+  "Tidak Ada Prioritas\r\nPekerja bebas secara acak akan direkrut di bangunan ini tanpa prioritas apa pun.",
+  "Penugasan Otomatis\r\nPekerja yang dapat memberikan bonus produksi maksimum di sini akan direkrut secara otomatis di bangunan ini",
+  "Kirim Sekarang\r\nSemua material yang saat ini siap akan dipindahkan ke gudang segera, tetapi ini akan mengalihkan perhatian pekerja dari produksi.",
+  "Hancurkan\r\nHancurkan bangunan sepenuhnya. Ini terjadi secara instan."
 ]

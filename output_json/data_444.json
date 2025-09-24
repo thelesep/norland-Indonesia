@@ -1,0 +1,7 @@
+[
+  "Transfer Pengetahuan\r\n$ <b>Ketika seorang lord meninggal, pengetahuan mereka hilang</b>, jadi sebaiknya persiapkan ini sebelumnya dengan mendistribusikan pengetahuan di antara beberapa karakter.\r\n$ Karakter berbagi pengetahuan satu sama lain selama <b>Percakapan Bijak</b>.\r\n$ Mereka melakukan ini secara otomatis dengan teman dan anak-anak mereka, tetapi Anda juga bisa <b>memulai secara manual dari menu karakter</b>.\r\n$ <b>Ini juga berfungsi dengan tamu</b> dan lord lainnya di peta dunia—kadang mereka punya pengetahuan yang sangat menarik untuk dibagikan.",
+  "Transfer Pengetahuan\r\n\r\n<img=hint_tutorial_wise_help></img>\r\n\r\n[hint_wise_help]",
+  "Tidak Ada Peralatan\r\n{soul_uuid} tidak memiliki senjata.",
+  "Tidak Tersedia\r\nKarakter meninggalkan kota",
+  "Ancaman Perampokan\r\n{optional_type_of_danger}\r\n\r\nOleh karena itu tetua desa {village_name} meminta bantuan Anda.\r\n\r\nAnda bisa mengirim pasukan Anda untuk membantu mereka membela diri.\r\n\r\n<b>Konsekuensi</b>\r\n$ Jika Anda gagal melindungi desa, desa itu akan dibakar, dan pengumpulan upeti akan dilanjutkan hanya dalam beberapa hari."
+]

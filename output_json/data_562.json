@@ -1,0 +1,7 @@
+[
+  "[hint_advisor_caption]  \r\nMeskipun sudah menikah, beberapa pasangan saling membenci. Kebencian timbal balik mereka mencegah munculnya pewaris.\r\n\r\nAnda bisa mencoba memperbaiki hubungan mereka melalui intrik, komunikasi, atau hadiah.\r\n\r\nKekurangan pewaris dapat menyebabkan krisis suksesi di masa depan.",
+  "Tidak Tersedia  \r\n{soul_uuid} tidak akan selingkuh dengan {soul_uuid_spouce}, karena mereka menikah bahagia dan memiliki hubungan timbal balik di atas <green>{threshold}</green>.",
+  "Perselingkuhan Karena Hubungan Buruk  \r\n{name1} memutuskan untuk selingkuh dari {name2} karena pendapat buruk: {opinion}",
+  "Perselingkuhan Karena Nafsu  \r\n{name1} menyerah pada godaan dan selingkuh dari {name2} karena sifat nafsu mereka.",
+  "Ladang Wortel  \r\n<hint=hint_resource_carrot>Wortel</hint> ditanam di sini.\r\n\r\nHasil wortel rendah dibandingkan tanaman lain, tapi tidak memiliki efek negatif dan menghasilkan panen setiap hari.\r\n\r\nSetiap {fert_days} hari memerlukan pemupukan dengan membakar <hint=hint_resource_wood>{fert_number}</hint>."
+]

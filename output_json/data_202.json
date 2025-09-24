@@ -1,12 +1,7 @@
 [
-  "~\r\nAs a result of a successful assault, {soul_uuid_king} was defeated and forced to break all his agreements.\r\n\r\nYour warriors return home victorious.",
-  "~\r\nYou lost the battle and {soul_uuid_king} proved to be too strong for you. All his political agreements remain in force.",
-  "~\r\n<red>ATTENTION! {soul_uuid_king} is a member of the alliance {soul_uuid_king_leader} from {faction_uuid_sir}!</red>\r\n$ Relationship with {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
-  "~\r\n\r\n<b>Ally's responsibilities</b>\r\n$ If you fail to send aid, they will consider it betrayal and greatly worsen their opinion of your king. If relations deteriorate too much, <red>they may withdraw from the alliance</red>. Neighbors and other allies will also be unpleasantly surprised.",
-  "~\r\n<red>You betrayed an ally.</red>\r\n\r\n$ The attitude of {soul_uuid_king} toward you: <red>{rel_defence_alliance_not_help}</red>\r\n$ The attitude of your neighbors and other allies toward you: <red>{rel_defence_alliance_broken_neighbore}</red>",
-  "~\r\n{soul_uuid_king} has decided to leave the alliance as their relationship with you has become hostile.",
-  "~\r\nRemaining in an alliance with you, just waiting for you to betray me, is something I am not prepared for. If our relations cannot be mended, then let each of us go our separate ways.",
-  "~\r\nI know that vengeance is stronger even than the fear of death. No alliance with you can protect me from your hatred. I choose to sever it; let us rather admit to each other that we are enemies, not allies.",
-  "~\r\n$ Matriarch approves of help against marauders: <green>{church_rel_im}</green>",
-  "Reinforcements\r\n{commander_soul_uuid} from {faction_uuid}\r\n{optional_army_info}"
+  "Inspirasi\nSuasana hati yang baik telah memicu <hint=hint_tutorial_inspiration>inspirasi</hint>. <green>Semua skill telah ditingkatkan sebesar {inc_number}</green>.\n\nKeadaan ini akan bertahan hingga akhir hari, tetapi juga bisa hilang jika karakter menjadi tidak bahagia.",
+  "Hemofilia\nPendarahan sedang dan parah tidak dapat dihentikan.",
+  "Mantan Penjahat\nMembawa pikiran negatif saat bertugas di militer.",
+  "Teror terhadap Budaya\nRaja telah memulai teror terhadap orang-orang dari budaya ini. Horor dan ketakutan telah menggenggam semua pemakainya.",
+  "Pemimpin Ambisius\n$ Karakter ini percaya bahwa ia ditakdirkan untuk menyatukan Norland dan menjadi kaisar.\n$ Raja penakluk mengerahkan upaya besar dalam memerintah provinsinya dan menerima lebih banyak uang dari rakyatnya.\n$ Mereka menganggap tetangga mereka sebagai hambatan kecil di jalan menuju kekuasaan mereka, menyimpan kebencian khusus terhadap pemimpin <hint=hint_tutorial_states>negara</hint>."
 ]

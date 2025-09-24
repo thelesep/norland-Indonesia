@@ -1,0 +1,7 @@
+[
+  "~\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>\n$ Hubungan dengan {soul_uuid_king_s}: <red>{rel_de}</red>",
+  "Ancaman Perampokan\n{optional_type_of_danger}\n\nOleh karena itu, Raja dari {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.\n\nAnda dapat mengirim pasukan Anda untuk membantu mempertahankan {faction_uuid}.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\n{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kota mereka dari perampokan.",
+  "~\n{soul_uuid_king} dikalahkan dan tidak bisa mempertahankan kota mereka dari perampokan.",
+  "~\nSaya segera berterima kasih kepadamu karena berdiri di sisiku. Aku tahu pertempuran itu sengit, dan kau menderita kerugian yang besar. Tetapi yakinlah: kebaikan yang telah kau lakukan tidak akan kulupakan!"
+]

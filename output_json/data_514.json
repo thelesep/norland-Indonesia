@@ -1,0 +1,7 @@
+[
+  "Emas tidak mencukupi\r\n{optional_trade_info}\r\n[hint_unavailable_gold]",
+  "Hubungan tidak cukup baik\r\n[hint_unavailable_bad_opinion]\r\n\r\n<b>Petunjuk:</b>\r\n$ Anda bisa membuat <b>perjanjian damai</b> untuk mengunjungi kota terlepas dari hubungan antara raja-raja.",
+  "Selesai!\r\n\r\nSekarang pelayan Aula, yang diinstruksikan oleh lord-manager Anda, akan memberi tahu pekerja <b>Pabrik Bir</b> apa yang Anda inginkan dari mereka. Kemudian pekerja akan mengambil <b>Rutabaga</b> dari gudang, dan pada akhir hari, mereka akan membawa <b>Moonshine</b> yang dibuat dari Rutabaga kembali ke gudang.\r\n\r\nPerhatikan bahwa Anda sudah memiliki 50 unit Moonshine, jadi untuk menyelesaikan tugas memproduksi 100 unit Moonshine, Anda membutuhkan tambahan 50 unit Rutabaga, karena satu unit Rutabaga menghasilkan satu unit Moonshine.\r\n{split}\r\n$ Tutup menu Produksi.",
+  "Menjadikan boneka\r\nJika hubungan satu karakter terhadap karakter lain melebihi <green>{puppet_rel}</green> (dan untuk anak-anak terhadap orang tua mereka, ambang batas ini adalah <green>{puppet_children}</green>), karakter tersebut bisa dijadikan <hint=hint_encyclopedia_puppets>boneka</hint>.\r\n\r\nDalam kasus ini, karakter tersebut akan menjadi boneka dari Penguasa Anda, yang berarti mereka akan menjalankan semua perintah Anda.",
+  "Menjadikan boneka\r\n{soul_uuid_2} akan menjadi boneka dari {soul_uuid_1}"
+]

@@ -1,0 +1,7 @@
+[
+  "Sebuah pemberontakan sedang direncanakan\r\nBangsawan bawahan Anda {soul_uuid_king} dari wilayah {faction_uuid} telah menjadi permusuhan terhadap raja Anda dan sedang mempersiapkan diri untuk memisahkan diri dari kekuasaan Anda.\r\n\r\nJika dalam 24 jam Anda tidak berhasil memulihkan hubungan dengan mereka dari {current_opinion} ke {min_opinion_threshold}, pemberontakan akan dimulai.\r\n\r\n<b>Petunjuk:</b> Anda juga bisa mencoba menetralkan bangsawan bawahan yang memberontak dengan cara lain (misalnya, dengan membunuh atau menculik mereka).\r\n\r\n{optional_other_rebel_vassals}",
+  "~\r\nAda kemungkinan bahwa bangsawan-bangsawan bawahan ini akan mendukung pemberontakan ketika dimulai:",
+  "Suap pewaris tahta\r\nSuap pewaris tahta {soul_uuid_heir} untuk memicu pemberontakan.",
+  "Suap pewaris tahta\r\n{skill_name} {skill_level} lvl.\r\n{skill_name} target {lord_skill_level} lvl.\r\n\r\nAkibatnya:\r\n<hint=hint_loyalty>Kesetiaan</hint> pewaris tahta terhadap raja mereka akan turun menjadi <red>{heir_rebellion_target_loyalty}</red>.\r\n\r\n{soul_uuid_heir} akan memulai pemberontakan, tetapi hanya {heir_rebellion_soldiers_percent}% dari prajurit yang akan bergabung dengan para pemberontak, dan Anda perlu mendukung mereka dengan pasukan Anda sendiri.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_rune>{heir_bribe_cost_rings}</hint>",
+  "~\r\nAnda telah menyogok {soul_uuid_heir}, pewaris tahta dari {faction_uuid}. Mereka segera akan memulai pemberontakan."
+]

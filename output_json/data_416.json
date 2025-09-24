@@ -1,0 +1,7 @@
+[
+  "Konflik dengan Sekutu\r\nSeorang anggota aliansi Anda, {soul_uuid_king}, memiliki perselisihan serius dengan Penguasa Anda.\r\n\r\nJika hubungan dengan monarki ini tidak dipulihkan dari {current_opinion} ke {min_opinion_alliance_threshold} dalam 24 jam, {faction_uuid} <b>akan keluar dari aliansi</b>",
+  "Konflik dengan Pemimpin Aliansi\r\nPemimpin aliansi, {soul_uuid_king}, memiliki keluhan serius terhadap raja Anda.\r\n\r\nJika hubungan dengan monarki ini tidak dipulihkan dari {current_opinion} ke {min_opinion_alliance_threshold} dalam 24 jam, <b>Anda akan dipaksa keluar dari aliansi</b>.",
+  "Masalah",
+  "[hint_advisor_caption]\r\nPabrik Kayu Anda tidak menghasilkan cukup <hint=hint_resource_wood>kayu</hint>, yang sangat penting untuk pengembangan.\r\n\r\n$ Pastikan Anda memiliki setidaknya 2, lebih baik 3 <hint=hint_bld_woodcutter>Pabrik Kayu</hint> yang dibangun.\r\n$ Pekerja kayu secara bertahap membersihkan hutan di sekitar Pabrik Kayu, dan menjadi semakin jauh untuk mengambil kayu. Mungkin saatnya untuk memindahkan Pabrik Kayu yang dibangun lebih dekat ke pohon-pohon.\r\n\r\n<b>Catatan</b> bahwa hutan memiliki kemampuan untuk beregenerasi, tetapi hanya di dekat pohon-pohon lain. Jika Anda menebang seluruh hutan, itu tidak akan beregenerasi.",
+  "[hint_advisor_caption]\r\n[hint_nt_dummy_low_beer]"
+]

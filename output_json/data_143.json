@@ -1,12 +1,7 @@
 [
-  "Risk of heir uprising\r\nThe heir has plans for a rebellion and therefore cannot leave the city.",
-  "Low loyalty\r\nThe lord is considering leaving the family and therefore will not leave the city at the moment.",
-  "Pregnancy\r\nThe lord is expecting a baby and therefore will not leave the city.",
-  "King\r\nThe lord is a king, so he cannot be assigned to this task.",
-  "Queen\r\nThe lord is a queen, so she cannot be assigned to this task.",
-  "Threat to the city\r\nThe king refuses to leave the city while it is threatened.",
-  "Squad in battle\r\nWhile the squad is engaged in battle, it cannot be assigned tasks.",
-  "Squad leader cannot walk\r\nAs long as the squad leader cannot walk, the squad cannot be assigned tasks.",
-  "No available messengers\r\nCurrently, there are no messengers available to be sent.",
-  "No cutthroats in the city\r\nThere are no cutthroats in this city, so there is no one to assign for this criminal action.\r\nThe number of cutthroats in the city is updated every few days."
+  "Cadangan Hampir Habis\nPada kedalaman tambang saat ini, cadangan besi hampir habis.\n\nTingkatkan tambang untuk mengakses cadangan yang lebih dalam sebelum besi yang tersedia habis.\n\n<b>Petunjuk:</b> Klik pada tambang untuk melihat berapa banyak besi yang tersisa. Ini juga dapat dilihat di <hint=hint_statistic_menu>Menu Statistik</hint>.",
+  "Penurunan Kesuburan\nAkibat deforestasi, kesuburan tanah di seluruh provinsi telah menurun, dan jika Anda terus menebang pohon, kesuburan akan menurun lebih lanjut. \nHal ini, pada gilirannya, mengurangi produktivitas ladang dan pengumpulan rempah hutan.\n\nPohon-pohon baru tumbuh di samping yang sudah ada, sehingga hutan akan pulih jika Anda mencegah penebangan habis-habisan. \n\n<b>Petunjuk:</b> Kesuburan saat ini dari ladang dapat diperiksa di <hint=hint_statistic_menu>Menu Statistik</hint>.",
+  "Menu Perdagangan Luar Negeri \nIni menampilkan semua kontrak perdagangan yang telah disepakati dengan tetangga. Mereka diperbarui setiap hari. \n\nAnda dapat mengeksekusi salah satunya secara manual, atau melakukannya secara otomatis. \n\nUntuk berdagang, seorang petani bebas dikirim dari dan kemudian kembali ke kota Anda (tidak memerlukan <hint=hint_resource_paper>Kertas</hint> untuk ini).",
+  "Laporan Perdagangan Luar Negeri\nNeraca perdagangan hari ini adalah sebagai berikut:\n{optional_stack_balance}\n\nMitra dagang Anda telah meningkatkan anggaran dan populasi mereka.",
+  "Kejenuhan Pasar\nKejenuhan pasar suatu produk meningkat setiap kali Anda menjual produk tersebut. Jika angka tersebut tetap di bawah ambang batas <hint=hint_market_volume>permintaan lokal</hint>, harga tidak akan berubah. Namun, begitu kejenuhan pasar meningkat di atas ambang batas permintaan lokal, harga akan mulai turun, memberikan nilai lebih sedikit untuk barang Anda.\n\nKejenuhan pasar menurun secara bertahap saat populasi secara bertahap menghabiskan sumber daya yang diekspor. Proses ini diwakili oleh nilai <b>konsumsi harian</b> dari setiap produk."
 ]

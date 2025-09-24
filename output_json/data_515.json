@@ -1,0 +1,7 @@
+[
+  "Penguasa tidak bisa menjadi boneka\r\n{soul_uuid} adalah seorang penguasa dan tidak bisa menjadi boneka",
+  "Seorang boneka tidak bisa menjadi idola\r\n{soul_uuid_1} secara langsung atau tidak langsung adalah boneka dari {soul_uuid_2}, sehingga dia tidak bisa menjadi idola mereka",
+  "Seorang boneka tidak bisa memiliki dua idola\r\n{soul_uuid_puppet} sudah memiliki idola {soul_uuid_master} dan tidak bisa menjadi boneka dari karakter lain.",
+  "Tidak tersedia\r\n{soul_uuid_1} tidak bisa menjadi boneka dari {soul_uuid_2}\r\n{optional_reason}",
+  "Seorang idola tidak bisa menjadi boneka\r\n{soul_uuid} sudah menjadi idola dan tidak bisa menjadi boneka."
+]

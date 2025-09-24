@@ -1,12 +1,7 @@
 [
-  "~ \r\nAttacking a neighbor without warning brings no honor to anyone. But then again, what do you know of honor, born in a pigsty, half-human, half-rat? I will crush you regardless!",
-  "Impossible to summon\r\nA surprise attack can only be made by your own forces.",
-  "[hint_mind_caption]  \r\nNot bad beer! And a pleasant intoxication!  \r\n\r\nReason: drank <hint=hint_resource_beer>Beer</hint>  \r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI'm sure Mother Sophia will hear my prayers... At least, I feel calmer.",
-  "Sleepiness \r\nThe character hasn’t slept for a long time and may soon collapse and fall asleep right where they stand.",
-  "[hint_mind_caption]\r\nOh, I’m so sleepy! (yawns)\r\n\r\nReason: The character hasn’t slept for a long time.",
-  "Sexual Desire\r\nThe character hasn’t had sex for a long time and feels growing sexual desire.\r\n\r\nThis troubles them, making them inclined to seek a sexual partner when possible.",
-  "Sexual Obsession\r\nThe character has gone without sex for a very long time and is experiencing an extreme level of arousal.\r\n\r\nThe lack of sex deeply unsettles them, and they will actively seek a sexual partner whenever possible.\r\n{optional_monogam_warning}",
-  "[hint_mind_caption]\r\nI want sex. Yes, I want sex!\r\n\r\nReason: The character hasn’t had sex for a long time.",
-  "[hint_mind_caption]\r\nAnyone will do! I can't take it anymore!\r\n\r\nReason: The character hasn’t had sex for a very long time."
+  "[hint_mind_caption]\nHanya babi yang bisa mengunyah dan menelan ini!\n\nAlasan: Mengonsumsi <hint=hint_resource_rutabaga>Rutabaga</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nRasa di bibirku seolah-olah malaikat menciumku di musim semi! Dan sedikit rasa beri liar...\n\nAlasan: mengonsumsi <hint=hint_resource_ale>Ale</hint> yang beraroma.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nBarang kuat! Meskipun rasanya cukup biasa saja...\n\nAlasan: mengonsumsi <hint=hint_resource_moonshine>Moonshine</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAku diliputi rasa puas!\n\nAlasan: Memenuhi <hint=hint_desire>keinginan</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAku harus melakukannya dengan segala cara!\n\nAlasan: <hint=hint_desire_obsession>obsesi</hint>.\n[hint_mind_remain_time]"
 ]

@@ -1,0 +1,7 @@
+[
+  "Tanggal Dijadwalkan\r\nKarakter telah merencanakan kencan romantis dengan {soul_uuid_sex_parther} malam ini.",
+  "Pemeriksaan yang Dialihkan\r\nLord {soul_uuid} kini mengelola <hint=hint_bld_chancellery>Kanselari</hint> baru, dan semua bangunan yang sebelumnya berada di bawah kendalinya kini dilayani oleh para juru tulis dari Kanselari ini.\r\n\r\nBonus produksi akan tetap sama.",
+  "Kerja Pengetahuan Dibatalkan\r\nKarena kebutaan yang didapat, {soul_uuid} tidak bisa lagi melanjutkan bekerja di perpustakaan.\r\n\r\nPekerjaan pada pengetahuan {knowledge_name} telah dihentikan.",
+  "Tinggal di Belakang\r\nLord yang memerintah akan tinggal di belakang unit dan terlibat dalam pertempuran hanya ketika diperlukan.\r\n\r\nIni meningkatkan peluang bertahan hidup mereka dalam pertempuran, tapi <red>semangat prajurit akan menurun</red>.",
+  "Tidak Tersedia\r\nKarakter bersifat <hint=hint_monogam>monogami</hint>, sehingga mereka lebih suka memotong kaki sendiri daripada setuju dengan hal seperti itu."
+]

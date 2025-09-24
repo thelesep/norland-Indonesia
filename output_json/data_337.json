@@ -1,0 +1,7 @@
+[
+  "Konflik antar tetangga\nSebuah konflik telah muncul antara raja {soul_uuid_king_1} dan {soul_uuid_king_2} dari {faction_uuid_2}.\n{optional_conflict_theme}\n\n{soul_uuid_king_1} meminta Anda untuk menyatakan posisi Anda secara terbuka dalam perselisihan ini.\n\n<b>Konsekuensi</b>\n$ Mendukung satu pihak akan meningkatkan hubungan Anda dengan pihak tersebut sebesar <green>{support_buf}</green> dan memperburuk hubungan dengan lawan mereka sebesar <red>{suppport_debuf}</red>.",
+  "Dukung {soul_uuid_king_name}\nNyatakan secara terbuka bahwa {soul_uuid_king} dari {faction_uuid} benar dalam perselisihan dan bahwa Anda mendukungnya.\n\n<b>Konsekuensi</b>\n$ {soul_uuid_king}: Hubungan <green>{support_buf}</green>\n$ {soul_uuid_king_other}: Hubungan <red>{suppport_debuf}</red>",
+  "~\n<b>Konsekuensi</b>\n$ {soul_uuid_king} senang bahwa keadilan telah menang. Hubungan <green>{support_buf}</green>\n$ {soul_uuid_king_other} menganggap Anda pengecut yang tidak terhormat. Hubungan <red>{suppport_debuf}</red>",
+  "~\nKedua pihak dalam perselisihan menganggap Anda pengecut yang sulit dipercaya.\n\n<b>Konsekuensi</b>\n$ {soul_uuid_king_1}: Hubungan <red>{ignor_def}</red>\n$ {soul_uuid_king_2}: Hubungan <red>{ignor_def}</red>\n",
+  "~\nBantuan di saat membutuhkan tidak akan saya lupakan. Kebencian membawa saya ke konflik-konflik, tapi itu juga memaksa saya untuk mengingat tindakan kebaikan. Mulai saat ini, Anda bisa mengandalkan dukungan saya."
+]

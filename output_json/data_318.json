@@ -1,0 +1,7 @@
+[
+  "Permintaan bergabung dengan aliansi\n\nMintalah {soul_uuid_king} untuk menerimamu ke dalam aliansi kota-kota bebas di bawah kepemimpinannya.\n\n\nIni berarti:\n[hint_defence_alliance_description]",
+  " ",
+  "Meminta bantuan\n\n{soul_uuid_king} adalah sekutumu, dan engkau boleh meminta bantuannya dalam menghadapi ancaman.\n\n\n$ {soul_uuid_king} akan mengirimkan regu prajuritnya kepadamu. Engkau bisa menggunakannya dalam satu pertempuran mendatang, atau mereka akan pulang dalam tiga hari.\n\n$ {soul_uuid_king} akan memperburuk perlakuan terhadapmu untuk setiap prajurit dari regunya yang tewas.",
+  "Permintaan bantuan\n\n{soul_uuid_king} tetap setia pada aliansi dan sedang mengirimkan prajuritnya kepadamu.\n\n\n$ Engkau akan bisa menggunakannya dalam satu pertempuran mendatang, atau mereka akan pulang dalam tiga hari.\n\n$ Untuk setiap prajurit yang tewas, {soul_uuid_king} akan menurunkan perlakuan terhadapmu sebesar <red>{rel_every_soldier_dead}</red>",
+  "Permintaan bantuan\n\n{soul_uuid_king} menganggap kemenanganmu mustahil, mengklaim penolakan terhadap pembunuhan prajuritnya dan prajuritmu. Mereka telah mengkhianatimu; tidak ada bantuan yang diberikan.\n\n\n$ Mereka sedang meninggalkan aliansi kota-kota bebas.\n\n$ Sikap {soul_uuid_king} terhadapmu: <red>{rel_defence_alliance_broken_by_ai}</red>"
+]

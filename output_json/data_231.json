@@ -1,12 +1,7 @@
 [
-  "Crossbow\r\nRanged weapon.\r\n\r\n$ Successfully pierces and destroys armor and shields.\r\n$ Compared to <hint=hint_resource_bow>Bow</hint>, it is much less effective against unarmored targets, as it loads twice as slowly.\r\n\r\n<b>Production</b>\r\n$ Produced in <hint=hint_bld_workshop>Workshop</hint>.\r\n$ Requires <hint=hint_resource_wood>1</hint> and <hint=hint_resource_steel>1</hint> to create.",
-  "Expel\r\nExpel the guest. You might avoid negative consequences from their stay, but you could also miss out on interesting opportunities.",
-  "Hire the Knight\r\nBy hiring this fugitive marauder, you will gain an exceptionally powerful knight capable of leading your troops.\r\n\r\nHowever, you will soon have to withstand an attack from {warriors_min} - {warriors_max} of their former <hint=hint_person_maroders>marauder</hint> kin.",
-  "Trade Books\r\nA Scriptonic trades in unique books that cannot be purchased anywhere else.",
-  "Witch: Deliver to Justice\r\nYou hand the witch over to the church, after which she will be executed.\r\n\r\n$ Relations with the <hint=hint_relations_matriarch>Matriarch</hint>: <green>+{rel_inc}</green>",
-  "Witch: Bribe the Bishop\r\nYou convince the Bishop to overlook the witch's arrival in your settlement. In return, the witch will be grateful to you.\r\n\r\n$ Bribe cost: <hint=hint_resource_rune>{cost}</hint>",
-  "Ransom the Prisoner\r\nAfter the ransom, he will become your prisoner and will keep the secret of his origin until you free him.\r\n\r\n$ Ransom cost: <hint=hint_resource_rune>{gold}</hint>",
-  "Buy a Dog\r\nThe lord who purchases a dog will receive a loyal companion that will be with him for life.\r\n\r\n$ Price: <hint=hint_resource_rune>{cost}</hint>",
-  "Allow the Red Mass\r\nGive the archons 3 prisoners so they can perform the Red Mass in your province, honoring the <hint=hint_dead_god_herecy>Dead God</hint>.\r\n\r\n$ The Bishop will report this to the Matriarch, and his relations with your king will decrease by: <red>{rel_dec}</red>\r\n$ Your ruler will receive the blessing of the Dead God, which often reveals unexpected aspects of their personality and abilities.",
-  "Unwellness\r\nUpon waking up in the morning, your ruler {soul_uuid} realized that he has lost interest in sex.\r\n\r\nMore precisely, he is unable to engage in it anymore due to strange physiological reasons.\r\n\r\nMost likely, the witch you recently handed over to the church managed to cast her curse.\r\n\r\nThis condition will last for {days} days."
+  "[hint_mind_caption]\nPerasaan tak berdaya ini mengerikan... Sungguh tidak menyenangkan menjadi korban sebuah <hint=hint_crime>kejahatan</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nApa yang lebih baik daripada sebuah <hint=hint_speech_friendly>percakapan ramah</hint>?\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nKombinasi buruk! Kombinasi buruk!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIbu Sophia memihak padaku!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSudah waktunya mengucapkan selamat tinggal pada dunia ini...\n[hint_mind_remain_time]"
 ]

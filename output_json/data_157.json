@@ -1,12 +1,7 @@
 [
-  "The peace treaty has expired.\r\nNow you and {soul_uuid_king} are no longer bound by mutual obligations.",
-  "The peace treaty will be terminated.\r\nReason: Death of one of the signatories.\r\n\r\n$ You and {soul_uuid_king} are no longer bound by mutual obligations.",
-  "~\r\nThe conclusion of a peace treaty with you indeed brings me joy. Living in harmony with neighbors has always been my heartfelt aspiration.",
-  "~\r\nConcluding a peace treaty has become a rarity in our times, but we have proven to be wiser than the rest. I am confident that peace and prosperity await our kingdoms!",
-  "~\r\nUnfortunately, the term of our peace treaty has expired. I hope it brought you as much benefit as it did me. And perhaps in the future, we can conclude another one.",
-  "~\r\nSo our peace treaty has come to an end. It brought peace and tranquility to our kingdoms. I hope its conclusion will not mark the beginning of wars and hardship.",
-  "~\r\nI know that my predecessor concluded a peace treaty with you. But he recently passed away, and I no longer see the point in abiding by it.",
-  "~\r\nI know that my predecessor concluded a peace treaty with you. But he recently passed away, and I no longer see the point in abiding by it.",
-  "Peace Treaty\r\n{soul_uuid_king} offers you to sign a peace treaty for {peace_duration} days.\r\n\r\n$ This means that during this period, the parties will not be able to raid villages, attack cities, or force each other into vassalage.\r\n$ Nevertheless, the lords will be able to visit each other’s cities, scheme, and engage in <hint=hint_action_shadow>dark deeds</hint>.\r\n$ Relations with {soul_uuid_king}: <green>{peace_king_im}</green>\r\n$ You will receive: <hint=hint_resource_gold>{peace_offer_cost}</hint>\r\n\r\nThe treaty is sealed by the Church, is sacred, and therefore cannot be broken.\r\n\r\n[hint_ALLIES]\r\n\r\n[hint_SENDER]",
-  "Sign the Treaty  \r\nYou agree to sign a peace treaty for {peace_duration} days.\r\n\r\n$ This means that during this period, the parties will not be able to raid villages, attack cities, or force each other into vassalage.  \r\n$ Nevertheless, the lords will be able to visit each other’s cities, scheme, and engage in <hint=hint_action_shadow>dark deeds</hint>.\r\n$ Relations with {soul_uuid_king}: <green>{peace_king_im}</green>  \r\n$ You will receive: <hint=hint_resource_gold>{peace_offer_cost}</hint>\r\n\r\nThe treaty is sealed by the Church, is sacred, and therefore cannot be broken."
+  "Perdagangan Luar\nKeseimbangan perdagangan dengan tetangga Anda di peta dunia.",
+  "Perdagangan dengan Holy Caravan\nKeseimbangan perdagangan dengan Holy Caravan.",
+  "Para lord\n\n{details_stack}",
+  "Petani\n\n{details_stack}",
+  "Narapidana\n\n{details_stack}"
 ]

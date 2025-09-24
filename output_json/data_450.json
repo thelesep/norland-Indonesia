@@ -1,0 +1,7 @@
+[
+  "Kebahagiaan untuk Orang Tercinta\r\nLord tidak menginginkan apa pun untuk dirinya sendiri, hanya agar karakter yang dicintainya {soul_uuid_target} menjadi <hint=hint_nt_events_unhappy_lord>bahagia</hint>.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nUntuk memenuhi keinginan ini, {soul_uuid_target} harus menjadi bahagia.\r\n\r\n[hint_its_a_dream]",
+  "Keinginan untuk Gelar bagi Anak\r\nLord tidak menginginkan apa pun untuk dirinya sendiri, hanya agar anak tercintanya {soul_uuid_target} menerima gelar lord.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n[hint_its_a_dream]",
+  "Keinginan untuk Keluarga bagi Anak\r\nLord tidak menginginkan apa pun untuk dirinya sendiri, hanya agar anak tercintanya {soul_uuid_target} memiliki keluarga.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nUntuk memenuhi keinginan ini, {soul_uuid_target} harus menikah.\r\n\r\n[hint_its_a_dream]",
+  "Keinginan untuk Teror\r\nLord percaya bahwa penduduk budaya yang bermusuhan {culture} telah melampaui semua batas dan perlu dihentikan.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nUntuk memenuhi keinginan ini, mulailah meneror budaya {culture} di menu <hint=hint_bld_scafod>Scaffold</hint>.\r\n\r\n[hint_its_a_dream]",
+  "Keinginan untuk Perceraian\r\nKarakter dengan penuh gairah ingin bercerai dari pasangannya ({soul_uuid_target}) karena membenci dan meremehkan mereka.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nPerceraian dapat diatur melalui menu <hint=hint_bishop>Uskup</hint> dalam aksi karakter.\r\n\r\n[hint_its_a_obsession]"
+]

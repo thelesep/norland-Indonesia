@@ -1,12 +1,7 @@
 [
-  "Archer Tower\r\nA <hint=hint_watch_tower_archers>defence tower</hint> where you can assign <hint=hint_persons_warriors>warriors</hint>. Archers in the tower shoot farther and more accurately than usual.\r\n\r\n$ Ranged weapons are required to equip the warriors in the tower.\r\n$ This tower holds {arch_number} archers.",
-  "Summon Archers\r\nCall warriors to this tower.\r\n\r\nYou will need to wait a bit while they collect their assigned weapons and reach the tower.",
-  "Disband Archers\r\nThe warriors will leave the tower and return their weapons to the warehouse",
-  "Target Archers\r\nWhen checked, the archers in the tower will prioritize targeting enemy archers.",
-  "Automatic Summon\r\nWhen checked, if an enemy appears on the province map, the warriors will automatically collect weapons from the warehouse and occupy the tower.",
-  "Cult of Dahamat\r\nDahamat is an ancient fertility goddess of the Makha people, who was displaced by the cult of Mother Sophia during early imperial times.\r\n\r\nAlthough the sacred groves and ancient altars of Dahamat were desecrated and replaced by temples of Mother Sophia, the priests of Dahamat were not completely eradicated. They transformed their cult into a secret, highly exclusive society. While Mother Sophia inherited many traits of the old Dahamat, the later cult of the old goddess took on more sinister features, allowing its followers to survive until recent times.\r\n\r\nThe cult priests, in particular, possess the ability to secretly kill anyone, whether a lord or King, anywhere in Norland. Ignorant rumors attribute a supernatural nature to this skill, while more enlightened lords speak of their centuries-honed acting skills. They mimic anyone, mastering accents, gestures, and clothing, enabling the cult’s assassins to infiltrate the most secure places and use an ancient poison that leaves no trace.\r\n\r\nCult priests often visit cities, offering their services in exchange for the firstborns of noble Kings, who are then raised in their religion.\r\n\r\nThe actual whereabouts of the Dahamat priests remain a mystery, despite the Holy Inquisition's interest, possibly due to some Kings' reluctance to engage in conflict with the cult.",
-  "Not Enough Weapons\r\nAssign more ranged weapons in the tower menu to ensure there are enough of them for all the warriors.",
-  "Impotence\r\nFor an unknown reason, the character can no longer engage in sexual activity.",
-  "Longevity\r\nThanks to special knowledge, this character’s life will be extended by {number} years.",
-  "Blessing of Sophia\r\nBy the will of Mother Sophia, all of this character’s children will be boys."
+  "[hint_mind_caption]\n<hint=hint_persons_king>Raja</hint> percaya bahwa saya bisa mengkhianatinya... Saya takut, tapi saya meyakinkannya akan <hint=hint_loyalty>kesetiaan</hint> saya!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSangat menyenangkan berbicara tentang seseorang di belakang punggung mereka...\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} harus menghadapi hukuman atas <hint=hint_crime>kejahatan</hint> mereka. Itu keadilan!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya telah <hint=hint_punish>dihukum</hint>!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya telah <hint=hint_punish>dihukum</hint> tanpa alasan! Semua orang tahu!\n[hint_mind_remain_time]"
 ]

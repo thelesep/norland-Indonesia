@@ -1,0 +1,7 @@
+[
+  "Pemberontakan Boneka\r\n{optional_type_of_danger}\r\n\r\nSalah satu lord segera akan memulai pemberontakan dan meminta dukungan Anda dengan mengirimkan pasukan, berjanji akan berterima kasih atas bantuan Anda. Dipercaya bahwa lord ini adalah seorang <hint=hint_encyclopedia_puppets>puppet</hint>, yang bertindak atas perintah orang lain.\r\n\r\nDukungan untuk {soul_uuid_heir} di kalangan prajurit: {war_sup}%\r\n\r\nKonsekuensi mungkin jika Anda mendukung {soul_uuid_heir}:\r\n[optional_relations_heir_rebellion]\r\n\r\n[hint_unavailable_heir_rebellion_in_ai_town]",
+  "Pemburuan yang Tidak Berhasil\r\nPerburuan itu mengerikan... Dan itu salah pasangan saya!",
+  "Periksa Masalah\r\nKlik bendera dengan angka di sudut kiri atas untuk melihat masalah paling mendesak di pemukiman Anda.",
+  "Meninggal dalam Tawanan\r\n{soul_uuid_1} dibunuh oleh begal.\r\n{optional_sad_list}",
+  "Pemburuan\r\n{soul_uuid_1}: <hint=hint_skill_combat>Keterampilan Tempur</hint>: {skill_1}\r\n\r\n{soul_uuid_2}: <hint=hint_skill_combat>Keterampilan Tempur</hint>: {skill_2}\r\n\r\nFleshwolf setara dalam kekuatan dengan seorang pejuang yang memiliki Keterampilan Tempur {wolf_level}, dilengkapi dengan <hint=hint_resource_wooden_spear>Tombak</hint>.\r\n\r\nPeluang pemburuan sukses: {ver}%"
+]

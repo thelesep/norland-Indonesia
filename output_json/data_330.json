@@ -1,0 +1,7 @@
+[
+  "~\nSepertinya kemenangan mungkin lolos dariku jika bukan karena dukunganmu. Kau berdiri untuk keadilan ketika kau memutuskan untuk mendukung perjuanganku. Perbuatan seperti itu terukir dalam ingatan, dan aku bersumpah untuk datang membantumu seketika kau memanggilku!",
+  "~\nDarimu, pengkhianatan seperti itu tak terduga! Menyerangku dengan begitu jahat, bersama musuhku! Tetapi Holy Sophia bersamaku. Sekarang tuailah buah kebodohanmu, sementara aku akan menikmati kemenanganku!",
+  "~\nKau memilih bergabung dengan musuhku dan menyerangku. Tetapi aku tahu kau tidak mengharapkan kekalahan seberat itu, dan aku sendiri tidak bisa membayangkan betapa lemahnya pasukanmu. Lain kali, aku akan tahu betapa tidak berartinya lawan sepertimu!",
+  "Ancaman Penundukkan\n{optional_type_of_danger}\n\nOleh karena itu, Raja dari {faction_uuid}, {soul_uuid_king}, mencari bantuan dari semua tetangga yang bersedia berdiri di sisinya.\n\nAnda dapat mengirim pasukan Anda untuk membantu mempertahankan {faction_uuid}.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\n{soul_uuid_king} muncul sebagai pemenang dan mempertahankan kemandiriannya."
+]

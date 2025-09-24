@@ -1,12 +1,7 @@
 [
-  "~\r\nYou present me with a harsh choice: to see my kingdom destroyed or to pay you an unbearable tribute... I choose the tribute! But remember, Holy Sophia sees all!",
-  "~\r\nYou think I'm ready to kneel before you? Never! Threats on paper don't require courage, but to prove oneself worthy in battle is not given to everyone! Our swords are already sharpened, and we await!",
-  "~\r\nToday, in front of all, I boldly declared that we shall not become your vassal. I fear not death, be it this world or the next. However, in the memories of all, I aspire to be remembered as a valiant warrior, not as an eagle caged in captivity.",
-  "Anticipating the attack\r\nAfter declining your demand for <hint=hint_vassal>vassalage</hint>, {soul_uuid_king} is awaiting your assault.\r\n\r\n$ If you win, this faction will become your vassal.\r\n$ If your assault fails, the faction will remain independent.\r\n$ If you do not show up for the assault within 3 days, you will be declared a coward.",
-  "Attack\r\n$ If you win, {soul_uuid_king} will become your vassal.\r\n$ If your assault fails, this faction will remain independent.\r\n$ If you do not show up for the assault within 3 days, you will be declared a coward.",
-  "~\r\nAs a result of a successful assault, {soul_uuid_king} has acknowledged your power and agreed to become your <hint=hint_vassal>vassal</hint>.\r\n\r\n[hint_vassal_tribute]",
-  "~\r\nYou lost the battle, and {soul_uuid_king} remains independent.",
-  "~\r\nYou failed to show up for the assault, and now your king will be seen as a coward.\r\n\r\n$ Relationship with neighbors and {soul_uuid_king}: <red>{rel_coward}</red>",
-  "~\r\nHow many deaths and sorrows have you sown with your attack! How many children have been left fatherless! Well, now I am your vassal. However, remember that I will always fight for my freedom!",
-  "~\r\nYou are a brave warrior, and I have no choice but to submit to you. But my heart will remain free!"
+  "Pemotongan Kepala\nIni adalah masalah yang sangat serius.",
+  "Luka Dalam\nSebuah <hint=hint_wounds>luka</hint> berbahaya.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> hebat.\n$ Setelah sembuh, akan meninggalkan 3 <hint=hint_scars>bekas luka</hint>.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n \n[hint_injury_remain_time]",
+  "Kehilangan Tangan\nSebuah <hint=hint_wounds>luka</hint> berbahaya dan cedera seumur hidup.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> hebat.\n$ <hint=hint_skill_combat>Keterampilan Tempur</hint> dikurangi 50%.\n$ Karakter tidak dapat melakukan pekerjaan fisik.\n$ Karakter tidak dapat menggunakan perisai.\n$ Jika kehilangan kedua tangan, karakter tidak dapat menggunakan senjata.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]",
+  "Patah Tulang Lengan\n$ Menyebabkan <hint=hint_pain>sakit</hint> hebat.\n$ Membatasi penggunaan senjata.\n[hint_injury_inflamed_wound_chance]\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]",
+  "Cedera Wajah\nMenimbulkan sakit, tapi tidak mengancam nyawa.\n\n$ Menyebabkan <hint=hint_pain>sakit</hint> hebat.\n$ Setelah sembuh, akan meninggalkan 5 <hint=hint_scars>bekas luka</hint>.\n[hint_injury_pain_shock_chance]\n\n[hint_injury_remain_time]"
 ]

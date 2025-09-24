@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nDidn't really want to anyway! {name} will regret it!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\n{name} will be whispering my name today! Oh yes!",
-  "[hint_mind_caption]\r\n{name}, my love! How is this possible?!\r\n\r\nReason: Partner is cheating on the character with {soul_uuid_other}, and the character found out about it.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI know, I'm a monster... {name}, will you forgive me if I confess?\r\n\r\nReason: Cheated on partner with {soul_uuid_other}.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI feel like {name} is cheating on me... No, I can't handle this!\r\n\r\nReason: Partner is cheating on the character with {soul_uuid_other}, but the character has no evidence.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nNo one has the right to tell me what is allowed and what is not!\r\n\r\nReason: Restriction in the <hint=hint_dynasty_menu>Dynasty menu</hint>.",
-  "[hint_mind_caption]\r\nI wish I could see them all again! But it seems I'll have to wait...\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nOnly a former prisoner understands this feeling!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI've started a new life!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nOh, delicious!\r\n\r\nReason: Consumed <hint=hint_resource_meat>Meat</hint>.\r\n[hint_mind_remain_time]"
+  "Penguatan telah tiba!\r\n{soul_uuid_king} dari {faction_uuid} telah mengirimkan sebuah regu untuk membantu Anda dalam pertempuran mendatang.\r\n\r\nPara prajurit akan tetap berada di wilayah Anda hingga akhir pertempuran atau hingga krisis terselesaikan melalui cara lain.",
+  "Prioritas\r\nJika prioritas layanan untuk sebuah bangunan diaktifkan, maka dalam kasus kekurangan pekerja, pekerja akan ditugaskan ke bangunan itu terlebih dahulu.",
+  "Peningkatan\r\n$ Satu slot pekerjaan tambahan\r\n$ Total produksi meningkat sebesar {effect_add}%",
+  "Rahasia Racun\r\nMemberikan karakter sifat <hint=hint_trait_poisoner>Pengracun</hint>, yang memungkinkan mereka crafting dan menggunakan racun.",
+  "Tidak Tersedia\r\nTidak ada karakter Anda yang memiliki sifat <hint=hint_trait_poisoner>Pengracun</hint> untuk melakukan aksi ini.\r\n\r\n<b>PETUNJUK:</b> Pelajari pengetahuan dari Laboratorium Alkimia dan kemudian <hint=hint_tech_poisoner>Rahasia Racun</hint> untuk menciptakan karakter pengracun. Karakter seperti itu disarankan memiliki tingkat tinggi skill <hint=hint_skill_knowledge>Kecerdasan</hint>."
 ]

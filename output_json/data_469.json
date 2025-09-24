@@ -1,0 +1,7 @@
+[
+  "Persona Non Grata\r\n{soul_uuid_lord}: Lord tersebut secara permanen dilarang mengunjungi kota {faction_uuid} karena kejahatan yang dilakukan terhadap provinsi.",
+  "[hint_mind_caption]\r\nSaya punya seseorang yang mencintai saya apa adanya!",
+  "[hint_mind_caption]\r\nSungguh menyenangkan bermain dengan anjing itu!",
+  "Tidak Dapat Dipanggil\r\n{faction_uuid} tidak memiliki prajurit yang bisa dikirim untuk membantu Anda.",
+  "~\r\nUntuk dukungan yang telah mereka berikan kepada Anda, vassal pilihan Anda akan dibebaskan dari pajak vassal selama {days} hari. Secara total, Anda akan kehilangan pendapatan sekitar <hint=hint_resource_gold>{tax_free_amount}</hint> selama waktu ini."
+]

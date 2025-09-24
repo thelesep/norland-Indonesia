@@ -1,0 +1,7 @@
+[
+  "~\nBahkan seorang bajingan pun tidak akan merendahkan diri sejauh membunuh tawanan yang tidak bersenjata! Saya akan membalas dendam atas {hostage_name}, karena hanya dengan cara ini jiwanya akan menemukan kedamaian. Dikutuklah!",
+  "~\nTidak ada kesedihan yang lebih besar di bumi daripada kehilangan orang yang dicintai! Anda telah membunuh {hostage_name}! Apakah Anda pikir ini akan dibiarkan tanpa hukuman? Holy Sophia menyaksikan segalanya!",
+  "~\nRumah Bangsawan {soul_uuid_hostage} telah lenyap, sehingga {soul_uuid_hostage} telah dibebaskan dari tawanan Anda.",
+  "~ \n$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help}</green>",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_im_help_neighbores}</green>"
+]

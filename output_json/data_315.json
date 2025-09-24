@@ -1,0 +1,7 @@
+[
+  "~\nSaya dengan cepat menyampaikan rasa terima kasih yang tulus kepada Anda! Saya percaya bahwa perjanjian ini dapat menjadi awal dari persahabatan abadi antara rumah bangsawan kami!",
+  "~\nSaya senang mengetahui bahwa perjanjian perdamaian telah ditandatangani, meskipun syarat-syaratnya singkat. Jalan menuju perdamaian penuh tantangan, tetapi percayalah, itu satu-satunya cara untuk membawa kemakmuran bagi kerajaan kita!",
+  "~\n[hint_defence_alliance_only_description]\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_defence_alliance}</green>",
+  "Undang ke aliansi Anda\n{soul_uuid_king} akan bergabung dengan aliansi kota-kota bebas di bawah kepemimpinan Anda.\n\nIni berarti:\n[hint_defence_alliance_description]\n\nBiaya undangan: <hint=hint_resource_gold>{alliance_invite_price}</hint>\n{optional_duty_of_honor}",
+  "Aliansi sedang berkembang!\n{soul_uuid_king} telah memutuskan untuk bergabung dengan aliansi kota-kota bebas Anda.\n\nIni berarti:\n[hint_defence_alliance_description]\n{optional_duty_of_honor_complete}"
+]

@@ -1,0 +1,7 @@
+[
+  "Memaksa ke Netralitas\r\nSecara tak terduga, pasukan Anda sedang berbaris untuk memaksa provinsi {faction_uuid} menjadi netral.\r\n\r\n{optional_force_neutrality_additional_effects}\r\n$ Hubungan dengan {soul_uuid_king}: <red>{sudden_attack_unfair_force_neutrality_rel_de}</red>\r\n$ Hubungan dengan tetangga: <red>{sudden_attack_unfair_force_neutrality_neigh_rel_de}</red>\r\n$ Hubungan dengan Matriark: <red>{sudden_attack_mat_rel_de}</red>\r\n{optional_holy_defence_will_removed}",
+  "~ \r\nAku melihat kau memutuskan menggunakan elemen kejutan? Aku pikir kekecewaan menantimu, sebab aku sudah menduga kau akan merendahkan diri pada trik pengecut semacam itu!",
+  "~ \r\nKau mengira kau berhasil membuatku lengah? Pikirkan lagi! Jika kau sedang menyiapkan kejutan tak menyenangkan bagiku, kau yang akan terkejut dengan bagaimana keadaan berbalik!",
+  "~ \r\nSerangan tak terhormat tanpa peringatan – itukah satu-satunya yang bisa dipikirkan oleh otakmu, keturunan pelacur dan babi jantan? Tak heran kota mu begitu bau pengkhianatan hingga bisa tercium dari seberang Norland!",
+  "~ \r\nPara tetangga telah memperingatkanku bahwa kau tak punya konsep kehormatan dan martabat. Baiklah, segera kau akan menduduki tempat yang pantas bagimu – di kandang!"
+]

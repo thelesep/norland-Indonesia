@@ -1,0 +1,7 @@
+[
+  "~\nKau menyajikan pilihan yang keras padaku: melihat kerajaanku hancur atau membayarmu upeti yang tak tertahankan... Aku memilih upeti! Tetapi ingat, Holy Sophia melihat segalanya!",
+  "~\nKau pikir aku siap berlutut di hadapanmu? Tidak pernah! Ancaman di atas kertas tidak memerlukan keberanian, tetapi membuktikan diri layak dalam pertempuran bukanlah hal yang diberikan kepada semua orang! Pedang-pedang kami sudah diasah, dan kami menanti!",
+  "~\nHari ini, di hadapan semua orang, aku dengan berani menyatakan bahwa kami tidak akan menjadi vasalmu. Aku tidak takut mati, baik di dunia ini maupun yang berikutnya. Namun, dalam ingatan semua orang, aku bercita-cita dikenang sebagai prajurit pemberani, bukan sebagai elang yang dikurung dalam penjara.",
+  "Menanti Serangan\nSetelah menolak tuntutanmu untuk <hint=hint_vassal>kewajiban vasal</hint>, {soul_uuid_king} sedang menanti seranganmu.\n\n$ Jika kau menang, faksi ini akan menjadi vasalmu.\n$ Jika seranganmu gagal, faksi ini akan tetap merdeka.\n$ Jika kau tidak muncul untuk serangan dalam waktu 3 hari, kau akan dinyatakan sebagai pengecut.",
+  "Serangan\n$ Jika kau menang, {soul_uuid_king} akan menjadi vasalmu.\n$ Jika seranganmu gagal, faksi ini akan tetap merdeka.\n$ Jika kau tidak muncul untuk serangan dalam waktu 3 hari, kau akan dinyatakan sebagai pengecut."
+]

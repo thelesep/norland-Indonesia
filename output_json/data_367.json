@@ -1,0 +1,7 @@
+[
+  "Perjanjian Perdagangan\n[hint_trade_agreement_success_generic]\n\n[hint_trade_agreement_demand_generic]\n{optional_trading_volumes_reduced}\n\n<b>Hari tersisa hingga akhir kontrak: {trade_agreement_duration_remain}</b>",
+  "Perjanjian Perdagangan\n[hint_trade_agreement_success_generic]\n\n[hint_trade_agreement_offer_generic]\n{optional_trading_volumes_reduced}\n\n<b>Hari tersisa hingga akhir kontrak: {trade_agreement_duration_remain}</b>",
+  "Perjanjian perdagangan telah berakhir.\nSekarang Anda dan {soul_uuid_king} tidak lagi terikat oleh kewajiban timbal balik.",
+  "Perjanjian perdagangan telah dihentikan.\nHubungan Anda telah memburuk secara signifikan.\n\n$ Anda dan {soul_uuid_king} tidak lagi terikat oleh kewajiban timbal balik.",
+  "Perjanjian perdagangan telah dihentikan.\nAlasan: kematian salah satu penandatangan.\n\n$ Anda dan {soul_uuid_king} tidak lagi terikat oleh kewajiban timbal balik."
+]

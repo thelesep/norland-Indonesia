@@ -1,0 +1,7 @@
+[
+  "~\nIbukota {faction_uuid_target} telah diserang tanpa hasil oleh pasukan {faction_uuid_attacker}.",
+  "~\nDesa {faction_uuid_target} telah dibakar habis oleh pasukan {faction_uuid_attacker}.",
+  "~\nKubu begal di wilayah {faction_uuid_bandit_area} telah dihancurkan oleh pasukan {faction_uuid_attacker}.",
+  "~\nKubu begal di wilayah {faction_uuid_bandit_area} telah diserang tanpa hasil oleh pasukan {faction_uuid_attacker}.",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah bergabung dengan aliansi kota-kota bebas yang dipimpin oleh {soul_uuid_king_2} dari {faction_uuid_2}, menghadapi ancaman dari {faction_uuid_3}."
+]

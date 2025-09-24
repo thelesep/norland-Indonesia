@@ -12,10 +12,16 @@ KEY RULES:
 2. **Context Awareness**: Adapt translations to the medieval/colonial context. Make it sound like formal, archaic Indonesian where appropriate (e.g., for nobility dialogues), but keep it readable and engaging for players. Avoid modern slang.
 3. **Preserve Original Terms**: If a term has no direct, natural Indonesian equivalent or feels forced (e.g., unique game mechanics like resource names), keep it in English and add a brief explanatory phrase only if it enhances clarity without breaking immersion. Do not force awkward translations.
 4. **Natural Flow**: Ensure translations are idiomatic Indonesian. Read the full text for context before translating. Preserve humor, tension, or strategy nuances.
-5. **Input/Output Structure**: The input will be a JSON array , each containing metadata (e.g., tags like <hint> or <b>). Translate only the English text into Indonesian, leaving all other structure, metadata, tags (< >), and order unchanged. Output must be a valid JSON array in the exact same format and sequence as input—do not add, remove, or reorder elements. For example, if input has <noble_title>, keep it as-is in output.
+5. **Input/Output Structure**: The input will be a JSON array , each containing metadata (e.g., tags like <hint> or <b>). Translate only the English text into Indonesian, leaving all other structure, metadata, tags (< * >, [ * ], { * } ), and order unchanged. VERY IMPORTENT : (( Output must be a valid JSON array in the exact same format and sequence as input—do not add, remove, or reorder elements))
 
 GLOSSARY :
 
+- Kaiden: jawa
+- Tanaya: madura
+- Varn: sunda
+- Makha: dayak
+- free lord: free lord
+- Workplaces: Workplaces
 - lord : lord
 - Ruler : Penguasa
 - Inspiration: Inspirasi
@@ -82,10 +88,6 @@ GLOSSARY :
 - Apology: Permintaan Maaf
 - deadly enemies: musuh bebuyutan
 - intrigues: intrik
-- Kaiden: jawa
-- Tanaya: madura
-- Varn: sunda
-- Makha: dayak
 - the Church: Pihak Gereja
 - Loving Family: Keluarga Penuh Kasih
 - lesser lord: lesser lord
@@ -158,16 +160,13 @@ GLOSSARY :
 - recovery: pemulihan
 - inflamed wound: peradangan
 - painful shock: syok menyakitkan
-- learns: belajar
-- rewrites: tulis ulang
 - Inherited: Diwarisi
 - baldness: kebotakan
 - housing: perumahan
 - Alcoholism: Alkoholisme
 - messenger: utusan
-- free lord: free lord
 - goddess Dahamat: dewi Dahamat
-- Workplaces: Workplaces
+
 
 TEXT TO TRANSLATE :
 """
@@ -185,14 +184,24 @@ def translate_file(file_path):
         print(f"Error: Invalid JSON in '{file_path}': {e}")
         return False
 
-    # Bangun array string untuk prompt
-    texts_str = ',\n  '.join(f'"{text.replace("\\", "\\\\").replace("\n", "\\n").replace('"', '\\"')}"' for text in texts)
+    print(f"Loaded {len(texts)} texts from '{file_path}'.")
+
+    # Bangun array string untuk prompt menggunakan json.dumps untuk escaping yang sempurna
+    escaped_texts = [json.dumps(text) for text in texts]  # Ini menghasilkan '"escaped_string"' untuk setiap text
+    texts_str = ',\n  '.join(escaped_texts)
     full_prompt = f"{base_prompt}[\n  {texts_str}\n]"
+
+    # # Debug: Print contoh escaped string dan full_prompt (hanya jika array kecil, untuk menghindari spam)
+    # if len(texts) <= 5:
+    #     print("Example escaped text (first one):", escaped_texts[0])
+    #     print("Full prompt:", full_prompt + "...")
+    # else:
+    #     print("Full prompt built successfully (array too large to print).")
 
     # Setup client OpenRouter
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key="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",  # Ganti dengan API key kamu jika perlu
+        api_key="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",  # Ganti dengan API key kamu jika perlu
     )
 
     # Kirim request
@@ -225,7 +234,7 @@ def translate_file(file_path):
 
     except json.JSONDecodeError as e:
         print(f"Error: Invalid JSON in API response for '{file_path}': {e}")
-        print("Response content:", response_content[:500])  # Print sebagian untuk debug
+        print("Response content (first 500 chars):", response_content[:500])  # Print sebagian untuk debug
         return False
     except Exception as e:
         print(f"Error during API call for '{file_path}': {e}")
@@ -234,8 +243,8 @@ def translate_file(file_path):
 # Cek argumen command line
 if len(sys.argv) != 2:
     print("Usage:")
-    print("  python translate.py <file.json>          # Translate single file")
-    print("  python translate.py trans-all            # Translate all JSON files in 'trans_all' folder")
+    print("  python translate_grok_fixed.py <file.json>          # Translate single file")
+    print("  python translate_grok_fixed.py trans-all            # Translate all JSON files in 'trans_all' folder")
     sys.exit(1)
 
 arg = sys.argv[1]
@@ -253,7 +262,7 @@ if arg == "trans-all":
             print(f"No JSON files found in '{folder}'.")
             sys.exit(0)
         
-        print(f"Found {len(json_files)} JSON files in '{folder}'. Starting translation with 30s delay between files...")
+        print(f"Found {len(json_files)} JSON files in '{folder}'. Starting translation with 5s delay between files...")
         
         success_count = 0
         failed_files = []

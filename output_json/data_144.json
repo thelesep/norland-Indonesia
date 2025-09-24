@@ -1,12 +1,7 @@
 [
-  "No books in the city\r\nThere are no books available in the library of this city to be stolen. It may be worth waiting a few days until they appear.",
-  "Not enough Rings\r\nThis lord does not have enough Rings. \r\nRequires <hint=hint_resource_rune>{rune_number}</hint>.",
-  "Not enough Rings\r\nYou do not have enough Holy Rings for this action. Requires <hint=hint_resource_rune>{rune_number}</hint>.",
-  "Insufficient paper\r\nThere is not enough paper available to send a message with a messenger. It requires <hint=hint_resource_paper>{paper_number}</hint>.",
-  "Does not possess the Charismatic trait\r\nThe lord does not possess the Charismatic trait.",
-  "Messenger\r\nThe king will send a free peasant with the letter instead of himself. If there is no unemployed peasant, the nearest worker will be sent with the letter.\r\n\r\nThis will require <hint=hint_resource_paper>{paper_cost}</hint>.",
-  "~\r\n$ Lord {lord_name} will worship you",
-  "~\r\n$ Lord {lord_name} will hate you",
-  "~\r\n$ The squad defeated you and vanished into the depths of the forest",
-  "~\r\n$ You captured {slaves_captured} prisoners"
+  "Permintaan Lokal\nIndikator unik untuk setiap produk yang menunjukkan jumlah yang dapat diserap pasar tanpa harga menurun.\n\n<img=hint_market_volume></img>\n\nJika kuantitas penjualan Anda melebihi permintaan lokal untuk sumber daya tersebut, pasar menjadi kelebihan dan harga turun.\n\nPartisipasi dalam <hint=hint_tutorial_states>negara</hint> dapat <hint=hint_market_volume_bonus>meningkatkan</hint> permintaan lokal",
+  "Penyimpanan Bangunan\nPagi hari, pekerja mengambil sumber daya yang mereka butuhkan untuk produksi dari penyimpanan kota, dan malam hari, mereka membawa kembali apa yang telah mereka hasilkan. Saat sumber daya berada di penyimpanan bangunan, sumber daya tersebut tidak tersedia untuk pekerja lain.\n\nOleh karena itu, sumber daya yang diproduksi selama hari hanya menjadi tersedia di malam hari ketika mereka mencapai penyimpanan kota.\n\nAnda dapat mengirimkan sumber daya yang diproduksi ke penyimpanan kota segera dengan menekan tombol di bangunan yang diperlukan.",
+  "Meningkatkan Permintaan Lokal\nIndikator <hint=hint_market_volume>permintaan lokal</hint> meningkat secara proporsional untuk semua barang ketika provinsi Anda menjadi bagian dari sebuah <hint=hint_tutorial_states>negara</hint> - kerajaan bawahan atau aliansi kota-kota bebas. \n\nKapasitas permintaan akan meningkat berdasarkan ukuran populasi total dari semua provinsi di negara tersebut.",
+  "Bencana Sudah Dekat!\nMenurut nubuat Pihak Gereja, dalam beberapa hari lagi, tanah Anda akan dilanda bencana berikut:\n\n{optional_prophecy_text}",
+  "Invasi Fleshwolf\nSebuah bulan yang tidak dapat dirasakan manusia akan membuat <hint=hint_fleshwolf>Fleshwolf</hint> gila dan memaksa mereka berkumpul dalam kelompok besar untuk berburu manusia.\n$ Sekelompok {size} Fleshwolf akan menyerang pusat kota Anda dan membunuh semua yang mereka lihat."
 ]

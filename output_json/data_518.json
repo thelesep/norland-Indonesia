@@ -1,0 +1,7 @@
+[
+  "[hint_advisor_caption]\r\nSatu atau lebih penguasa tetangga telah menjadi <hint=hint_faction_relations_deadly_enemy>musuh bebuyutan</hint> Anda. Ini berarti hubungan mereka dengan Anda telah turun di bawah {relation_treshhold}, dan mereka sekarang dapat melancarkan <hint=hint_agression>surprise attacks</hint> terhadap Anda.  \r\n\r\nTembok kuat dan garnisun di menara Anda mungkin membantu, atau Anda dapat menandatangani <b>perjanjian damai</b> dengan mereka dan mencoba melemahkan pasukan mereka dari dalam menggunakan <b>intrik.</b>  \r\n\r\n<b>Daftar musuh bebuyutan:</b>\r\n{enemy_list}",
+  "Surprise Attacks\r\nSelama surprise attacks, penguasa tidak mengumumkan niat mereka untuk menyerang musuh.  \r\n\r\nTujuan mereka mungkin vasalisasi (hanya jika target bukan bagian dari negara) atau merampok perbendaharaan.  \r\n\r\nTerjadi pada hubungan di bawah <red>-50</red> (<hint=hint_faction_relations_deadly_enemy>Deadly Enemy</hint>)",
+  "Tidak Tersedia\r\nKarakter ini saat ini tidak dapat bergerak dan tidak bisa melakukan tugas ini.",
+  "Pengetahuan\r\nAnda tidak dapat melihat pengetahuan dari karakter yang menyamar.",
+  "Bahasa yang Tepat\r\nMemungkinkan para juru tulis untuk melakukan inspeksi dalam {minutes} menit dan menghubungkan hingga {counts} bangunan ke <hint=hint_bld_chancellery>Chancellery</hint>"
+]

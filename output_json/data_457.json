@@ -1,0 +1,7 @@
+[
+  "Julukan Baru\r\nKarena kebutaannya, karakter {soul_uuid} telah menerima julukan “{nickname}\".",
+  "Julukan Baru\r\nKarena kehilangan satu mata, karakter {soul_uuid} telah menerima julukan “{nickname}\".",
+  "Julukan Baru\r\nKarena kehilangan satu tangan, karakter {soul_uuid} telah menerima julukan “{nickname}\".",
+  "Pengetahuan Tidak Tersedia\r\nPengetahuan ini saat ini tidak tersedia. <hint=hint_holy_caravan>Holy Caravan</hint> akan membawa buku-buku yang berisi pengetahuan ini untuk dijual jika kondisi tertentu terpenuhi.\r\n\r\nArahkan kursor ke pengetahuan untuk melihat kondisi-kondisinya dalam deskripsinya.",
+  "Pengorbanan Anak Sulung\r\nPendeta <hint=hint_dahamat_cult>dewi Dahamat</hint> telah tiba di provinsimu dalam pencarian jiwa-jiwa baru. Jika kamu bersedia menawarkannya <b>anak sulung Raja</b>, kultus tersebut akan mampu membunuh musuhmu mana pun di seluruh Norland.\r\n\r\n$ Kamu tidak akan pernah melihat lagi anak yang kamu korbankan ke kultus.\r\n$ Setelah itu, kamu akan bisa menghilangkan musuh mana pun secara diam-diam. Kematian itu akan tampak alami, dan tidak ada yang akan curiga padamu."
+]

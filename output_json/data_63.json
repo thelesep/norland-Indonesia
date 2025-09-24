@@ -1,12 +1,7 @@
 [
-  "Reinforcements have arrived!\r\n{soul_uuid_king} from {faction_uuid} has sent a squad to assist you in the upcoming battle.\r\n\r\nThe warriors will remain in your province until the end of the battle or until the crisis is resolved through other means.",
-  "Priority\r\nIf priority servicing for a building is enabled, then in case of a shortage of workers, workers will be assigned to that building first.",
-  "Upgrade\r\n$ One additional job slot\r\n$ Total production increases by {effect_add}%",
-  "Poison Secrets\r\nGrants the character the <hint=hint_trait_poisoner>Poisoner</hint> trait, which allows them to craft and use poisons.",
-  "Unavailable\r\nNone of your characters possess the <hint=hint_trait_poisoner>Poisoner</hint> trait to perform this action.\r\n\r\n<b>HINT:</b> Learn the knowledge of Alchemy Lab and then <hint=hint_tech_poisoner>Poison Secrets</hint> to create a poisoner character. Such a character is recommended to have a high level of <hint=hint_skill_knowledge>Intelligence</hint> skill.",
-  "~\r\nAs long as the <hint=hint_sofia_cult>Сhurch</hint> considers your city too small to send a <hint=hint_bishop>bishop</hint>, the Matriarch remains unaware of your internal affairs.",
-  "No priority\r\nRandom free workers will be hired in this building without any priority.",
-  "Automatic Assignment\r\nWorkers who can provide the maximum production bonus here will be automatically hired in this building",
-  "Send now\r\nAll materials that are currently ready will be transferred to the warehouse immediately, but this will distract the workers from production.",
-  "Destroy\r\nCompletely demolish the building. This happens instantly."
+  "Baja\nSumber daya menengah yang digunakan dalam pembuatan sumber daya lain, terutama senjata canggih.\n\n<b>Produksi</b>\n$ Diproduksi di <hint=hint_bld_steel_furnace>Tungku Peleburan</hint>.\n$ Membutuhkan <hint=hint_resource_coal>1</hint> dan <hint=hint_resource_iron>1</hint> untuk produksi.",
+  "Tepung\nJenis <hint=hint_food>makanan</hint>. Memenuhi <hint=hint_need_food>kebutuhan makanan</hint>.\n\n<b>Produksi</b>\n$ Diproduksi di <hint=hint_bld_mill>Penggilingan</hint>.\n$ Membutuhkan <hint=hint_resource_rye>1</hint> untuk produksi.\n$ Dijual di <hint=hint_bld_market>Pasar</hint>.",
+  "Rye\nSumber daya dasar. Digunakan dalam produksi <hint=hint_resource_food>Tepung</hint> dan <hint=hint_resource_beer>Bir</hint>. \n\n<b>Produksi:</b> \n$ Dibudidayakan di <hint=hint_bld_farm>Ladang Rye</hint>.",
+  "Hop\nSumber daya dasar. Digunakan dalam produksi <hint=hint_resource_beer>Bir</hint> dan <hint=hint_resource_ale>Ale</hint> yang beraroma.\n\n<b>Produksi:</b>\n$ Dibudidayakan di <hint=hint_bld_hop>Ladang Hop</hint>.",
+  "Rutabaga\nJenis <hint=hint_food>makanan</hint> dan sumber daya dasar. Digunakan dalam produksi <hint=hint_resource_moonshine>Moonshine</hint> dan <hint=hint_resource_meat>Daging</hint>. \n\n<b>Karakteristik:</b> \n$ Memiliki rasa yang menjijikkan, yang memengaruhi suasana hati (terutama para lord dan prajurit). \n$ Konsumsi berkepanjangan dapat menyebabkan tifus rutabaga yang mematikan. \n$ Ladang rutabaga tidak bergantung pada tambalan tanah subur dan menghasilkan panen setiap hari. \n\n<b>Produksi</b> \n$ Dibudidayakan di <hint=hint_bld_rutabaga>Ladang Rutabaga</hint>."
 ]

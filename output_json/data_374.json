@@ -1,0 +1,7 @@
+[
+  "Suap \nBayar begal <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\n$ Serangan terhadap pemukiman Anda akan dibatalkan selama {bribe_days} hari ke depan.\n\n[hint_SENDER]",
+  "~\nPara begal dengan murah hati menerima uang Anda dan membiarkan utusan Anda pergi.\n\n$ Serangan terhadap pemukiman Anda akan dibatalkan selama {days_without_attacks} hari ke depan.",
+  "Sudah terlambat\nPara begal sudah bersiap untuk menyerang Anda dan berharap merampok lebih banyak di sana daripada yang Anda tawarkan.",
+  "Tawaran Perdagangan\nPemimpin begal ingin menjual:\n\n<b>{offer_amount} narapidana</b> dengan <hint=hint_resource_gold>{offer_price}</hint>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per narapidana. (harga minimum dari Holy Caravan: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)",
+  "Beli Narapidana\nBeli <b>{offer_amount} narapidana</b> dengan <hint=hint_resource_gold>{offer_price}</hint>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per narapidana. (harga pasar minimum di Holy Caravan: <hint=hint_resource_gold>{market_price_slave_min}</hint>.)\n\n<b>Konsekuensi</b>:\n{optional_relation_aftermath}\n{optional_secret_deals}\n\n[hint_SENDER]\n\n"
+]

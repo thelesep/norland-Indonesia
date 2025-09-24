@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\r\n{soul_uuid_female} telah mencapai usia pernikahan dan menunggu lamaran dari para bangsawan.\r\n\r\n$ Harga pengantin sebesar <hint=hint_resource_gold>{bride_price}</hint> diminta untuk pengantin perempuan.\r\n$ Hubunganmu dengan Rumah ini akan menjadi keluarga.",
+  "{name}\r\n{soul_uuid_female} telah mencapai usia pernikahan dan menunggu lamaran dari para bangsawan.\r\nDia akan menjadi istri salah satu lord laki-lakimu.\r\n\r\n$ Rumah bangsawan pengantin perempuan akan menerima <hint=hint_resource_gold>{bride_price}</hint>.\r\n$ Hubungan antara raja pengantin perempuan dan rajamu akan membaik sebesar <green>{rel_improve}</green>.\r\n$ <b>Pengantin perempuan akan tinggal bersama suaminya di kotamu</b>.\r\n",
+  "~\r\n{soul_uuid_female} telah menjadi istri {soul_uuid_groom} dan segera akan tiba di kotamu.\r\n\r\n$ Hubungan antara raja pengantin perempuan dan rajamu telah membaik sebesar <green>{rel_improve}</green>.",
+  "~\r\nBetapa senangnya hamba atas persatuan mulia ini! Ikatan kekerabatan selalu lebih teguh daripada batu karang, dan persahabatan antar kerajaan kita pun akan menjadi sama kokohnya, ini hamba yakini dengan pasti. Hamba doakan segala berkah untuk tuan, dan dengan penuh antisipasi menunggu pertemuan kita yang segera!",
+  "~\r\nHamba menulis surat ini untuk menyampaikan ucapan terima kasih yang tulus atas perlindungan tuan terhadap putri muda kami. Hamba berharap, pada waktunya nanti, lonceng-lonceng akan berdentang gembira merayakan kelahiran anak sulung."
+]

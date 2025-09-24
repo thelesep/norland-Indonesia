@@ -1,0 +1,7 @@
+[
+  "Permintaan bantuan\n{optional_type_of_danger}\n\nPasukan Anda telah tiba sebagai bala bantuan untuk {soul_uuid_supported} dan akan tetap di kota selama 3 hari atau hingga pertempuran pertama.\n\nKonsekuensi:\n{optional_send_help_effects}\n{optional_gain_duty_of_honor}",
+  "Permintaan bantuan\n{optional_type_of_danger}\n\n{soul_uuid_king} tidak menunggu bantuan Anda.\n{optional_ignore_allyship}",
+  "Bantuan dalam pertempuran\nPasukan Anda berhasil membantu menolak serangan musuh!",
+  "~\n<b>Tanggung Jawab Sekutu</b>\n$ Jika Anda gagal mengirim bantuan, ia akan menganggapnya pengkhianatan; hubungan dengan pemimpin uni akan rusak parah, dan akibatnya, <red>Anda mungkin dikeluarkan dari Uni Kota Bebas</red>. Tetangga juga akan terkejut tidak menyenangkan.",
+  "~\n<red>Anda telah mengkhianati mereka.</red>\n\n$ Hubungan dengan pemimpin uni {soul_uuid_king_leader}: <red>{rel_defence_alliance_not_help}</red>\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>\n$ Hubungan dengan tetangga Anda: <red>{rel_defence_alliance_broken_neighbore}</red>"
+]

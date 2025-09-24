@@ -1,0 +1,7 @@
+[
+  "Perjalanan dari Rumah\r\nWaktu rata-rata yang dibutuhkan pekerja untuk berpergian dari tempat tinggal mereka ke bangunan.",
+  "Waktu Kerja\r\nWaktu kerja rata-rata, dengan mempertimbangkan waktu perjalanan dari tempat tinggal ke bangunan kerja dan dari gudang ke bangunan.",
+  "[hint_mind_caption]\r\nSaya seharusnya menyanjungnya untuk memenangkannya... Tapi betapa tidak menyenangkannya, mengetahui apa yang pasti dipikirkannya tentang saya!\r\n\r\nAlasan: Menggunakan sanjungan untuk mencapai tujuan mereka.",
+  "Ultimatum\r\n{soul_uuid} percaya bahwa penguasa Anda tidak layak untuk takhta dan menuntut agar mahkota diserahkan kepada {soul_uuid_master}.\r\n\r\nJika ini tidak dilakukan hari ini, mereka, bersama dengan pengikut mereka di antara para lord dan prajurit, akan memicu <hint=hint_military_riot>pemberontakan militer</hint> malam ini untuk merebut kekuasaan dengan paksa.\r\n\r\n<b>Petunjuk:</b> Anda dapat mentransfer mahkota melalui aksi Raja di menu karakter.",
+  "Tidak Tersedia\r\nKarakter tidak memiliki tingkat <hint=hint_skill_knowledge>Kecerdasan</hint> yang diperlukan untuk memperoleh pengetahuan."
+]

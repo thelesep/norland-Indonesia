@@ -1,12 +1,7 @@
 [
-  "~\r\nEven a scoundrel would not stoop so low as to kill an unarmed captive! I will avenge {hostage_name}, for only in this way will their soul find peace. Be cursed!",
-  "~\r\nThere is no greater sorrow on earth than the loss of a loved one! You have slain {hostage_name}! Do you think this will go unpunished? Holy Sophia witnesses all!",
-  "~\r\nThe noble House of {soul_uuid_hostage} has ceased to exist, so {soul_uuid_hostage} has been released from your captivity.",
-  "~ \r\n$ Relationship with {soul_uuid_king}: <green>{rel_im_help}</green>",
-  "~\r\n$ Relationship with {soul_uuid_king}: <green>{rel_im_help_neighbores}</green>",
-  "Aid against the Horde\r\n{optional_type_of_danger}\r\n\r\nThe <hint=hint_synode>Loving Family</hint> implores that all noble kings set aside their differences and help them repel this threat.\r\n\r\nOnly together can you withstand the invasion!\r\n\r\nThe army you send to aid will fight alongside {soul_uuid_king}'s army against the Horde.\r\n\r\n<b>Consequences:</b>\r\n{optional_send_help_effects}\r\n{optional_allyship}\r\n{optional_will_gain_duty_of_honor}\r\n{optional_possible_helpers}",
-  "~\r\nOur victory was hard-fought, but we stood firm against those wicked foes. Thank you for sending reinforcements just in time. The struggle against this blight is a sacred duty. Know that I will rush to your aid at any moment should you ever need it!",
-  "~\r\nThe menace of the Unholy Horde shall never grant our lands respite. But if all stand against it as you did, sending me reinforcements, our world may yet harbor hope! Thank you, dear neighbor!",
-  "The Horde is on the march!\r\nThe <hint=hint_unholy_horde>Unholy Horde</hint> is advancing toward your settlement.\r\n\r\nIt's time to request assistance from your allies - if you have them...\r\n{optional_possible_helpers}",
-  "House of the Dead God\r\nThe capital of the <hint=hint_unholy_horde>Unholy Horde</hint>. \r\n\r\nSeize it to halt the Horde and eradicate the vile heretical cult once and for all."
+  "Kecenderungan kecanduan\nPeluang lebih tinggi untuk mengembangkan ketergantungan.",
+  "Tirani domestik\nSelama penyakit mental, lebih mungkin melakukan kekerasan fisik terhadap pasangan atau anak.",
+  "Penuh nafsu\n<hint=hint_need_sex>Kebutuhan seks</hint> meningkat dua kali lebih cepat.\n\n\nSelain itu, menunjukkan minat yang meningkat terhadap karakter lawan jenis.",
+  "Iri hati\nLebih rentan merasa iri terhadap orang lain.",
+  "Sinisme\nPemikiran sosial lebih lemah, begitu juga pikiran tentang kematian orang yang dicintai."
 ]

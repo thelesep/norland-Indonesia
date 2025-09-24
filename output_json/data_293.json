@@ -1,0 +1,7 @@
+[
+  "~\nLord {soul_uuid_target} dari {faction_uuid_target} telah meninggal karena luka-lukanya.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid_target} telah dibutakan.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid_old} telah diasingkan dan bergabung dengan {faction_uuid_new}.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid_old} telah berpindah ke rumah bangsawan {faction_uuid_new}.",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah berteman dengan Raja {soul_uuid_king_2} dari {faction_uuid_2}."
+]

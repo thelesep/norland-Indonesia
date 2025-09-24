@@ -1,0 +1,7 @@
+[
+  "~\nBertarung dengan seseorang yang lebih lemah dari dirimu adalah sesuatu yang bisa dilakukan siapa saja yang bodoh! Mungkin aku menderita kerugian sekarang, tapi hari akan datang ketika Holy Sophia akan membantuku merebut kemenangan. Dan percayalah, hari itu akan segera tiba, aku janjikan padamu!",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
+  "~\n$ Jika suzerainmu cukup kuat, sebuah pengepungan akan menimpa kotamu. Jika serangan itu meratakan Aula-mu, ikatanmu akan berlanjut.\n$ Namun, jika engkau berhasil mempertahankan kebebasanmu, engkau akan mengamankan kemerdekaanmu.\n$ Suzerain mungkin memilih memberimu kebebasan tanpa pertarungan jika engkau cukup kuat.",
+  "~\nKeberhasilan bergantung pada skill {skill_name_1} dan {skill_name_2} pelaku.\n\n{soul_uuid_performer} :\n{skill_name_1} {skill_level_1} lvl.\n{skill_name_2} {skill_level_2} lvl.\n\n$ Peluang keberhasilan: {chances}%\n{optional_puppets_bonus}\n\n<b>Biaya:</b> <hint=hint_resource_gold>{price}</hint>",
+  "Pembunuhan Lord\nMenyewa pembunuh berantai lokal untuk membunuh seorang lord yang dipilih.\n\n$ Jika berhasil, lord tersebut akan dibunuh.\n\nDalam kasus kegagalan:\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_assassinate}</red>\n$ Hubungan dengan Matriark: <red>{rel_de_neigh_assassinate}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]"
+]

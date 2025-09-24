@@ -1,0 +1,7 @@
+[
+  "~\r\nSepertinya janji-janji mu tentang dukungan timbal balik itu tak bernilai. Baiklah! Kami akan melakukannya dengan gemilang tanpa persekutuan dengan mu. Dan berhati-hatilah – hal-hal seperti itu tidak mudah dilupakan!",
+  "~\r\nAku diperingatkan untuk tidak mempercayaimu. Sayang sekali aku tertipu oleh jaminan palsu mu tentang persahabatan abadi. Kini kami sendirian – baiklah! Tapi aku akan mengingat ini.",
+  "Bebaskan Vasal\r\nBebaskan Penguasa provinsi {faction_uuid} dari sumpah vasalnya, membolehkan mereka menjadi independen kembali.\r\n\r\n$ Penguasa akan berterima kasih atas kebebasan barunya dan meningkatkan hubungan mereka sebesar <green>{rel_de_kick_out_vassal}</green>.",
+  "Vasal Dibebaskan\r\n{faction_uuid} tidak lagi bagian dari kerajaan mu dan telah menjadi provinsi independen.\r\n\r\n$ Hubungan Penguasa terhadap mu: <green>{rel_de_kick_out_vassal}</green>",
+  "~\r\nAku tidak tahu apa yang mendorong mu untuk membebaskanku dari sumpah vasalku, tapi aku menerima keputusan mu dengan rasa syukur. Namun, itu tidak berarti aku berutang apa-apa padamu selain itu."
+]

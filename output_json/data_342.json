@@ -1,0 +1,7 @@
+[
+  "~\nInilah cara menangani urusan. Anda telah sepenuhnya membenarkan kepercayaan saya dengan menghilangkan lord itu dari jalan saya. Individu seperti Anda pantas mendapatkan hadiah semacam itu. Saya punya berbagai kekurangan, tapi kekikiran bukan salah satunya! Dan saya percaya Anda akan menjaga kerahasiaan urusan kita!",
+  "~\n$ Jumlah upeti akan menjadi: <hint=hint_resource_gold>{tax_amount}</hint>",
+  "Untuk meminta {soul_uuid_king} menjadi <hint=hint_vassal>suzerain</hint> Anda. Namun, dia mungkin menolak jika raja Anda dibenci oleh terlalu banyak tetangga (lebih dari dua).",
+  "~\nAnda telah menjadi seorang <hint=hint_vassal>vasal</hint>.\n\n{soul_uuid_king} kini menjadi suzerain Anda.\n\nLayani dia dengan setia!\n\n[hint_vassal_tribute]",
+  "~\n{soul_uuid_king} menolak menjadi suzerain Anda karena dia percaya itu akan menimbulkan terlalu banyak masalah dengan faksi tetangga."
+]

@@ -1,12 +1,7 @@
 [
-  "Scheduled date\r\nThe character has planned a romantic date with {soul_uuid_sex_parther} this evening.",
-  "Reassigned Inspections\r\nLord {soul_uuid} now manages a new <hint=hint_bld_chancellery>Chancellery</hint>, and all buildings previously under their control are now serviced by clerks from this Chancellery.\r\n\r\nThe production bonus will remain the same.",
-  "Knowledge Work Canceled\r\nDue to acquired blindness, {soul_uuid} can no longer continue working in the library.\r\n\r\nWork on the knowledge {knowledge_name} has been stopped.",
-  "Stay Back\r\nThe commanding lord will stay behind the unit and engage in combat only when necessary.\r\n\r\nThis increases their chances of surviving the battle, but <red>the morale of the warriors will decrease</red>.",
-  "Unavailable\r\nThe character is <hint=hint_monogam>monogamous</hint>, so they would rather cut off their own leg than agree to such a thing.",
-  "[hint_advisor_caption]  \r\nOne or more of your lords are married and <hint=hint_monogam>monogamous</hint>, meaning they completely abstain from marital infidelity.  \r\n\r\nHowever, their spouses' attitude toward them has fallen below 0, making marital encounters impossible, which in turn prevents the satisfaction of their sexual desires.  \r\n\r\nImprove the relationship between the spouses to ensure sexual tension does not poison the lives of these lords.  \r\n\r\nList of lords affected by this effect:  \r\n{pairs_list}",
-  "[hint_advisor_caption]\r\nSome of your lords are <hint=hint_encyclopedia_puppets>puppets</hint> of neighboring rulers who are hostile toward you.\r\n\r\nThis means these lords may begin acting in the interests of their masters.\r\n\r\nList of puppet lords:\r\n{puppets_list}",
-  "[hint_advisor_caption]\r\nThe <hint=hint_relations_matriarch>Matriarch's</hint> opinion of your king has dropped to <red>hostile</red>, terrifying your subjects - especially the fanatics.\r\n\r\nAdditionally, the <hint=hint_holy_caravan>Holy Caravan</hint> will no longer come to you, and the Matriarch will no longer warn you of impending disasters.",
-  "[hint_advisor_caption]\r\nThe <hint=hint_bishop>Bishop's</hint> opinion of your king has dropped to <red>hostile</red>, increasing the risk of a <hint=hint_pogrom>religious uprising</hint>.",
-  "Debt of Honor\r\nWhen you come to the aid of a neighboring ruler in desperate situations, or render them a special favor, honor obliges them to repay you with a diplomatic concession.\r\n\r\nThis may be a peace treaty, joining your state, leaving another state, or a substantial tribute.\r\n\r\nChoose the diplomatic action you need in the Politics menu of their province and claim your reward!\r\n\r\n<b>Hint:</b>\r\n$ You don't have to use the Debt of Honor right away - it will remain valid as long as either your ruler or the indebted ruler is alive."
+  "[hint_mind_caption]\nMereka ada di mana-mana! Kau tak bisa mempercayai mereka, dan ini akan berakhir buruk!\n\nAlasan: Xenofobia budaya.",
+  "[hint_mind_caption]\nMereka ada di mana-mana! Kau tak bisa mempercayai mereka, dan ini akan berakhir buruk!\n\nAlasan: Xenofobia budaya.",
+  "[hint_mind_caption]\nMereka ada di mana-mana! Kau tak bisa mempercayai mereka, dan ini akan berakhir buruk!\n\nAlasan: Xenofobia budaya.",
+  "[hint_mind_caption]\nMereka ada di mana-mana! Kau tak bisa mempercayai mereka, dan ini akan berakhir buruk!\n\nAlasan: Xenofobia budaya.",
+  "[hint_mind_caption]\nAmisi yang tak terpenuhi membakar jiwa... Apakah aku benar-benar begitu tidak berarti?"
 ]

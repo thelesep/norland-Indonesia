@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nI can hear my stomach growling loudly! It’s long past time for a snack!\r\n\r\nReason: The character hasn’t eaten for a long time.",
-  "Malnutrition\r\nThe character hasn’t eaten for a long time and is feeling hungry. Over time, this may lead to exhaustion and eventually result in starvation.",
-  "Bodyguards\r\nAssigned warriors will follow the lord at night when criminals are active, protecting him from any threats.\r\n\r\nLike patrols, bodyguards will automatically equip the best available weapons before going on duty.\r\n\r\nIf the protected lord is inside a building, the bodyguards will guard the entrance.",
-  "Drunken stupor\r\nDue to the lord's unhappiness, he can't stop drinking, consuming one bottle after another until he passes out. During this time, he may start a drunken fight with a random character.",
-  "~\r\nI am tired of watching your pathetic attempts at impersonating a ruler! Soon my brave warriors will teach you some courtesy!",
-  "~\r\nYou seem to fancy yourself a brave man, don't you? Let's see how you stand in the face of my warriors!",
-  "~\r\nPrepare to pay the price for me allowing your pathetic pigsty to continue to exist. I hope your sorry province can do some good.",
-  "~\r\nI'm sure this letter will find you under the table where you'll be hiding from my warriors while they restore order to your city. I'm sorry, but watching this is all you have to do.",
-  "~\r\nI put it to you that you have exhausted my patience, and now you will have to pay for your stupidity and carelessness. For the time being, however, you will remain alive. Unless I change my mind.",
-  "Sudden Attack!\r\nThe {soul_uuid_king} of {faction_uuid} has suddenly decided to attack your city to <b>rob</b> your treasury. His army is already on the march.\r\n\r\nBecause of the suddenness of the attack, your allies will not have time to come to your aid, but {soul_uuid_king} himself has to rely only on his own forces."
+  "[hint_mind_caption]\nSepanjang hari, itu satu-satunya yang bisa kupikirkan. Aku akan gila jika tidak mewujudkan rencanaku!\n\nAlasan: Obsesi <hint=hint_desire_obsession>obsesi</hint> yang intens.",
+  "[hint_mind_caption]\nAku merasa tidak dihargai di sini... Ini menyiksaku.\n\nAlasan: <hint=hint_loyality>kesetiaan</hint> rendah.\n\n",
+  "[hint_mind_caption]\nAku pikir itu akhirnya, tapi sekarang aku bebas!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nLelah karena patroli\n\nAku telah <hint=hint_persons_guard>berpatroli</hint> sepanjang malam, dan aku sangat lelah!\n\n<b>Petunjuk:</b> Prajurit ditugaskan dan diganti dalam patroli secara otomatis. Untuk mengurangi beban keseluruhan, kurangi jumlah penjaga di menu <hint=hint_bld_patrol_sign>Bendera Patroli</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAku hanyalah seorang petani, bukan prajurit! Aku akan dibunuh di pertempuran pertama!\n[hint_mind_remain_time]"
 ]

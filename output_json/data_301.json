@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\n{soul_uuid_king} menganggap pasukanmu sangat <hint=hint_army_power>lemah</hint> dan menyarankan agar engkau berkontribusi pada keamanan wilayah dengan menyediakan dana.\n\n$ Engkau diwajibkan memberikan {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Jika engkau gagal melakukannya, hubunganmu akan memburuk sebesar <red>{rel_de}</red> dalam 2 hari.\n\n[hint_SENDER]",
+  "Kirim emas\n$ {soul_uuid_king} akan menerima <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Hubunganmu akan membaik sebesar <green>{rel_imp}</green>.",
+  "~\n$ Engkau telah membayar {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Hubunganmu telah membaik sebesar <green>{rel_imp}</green>.",
+  "~\n$ Engkau memilih untuk tidak membayar {soul_uuid_king}, yang telah menyinggungnya.\n$ Hubunganmu telah memburuk sebesar <red>{rel_de}</red>.",
+  "~\nTerima kasih atas emas yang telah engkau kirim! Aku amat gembira ketika diberikan tanpa syarat apa pun. Si dungu adalah yang mengutamakan keserakahan di atas kekalahannya sendiri."
+]

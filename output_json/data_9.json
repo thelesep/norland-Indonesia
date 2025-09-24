@@ -1,12 +1,7 @@
 [
-  "Hostage\r\nThey cannot take this action, because they are detained.",
-  "Confession\r\nConfess to the bishop in exchange for a small offering.\r\n\r\n<b>Cost:</b> <hint=hint_resource_rune>{conf_price}</hint>\r\n\r\nThe following <hint=hint_sin>sins</hint> will be absolved:\r\n{sins}",
-  "Confession is not available.\r\nThe lord has not sinned recently",
-  "Blessing\r\nFor {days} days, the church grants your king forgiveness for all his sins.\r\n\r\n$ Your ruler will not suffer when committing sins.\r\n$ <hint=hint_persons_fanatic>Fanatics</hint> among your peasants will be eager to join your army.\r\n$ Relationships of all your lords to their ruler will greatly improve, and subjects will be happier.\r\n\r\n<b>Cost:</b> <hint=hint_resource_gold>{price}</hint>",
-  "Poor relationship\r\nTo receive the <hint=hint_saint>blessing</hint>, the <hint=hint_relations_matriarch>Matriarch's opinion</hint> of your ruler must be greater than <green>{threshold}</green>.",
-  "Unavailable\r\nThis character has already received a <hint=hint_saint>blessing</hint>.",
-  "Divorce\r\nAnnul the marriage between {soul_uuid_target} and {soul_uuid_spouce}.\r\n\r\nAs a result, the characters will be able to enter into new marriages.\r\n\r\n<b>Cost:</b> <hint=hint_resource_rune>{price}</hint>",
-  "Comfort\r\nThe bishop will comfort a character who is grieving over the loss of a loved one with the right words and alleviate their pain.\r\n\r\nOutcome: Thoughts of the loss of a loved one will significantly weaken.",
-  "Beg for Forgiveness\r\nBy the grace of Mother Sophia, the bishop is willing to listen and forgive the transgressions of the character... if they prove their sincerity through sacrifice.\r\n\r\nAs a result, the bishop's attitude toward {soul_uuid_target} will improve by <green>{rel_plus}</green>.\r\n\r\n<b>Cost:</b> <hint=hint_resource_rune>{price}</hint>\r\n\r\n",
-  "Unavailable\r\nThe bishop does not consider {soul_uuid_target} to be an enemy, so {soul_uuid_target} does not need forgiveness."
+  "Duel\n{soul_uuid_1}: <hint=hint_skill_combat>Keterampilan Tempur</hint>: {skill_1}\n{soul_1_equipment_stack}\n\nVS\n\n{soul_uuid_2}: <hint=hint_skill_combat>Keterampilan Tempur</hint>: {skill_2}\n{soul_2_equipment_stack}\n{optional_duel_is_bad}\n{optional_loyalty_change}",
+  "Aktor Tidak Kompatibel\nLord harus menjadi <hint=hint_enemy>musuh</hint> dari {soul_uuid_target}.",
+  "Savant\nSavant tidak dapat dilatih.",
+  "Undang sebagai Tamu\nLord akan menerima undangan untuk mengunjungi pemukiman Anda selama beberapa hari.\n\n$ Lord akan setuju jika hubungan antara raja-raja Anda tidak di bawah <green>{opinion_threshold}</green>.",
+  "Perbuatan Gelap\nAnda dapat menyewa pembunuh berantai dari kota ini untuk melakukan perbuatan gelap seperti pencurian dan penculikan di <b>menu aksi kota</b>.\n\nBiaya jasa mereka bergantung pada <hint=hint_skill_speech>Persuasi</hint> skill dari raja Anda."
 ]

@@ -1,0 +1,7 @@
+[
+  "[hint_advisor_caption]\r\nAkibat kerugian baru-baru ini di antara para lord, tidak ada lagi yang tersisa yang memiliki <hint=hint_idea>pengetahuan</hint> berikut:\r\n\r\n{lost_list}\r\n\r\nJika Anda masih memiliki buku-buku dengan pengetahuan ini, sekaranglah waktunya untuk membiarkan para lord lainnya mempelajarinya, karena dalam beberapa hari pengetahuan ini akan hilang dari ingatan kolektif.\r\n\r\nPeriksa menu Pengetahuan untuk melihat detailnya.",
+  "Pengetahuan Terancam\r\nJika Anda masih memiliki buku-buku dengan pengetahuan ini, sekaranglah waktunya untuk membiarkan para lord lainnya mempelajarinya, karena dalam beberapa hari pengetahuan ini akan hilang dari ingatan kolektif.",
+  "Imbalan untuk Kebaikan\r\nPedagang menjelaskan: “Seorang orang asing meminta saya untuk memberikan emas ini kepada Anda. Ia mengatakan itu sebagai tanda terima kasih.””",
+  "Tidak Tersedia\r\nSeorang lesser lord hanya dapat ditawarkan ke Pihak Gereja oleh Penguasa tanah tempat lord ini lahir.\r\n\r\nPihak Gereja tidak menganggap pengorbanan seperti itu dari penguasa lain sebagai sesuatu yang signifikan.",
+  "Suap untuk Serangan\r\nBayar begal untuk menyerang sebuah kota (jika memungkinkan) atau desa-desa di provinsi {faction_uuid_target}.\r\n\r\nBegal tambahan akan direkrut: {pop_increase}\r\n\r\n<b>Biaya</b>: <hint=hint_resource_gold>{price}</hint>\r\n\r\n<b>Konsekuensi</b>:\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}\r\n\r\n[hint_SENDER]"
+]

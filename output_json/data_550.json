@@ -1,0 +1,7 @@
+[
+  "[hint_mind_caption]\r\nUang banyak selalu merupakan hal yang baik! Semoga aku bisa menjaganya dengan aman!\r\n\r\nAlasan: Karakter telah mengumpulkan banyak <hint=hint_resource_gold>Emas</hint>.\r\n\r\n<b>Petunjuk:</b> Jika kondisi karakter mencapai <hint=hint_resource_gold>{very_rich_coins}</hint>, mereka akan mendapatkan pikiran positif yang lebih kuat lagi.",
+  "[hint_mind_caption]\r\nHoly Sophia, aku kaya! Ini perasaan yang luar biasa!\r\n\r\nAlasan: Karakter telah mengumpulkan jumlah <hint=hint_resource_gold>Emas</hint> yang sangat besar.",
+  "[hint_mind_caption]\r\nAku benar-benar bangkrut! Sungguh memalukan!\r\n\r\nAlasan: Karakter tidak memiliki <hint=hint_resource_gold>Emas</hint>. Berikan hadiah kepada mereka untuk menghilangkan pikiran ini.\r\n\r\n<b>Petunjuk:</b> Jika kekayaan karakter mencapai <hint=hint_resource_gold>{rich_coins}</hint>, mereka akan mendapatkan pikiran positif permanen.",
+  "[hint_mind_caption]\r\nUang banyak selalu merupakan hal yang baik! Semoga aku bisa menjaganya dengan aman!\r\n\r\nAlasan: Karakter telah mengumpulkan banyak <hint=hint_resource_gold>Emas</hint>.\r\n\r\n<b>Petunjuk:</b> Jika kondisi karakter mencapai <hint=hint_resource_gold>{very_rich_coins}</hint>, mereka akan mendapatkan pikiran positif yang lebih kuat lagi.",
+  "[hint_mind_caption]\r\nHoly Sophia, aku kaya! Ini perasaan yang luar biasa!\r\n\r\nAlasan: Karakter telah mengumpulkan jumlah <hint=hint_resource_gold>Emas</hint> yang sangat besar."
+]

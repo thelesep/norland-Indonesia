@@ -1,0 +1,7 @@
+[
+  "Busur Silang\r\nSenjata jarak jauh.\r\n\r\n$ Berhasil menembus dan menghancurkan zirah dan perisai.\r\n$ Dibandingkan dengan <hint=hint_resource_bow>Bow</hint>, ia jauh kurang efektif terhadap target tanpa zirah, karena memuat dua kali lebih lambat.\r\n\r\n<b>Produksi</b>\r\n$ Diproduksi di <hint=hint_bld_workshop>Bengkel</hint>.\r\n$ Membutuhkan <hint=hint_resource_wood>1</hint> dan <hint=hint_resource_steel>1</hint> untuk dibuat.",
+  "Usir\r\nUsir tamu tersebut. Anda mungkin menghindari konsekuensi negatif dari kunjungan mereka, tapi Anda juga bisa melewatkan peluang menarik.",
+  "Rekrut Ksatria\r\nDengan merekrut begal pelarian ini, Anda akan mendapatkan ksatria yang sangat kuat yang mampu memimpin pasukan Anda.\r\n\r\nNamun, Anda segera harus menahan serangan dari {warriors_min} - {warriors_max} mantan kerabat <hint=hint_person_maroders>begal</hint> mereka.",
+  "Perdagangan Buku\r\nSeorang Scriptonic berdagang buku-buku unik yang tidak bisa dibeli di mana pun.",
+  "Penyihir: Serahkan kepada Keadilan\r\nAnda menyerahkan penyihir itu kepada pihak gereja, setelah itu ia akan dieksekusi.\r\n\r\n$ Hubungan dengan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{rel_inc}</green>"
+]

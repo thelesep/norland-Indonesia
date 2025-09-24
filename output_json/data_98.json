@@ -1,12 +1,7 @@
 [
-  "Gambling addiction\r\nGets bad thoughts if they haven't played dice for a long time. Thoughts of winning and losing are intensified.",
-  "Ascetic\r\n$ Does not experience thoughts of lack or excess of rings.\r\n\r\n<b>Cause:</b> Was a religious fanatic for a long time.",
-  "Contemptuous  \r\n$ Increased chance the character will choose to ignore others during conversations\r\n\r\n<b>Cause:</b> Held a large amount of money (more than <hint=hint_resource_gold>{contemptuous_money_threshold}</hint>) for {contemptuous_days} days in a row.",
-  "Coward\r\n$ Negative thought about the character from the squad they lead.\r\n$ Negative thought about the character from other lords.\r\n\r\n<b>Cause:</b> Fled during a battle.",
-  "Gluttonous\r\n$ Moves slower.\r\n$ Combat skill <red>-5.</red>\r\n$ Interest in the character <red>-20</red>.\r\n\r\n<b>Cause:</b> Was unhappy for a long time.",
-  "Hatred of substances\r\n$ Hates alcoholics and drug addicts.\r\n\r\n<b>Cause:</b> Someone close is suffering from addiction.",
-  "Misandrist\r\n$ -20 relations with men.\r\n\r\n<b>Cause:</b> Someone betrayed this character or they have long been unrequited in love.",
-  "Misogynist\r\n$ -20 relations with women.\r\n\r\n<b>Cause:</b> Someone betrayed this character or they have long been unrequited in love.",
-  "Blissful\r\n$ Everyone loves this character.\r\n$ <hint=hint_need_piety>Piety</hint> is restored to their interlocutors during conversations. They will avoid engaging in negative communication.\r\n\r\n<b>Cause:</b> Experienced a nervous breakdown.",
-  "Premature graying\r\n$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>\r\n\r\n<b>Cause:</b> Experienced a nervous breakdown or someone close passed away."
+  "Teknologi\r\nMengurangi jumlah <hint=hint_resource_wood>Kayu</hint> yang diperlukan untuk memupuk tanah ladang sebesar {soil_down_percentage}%.",
+  "Teknologi\r\nMeningkatkan jumlah <hint=hint_resource_wood>Kayu</hint> yang diekstrak dari satu pohon sebesar {more_wood_percentage}%. Ini membantu mengurangi tingkat deforestasi.",
+  "Teknologi\r\nMengurangi probabilitas kematian tanaman di ladang sebesar {plant_survive_percentage}%.",
+  "Teknologi\r\nMengurangi jumlah makanan yang diperlukan untuk babi sebesar {pigs_feed_down_percentage}%.\r\n",
+  "Teknologi\r\nMengurangi konsumsi <hint=hint_resource_instruments>Alat</hint> saat memperbaiki bangunan sebesar {tools_down_percentage}%."
 ]

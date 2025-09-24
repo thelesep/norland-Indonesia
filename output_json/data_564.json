@@ -1,0 +1,7 @@
+[
+  "Lepaskan dan Terima ke dalam Keluarga\r\nSandera akan dibebaskan dan bergabung dengan keluarga para lord Anda.\r\n\r\nRaja {soul_uuid_king} akan sangat tidak setuju dengan Anda merebut lord-nya.",
+  "Tidak Tersedia\r\nNarapidana memiliki pendapat yang terlalu rendah terhadap Penguasa Anda dan tidak akan bergabung dengan rumah bangsawan Anda.",
+  "Khotbah Dukungan\r\nSeorang politisi sedang menyampaikan khotbah yang meminta dukungan untuk upayanya.\r\n\r\nKarakter yang tidak bahagia di antara para pendengar akan menyumbangkan sejumlah kecil emas kepadanya agar ia bisa menggunakannya untuk mengejar tujuan politiknya.",
+  "Tidak Tersedia  \r\nPasangan suami istri memiliki pendapat yang terlalu rendah satu sama lain untuk pergi berkencan.\r\n\r\nHubungan {soul_uuid_1} terhadap {soul_uuid_2}: {opinion_1_2}  \r\nHubungan {soul_uuid_2} terhadap {soul_uuid_1}: {opinion_2_1}  \r\n\r\nKedua pasangan harus memiliki hubungan setidaknya {threshold}",
+  "Seks dengan Pasangan  \r\n{soul_uuid_target} akan pergi berkencan dengan {soul_uuid_spouse}"
+]

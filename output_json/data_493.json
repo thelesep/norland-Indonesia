@@ -1,0 +1,7 @@
+[
+  "Perburuan yang Tidak Berhasil  \r\n{soul_uuid_1} pergi berburu dengan {soul_uuid_2} di provinsi {faction_uuid}, tetapi perburuan berakhir tanpa hasil.  \r\n\r\nSuasana hati mereka dan hubungan satu sama lain memburuk.",
+  "Niat Terungkap\r\n{soul_uuid} mengungkapkan niat mereka dalam percakapan dengan para lord Anda. Ini adalah {role_name}.\r\n\r\nAnda dapat mengasingkan lord ini (yang akan memiliki konsekuensi) atau membiarkan semuanya seperti adanya dan menghadapi konsekuensi dari tindakan mereka.",
+  "Penyuka Bergaul\r\nTamu ini datang untuk membangun hubungan baik dengan raja dan pewaris Anda.",
+  "Penggiat Duel\r\nTamu ini memiliki <hint=hint_skill_combat>Keterampilan Tempur</hint> yang luar biasa. Mereka datang untuk menantang salah satu lord Anda—manajer terbaik Anda, komandan, atau bahkan raja—untuk duel dan membunuh mereka.",
+  "Pengacau\r\nTamu ini kemungkinan adalah pengintrik, memiliki skill tinggi dalam <hint=hint_skill_speech>Persuasi</hint> dan <hint=hint_skill_manners>Etika</hint>.\r\n\r\nNiat mereka termasuk menyuap para lord Anda dan merencanakan intrik melawan raja."
+]

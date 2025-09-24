@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nOur king schemes like a true <hint=hint_culture_tanaya>Tanaya</hint>... True greatness!\r\n\r\nReason: The character's values (Tanaya) align with the king's cunning policies.",
-  "[hint_mind_caption]\r\nOur king trades with neighbors like a true <hint=hint_culture_makha>Makha</hint>... He knows the value of money!\r\n\r\nReason: The character's values (Makha) align with the king's trade policies.",
-  "[hint_mind_caption]\r\nForeigners have almost pushed us out of this city! And yet, this is our land!\r\n\r\nReason: Members of the province's original culture have become less than half of the total population of the province.",
-  "[hint_mind_caption]\r\nThey deserved it! Just as it should be!\r\n\r\nReason: Members of a despised culture were subjected to terror.",
-  "[hint_mind_caption]\r\nFreedom is near!",
-  "[hint_mind_caption]\r\nSmash! Break! Burn!",
-  "[hint_mind_caption]\r\nSo many warriors around... No hope for an escape.\r\n\r\nReason: An overwhelming ratio of soldiers to prisoners that suppresses the will.",
-  "[hint_mind_caption]\r\nI feel like I'm being watched!\r\n\r\nReason: An overwhelming ratio of soldiers to prisoners that suppresses the will.",
-  "[hint_mind_caption]\r\nIt seems we're poorly guarded...\r\n\r\nReason: The ratio of the number of soldiers to prisoners.",
-  "[hint_mind_caption]\r\nWhat if we organize an escape?\r\n\r\nReason: The ratio of the number of soldiers to prisoners."
+  "Tidak Tersedia\r\nUskup belum tiba di wilayah Anda karena Matriark menganggap populasinya terlalu kecil.\r\n\r\nAgar uskup tertarik pada urusan Anda, populasi harus lebih besar dari <b>{population}</b>.\r\n\r\nSelain itu, uskup tidak akan datang jika hubungan raja Anda dengan <hint=hint_relations_matriarch>Matriark</hint> di bawah <red>{opinion}</red>.",
+  "Uskup Tidak Hadir\r\nSeorang uskup baru akan tiba ketika hubungan antara raja Anda dan <hint=hint_relations_matriarch>Matriark</hint> di atas <red>{opinion}</red>.",
+  "Damai\r\nRaja-raja di provinsi ini akan berperilaku damai, menghindari penaklukan dan konflik dengan tetangga.",
+  "Normal\r\nRaja-raja di provinsi ini akan mengejar kebijakan tipikal, sesekali terlibat dalam konflik dengan tetangga dan kadang-kadang menunjukkan agresi.",
+  "~\r\n<center>Sumber Daya Provinsi:</center>\r\n{optional_resources}\r\n\r\n<center>Sumber Daya Desa:</center>\r\n{optional_village_resources}"
 ]

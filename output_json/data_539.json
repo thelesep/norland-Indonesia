@@ -1,0 +1,7 @@
+[
+  "Setor Emas  \r\nPenguasa Anda akan menyetor <hint=hint_resource_gold>{count}</hint> ke perbendaharaan dari kantong pribadinya.\r\n\r\n<b>Akibatnya:</b>\r\n$ Mereka akan mendapatkan pikiran negatif <red>{mind}</red>.",
+  "Ambil Holy Rings\r\nPenguasa Anda akan mengambil <hint=hint_resource_rune>{count}</hint> dari perbendaharaan ke kantong pribadinya.\r\n\r\n<b>Akibatnya:</b>\r\n$ Mereka akan mendapatkan pikiran positif <green>{mind}</green>.",
+  "Setor Holy Rings\r\nPenguasa Anda akan menyetor <hint=hint_resource_rune>{count}</hint> ke perbendaharaan dari kantong pribadinya.\r\n\r\n<b>Akibatnya:</b>\r\n$ Mereka akan mendapatkan pikiran negatif <red>{mind}</red>.",
+  "[hint_advisor_caption]  \r\nJenis karakter baru, {group_name}, telah muncul di kota. Namun, mereka tidak menerima <hint=hint_food>makanan</hint> dan akan segera mulai kelaparan.  \r\n\r\n$ Buka <b>Menu Ekonomi</b> dan atur distribusi makanan harian,  \r\n$ Atau Anda dapat mengonfigurasi distribusi <hint=hint_resource_gold>Gold</hint> di sana dan secara bersamaan atur penjualan makanan di pasar lokal (Opsi ini tidak tersedia untuk narapidana dan memerlukan pengetahuan \"Upah\".)",
+  "[hint_advisor_caption]  \r\n{group_name} tidak dapat membeli <hint=hint_food>Makanan</hint>, meskipun mereka menerima <hint=hint_resource_gold>Gold</hint> setiap hari.  \r\n\r\n$ Konfigurasikan penjualan dan harga makanan di pasar lokal di <b>Menu Ekonomi</b> sehingga upah mereka cukup untuk membeli provisi,  \r\n$ Atau Anda dapat dengan sederhana mengatur distribusi makanan harian di menu yang sama."
+]

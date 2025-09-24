@@ -1,0 +1,7 @@
+[
+  "Sumbang Tepung\r\nSumbang <hint=hint_resource_food>{count}</hint> kepada peziarah suci agar mereka dapat melanjutkan perjalanan saleh mereka.\r\n\r\n$ Hubungan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{mat_inc}</green>\r\n$ Para peziarah akan meninggalkan provinsi Anda lebih cepat dari biasanya.",
+  "Sumbang Rutabaga\r\nSumbang <hint=hint_resource_rutabaga>{count}</hint> kepada peziarah suci agar mereka dapat melanjutkan perjalanan saleh mereka.\r\n\r\n$ Hubungan <hint=hint_relations_matriarch>Matriark</hint>: <green>+{mat_inc}</green>\r\n$ Para peziarah akan meninggalkan provinsi Anda lebih cepat dari biasanya.",
+  "Sumbang Tepung\r\n<red>Tidak Tersedia.</red>\r\n\r\nAnda membutuhkan <hint=hint_resource_food>{count}</hint> di penyimpanan.",
+  "Sumbang Rutabaga\r\n<red>Tidak Tersedia.</red>\r\n\r\nAnda membutuhkan <hint=hint_resource_rutabaga>{count}</hint> di penyimpanan.",
+  "Pengetahuan Hilang\r\nAkibat kerugian baru-baru ini di antara para lord, pengetahuan berikut telah terhapus dari ingatan kolektif:\r\n\r\n{lost_list}"
+]

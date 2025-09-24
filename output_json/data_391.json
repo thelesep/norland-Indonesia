@@ -1,0 +1,7 @@
+[
+  "~\r\n$ <red>Anda adalah vassal dari {soul_uuid_king_sir} dan mereka akan sangat tidak senang jika Anda secara sukarela pergi ke tuan lain.</red>\r\n$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_change_sir}</red>",
+  "~ \r\n$ Hubungan dengan suzerain sebelumnya {soul_uuid_king_ex_sir}: <red>{rel_de_change_sir}</red>",
+  "Tidak tersedia\r\nPerjanjian vassalage mengecualikan tindakan semacam itu antara suzerain dan vassal mereka.",
+  "Tidak tersedia\r\nAnda tidak bisa melakukan tindakan ini dengan suzerain",
+  "Tidak tersedia\r\nTindakan ini hanya bisa dilakukan dengan tetangga yang berbagi perbatasan umum."
+]

@@ -1,0 +1,7 @@
+[
+  "Tidak dapat memanggil\r\n{faction_uuid} bukan musuh bagi {faction_uuid_target} dan menolak menumpahkan darah rakyatnya.",
+  "Tidak dapat memanggil\r\nAnda sudah memanggil pasukan dari {faction_uuid}.",
+  "Tidak dapat memanggil\r\nPasukan dari {faction_uuid} saat ini berada di provinsi Anda.",
+  "Tidak dapat memanggil\r\nPasukan dari {faction_uuid} saat ini sedang dalam kampanye militer. Tunggu hingga mereka kembali ke rumah.",
+  "Tidak Tersedia\r\nPasukan ini berisi raja-raja lain yang dipanggil untuk tujuan tertentu, sehingga harus dibubarkan sebelum menugaskan tugas baru"
+]

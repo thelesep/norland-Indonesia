@@ -1,12 +1,7 @@
 [
-  "Unable to summon\r\nThe lord who previously commanded this army has left it, so it cannot be assigned to new missions.",
-  "Unavailable\r\nThe blind lord cannot learn combat skills.",
-  "[hint_mind_caption]\r\nThis song touched me to the depths of my soul! It felt as if he was singing about me!\r\n\r\n<b>Reason:</b> Listened to the song of a wandering minstrel",
-  "Unavailable\r\nThe guest has not yet arrived at the settlement",
-  "Trade\r\nTrade with the nectar merchant.\r\n\r\nThe only currency he is interested in, aside from gold, is prisoners.",
-  "Release of the Prisoner\r\nHe will leave your province, but promises to return the favor soon.",
-  "Nectar Merchant\r\nThe wandering merchant offers to sell you <hint=hint_resource_nectar>Nectar</hint> at a very favorable price.\r\n\r\nBut be careful—the price may increase if you start trading with him regularly.",
-  "Play\r\nYour pet will be thrilled to get some attention and is always ready for a fun game to lift your spirits.\r\n\r\n$ Positive Thought from Playing with Pet: <green>+{inc}</green>",
-  "Diplomatic efforts have restored your relations with the ruler {soul_uuid_king}.\r\n\r\n$ Now {soul_uuid_king}'s relations toward you: {current_relations}",
-  "~\r\nLet me assure you that our differences have been settled, and I intend to maintain a peaceful stance toward you. However, this does not mean we are now the best of friends."
+  "[hint_mind_caption]\n{name} adalah <hint=hint_enemy>musuh</hint> kesumpahanku! Aku benci kau!",
+  "[hint_mind_caption]\nApakah benar-benar tidak ada tempat tidur dan atap di atas kepalaku yang bisa ditemukan di kota ini?",
+  "[hint_mind_caption]\nFleshwolf itu tidak punya kesempatan melawan pemburu seperti aku!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAku tidak bisa bergerak! Semoga seseorang merawatku!",
+  "[hint_mind_caption]\nApakah aku terlihat seperti seorang petani? Ini sangat merendahkan! Aku butuh setidaknya <hint=hint_resource_rune>5</hint>!\n\n<b>Petunjuk:</b> Jika seorang karakter memiliki kurang dari 5 <hint=hint_resource_rune>Holy Rings</hint>, mereka mulai menderita rasa kemiskinan. Di sisi lain, jika mereka memiliki 15 atau, lebih baik lagi, lebih dari 25 Holy Rings, status sosial mereka terangkat, yang menyenangkan mereka."
 ]

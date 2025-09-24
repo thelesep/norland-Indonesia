@@ -1,0 +1,7 @@
+[
+  "Teror Narapidana\r\nCara paling aman untuk menghibur penduduk kota dengan eksekusi tanpa mengganggu hati nurani mereka.\r\n\r\nKonsekuensi:\r\n$ Tiga kenalan dari narapidana yang dieksekusi akan menerima pikiran negatif yang kuat.\r\n$ Ketidakpuasan di antara para narapidana akan meningkat, yang dapat menyebabkan <hint=hint_slave_riot>pemberontakan</hint> mereka.",
+  "[hint_mind_caption]\r\nRumor tentang kejahatan di kota membuatku gugup. Aku harap raja akan menempatkan patroli tambahan!",
+  "Sejarah Filsafat\r\nMemungkinkan pelaksanaan <hint=hint_sermon_agnostic>khotbah keraguan</hint>.",
+  "[hint_mind_caption]\r\nApa yang bisa lebih buruk daripada menghabiskan malam di tanah lembab? Seluruh tubuhku sakit, dan aku kedinginan sampai ke tulang!\r\n\r\n<b>Petunjuk:</b>\r\n$ Karakter tidur di tanah. Jika tidak ada cukup sumber daya untuk perumahan, bangun Kuil, di mana, mengikuti tradisi kuno keramahan, orang tanpa rumah dapat menghabiskan malam.",
+  "Khotbah Sukacita\r\nOrang percaya berdoa bersama dan menerima dorongan semangat baik untuk sehari, karena Ibu Sophia ada di antara mereka.\r\n{optional_preach_cost}"
+]

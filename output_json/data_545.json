@@ -1,0 +1,7 @@
+[
+  "Tidak Ada Akses ke Makanan\r\nJenis karakter baru, {group_name}, telah muncul di kota. Namun, mereka tidak menerima <hint=hint_food>makanan</hint> dan segera akan mulai kelaparan.  \r\n\r\n$ Buka <b>Menu Ekonomi</b> dan atur distribusi makanan harian,  \r\n$ Atau Anda dapat mengonfigurasi distribusi <hint=hint_resource_gold>Emas</hint> di sana dan secara bersamaan atur penjualan makanan di pasar lokal (Opsi ini tidak tersedia untuk narapidana dan memerlukan pengetahuan \"Upah\".)",
+  "Pemberontakan Politik\r\n[hint_puppet_riot]",
+  "~\r\n<red>Politisi memutuskan untuk memulai pemberontakan</red>",
+  "[hint_mind_caption]  \r\nBetapa menyenangkannya berada di antara orang-orang seperti saya! Melihat seseorang selain pasangan dan rekan kerja saya...\r\n\r\nAlasan: Mengunjungi tempat umum",
+  "Kenyamanan\r\nTingkat bangunan perumahan dan struktur di sekitarnya memengaruhi kenyamanan penghuninya.\r\n\r\n<img=hint_building_comfort></img>\r\n\r\n$ Bangunan industri di sekitar mengurangi kenyamanan, sementara ruang publik meningkatkannya.\r\n$ Anda juga dapat meningkatkan kenyamanan bangunan dengan mengupgradenya. Bangunan perumahan yang nyaman pada tingkat 4 atau 5 adalah salah satu cara untuk membuat penghuni begitu bahagia sehingga mereka mungkin menjadi <hint=hint_loyalist>loyalis</hint>.\r\n"
+]

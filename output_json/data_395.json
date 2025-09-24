@@ -1,0 +1,7 @@
+[
+  "Ultimatum tentang Netralitas\r\n{soul_uuid_king} akan menerima ultimatum dari Anda yang menuntut untuk memutus semua hubungan politik dengan bawahan, penguasa atas, atau sekutu. Provinsi ini harus menjadi mandiri secara politik dan netral.\r\n{optional_conditions}\r\n{optional_consequences_header}\r\n{optional_force_neutrality_additional_effects}\r\n{optional_change_relations_with_owner}\r\n{optional_possible_helpers_against_player}\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]\r\n{optional_duty_of_honor}",
+  "Ultimatum tentang Netralitas\r\n{soul_uuid_king} telah menerima ultimatum Anda dan Anda akan segera menerima tanggapan.\r\n\r\n{optional_force_neutrality_additional_effects}\r\n{optional_change_relations_with_owner}\r\n{optional_possible_helpers_against_player}\r\n{optional_holy_defence_will_removed}",
+  "~\r\n{soul_uuid_king} telah memutuskan untuk menerima ultimatum Anda dan menjadi netral.\r\n\r\nSemua kesepakatan politik faksi ini dibatalkan.\r\n{optional_duty_of_honor_complete}",
+  "~\r\n{soul_uuid_king} murka atas ultimatum Anda dan mengundang Anda untuk menyelesaikan masalah ini dengan kekerasan. Jelas, ia mengandalkan bantuan eksternal.\r\n\r\nAnda harus menyerang kotanya dalam 3 hari ke depan dan menang. Jika tidak, Anda akan dikenal sebagai pengecut.",
+  "~\r\n$ {soul_uuid_king} adalah bawahan. Hubungan dengan penguasa atasnya {soul_uuid_king_head}: <red>{rel_de_leader}</red>"
+]

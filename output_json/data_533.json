@@ -1,0 +1,7 @@
+[
+  "Main Dadu\r\nMain dadu dengan lord lain.\r\n\r\nHasil permainan cukup acak tetapi sebagian besar dipengaruhi oleh perbedaan skill <hint=hint_skill_knowledge>Kecerdasan</hint> para pemain.\r\n\r\nTaruhannya akan <hint=hint_resource_gold>{dice_bet}</hint>.",
+  "Main Dadu\r\nMain dadu dengan lord lain.\r\n\r\n$ {soul_uuid_1}: Kecerdasan {number1}\r\n$ {soul_uuid_2}: Kecerdasan {number2}\r\n\r\n<b>Sebagai hasil:</b>\r\n$ Probabilitas {soul_uuid_1} menang adalah {ver}%.\r\n$ Taruhannya akan <hint=hint_resource_gold>{dice_bet}</hint>.",
+  "Emas Tidak Cukup\r\nLord ini tidak memiliki Emas yang cukup. \r\n\r\nMemerlukan <hint=hint_resource_gold>{count}</hint>.",
+  "Hadiah\r\nKarakter akan menerima hadiah dari raja atas pelayanan setianya.\r\n\r\nRaja: {skill_name} level {skill_level}\r\n\r\n<b>Sebagai hasil:</b>\r\n$ Pikiran <green>Diupah: {mind_modify}</green>\r\n$ Kesetiaan: <green>{loyalty_modify}</green>\r\n$ Hubungan dengan raja: <green>{relations_modify}</green>\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{cost}</hint>",
+  "Permintaan Donasi\r\nPenguasa meminta donasi <hint=hint_resource_gold>Emas</hint> sebagai bantuan.\r\n\r\nPenguasa: {skill_name} level {skill_level}\r\n\r\n<b>Sebagai hasil</b>\r\n$ Pikiran <red>Dipaksa menyumbang: {mind_modify}</red>\r\n$ Kesetiaan: <red>{loyalty_modify}</red>\r\n\r\n<b>Penguasa menerima</b>:\r\n$ {gold} <hint=hint_resource_gold>emas</hint>"
+]

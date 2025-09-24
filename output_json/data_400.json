@@ -1,0 +1,7 @@
+[
+  "~\nHanya orang bodoh yang gagal mengakui kekalahan. Aku menghormati keberanianmu, dan kau bertarung dengan gagah. Tapi rasa malu atas kehancuran tentariku hanya bisa dihapus dengan kemenangan. Karenanya, pertempuran ini bukan yang terakhir.",
+  "~\nKau telah menunjukkan apa yang bisa dilakukan tentarumu, dan kemenanganmu menghormatimu. Tapi aku tidak bisa melupakan kekalahan ini, dan meskipun sekarang kau berpesta merayakan, suatu hari anggur akan mengalir seperti sungai di pemakamanmu.",
+  "~\nSeandainya kau setuju segera, darah sebanyak itu tidak akan tertumpah. Aku membayangkan bagaimana para pelawak sedang menyusun cerita mereka, dan bagaimana aib kekalahanmu telah menyebar di seluruh kerajaan. Kesombongan dan keangkuhanmu yang bersalah!",
+  "~\nSayang sekali kau ternyata lebih bodoh daripada yang kukira. Yang kuminta hanyalah kau tetap di pinggir. Tapi kau ingin menunjukkan keberanianmu, dan apa yang kau capai? Sungai darah tumpahan dan kekalahan. Kebodohan selalu ada harganya!",
+  "Pemaksaan ke Netralitas\n{optional_type_of_danger}\n\nOleh karena itu, {soul_uuid_king}, Penguasa dari {faction_uuid}, meminta bantuan dari semua pihak tetangga yang tidak takut berdiri di sisinya.\n\nKau bisa mengirim tentarumu untuk membantu melindungi {faction_uuid}.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}\n\n<b>Petunjuk:</b> Penguasa lebih cenderung mematuhi tuntutan netralitas jika hubungannya dengan kepala negara buruk."
+]

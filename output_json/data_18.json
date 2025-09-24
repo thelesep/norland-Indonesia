@@ -1,12 +1,7 @@
 [
-  "Herbalist\r\nHerbalists collect <hint=hint_resource_herb>Herbs</hint> in the nearby forest.",
-  "Bridge\r\nUsed to cross to the other side.",
-  "Bush\r\nJust a decoration.",
-  "Disturbing Decoration\r\nAn ornament that can instill a sense of <hint=hint_terror>terror</hint> in some characters.",
-  "Soothing Decoration\r\nAn ornament that can evoke a positive <hint=hint_thought>thought</hint>.",
-  "Hospital\r\nPatients receive care here, which greatly reduces the recovery time of wounds or illnesses.",
-  "Bath\r\nCures <hint=hint_vshi>lice</hint>, which is not only unpleasant but can also be a source of <hint=hint_plague>foul plague</hint>.\r\n\r\nRequires <hint=hint_resource_soap>Soap</hint> and <hint=hint_resource_wood>Wood</hint> to operate.",
-  "Library\r\nRequired for working with knowledge.",
-  "Decoration\r\nDoes not affect the game, but serves as a visual delight.",
-  "Night Patrol\r\nMarks the area of <hint=hint_persons_guard>patrolling</hint>.\r\n\r\nPlace this in important locations, such as lords' houses, the city center, and warwehouses, to protect these ares from <hint=hint_crime>crimes</hint>. Night patrols also prevent prisoner escapes.\r\n\r\nGuards from among your warriors will automatically go out on patrol in the <b>evening</b>."
+  "Tidak tersedia\nKarakter ini sudah menerima <hint=hint_saint>berkah</hint>.",
+  "Perceraian\nBatalkan pernikahan antara {soul_uuid_target} dan {soul_uuid_spouce}.\n\nAkibatnya, karakter-karakter tersebut akan bisa menikah lagi.\n\n<b>Cost:</b> <hint=hint_resource_rune>{price}</hint>",
+  "Kenyamanan\nUskup akan menghibur karakter yang berduka atas kehilangan orang tercinta dengan kata-kata yang tepat dan meredakan rasa sakit mereka.\n\nHasil: Pikiran tentang kehilangan orang tercinta akan melemah secara signifikan.",
+  "Mohon Pengampunan\nDengan rahmat Bunda Sophia, uskup bersedia mendengarkan dan mengampuni pelanggaran karakter... jika mereka membuktikan ketulusan melalui pengorbanan.\n\nAkibatnya, sikap uskup terhadap {soul_uuid_target} akan membaik sebesar <green>{rel_plus}</green>.\n\n<b>Cost:</b> <hint=hint_resource_rune>{price}</hint>\n\n",
+  "Tidak tersedia\nUskup tidak menganggap {soul_uuid_target} sebagai musuh, jadi {soul_uuid_target} tidak perlu pengampunan."
 ]

@@ -1,0 +1,7 @@
+[
+  "~\r\n{faction_uuid} telah meninggalkan aliansi kota-kota yang dipimpin oleh {leader_faction_uuid}.",
+  "~\r\n{faction_uuid} telah menyangkal ketaatannya sebagai vasal kepada {sir_faction_uuid}.",
+  "~\r\nAliansi dari {leader_faction_uuid} telah benar-benar bubar.",
+  "~\r\nKerajaan vasal dari {sir_faction_uuid} telah benar-benar pecah.",
+  "Kunjungan Utusan\r\nLord yang Anda pilih akan mengunjungi raja untuk memperbaiki hubungan dengannya atas nama Penguasa Anda.\r\n\r\nSelama proses tersebut, akan ada percakapan, hasilnya akan memengaruhi sikap {soul_uuid_king} terhadap raja Anda.\r\n\r\nKemungkinan percakapan yang baik bergantung pada skill <hint=hint_skill_manners>Etika</hint> utusan Anda."
+]

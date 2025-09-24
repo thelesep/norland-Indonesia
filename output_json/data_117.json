@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nI haven't played dice in so long... I urgently need to test my luck!\r\n\r\nReason: <hint=hint_gambler>Gambling addiction</hint>.",
-  "[hint_mind_caption]\r\nI'm just dying without <hint=hint_resource_nectar>Nectar</hint>! Where can I get some?\r\n\r\nReason: <hint=hint_addict>Nectar addiction</hint>.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI hope {name} is in hell right now. That creature got what they deserved!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nIt seems like {name} is feeling unwell... Ha! I hope it ends badly!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\n{name} doesn't deserve what they have at all! It should all be mine, by right!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nThat's hilarious! I can't stand such <hint=hint_speech_mockery>mockery</hint>!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nIt's satisfying to witness the triumph of <hint=hint_punish>justice</hint>!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\n<hint=hint_hungry>Hunger</hint> will soon kill me... I need at least a little bit of <hint=hint_food>food</hint>!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>, state of starvation.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\n{name} is no longer with us... Regardless of our relationship, it is a loss for our family.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nMother Sophia, have mercy on your slave! Accept as a gift my suffering!\r\n\r\nReason: <hint=hint_persons_fanatic>Religious fanatic</hint>."
+  "Pembebas\n$ Membenci raja-raja yang populasinya terdiri dari 50% atau lebih narapidana.\n$ Menghargai mereka yang tidak memiliki narapidana sama sekali.",
+  "Egaliter\n$ Membenci suzerain dan bersimpati dengan bawahan.",
+  "Sarjana\n$ Menghormati raja-raja yang skill Kecerdasannya melebihi miliknya sendiri.",
+  "Terkunci\n{optional_description}\n{optional_culture}\n\n{optional_lock_condition}",
+  "Penyaring\n<bcenter>{filter}</bcenter>"
 ]

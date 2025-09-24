@@ -1,0 +1,7 @@
+[
+  "~\r\nKota ini telah <red>desa dibakar</red>-nya, dan pasokan sumber daya yang dihasilkannya telah <red>dikurangi setengahnya.</red>",
+  "Perdagangan tidak mungkin \r\nKota ini telah <red>kedua desanya dibakar</red> - permintaan perdagangan telah <red>dikurangi menjadi nol</red>. Tunggu hingga setidaknya satu desa dari {faction_uuid} dibangun kembali.",
+  "Kota membeli: {offer_resource_name}\r\n[hint_trade_agreement_demand_generic]\r\n\r\nHarga telah disesuaikan sebesar {price_penalty} karena perbedaan skill {skill_name} antara pihak perdagangan. \r\n$ {soul_uuid_performer} (level {performer_skill_level}) \r\n$ {soul_uuid_trader} (level {trader_skill_level})\r\n\r\n{optional_holy_family_prices}\r\n{optional_paper_prices}\r\n{optional_trading_volumes_reduced}\r\n[hint_SENDER]",
+  "Kota menjual: {offer_resource_name}\r\n[hint_trade_agreement_offer_generic]\r\n\r\nHarga telah disesuaikan sebesar {price_penalty} karena perbedaan skill {skill_name} antara pihak perdagangan. \r\n$ {soul_uuid_performer} (level {performer_skill_level})\r\n$ {soul_uuid_trader} (level {trader_skill_level})\r\n\r\n{optional_holy_family_prices}\r\n{optional_paper_prices}\r\n{optional_trading_volumes_reduced}\r\n[hint_SENDER]",
+  "Tidak dapat dipilih\r\nTidak ada tindakan yang dapat dilakukan pada karakter ini."
+]

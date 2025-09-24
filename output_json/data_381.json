@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\n{soul_uuid_hostage} sedang menderita dalam penahanan dan disiksa. Tidak ada yang tahu berapa lama mereka akan bertahan.\n\nBegal menuntut tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.\n\nNamun, Anda juga bisa mencoba membebaskan sandera dengan kekerasan.\n\n[hint_SENDER]",
+  "Tebusan \nUntuk membebaskan {soul_uuid_hostage}, Anda perlu membayar tebusan sebesar <hint=hint_resource_gold>{bribe_price_gold}</hint>.",
+  "~\nSandera {soul_uuid_hostage} telah <green>dibebaskan</green> dan segera kembali ke kota Anda!",
+  "~\nSandera {soul_uuid_hostage} <red>tewas selama serangan</red>.",
+  "~\nSandera {soul_uuid_hostage} <red>meninggal karena penyiksaan</red> sebelum menerima bantuan Anda."
+]

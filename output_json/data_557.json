@@ -1,0 +1,7 @@
+[
+  "Tidak Tersedia  \r\nUntuk menjual sumber daya ini, Anda perlu membangun <b>{building_name}</b>.",
+  "Transfer Pewarisan\r\n{soul_uuid_dead} tidak lagi bersama kita, dan kerabat terdekat mereka, {soul_uuid_heir}, mewarisi properti mereka.\r\n\r\nPewarisan\r\n{loot}",
+  "Petani\r\nPetani biasa akan bekerja di lokasi produksi.",
+  "[hint_mind_caption]\r\nDan di rumah... Oh! Baiklah, tentu saja... Hmm... Baiklah, mengapa tidak?\r\n\r\n<b>Petunjuk:</b> Pikiran ini mencerminkan kesan karakter terhadap <hint=hint_building_comfort>kenyamanan</hint> perumahan mereka.",
+  "[hint_mind_caption]\r\nSekarang semuanya akan berjalan sesuai keinginan kita!\r\n\r\nAlasan: kemenangan dalam pemberontakan."
+]

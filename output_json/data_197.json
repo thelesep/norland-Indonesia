@@ -1,12 +1,7 @@
 [
-  "Not available\r\nThis action can only be performed with the head of the alliance {leader_soul_uuid} from {leader_faction_uuid}.",
-  "Not enough money\r\nYou don't have enough money to buy {offer_resource_stack} for <hint=hint_resource_gold>{offer_price}</hint>.",
-  "~\r\n\r\n<b>Suzerain's obligations</b>\r\n$ This king is your vassal, and if you don't help, you will experience severe retaliation.\r\n$ Relationship with {soul_uuid_king} if you don't help: <red>{rel_de_sir_dont_help_vassal}</red>",
-  "~\r\n\r\n<red>You have betrayed your vassal!</red>\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_sir_dont_help_vassal}</red>",
-  "Threat of plunder\r\n{optional_type_of_danger}\r\n\r\n<b>Consequences:</b> \r\n{optional_send_help_effects} \r\n{optional_allyship} \r\n{optional_possible_helpers}",
-  "Action impossible.\r\n{candidate_faction_uuid} refuses to join an alliance in which his enemy {enemy_faction_uuid} is already a member.",
-  "~\r\n<b>Consequences</b>",
-  "~\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>",
-  "Alliance of free cities\r\n[hint_defence_alliance_description]",
-  "~\r\n$ If he does not agree to comply within 3 days, you must attack his city.\r\n$ If you win, he will be forced to become neutral.\r\n$ If you hesitate to attack his city in case of his refusal, you will be known as a coward."
+  "Beruban\r\n$ <hint=hint_interest>Minat</hint> pada karakter <red>-10</red>",
+  "Sarkastik\r\n$ Kemungkinan lelucon kasar meningkat.\r\n\r\n<b>Penyebab:</b> Mengalami penyakit mental atau seseorang yang dekat meninggal dunia.",
+  "Taqwa\r\n$ Menjadi fanatik secara permanen.\r\n\r\n<b>Penyebab:</b> Mengalami penyakit mental atau seseorang yang dekat meninggal dunia.",
+  "Pendamai\r\n$ Tidak bahagia saat harus memerintah pasukan.\r\n\r\n<b>Penyebab:</b> Mengalami kekalahan dalam pertempuran.",
+  "Cemas\r\n$ Selalu terbangun selama invasi rumah.\r\n\r\n<b>Penyebab:</b> Mengalami invasi rumah atau penahanan."
 ]

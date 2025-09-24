@@ -1,12 +1,7 @@
 [
-  "~\r\n$ {soul_uuid_king} is offended.\r\n$ He also rejects your attempts at dominance and is ready for a siege.\r\n{optional_attack_on_vassal_or_ally}\r\n\r\nNow you can attack his city with the aim of plunder.\r\n{optional_possible_helpers_against_player}",
-  "~\r\nYou've left me with no choice. Take all the gold, but remember: I shall only find peace when your city turns to ashes. And believe me, I will find those who will aid me in achieving this.",
-  "~\r\nVery well, take all that I possess. I choose not to spill the blood of my people, unlike you. Despite what has transpired, I still hope that at some point, understanding will come to you that peaceful trade is far more profitable than violence.",
-  "~\r\nYou are not the first to attempt to plunder my city, and likely not the last. But since you have chosen the path of humiliation and defeat, I have no choice but to await your arrival. Let us put an end to this!",
-  "~\r\nYou won't get a thing! I would rather see my city burn than let a bastard from a whore rob me!",
-  "Waiting for a response\r\n{soul_uuid_king} is pondering your threat of looting.\r\n\r\nHe will respond soon.\r\n{optional_possible_helpers_against_player}",
-  "Waiting for the attack\r\n{soul_uuid_king} awaits the assault on his city by your troops after refusing your blackmail.\r\n\r\n$ If you do not show up for the assault within <b>two days</b>, you will be considered a coward.\r\n{optional_holy_defence_will_removed}",
-  "Attack\r\n$ If you do not show up for the assault within <b>two days</b>, you will be considered a coward.",
-  "~\r\nAfter a successful attack, {soul_uuid_king} suffered a defeat, and his city was looted to the tune of <hint=hint_resource_gold>{tribute_money}</hint>.\r\n\r\nYour troops return home victorious and with plunder.",
-  "~\r\nYou lost the battle, and {soul_uuid_king} proved that you are not up to the challenge."
+  "Tidak Bahagia\nPrajurit <hint=hint_sodiers_happiness>tidak bahagia</hint>, yang dapat memengaruhi <hint=hint_moral_level>keberanian</hint> mereka dalam pertempuran.",
+  "Pecandu Nektar\nPrajurit dengan <hint=hint_addict>kecanduan</hint> nektar.\n\nMenggunakan <hint=hint_resource_nectar>Nektar</hint> sebelum pertempuran dapat sangat meningkatkan <hint=hint_moral_level>keberanian</hint> mereka, tetapi jika prajurit ini kekurangan nektar, suasana hati <hint=hint_sodiers_happiness>mereka</hint> dapat menurun secara signifikan.",
+  "Fanatik\nPrajurit <hint=hint_persons_fanatic>fanatik</hint> bisa sangat efektif dalam pertempuran, karena mereka mendapatkan pikiran positif dari <hint=hint_pain>rasa sakit</hint>.",
+  "Pengembara\nPrajurit ini sebelumnya adalah <hint=hint_persons_criminal>pengembara</hint>, sehingga disiplin militer membuat mereka menderita.\n\nIni dapat memengaruhi <hint=hint_moral_level>keberanian</hint> mereka dalam pertempuran.",
+  "Lord Hilang\nSetelah kekalahan, lord berhasil melarikan diri dari medan perang, tetapi nasibnya tidak diketahui.\n\nSituasi akan menjadi jelas dalam 2 hari."
 ]

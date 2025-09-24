@@ -1,0 +1,7 @@
+[
+  "Upaya pencurian perpustakaan gagal!\r\nPara pembunuh berantai yang disewa bertarung dengan para penjaga dan terbunuh.\r\n\r\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_book_stealer}</red>\r\n$ Hubungan dengan Matriark: <red>{rel_de_book_stealer_neigh}</red>\r\n{optional_holy_defence_will_removed}",
+  "Persembahan untuk Raja\r\nLord akan menyajikan {gift_for_king_resource} kepada kepala rumah lain atas nama raja Anda. Jenis hadiah tergantung pada <hint=hint_culture>budaya</hint> kota.\r\n\r\n$ Akibatnya, sikap mereka terhadap pemimpin keluarga bangsawan Anda akan membaik sebesar jumlah yang didasarkan pada <hint=hint_skill_manners>keterampilan Etika</hint> pemberi.\r\n$ Setiap kali digunakan, tindakan ini akan tampak kurang tulus, sehingga mengurangi efeknya.\r\n$ Tindakan ini mungkin dilakukan bahkan jika raja tidak berada di kota – ia akan diberitahu tentang hadiah tersebut.\r\n\r\n[hint_SENDER]",
+  "Persembahan untuk Raja\r\nPelaksana {soul_uuid_performer}: {skill_name} {skill_level} lvl\r\n\r\nHubungan dengan raja Anda: <green>{gift_rel_improve}</green>\r\n\r\n<b>Hadiah yang akan diberikan:</b> {gift_for_king_resource}",
+  "~\r\n{soul_uuid_king} telah menerima persembahan Anda dan memperbaiki hubungan mereka dengan Anda sebesar <green>{gift_rel_improve}</green>.",
+  "~\r\nSaya menulis kepada Anda dengan ucapan terima kasih yang tulus atas hadiah dermawan Anda! Hubungan tetangga seharusnya dibangun di atas persahabatan, tetapi sayangnya, sedikit yang memahami hal ini di zaman kita."
+]

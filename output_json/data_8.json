@@ -1,12 +1,7 @@
 [
-  "The duel has ended!\r\nYour lord has been killed.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_duel_provocation}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_duel_provocation_neighbore}</red>",
-  "The duel is over!\r\nThe combatants are still alive.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_duel_provocation}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_duel_provocation_neighbore}</red>",
-  "Low Interest\r\nThe target's level of interest in this lord should be <green>high</green>.\r\n\r\nInterest of {soul_uuid_target} toward {soul_uuid_performer}: {interest_stack}",
-  "Not ready for interaction\r\n{soul_uuid_performer} has already interacted with {soul_uuid_target} recently, and they want to focus on other tasks.\r\n\r\n$ You can repeat the action in {remain_time}h.",
-  "Low loyalty\r\nThe actor has a very low <hint=hint_loyalty>loyalty</hint>. To be assigned to this task, the loyalty must be at least {loyalty_threshold}, but currently it is only {loyalty}.",
-  "~\r\nWhen a character's <hint=hint_loyalty>loyalty</hint> drops below 25, the lord enters into a conflict with their king.\r\n\r\n$ If it's an heir and they are not friendly with the king, they may raise a <hint=hint_nt_heir_rebellion>rebellion</hint>.\r\n$ If it's a regular lord or an heir friendly to the king, they will prefer to leave for a neighboring province, which worsens the relations between kings but does not incite a rebellion.\r\n\r\n<b>As a result</b>, the population, economy, and consequently, the <b>army of this king will decrease</b>.",
-  "Not ready\r\nThe caravan trader will be ready to trade as soon as he reaches the center of the settlement.",
-  "Mad\r\nThis lord can't deal with this now.",
-  "Mad\r\nThis interaction cannot be assigned at this time.",
-  "Come back home\r\nThe lord returns to his town."
+  "~\nKarakter ini berasal dari budaya {culture}, sehingga ada kemungkinan siswa dapat mengubah budayanya.",
+  "Tidak Cukup Holy Rings\nKarakter ini adalah tamu Anda, sehingga pelajaran memerlukan biaya <hint=hint_resource_rune>{price}</hint>.\n\nAnda tidak memiliki cukup Holy Rings untuk membayar pelajaran.",
+  "Hubungan Buruk\nHubungan buruk dengan raja Anda.\n\nTingkatkan hubungan dengan raja Anda hingga <green>{option_req}</green>.",
+  "Duel\nKarakter-karakter akan mencoba menentukan hubungan mereka melalui duel resmi.\n\n$ Menghapus <hint=hint_desire>keinginan</hint> untuk balas dendam atau kematian dari musuh, jika ada pada peserta duel.\n$ Duel berlanjut hingga salah satu peserta kehilangan kesadaran, tetapi hasil mematikan mungkin terjadi.\n$ Semakin banyak rasa sakit yang ditimbulkan duelist pada lawan, semakin mudah bagi mereka untuk menyelesaikan keinginan mereka.\n$ Duel diakui sebagai cara terhormat untuk menyelesaikan sengketa, sehingga bahkan jika Anda membunuh <hint=hint_bishop>Uskup</hint> dalam duel, Anda tidak akan menimbulkan kemarahan Matriark.",
+  "Provokasi\nSeorang tamu dari provinsi tetangga telah memprovokasi lord Anda untuk duel. Duel tersebut akan berlangsung malam ini.\n\nJika Anda tidak yakin dengan hasilnya, Anda dapat mengusir tamu dari provinsi Anda sebelum waktu itu. Lord Anda akan menghindari bahaya, tetapi ini akan memperburuk sikap monarki tamu (dan miliknya sendiri) terhadap Penguasa Anda."
 ]

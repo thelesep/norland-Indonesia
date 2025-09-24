@@ -1,12 +1,7 @@
 [
-  "Approaching death\r\nDue to natural causes, the character's days are coming to an end, and in a few days, the fire of life will be extinguished.",
-  "Enlightener\r\nShares their knowledge with anyone without level restrictions, but their interlocutor may adopt their culture.",
-  " ",
-  "Senile\r\nThis character has lost their mind due to old age.\r\n\r\nUnfortunately, this is incurable, and there is only hope for their swift demise.",
-  "Smallpox\r\nThe character has contracted smallpox. Unfortunately, there are no known methods to protect against this disease.\r\nIt can lead to scarring, blindness, and even death.\r\n\r\nThis is the first stage of the disease, accompanied by severe headaches and general malaise.\r\n\r\nNext stage in: {time}",
-  "Smallpox\r\nThe character has contracted smallpox. Unfortunately, there are no known methods to protect against this disease.\r\n\r\nIt can lead to scarring, blindness, and even death.\r\n\r\nAt this stage, the character is covered in ulcers, cannot move, and requires treatment with <hint=hint_resource_med>Medical Salve</hint>.\r\n\r\n$ If the character is treated, there is a 100% chance of survival.\r\n$ If the character is not treated, there is a 50% chance of survival and a 50% chance of death.\r\n\r\nWill be clear in: {time}",
-  "Smallpox\r\nThe character has contracted smallpox. Unfortunately, there are no known methods to protect against this disease.\r\n\r\nIt can lead to scarring, blindness, and even death.\r\n\r\nThe character has survived the crisis of the disease and is in the recovery stage, during which their movements are slowed down.\r\n\r\nFull recovery in: {time}",
-  "Immunity\r\nThe character has recently recovered from an infection, and now their blood provides complete protection against diseases such as rutabaga typhus and smallpox for the rest of their life.",
-  "Lesser Lord\r\n[hint_untitled_lord]",
-  "Fast Construction\r\nTo speed up the construction of the city, build additional <hint=hint_bld_store>Warehouses</hint>.\r\n\r\n<img=hint_encyclopedia_builders></img>\r\n\r\nWarehouses function directly even without workers, and you can hire additional builders there. \r\n\r\nFurthermore, having a Warehouse nearby reduces the time workers spend retrieving resources needed for production."
+  "Khotbah Efektif\nEfektivitas <hint=hint_sermon>khotbah</hint> di Tempel menjadi dua kali lipat.",
+  "Kebahagiaan Narapidana\nKemungkinan <hint=hint_slave_riot>pemberontakan narapidana</hint> turun menjadi nol.",
+  "Kertas Tanayan\nKomposisi khusus melindungi semua buku Anda dari terbakar jika terjadi kebakaran di Perpustakaan.",
+  "Rutabaga Semur\nResep khusus untuk <hint=hint_resource_rutabaga>Rutabaga</hint> semur yang mencegah kematian akibat Tifus Rutabaga (tetapi tidak mencegah penyakit itu sendiri).",
+  "Ketahanan Kekeringan\nMetode penanaman benih dan pengolahan tanah yang menghilangkan kerugian panen selama kekeringan."
 ]

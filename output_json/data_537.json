@@ -1,0 +1,7 @@
+[
+  "Suap\r\n{skill_name} tingkat {skill_level}\r\n{skill_name} tingkat target: {lord_skill_level}\r\n\r\n<b>Akibatnya:</b>\r\n$ <hint=hint_loyalty>Kesetiaan</hint> terhadap raja mereka sendiri: <red>{loyalty_modify}</red>\r\n$ Hubungan dengan penguasa Anda ({soul_uuid_king}): <green>+{rel_plus}</green>\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{cost}</hint>",
+  "Pekerjakan Lord\r\n{skill_name} tingkat {skill_level}\r\n{skill_name} tingkat free lord: {free_lord_skill_level}\r\n\r\n<b>Total biaya untuk 10 hari:</b> <hint=hint_resource_gold>{price}</hint> {price_change_percent}\r\n\r\n{optional_first_hire}\r\n\r\nPetunjuk: Lord tersebut akan menerima pembayaran mereka hanya setelah kontrak berakhir, dan hingga saat itu, itu akan disimpan oleh Pihak Gereja sebagai jaminan perilaku baik dari kedua belah pihak.",
+  "Tidak Tersedia  \r\nTidak ada cukup Emas di perbendaharaan provinsi.  \r\n\r\n<b>Dibutuhkan:</b> <hint=hint_resource_gold>{cost}</hint>",
+  "Kesetiaan Tentara\r\nDistribusi <hint=hint_soul_army_loyalty>kesetiaan prajurit</hint> di antara para lord:\r\n{optional_change_history}",
+  "[hint_advisor_caption]  \r\n{count} fasilitas produksi di provinsi Anda terletak jauh dari rumah-rumah tempat tinggal atau gudang. Akibatnya, banyak waktu kerja dihabiskan untuk perjalanan, dan produktivitas bangunan-bangunan ini berkurang.  \r\n\r\nAnda dapat menemukan bangunan-bangunan ini dengan memperkecil zoom kamera hingga maksimum dan beralih ke mode tinjauan."
+]

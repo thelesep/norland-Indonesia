@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nI urgently need to sleep. I can barely stand on my feet!\r\n\r\nReason: <hint=hint_need_sleep>Need for sleep</hint>.",
-  "[hint_mind_caption]\r\nA pleasant feeling of being satisfied with food.\r\n\r\nReason: fully replenished <hint=hint_need_food>Need for food</hint>.",
-  "[hint_mind_caption]\r\nTime for a snack!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>.",
-  "[hint_mind_caption]\r\nI need to eat something urgently!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>.",
-  "[hint_mind_caption]\r\nI'm dying of hunger!\r\n\r\nReason: <hint=hint_need_food>Need for food</hint>.",
-  "[hint_mind_caption]\r\nPhew... Well, it's not so bad, I still have some energy left.\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\r\nI think I haven't drunk anything for a day or two... I deserve this!\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\r\nI can't even remember the last time I had a drink! Where's my tankard?\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.\r\n\r\n<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>.",
-  "[hint_mind_caption]\r\nI can't work anymore! I want a drink!\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.\r\n\r\n<b>Hint</b>: Make sure the character has access to <hint=hint_alcohol>alcohol</hint>.",
-  "[hint_mind_caption]\r\nIt was fun!\r\n\r\nReason: Fully fulfilled <hint=hint_need_fun>Need for rest</hint>."
+  "sandera\r\nSeorang anggota keluarga bangsawan Anda telah ditangkap oleh begal selama serangan baru-baru ini pada pemukiman muda Anda.\r\n\r\nBebaskan mereka secepat mungkin!",
+  "Pemilik Penjara\r\nKeluarga Anda secara tradisional bergantung pada tenaga kerja penjara sebagai dasar ekonominya.\r\n\r\nAnda memulai dengan Narapidana alih-alih Petani",
+  "Gelombang Fanatisme\r\nKultus Ibu Sophia telah mencapai puncaknya. Dunia telah tergila-gila karena fanatisme.\r\n\r\nSemua migran yang datang ke domain Anda adalah fanatik.",
+  "Setelah Perang\r\nPerang yang berkepanjangan memiliki banyak konsekuensi. Salah satunya adalah tingkat Keterampilan Tempur dan peralatan yang lebih tinggi di antara Begal (hutan), karena banyak dari mereka dulunya prajurit.",
+  "Penurunan Perdagangan\r\nKrisis selalu menghantam perdagangan terlebih dahulu. Epidemi baru-baru ini telah menurunkan tingkat perdagangan, dan tidak jelas kapan akan pulih. Lebih baik andalkan diri sendiri.\r\n\r\nHoly Caravan tiba hanya dengan peluang 25%, tetapi akan muncul tidak kurang dari sekali setiap 5 hari."
 ]

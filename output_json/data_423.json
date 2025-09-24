@@ -1,0 +1,7 @@
+[
+  "[hint_advisor_caption]\r\n[hint_nt_dummy_low_food]",
+  "[hint_advisor_caption]\r\n[hint_nt_notenough_tavern]",
+  "[hint_advisor_caption]\r\n[hint_nt_notenough_temple]",
+  "[hint_advisor_caption]\r\n[hint_nt_notenough_barraks]",
+  "[hint_advisor_caption]\r\nLebih dari 30% populasi Anda menderita <b>tipus rutabaga</b>. Ini adalah penyakit mematikan yang bisa disebabkan oleh mengonsumsi <hint=hint_resource_rutabaga>Rutabaga</hint> mentah.\r\n\r\nUntuk mencegah penurunan populasi, sebaiknya segera mulai mendistribusikan <hint=hint_resource_food>Tepung</hint> sebagai pengganti Rutabaga."
+]

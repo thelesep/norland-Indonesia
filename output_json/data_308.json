@@ -1,0 +1,7 @@
+[
+  "Menunggu respons\n{soul_uuid_king} sedang mempertimbangkan ancaman perampokanmu.\n\nDia akan merespons segera.\n{optional_possible_helpers_against_player}",
+  "Menunggu serangan\n{soul_uuid_king} menunggu serangan terhadap kotanya oleh pasukanmu setelah menolak pemerasanmu.\n\n$ Jika kau tidak muncul untuk serangan dalam waktu <b>dua hari</b>, kau akan dianggap pengecut.\n{optional_holy_defence_will_removed}",
+  "Serangan\n$ Jika kau tidak muncul untuk serangan dalam waktu <b>dua hari</b>, kau akan dianggap pengecut.",
+  "~\nSetelah serangan yang sukses, {soul_uuid_king} mengalami kekalahan, dan kotanya dirampok sebesar <hint=hint_resource_gold>{tribute_money}</hint>.\n\nPasukanmu kembali ke rumah dengan kemenangan dan rampasan.",
+  "~\nKau kalah dalam pertempuran, dan {soul_uuid_king} membuktikan bahwa kau tidak mampu menghadapi tantangan itu."
+]

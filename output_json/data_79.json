@@ -1,12 +1,7 @@
 [
-  "External Trade\r\nThe balance of trade with your neighbors on the world map.",
-  "Trade with the Holy Caravan\r\nThe balance of trade with the Holy Caravan.",
-  "Lords\r\n\r\n{details_stack}",
-  "Peasants\r\n\r\n{details_stack}",
-  "Prisoners\r\n\r\n{details_stack}",
-  "Warriors\r\n\r\n{details_stack}",
-  "Vagabonds\r\n\r\n{details_stack}",
-  "Terror is getting out of control\r\nDuring the ongoing terror, all vagabonds and unemployed peasants have been punished. If you do not stop it, the executioners will begin punishing ordinary peasants.\r\n\r\nTo stop the terror, find the <hint=hint_bld_scafod>Scaffold</hint> where this mode is enabled.",
-  "It is impossible to continue\r\nRuler {name} must be an adult - at least {age_adult} years old.\r\n\r\nTo raise his age, increase his skill level.",
-  "No equipment\r\n{soul_uuid} lacks any weapon or armor. According to the sacred rules of dueling, both opponents must be properly equipped."
+  "Perpustakaan Kota\nDaftar pengetahuan unik:\n{list}",
+  "Pengetahuan\n{list}",
+  "Anda telah jatuh dari kenyamanan!\nTindakan terbaru Anda sangat mengecewakan Matriark, dan sikapnya terhadap Anda telah jatuh di bawah <red>-25</red>.\n\n$ Berharap pada perubahan hati Anda, Pihak Gereja telah memberlakukan embargo lengkap - sejak saat ini, <red>Holy Caravan tidak akan lagi mengunjungi provinsi Anda.</red>\n$ Tingkatkan hubungan Anda dengan Matriark untuk mencabut embargo.\n$ Jika hubungan jatuh di bawah <red>-50</red>, Anda akan secara resmi dikutuk, dan uskup akan meninggalkan provinsi Anda.\n$ Matriark akan mengirim <hint=hint_inqusitors>Inkuisisi</hint> ke kota Anda jika hubungan turun di bawah <red>-100</red>.",
+  "Kekeringan\nKarena tidak ada hujan selama lima hari, semua tanaman layu. Petani Anda akan menanam ulang mereka, dan semoga kali ini Ibu Sophia akan mengirimkan hujan kepada kita.",
+  "Unholy Horde\nMisi Inkuisisi telah kembali dengan berita buruk. Di hutan barat laut, sebuah <hint=hint_unholy_horde>Unholy Horde</hint> yang disebut-sebut telah terbentuk - persekutuan suku hutan di bawah kekuasaan kultus sesat baru, <hint=hint_dead_god_herecy>Heresy of the Dead God</hint>.\n\nPasukan yang sangat agresif dan kuat ini sedang mempersiapkan untuk menghancurkan semua Kerajaan Baru di Norland.\n\nKelompok Keluarga Penuh Kasih mendesak semua rumah bangsawan untuk menyingkirkan konflik mereka sementara waktu dan bersatu melawan ancaman baru ini. Raja yang membakar ibu kota Unholy Horde, Rumah Dewa Mati, menjadi abu akan mendapatkan rasa syukur seluruh dunia dan mengukir namanya dalam sejarah selamanya.\n\nSisa-sisa misi berhasil mengetahui lokasi pasti pemukiman ini."
 ]

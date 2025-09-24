@@ -1,12 +1,7 @@
 [
-  "~\r\nLord {soul_uuid_target} from {faction_uuid_target} has died from wounds.",
-  "~\r\nLord {soul_uuid_target} from {faction_uuid_target} has been blinded.",
-  "~\r\nLord {soul_uuid_target} from {faction_uuid_old} has been exiled and joined {faction_uuid_new}.",
-  "~\r\nLord {soul_uuid_target} from {faction_uuid_old} has switched to noble house {faction_uuid_new}.",
-  "~\r\nKing {soul_uuid_king_1} from {faction_uuid_1} has befriended King {soul_uuid_king_2} from {faction_uuid_2}.",
-  "~\r\nKing {soul_uuid_king_1} from {faction_uuid_1} has quarreled with King {soul_uuid_king_2} from {faction_uuid_2}.",
-  "~\r\nA rebellion has occurred in {faction_uuid}. {dead_lords_stack} have perished.",
-  "~\r\nLord {soul_uuid_target} from {faction_uuid} has died during childbirth.",
-  "~\r\n{faction_uuid_1} has become a vassal of King {soul_uuid_king_2} from {faction_uuid_2}.",
-  "~\r\nThe capital of {faction_uuid_target} has been successfully attacked by the army of {faction_uuid_attacker}."
+  "Permintaan lokal untuk semua barang telah meningkat\nNegara <hint=hint_tutorial_states>state</hint> yang Anda ikuti baru-baru ini berkembang, yang berarti <hint=hint_market_volume>permintaan lokal</hint> meningkat karena penduduk provinsi baru.",
+  "Persetujuan Jawa \nRakyatmu dari budaya Jawa senang bahwa rajamu bukan pengecut dan memperoleh kemuliaan dalam pertempuran, yang selaras dengan <hint=hint_kaiden_views>nilai-nilai mereka</hint>.",
+  "Persetujuan Madura \nRakyatmu dari budaya Madura senang dengan cara-cara rajamu memperoleh pengaruh dengan tetangga, yaitu melalui intrik dan perbuatan gelap. Ini selaras dengan <hint=hint_tanaya_views>nilai-nilai mereka</hint> dan gagasan mereka tentang politik sejati.",
+  "Persetujuan Dayak \nRakyatmu dari budaya Dayak puas melihat bahwa kamu membuat kesepakatan perdagangan menguntungkan dengan tetangga, yang selaras dengan <hint=hint_makha_views>nilai-nilai mereka</hint>.",
+  "Persetujuan Sunda \nRakyatmu dari budaya <hint=hint_culture_voruns>Sunda</hint> senang bahwa rajamu menahan diri dari konflik dengan tetangga dan mengejar kebijakan damai. Ini selaras dengan <hint=hint_varns_views>nilai-nilai mereka</hint>."
 ]

@@ -1,0 +1,7 @@
+[
+  "Hutang Kehormatan Baru\r\n{soul_uuid_king} dari {faction_uuid} kini <hint=hint_debt_of_honor>berhutang</hint> kepada penguasa Anda.",
+  "Hutang Kehormatan Terpenuhi\r\n{soul_uuid_king} dari {faction_uuid} telah memenuhi <hint=hint_debt_of_honor>hutang kehormatan</hint> mereka kepada penguasa Anda.",
+  "Hutang Kehormatan Tidak Lagi Berlaku\r\nAnda memiliki penguasa baru, sehingga {soul_uuid_king} dari {faction_uuid} percaya bahwa <hint=hint_debt_of_honor>hutang kehormatan</hint> mereka tidak lagi sah.",
+  "Hutang Kehormatan Direset\r\nDi provinsi {faction_uuid}, kini ada penguasa baru, {soul_uuid_king}, yang percaya bahwa <hint=hint_debt_of_honor>hutang kehormatan</hint> pendahulunya tidak berlaku bagi mereka.",
+  "Diplomat\r\nBiaya penandatanganan perjanjian damai dengan tetangga dikurangi sebanyak {number} kali."
+]

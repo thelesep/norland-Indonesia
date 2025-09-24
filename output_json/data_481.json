@@ -1,0 +1,7 @@
+[
+  "Suap untuk Serangan\r\nPara begal telah setuju untuk menyerang target di provinsi {faction_uuid_target}.\r\n\r\nSerangan akan dimulai dalam waktu satu hari. Target akan dipilih berdasarkan kemampuan para begal.\r\n\r\nJumlah prajurit baru yang direkrut dengan dana Anda: {pop_increase}\r\n\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}",
+  "Tidak Tersedia\r\nAksi ini dapat dilakukan lagi dalam {days} hari.",
+  "Begal (hutan) disuap!\r\nSeorang perwakilan dari provinsi {faction_uuid} terlihat di <hint=hint_persons_forest_bandits>Begal (hutan)</hint> kemah dekat kota Anda.\r\n\r\nSerangan terhadap kota atau desa Anda dapat diharapkan dalam waktu satu hari.\r\n\r\nPrajurit baru yang direkrut dengan dana mereka: {pop_increase}.",
+  "[hint_DESCRIPTION]\r\n{soul_uuid_maniac} bersembunyi dari hukuman di kemah begal.\r\n\r\nJika Anda menyerang kemah tersebut, Anda akan dapat menangkapnya, menggali informasi tentang asal-usulnya, dan memulihkan keadilan, sambil juga mengharapkan imbalan.",
+  "~\r\nSetelah kemenangan, {soul_uuid_maniac} ditangkap dan diinterogasi oleh prajurit Anda.\r\n\r\nTernyata lord ini berasal dari provinsi {province_name}, di mana ia telah lama dicari untuk keadilan.\r\n\r\nPrajurit Anda memutuskan untuk mengirim lord yang ditangkap itu pulang, di mana pembalasan menantinya."
+]

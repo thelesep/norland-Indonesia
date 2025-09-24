@@ -1,12 +1,7 @@
 [
-  "Coal Furnace\r\nHere, <hint=hint_resource_coal>Coal</hint> is produced.",
-  "Mine\r\nHere, <hint=hint_resource_iron>Iron</hint> is extracted.\r\nIt can only be located on an iron deposit.",
-  "Coal Furnace\r\nHere, <hint=hint_resource_coal>Coal</hint> is produced.",
-  "Smelting Furnace\r\nHere, <hint=hint_resource_steel>Steel</hint> is smelted.",
-  "~\r\nThe harvest is collected every 3 days, and sometimes it may perish if there hasn't been rain for a long time.\r\n\r\nEvery {fert_days} days, it requires fertilization by burning <hint=hint_resource_wood>{fert_number}</hint>.",
-  "Rye Field\r\nHere, <hint=hint_resource_rye>Rye</hint> is grown.\r\n\r\n[hint_field_fert]",
-  "Hop Field\r\nHere, <hint=hint_resource_hop>Hops</hint> are grown.\r\n\r\n[hint_field_fert]",
-  "Rutabaga Field\r\nHere, <hint=hint_resource_rutabaga>Rutabagas</hint> are grown.\r\n\r\nThe harvest is collected every day.\r\n\r\nEvery {fert_days} days, fields require fertilization by burning <hint=hint_resource_wood>{fert_number}</hint>.",
-  "Mill\r\nHere, <hint=hint_resource_food>Flour</hint> is produced.",
-  "Pig Farm\r\nHere, pigs are raised for <hint=hint_resource_meat>Meat</hint>.\r\n\r\nThe pig population is slaughtered every 6 days.\r\n\r\nThe start of the breeding cycle requires a supply of <hint=hint_resource_rutabaga>50</hint> as feed for the pigs."
+  "Sandera\nMereka tidak bisa melakukan tindakan ini, karena mereka ditahan.",
+  "Pengakuan Dosa\nBerakui kepada uskup sebagai ganti persembahan kecil.\n\n<b>Cost:</b> <hint=hint_resource_rune>{conf_price}</hint>\n\nYang berikut <hint=hint_sin>dosa</hint> akan diampuni:\n{sins}",
+  "Pengakuan dosa tidak tersedia.\nLord tersebut belum berbuat dosa baru-baru ini",
+  "Berkah\nSelama {days} hari, Pihak Gereja memberikan pengampunan kepada penguasa Anda untuk semua dosanya.\n\n$ Penguasa Anda tidak akan menderita saat berbuat dosa.\n$ <hint=hint_persons_fanatic>Fanatik</hint> di antara Petani Anda akan bersemangat bergabung dengan pasukan Anda.\n$ Hubungan semua lord Anda dengan penguasa mereka akan sangat membaik, dan rakyat jelata akan lebih bahagia.\n\n<b>Cost:</b> <hint=hint_resource_gold>{price}</hint>",
+  "Hubungan buruk\nUntuk menerima <hint=hint_saint>berkah</hint>, pendapat <hint=hint_relations_matriarch>Matriark</hint> tentang penguasa Anda harus lebih besar dari <green>{threshold}</green>."
 ]

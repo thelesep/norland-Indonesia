@@ -1,12 +1,7 @@
 [
-  "Attack\r\n$ Risk of battle with a pack of fleshwolves (<b>{wolves_min} - {wolves_max}</b> creatures).\r\n$ Relationship with neighbors: <green>{rel_improve}</green>",
-  "~\r\n$ The pack has been wiped out. \r\n$ Relationship with neighbors: <green>{rel_improve}</green>",
-  "~\r\n$ You failed to destroy the pack. However, after a fierce battle, the fleshwolves eventually retreated",
-  "~\r\n$ The pack has left your territory.",
-  " ",
-  "[hint_DESCRIPTION]\r\nThe village is in another lord's territory. You can attack the village at any time to capture prisoners, but the villagers will resist, and it will strain your relationship with the ruler of the province.\r\n\r\n$ Owner: {soul_uuid_king}\r\n$ Defenders: {defenders}\r\n$ Possible loot: {possible_loot}",
-  "Raid the village\r\nEngage in a guaranteed battle with the village defenders ({number_of_defenders} people, armed with daggers and maces).\r\n\r\n$ The village will be plundered and unable to pay tribute for the next 2 harvests.\r\n$ Since the village is in {soul_uuid_king}'s territory, your relationship with them will worsen by <red>{rel_de}</red>.\r\n\r\n<b>Possible loot:</b> {possible_loot}\r\n{optional_holy_defence_will_removed}",
-  "~\r\nThe village has been plundered and burned down.\r\n\r\nRelationship with {soul_uuid_king}: <red>{rel_de}</red>\r\n\r\n<b>Loot:</b> {loot}\r\n{optional_holy_defence_will_removed}",
-  "~\r\nThe peasants repelled your attack, but the village was burned down during the battle.\r\n\r\nRelationship with {soul_uuid_king}: <red>{rel_de}</red>\r\n{optional_holy_defence_will_removed}",
-  "~\r\nHow low one must stoop to plunder villages? The peasants are unarmed and cannot go to war! Come and face me and my warriors, and we shall see how much of a warrior you truly are!"
+  "~\r\nAlasan: <hint=hint_genetics_desc>Diwarisi</hint> sifat",
+  "Cantik\r\nMeningkatkan <hint=hint_interest>minat</hint> terhadap karakter dari karakter lain sebesar {beauty}.",
+  "Menarik\r\nMeningkatkan <hint=hint_interest>minat</hint> terhadap karakter dari karakter lain sebesar {beauty}.",
+  "Tidak Menarik\r\nMengurangi <hint=hint_interest>minat</hint> terhadap karakter dari karakter lain sebesar {beauty}.",
+  "Biasa-biasa Saja\r\nMengurangi <hint=hint_interest>minat</hint> terhadap karakter dari karakter lain sebesar {beauty}."
 ]

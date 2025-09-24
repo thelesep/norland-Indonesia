@@ -1,12 +1,7 @@
 [
-  "More",
-  "~\r\nThis action can be executed with the help of a <hint=hint_sender>messenger</hint>.",
-  "The Church's attitude toward Tanaya\r\n<hint=hint_sofia_cult>The Loving Family</hint> always supports its loyal sons of <hint=hint_culture_tanaya>Tanaya</hint>, therefore helping this king is <b>blessed</b>.",
-  "The Church's attitude toward Makha\r\n<hint=hint_sofia_cult>The Loving Family</hint> has a dislike for the former heretics of <hint=hint_culture_makha>Makha</hint>, therefore helping this king is <b>not blessed</b>.",
-  "The danger is over\r\n{faction_uuid} is now safe, as the enemy has changed their plans and is no longer going to attack here. Your troops are on their way home.",
-  "~\r\nThe danger has passed; the enemy had a change of heart and decided not to attack. I appreciate your assistance, but I am relieved that it was not needed. Our prayers have been answered!",
-  "~\r\nThank you for the help you sent. However, the enemy proved to be more cowardly than a hare and had second thoughts about entering the battle. It will be quite a laugh when everyone hears about it!\r\n",
-  "~\r\n$ Matriarch approves aid against the Horde: <green>{church_rel_im}</green>",
-  "~\r\n$ Matriarch approves of help <hint=hint_support_tanaya>given to Tanaya</hint>: <green>{church_rel_im}</green>",
-  "~\r\n$ Matriarch <hint=hint_not_support_mahka>will not approve of your assistance</hint>: <red>{church_rel_de}</red>"
+  "Pasukan Pembelot\nPerang saudara yang panjang akan menyebabkan munculnya sekelompok besar pembelot yang akan melihat provinsi Anda sebagai tempat tinggal yang sangat baik.\n$ Di peta dunia, dekat kota Anda, akan muncul kamp bandit yang sangat besar yang terdiri dari {size_1} - {size_2} prajurit berpengalaman.",
+  "Infeksi Tanaman \n{type} akan terinfeksi oleh jamur parasit yang merusak tanaman. \n$ Semua ladang dengan tanaman ini tidak akan menghasilkan panen selama {duration_days} hari .\n$ Harga tanaman di <hint=hint_holy_caravan>Holy Caravan</hint> selama waktu ini akan {price_factor} kali lebih tinggi.",
+  "Wabah Cacar Air \nDosa-dosa banyak dari subjek Anda menyinggung Ibu Sophia, dan segera dia akan mencurahkan kesedihannya ke atas kepala Anda. \n$ Selama {duration_days} hari, setiap penduduk kota Anda bisa tertular penyakit mematikan dengan peluang {sick_chance}% per hari.\n$ Cacar air bisa diobati dengan <hint=hint_resource_med>Medical Salve</hint>, tapi itu bisa menyebabkan kebutaan dan bekas luka mengerikan.",
+  "Wabah Xenofobia \nDi antara subjek Anda dari {culture}, rumor akan muncul bahwa penduduk dari budaya yang dibenci {culture_target} mempraktikkan sihir hitam dan mencuri anak-anak mereka. \n$ Selama {duration_days} hari, karakter dari {culture} akan menyerang karakter dari {culture_target} di jalanan.\n$ Garda dari <hint=hint_persons_guard>patrols</hint> akan melindungi korban serangan tersebut.",
+  "Invasi Pengembara \nBencana-bencana banyak di antara tetangga akan menghasilkan sejumlah besar petani yang miskin yang akan memutuskan untuk menjadi pengembara dan pembunuh berantai. \n$ Selama {duration_days} hari, semua migran yang datang akan menjadi <hint=hint_persons_criminal>vagabonds</hint> atau <hint=hint_persons_cuthroat>cutthroats</hint>."
 ]

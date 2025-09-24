@@ -1,12 +1,7 @@
 [
-  "Technology\r\nReturns {return}% of the resources saved during production at the end of the day.",
-  "Technology\r\nPrevents the building from breaking down.",
-  "Technology\r\nPrevents the building from catching fire.",
-  "Technology\r\nEliminates accidents and illnesses in the workplace.",
-  "Technology\r\nSpeeds up the construction of all buildings by {building_speed_down_percentage}%.",
-  "Technology\r\nReduces the consumption of <hint=hint_resource_wood>Wood</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
-  "Technology\r\nReduces the consumption of <hint=hint_resource_iron>Iron</hint> when constructing and upgrading buildings by {building_wood_down_percentage}%.",
-  "Technology\r\nWhen learned, grants {number} experience in skill {skill_name}.",
-  "New Book\r\nA new book has been written. Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see the result.",
-  "New Knowledge\r\nNew knowledge has been learned! Click to open the <hint=hint_knowledge_menu>Knowledge menu</hint> and see which features are now available."
+  "Penyakit\nPenyakit bisa ringan atau parah.\n\nDalam kasus penyakit ringan, karakter bergerak dengan langkah lebih lambat.\n\nDalam kasus penyakit parah, karakter tidak mampu berjalan dan tetap terbaring di tempat tidur. Mereka dikunjungi oleh orang-orang terkasih dan seorang <hint=hint_persons_priest>pendeta</hint>.\n\nPenyebab penyakit bisa berupa <hint=hint_wounds>cedera</hint> yang dialami dalam pertempuran, serta, misalnya, <hint=hint_display_event_swede_typh_allowed>Racun Rutabaga</hint>.\n\nPenyakit dapat <hint=hint_heal>diobati</hint> dengan tingkat keberhasilan yang bervariasi.",
+  "Pengobatan\nPenyakit dan <hint=hint_wounds>luka</hint> terbuka diobati dengan <hint=hint_resource_med>Salep Medis</hint>.\n\nPara lord dan prajurit mengambil persediaan obat yang diperlukan dari gudang dan menyembuhkan diri sendiri, tetapi para petani tidak memiliki akses ke obat-obatan ini karena biaya tinggi, sehingga mereka hanya bisa bergantung pada belas kasih Sophia.",
+  "Kematian\nKetika seorang karakter meninggal, orang-orang terkasih mereka berduka citanya dan mengalami <hint=hint_thought>pikiran</hint> negatif yang kuat.\n\nSi <hint=hint_persons_priest>pendeta</hint> membawa jenazah ke <hint=hint_bld_temple>Kuil</hint> di mana pemakaman dan kremasi selanjutnya dilakukan.",
+  "Luka\nLuka terjadi akibat pukulan senjata atau kecelakaan.\n\nBeberapa luka menyebabkan <hint=hint_pain>rasa sakit</hint>, sementara yang lain mungkin menyebabkan <hint=hint_bleeding>pendarahan</hint> atau <hint=hint_wounds_open>peradangan</hint> berbahaya yang mengarah ke <hint=hint_poisoned>Luka Busuk</hint>.",
+  "Luka Peradangan\nJenis luka berbahaya yang tak terelakkan mengarah ke <hint=hint_poisoned>Luka Busuk</hint> jika dibiarkan tanpa pengobatan.\n\nPastikan populasi Anda memiliki akses ke <hint=hint_resource_med>Salep Medis</hint>, yang mengobati infeksi.\n\n$ Salep tersebut harus tersedia di inventaris untuk lord dan prajurit.\n"
 ]

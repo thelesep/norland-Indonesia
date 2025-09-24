@@ -1,0 +1,7 @@
+[
+  "~\r\nAkibat serangan yang berhasil, {soul_uuid_king} dikalahkan dan dipaksa membatalkan semua perjanjiannya.\r\n\r\nPrajurit Anda kembali ke rumah dengan kemenangan.",
+  "~\r\nAnda kalah dalam pertempuran dan {soul_uuid_king} terbukti terlalu kuat untuk Anda. Semua perjanjian politiknya tetap berlaku.",
+  "~\r\n<red>PERHATIAN! {soul_uuid_king} adalah anggota aliansi {soul_uuid_king_leader} dari {faction_uuid_sir}!</red>\r\n$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>",
+  "~\r\n\r\n<b>Tanggung Jawab Sekutu</b>\r\n$ Jika Anda gagal mengirim bantuan, mereka akan menganggapnya pengkhianatan dan sangat memburukkan pendapat mereka tentang raja Anda. Jika hubungan memburuk terlalu parah, <red>mereka mungkin keluar dari aliansi</red>. Tetangga dan sekutu lainnya juga akan kecewa dan terkejut.",
+  "~\r\n<red>Anda mengkhianati seorang sekutu.</red>\r\n\r\n$ Sikap {soul_uuid_king} terhadap Anda: <red>{rel_defence_alliance_not_help}</red>\r\n$ Sikap tetangga Anda dan sekutu lainnya terhadap Anda: <red>{rel_defence_alliance_broken_neighbore}</red>"
+]

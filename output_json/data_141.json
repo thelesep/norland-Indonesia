@@ -1,12 +1,7 @@
 [
-  "Migration has already been increased\r\nIt will only be possible to increase it again after {days} days.",
-  "Migration has already been decreased\r\nIt will only be possible to decrease it again after {days} days.",
-  "Not suitable for the task\r\nA lord of <b>male</b> gender is required.",
-  "Not suitable for the task\r\nA lord of <b>female</b> gender is required.",
-  "Not suitable for the task\r\nThe lord must not be married.",
-  "Lord in battle\r\nWhile the lord is engaged in battle, they cannot be sent away.",
-  "Lord in a squad\r\nWhile the lord is part of a squad, they cannot be assigned to individual tasks.",
-  "You have already helped\r\n{soul_uuid_king} is too proud to accept any further assistance.",
-  "Lord experiencing a nervous breakdown\r\nWhile the lord is having a nervous breakdown, they cannot be sent away.",
-  "Lord unable to walk\r\nWhile the lord is unable to walk, they cannot be sent away."
+  "Kotak\n{resources}",
+  "Tidak Tersedia\nKanselari dapat melayani {limit} produksi.",
+  "Setuju\nBudaya menyetujui tindakan raja.",
+  "Percakapan Bijak\nSebuah percakapan berlangsung di mana karakter membagikan pengetahuan, dengan syarat lawan bicara memiliki tingkat skill Kecerdasan yang cukup.\n\nTingkat skill Kecerdasan yang Diperlukan:\n$ Pengetahuan Dasar (abu-abu): tingkat {var_1}\n$ Pengetahuan Lanjutan (hijau): tingkat {var_2}\n$ Pengetahuan Unggul (ungu): tingkat {var_3}\n\nSatu potongan pengetahuan acak dibagikan setiap kali, dari yang lebih sederhana hingga lebih kompleks.\n\n<b>Selain itu:</b>\n$ Karakter dengan sifat \"Enlightener\" dapat membagikan pengetahuan apa pun kepada siapa pun tanpa batasan, tetapi mitra percakapan mereka mungkin berpindah ke budaya mereka.\n$ Jika karakter adalah <hint=hint_oldman>lansia</hint>, mereka akan membagikan dua potongan pengetahuan sekaligus.\n\n<b>Petunjuk:</b> Anda dapat mengundang karakter ramah dari kota lain (atau menculik mereka) untuk mendapatkan pengetahuan berharga — misalnya, pengetahuan dari budaya lain.",
+  "Tidak Tersedia\n{soul_uuid_1} memiliki pendapat rendah tentang {soul_uuid_2}.\n saat ini: {opinion}\n yang diperlukan: {threshold}"
 ]

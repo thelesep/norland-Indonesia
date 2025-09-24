@@ -1,0 +1,7 @@
+[
+  "Penugasan Otomatis\r\nSaat membangun bangunan baru, manajernya akan secara otomatis ditunjuk seorang pegawai dari Chancellery ini.",
+  "Bangunan Dibangun  \r\nBangunan {building_name} telah dibangun.  \r\n\r\nSeorang pegawai dari <hint=hint_bld_chancellery>Chancellery</hint> telah ditugaskan ke sana (Anda dapat mengubah penugasan otomatis di menu Chancellery).",
+  "Bangunan Telah Dibangun\r\nBangunan {building_name} telah dibangun. \r\n\r\nJangan lupa untuk menugaskan seorang inspektur!",
+  "Pendidikan Ditangguhkan\r\n{soul_uuid_teacher} telah menangguhkan pendidikan {soul_uuid_target} karena hubungan buruk dengan {soul_uuid_king}.\r\n\r\nPerbaiki hubungan Penguasa Anda dengan Uskup untuk meminta agar ia melanjutkan pendidikan tersebut.",
+  "Tidak Ada Pengganggu Compang-camping\r\nPengganggu compang-camping adalah kelompok musuh lemah tapi banyak yang sesekali menyerang kota Anda tanpa peringatan, memaksa Anda untuk mempertimbangkan risiko, mempertahankan garnisun, dan membangun struktur pertahanan.\r\n\r\nPilih modifikasi ini jika Anda ingin menonaktifkan serangan seperti itu. Anda akan mendapatkan pengalaman bermain yang lebih terkendali tapi kurang mendebarkan."
+]

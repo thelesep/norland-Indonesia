@@ -1,12 +1,7 @@
 [
-  "Unable to summon\r\n{faction_uuid} is not an enemy to {faction_uuid_target} and refuses to spill the blood of its people.",
-  "Unable to summon\r\nYou have already summoned the army of {faction_uuid}.",
-  "Unable to summon\r\nThe army of {faction_uuid} is currently present in your province.",
-  "Unable to summon\r\nThe army of {faction_uuid} is currently on a military campaign. Wait until they return home.",
-  "Unavailable\r\nThis army contains other kings who were summoned for a specific purpose, so it must be disbanded before assigning new tasks",
-  "Unavailable\r\nThis army is currently engaged in battle.",
-  "Disband units\r\nDisband the units of other kings that are present in the army.",
-  "Unable to summon\r\nAssistance in this matter is beyond the obligations of other kings.",
-  "Support Units\r\nYou can summon your allies or vassals for this attack. They may either join your army or embark on the campaign independently.\r\n\r\n$ The number of units you can summon depends on your king's <hint=hint_skill_command>Command</hint> skill. For every {skill} levels, you can summon 1 unit.\r\n$ If you are a suzerain, all of your vassals' units are available for summoning.\r\n$ If you are a member of a city alliance, only those allies hostile to the target will agree to join the campaign.\r\n$ The loot will be divided among all units participating in the campaign.",
-  "Unable to summon\r\nYour king's <hint=hint_skill_command>Command</hint> skill is insufficient to add another allied unit to the army.\r\n\r\n<b>Hint:</b> For every {skill} levels, you can summon 1 unit."
+  "[hint_mind_caption]\n<hint=hint_sick>Sakit</hint> tapi sepertinya tidak terlalu serius.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSophia Suci, rasa <hint=hint_sick>sakit</hint> itu! Semoga aku sembuh!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIni minuman <hint=hint_alcohol>alkohol</hint> yang sangat enak sekali! Mungkin aku minum lagi?\n\nAlasan: Alkohol yang dikonsumsi: {number}.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAku merasakan gelombang kekuatan yang luar biasa! <hint=hint_resource_nectar>Nektar</hint> bekerja ajaib!\n\nAlasan: Nektar yang dikonsumsi: {number}.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nAku sangat membutuhkan minuman!\n\nAlasan: <hint=hint_alcoholism>Alkoholisme</hint>.\n[hint_mind_remain_time]"
 ]

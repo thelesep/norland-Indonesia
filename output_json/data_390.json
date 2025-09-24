@@ -1,0 +1,7 @@
+[
+  "Kemenangan!\r\nAnda telah berhasil merebut wilayah dari <hint=hint_unholy_horde>Unholy Horde</hint>.\r\n\r\nContoh Anda menginspirasi semua kerajaan!\r\n\r\nAkibat:\r\n$ Hubungan dengan faksi tetangga: <green>{rel_im_horde_help}</green>\r\n$ Hubungan dengan <hint=hint_synode>Keluarga Penuh Kasih</hint>: <green>{rel_im_horde_help}</green>",
+  "Pulihkan hubungan \r\nSeorang karakter dengan bakat Diplomat akan pergi ke kota dan memulihkan hubungan, meskipun beberapa rasa dendam akan tetap ada. \r\n\r\n$ Semua pikiran negatif tentang raja Anda dihilangkan, kecuali ketidaksukaan ringan. \r\n$ Biaya: <hint=hint_resource_rune>{diplomacy_relations_restore_cost}</hint>",
+  "Lord tidak memiliki sifat aktif\r\nLord tidak memiliki sifat Diplomat, sehingga mereka tidak dapat memulihkan hubungan dengan cara ini.",
+  "Kirim tamu \r\nLord akan pergi ke kota ini dan berinteraksi dengan keluarga lord yang tinggal di sana.",
+  "~\r\n<red>PERHATIAN! {soul_uuid_king} adalah bawahan dari {soul_uuid_king_sir} dari {faction_uuid_sir}!</red>\r\n$ Hubungan dengan {soul_uuid_king_sir}: <red>{rel_de_attack_vassal}</red>"
+]

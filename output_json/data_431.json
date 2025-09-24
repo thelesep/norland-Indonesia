@@ -1,0 +1,7 @@
+[
+  "~\r\nSelamat datang di Norland!",
+  "~\r\nAnda bertanggung jawab membantu keluarga bangsawan para lord yang menguasai sebuah provinsi di Norland mencapai kemakmuran, keamanan, dan ambisi pribadi mereka. \r\n\r\nPara lord Anda menuruti perintah Anda, tetapi mereka juga memiliki kehendak sendiri. \r\n\r\nSejarah Anda baru saja dimulai...",
+  "Kontrol Kamera\r\n\r\nMari kita lihat-lihat sekitar.\r\n\r\n$ Gunakan tombol {input.action.camera_up} {input.action.camera_left} {input.action.camera_down} {input.action.camera_right}, atau tahan {input.action.camera_move} untuk memindahkan kamera.\r\n\r\nCoba sekarang!",
+  "Bagus!\r\n\r\nPerbesar dan perkecil menggunakan {input.action.zoom_in} dan {input.action.zoom_out}.",
+  "Jeda\r\n\r\nKetika Anda perlu berhenti dan berpikir, jeda permainan dengan menekan tombol {input.action.speed_pause} atau tombol di sudut kanan bawah."
+]

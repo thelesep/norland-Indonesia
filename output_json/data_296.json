@@ -1,0 +1,7 @@
+[
+  "~\nRaja {soul_uuid_king} dari {faction_uuid} telah menaklukkan vasal ketiga!",
+  "~\n$ {soul_uuid_king} dari {faction_uuid}",
+  "Musuh\nAda kemungkinan dia akan berpartisipasi dalam konflik melawan musuhnya.",
+  "Sekutu\nSekutu wajib membantu dalam kasus ancaman militer. Tetapi jika mereka menjadi takut, kontrak aliansi mereka akan dihentikan, dan hubungan akan rusak.",
+  "~\n<hint=hint_possible_helpers_enemies>Mungkin saja</hint> {soul_uuid_king} akan membantu:"
+]

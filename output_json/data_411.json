@@ -1,0 +1,7 @@
+[
+  "~\r\nApakah kau benar-benar berpikir bisa datang dan menang dengan segelintir pengecut menyedihkan sebagai prajuritmu? Kepercayaan dirimu yang berlebihan itu menakjubkan. Aku harap kau sudah dalam perjalanan, karena aku sudah memesan perjamuan untuk merayakan kemenanganku.",
+  "~\r\nBiarkan mereka yang tak bisa bertarung menundukkan lututnya. Aku bukan salah satunya, dan kau tahu itu dengan baik! Pasukanmu menghadapi kekalahan, dan kami tak akan mengambil tawanan!",
+  "Pengumpulan Pasukan\r\n{soul_uuid_king} sedang mengumpulkan sekutu sementara prajuritmu bersiap membakar pemukimannya hingga rata dengan tanah.\r\n{optional_possible_helpers_against_player}",
+  "~\r\n$ {soul_uuid_king} sedang menunggu seranganmu.\r\n$ Prajuritmu juga sudah siap.\r\n\r\nSekarang kau bisa menyerang kotanya untuk membakarnya hingga rata dengan tanah.",
+  "Menunggu Serangan\r\n{soul_uuid_king} sedang menunggu serangan ke kotanya oleh pasukanmu.\r\n\r\n$ Jika kau tidak muncul untuk serangan dalam waktu <b>dua hari</b>, kau akan dinyatakan sebagai pengecut."
+]

@@ -1,0 +1,7 @@
+[
+  "~\n{optional_attack_on_vassal_or_ally}\n$ Hubungan dengan tetangga: <red>{demand_vassal_fair_rel_de_neigh}</red>\n$ Hubungan dengan Matriarch: <red>{demand_vassal_fair_matriarch_rel_de}</red>",
+  "Menunggu Tanggapan\n{soul_uuid_king} sedang merenungkan tawaran Anda untuk menjadi <hint=hint_vassal>vasal</hint> Anda\nIa akan segera memberikan jawaban.",
+  "~\n{soul_uuid_king} telah memutuskan untuk menerima tawaran Anda dan telah menjadi <hint=hint_vassal>vasal</hint> Anda.\n\n\nAnda sekarang menjadi suzerain mereka.\n\n\nMereka telah bersumpah untuk melayani Anda dengan setia.\n{optional_consequences}\n\n\n[hint_vassal_tribute]\n{optional_duty_of_honor_complete}",
+  "~\n{soul_uuid_king} menolak tawaran Anda dan mengundang Anda untuk menyelesaikan masalah ini dengan kekerasan.\n\n\nAnda harus menyerang kota mereka dan mengalahkan mereka dalam 3 hari ke depan, atau Anda akan dianggap sebagai pengecut.",
+  "~\nSaya terpaksa menurut permintaan Anda. Ini adalah keputusan yang sulit, tapi masa-masa sedang bergejolak, dan saya akui, saya membutuhkan perlindungan Anda."
+]

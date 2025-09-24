@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\nKemah Begal (hutan) terletak di wilayah tetangga Anda.\n\n$ Jumlah begal: {number_of_forest_bandits}\n$ Nilai di kemah: {possible_loot}\n$ Sandera: {hostages}",
+  "Serang\nLakukan pertempuran dengan regu begal sebanyak {number_of_forest_bandits} individu, yang terdiri dari petarung ringan.\n\nPenguasa provinsi {soul_uuid_king} dan <hint=hint_relations_matriarch>Matriark</hint> akan berterima kasih atas bantuan dalam menghabisi para begal.\n\n<b>Konsekuensi</b>\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>\n$ Hubungan dengan Matriark: <green>{b_improve}</green>\n$ Jika ada sandera di kemah, mereka akan dibebaskan jika menang.\n\nRampasan potensial: {possible_loot}",
+  "~\nRegu Anda mengalami kekalahan.",
+  "~\nKemah begal telah dihancurkan.\n\n$ Hubungan dengan <hint=hint_relations_matriarch>Matriark</hint>: <green>{b_improve}</green>\n$ Hubungan dengan {soul_uuid_king}: <green>{rel_improve}</green>\n$ Rampasan: {loot}",
+  "Suap sudah dilakukan\nAnda sudah membayar para begal ini. Mereka akan menepati komitmen dan tidak menyerang pemukiman Anda selama {bribe_day_remain} hari lagi."
+]

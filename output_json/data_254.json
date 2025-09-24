@@ -1,12 +1,7 @@
 [
-  "Prisoner Terror\r\nThe safest way to entertain townspeople with executions without troubling their conscience.\r\n\r\nConsequences:\r\n$ Three acquaintances of the executed prisoner will receive a strong negative thought.\r\n$ Discontent among the prisoners will increase, which may lead to their <hint=hint_slave_riot>rebellion</hint>.",
-  "[hint_mind_caption]\r\nRumors of crimes in the city make me nervous. I hope the king will deploy additional patrols!",
-  "History of Philosophy\r\nAllows the performance of a <hint=hint_sermon_agnostic>sermon of doubt</hint>.",
-  "[hint_mind_caption]\r\nWhat could be worse than spending the night on damp ground? My whole body aches, and I'm chilled to the bone!\r\n\r\n<b>Hint:</b>\r\n$ The character slept on the ground. If there aren’t enough resources for housing, build a Temple, where, following the ancient tradition of hospitality, the homeless can spend the night.",
-  "Sermon of Joy\r\nBelievers pray together and receive a boost of good spirits for a day, as Mother Sophia is among them.\r\n{optional_preach_cost}",
-  "Unavailable\r\nFor this, you need to study <hint=hint_tech_philosophy_history>History of Philosophy</hint>.",
-  "Unavailable\r\nSermons can only be held with the <hint=hint_bishop>Bishop’s</hint> blessing, but he is not in the city.",
-  "Duelist\r\nThis character can provoke duels and is skilled in fights. Be cautious if he appears in your province.",
-  "Schemer\r\nThis character is adept at manipulation and influence, capable of provoking conflicts and creating <hint=hint_encyclopedia_puppets>puppets</hint> among lords. Be cautious if he appears in your province.",
-  "Ragged Ones\r\nYour city has reached a high enough level of prosperity to start attracting the ragged ones.\r\n\r\n[hint_rags]"
+  "[hint_mind_caption]\nSelalu senang melihat wajah baru!",
+  "[hint_mind_caption]\nSulit, tapi aku tahu anakku di surga, melayani Holy Sophia!",
+  "[hint_mind_caption]\nBetapa baiknya memiliki seseorang yang bisa diandalkan!",
+  "[hint_mind_caption]\nIman tidak cukup kuat di kota ini... Apa yang bisa dilakukan untuk meningkatkan pengikut yang bersemangat?",
+  "[hint_mind_caption]\nBetapa baiknya aku tidak lagi mendengar dengkuran tetangga dan bau makanan mereka!"
 ]

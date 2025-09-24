@@ -1,0 +1,7 @@
+[
+  "Tidak Tersedia\r\nPasukan ini sedang terlibat dalam pertempuran.",
+  "Membubarkan Unit\r\nMembubarkan unit milik raja-raja lain yang hadir dalam pasukan.",
+  "Tidak Dapat Dipanggil\r\nBantuan dalam urusan ini melampaui kewajiban raja-raja lain.",
+  "Unit Pendukung\r\nAnda dapat memanggil sekutu atau vasal untuk serangan ini. Mereka bisa bergabung dengan pasukan Anda atau memulai kampanye secara independen.\r\n\r\n$ Jumlah unit yang dapat Anda panggil tergantung pada skill <hint=hint_skill_command>Komando</hint> raja Anda. Untuk setiap {skill} level, Anda dapat memanggil 1 unit.\r\n$ Jika Anda seorang suzerain, semua unit vasal Anda tersedia untuk dipanggil.\r\n$ Jika Anda anggota aliansi kota, hanya sekutu yang bermusuhan dengan target yang akan setuju bergabung dalam kampanye.\r\n$ Rampasan akan dibagi di antara semua unit yang berpartisipasi dalam kampanye.",
+  "Tidak Dapat Dipanggil\r\nSkill <hint=hint_skill_command>Komando</hint> raja Anda tidak mencukupi untuk menambahkan unit sekutu lain ke pasukan.\r\n\r\n<b>Hint:</b> Untuk setiap {skill} level, Anda dapat memanggil 1 unit."
+]

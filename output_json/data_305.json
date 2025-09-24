@@ -1,0 +1,7 @@
+[
+  "~\r\nBagaimanapun juga, ini adalah tindakan agresif:\r\n$ Hubungan dengan {soul_uuid_king}: <red>{demand_tribute_rel_de}</red> dan kamu mungkin menjadi <hint=hint_faction_relations_enemy>musuh</hint>.",
+  "Perminta upeti dengan sopan\r\nBeritahu {soul_uuid_king} bahwa kamu mengharapkan dari mereka <hint=hint_resource_gold>{tribute_money}</hint> sebagai imbalan atas hubungan baik kalian.\r\n\r\n{optional_change_relations_with_owner}\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]\r\n{optional_duty_of_honor}",
+  "~\r\n$ {soul_uuid_king} tersinggung, tapi mengirim <hint=hint_resource_gold>{tribute_money}</hint>.\r\n{optional_changed_relations_with_owner}\r\n{optional_holy_defence_will_removed}\r\n{optional_duty_of_honor_complete}",
+  "~\r\n$ {soul_uuid_king} menjawab bahwa tuntutanmu sangat menyinggung.\r\n$ Hubungan kalian memburuk menjadi <red>{demand_tribute_rel_de}</red>.\r\n{optional_holy_defence_will_removed}",
+  "~\r\nHanya orang jahat yang mengambil segalanya, meninggalkan anak-anak dan lansia tanpa roti. Tapi nasib seperti tulang yang dilemparkan oleh Bunda Suci. Hari akan datang ketika kamu kehilangan segalanya, dan mereka akan mengucapkan selamat kepadaku atas kemenangan!"
+]

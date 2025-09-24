@@ -1,12 +1,7 @@
 [
-  "Vassal\r\nA province that is part of a vassal kingdom. It is obliged to pay tribute to the suzerain, who protects it.\r\n\r\nPolitically restricted, meaning it cannot, for example, directly attack neighbors.",
-  "Ally\r\nA province that is part of a free city alliance. It does not pay tribute but has obligations to defend its allies.\r\n\r\nPolitically restricted, meaning it cannot, for example, directly attack neighbors.",
-  "Head of the Alliance\r\nA province that is the leader of the free city alliance.\r\n\r\nThere are no trade restrictions within the alliance, and the head of the alliance gets a discount.",
-  "Suzerain\r\nA province that is the head of a vassal kingdom.\r\n\r\nKeeps its vassals in check by force, receiving tribute from them.",
-  "Random",
-  "City Sells\r\nThe goods that this province will trade at the start of the game.",
-  "Unavailable\r\nThe sale of iron in this province cannot be changed as it is crucial for the late stage of the game.",
-  "Random",
-  "Random",
-  "Village Tribute\r\nSelect the resources that your villages will provide every few days."
+  "Tidak Cukup Kuil Tersedia\nTidak semua orang memiliki cukup ruang untuk menghadiri khotbah.\n\nBangun tambahan <hint=hint_bld_temple>Kuil</hint> untuk menampung semua orang.",
+  "Tidak Cukup Kedai\nKedai tidak bisa menampung semua orang, dan beberapa karakter tidak bisa menemukan tempat untuk minum <hint=hint_alcohol>alkohol</hint> selama 3 hari berturut-turut.\n\nBangun tambahan <hint=hint_bld_tavern>Kedai</hint>.",
+  "Tidak Cukup Barak\n<hint=hint_bld_barracks>Barak</hint> tidak bisa menampung semua prajurit <hint=hint_persons_warriors>prajurit</hint> yang direkrut dan mereka harus tidur di luar atau di lantai Kuil, yang buruk memengaruhi suasana hati mereka.\n\nBangun lebih banyak Barak.",
+  "Tanah Akan Segera Hablis Kesuburannya\nPetani telah melihat tanda-tanda kehabisan kesuburan tanah di ladang, yang berarti itu perlu dibajak lagi dalam beberapa hari.\n\nSiapkan <hint=hint_resource_wood>Kayu</hint> sebelumnya (itu dibakar di ladang untuk membuat tanah subur).",
+  "Serangan Fleshwolf\nSaran: Kirim para lord Anda untuk <hint=hint_action_task>berburu</hint> lebih sering untuk mengendalikan populasi fleshwolf.\n\nAnda juga bisa menjual lebih banyak <hint=hint_resource_knife>Belati</hint> kepada petani di <hint=hint_bld_market>Pasar</hint> agar mereka bisa membela diri.\n\nKlik {input.key.mb_left} untuk pergi ke lokasi kejadian."
 ]

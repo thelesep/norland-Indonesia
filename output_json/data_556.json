@@ -1,0 +1,7 @@
+[
+  "Godaan\r\n{soul_uuid_politic} merayu {soul_uuid_target} untuk menjadikan mereka bonekanya dan meningkatkan pengaruh politik mereka.\r\n\r\n<b>Petunjuk:</b> Target siap jatuh ke pelukan penggoda, entah karena mereka kesepian atau memiliki hubungan buruk dengan pasangannya.",
+  "Sanjungan\r\n{soul_uuid_iniciator} akan menjilat {soul_uuid_target}. Kekuatan sanjungan tergantung pada skill <hint=hint_skill_manners>Etika</hint>.\r\n\r\n$ {soul_uuid_iniciator}: Suasana hati {mood_stack_1}, <hint=hint_skill_manners>Etika:</hint> {skill_level_1}\r\n$ Opini saat ini {soul_uuid_target} terhadap {soul_uuid_iniciator}: {rel}\r\n\r\n<b>Sebagai hasilnya:</b>\r\n$ {soul_uuid_target} akan mendapatkan pikiran {rel_inc} tentang {soul_uuid_iniciator}\r\n$ {soul_uuid_iniciator} akan mendapatkan pikiran {moral_de}",
+  "Tidak Tersedia\r\nPenguasa tidak dalam suasana hati yang cukup baik untuk menahan penghinaan dari sanjungan.\r\n\r\n$ Suasana hati saat ini {soul_uuid}: {moral}\r\n$ Diperlukan: {moral_min}",
+  "Folowers\r\nPengikut raja yang akan mendukungnya jika terjadi pemberontakan:\r\n{friends}",
+  "Hadiah untuk Berhala\r\n<hint=hint_encyclopedia_puppets>Boneka</hint> {soul_uuid_puppet} memberikan <hint=hint_resource_gold>{gift}</hint> kepada berhalanya {soul_uuid_master}"
+]

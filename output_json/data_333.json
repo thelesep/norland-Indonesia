@@ -1,0 +1,7 @@
+[
+  "~\nBukan hanya kau berpihak pada musuhku, tapi kau juga memperlihatkan kepada dunia ketakutanmu sebagai seorang prajurit! Kekalahanmu hari ini hanyalah permulaan. Aku akan berusaha sekuat tenaga untuk memastikan bahwa tak seorang pun prajurit yang tersisa di sisimu.",
+  "~\nTak seorang pun berani berpihak pada musuhku dan lolos tanpa hukuman! Fakta bahwa kau akan kalah dalam pertempuran ini begitu jelas sehingga membuatku mempertanyakan kewarasanmu!",
+  "Begal mendekat\n{optional_type_of_danger}\n\nOleh karena itu, Raja {soul_uuid_king} meminta bantuan dari semua tetangga yang mampu membantunya.\n\nDan karena para begal ini adalah <hint=hint_cainism>Kainit bidah</hint>, tindakan ini dengan hangat diberkahi oleh <hint=hint_sofia_cult>Pihak Gereja</hint>.\n\n<b>Konsekuensi</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_possible_helpers}",
+  "~\nKau telah mengalahkan regu begal, dan {soul_uuid_king} akan menyelamatkan desanya.",
+  "~\nKau mengalami kekalahan dari regu begal, tapi {soul_uuid_king} berterima kasih kepadamu atas usahanya."
+]

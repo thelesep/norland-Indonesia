@@ -1,0 +1,7 @@
+[
+  "~\r\nPetani berhasil mengusir seranganmu, tetapi desa hangus terbakar selama pertempuran dan mereka tidak akan mampu membayar upeti untuk dua panen mendatang.",
+  "~\r\nDesa telah dijarah dan dibakar habis. Ia tidak akan mampu membayar upeti untuk dua panen mendatang. \r\n\r\n<b>Rampasan:</b> {loot}",
+  "Untuk membatasi migrasi\r\nSuap penduduk setempat untuk menyebarkan rumor di seluruh provinsi bahwa ada penyakit berbahaya di kotamu.\r\n\r\n$ Ini akan <b>mengurangi</b> migrasi sebanyak faktor {migration_down_factor} untuk {migration_down_duration} hari mendatang.\r\n$ Tugas ini bisa dilakukan di desa mana pun dan mempengaruhi migrasi di seluruh provinsi.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{migration_down_price}</hint>\r\n\r\n[hint_SENDER]",
+  "~ \r\nRumor telah menyebar luas, dan migrasi ke kotamu akan <b>dikurangi sebanyak faktor {migration_down_factor}</b>. \r\n\r\nIni akan berlangsung selama {migration_down_duration} hari.",
+  "Pembayaran upeti\r\nUpeti dibayar secara rutin, setiap 4-6 hari. Penduduk desa menolak mengangkut upeti sendiri karena takut bandit.\r\n$ Jika kamu <b>mengabaikannya</b>, tetua desa akan menganggap bahwa kamu tidak membutuhkan upeti dan akan menggunakannya untuk kepentingan komunitas.\r\n\r\n<b>Upeti yang harus dibayar:</b> {loot}\r\n\r\n[hint_SENDER]"
+]

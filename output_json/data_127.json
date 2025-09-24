@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nThe bishop has absolved me of my sins, and I am once again pure before the goddess!\r\n\r\nThank you, Holy Sophia!",
-  "[hint_mind_caption]\r\nGoing into battle without a weapon is madness!",
-  "[hint_mind_caption]\r\nI feel so ashamed of my sins before Mother Sophia!\r\n\r\n<b>Hint:</b> Confess to the <hint=hint_bishop>bishop</hint> to have your sins forgiven.",
-  "[hint_mind_caption]\r\nI have absolutely nothing to put on my fingers! I can just feel those contemptuous glances!\r\n\r\nReason: Lack of Holy Rings.\r\n\r\n<b>Hint:</b> Ask the king to give them some rings.",
-  "[hint_mind_caption]\r\nThere is something to feast on in this place!",
-  "[hint_mind_caption]\r\nAlways happy to see a new face!",
-  "[hint_mind_caption]\r\nIt's tough, but I know that my child is in heaven, serving Holy Sophia!",
-  "[hint_mind_caption]\r\nHow good it is to have someone to rely on!",
-  "[hint_mind_caption]\r\nFaith is not strong enough in this city... What can be done to make fervent followers increase?",
-  "[hint_mind_caption]\r\nHow good it is that I will no longer hear the snoring of neighbors and the smell of their food!"
+  "Pindahkan\nPindahkan bangunan ke lokasi baru.",
+  "Hentikan pekerjaan\nPekerjaan di bangunan akan dihentikan, gudang akan dikosongkan, dan pekerja akan pindah ke produksi lainnya.",
+  "Tunjuk pengelola.\nTunjuk pengelola bangunan yang akan memulai pekerjaan.",
+  "Khotbah\nTunjuk seorang lord sebagai pendakwah dan pilih khotbah.",
+  "Bangun dengan Prioritas\nTukang bangunan akan memprioritaskan pembangunan bangunan ini."
 ]

@@ -1,0 +1,7 @@
+[
+  "Kegelisahan sedang membara\r\nPendapat {name} tentang penguasa Anda baru-baru ini memburuk, yang dapat menyebabkan konsekuensi tidak menyenangkan di masa depan, seperti pemberontakan atau meninggalkan pemukiman.",
+  "[hint_advisor_caption]  \r\nLord Anda {soul_uuid} sedang mengalami masalah hubungan dengan penguasa Anda. Di masa depan, ini dapat menyebabkan konsekuensi tidak menyenangkan seperti pemberontakan atau kepergian dari pemukiman.\r\n\r\n$ Untuk sementara memperbaiki hubungan, <b>reward</b> lord melalui menu aksi",
+  "Pemilihan Otomatis\r\nPrajurit akan secara otomatis memilih peralatan terbaik yang tersedia untuk patroli.",
+  "Lord Digoda\r\n{soul_uuid_1} digoda oleh salah satu lord tetangga Anda.",
+  "Teror di Kalangan Para Lord\r\nBeberapa tindakan Anda, seperti eksekusi tanpa alasan, akan menakut-nakuti para lord. Namun, eksekusi selama <hint=hint_pogrom>pemberontakan keagamaan</hint> tidak dianggap sebagai teror.\r\n\r\nEfek:\r\n$ Para lord mengalami pikiran negatif yang kuat <hint=hint_thought>pikiran</hint>.\r\n$ Bertahan 5 hari."
+]

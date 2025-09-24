@@ -1,0 +1,7 @@
+[
+  "Perintah selesai\r\nSang penyair pengembara telah memenuhi permintaan Anda dan membawakan <b>puisi lirik</b>.\r\n\r\n{value} pendengar terinspirasi oleh kekuatan seni beliau dan menerima peningkatan suasana hati.",
+  "Perintah selesai\r\nSang penyair pengembara telah memenuhi permintaan Anda dan membawakan <b>lagu heroik</b>.\r\n\r\n{value} pendengar terinspirasi oleh kekuatan seni beliau dan memutuskan untuk menjadi <hint=hint_loyalist>loyalis</hint>.",
+  "Perintah selesai\r\nSang penyair pengembara telah memenuhi permintaan Anda dan membawakan <b>cerita moral</b>.\r\n\r\n{value} <hint=hint_persons_criminal>pengembara</hint> terinspirasi oleh kekuatan seni beliau dan memutuskan untuk kembali ke kehidupan jujur.",
+  "Putus Aliansi\r\nPutuskan aliansi dengan {faction_uuid}.\r\n\r\n$ Penguasa provinsi ini akan melihatnya sebagai pelanggaran komitmen dan akan memperburuk hubungan mereka terhadap Anda sebesar <red>{rel_de_kick_out_alliance}</red>.",
+  "Aliansi Diputus\r\nAnda telah memutus aliansi dengan {faction_uuid}.\r\n\r\n$ Hubungan Penguasa provinsi ini terhadap Anda: <red>{rel_de_kick_out_alliance}</red>"
+]

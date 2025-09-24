@@ -1,0 +1,7 @@
+[
+  "~\r\n<hint=hint_possible_helpers_allies>Paling mungkin</hint> {soul_uuid_king} akan membantu:",
+  "~\r\n<hint=hint_possible_helpers_enemies>Mungkin saja</hint> kamu akan menerima bantuan:",
+  "~\r\nPasti mereka akan membantumu:",
+  "~\r\n$ Matriark Jadwiga menyetujui tindakanmu dalam situasi ini. Hubungan: {church_improve}",
+  "~\r\n$ Matriark Jadwiga tidak menyetujui tindakanmu dalam situasi ini. Hubungan: {church_der}"
+]

@@ -1,0 +1,7 @@
+[
+  "Teknologi\r\nSeni pertarungan kuno dari budaya jawa.\r\n\r\n<hint=hint_skill_combat>Keterampilan Tempur</hint> untuk semua prajurit saat menggunakan <hint=hint_resource_knife>Belati</hint>: +{level_add}.",
+  "Teknologi\r\nRumus khusus salep ini meningkatkan daya tahan sambungan kayu dan besi, mengurangi kemungkinan senjata rusak sebanyak {mult} kali.",
+  "Teknologi\r\nMetode imperial kuno untuk melatih rekrut yang tidak berpengalaman sehingga mereka mendapatkan {perc}% lebih banyak pengalaman selama pelatihan di <hint=hint_bld_training_ground>Lapangan Latihan</hint>.\r\n\r\nEfektif hingga <hint=hint_skill_combat>Keterampilan Tempur</hint> prajurit mencapai level 5.",
+  "Teknologi\r\nPelatihan psikologis dalam kebenaran moral dan tugas, memberikan bonus suasana hati +{moral_add} kepada prajurit selama pertempuran dengan <hint=hint_persons_forest_bandits>Begal (hutan)</hint>.",
+  "Ledakan Tekad\r\nKarakter sedang dalam <hint=hint_determination>ledakan tekad</b> untuk memenuhi keinginan yang lama dipegang: <b>{desire_name}</b>\r\n\r\nDetail: {optional_determination_info}\r\n\r\nSelama karakter bahagia (suasana hati di atas <green>{determination_moral_threshold}</green>), mereka akan mampu menekan dorongan mereka.\r\n\r\nTekad akan hilang dalam {time_remain}"
+]

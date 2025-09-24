@@ -1,0 +1,7 @@
+[
+  "Bagus!\r\n\r\nSekarang, tunggu prajurit baru Anda mengambil senjata mereka dari gudang.\r\n\r\nGunakan {input.action.speed_pause} untuk memulai dan menghentikan waktu.",
+  "Manajemen Regu\r\n\r\nRegu berada di bawah kendali langsung Anda dan dapat dikelola dengan {input.action.squad_order_attack}. Anda dapat menemukan menunya di <b>sudut kiri bawah</b>.\r\n\r\nSaatnya menyerang!\r\n\r\n1. Saat regu dipilih, klik {input.action.squad_order_attack} pada bendera regu musuh untuk terlibat dalam pertempuran (mereka menunggu Anda di barat laut desa).\r\n2. Tunggu hasil pertempuran.\r\n\r\n<b>Petunjuk:</b> Anda juga dapat mengirim regu ke lokasi mana pun di peta dengan mengklik {input.action.squad_order_attack} di tanah.",
+  "Klik {input.action.squad_order_attack} di sini untuk memindahkan regu Anda",
+  "Dalam mode pause, Anda dapat memberikan perintah kepada regu dan melakukan tugas-tugas lain.\r\n\r\nSaatnya menyerang!\r\n\r\n1. Pilih regu Anda dan klik {input.action.squad_order_attack} pada regu musuh untuk menyerangnya.\r\n2. Tunggu hasil pertempuran.",
+  "Kemenangan!\r\n\r\nRegu begal telah dikalahkan, dan pemimpin mereka telah dikalahkan!\r\n\r\nPrajurit Anda akan menangkap dan menjadikan sandera mereka yang selamat, dan petani akan membawa mereka ke pemukiman nanti.\r\n{split}\r\nSekarang adalah waktu yang tepat untuk melancarkan serangan balik ke kamp mereka.\r\n\r\n$ Beralih ke Peta Global."
+]

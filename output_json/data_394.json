@@ -1,0 +1,7 @@
+[
+  "Aksi tidak mungkin.\n{candidate_faction_uuid} menolak bergabung dengan aliansi di mana musuhnya {enemy_faction_uuid} sudah menjadi anggota.",
+  "~\n<b>Konsekuensi</b>",
+  "~\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_force_neutrality_target}</red>",
+  "Aliansi Kota-Kota Bebas\n[hint_defence_alliance_description]",
+  "~\n$ Jika dia tidak setuju untuk mematuhi dalam 3 hari, Anda harus menyerang kotanya.\n$ Jika Anda menang, dia akan dipaksa menjadi netral.\n$ Jika Anda ragu menyerang kotanya jika dia menolak, Anda akan dikenal sebagai pengecut."
+]

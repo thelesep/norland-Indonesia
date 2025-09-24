@@ -1,0 +1,7 @@
+[
+  "~\nEngkau membakar desa dan membantai para petani. Apakah kebiasaan di negerimu membakar anak-anak di tiang pancang? Lebih baik serang aku, dan semua akan melihat apa yang dicapai oleh agresimu itu!",
+  "~\nSepanjang umurku, tak pernah kudengar cerita para petani bersenjata garpu rumput mengalahkan pasukan lord! Hari ini, aku akan kirim banyak surat kepada para tetanggaku agar mereka bisa tertawa puas.",
+  "~\nEngkau membuatku terkekeh, saudara. Para petaniku telah mengusir pasukan memalukanmu keluar dari desa! Para badut istana akan berterima kasih atas cerita seperti ini!",
+  "Desa yang Terbakar \nDesa ini baru saja dirampok, dan penduduknya sibuk dengan pemulihannya. Sampai saat itu, mereka tak bisa membayar upeti.",
+  "Menempati Reruntuhan\nMendirikan pemukiman baru yang dipimpin oleh salah satu lordmu.\n\n\nSeorang free lord lain akan direkrut untuk membantu, dan jika lord itu memiliki pasangan dan anak-anak, mereka akan ikut ke pemukiman baru.\n\n\nPemukiman itu akan menandai awal dari rumah bangsawan baru, yang akan menjadi <hint=hint_vassal>bawahanmu</hint>.\n\n\nBiaya: <hint=hint_resource_gold>{settlement_cost}</hint>"
+]

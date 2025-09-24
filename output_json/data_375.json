@@ -1,0 +1,7 @@
+[
+  "~\r\nAnda telah berhasil mengirimkan <hint=hint_resource_gold>{offer_price}</hint> dan menerima <b>{offer_amount} Narapidana</b> sebagai imbalannya. Mereka akan segera dikirim ke kota Anda.\r\n\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}",
+  "Rekrutmen Tentara\r\n{number_of_forest_bandits_for_hire} Begal dengan Keterampilan Tempur 5 dan tanpa senjata akan bergabung dengan tentara Anda.\r\n{optional_aftermath}\r\n\r\nIni akan memakan biaya <hint=hint_resource_gold>{hire_price_gold}</hint>.\r\n{optional_secret_deals}\r\n\r\n[hint_SENDER]",
+  "Rekrut Begal\r\n{number_of_forest_bandits_for_hire} Begal dengan Keterampilan Tempur 5 dan tanpa senjata akan bergabung dengan tentara Anda.\r\n{optional_aftermath}\r\n\r\nIni akan memakan biaya <hint=hint_resource_gold>{hire_price_gold}</hint>.\r\n{optional_secret_deals}\r\n\r\n[hint_SENDER]",
+  "~\r\n{number_of_forest_bandits_for_hire} Begal telah setuju untuk bergabung dengan tentara Anda dan akan segera tiba di kota Anda.\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}",
+  "Holy Rings yang Dicuri\r\nSeseorang di kamp menjual <hint=hint_resource_rune>{rings_count}</hint>, yang jelas mereka curi dari {soul_uuid_king}.\r\n\r\nHarganya sangat menarik: <hint=hint_resource_gold>{gold}</hint>, yang setengah harga dibandingkan dengan Holy Caravan.\r\n\r\nNamun, jika Anda membelinya, tindakan Anda tidak akan luput dari perhatian pemilik sebelumnya dan tetangga Anda."
+]

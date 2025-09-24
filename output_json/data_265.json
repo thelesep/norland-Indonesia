@@ -1,12 +1,7 @@
 [
-  "Sermon of Loyalty\r\n$ Conducted by the appointed lord in the <hint=hint_bld_temple>Temple</hint> in the morning.\r\n$ The <hint=hint_soul_army_loyalty>army’s loyalty</hint> to the performer will increase.\r\n$ Effectiveness depends on the <hint=hint_skill_speech>Persuasion</hint> skill.\r\n{optional_preach_cost}",
-  "Sermon of Loyalty\r\n{skill_name}: {skill_level}\r\n\r\nAs a result, the <hint=hint_soul_army_loyalty>army’s loyalty</hint> to the performer will be increased by {loyalty_level}.\r\n{optional_preach_cost}",
-  "The Puppet Received Funds\r\nThe puppet {soul_uuid_puppet} received funds from their master ({soul_uuid_sponsor}).\r\n\r\nMost likely, these funds will be used against your ruler.",
-  "Unable to demolish\r\nThe building cannot be demolished; an important sermon is scheduled to take place there",
-  "Unable to move\r\nYou cannot move the building; an important sermon is scheduled to take place there",
-  "Unable to remove\r\nThis sermon cannot be canceled, as it has been blessed by the Bishop, and the Temple grounds are considered church territory.",
-  "Ultimatum\r\nThe Bishop {soul_uuid} believes that your ruler is unworthy of the throne and demands that the crown be handed over to {soul_uuid_target}.\r\n\r\nIf this is not done today, the Bishop will raise a <hint=hint_military_riot>military rebellion</hint> tonight to seize power by force.\r\n\r\n<b>Hint:</b> You can transfer the crown through the King’s action in the character menu.",
-  "Ultimatum\r\n{soul_uuid} believes that your ruler is unworthy of the throne and demands that the crown be handed over to them.\r\n\r\nIf this is not done today, they will raise a <hint=hint_military_riot>military rebellion</hint> tonight to seize power by force.\r\n\r\n{soul_uuid} is a puppet of the ruler {soul_uuid_master}, and the master may come to their aid.\r\n\r\n<b>Hint:</b> You can transfer the crown through the King’s action in the character menu.",
-  "Ultimatum\r\n{soul_uuid} believes that your ruler is unworthy of the throne and demands that the crown be handed over to them.\r\n\r\nIf this is not done today, they will raise a <hint=hint_military_riot>military rebellion</hint> tonight to seize power by force.\r\n{optional_supporters_list}\r\n\r\n<b>Hint:</b> You can transfer the crown through the King’s action in the character menu.",
-  "Building Required\r\nTo produce <b>{resource_name}</b>, you need to construct <b>{building_name}</b>."
+  "[hint_mind_caption]\nKita lebih banyak jumlahnya daripada para prajurit!\n\nAlasan: Rasio jumlah prajurit terhadap narapidana.",
+  "[hint_mind_caption]\nCacar kutukan... Sungguh menyakitkan!\n\nBahkan jika aku selamat dan tidak menjadi buta, bekas luka terkutuk ini akan tetap ada!\n\n<b>Hint:</b> Di tab utama, di bagian Kondisi, Anda dapat melihat tahap penyakit saat ini.",
+  "[hint_mind_caption]\nAku benci bertarung dan memerintah! Kekerasan hanya membawa kejahatan!\n\nAlasan: <hint=hint_pacifist>Pacifist</hint>",
+  "[hint_mind_caption]\nKami takut pada musuh... Sungguh memalukan!\n\nAlasan: Mundur sebelum pertempuran.",
+  "[hint_mind_caption]\nRaja kita sudah gila dan menantang otoritas Matriark!\n\nInkuisisi akan membakar kota ini hingga rata dengan tanah, dan kita akan terbakar di neraka!\n\nAlasan: Penobatan kaisar."
 ]

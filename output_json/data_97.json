@@ -1,12 +1,7 @@
 [
-  "Empathetic\r\nSocial thoughts are enhanced.",
-  "Strong willpower\r\nWorks when unhappy.",
-  "Reckless\r\nHas a higher threshold for bravery.",
-  "Monogamous\r\nNever cheats on their spouse.",
-  "Easily influenced\r\nThoughts about friends and enemies of friends and enemies are stronger.",
-  "Tendency to addiction\r\nHigher chance of developing dependencies.",
-  "Domestic tyrant\r\nDuring a nervous breakdown, more likely to engage in physical violence toward spouse or children.",
-  "Lustful\r\n<hint=hint_need_sex>The need for sex</hint> increases twice as fast.\r\n\r\nIn addition, shows increased interest in characters of the opposite sex.",
-  "Envious\r\nMore prone to feeling envious toward others.",
-  "Cynical\r\nSocial thoughts are weaker, as well as thoughts about the death of loved ones."
+  "Menu Pengetahuan\r\nMenu Pengetahuan menampilkan <hint=hint_idea>pengetahuan</hint> yang tersedia bagi keluarga bangsawan Anda. Ini dapat ditemukan di <hint=hint_book>Buku</hint> atau di benak para lord.\r\n\r\n<img=hint_knowledge_menu></img>\r\n\r\n$ Untuk menerapkan pengetahuan yang terkandung dalam buku-buku Anda, seperti membuka kemampuan untuk membangun bangunan baru, buku tersebut harus dibaca oleh seorang lord. Tetapkan seorang lord untuk mempelajari pengetahuan untuk tujuan ini.\r\n$ Di sini, Anda juga dapat menyalin atau membuat buku baru. Untuk melakukan ini, lord harus memiliki pengetahuan tersebut. (Potret mereka akan ditampilkan pada kartu pengetahuan.)\r\n$ Buku baru dapat dibeli dari <hint=hint_holy_caravan>Holy Caravan</hint> atau diperoleh dari faksi tetangga.",
+  "Buku\r\nMemungkinkan produksi {resource_name} di {building_name}.",
+  "Pengetahuan\r\nMemungkinkan peningkatan {building_name} ke tingkat 4 dan 5, yang akan menciptakan peluang kerja tambahan.",
+  "Teknologi\r\nMemungkinkan peningkatan {building_name} untuk menyertakan tempat tidur yang lebih empuk yang memberikan <hint=hint_thought>pikiran</hint> positif setelah tidur dan perlindungan yang ditingkatkan terhadap intrusi oleh <hint=hint_persons_criminal>pengembara</hint>.",
+  "Teknologi\r\nMeningkatkan kuantitas sumber daya yang diproduksi di bangunan sebesar {ef_prod}%."
 ]

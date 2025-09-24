@@ -1,0 +1,7 @@
+[
+  "~\nDaftar sekutu Raja:\n{list_of_defence_allies}",
+  "~\nKeluarga Penuh Kasih dan Matriark mendukung raja ini.\n\n$ Hubungan dengan Matriark: <green>{church_im}</green>",
+  "~\nKeluarga Penuh Kasih dan Matriark tidak mendukung raja ini.\n\n$ Hubungan dengan Matriark: <red>{church_der}</red>",
+  "Serang\nAnda akan mencoba mengejar dan menyerang pasukan ini.\n{optional_stack}",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah mengirim <hint=hint_resource_gold>{sum}</hint> sebagai bantuan kepada Raja {soul_uuid_king_2} dari {faction_uuid_2} dalam pertarungan mereka melawan Unholy Horde."
+]

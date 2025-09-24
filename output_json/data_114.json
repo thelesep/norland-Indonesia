@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nToday, luck was not on our side...\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nMy fellow warrior fled! Things are looking grim!",
-  "[hint_mind_caption]\r\nWe are getting fewer and fewer!",
-  "[hint_mind_caption]\r\nHurray, we have won! Glory to the king!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nAfter the recent <hint=hint_tantrum>meltdown</hint>, I feel relieved... But for how long?\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\n{name} is captured, we must set him free!",
-  "[hint_mind_caption]\r\nI just can't believe that {name} is no longer with us...\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI'm not sure if {name} will be able to <hint=hint_sick>recover</hint>... I hope we have enough <hint=hint_heal>healing supplies</hint>...",
-  "[hint_mind_caption]\r\n{name} is <hint=hint_sick>ill</hint>, and I'm worried. I hope we have enough resources for <hint=hint_heal>treatment</hint>...",
-  "[hint_mind_caption]\r\n{name} has been <hint=hint_punish>punished</hint>. Perhaps it was deserved, but it doesn't make me feel any better!\r\n[hint_mind_remain_time]"
+  "Persahabatan\nHubungan yang berkisar dari <green>25</green> ke atas. Persahabatan membuka kemungkinan interaksi tambahan, seperti kemampuan untuk mengundang para lord berkunjung.",
+  "Tidak Ada Perintah\nRegu saat ini tidak memiliki perintah apa pun.",
+  "Pergerakan\nRegu sedang bergerak menuju lokasi yang ditentukan.",
+  "Serang Target\nRegu akan mengejar target dan terlibat dalam pertempuran ketika mendekat.",
+  "Persiapan Serangan\nRegu sedang mempersiapkan serangan terhadap kota."
 ]

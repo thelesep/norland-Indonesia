@@ -1,0 +1,7 @@
+[
+  "Kunjungan Utusan\nPelaksana {soul_uuid_performer}: {skill_name} tingkat {skill_level}.\n\nHubungan dengan raja Anda: <green>{rel_improve}</green>",
+  "Tidak Tersedia\nRaja {soul_uuid_king} tidak berada di kota saat ini.",
+  "Tidak Tersedia\nRaja tidak dapat ditugaskan ke tugas ini.\n\n<b>Petunjuk:</b> Untuk membangun hubungan pribadi antara raja-raja, Anda dapat menugaskan raja Anda ke aksi Habiskan Waktu di menu Karakter.",
+  "~\nUtusan Anda telah menyelesaikan tugas.\n\nAkibatnya, sikap {soul_uuid_king} terhadap raja Anda: <green>{rel_improve}</green>",
+  "Hubungan tidak cukup baik\n{optional_trade_info}\n[hint_unavailable_bad_opinion]\n\n<b>Petunjuk:</b> Anda dapat membuat perjanjian perdagangan permanen dengan Raja-raja terlepas dari hubungan pribadi jika Anda bagian dari <b>aliansi kota bebas</b> yang sama."
+]

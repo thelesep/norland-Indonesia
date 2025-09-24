@@ -1,12 +1,7 @@
 [
-  "~\r\n<red>{soul_uuid_king}'s relationship with their suzerain {soul_uuid_king_s} from {faction_uuid_sir} has completely deteriorated, and the vassal takes a stand, wishing to break free.</red>",
-  "~\r\n<red>The enmity between the kings has reached the stage of war, and now {soul_uuid_king_s} from {faction_uuid_s} is planning to plunder {faction_uuid}.</red>",
-  "~\r\n<hint=hint_unholy_horde>The Unholy Horde</hint> <red>is about to attack. If they succeed, this city will be completely destroyed and its lords exterminated.</red>\r\n",
-  "~\r\n<red>Due to low loyalty, the heir {soul_uuid_heir} has raised a rebellion. If the rebellion succeeds, the current king {soul_uuid_king} will be overthrown, and {soul_uuid_heir} will take his place.</red>",
-  "~\r\n<red>{soul_uuid_king_s} from {faction_uuid_s} is becoming stronger and plans to annex {faction_uuid} to his kingdom soon.</red>",
-  "This action is impossible\r\nYou cannot perform this action with your ally.",
-  "There is already an offer\r\n{soul_uuid_king} has already offered this agreement to you.",
-  "No armies\r\nThere are no armies available for selection on the global map.",
-  "Vassalage is already in process\r\nYou have already begun the process of vassalage of this city.",
-  "Attack on the city in progress\r\nYou have started preparing to attack this city, so this action is unavailable."
+  "Pengetahuan Jawa\nBuku dalam bahasa Jawa secara alami didedikasikan untuk senjata, seni militer, dan kesetiaan",
+  "Nilai-nilai Madura\nOrang Madura akan senang jika rajanya melakukan perbuatan gelap, suap, dan godaan di peta dunia.",
+  "Ksenofobia Madura\nPembual rakus dari orang Dayak telah menyimpang dari Bunda Suci dan, dalam kebanggaan mereka, melahirkan bid'ah yang menghancurkan segala yang dibangun orang Madura selama berabad-abad.\n\n$ Dalam kasus ketidakpuasan, orang Madura menyerang bangsa Dayak.",
+  "Keterampilan Tradisional Madura\nBonus produksi kertas berasal dari tingkat melek huruf yang secara tradisional tinggi di kalangan petani Madura.",
+  "Pengetahuan Madura\nBuku dalam bahasa Madura menekankan penggunaan intrik dan agama daripada kekerasan kasar."
 ]

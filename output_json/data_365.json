@@ -1,0 +1,7 @@
+[
+  "~\nSaya dengan tergesa-gesa ingin memberitahukan bahwa saya telah menerima undangan Anda, dan dengan sukacita yang besar, saya menerimanya! Apa yang lebih baik daripada memulai perjalanan dan sementara melupakan semua masalah yang tak berujung?",
+  "~\nTerima kasih kepada Anda atas tawaran yang diberikan. Saya akan segera datang menghadap Anda, dan saya jamin, saya tidak akan merepotkan!",
+  "~\nSebagai bagian dari <hint=hint_trade_agreement>perjanjian dagang</hint>, {soul_uuid_king} akan menawarkan untuk membeli {offer_resource_stack} dengan <hint=hint_resource_gold>{offer_price}</hint> secara <b>harian</b>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per item.",
+  "~\nSebagai bagian dari <hint=hint_trade_agreement>perjanjian dagang</hint>, {soul_uuid_king} akan menawarkan untuk menjual {offer_resource_stack} dengan <hint=hint_resource_gold>{offer_price}</hint> secara <b>harian</b>, yang setara dengan <hint=hint_resource_gold>{offer_price_per_item}</hint> per item.",
+  "Kota membeli: {offer_resource_name}\n[hint_trade_agreement_demand_generic]\n\n{optional_holy_family_prices}\n{optional_paper_prices}\n{optional_trading_volumes_reduced}\n[hint_SENDER]"
+]

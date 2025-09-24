@@ -1,0 +1,7 @@
+[
+  "Peta Global\r\n\r\nSekarang saatnya menghadapi para begal.\r\n\r\n1. Klik pada pemukiman begal. Menu-nya akan terbuka di sudut kiri bawah.\r\n2. Pilih \"Serang\" dari menu aksi.\r\n3. Pilih regu Anda saat ini.\r\n4. <b>Tunggu</b> hingga regu mencapai kamp begal.",
+  "Menyerang kamp\r\n\r\nPasukan Anda telah mencapai kamp begal dan sedang mempersiapkan serangan.\r\n\r\n$ Klik ikon pertempuran",
+  "Menu Pertempuran\r\n\r\nDi sini Anda dapat melihat regu Anda sendiri dan regu musuh, serta keseimbangan kekuatan perkiraan.\r\n\r\nAnda dapat mundur dari pertempuran jika tampak tidak bisa dimenangkan, mainkan pertempuran secara otomatis, atau perintahkan regu Anda secara pribadi dalam pertempuran.\r\n\r\n$ Klik tombol tengah untuk memulai pertempuran",
+  "Di Medan Perang\r\n\r\nKetika Anda memulai serangan, regu Anda diposisikan di sebelah kiri, sementara musuh di sebelah kanan.\r\n\r\n1. Klik pada bendera regu Anda untuk mengendalikannya.\r\n2. Gunakan {input.action.squad_order_attack} untuk memindahkan regu yang dipilih. Untuk menyerang regu musuh, klik {input.action.squad_order_attack} pada bendera mereka.\r\n3. <b>Tunggu</b> hasil pertempuran.",
+  "Menu Bantuan\r\n\r\nSelama permainan, Anda selalu dapat mencari bantuan dengan membuka Menu Bantuan.\r\n\r\n$ Terkadang, petunjuk terkait situasi Anda saat ini akan muncul di sini. Anda dapat menonaktifkannya di menu pengaturan (ESC).\r\n$ Setelah beberapa detik petunjuk ditampilkan, itu membeku di tempatnya, dan Anda dapat mengarahkan kursor ke kata-kata yang disorot untuk menerima petunjuk tambahan."
+]

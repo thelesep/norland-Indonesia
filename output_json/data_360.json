@@ -1,0 +1,7 @@
+[
+  "Penculikan berhasil!\n{soul_uuid_kidnap_target} telah ditangkap dan segera akan dikirim ke pemukiman Anda.",
+  "Percobaan penculikan gagal\n{soul_uuid_kidnap_target} membela diri dari para pembunuh berantai bayaran, dan semuanya tewas.\n\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_kidnap}</red>\n$ Hubungan dengan Matriark: <red>{rel_de_neigh_assassinate}</red>\n{optional_holy_defence_will_removed}",
+  "Perampokan Aula\nPekerjakan pembunuh berantai untuk merampok perbendaharaan lokal dan membawa <hint=hint_resource_gold>Emas</hint> untuk Anda.\n\nJika gagal:\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>\n$ Hubungan dengan Matriark: <red>{rel_de_gold_stealer_neigh}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]",
+  "Memerintahkan Perampokan Aula\n[hint_bandits_description]\n\n$ Para pembunuh berantai akan mengirim <hint=hint_resource_gold>{robbery_money}</hint>.\n{optional_holy_defence_will_removed}",
+  "Tidak ada yang bisa dirampok \nEmas di kota terlalu sedikit untuk dirampok."
+]

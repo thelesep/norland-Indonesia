@@ -1,12 +1,7 @@
 [
-  "Crimes\r\nThe character has committed the following <hint=hint_crime>crimes</hint>:\r\n{list}\r\n\r\nEvidence will be lost in: {time}",
-  "Attempted poisoning\r\nThe character attempted to poison another person, but failed.\r\n\r\nVictim: {soul_uuid_victim}",
-  "Burglary attempt\r\nThe character attempted to break into someone's house to steal valuables.\r\n\r\nVictim: {soul_uuid_victim}",
-  "Lord's attack\r\nThe character attacked one of the members of your noble family.\r\n\r\nVictim: {soul_uuid_victim}",
-  "Killing in a brawl\r\nThe character lost control in the heat of the moment.\r\n\r\nVictim: {soul_uuid_victim}",
-  "Brawl with the ruler\r\nThe figure of the monarch is inviolable.\r\n\r\nVictim: {soul_uuid_victim}",
-  "Murder\r\nConsciously took someone's life.\r\n\r\nVictim: {soul_uuid_victim}",
-  "Lord's murder\r\nBrutally\r\n\r\nVictim: {soul_uuid_victim}",
-  "Night assassination\r\nThe character broke into the victim's house at night to kill them.\r\n\r\nVictim: {soul_uuid_victim}",
-  "[hint_night_murder]"
+  "Statistik Petani\n<center>Untuk hari ini</center>\n\n$ Petani yang pergi: {peasant_left}\n$ Menjadi <hint=hint_persons_criminal>pengembara</hint>: {peasant_criminal}\n$ Menjadi <hint=hint_persons_cuthroat>pembunuh berantai</hint>: {peasant_thug}\n$ Menjadi <hint=hint_persons_fanatic>fanatik</hint>: {peasant_fanatic}\n$ Migrasi yang diharapkan <hint=hint_migration>pendatang</hint>: {peasant_migrant}",
+  "Ringkasan Dunia\n<center>Peristiwa untuk hari ini</center>\n{events}\n\n<center>Peristiwa dari wilayah tetangga</center>\n{neighbore_events}",
+  "Ringkasan Ekonomi\n<center>Untuk hari ini</center>\n\n$ Saldo emas: <hint=hint_resource_gold>{gold_change}</hint>\n$ Dibayar <hint=hint_salary>upah</hint>: <hint=hint_resource_gold>{salary}</hint>\n$ <hint=hint_re_prod>Sumber daya yang diproduksi</hint>: <hint=hint_resource_gold>{prod_sum}</hint>\n$ <hint=hint_re_saled>Barang Dijual</hint> di pasar lokal: <hint=hint_resource_gold>{sale_sum}</hint>\n$ <hint=hint_re_built>Sumber daya yang diinvestasikan</hint> dalam ekonomi: <hint=hint_resource_gold>{build_sum}</hint>\n\n<b>Instruksi tidak diterima:</b>\n{buildings_list_no_instruction}\n\n<b>Rusak atau tidak berfungsi:</b>\n{buildings_list_broken}\n\n<b>Pekerja tidak mencukupi:</b>\n{buildings_list_not_enought_workers}\n\n<b>Ladang yang hampir habis:</b>\n{buildings_list_depleted_soon}\n\n$ Tekan <b>RMB</b> untuk menutup notifikasi.",
+  "Sumber Daya yang Diproduksi\n$ Menampilkan nilai semua sumber daya yang diproduksi oleh semua bangunan dalam sehari.\n$ Diukur dalam emas, berdasarkan harga jual karavan.\n$ Pada hari panen, nilai bisa jauh lebih tinggi.",
+  "Barang Dijual\nMenampilkan berapa banyak emas yang Anda terima dari penjualan barang ke petani dan prajurit di pasar lokal Anda, serta di kedai dan sarang obat."
 ]

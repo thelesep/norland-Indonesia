@@ -1,0 +1,7 @@
+[
+  "~ \n$ Kamp Begal di provinsi Anda telah dihancurkan, dan {soul_uuid_king} tidak lagi memiliki keluhan apa pun.",
+  "~ \n$ Anda memilih untuk tidak menyerang para Begal, dan kamp mereka tetap berdiri. \n$ Hubungan Anda dengan {soul_uuid_king} telah memburuk sebesar <red>{rel_de}</red>.",
+  " ",
+  "[hint_DESCRIPTION]\nPetani damai menekuni pertanian dan membayar upeti kepada Anda pada hari panen. Anda bisa menyerang desa kapan saja untuk menangkap Narapidana, tetapi penduduk desa akan berusaha melawan.\n\n$ Upeti: {tribute_stack} dalam {days_left} hari\n$ Pembela: {defenders}",
+  "Jarah desa\nPertempuran terjamin dengan milisi desa ({defenders_min} - {defenders_max} orang, petani bersenjata belati).\n\n$ Desa akan dibakar dan tidak mampu membayar upeti untuk dua panen berikutnya.\n\n<b>Jarahan yang mungkin:</b> {possible_loot}"
+]

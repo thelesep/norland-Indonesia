@@ -1,0 +1,7 @@
+[
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah bertengkar dengan Raja {soul_uuid_king_2} dari {faction_uuid_2}.",
+  "~\nSebuah pemberontakan telah terjadi di {faction_uuid}. {dead_lords_stack} telah tewas.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid} telah meninggal saat melahirkan.",
+  "~\n{faction_uuid_1} telah menjadi bawahan Raja {soul_uuid_king_2} dari {faction_uuid_2}.",
+  "~\nIbu kota {faction_uuid_target} telah berhasil diserang oleh pasukan {faction_uuid_attacker}."
+]

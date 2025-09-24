@@ -1,0 +1,7 @@
+[
+  "~\n\nMelarutkan perjanjian dengan tetangga di masa-masa seperti ini tidak akan mencerminkan dengan baik pada dirimu! Suatu hari nanti engkau akan membutuhkan bantuan, dan tanggapanku akan sunyi senyap!",
+  "Larutkan aliansi kota\n\nSebagai pemimpin, engkau sedang melarutkan aliansi kota milikmu.\n\n\nIni tidak akan memengaruhi hubungan antar sekutu lama.",
+  "Bergabung dengan aliansi\n\nIni berarti:\n[hint_defence_alliance_description]\n\n\nUntuk bergabung, engkau akan menerima: <hint=hint_resource_gold>{alliance_invite_price}</hint>",
+  "Undangan aliansi\n\n{soul_uuid_king} mengundangmu untuk bergabung dengan aliansi kota-kota bebas di bawah kepemimpinannya.\n\n\nIni berarti:\n[hint_defence_alliance_description]\n\n\nUntuk bergabung, engkau akan menerima: <hint=hint_resource_gold>{alliance_invite_price}</hint>",
+  "Engkau telah bergabung dengan aliansi\n\nEngkau telah menandatangani perjanjian dengan {soul_uuid_king} dan kini menjadi bagian dari aliansi kota-kota bebas ini.\n\n\nIni berarti:\n[hint_defence_alliance_description]\n\n\nEngkau menerima: <hint=hint_resource_gold>{alliance_invite_price}</hint>"
+]

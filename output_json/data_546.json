@@ -1,0 +1,7 @@
+[
+  "Prioritas Prajurit\r\nJika diaktifkan, rumah ini akan terutama didiami oleh <hint=hint_persons_warriors>prajurit</hint>.",
+  "Hilang\r\nKemungkinan besar akan kembali ke kampung halamannya dalam beberapa hari.",
+  "Lord Menjadi Politisi\r\n{soul_uuid} telah menjadi seorang <hint=hint_politic>politisi</hint>.\r\n\r\nSelama kesetiaan mereka tetap tinggi, Anda tidak perlu khawatir. Selain itu, mereka bisa berguna, karena mereka akan mendapatkan lebih banyak pengalaman dan mengembangkan skill mereka lebih cepat.\r\n\r\nMeskipun demikian, dia akan sebagian besar menghabiskan uangnya bukan untuk kemewahan, tetapi untuk memperluas lingkaran <hint=hint_followers>pengikut</hint>nya.",
+  "Pengetahuan Diperlukan  \r\nUntuk menjual barang ke penduduk Anda, Anda perlu meneliti pengetahuan {tech_name}.",
+  "Rekonsiliasi\r\n{skill_name} {skill_level} lvl.\r\n\r\n<b>Hasilnya:</b>\r\n$ Hubungan {soul_uuid_king} terhadap {soul_uuid_king_s} akan meningkat sebesar: <green>{gift_rel_improve}</green>\r\n\r\nHubungan saat ini: {rel_current}\r\n\r\n<b>Biaya</b>: {gift_for_king_resource}"
+]

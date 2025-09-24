@@ -1,12 +1,7 @@
 [
-  "A Grave for the Enemy\r\nThe character dreams that their recently deceased enemy ({soul_uuid_target}) has a grave where they can relish their triumph.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n<b>Build</b> the grave of the deceased character through the Construction menu <b>and wait</b> for the character to visit it.\r\n\r\n[hint_its_a_dream]",
-  "[hint_mind_caption]\r\nIt would be great if my dream came true!\r\n\r\nReason: The character has a <hint=hint_desire_dream>dream</hint>.",
-  "[hint_mind_caption]\r\nMy dream came true!\r\n\r\nLife is wonderful!",
-  "New Obsession\r\nThe character's mind has been overtaken by an <hint=hint_desire_obsession>obsession</hint> with a desire.\r\n\r\nOver time, the strength of the obsession will grow, causing them more suffering, which may bring about a nervous breakdown or an attempt by the character to solve the problem on their own.\r\n\r\n<b>Hint:</b> You can learn about the character's current desire at the bottom of the main tab in their menu.",
-  "Chancellery Network\r\nClerks from one <hint=hint_bld_chancellery>Chancellery</hint> can manage other Chancelleries.\r\n\r\n<img=hint_tutorial_clercs_net></img>\r\n\r\nIf one Chancellery is not enough for you, you can build more and assign their management not to a lord but to a clerk from your first Chancellery. This way, all the production bonuses provided by the lord managing the first Chancellery are saved. This way you can build a bureaucratic network.\r\n\r\n<b>Hint</b>: Zoom out as much as possible to see an overview of buildings, including their managers. Remember that you can assign managers by <b>right-clicking</b> on a building.",
-  "Culture Terror\r\n{optional_culture_terror}",
-  "Obsession\r\nA strong <hint=hint_desire>desire</hint> that usually shows up as a reaction to a certain event.\r\n\r\n$ An obsession creates a strong negative thought that torments the character until the desire is fulfilled.\r\n$ The intensity of this thought increases over time and can lead to a nervous breakdown.\r\n$ Some obsessions may provoke the character to take decisive action, and they may attempt to fulfill them on their own (for example, they might try to kill an enemy).",
-  "Dream\r\nA weak <hint=hint_desire>desire</hint> that sometimes arises in a character when they reflect on their goals.\r\n\r\n$ The thought of a dream does not greatly trouble the character and does not change over time.\r\n$ However, if the dream is fulfilled, the character will receive <hint=hint_tutorial_inspiration>Inspiration</hint> for the entire day.",
-  "No gold\r\nNeed more gold to build",
-  "~\r\n$ This desire is a <hint=hint_desire_dream>dream</hint>."
+  "[hint_mind_caption]\r\nApa yang harus kita lakukan? Kemenangan tampak di luar jangkauan kita!",
+  "[hint_mind_caption]\r\nMereka hampir dikalahkan!",
+  "[hint_mind_caption]\r\nHanya sedikit lagi, dan mereka juga akan lari!",
+  "[hint_mind_caption]\r\nHaha! Penakut!",
+  "[hint_mind_caption]\r\nSaya melihat seorang prajurit musuh di dekat sini jatuh! Hanya sedikit lagi, dan kemenangan akan menjadi milik kita!"
 ]

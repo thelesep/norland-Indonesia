@@ -1,12 +1,7 @@
 [
-  "The hall robbery was successful!\r\nThe hired cutthroats have stolen <hint=hint_resource_gold>{sum}</hint>, which will be delivered to you soon.",
-  "The robbery has failed.\r\nThe hired cutthroats got into a fight with the guards and were killed.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_gold_stealer}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_gold_stealer_neigh}</red>\r\n{optional_holy_defence_will_removed}",
-  "Library robbery\r\nHire cutthroats to rob the local library and bring you 3-5 random <hint=hint_book>books</hint>.\r\n\r\n$ If successful, each cutthroat will bring one randomly seized book.\r\n\r\nIn case of failure:\r\n$ Relations with {soul_uuid_king}: <red>{rel_de_book_stealer}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_book_stealer_neigh}</red>\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]",
-  "Library robbery\r\n[hint_bandits_description]\r\n\r\n$ The cutthroats will deliver <hint=hint_book>{books_min} - {books_max}</hint> books to you.\r\n{optional_holy_defence_will_removed}",
-  "The library robbery was successful!\r\nThe hired cutthroats have stolen {sum} <hint=hint_book>books</hint>, which will be delivered to you soon.",
-  "The library robbery attempt has failed!\r\nThe hired cutthroats got into a fight with the guards and were killed.\r\n\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_book_stealer}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_book_stealer_neigh}</red>\r\n{optional_holy_defence_will_removed}",
-  "Offering to the King\r\nThe lord will present {gift_for_king_resource} to the head of another house on behalf of your king. The type of gift depends on <hint=hint_culture>the culture</hint> of the city.\r\n\r\n$ As a result, their attitude toward the leader of your noble family will improve by an amount based on the <hint=hint_skill_manners>Manners</hint> skill of the giver.\r\n$ With each use, the action will seem less sincere, reducing its effect.\r\n$ This action is possible even if the king is not in the city – he will be informed of the gift.\r\n\r\n[hint_SENDER]",
-  "Offering to the King\r\nPerformer {soul_uuid_performer}: {skill_name} {skill_level} lvl\r\n\r\nRelationship with your king: <green>{gift_rel_improve}</green>\r\n\r\n<b>Gift to be given:</b> {gift_for_king_resource}",
-  "~\r\n{soul_uuid_king} has accepted your offering and improved their relationship with you by <green>{gift_rel_improve}</green>.",
-  "~\r\nI write to you with heartfelt thanks for your generous gift! Neighborly relations ought to be built upon friendship, but alas, few understand this in our times."
+  "Perampokan\nTerjadi pada malam hari di jalan.\n\nKorban: {soul_uuid_victim}",
+  "Perampokan\nBerlangsung pada malam hari di jalan.\n\nKorban: {soul_uuid_victim}",
+  "Tersangka\nKarakter ini dicurigai melakukan kejahatan.\n\nBangun <hint=hint_bld_scafod>Scaffold</hint> agar <hint=hint_persons_executer>algojo</hint> dapat menginterogasi mereka, membawa mereka untuk identifikasi, dan menghukum mereka jika terbukti bersalah.\n\nSerangan terhadap karakter ini akan dianggap sebagai tindakan teror, karena kesalahan tersangka belum dikonfirmasi.",
+  "Terintimidasi\nKarakter ini telah diintimidasi oleh <hint=hint_persons_executer>algojo</hint> dan akan terlalu takut untuk melakukan kejahatan pada hari berikutnya.",
+  "[hint_th_speach_fatigue]"
 ]

@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nI need to find some entertainment...\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\r\nEverything is so tiresome. I urgently need to relax!\r\n\r\nReason: <hint=hint_need_fun>Need for rest</hint>.",
-  "[hint_mind_caption]\r\nHoly Mother Sophia, bless me! Holy Mother Sophia, protect me!\r\n\r\nReason: fully fulfilled <hint=hint_need_piety>Need for piety</hint>.",
-  "[hint_mind_caption]\r\nMother Sophia loves me!\r\n\r\nReason: fulfilled <hint=hint_need_piety>Need for piety</hint>.",
-  "[hint_mind_caption]\r\nI haven't been to confession in a while... I need to repent!\r\n\r\nReason: <hint=hint_need_piety>Need for piety</hint>.",
-  "[hint_mind_caption]\r\nHoly Mother Sophia, forgive me for my sins!\r\n\r\nReason: <hint=hint_need_piety>Need for piety</hint>.\r\n\r\n<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone.",
-  "[hint_mind_caption]\r\nHoly Mother Sophia, forgive me for my sins!\r\n\r\nReason: <hint=hint_need_piety>Need for piety</hint>.\r\n\r\n<b>Hint:</b> Build a <hint=hint_bld_temple>Temple</hint> and make sure it is accessible to everyone.",
-  "[hint_mind_caption]\r\nI haven't felt human warmth in a long time...\r\n\r\nReason: <hint=hint_need_sex>Need for sex</hint>.",
-  "[hint_mind_caption]\r\nI want sex. Yes, I want sex!\r\n\r\nReason: <hint=hint_need_sex>Need for sex</hint>.",
-  "[hint_mind_caption]\r\nAnyone will do! I can't take it anymore!\r\n\r\nReason: <hint=hint_need_sex>Need for sex</hint>."
+  "Strength in Numbers\r\nPetani dan narapidana telah memutuskan bahwa tidak ada yang bisa melindungi mereka lebih baik daripada diri mereka sendiri.\r\n\r\nAkibatnya, semua pendatang dan narapidana memulai dengan keterampilan tempur 5-10.",
+  "Fast Metabolism\r\nHidup para karakter berjalan dua kali lebih cepat: satu hari dalam permainan setara dengan satu tahun usia (secara default, satu tahun usia sesuai dengan dua hari dalam permainan).\r\n\r\nIni juga mempercepat perolehan pengalaman dan beberapa aspek lainnya.",
+  "The Unholy Horde\r\nTak lama setelah permainan dimulai, <b>Unholy Horde</b> akan muncul di peta - lawan tangguh yang akan membakar semua kota di jalurnya.\r\n\r\nAnda tidak bisa bernegosiasi dengan Horde; Anda bisa mengalahkannya, atau mencoba <b>bertahan selama {duration_days} hari</b>, setelah itu ia akan menghilang dengan sendirinya.\r\n\r\nSatukan tetangga Anda di bawah kekuasaan Anda atau buat mereka lebih kuat melalui perdagangan dan aliansi pertahanan - atau berdoalah agar Anda tidak menjadi target Horde.\r\n\r\n<b>Petunjuk:</b> Saat memilih provinsi awal Anda, ingatlah bahwa <b>Unholy Horde muncul di hutan ke barat laut</b>, jadi semakin dekat Anda dengan wilayah itu, semakin besar bahayanya.",
+  "No crisis\r\nMainkan permainan bebas di mana krisis tidak terjadi.",
+  "Ambitions\r\n<b>Penakluk</b>\r\nPenguasa Anda telah mengumumkan bahwa selama masa pemerintahannya, <hint=hint_tutorial_states>negara</hint> akan berkembang dengan <b>{vas_num} provinsi bawahan atau sekutu.</b>.\r\n\r\nKemajuan saat ini: <b>{progress}%</b>"
 ]

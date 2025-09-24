@@ -1,0 +1,7 @@
+[
+  "Menyanjung Lord\r\n{soul_uuid_politic} menyanjung {soul_uuid_target} untuk menarik mereka ke dalam lingkaran <hint=hint_followers>pengikut</hint>-nya.",
+  "Menerima Donasi\r\n{soul_uuid_politic} menerima donasi untuk aktivitas politiknya yang sedang berlangsung dari <hint=hint_followers>pengikut</hint>-nya {soul_uuid_target}",
+  "Edit Squad\r\nMembuka menu pengeditan regu, di mana Anda dapat mengubah komposisi prajurit Anda dan menyesuaikan peralatan mereka.",
+  "Menyerah\r\nRegu akan menyerahkan senjata mereka dan mengangkat tangan. \r\n\r\nDalam situasi kritis ini mungkin menyelamatkan nyawa komandan.",
+  "Membubarkan\r\nRegu akan dibubarkan, dan prajurit akan mengembalikan peralatan mereka ke penyimpanan."
+]

@@ -1,0 +1,7 @@
+[
+  "Serang\n$ Risiko pertempuran dengan segerombolan Fleshwolf (<b>{wolves_min} - {wolves_max}</b> makhluk).\n$ Hubungan dengan tetangga: <green>{rel_improve}</green>",
+  "~ \n$ Gerombolan telah dimusnahkan. \n$ Hubungan dengan tetangga: <green>{rel_improve}</green>",
+  "~ \n$ Anda gagal menghancurkan gerombolan. Namun, setelah pertempuran sengit, Fleshwolf akhirnya mundur",
+  "~ \n$ Gerombolan telah meninggalkan wilayah Anda.",
+  " "
+]

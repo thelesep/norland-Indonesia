@@ -1,0 +1,7 @@
+[
+  "Keluar dari aliansi kota\nKepala aliansi akan menganggapnya sebagai pengkhianatan.\n\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>",
+  "Aliansi telah dihentikan.\nAnda dan {soul_uuid_king} tidak lagi saling terikat.\n\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_defence_alliance_broken}</red>",
+  "~\nSaya berharap suatu hari nanti tidak ada lagi kebutuhan untuk membentuk aliansi. Namun dunia ini penuh dengan permusuhan, dan perjanjian ini akan membantu kita dalam perjuangan bersama melawan kejahatan dan pengkhianatan.",
+  "~\nSaya senang kita berhasil membentuk aliansi antara kota-kota kita. Kita tanpa ragu membutuhkan dukungan satu sama lain. Sudah lama berlalu masa ketika tetangga hidup damai dan harmonis!",
+  "~\nMelarutkan aliansi adalah tugas yang mudah dilakukan, tetapi meramalkan konsekuensinya adalah usaha yang jauh lebih rumit. Saya terikat untuk menerima keputusan Anda, namun dari pengalaman saya sendiri, saya menyarankan agar sekutu tidak dianggap remeh."
+]

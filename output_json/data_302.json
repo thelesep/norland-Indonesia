@@ -1,0 +1,7 @@
+[
+  "~\nAku mengucapkan terima kasih atas ketaatanmu! Sungguh menenangkan mengetahui bahwa di dunia kita, penghormatan terhadap kekuatan masih mendominasi. Janganlah segan untuk membungkuk lutut ketika diperlukan.",
+  "~\nKeheninganmu lebih lantang daripada kata-kata apa pun. Aku harap dari sekutumu, engkau akan mendapat tanggapan berbeda ketika engkau membutuhkan pertolongan mereka dalam waktu dekat!",
+  "~\nMengabaikan permintaanku yang sah hanya akan menjadikanmu musuhku atau seorang dungu. Mana yang kau inginkan?",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} menganggap pasukanmu <hint=hint_army_power>memalukan</hint> dan percaya bahwa ia dapat menggunakan uangmu dengan lebih baik. Jika engkau menolak, ia siap menunjukkan apa itu kekuatan sesungguhnya.\n\n$ Engkau diwajibkan memberikan {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Jika engkau gagal melakukannya, hubunganmu akan memburuk sebesar <red>{rel_de}</red> dalam 2 hari, dan {soul_uuid_king} akan <red>menyerang kotamu</red>.\n{optional_possible_helpers}\n\n[hint_SENDER]",
+  "Kirim emas\n$ {soul_uuid_king} akan menerima <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Hubunganmu akan membaik sebesar <green>{rel_imp}</green>."
+]

@@ -1,0 +1,7 @@
+[
+  "Kota menjual: {offer_resource_name}\n[hint_trade_agreement_offer_generic]\n\n{optional_holy_family_prices}\n{optional_paper_prices}\n{optional_trading_volumes_reduced}\n[hint_SENDER]",
+  "~\n$ Biaya layanan perantara Gereja: <hint=hint_resource_gold>{trade_agreement_cost_money}</hint>.",
+  "Perjanjian dagang\n[hint_trade_agreement_success_generic]\n\n$ Hubungan dengan {soul_uuid_king} telah membaik: <green>{trade_agreement_king_im}</green>\nAnggaran kota mitra akan meningkat, dan populasi kota mereka akan bertambah sebanyak {add_peasant} penduduk setelah setiap transaksi.\n\n[hint_trade_agreement_demand_generic]",
+  "Perjanjian dagang\n[hint_trade_agreement_success_generic]\n\n$ Hubungan dengan {soul_uuid_king} telah membaik: <green>{trade_agreement_king_im}</green>\n\n[hint_trade_agreement_offer_generic]",
+  "~\n{soul_uuid_king} dan Anda telah menjalin <hint=hint_trade_agreement>perjanjian dagang</hint>."
+]

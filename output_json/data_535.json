@@ -1,0 +1,7 @@
+[
+  "Suap untuk Seks\r\nLord akan memberikan sejumlah Emas kepada petani, dan petani akan dengan senang hati memenuhi permintaan pribadinya.  \r\n\r\n<b>Akibatnya:</b>\r\n$ Kebutuhan lord untuk seks akan terpenuhi.  \r\n$ Petani mungkin melahirkan seorang anak yang akan menjadi <hint=hint_persons_bastard>anak haram</hint>.  \r\n$ Lord akan menanggung <hint=hint_sin>dosa</hint> pada jiwanya, dan jika karakter tersebut sudah menikah, ini akan dianggap sebagai ketidaksetiaan.\r\n\r\n<b>Biaya:</b>  <hint=hint_resource_gold>{count}</hint>",
+  "Penyihir: Suap Uskup\r\nKau meyakinkan Uskup untuk mengabaikan kedatangan penyihir di pemukimanmu. Sebagai imbalannya, penyihir akan berterima kasih kepadamu.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{cost}</hint>",
+  "Tebus Narapidana\r\nSetelah tebusan, ia akan menjadi narapidana milikmu dan akan merahasiakan asal-usulnya hingga kau bebaskan ia.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{gold}</hint>",
+  "Beli Anjing\r\nLord yang membeli anjing akan mendapatkan sahabat setia yang akan menemaninya seumur hidup.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{cost}</hint>",
+  "Hadiah untuk Berhala\r\nMinta hadiah berupa Emas\r\n\r\n<b>Akibatnya:</b>\r\n$ <hint=hint_encyclopedia_puppets>boneka</hint> akan gembira menyenangkan berhalanya dan akan mendapatkan pikiran {mind_add}\r\n$ Lord akan menerima <hint=hint_resource_gold>{count}</hint>."
+]

@@ -1,0 +1,7 @@
+[
+  "~\nBahaya telah berlalu; musuh berubah pikiran dan memutuskan untuk tidak menyerang. Aku menghargai bantuanmu, tapi aku lega itu tidak diperlukan. Doa-doa kita telah dikabulkan!",
+  "~\nTerima kasih atas bantuan yang kau kirim. Namun, musuh ternyata lebih pengecut daripada kelinci dan berpikir ulang untuk memasuki pertempuran. Akan menjadi bahan tertawaan ketika semua orang mendengarnya!",
+  "~\n$ Matriark menyetujui bantuan melawan Horde: <green>{church_rel_im}</green>",
+  "~\n$ Matriark menyetujui bantuan <hint=hint_support_tanaya>yang diberikan kepada Madura</hint>: <green>{church_rel_im}</green>",
+  "~\n$ Matriark <hint=hint_not_support_mahka>tidak akan menyetujui bantuanmu</hint>: <red>{church_rel_de}</red>"
+]

@@ -1,0 +1,7 @@
+[
+  "Perlindungan dari Keluarga Penuh Kasih\r\nMinta <hint=hint_holy_protection>perlindungan</hint> dari Keluarga Penuh Kasih.\r\n\r\n<b>Akibatnya:</b>\r\n$ Perlindungan akan berlangsung selama {days} hari\r\n$ Pendapat <hint=hint_relations_matriarch>Matriark</hint>: <red>-{rel_de}</red>\r\n\r\n<b>Biaya:</b> <hint=hint_resource_rune>{cost}</hint>",
+  "Bertaubat\r\nNgaku kebencian kepada Uskup.\r\n\r\nKarakter akan menerima pengampunan, hatinya akan dipenuhi kedamaian, dan ia akan memaafkan semua musuhnya.\r\n\r\n<b>Akibatnya:</b>\r\n$ Hubungan dengan semua musuh: <green>+{rel_inc}</green>\r\n\r\n<b>Biaya:</b> <hint=hint_resource_rune>{cost}</hint>\r\n\r\nDaftar musuh:\r\n{enemies_list}",
+  "Tidak Tersedia\r\nLord ini tidak memiliki musuh; hatinya murni.",
+  "~\r\nSyarat untuk buku ini muncul di Holy Caravan:\r\n{unlock_reason_stack}",
+  "~\r\nBuku ini tidak tersedia di perpustakaan Pihak Gereja. Pengetahuan seperti itu dapat <hint=hint_encyclopedia_global_knowledge>ditemukan dengan tetangga</hint> atau <hint=hint_nt_guest_arrive_knowledge_trader>diperoleh dari Scriptonics</hint>."
+]

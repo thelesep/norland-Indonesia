@@ -1,12 +1,7 @@
 [
-  "Bribery by Puppet\r\n{soul_uuid_target} was bribed by {soul_uuid_briber}, who is a puppet acting in the interest of {soul_uuid_master}.\r\n\r\nThe character’s <hint=hint_loyalty>loyalty</hint> has decreased.",
-  "Bribery\r\n{soul_uuid_target} was bribed by {soul_uuid_iniciator}.\r\n\r\nThe character’s <hint=hint_loyalty>loyalty</hint> has decreased.",
-  "Migrants Leaving\r\nMigrants are leaving the city because migration is forbidden and the city gates remain closed.\r\n\r\nThey will leave the province, and some of them will join the ranks of <hint=hint_persons_forest_bandits>forest bandits.</hint>.\r\n\r\nMigrants leaving: {quantity}",
-  "Mercenary's Contract\r\nDays remaining until contract expiration: {remain_days}.",
-  "Mercenary's Contract Expired\r\nOne or more of your mercenaries' contracts with your ruler have expired.\r\n\r\nIf not rehired through the Army menu, they will leave the city in {leaving_time}.",
-  "Mercenary Leaving the Province\r\nOne or more of your mercenaries' contract duration has expired, and after the designated waiting period, they are leaving the province.\r\n\r\nThey can still be hired for a short time, but soon they will be replaced by other mercenaries.",
-  "[hint_advisor_caption]\r\nSome mercenaries' contracts are about to expire.\r\n\r\nAfter that, they will need to be rehired, or they will leave your city.\r\n\r\nYou can check contract durations in the Army menu.",
-  "Contract Expired\r\nThis mercenary's  contract has expired, so he cannot be added to the army.\r\n\r\nSoon, he will return his equipment to the warehouse, and then he can be <b>rehired</b> through the hiring menu.",
-  "Tax Exemption\r\nFor the support provided, the vassal will be exempt from vassal taxes for {days} days.\r\n\r\nThis will amount to a total of: <hint=hint_resource_gold>{tax_free_amount}</hint>.",
-  "Army Loyalty  \r\nWhat percentage of warriors are loyal to this lord and will support him in the event of a <hint=hint_military_riot>military uprising</hint>\r\n\r\nInitially, warriors are loyal to the ruler, but they may shift their loyalty toward other lords if those:  \r\n$ Win battles  \r\n$ Hold <hint=hint_sermon_loyalty>loyalty sermons</hint> in Temples  \r\n\r\nAdditionally, <hint=hint_persons_fanatic>fanatic warriors</hint> are always loyal to the <hint=hint_bishop>Bishop</hint>, and <hint=hint_loyalist>loyalists</hint> will always support the ruler."
+  "[hint_mind_caption]\nHancurkan! Pecahkan! Bakar!",
+  "[hint_mind_caption]\nBegitu banyak prajurit di sekitar... Tidak ada harapan untuk melarikan diri.\n\nAlasan: Rasio yang luar biasa besar antara prajurit dan narapidana yang menekan kemauan.",
+  "[hint_mind_caption]\nSaya merasa seperti sedang diawasi!\n\nAlasan: Rasio yang luar biasa besar antara prajurit dan narapidana yang menekan kemauan.",
+  "[hint_mind_caption]\nSepertinya kita dijaga dengan buruk...\n\nAlasan: Rasio jumlah prajurit terhadap narapidana.",
+  "[hint_mind_caption]\nBagaimana jika kita mengatur pelarian?\n\nAlasan: Rasio jumlah prajurit terhadap narapidana."
 ]

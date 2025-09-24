@@ -1,0 +1,7 @@
+[
+  "Kirim lord\n{soul_uuid_lord} sedang dikirim ke kota yang hancur untuk mendirikan rumah bangsawan baru atas namamu.\n\n\nYang mendampingi lord adalah:\n{additional_souls_stack}\n\n\nBiaya: <hint=hint_resource_gold>{settlement_cost}</hint>",
+  "Pendirian rumah baru \nDi {faction_uuid_new_faction}, sebuah pemukiman untuk rumah bangsawan baru telah didirikan. \n\n\nIni berasal dari Rumah {faction_uuid_old_faction} dan sekarang menjadi <hint=hint_vassal>bawahannya</hint>. \n\n\nIni tanpa ragu menandai awal dari perjalanan gemilang!",
+  "~\nAku buru-buru memberitahumu, tuanku, bahwa kami perlahan-lahan mulai menetap. Tanah-tanah ini, meskipun tak terbantahkan liar, yakinlah, kami akan berhasil!",
+  "~\nAku menulis untuk menyampaikan kepadamu, tuanku, bahwa kami berhasil mengembangkan pemukiman baru. Wilayah ini masih liar, tapi kami akan berusaha sekuat tenaga untuk mengubahnya!",
+  "Pendirian Rumah Baru \nDi {faction_uuid_new_faction}, sebuah pemukiman untuk rumah bangsawan baru telah didirikan. \n\n\nIni berasal dari Rumah {faction_uuid_old_faction} dan sekarang menjadi <hint=hint_alliance_of_free_cities>sekutunya</hint>.\n\n\nIni tanpa ragu menandai awal dari perjalanan gemilang!"
+]

@@ -1,12 +1,7 @@
 [
-  "Desire for Victory\r\nThe character passionately desires to win in a real battle.\r\n\r\nMake them a leader of an army and achieve victory!\r\n\r\n[hint_its_a_dream]",
-  "Desire to Reward\r\nThe character wants to please one of their subjects with a gift.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nTry rewarding someone on their behalf.\r\n\r\n[hint_its_a_dream]",
-  "Desire to Execute\r\nThe character is obsessed with the idea of executing someone.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nAssign them to <hint=hint_punishment_execution>behead someone</hint> and fulfill their desire.\r\n\r\n[hint_its_a_dream]",
-  "Desire to Write a Book\r\nThe character dreams of <hint=hint_book_write>writing a book</hint>.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nYou can fulfill this desire in the <hint=hint_knowledge_menu>Knowledge menu</hint>.\r\n\r\n[hint_its_a_dream]",
-  "Desire for Knowledge Expansion\r\nThe character dreams of broadening their horizons by learning two new pieces of <hint=hint_idea>knowledge</hint>.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nTo help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.\r\n\r\n[hint_its_a_obsession]",
-  "Desire to Learn Knowledge\r\nThe character dreams of discovering something new and learning their first <hint=hint_idea>knowledge</hint>.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nTo help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.\r\n\r\n[hint_its_a_obsession]",
-  "Desire to Eat Meat\r\nThe character hasn't eaten pork for a long time and wants to remember how it tastes.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nMake sure that you have <hint=hint_resource_meat>Meat</hint> in your storage to fulfill this desire.\r\n\r\n[hint_its_a_dream]",
-  "Desire for Reward\r\nThe lord feels undervalued and dreams of receiving a reward from their King.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nAssign the King to reward this lord to fulfill this desire.\r\n\r\n[hint_its_a_obsession]",
-  "Desire for Revenge\r\nThe character wants {soul_uuid_target} to face punishment for their crimes.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nYou can help fulfill this desire in various ways:\r\n$ Challenge the criminal to a duel.\r\n$ Assign the King to punish the criminal.\r\n$ Or simply wait for the character to resolve the matter on their own.\r\n\r\n[hint_its_a_obsession]",
-  "Desire for Enemy's Death\r\nThe character hates their enemy, and they want {soul_uuid_target} to die.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nYou can help fulfill this desire in various ways:\r\n$ Challenge the enemy to a duel.\r\n$ Assign the King to execute this character's enemy.\r\n$ Or simply wait for the character to solve the matter on their own.\r\n\r\n[hint_its_a_obsession]"
+  "Tifus Rutabaga\r\nPengolahan Rutabaga yang lama telah menyebabkan degenerasinya, dan konsumsinya sekarang dapat menyebabkan kasus infeksi oleh penyakit baru, yang disebut \"Tifus Rutabaga\". \r\n\r\nJika memungkinkan, beri makan rakyat Anda dengan Tepung dan Daging, sisakan Rutabaga untuk pakan babi atau dalam kasus kelaparan.",
+  "Dinonaktifkan",
+  "Hanya Header",
+  "Bantuan Lengkap",
+  "Kesetiaan\r\n<hint=hint_loyalty>Kesetiaan</hint> menunjukkan seberapa setia lord terhadap <hint=hint_persons_king>raja</hint> mereka. Dengan nilai di bawah <red>25</red>, lord mungkin meninggalkan pemukiman atau memulai pemberontakan.\r\n{optional_loyalty_log}"
 ]

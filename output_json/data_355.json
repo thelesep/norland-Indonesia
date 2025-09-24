@@ -1,0 +1,7 @@
+[
+  "Vasal Persahabatan\nDengan cara yang ramah, tawarkan tetangga Anda {soul_uuid_king} untuk menjadi <hint=hint_vassal>vasal</hint> Anda.\n\nTetangga ini akan setuju, karena hubungan Anda melebihi <green>{rel_good_vassal_requiments}</green>, dan pasukan Anda jauh lebih kuat.\n\n[hint_SENDER]",
+  "Penawaran Vasal\nDia akan setuju, karena hubungan Anda melebihi <green>{rel_good_vassal_requiments}</green>, dan pasukan Anda jauh lebih kuat.\n\n$ {soul_uuid_king} akan menjadi vasal Anda.",
+  "Proposal ini tidak masuk akal.\n{soul_uuid_king} tidak akan setuju menjadi vasal Anda dengan sukarela sampai Anda memiliki setidaknya <green>{rel_good_vassal_requiments}</green> hubungan dan pasukan Anda yang lebih kuat.",
+  "~ \n{soul_uuid_king} telah mengakui kekuatan Anda dan setuju menjadi <hint=hint_vassal>vasal</hint> Anda.\n\n[hint_vassal_tribute]",
+  "~ \nSaya menulis kepada Anda untuk mengumumkan keputusan saya menjadi vasal Anda. Saya percaya jalan ini akan memungkinkan saya mengurangi biaya militer saya, karena saat ini saya sedang menghadapi banyak masalah internal, seperti yang mungkin Anda ketahui."
+]

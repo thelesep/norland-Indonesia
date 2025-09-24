@@ -1,0 +1,7 @@
+[
+  "Suap oleh Boneka\r\n{soul_uuid_target} disuap oleh {soul_uuid_briber}, yang merupakan boneka yang bertindak demi kepentingan {soul_uuid_master}.\r\n\r\n<hint=hint_loyalty>Kesetiaan</hint> karakter telah menurun.",
+  "Suap\r\n{soul_uuid_target} disuap oleh {soul_uuid_iniciator}.\r\n\r\n<hint=hint_loyalty>Kesetiaan</hint> karakter telah menurun.",
+  "Pendatang yang Pergi\r\nPendatang sedang meninggalkan kota karena migrasi dilarang dan gerbang kota tetap tertutup.\r\n\r\nMereka akan meninggalkan provinsi, dan sebagian dari mereka akan bergabung dengan barisan <hint=hint_persons_forest_bandits>Begal (hutan)</hint>.\r\n\r\nPendatang yang pergi: {quantity}",
+  "Kontrak Tentara Bayaran\r\nHari tersisa hingga berakhirnya kontrak: {remain_days}.",
+  "Kontrak Tentara Bayaran Berakhir\r\nSatu atau lebih kontrak tentara bayaran Anda dengan Penguasa Anda telah berakhir.\r\n\r\nJika tidak direkrut kembali melalui menu Tentara, mereka akan meninggalkan kota dalam {leaving_time}."
+]

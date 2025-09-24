@@ -1,0 +1,7 @@
+[
+  "Pengetahuan dalam bahaya\r\nAkibat kerugian baru-baru ini di antara para lord, tidak ada lagi yang memiliki <hint=hint_idea>pengetahuan</hint> berikut:\r\n\r\n{lost_list}\r\n\r\nJika Anda masih memiliki buku dengan pengetahuan ini, sekarang saatnya membiarkan para lord lain mempelajarinya, karena dalam beberapa hari pengetahuan ini akan hilang dari ingatan kolektif.\r\n\r\nHari hingga hilangnya total pengetahuan: {days}",
+  "Surat dari Matriark\r\nKlik untuk membaca",
+  "~\r\nSemua orang di sini berterima kasih kepada Anda! Semoga Ibu Sophia memberkati Anda atas kebaikan dan bantuan Anda! Seluruh desa sedang berdoa untuk jiwa Anda, sebisanya kami!",
+  "Mengirim bantuan\r\nBentuk regu dan kirim mereka untuk membantu.\r\n\r\n$ Mereka akan berpartisipasi dalam pertempuran mendatang dan kemudian kembali ke rumah.",
+  "Panggilan bantuan\r\n{optional_type_of_danger}\r\n\r\nPasukan Anda datang sebagai bala bantuan ke desa {village_name} dan akan tetap di kota selama 3 hari atau hingga pertempuran pertama."
+]

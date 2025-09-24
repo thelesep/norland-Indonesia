@@ -1,0 +1,7 @@
+[
+  "[hint_DESCRIPTION]\n{soul_uuid_king} percaya bahwa dalam situasi saat ini, akan lebih baik bagimu untuk menjadi vasalnya <hint=hint_vassal>vasal</hint>.\n\nKau memiliki <b>2 hari</b> untuk mempertimbangkan tawaran tersebut.\n\n$ Jika kau mengabaikan proposal tersebut, {soul_uuid_king} akan menganggapnya sebagai tindakan ketidakpatuhan, dan sikapnya terhadapmu akan memburuk sebesar <red>{king_de}</red>.\n\n[hint_SENDER]",
+  "~\nKau mengabaikan tawaran tersebut.\n\n$ Hubungan dengan {soul_uuid_king}: <red>{king_de}</red>",
+  "~\nAku tidak terbiasa menerima penolakan diam-diam, terutama dalam urusan otoritas. Kau telah menunjukkan ketidakhormatan terbuka, dan kau akan diperlakukan sesuai dengan itu!",
+  "~\nKau menolak menjadi vasalku? Untuk ingin musuh seperti aku, kau pasti menganggap dirimu abadi! Baiklah, waktunya akan tiba, dan kita akan mengujinya dalam praktik.",
+  "~\n$ Jika Penguasa tidak setuju untuk tunduk dalam waktu 3 hari, kau akan diwajibkan untuk menyerang kota tersebut.\n$ Jika kau muncul sebagai pemenang, faksi ini akan menjadi vasalmu dengan paksa.\n$ Jika Penguasa menolak tapi kau tidak menyerang kota, kau akan dianggap sebagai pengecut."
+]

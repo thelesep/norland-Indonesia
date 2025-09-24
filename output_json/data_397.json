@@ -1,0 +1,7 @@
+[
+  "Ultimatum tentang netralitas\n{soul_uuid_king} menyampaikan ultimatum kepadamu. Kau harus memutus semua perjanjian politik (dengan suzerainmu, vassalmu, atau keluar dari aliansi) dan menjadi netral.\n\n$ Kau punya <b>2 hari</b> untuk mempertimbangkan.\n$ Jika kau mengabaikan usulan itu, maka dalam beberapa hari {soul_uuid_king} akan mencoba menguji kekuatanmu.\n$ Jika serangan ke kotamu berhasil dan Aula-mu dibakar, kau akan dipaksa menjadi netral.\n{optional_possible_helpers}",
+  "Setuju\nSetuju dan menjadi provinsi netral independen.\n{optional_additional_effects}\n\n[hint_SENDER]",
+  "~\nKau telah menjadi provinsi netral independen.\n\nSekarang kau sendirian.\n{optional_additional_effects}",
+  "~\nKau mengabaikan usulan itu, dan segera {soul_uuid_king} akan mencoba menguji kekuatanmu.\n\nJika serangan ke kotamu berhasil dan Aula-mu dibakar, maka kau akan menjadi provinsi netral independen.",
+  "~\n{soul_uuid_king} berubah pikiran tentang menyerang pemukimanmu, karena takut pada <hint=hint_army_power>kekuatan</hint> pasukanmu. Semua perjanjian politikmu tetap berlaku.\n\nMonarki ini sekarang dikenal sebagai pengecut."
+]

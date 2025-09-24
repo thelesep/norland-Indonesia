@@ -1,12 +1,7 @@
 [
-  "~\r\n{optional_remain_time_hours}",
-  "[hint_mind_caption]\r\nI have been <hint=hint_speech_insult>insulted</hint> and I feel humiliated!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI doubt that Mother Sophia truly created this cruel world...\r\n\r\nReason: <hint=hint_persons_agnostic>Agnostic</hint>.",
-  "[hint_mind_caption]\r\nI feel confident under the <hint=hint_skill_command>command</hint> of a commander like {name}.",
-  "[hint_mind_caption]\r\nWe had better run before it's too late!",
-  "[hint_mind_caption]\r\nWhat should we do? Victory appears out of reach for us!",
-  "[hint_mind_caption]\r\nThey are about to be defeated!",
-  "[hint_mind_caption]\r\nJust a little more, and they will run away too!",
-  "[hint_mind_caption]\r\nHaha! Cowards!",
-  "[hint_mind_caption]\r\nI saw an enemy warrior nearby fall! Just a bit longer, and victory will be ours!"
+  "Musuh Bebuyutan\nHubungan yang <red>-50</red> ke bawah.\n\nSelain tindakan permusuhan lainnya, ini berarti kemungkinan <hint=hint_agression>surprise attacks</hint>.",
+  "Permusuhan\nHubungan yang berkisar dari <red>-25</red> hingga <red>-50</red>\n\nMenandakan potensi untuk aksi militer bersenjata terhadap desa dan kota masing-masing, upaya penaklukan melalui vasalase, pemerasan, pembunuhan, dan penculikan.\n\nKarena status permusuhan, tindakan permusuhan ini tidak akan dikecam oleh tetangga lain atau Matriark.",
+  "Kebencian\nHubungan yang berkisar dari <red>-15</red> hingga <red>-25</red>.\n\nTetangga yang memusuhi mulai melakukan intrik terhadap Anda. Mereka dapat memberikan suap kepada para lord Anda, menyewa <hint=hint_persons_cuthroat>pembunuh berantai</hint> Anda untuk perampokan atau penculikan, dan sebagainya. Tuntutan agresif juga mungkin terjadi, tetapi belum ada aksi tempur, karena ini belum perang.",
+  "Netral\nHubungan khas antara tetangga. Beberapa aksi tersedia, sementara yang lain tidak.",
+  "Simpati\nBelum sepenuhnya persahabatan, tetapi aksi seperti kontrak perdagangan, lamaran pernikahan, dan undangan aliansi secara bertahap menjadi tersedia."
 ]

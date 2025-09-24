@@ -1,0 +1,7 @@
+[
+  "Setuju\nSetuju menjadi <hint=hint_vassal>vasal</hint>nya.\n{optional_player_is_vassal}\n\n[hint_vassal_tribute]",
+  "~\nKau telah menjadi <hint=hint_vassal>vasal</hint>.\n\n{soul_uuid_king} sekarang menjadi suzerain mu.\n\nLayani dia dengan setia!\n{optional_player_ex_sir_result}\n\n[hint_vassal_tribute]",
+  "~\nKau mengabaikan tawaran itu, dan dalam beberapa hari, {soul_uuid_king} akan coba uji kekuatanmu.\n\n Jika serangan ini ke kotamu berhasil dan Aula mu dibakar sampai rata dengan tanah, kau akan diakui di seluruh kerajaan sebagai <hint=hint_vassal>vasal</hint> {soul_uuid_king}.",
+  "~\n{soul_uuid_king} berubah pikiran dan memutuskan tidak menyerang pemukimanmu, karena takut <hint=hint_army_power>kekuatan</hint> pasukanmu.\n\nSekarang dia akan dikenal sebagai pengecut.",
+  "~\nKau telah membuat pilihan bijak dengan menjadi vasalku. Sebagai ganti tribut kecil, saya berikan perlindungan padamu. Apa lagi yang bisa kau inginkan?"
+]

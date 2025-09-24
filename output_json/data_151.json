@@ -1,12 +1,7 @@
 [
-  "[hint_DESCRIPTION]\r\n{soul_uuid_king} considers your army to be very <hint=hint_army_power>weak</hint> and suggests that you contribute to the region's security by providing funds.\r\n\r\n$ You are required to give {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\r\n$ If you fail to do so, your relationship will deteriorate by <red>{rel_de}</red> in 2 days.\r\n\r\n[hint_SENDER]",
-  "Send the gold\r\n$ {soul_uuid_king} will receive <hint=hint_resource_gold>{tribute_money}</hint>.\r\n$ Your relationship will improve by <green>{rel_imp}</green>.",
-  "~\r\n$ You have paid {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\r\n$ Your relationship has improved by <green>{rel_imp}</green>.",
-  "~\r\n$ You chose not to pay {soul_uuid_king}, which has offended him.\r\n$ Your relationship has deteriorated by <red>{rel_de}</red>.",
-  "~\r\nThank you for the gold you've sent! I'm especially pleased when it is given without any reservations. The fool is the one who places greed above their own defeat.",
-  "~\r\nI thank you for your obedience! It's reassuring to know that in our world, respect for strength still prevails. Do not be ashamed to bend your knee when necessary.",
-  "~\r\nYour silence speaks louder than any words. I hope that from your allies, you'll receive a different response when you need to seek their assistance in the near future!",
-  "~\r\nIgnoring my rightful requests would only make you either my enemy or a fool. Which do you wish to be?",
-  "[hint_DESCRIPTION]\r\n{soul_uuid_king} considers your army <hint=hint_army_power>pathetic</hint> and believes that they can put your money to better use. If you refuse, they is ready to show you what real power is.\r\n\r\n$ You are required to give {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\r\n$ If you fail to do so, your relationship will deteriorate by <red>{rel_de}</red> in 2 days, and {soul_uuid_king} will <red>attack your city</red>.\r\n{optional_possible_helpers}\r\n\r\n[hint_SENDER]",
-  "Send the gold\r\n$ {soul_uuid_king} will receive <hint=hint_resource_gold>{tribute_money}</hint>.\r\n$ Your relationship will improve by <green>{rel_imp}</green>."
+  "Pendapat sudah terbentuk. \r\nRaja sudah mendengar pendapat utusan tentang raja Anda dan belum siap mendengarnya lagi.\r\n\r\nTersedia lagi dalam: {time} d.",
+  "Kehamilan\r\n{soul_uuid_female} kini hamil oleh {soul_uuid_male}.\r\n\r\nKehamilan akan berlangsung selama beberapa hari, dan kemajuannya dapat dilacak di tab utama menu karakter.",
+  "Wawasan\r\n{optional_insight_text}",
+  "Pajak pada prajurit\r\nPajak saat ini: {tax}",
+  "Pemberontakan Pewaris\r\n<hint=hint_loyalty>loyalitas</hint> pewaris mahkota {soul_uuid} sudah di bawah 40 dan terus menurun. Ketika kesetiaan-nya turun ke 25, ia akan <hint=hint_nt_heir_rebellion>memberontak</hint> melawan raja.\r\n\r\n<b>Petunjuk:</b> Tingkatkan kesetiaan karakter melalui tindakan raja - hadiah atau ancaman. Anda juga bisa mencoba langkah-langkah yang lebih radikal, seperti mengatur duel dengan raja."
 ]

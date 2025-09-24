@@ -1,0 +1,7 @@
+[
+  "~\n$ Anda telah membayar {soul_uuid_king} <hint=hint_resource_gold>{tribute_money}</hint>.\n$ Hubungan Anda telah membaik sebesar <green>{rel_imp}</green>.",
+  "~\nAnda tidak membayar {soul_uuid_king}, yang menyinggung beliau.\n\n$ Hubungan Anda telah memburuk sebesar <red>{rel_de}</red>.\n$ {soul_uuid_king} mengumpulkan pasukan dan berbaris menuju kota Anda untuk merampasnya.",
+  "~\nAnda tidak membayar {soul_uuid_king}, yang menyinggung beliau.\n\n$ Hubungan Anda telah memburuk sebesar <red>{rel_de}</red>.\n$ {soul_uuid_king} telah menilai peluangnya dengan tenang dan tidak akan menyerang Anda. Setidaknya untuk saat ini.",
+  "~\nSungguh hina orang yang pasukannya lebih lemah daripada bayi, tapi lebih hina lagi orang yang perbendaharaannya kosong pula. Bersyukurlah bahwa Anda bukan termasuk yang terakhir. Saya harap Anda akan terus membayar upeti kepada saya dengan tepat waktu di masa depan.",
+  "~\nJelas bagi semua bahwa pelatihan dan perawatan pasukan pemberani bukanlah prioritas dalam kepemimpinan Anda. Namun, yang lemah sering kali punya kesempatan untuk mengkompensasi kelalaian ini dengan kekayaan. Saya harap di masa depan, Holy Sophia akan memihak dompet Anda."
+]

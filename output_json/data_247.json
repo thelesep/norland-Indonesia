@@ -1,12 +1,7 @@
 [
-  "Unsuccessful Hunt  \r\n{soul_uuid_1} went hunting with {soul_uuid_2} in the province of {faction_uuid}, but the hunt ended unsuccessfully.  \r\n\r\nTheir mood and relationship with each other worsened.",
-  "Intentions Unveiled\r\n{soul_uuid} reveals their intentions in conversations with your lords. This is {role_name}.\r\n\r\nYou can exile this lord (which will have consequences) or leave things as they are and face the consequences of their actions.",
-  "Sociable\r\nThis guest comes to establish good relations with your king and heir.",
-  "Duelist\r\nThis guest possesses exceptional <hint=hint_skill_combat>Combat skill</hint>. They come to challenge one of your lords—your best manager, commander, or even the king—to a duel and kill them.",
-  "Provoker\r\nThis guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.\r\n\r\nTheir intentions include bribing your lords and scheming against the king.",
-  "Puppeteer\r\nThis guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.\r\n\r\nThey will attempt to turn one of your lords into their <hint=hint_encyclopedia_puppets>puppet</hint>.",
-  "Manipulator\r\nThis guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.\r\n\r\nThe manipulator enjoys choosing a victim, earning their trust, and simultaneously scheming against them by speaking with their spouse. However, they can also mend relationships through flattery and praise.",
-  "Seducer\r\nThis guest is likely an intriguer, possessing high skills in <hint=hint_skill_speech>Persuasion</hint> and <hint=hint_skill_manners>Manners</hint>.\r\n\r\nThey entertain themselves by trying to seduce the target who shows the most interest in them.\r\nIf their king has a poor relationship with yours, the seducer will exploit the victim’s trust to lower their loyalty to your king.",
-  "Gambler\r\nThis character comes to satisfy their passion for dice games. As a partner, they chooses the lord with the lowest <hint=hint_skill_knowledge>Intelligence</hint> skill, potentially increasing their chances of winning.\r\n\r\nFor some reason, they are forbidden to gamble in their home province.",
-  "Enlightener\r\nThis educated guest has come to engage in <hint=hint_action_wise_talk>wise conversations</hint> with your most enlightened lord.\r\n\r\nMutual enrichment through knowledge is the noble goal of the enlightener."
+  "[hint_mind_caption]\n{name} berpura-pura aku tidak ada! Ini sangat tidak menyenangkan!\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya belum melihat makanan apa pun selama beberapa hari... Berapa lama lagi saya bisa bertahan sebelum mati?\n\nAlasan: Tidak makan dalam waktu lama.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSaya takut saya yang berikutnya!\n\nAlasan: <hint=hint_terror>teror</hint> di antara kelas populasi ini.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSial, ini sangat sakit!",
+  "[hint_mind_caption]\n{name} mencoba meracuni saya! Untungnya, sepertinya mereka tidak tahu apa yang mereka lakukan!\n\nAlasan: Upaya gagal untuk meracuni karakter.\n[hint_mind_remain_time]"
 ]

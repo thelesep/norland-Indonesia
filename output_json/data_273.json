@@ -1,12 +1,7 @@
 [
-  "No access to food\r\nA new type of character, {group_name}, has appeared in the city. However, they are not receiving <hint=hint_food>food</hint> and will soon begin to starve.  \r\n\r\n$ Open the <b>Economy Menu</b> and set up a daily food distribution,  \r\n$ Or you can configure <hint=hint_resource_gold>Gold</hint> distribution there and simultaneously set up food sales on the local market (This option is not available for prisoners and requires the \"Wages\" knowledge.)",
-  "Politic's Rebellion\r\n[hint_puppet_riot]",
-  "~\r\n<red>The politician decided to start an uprising</red>",
-  "[hint_mind_caption]  \r\nHow nice to be among people like me! To see someone other than my spouse and work colleagues...\r\n\r\nReason: Visited a public place",
-  "Comfort\r\nThe level of a residential building and nearby structures affect the comfort of its residents.\r\n\r\n<img=hint_building_comfort></img>\r\n\r\n$ Nearby industrial buildings reduce comfort, while public spaces increase it.\r\n$ You can also improve a building’s comfort by upgrading it. Comfortable residential buildings of level 4 or 5 are one way to make residents so happy that they may become <hint=hint_loyalist>loyalists</hint>.\r\n",
-  "Warrior Priority\r\nIf enabled, this house will primarily be occupied by <hint=hint_persons_warriors>warriors</hint>.",
-  "Missing\r\nWill likely return to their hometown in a few days.",
-  "Lord Became a Politician\r\n{soul_uuid} has become a <hint=hint_politic>politician</hint>.\r\n\r\nAs long as their loyalty remains high, you have nothing to fear. Moreover, they can be useful, as they will gain more experience and develop their skills faster.\r\n\r\nNevertheless, he will mostly spend his money not on luxury, but on expanding his circle of <hint=hint_followers>followers.</hint>",
-  "Knowledge Required  \r\nTo sell goods to your residents, you need to research the {tech_name} knowledge.",
-  "Reconciliation\r\n{skill_name} {skill_level} lvl.\r\n\r\n<b>As a result:</b>\r\n$ Relationship of {soul_uuid_king} to {soul_uuid_king_s} will improve by: <green>{gift_rel_improve}</green>\r\n\r\nCurrent relationship: {rel_current}\r\n\r\n<b>Cost</b>: {gift_for_king_resource}"
+  "Keinginan untuk Hukuman Pembunuh\r\nKarakter tersebut tahu bahwa {soul_uuid_target} adalah pembunuh dan mereka menginginkan agar orang tersebut dihukum.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\nAnda dapat membantu memenuhi keinginan ini dengan berbagai cara:\r\n$ Raja dapat mengeksekusi, membutakan, atau mengasingkan penjahat tersebut.\r\n$ Atau cukup tunggu hingga karakter tersebut menyelesaikan masalahnya sendiri.\r\n\r\n[hint_its_a_obsession]",
+  "Keinginan untuk Keselamatan Orang Berdosa\r\nUskup percaya bahwa {soul_uuid_target} adalah orang berdosa tak terampuni <hint=hint_sin>sinner</hint> dan seharusnya <hint=hint_punishment_blindness>dibutakan</hint> agar mereka tidak bisa terus berbuat dosa sebanyak itu.\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n[hint_its_a_obsession]",
+  "Kebutuhan untuk Lebih Banyak Kuil\r\nUskup menganggap situasi di mana tidak semua anak Sophia dapat mendengarkan khotbah sebagai tidak dapat diterima.\r\nKuil yang dibutuhkan: {count}\r\n\r\n[hint_MORAL_DEBUFF]\r\n\r\n[hint_its_a_obsession]",
+  "Bantuan sudah tiba\r\nPasukan Anda sudah tiba di kota dan siap membelanya.",
+  "Loyalitas terlalu rendah\r\nLoyalitas sandera harus menjadi positif; hanya maka mereka siap bergabung dengan keluarga bangsawan Anda."
 ]

@@ -1,0 +1,7 @@
+[
+  "[hint_advisor_caption]  \r\nKapasitas gudang terlampaui!  \r\n\r\nBeberapa kategori sumber daya telah sepenuhnya memenuhi gudang dan sekarang rusak setiap malam sebesar {spoilage_factor}% dari total kapasitas.  \r\n\r\nAnda bisa menyingkirkan sumber daya berlebih atau membangun gudang baru.  \r\n\r\n{list_of_overflow_categories}",
+  "Lumbung  \r\nGudang untuk <hint=hint_storage_keep>menyimpan sumber daya</hint> dari kategori Vegetasi dan Makanan.\r\n\r\nDesain khusus bangunan ini mengurangi kerusakan mereka menjadi {spoil}%.\r\n\r\n<b>Kapasitas:</b>\r\n{list_of_categories}",
+  "Gudang Senjata\r\nGudang untuk menyimpan sumber daya dengan aman dari <hint=hint_storage_keep>kategori Senjata dan Barang Mewah</hint>.\r\n\r\nBangunan ini dilindungi dengan baik, sehingga penyusup harus merobohkan pintu untuk bisa masuk.\r\n\r\n<b>Kapasitas:</b>\r\n{list_of_categories}",
+  "Kemah Tukang Bangunan\r\nMemungkinkan perekrutan tukang bangunan tambahan dan mengurangi waktu konstruksi bangunan dengan menempatkan kemah lebih dekat ke lokasi konstruksi.",
+  "Perjalanan dari Gudang\r\nWaktu yang dibutuhkan untuk bepergian dari gudang terdekat ke bangunan."
+]

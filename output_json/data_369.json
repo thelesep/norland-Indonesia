@@ -1,0 +1,7 @@
+[
+  "~\nSaya menulis kepada Anda untuk memberitahukan pembatalan perjanjian perdagangan kita. Apakah yang baru mungkin dibuat? Kita lihat saja.",
+  "~\nSaya menulis kepada Anda untuk memberitahukan bahwa pendahuluku telah meninggal dunia. Perjanjian perdagangan yang Anda buat dengannya tidak menguntungkan. Anggap saja itu batal dan tidak sah.",
+  "~\nPendahuluku telah pergi dari dunia ini, dan saya selalu ragu terhadap pengaturan komersial ini. Apakah syarat-syarat seperti itu benar-benar menguntungkan? Dengan ini saya membatalkan perjanjian ini.",
+  "~\n$ Biaya pembuatan kontrak: <hint=hint_resource_paper>{trade_agreement_cost_paper}.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} percaya bahwa kamp Begal di dekat kota Anda menimbulkan ancaman keamanan bagi karavan dan para pelancong. Anda harus mengatasi masalah ini.\n\n$ Anda harus menghancurkan kamp Begal di dekat kota Anda.\n$ Jika Anda gagal melakukannya, hubungan Anda dengan {soul_uuid_king} akan memburuk sebesar <red>{rel_de}</red> dalam 2 hari."
+]

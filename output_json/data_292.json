@@ -1,0 +1,7 @@
+[
+  "~\n<red>Berita buruk</red>: Unholy Horde telah menangkap dan membakar kota {faction_uuid_1} - {soul_uuid_king} telah tewas, dan Rumah mereka telah dihancurkan.",
+  "~\nRaja {soul_uuid_king_1} dari {faction_uuid_1} telah membakar kota dan menghancurkan Rumah Bangsawan {faction_uuid_2} sepenuhnya. {soul_uuid_king_2} dan keluarga mereka telah tertarik.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid_target} meninggal saat berburu.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid_target} telah dibunuh oleh {soul_uuid_member} dari {faction_uuid_member}.",
+  "~\nLord {soul_uuid_target} dari {faction_uuid_target} telah dieksekusi."
+]

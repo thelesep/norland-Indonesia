@@ -1,0 +1,7 @@
+[
+  "Memerintahkan Pembunuhan\n[hint_bandits_description]\n{optional_holy_defence_will_removed}",
+  "Pembunuhan berhasil!\n{soul_uuid_assassinate_target} ditusuk hingga mati di tempat tidurnya sendiri pada malam hari.",
+  "Pembunuhan gagal\n{soul_uuid_assassinate_target} berhasil membela diri dari para pembunuh bayaran, dan semuanya tewas.\n\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_assassinate}</red>\n$ Hubungan dengan Matriark: <red>{rel_de_neigh_assassinate}</red>\n{optional_holy_defence_will_removed}",
+  "Penculikan seorang lord\nPekerjakan pembunuh berantai lokal untuk menculik karakter yang dipilih dan membawa mereka ke pemukiman Anda.\n\n$ Jika berhasil, karakter menjadi tawanan dan akan dikirim ke pemukiman Anda.\n\nJika gagal:\n$ Hubungan dengan {soul_uuid_king}: <red>{rel_de_kidnap}</red>\n$ Hubungan dengan Matriark: <red>{rel_de_neigh_kidnap}</red>\n{optional_holy_defence_will_removed}\n\n[hint_SENDER]",
+  "Memerintahkan Penculikan\n[hint_bandits_description]\n{optional_holy_defence_will_removed}"
+]

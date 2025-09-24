@@ -1,0 +1,7 @@
+[
+  "Bantuan Melawan Horde\n{optional_type_of_danger}\n\n<hint=hint_synode>Keluarga Penuh Kasih</hint> memohon agar semua raja-raja bangsawan meletakkan perbedaan mereka dan membantu mereka menangkis ancaman ini.\n\nHanya bersama-sama kalian bisa menahan invasi!\n\nPasukan yang kalian kirim untuk bantuan akan bertempur bersama pasukan {soul_uuid_king} melawan Horde.\n\n<b>Akibat:</b>\n{optional_send_help_effects}\n{optional_allyship}\n{optional_will_gain_duty_of_honor}\n{optional_possible_helpers}",
+  "~\nKemenangan kami diraih dengan susah payah, tapi kami teguh berdiri melawan musuh-musuh jahat itu. Terima kasih telah mengirim bala bantuan tepat waktu. Perjuangan melawan wabah ini adalah tugas suci. Ketahuilah bahwa saya akan segera datang membantumu kapan pun kau membutuhkannya!",
+  "~\nAncaman Unholy Horde tak akan pernah memberi tanah kita istirahat. Tapi jika semua berdiri melawannya seperti yang kau lakukan, mengirimkan bala bantuan kepadaku, dunia kita mungkin masih menyimpan harapan! Terima kasih, tetangga tercinta!",
+  "Horde Sedang Berbaris!\n<hint=hint_unholy_horde>Unholy Horde</hint> sedang maju menuju pemukimanmu.\n\nSudah waktunya meminta bantuan dari sekutumu - jika kau memilikinya...\n{optional_possible_helpers}",
+  "Rumah Dewa Mati\nIbukota dari <hint=hint_unholy_horde>Unholy Horde</hint>. \n\nRebutlah itu untuk menghentikan Horde dan membasmi kultus sesat yang jahat itu sekali untuk selamanya."
+]

@@ -1,12 +1,7 @@
 [
-  "Church Curse\r\nImposed by the Matriarch on the king when relations with him fall below <red>-50</red>.\r\n\r\nIt's better for you not to know what will happen...",
-  "Title\r\nThe \"Fear of death\" thought experienced by peasants hired into the army is half as strong.",
-  "Title\r\nThe relationship threshold required for neighboring kings to trade with you is lowered to <red>{trade_threshold}</red>.",
-  "Title\r\nTerror against fanatics will not have negative consequences.",
-  "Title\r\nThe Chancellery requires three times less paper to operate.",
-  "Title\r\n<hint=hint_tutorial_church_tax>The tax on warriors</hint> will be {percent}% less.",
-  "Title\r\nThe effectiveness of warrior training at the Training Field is increased by {bonus}%.",
-  "Title\r\nOnce becoming <hint=hint_loyalist>loyalists</hint>, characters will remain so forever.",
-  "Title\r\nConducting trade dealings with forest bandit camps (such as buying prisoners and stolen Holy Rings) will not negatively impact your relations with neighbors.",
-  "Incompatible trait\r\nThis trait cannot be selected because it is not compatible with already selected traits."
+  " ",
+  "Soap\nDiperlukan untuk berfungsinya <hint=hint_bld_bath>Bath</hint>.\n\nMemerlukan 1 <hint=hint_resource_wood>Kayu</hint> dan 1 <hint=hint_resource_hop>Hop</hint> untuk crafting",
+  "Begal\nPada akhir <hint=hint_fire_war>War of Sacred Flame</hint>, para <hint=hint_cainism>Cainites</hint> yang selamat dan para pengecut yang melarikan diri melarikan diri ke Pegunungan Tak Terkalahkan di selatan, di mana mereka menemukan perlindungan dan menjadi tak terjangkau oleh <hint=hint_sofia_cult>Pihak Gereja</hint>.\n\nSelama bertahun-tahun, mereka merosot menjadi suku-suku liar, tetapi mereka selalu mempertahankan iman lama mereka. Mereka juga mempertahankan keterampilan mereka dalam produksi senjata dan zirah serta kebencian mereka terhadap <hint=hint_new_kingdoms>Kerajaan Baru</hint>.\n\nMeskipun memiliki keterampilan tempur yang tinggi dan peralatan yang cukup baik, tanpa yang mana kelangsungan hidup di pegunungan tidak mungkin, para begal takut menyerang kota-kota Norland secara langsung. Sebaliknya, mereka sering melakukan serangan razia ketika mengetahui adanya perang yang sedang berlangsung, dengan benar menghitung pada mangsa yang mudah.\n\nPara begal menyerang desa-desa yang tak berdaya dan memenjarakan semua orang, membawa mereka ke pegunungan. Tak ada yang tahu apa yang terjadi pada jiwa-jiwa malang ini setelahnya.\n\nPihak Gereja Sophia yang disayangi dengan hangat memberkati penghancuran regu-regu begal apa pun.",
+  "Kelompok Sosial\nPenduduk kota terbagi menjadi kelompok-kelompok. Tugas Anda adalah memastikan kelangsungan hidup kelompok <hint=hint_persons_lords>lord</hint>, yang sedang Anda mainkan.",
+  "Para Lord\n[hint_tut_3]"
 ]

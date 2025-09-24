@@ -1,12 +1,7 @@
 [
-  "Persona Non Grata\r\n{soul_uuid_lord}: The Lord is permanently banned from visiting the city of {faction_uuid} due to crimes committed against the province.",
-  "[hint_mind_caption]\r\nI have someone who loves me just for who I am!",
-  "[hint_mind_caption]\r\nIt was really nice to play with the dog!",
-  "Unable to summon\r\n{faction_uuid} has no warriors they can send to assist you.",
-  "~\r\nFor the support support they have provided to you, your chosen vassals will be exempt from vassal tax for {days} days. In total, you will be underpaid by about <hint=hint_resource_gold>{tax_free_amount}</hint> during this time.",
-  "A rebellion is brewing\r\nYour vassal {soul_uuid_king} from the province {faction_uuid} has become hostile toward your king and is preparing to break away from your rule.\r\n\r\nIf within 24 hours you do not manage to restore relations with them from {current_opinion} to {min_opinion_threshold}, a rebellion will begin.\r\n\r\n<b>Hint:</b> You can also try to neutralize the rebellious vassal by other means (e.g., by killing or kidnapping them).\r\n\r\n{optional_other_rebel_vassals}",
-  "~\r\nThere is a chance that these vassals will support the rebellion when it begins:",
-  "Bribe the heir\r\nBribe the crown heir {soul_uuid_heir} to instigate a rebellion.",
-  "Bribe the heir\r\n{skill_name} {skill_level} lvl.\r\n{skill_name} of the target {lord_skill_level} lvl.\r\n\r\nAs a result:\r\n<hint=hint_loyalty>The loyalty</hint> of the heir to their king will drop to <red>{heir_rebellion_target_loyalty}</red>.\r\n\r\n{soul_uuid_heir} will initiate a rebellion, but only {heir_rebellion_soldiers_percent}% of the warriors will join the rebels, and you will need to support them with your own troops.\r\n\r\n<b>Cost:</b> <hint=hint_resource_rune>{heir_bribe_cost_rings}</hint>",
-  "~\r\nYou have bribed {soul_uuid_heir}, the heir of {faction_uuid}. They will soon start a rebellion."
+  "[hint_mind_caption]\nEntah bagaimana, jiwaku terasa lebih ringan sekarang... \n\nAlasan: Bertarung dengan <hint=hint_enemy>musuh</hint> ({name}).\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\n{name} begitu baik mengakui kebajikanku...\n\nAlasan: <hint=hint_speech_flattery>SanJungan</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSekarang aku tahu lebih baik apa yang harus dilakukan dan kapan waktu terbaiknya!\n\nAlasan: Dipaksa melakukan <hint=hint_action>tugas</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nIni perlu dilakukan... \n\nAlasan: Tugas <hint=hint_action_task_seduce>merayu</hint>.\n[hint_mind_remain_time]",
+  "[hint_mind_caption]\nSial, keberuntungan tidak berpihak padaku! Baiklah, aku akan menebusnya!\n[hint_mind_remain_time]"
 ]

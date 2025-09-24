@@ -1,12 +1,7 @@
 [
-  "~\r\nAre courage and pride not considered the paramount virtues of a lord? Yet what do I see before me? A timorous neighbor, incapable of defending his own rights. Better you retreat to a monastery and spare your province the disgrace!",
-  "~\r\nSuch bravery I have yet to encounter: even my peasants rise up in rebellion. And here, the king himself is afraid to respond to my challenge. One cannot deny your cowardice.",
-  "~\r\nYou must admit that I am a worthy adversary. Not everyone would have the courage to go against the will of a suzerain. Perhaps we should put our disagreements aside and attempt to mend our relations?",
-  "~\r\nA noble ruler is one who can recognize the bravery in others. Have I not won my freedom in fair combat? The prosperity of our kingdoms should be built upon good relations with our neighbors. Why should we not choose such a path?",
-  "~\r\nYou have triumphed, and against my will, I remain your vassal. But I swear by the Holy Sophia, my fight for freedom has only just begun! And I will strike when you least expect it!",
-  "~\r\nBattling someone weaker than yourself is something any fool can do! Perhaps I have suffered losses now, but the day will come when Holy Sophia will aid me in claiming victory. And believe me, that day will arrive soon, I promise you!",
-  "~\r\n$ Relationship with {soul_uuid_king}: <red>{break_vassal_agreement_rel_de}</red>",
-  "~\r\n$ If your suzerain is strong enough, a seige will fall upon your city. If the assault razes your Hall, your bondage will continue.\r\n$ However, if you successfully defend your freedom, you will have secured your independence.\r\n$ The suzerain may choose to grant you freedom without a fight if you are sufficiently strong.",
-  "~\r\nSuccess depends on the {skill_name_1} and {skill_name_2} skills of the actor.\r\n\r\n{soul_uuid_performer} :\r\n{skill_name_1} {skill_level_1} lvl.\r\n{skill_name_2} {skill_level_2} lvl.\r\n\r\n$ Chances of success: {chances}%\r\n{optional_puppets_bonus}\r\n\r\n<b>Cost:</b> <hint=hint_resource_gold>{price}</hint>",
-  "Lord's assassination\r\nHiring local cutthroats to assassinate a chosen lord.\r\n\r\n$ If successful, the lord will be killed.\r\n\r\nIn case of failure:\r\n$ Relationship with {soul_uuid_king}: <red>{rel_de_assassinate}</red>\r\n$ Relationship with the Matriarch: <red>{rel_de_neigh_assassinate}</red>\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]"
+  "Kejahatan\nKarakter telah melakukan <hint=hint_crime>kejahatan</hint> berikut:\n{list}\n\nBukti akan hilang dalam: {time}",
+  "Upaya Keracunan\nKarakter mencoba meracuni orang lain, tetapi gagal.\n\nKorban: {soul_uuid_victim}",
+  "Upaya Pencurian Rumah\nKarakter mencoba menyusup ke rumah seseorang untuk mencuri barang berharga.\n\nKorban: {soul_uuid_victim}",
+  "Serangan terhadap Lord\nKarakter menyerang salah satu anggota keluarga bangsawan Anda.\n\nKorban: {soul_uuid_victim}",
+  "Pembunuhan dalam Keributan\nKarakter kehilangan kendali dalam panasnya situasi.\n\nKorban: {soul_uuid_victim}"
 ]

@@ -1,12 +1,7 @@
 [
-  "New Debt of Honor\r\n{soul_uuid_king} from {faction_uuid} is now <hint=hint_debt_of_honor>indebted</hint> to your ruler.",
-  "Debt of Honor Fulfilled\r\n{soul_uuid_king} from {faction_uuid} has fulfilled their <hint=hint_debt_of_honor>debt of honor</hint> to your ruler.",
-  "Debt of Honor No Longer Applies\r\nYou have a new ruler, so {soul_uuid_king} from {faction_uuid} believes their <hint=hint_debt_of_honor>debt of honor</hint> is no longer valid.",
-  "Debt of Honor Reset\r\nIn the province of {faction_uuid}, there is now a new ruler, {soul_uuid_king}, who believes the <hint=hint_debt_of_honor>debt of honor</hint> of their predecessor does not apply to them.",
-  "Diplomat\r\nThe cost of signing a peace treaty with a neighbor is reduced by {number} times.",
-  "[hint_advisor_caption]\r\nBy punishing the innocent, you have started <hint=hint_terror_peasants>terror</hint>, causing peasants to fear coming to your city, and <hint=hint_migration>migration</hint> is now reduced.\r\n\r\nTime until the effect ends: {hour}",
-  "Economic Summary\r\n<center>For the current day</center>\r\n\r\n$ Gold balance: <hint=hint_resource_gold>{gold_change}</hint>\r\n$ Paid <hint=hint_salary>wages</hint>: <hint=hint_resource_gold>{salary}</hint>\r\n$ <hint=hint_re_prod>Resources produced</hint>: <hint=hint_resource_gold>{prod_sum}</hint>\r\n$ <hint=hint_re_saled>Goods sold</hint> in local markets: <hint=hint_resource_gold>{sale_sum}</hint>\r\n$ <hint=hint_re_built>Resources invested</hint> in the economy: <hint=hint_resource_gold>{build_sum}</hint>\r\n{optional_caravan_purchases}\r\n{optional_buildings_problems}\r\n{optional_resources_spoilage}\r\n\r\n$ Press <b>RMB</b> to close the notification.",
-  "World Summary\r\n{optional_events}\r\n{optional_neighbore_events}\r\n$ Press <b>RMB</b> to close the notification.",
-  "Daily statistics\r\n<center>For the current day</center>\r\n\r\n{optional_peasants}\r\n{optional_slaves}\r\n{optional_warriors}\r\n\r\n$ Press <b>RMB</b> to close the notification.",
-  "Blissful\r\n$ Everyone loves this character, and they only choose positive forms of <hint=hint_conversation>deep conversations.</hint>\r\n$ Talking to them removes <hint=hint_sin>sins from others.\r\n\r\n<b>Reason:</b> Survived a <hint=hint_tantrum>mental breakdown"
+  "[hint_mind_caption]\nAku yakin masa depan besar menanti rumah bangsawan kita! \n\nAlasan: Pendirian kota baru.",
+  "[hint_mind_caption]\nPenguasa kami dikutuk! Matriark membencinya!\n\nAlasan: karakter tersebut gelisah karena <hint=hint_relations_matriarch>Matriark</hint> bermusuhan terhadap raja.",
+  "[hint_mind_caption]\nAku siap mati demi rajaku! \n\nAlasan: <hint=hint_loyalist>Loyalis</hint>",
+  "[hint_mind_caption]\nRaja kami bertindak seperti <hint=hint_culture_gwelts>jawa</hint> sejati yang pemberani! Aku suka!\n\nAlasan: Nilai karakter (jawa) selaras dengan kebijakan agresif raja.",
+  "[hint_mind_caption]\nRaja kami menghargai perdamaian seperti <hint=hint_culture_voruns>sunda</hint> sejati... Semoga Sophia melindunginya!\n\nAlasan: Nilai karakter (sunda) selaras dengan kebijakan damai raja."
 ]

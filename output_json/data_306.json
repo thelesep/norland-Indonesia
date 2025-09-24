@@ -1,0 +1,7 @@
+[
+  "~\r\nMerendahkan tetangga membawa sedikit manfaat, dan kamu mungkin belum menyadarinya sekarang. Tapi ingatanku tak pernah menghapus hinaan, dan membalas dendam pada orang sepertimu membawa kesenangan murni bagiku.",
+  "~\r\nApakah kamu pikir kamu bisa mengintimidasi aku? Naik tahtaku bukan kebetulan, tidak seperti milikmu. Ayo, coba ambil emasku!",
+  "~\r\nDalam mimpimu, kamu mendengar dering koin - bangun! Satu-satunya yang akan kamu lihat di dunia nyata adalah pedangku, hai pengecut!",
+  "Ancaman perampokan\r\nTantang musuh dan klaim hak atas seluruh perbendaharaan mereka. Jika mereka menolak membayar dalam dua hari, kamu berhak merampok kota dan merebut perbendaharaan dengan paksa.\r\n\r\nKarena kamu berada dalam hubungan <hint=hint_faction_relations_enemy>permusuhan</hint> dengan raja pemukiman ini, serangan seperti itu akan dilihat dengan tenang oleh para tetangga.\r\n\r\n$ Perampokan mungkin: <hint=hint_resource_gold>{town_money}</hint>\r\n$ Hubungan dengan {soul_uuid_king}: <red>{assault_fair_rel_de}</red>\r\n{optional_attack_on_vassal_or_ally}\r\n{optional_possible_helpers_against_player}\r\n{optional_holy_defence_will_removed}\r\n\r\n[hint_SENDER]",
+  "~\r\n$ {soul_uuid_king} tersinggung tapi mengirim <hint=hint_resource_gold>{tribute_money}</hint>.\r\n{optional_attack_on_vassal_or_ally}"
+]

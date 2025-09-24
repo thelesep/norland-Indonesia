@@ -1,12 +1,7 @@
 [
-  "Unavailable\r\nA character with the Cynic trait cannot be consoled.",
-  "Unavailable\r\nThis character does not currently require comforting.",
-  "Unavailable\r\nThis character has already received comfort.",
-  "Unavailable\r\nThe bishop does not have a good enough relationship with this character and will not perform this action.",
-  "Unavailable\r\n{soul_uuid_1} does not have a good enough relationship with {soul_uuid_2}. Currently, the relationship between them is {current_opinion} , and at least {required_opinion} is needed.",
-  "Unavailable\r\nNo available <hint=hint_title>titles</hint> for the lord.",
-  " ",
-  " ",
-  "Coercion into sex\r\n$ The coerced character may conceive a <hint=hint_persons_bastard>bastard child</hint>.\r\n$ The king of the noble family to which the captive belongs will consider it torture.\r\n$ This action is considered a <hint=hint_sin>sin</hint>.",
-  "Coercion into sex\r\n$ {soul_uuid_1} will have {number}% of their <hint=hint_need_sex>sexual needs</hint> fulfilled.\r\n$ {soul_uuid_1} will have a negative thought of \"Shame for sins\" <red>{number1}</red>.\r\n$ {soul_uuid_2} will have a negative thought of \"Used\" <red>{number2}</red>.\r\n$ {soul_uuid_3} will worsen their relationship with your king by <red>{number3}</red>."
+  "Menyewa\nSewa seorang free lord selama 10 hari.\n\nAnda akan dapat memberikan tugas yang sama seperti pada para lord Anda sendiri - inspeksi bangunan, pimpin regu tempur, dan lainnya.\n\nBiaya bergantung pada tingkat <hint=hint_skill_speech>Persuasi</hint> skill dari lord yang akan bernegosiasi dengan mereka.",
+  "Menyewa Seorang Lord\n{skill_name} tingkat {skill_level}\nTingkat {skill_name} dari lord yang tersedia: {free_lord_skill_level}\n\nTotal biaya untuk 10 hari: <hint=hint_resource_rune>{price}</hint> {price_change_percent}\n\n{optional_first_hire}\n\nPetunjuk: Lord akan menerima pembayaran mereka hanya setelah kontrak berakhir, dan hingga saat itu, akan disimpan oleh Pihak Gereja sebagai jaminan perilaku baik dari kedua pihak.",
+  "Godaan\nJika <hint=hint_interest>minat</hint> seorang lord terhadap pelaku adalah <green>tinggi</green> (di atas {interest_high}), mereka akan menghabiskan waktu bersama di tempat tidur.\n\n<b>Hasilnya:</b>\n$ Target akan <green>secara besar meningkatkan opini</green> mereka terhadap Penguasa Anda (terima kasih kepada penggoda),\n$ Jika opini mereka terhadap Penguasa Anda melebihi {puppet_treshold}, mereka akan menjadi <hint=hint_encyclopedia_puppets>puppet</hint>.\n$ Jika target adalah penguasa kota lain dan opini mereka melebihi {puppet_treshold_duty_of_honor}, mereka akan mendapatkan <hint=hint_debt_of_honor>hutang kehormatan</hint> terhadap Penguasa Anda.\n\n<b>Biaya:</b> Penggoda akan menerima pikiran negatif, dan target akan kehilangan minat terhadap mereka setelah godaan.",
+  "Godaan\n{skill_name} tingkat {skill_level}\n\n<b>Hasilnya</b>\n$ Hubungan dengan Penguasa Anda ({soul_uuid_king}): <green>{rel_plus}</green>\n{optional_negtive_mind_to_performer}\n{optional_will_become_puppet}\n{optional_will_duty_of_honor}\n{optional_cant_be_puppet}",
+  "Godaan\n$ Jika <hint=hint_interest>minat</hint> lord terhadap aktor adalah <green>tinggi</green> (di atas {interest_high}), mereka akan menghabiskan waktu di tempat tidur.\n$ Hasilnya, target <green>akan meningkatkan hubungan</green> mereka dengan Penguasa Anda, berpotensi menjadikan mereka <hint=hint_encyclopedia_puppets>puppet</hint> Anda."
 ]

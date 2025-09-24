@@ -1,0 +1,7 @@
+[
+  "Pembelian Holy Rings yang Dicuri\r\n\r\n<b>Konsekuensi</b>\r\n$ Anda akan menerima <hint=hint_resource_rune>{rings_count}</hint> untuk <hint=hint_resource_gold>{gold}</hint>.\r\n$ Begal akan dapat merekrut lebih banyak prajurit dengan emas Anda.\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}\r\n\r\n[hint_SENDER]",
+  "~\r\nAnda telah membeli <hint=hint_resource_rune>{rings_count}</hint> untuk <hint=hint_resource_gold>{gold}</hint>.\r\n\r\n<b>Konsekuensi</b>\r\n$ Begal akan dapat merekrut lebih banyak prajurit dengan emas Anda.\r\n{optional_relation_aftermath}\r\n{optional_secret_deals}",
+  "~\r\nApakah Anda pikir Holy Rings curian bisa membawa kemakmuran bagi Anda? Mungkin saat ini Anda menikmati keuntungan curian Anda, tapi saya tidak berniat memaafkan tindakan seperti itu. Pastikan, saya akan merebut kembali apa yang sah milik saya.\r\n~",
+  "~\r\nMembeli barang curian adalah tindakan tidak terhormat. Anda mungkin bangga mendapatkan apa yang tidak sah milik Anda dengan begitu mudah, tapi saya bukan penakut, dan Anda tahu itu dengan baik. Saya tidak berniat membiarkan ini tanpa hukuman.",
+  "[hint_DESCRIPTION]\r\nHoly Caravan tidak akan mengambil risiko mengunjungi pemukiman Anda sampai ancaman itu dihilangkan. Selain itu, perjalanan para lord individu telah menjadi terlalu berbahaya. Semua tentara yang masuk dan keluar kota Anda akan dipaksa bertempur melawan kawanan."
+]

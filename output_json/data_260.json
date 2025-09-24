@@ -1,12 +1,7 @@
 [
-  "Auto-assign\r\nWhen constructing a new building, its manager will automatically be appointed a clerk from this Chancellery.",
-  "Building constructed  \r\nThe building {building_name} has been constructed.  \r\n\r\nA clerk from the <hint=hint_bld_chancellery>Chancellery</hint> has been assigned to it (you can change the auto-assignment in the Chancellery menu).",
-  "The building has been built\r\nThe building {building_name} has been built. \r\n\r\nDon't forget to assign an inspector!",
-  "Education Suspended\r\n{soul_uuid_teacher} has suspended the education of {soul_uuid_target} due to poor relations with {soul_uuid_king}.\r\n\r\nImprove your ruler’s relations with the Bishop to request that he resume the education.",
-  "No ragged ones\r\nRagged ones are bands of weak but numerous enemies that occasionally attack your city without warning, forcing you to consider risks, maintain a garrison, and build defensive structures.\r\n\r\nSelect this modifier if you want to disable such attacks. You'll get a more controlled but less thrilling gameplay experience.",
-  "Inheritance Transfer\r\n{soul_uuid_dead} is no longer with us, and their closest relative, {soul_uuid_heir}, inherits their property.\r\n\r\nInheritance amount: <hint=hint_resource_rune>{amount}</hint>",
-  "Warrior Training\r\n{skill_name}: {skill_level}\r\nFor each hit received during training, the warrior will gain {exp_boost} experience points in the <hint=hint_skill_combat>Combat</hint> skill.  \r\n\r\n{skill_name_limiter}: {skill_level_limiter}\r\nThe maximum Combat skill level that warriors can achieve: {skill_level_limiter}.",
-  "Training is not available  \r\nMany warriors can no longer gain experience from training because they have reached the <hint=hint_skill_combat>Combat</hint> skill level of the inspector.",
-  "Unavailable\r\nYou have already sent help to the opposite side of the conflict.",
-  "Fertilize automatically\r\nWhen the field is depleted, builders will take wood from the warehouse and fertilize it automatically."
+  "[hint_mind_caption]\nIni bukan kota, melainkan daerah pedalaman yang terpencil. Aku malu mengatakan di mana aku tinggal.\n\nAlasan: nilai-nilai dari <hint=hint_culture_makha>Dayak</hint>",
+  "[hint_mind_caption]\nKita begitu sedikit. Apakah raja tidak mengerti ke mana ini membawa?\n\nAlasan: Nilai-nilai dari <hint=hint_culture_voruns>Sunda</hint>.",
+  "[hint_mind_caption]\nBagaimana seseorang bisa tidur dengan tenang ketika mereka berkuasa?\n\nAlasan: Penguasa berasal dari budaya yang berbeda.",
+  "[hint_mind_caption]\nDemi kebebasan!!!",
+  "[hint_mind_caption]\nMereka ada di mana-mana! Kau tak bisa mempercayai mereka, dan ini akan berakhir buruk!\n\nAlasan: Xenofobia budaya."
 ]

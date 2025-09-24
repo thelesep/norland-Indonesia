@@ -1,0 +1,7 @@
+[
+  "Lord pelarian\nTetua desa melaporkan bahwa mereka memiliki seorang lord, {soul_uuid}, dari provinsi {faction_uuid}, yang ingin bergabung dengan keluarga Anda dan dengan rendah hati meminta sebuah gelar.\n\nMereka tidak ingin menjelaskan mengapa mereka meninggalkan {faction_uuid}, tetapi jelas ada konflik, sehingga {soul_uuid_king} tidak akan senang jika Anda menerima mereka.\n\nLord tersebut akan tinggal di desa Anda selama beberapa hari sebelum pergi.\n\n<b>Konsekuensi</b>\n$ {soul_uuid} akan bergabung dengan keluarga Anda dan menerima sebuah gelar.\n$ {soul_uuid_king}: Hubungan <red>{der}</red>",
+  "Ajak lord tersebut\nUndang lord pelarian ke dalam keluarga bangsawan Anda\n\n<b>Konsekuensi</b>\n$ {soul_uuid} akan bergabung dengan keluarga Anda dan menerima sebuah gelar.\n$ {soul_uuid_king}: Hubungan <red>{der}</red>",
+  "~\n$ {soul_uuid} senang bergabung dengan keluarga Anda. Ia berjanji akan setia.\n$ {soul_uuid_king}: Hubungan <red>{der}</red>",
+  "~\n{soul_uuid} meninggalkan tanah Anda tanpa menunggu undangan. Kemungkinan besar, mereka akan menjadi free lord.",
+  "~\nPengkhianat ini pantas diasingkan, tetapi alih-alih mengembara dan hidup dalam kemiskinan, Anda memberinya gelar. Jadi, apakah persahabatan antara kerajaan kita begitu tidak berarti bagi Anda seperti daging busuk? Yah, itu pilihan Anda."
+]

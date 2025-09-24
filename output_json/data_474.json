@@ -1,0 +1,7 @@
+[
+  "Pembebasan Narapidana\r\nDia akan meninggalkan wilayahmu, tapi berjanji untuk membalas budi segera.",
+  "Pedagang Nektar\r\nPedagang pengembara menawarkan untuk menjualmu <hint=hint_resource_nectar>Nektar</hint> dengan harga yang sangat menguntungkan.\r\n\r\nTapi hati-hati—harga mungkin naik jika kamu mulai berdagang dengannya secara rutin.",
+  "Bermain\r\nHewan peliharaanmu akan gembira mendapat perhatian dan selalu siap untuk permainan menyenangkan yang bisa mengangkat semangatmu.\r\n\r\n$ Pikiran Positif dari Bermain dengan Hewan Peliharaan: <green>+{inc}</green>",
+  "Upaya diplomatik telah memulihkan hubunganmu dengan penguasa {soul_uuid_king}.\r\n\r\n$ Sekarang hubungan {soul_uuid_king} terhadapmu: {current_relations}",
+  "~\r\nIzinkan saya meyakinkan Anda bahwa perbedaan kami telah diselesaikan, dan saya berniat untuk mempertahankan sikap damai terhadap Anda. Namun, ini tidak berarti kami sekarang adalah sahabat karib."
+]

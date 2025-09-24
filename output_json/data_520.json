@@ -1,0 +1,7 @@
+[
+  "Transfer Warisan\r\n{soul_uuid_dead} tidak lagi bersama kita, dan kerabat terdekat mereka, {soul_uuid_heir}, mewarisi properti mereka.\r\n\r\nJumlah warisan: <hint=hint_resource_rune>{amount}</hint>",
+  "Pelatihan Prajurit\r\n{skill_name}: {skill_level}\r\nUntuk setiap pukulan yang diterima selama pelatihan, prajurit akan mendapatkan {exp_boost} poin pengalaman dalam skill <hint=hint_skill_combat>Tempur</hint>.  \r\n\r\n{skill_name_limiter}: {skill_level_limiter}\r\nTingkat skill Tempur maksimum yang dapat dicapai oleh prajurit: {skill_level_limiter}.",
+  "Pelatihan tidak tersedia  \r\nBanyak prajurit tidak lagi bisa mendapatkan pengalaman dari pelatihan karena mereka telah mencapai tingkat skill <hint=hint_skill_combat>Tempur</hint> dari inspektur.",
+  "Tidak Tersedia\r\nAnda sudah mengirim bantuan ke pihak lawan dalam konflik tersebut.",
+  "Pupuk secara otomatis\r\nKetika ladang kehabisan kesuburan, tukang bangunan akan mengambil kayu dari gudang dan memupuknya secara otomatis."
+]

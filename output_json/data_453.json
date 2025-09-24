@@ -1,0 +1,7 @@
+[
+  "~\r\n$ Keinginan ini adalah sebuah <hint=hint_desire_obsession>obsesi</hint>.",
+  "Tidak Tersedia\r\nAmbisi ini sudah terpenuhi",
+  "Kerabat telah memburukkan hubungan\r\nAkibat peristiwa, di mana karakter {soul_uuid_suffered} menderita, kerabat dari kampung halamannya telah memburukkan sikap mereka terhadap Raja Anda, karena mereka percaya dia bertanggung jawab atas kesejahteraan semua rakyatnya.\r\n\r\nDaftar kerabat:\r\n{relatives_list}",
+  "Pengelola tidak sempat tiba tepat waktu\r\nPengelola yang ditugaskan ke Kancelari tidak mampu mencapainya tepat waktu untuk memberikan instruksi kepada para juru tulis. Kemungkinan besar, ia juga ditugaskan sebagai pengelola di bangunan lain, yang membuatnya kekurangan waktu.\r\n\r\nPeriksa bangunan mana saja yang ditugaskannya dan batalkan tugas-tugas tersebut, hanya tinggalkan Kancelari, karena itu memerlukan pekerjaan seharian penuh.\r\n\r\n<b>Hint:</b> Menugaskan juru tulis alih-alih memiliki pengelola lord yang secara pribadi mengunjunginya tidak akan memengaruhi efisiensi bangunan",
+  "Tidak Dapat Dipindahkan\r\nAnda tidak dapat memindahkan bangunan saat unit musuh berada di kota"
+]

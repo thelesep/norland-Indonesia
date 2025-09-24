@@ -1,12 +1,7 @@
 [
-  "Sudden Attack!\r\nThe {soul_uuid_king} of {faction_uuid} has suddenly decided to attack your city to conquer it and <b>make you a vassal</b>. His army is already on the march.\r\n\r\nBecause of the suddenness of the attack, your allies will not have time to come to your aid, but {soul_uuid_king} himself has to rely only on his own forces.",
-  "Guards\r\nGuards go on duty at around 23:00 when criminals become active and serve until 04:00.\r\n\r\nGuards are assigned from the pool of available warriors (the second number) who are not engaged in patrols or guarding other lords.",
-  "Combat Level\r\nSet the minimum Combat level required for hired guards, but make sure you have warriors with that level available.",
-  "Log Tower  \r\nA <hint=hint_watch_tower_archers>defensive tower</hint> where <hint=hint_persons_warriors>warriors</hint> can be assigned. Archers in the tower shoot farther and more accurately than usual.  \r\n\r\n$ Equipping warriors in the tower requires ranged weapons.  \r\n$ The Log Tower is sturdier than the <hint=hint_bld_watch_tower>Archer Tower</hint>.  \r\n$ This tower holds {arch_number} archers.",
-  "Palisade\r\nThe simplest wooden city walls. Surround important structures with them to protect them. Don't forget to add gates and towers.",
-  "Gate\r\nBuilt into city walls (such as the palisade). Opens and closes automatically.",
-  " ",
-  " ",
-  " ",
-  "Criminal  \r\nA character who was caught and <hint=hint_persons_slave>captured</hint> by the <hint=hint_persons_guard>patrol guards</hint> at the time of committing a crime.\r\n\r\nThey may be subjected to a fair punishment on the <hint=hint_bld_scafod>Scaffold</hint> for the amusement of the honest citizens of the city, or continue to exist as a prisoner."
+  "[hint_mind_caption]\nUskup telah memaafkan dosa-dosaku, dan aku sekali lagi suci di hadapan dewi!\n\nTerima kasih, Holy Sophia!",
+  "[hint_mind_caption]\nMasuk pertempuran tanpa senjata adalah kegilaan!",
+  "[hint_mind_caption]\nAku merasa sangat malu atas dosa-dosaku di hadapan Ibu Sophia!\n\n<b>Hint:</b> Beritahui dosamu kepada <hint=hint_bishop>uskup</hint> untuk mendapatkan pengampunan dosamu.",
+  "[hint_mind_caption]\nAku sama sekali tidak punya apa-apa untuk dipakai di jari-jariku! Aku bisa merasakan tatapan merendahkan itu!\n\nAlasan: Kurangnya Holy Rings.\n\n<b>Hint:</b> Minta raja memberikan mereka beberapa cincin.",
+  "[hint_mind_caption]\nAda sesuatu untuk dirayakan di tempat ini!"
 ]

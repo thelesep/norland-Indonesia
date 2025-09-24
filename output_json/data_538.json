@@ -1,0 +1,7 @@
+[
+  "Keinginan untuk Emas\r\nKarakter merasa miskin dan bermimpi menerima setidaknya <hint=hint_resource_gold>{count}</hint>.  \r\n\r\n[hint_MORAL_DEBUFF]  \r\n\r\nCobalah memberi hadiah kepada mereka, atau, misalnya, kirim mereka ke kota tetangga untuk bermain dadu.  \r\n\r\n[hint_its_a_obsession]",
+  "Suap Pewaris\r\n{skill_name} {skill_level} lvl.\r\n{skill_name} dari target {lord_skill_level} lvl.\r\n\r\n<b>Hasilnya:</b>\r\n$ <hint=hint_loyalty>Kesetiaan</hint> pewaris kepada rajanya akan turun menjadi <red>{heir_rebellion_target_loyalty}</red>.\r\n$ {soul_uuid_heir} akan memulai pemberontakan, tetapi hanya {heir_rebellion_soldiers_percent}% dari para prajurit yang akan bergabung dengan para pemberontak, dan Anda perlu mendukung mereka dengan pasukan Anda sendiri.\r\n\r\n<b>Biaya:</b> <hint=hint_resource_gold>{heir_bribe_cost}</hint>",
+  "Emas Tidak Cukup\r\nMemerlukan <hint=hint_resource_gold>{count}</hint>.",
+  "Tugas Sudah Dibuat  \r\nTugas untuk memproduksi sumber daya ini sudah dibuat.",
+  "Ambil Emas\r\nPenguasa Anda akan mengambil <hint=hint_resource_gold>{count}</hint> dari perbendaharaan ke kantong pribadinya.\r\n\r\n<b>Hasilnya:</b>\r\n$ Mereka akan mendapatkan pikiran positif <green>{mind}</green>."
+]

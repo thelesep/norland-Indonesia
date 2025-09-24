@@ -1,12 +1,7 @@
 [
-  "~\r\n{soul_uuid_king} was defeated and became a vassal of {faction_uuid_s}.",
-  "~\r\nI sincerely thank you for your support: it is solely due to your intervention that I was able to preserve my freedom and avoid the humiliating status of a vassal. The battle was fierce, and I surely would not have been able to handle paying such an exorbitant tribute to that villain.",
-  "~\r\nYou have freed me from paying such an unimaginable tribute; may Holy Sophia reward you for this! I realize that your army has suffered significant losses, but rest assured, I will not leave this debt unpaid!",
-  "~\r\nI see you are in dire need of sworn enemies! Did you truly believe that you could shield this wretch from my vassal authority? Your failure will serve as a stark reminder to others that standing against me is the epitome of foolishness!",
-  "~\r\nYou have exhibited not merely folly, but also paraded your cowardice on the battlefield for all our neighbors to see. To subjugate any I choose is my sovereign right, and this you would do well to remember.",
-  "Threat of annihilation\r\n{optional_type_of_danger}\r\n\r\nTherefore, King of {faction_uuid}, {soul_uuid_king}, is seeking help from all neighbors who are willing to stand by their side.\r\n\r\nYou can send your army to help defend {faction_uuid} from complete destruction.\r\n\r\n<b>Consequences</b>\r\n{optional_send_help_effects}\r\n{optional_allyship}\r\n{optional_will_gain_duty_of_honor}\r\n{optional_possible_helpers}",
-  "~\r\n{soul_uuid_king} emerged victorious and defended their life and province.",
-  "~\r\n{soul_uuid_king} was defeated, and their family was destroyed, and the city was razed",
-  "~\r\nIt is a rare deed in these times for one to aid a neighbor whose kingdom lies in peril! I thank you for saving my home from certain doom!",
-  "~\r\nYou not only aligned with my foe but also revealed to the world your cowardice as a warrior! Your defeat today is merely the prelude. I shall make it my endeavor to leave you without a single warrior to call your own."
+  "Tidak Tersedia\r\nSaat ini, lord tidak dapat melakukan tindakan ini.\r\n\r\nMungkin lord sedang jatuh cinta dalam-dalam dengan seseorang, kekurangan <hint=hint_resource_rune>Holy Rings</hint> yang cukup, atau sudah memiliki rencana kencan.",
+  "Kekuatan Tentara\r\nMetrik agregat yang memberikan penilaian perkiraan kekuatan tentara. Komposisi tepat prajurit Anda dapat dilihat di tab ketiga kota (Tentara).\r\n\r\n$ Angka pertama menunjukkan total biaya semua senjata dan zirah prajurit.\r\n$ Yang kedua menunjukkan jumlah prajurit di provinsi.\r\n$ Yang ketiga menunjukkan tingkat tempur rata-rata prajurit Anda.",
+  "Ekspansi Batas\r\nBuat sebuah Negara dengan mengklik tombol di perbatasan provinsi dan kemudian tentukan tipenya.",
+  "Raja Ambisius\r\nSeorang penguasa yang kuat, berbakat, dan agresif yang bertujuan menaklukkan Norland.\r\n\r\nMenimbulkan bahaya signifikan, jadi sebaiknya jangan letakkan penguasa ini di dekat provinsi awal.",
+  "Provinsi Independen\r\nSebuah provinsi yang bukan bagian dari negara lain."
 ]

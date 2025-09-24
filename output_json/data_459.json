@@ -1,0 +1,7 @@
+[
+  "Menara Pemanah\r\nSebuah <hint=hint_watch_tower_archers>menara pertahanan</hint> di mana Anda dapat menugaskan <hint=hint_persons_warriors>prajurit</hint>. Pemanah di menara menembak lebih jauh dan lebih akurat daripada biasanya.\r\n\r\n$ Senjata jarak jauh diperlukan untuk membekali prajurit di menara.\r\n$ Menara ini menampung {arch_number} pemanah.",
+  "Panggil Pemanah\r\nPanggil prajurit ke menara ini.\r\n\r\nAnda perlu menunggu sebentar sementara mereka mengumpulkan senjata yang ditugaskan dan mencapai menara.",
+  "Bubarkan Pemanah\r\nPrajurit akan meninggalkan menara dan mengembalikan senjata mereka ke gudang",
+  "Target Pemanah\r\nSaat dicentang, pemanah di menara akan memprioritaskan penargetan pemanah musuh.",
+  "Pemanggilan Otomatis\r\nSaat dicentang, jika musuh muncul di peta provinsi, prajurit akan secara otomatis mengumpulkan senjata dari gudang dan menduduki menara."
+]

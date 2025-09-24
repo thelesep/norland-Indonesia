@@ -1,12 +1,7 @@
 [
-  "Lord is still a child\r\nUntil the lord reaches {adulthood_age} years old, they cannot be sent away.",
-  "Lord is still a child\r\nUntil the lord reaches {adulthood_age} years old, they cannot be influenced.",
-  "Not suitable for the task\r\n<b>Free lords</b> cannot be given this task.",
-  "Low skills\r\nThe lord does not possess sufficient skills for this task.",
-  "Lord in captivity\r\nThe lord is in captivity, so they cannot be assigned to tasks.",
-  "Lord missing without a trace\r\nThe lord is missing without a trace - we need to wait for several days until they return.",
-  "Lord unable to walk\r\nThe lord cannot walk and therefore cannot leave the city.",
-  "Lord is still a child\r\nLords under {adulthood_age} years old cannot be invited as a guest.",
-  "The lord is a commander\r\nThe commanding lord has an order to stay in the city and cannot leave.",
-  "Risk of heir uprising\r\nAs long as there is a risk of the heir uprising, the king cannot leave the city."
+  "Karakter sedang gila\nKarakter berada dalam keadaan kegilaan dan tidak dapat melakukan tindakan ini.",
+  "Karakter sedang gila\nKarakter berada dalam keadaan kegilaan dan tidak dapat melakukan tindakan ini.",
+  "Kepikunan\nPrajurit saat ini tersesat dalam kegilaan.",
+  "Demensia Senil\nKarakter ini telah jatuh ke dalam demensia senil dan kehilangan akalnya.\n\nKondisi ini akan bertahan dengan mereka hingga mereka meninggal dunia.",
+  "Cadangan Habis\nPada kedalaman Tambang saat ini, semua cadangan Besi telah habis.\n\nTingkatkan Tambang untuk mengakses cadangan yang lebih dalam."
 ]

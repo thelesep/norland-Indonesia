@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
-  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
-  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
-  "[hint_mind_caption]\r\nThey are everywhere! You can't trust them, and this will end badly!\r\n\r\nReason: Cultural xenophobia.",
-  "[hint_mind_caption]\r\nUnfulfilled ambitions burn the soul... Am I truly so insignificant?",
-  "[hint_mind_caption]\r\nI am certain that a great future awaits our noble house! \r\n\r\nReason: Founding of a new city.",
-  "[hint_mind_caption]\r\nOur ruler is cursed! The Matriarch hates him!\r\n\r\nReason: the character is distressed because the <hint=hint_relations_matriarch>Matriarch</hint> is hostile toward the king.",
-  "[hint_mind_caption]\r\nI'm ready to die for my king!\r\n\r\nReason: <hint=hint_loyalist>Loyalist</hint>",
-  "[hint_mind_caption]\r\nOur king acts like a true brave <hint=hint_culture_gwelts>Kaiden</hint>! I like it!\r\n\r\nReason: The character's values (Kaiden) align with the king's aggressive policies.",
-  "[hint_mind_caption]\r\nOur king values peace like a true <hint=hint_culture_voruns>Varn</hint>... May Sophia protect him!\r\n\r\nReason: The character's values (Varn) align with the king's peaceful policies."
+  "Hubungan buruk dengan Matriark\r\nAkibat tindakan terbaru Anda, <hint=hint_relations_matriarch>hubungan Anda dengan Matriark</hint> telah turun di bawah 0.\r\n\r\nPenurunan lebih lanjut akan menyebabkan embargo pada barang tertentu dari Holy Caravan, diikuti oleh embargo lengkap dan akhirnya sebuah <hint=hint_church_curse>Kutukan Gereja</hint>.\r\n\r\nUntuk memulihkan hubungan:\r\n$ Tingkatkan hubungan raja Anda dengan uskup (di atas <green>+25</green>, lebih baik di atas </green>+50</green>).\r\n$ Tingkatkan jumlah fanatik melalui khotbah di Kuil.\r\n$ Lakukan perbuatan benar di peta dunia (misalnya, menghancurkan kamp begal).",
+  "Sumber Daya Tidak Cukup\r\nUntuk memindahkan bangunan, <hint=hint_resource_wood>{wood_count}</hint> diperlukan.",
+  "Lord telah digoda\r\n{soul_uuid_1} telah digoda oleh seseorang dari kalangan tetangga Anda. <hint=hint_loyalty>Keloyalan</hint> mereka dalam bahaya, dan jika turun di bawah <red>{threshold}</red>, mereka mungkin pergi.\r\n\r\n<b>Petunjuk:</b> Untuk memulihkan keloyalan, raja dapat memberikan cincin kepada lord sebagai hadiah atau mengancamnya. Untuk melindungi diri dari intrik semacam itu secara menyeluruh, pertahankan suasana hati lord yang tinggi sehingga mereka menjadi seorang <hint=hint_loyalist>loyalis</hint>, yang tidak dapat disuap atau digoda.\r\n\r\nSeorang lord tidak dapat digoda jika mereka sedang jatuh cinta dengan orang lain.",
+  "Lord telah ditangkap\r\nSeorang lord telah ditangkap dan saat ini dalam kurungan.",
+  "Usia\r\nUsia ditetapkan secara otomatis dan bergantung pada tingkat skill yang diperoleh karakter saat muncul. Semakin berpengalaman karakter tersebut, semakin tua usianya."
 ]

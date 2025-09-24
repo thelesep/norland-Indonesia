@@ -1039,24 +1039,24 @@ tech.criminal_intimidation,Intimidasi pengembara
 tech.loyalist_more,Dasar-dasar Kesetiaan
 tech.preach_better,Khotbah Efektif
 tech.slaves_happiness,Kebahagiaan Narapidana
-tech.tanya_paper,Kertas Tanaya
+tech.tanya_paper,Kertas Madura
 tech.crevav_swede,Rutabaga yang Dipanggang
 tech.drought_fight,Melawan Kekeringan
 tech.longevity,Umur Panjang
 tech.addiction_resist,Cara Mengatasi Kecanduan
 tech.fanatic_pretend,Fanatisme Palsu
-tech.marah_ale,Ale Makha
+tech.marah_ale,Ale Dayak
 tech.right_nectar,Nektar yang Tepat
 tech.fertilize_cost_less,Pupuk dengan Benar
 tech.tree_more_wood,Pemotongan yang Benar
 tech.better_meat,Memasak Daging
 tech.flirt_art,Seni Menggoda
-tech.voruns_moonshine,Moonshine Varn
+tech.voruns_moonshine,Moonshine Sunda
 tech.dialect,Kamus Bahasa {dialect_name}
 tech.cutter,Pemenggal Kepala
 tech.axe_mastery,Keahlian Kapak
 tech.handfighter,Pertarungan Tangan Kosong
-tech.tanya_shield,Perisai Tanaya
+tech.tanya_shield,Perisai Madura
 tech.bow_mastery,Penguasaan Senar Busur
 tech.mace_stun,Pukulan Membuat Pingsan Gada
 tech.heavy_armor_wear,Memakai Zirah
@@ -1066,10 +1066,10 @@ tech.tome,Jilid {number}
 tech.common_good,Kebaikan Bersama
 tech.joy_of_education,Kebahagiaan Pencerahan
 dialect.common,Bahasa Kekaisaran
-dialect.tanaya,Tanaya
-dialect.voruns,Varn
-dialect.gwelts,Kaiden
-dialect.makha,Makha
+dialect.tanaya,Madura
+dialect.voruns,Sunda
+dialect.gwelts,Jawa
+dialect.makha,Dayak
 decor.signt_with_equipment,Tanda yang Dilengkapi
 decor.bonfire,Api Unggun
 decor.sign,Tanda
@@ -2624,20 +2624,20 @@ opinion_mind.help_against_facelesse,Membantu melawan Unholy Horde
 opinion_mind.tried_to_poison,Upaya keracunan
 opinion_mind.tried_to_poison_my_member,Mencoba meracuni lord saya
 opinion_mind.greedy,Lakum
-opinion_mind.king_role_weaker_than_me,Lebih lemah daripada saya (Kaiden)
-opinion_mind.king_role_stronger_than_me,Lebih kuat daripada saya (Kaiden)
-opinion_mind.king_role_poorer_than_me,Lebih miskin daripada saya (Makha)
-opinion_mind.king_role_reacher_than_me,Lebih kaya daripada saya (Makha)
-opinion_mind.king_role_agnostic,Agnostik (Tanaya)
-opinion_mind.king_role_fanatic,Fanatik (Tanaya)
-opinion_mind.king_role_bandit_torelate,Menerima bandit (Kaiden)
-opinion_mind.king_role_fight_with_bandit,Berkelahi dengan bandit (Kaiden)
-opinion_mind.king_role_many_slaves,Banyak Narapidana (Varns)
-opinion_mind.king_role_no_slaves,Tidak ada Narapidana (Varns)
-opinion_mind.king_role_vassal,Vasal (Varns)
-opinion_mind.king_role_suzerain,Suzerain (Varns)
-opinion_mind.king_role_dumber_than_me,Lebih bodoh daripada saya (Makha)
-opinion_mind.king_role_smarter_than_me,Lebih pintar dariku (Makha)
+opinion_mind.king_role_weaker_than_me,Lebih lemah daripada saya (Jawa)
+opinion_mind.king_role_stronger_than_me,Lebih kuat daripada saya (Jawa)
+opinion_mind.king_role_poorer_than_me,Lebih miskin daripada saya (Dayak)
+opinion_mind.king_role_reacher_than_me,Lebih kaya daripada saya (Dayak)
+opinion_mind.king_role_agnostic,Agnostik (Madura)
+opinion_mind.king_role_fanatic,Fanatik (Madura)
+opinion_mind.king_role_bandit_torelate,Menerima bandit (Jawa)
+opinion_mind.king_role_fight_with_bandit,Berkelahi dengan bandit (Jawa)
+opinion_mind.king_role_many_slaves,Banyak Narapidana (Sunda)
+opinion_mind.king_role_no_slaves,Tidak ada Narapidana (Sunda)
+opinion_mind.king_role_vassal,Vasal (Sunda)
+opinion_mind.king_role_suzerain,Suzerain (Sunda)
+opinion_mind.king_role_dumber_than_me,Lebih bodoh daripada saya (Dayak)
+opinion_mind.king_role_smarter_than_me,Lebih pintar dariku (Dayak)
 opinion_mind.women_king,Wanita di atas takhta
 opinion_mind.disinherited_me,Merampas warisanku
 opinion_mind.illigal_heir,Ahli waris yang tidak sah
@@ -2679,7 +2679,7 @@ opinion_mind.help_in_lords_family_attack_to_attacker,Membantu menangkis serangan
 opinion_mind.help_in_lords_family_destroy_to_victim,Membantu menyelamatkan kota dari kehancuran
 opinion_mind.help_in_lords_family_destroy_to_attacker,Membantu menyelamatkan kota dari kehancuran
 opinion_mind.help_in_mountais_bandits_attack,Membantu menghancurkan Begal
-opinion_mind.helped_tanaya_king,Membantu raja-raja Tanaya
+opinion_mind.helped_tanaya_king,Membantu raja-raja Madura
 opinion_mind.helped_makha_king,Membantu raja-raja Makkha
 opinion_mind.rival_for_power,Saingan untuk kekuasaan
 opinion_mind.crown_desire,Keinginan mahkota
@@ -3573,10 +3573,10 @@ global_map_new.g_label.26,Sungai Sirenis
 global_map_new.g_label.27,Bukit Lithe
 global_map_new.g_label.28,Danau Cermin
 global_map_new.g_label.29,Bukit Kaza
-global_map_new.g_label.30,Gurun Makha
+global_map_new.g_label.30,Gurun Dayak
 global_map_new.g_label.31,Celah Ferox
 global_map_new.g_label.32,Pegunungan Para Bidah
-global_map_new.g_label.33,Hutan Kaiden
+global_map_new.g_label.33,Hutan Jawa
 global_map_new.g_label.34,Padang Hijau Menari
 global_map_new.g_label.35,Danau Bupati
 global_map_new.g_label.36,Ladang Santo Michael

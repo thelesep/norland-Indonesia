@@ -1,0 +1,7 @@
+[
+  "Berikan gelar Imam\r\nSang Raja menyerahkan karakter tersebut kepada <hint=hint_sofia_cult>Pihak Gereja</hint>.\r\n\r\nPihak Gereja selalu senang setiap kali pengorbanan dilakukan atas nama Ibu Sophia, dan oleh karena itu ia akan abadi bersyukur:\r\n$ Hubungan dengan <hint=hint_relations_matriarch>Matriark</hint>: <green>{mat_rel}</green>\r\n$ Hadiah dari Matriark: <hint=hint_resource_gold>{amount}</hint>\r\n\r\nKarakter tersebut akan meninggalkan provinsi Anda selamanya.",
+  "Persenjatai Regu Anda\r\n\r\n<b>Para lord</b> dan <b>ksatria</b> memilih senjata mereka sendiri dari gudang Anda, sementara prajurit dapat dipersenjatai secara manual.\r\n\r\nPrajurit mengambil senjata dan zirah secara bergantian. Saat mengarahkan kursor ke senjata, prajurit berikutnya yang akan menerimanya akan disorot.\r\n\r\n1. Klik ikon kapak di menu untuk mempersenjatai semua prajurit.\r\n2. Selesaikan dengan mengklik Buat di bagian bawah menu.",
+  "Peralatan Komandan\r\nPara lord dan ksatria memilih peralatan mereka sendiri dari gudang Anda.",
+  "Pembelajaran Otomatis\r\nJika diaktifkan, setelah menyelesaikan studi satu pengetahuan, lord akan secara otomatis mulai belajar yang lain hingga semuanya dikuasai.\r\n\r\nUrutan belajar dari sederhana ke kompleks, dengan pengetahuan ekonomi diprioritaskan terlebih dahulu.",
+  "[hint_mind_caption]\r\nDan di rumah... Oh! Baiklah, tentu saja... Hmm... Baiklah, mengapa tidak?\r\n\r\n<b>Petunjuk:</b> Pikiran tersebut mencerminkan kesan karakter terhadap <hint=hint_building_comfort>kenyamanan</hint> perumahan mereka."
+]

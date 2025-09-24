@@ -1,12 +1,7 @@
 [
-  "Ragged Ones\r\nThese are the lowest and weakest of bandits—former vagabonds and peasants, exiled from cities for crimes. They dwell in forests near towns, hoping to launch quick raids on nearby homes.\r\n\r\nUsually, they pose no threat to lords, as all they can hope for is to kidnap a peasant for ransom or steal some food from an outlying house. Sometimes, however, they set buildings on fire to create a distraction.",
-  "Sermon of Joy\r\n{skill_name}: {skill_level}\r\n\r\n$ Each participant in the sermon receives <green>+{moral_add}</hint> to mood.\r\n$ The thought will last for a day (its strength will decrease linearly).",
-  "Unavailable\r\n{soul_uuid} must have at least <hint=hint_resource_rune>{runes}</hint>",
-  "Workplaces\r\nThe number in brackets under the peasant icon in the top left corner shows the workplace balance.\r\n\r\nIf it's positive, it represents the number of unemployed people in the city.\r\nIf it's negative, it represents the number of available jobs (i.e., how many workers are missing).",
-  "Ragged ones attack!\r\nDefend your city!",
-  "[hint_mind_caption]\r\nPatrolling in full gear is quite the experience...\r\n\r\nReason: Participated in a patrol.",
-  "[hint_mind_caption]\r\nThat was so impressively solemn! I'm at a loss for words!\r\n\r\nReason: Participated in a ceremonial event.",
-  "Character Mood\r\n\r\nAll the residents of your city have their own <b>thoughts</b>, which together determine their <b>mood</b>.\r\n\r\nThoughts can arise if a character has unmet needs for a long time, as reactions to events, as a result of conversations, and for many other reasons.\r\n\r\n$ Select a lord by clicking on their portrait to see their thoughts.\r\n",
-  "Character Mood\r\n\r\nIf a lord's <b>mood</b> drops due to <b>negative thoughts</b>, they will start speaking harshly, leading to conflicts. If the situation does not improve, over time, this may result in a nervous breakdown. \r\n\r\nA good mood, on the other hand, can inspire the lord, enhance their skills, and make them more friendly.\r\n",
-  "Character Mood\r\n\r\nThe most basic causes of negative thoughts are the lack of food and shelter, while the simplest way to improve their mood is alcohol. \r\n\r\nYou have a supply of food for now, but it is better to establish your own production.\r\n\r\nTo do this, let's learn how to construct and manage buildings, starting with builder management.\r\n"
+  "[hint_mind_caption]\nMasa depan saya dalam penahanan tidak menjanjikan apa pun yang baik...",
+  "[hint_mind_caption]\nBam-pa-ram-pam-pam!\nBam-bam!",
+  "[hint_mind_caption]\nSaya adalah pewaris yang sah! Saya!",
+  "[hint_mind_caption]\nDi lubuk hati, saya selalu tahu bahwa saya pantas mendapatkan ini!",
+  "[hint_mind_caption]\nHoly Sophia telah memberkati kota kita!"
 ]

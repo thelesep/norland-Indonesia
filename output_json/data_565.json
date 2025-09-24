@@ -1,0 +1,7 @@
+[
+  "Hadiah Perdamaian  \r\nLord yang dipilih memberikan <hint=hint_resource_gold>{count}</hint> atas nama kenalan bersama mereka.\r\n\r\nAkibatnya, hubungan {soul_uuid_target} terhadap kenalan tersebut <b>meningkat</b> sebesar jumlah yang bergantung pada skill <hint=hint_skill_speech>Persuasi</hint> pelaku.\r\n",
+  "Hadiah Perdamaian  \r\nPelaku {soul_uuid_performer}: {skill_name} level {skill_level}\r\n\r\n<b>Konsekuensi</b>  \r\n$ Hubungan {soul_uuid_target} terhadap {soul_uuid_about}: <green>{rel_de_praise_to_target}</green>  \r\n$ {soul_uuid_performer} memberikan {soul_uuid_target} <hint=hint_resource_gold>{count}</hint>\r\n\r\nHubungan saat ini {soul_uuid_target} terhadap {soul_uuid_about}: {rel_current}\r\n",
+  "Pemberontakan Militer Berhasil!  \r\n{soul_uuid_initiator} telah berhasil melakukan pemberontakan.  \r\n\r\n{soul_uuid_target} tidak lagi menjadi Penguasa, dan sekarang {soul_uuid_new_king} memakai mahkota!",
+  "Pemberontakan Militer Diberantas!  \r\nPemberontakan telah ditekan.  \r\n\r\n{soul_uuid_initiator} tidak lagi menjadi ancaman!",
+  "[hint_mind_caption]  \r\nMalam tadi luar biasa!  \r\n\r\nAlasan: tidur dengan karakter yang mereka miliki <green>positif</green> <hint=hint_interest>minat</hint>.\r\n"
+]

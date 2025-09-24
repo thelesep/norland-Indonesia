@@ -1,0 +1,7 @@
+[
+  "Fitnah\r\nPelaku {soul_uuid_performer}: {skill_name} {skill_level} tingkat.\r\n\r\n<b>Akibat</b>\r\n$ Hubungan {soul_uuid_target} dengan {soul_uuid_about}: <red>{rel_de_slander_to_target_king}</red>\r\n$ Hubungan {soul_uuid_target} dengan {soul_uuid_performer}: <red>{rel_de_slander}</red>\r\n\r\nHubungan saat ini {soul_uuid_target} dengan {soul_uuid_about}: {rel_current}",
+  "Pujian\r\nPelaku {soul_uuid_performer}: {skill_name} {skill_level} tingkat.\r\n\r\n<b>Akibat</b>\r\n$ Hubungan {soul_uuid_target} dengan {soul_uuid_about}: <green>{rel_de_praise_to_target_king}</green>\r\n\r\nHubungan saat ini {soul_uuid_target} dengan {soul_uuid_about}: {rel_current}",
+  "Tidak Tersedia\r\nAksi ini tidak akan tersedia selama {remain_time} jam lagi",
+  "Membangun Kembali\r\nBangun ulang bagian dinding ini",
+  "Tidak Tersedia\r\n{soul_uuid_1} saat ini tidak berada di kota yang sama dengan {soul_uuid_2}"
+]

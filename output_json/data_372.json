@@ -1,0 +1,7 @@
+[
+  "~ \r\nKamu berhasil mengumpulkan upeti. \r\n\r\n<b>Upeti terkumpul:</b> {loot}",
+  "[hint_DESCRIPTION] \r\nBeberapa orang malang dan lapar yang meninggalkan kotamu telah berubah menjadi Begal (hutan) karena tidak melihat pilihan lain untuk bertahan hidup. Mereka akan sesekali menyerang pemukimanmu hingga kamu mengatasinya. \r\n\r\n$ Jumlah bandit: {number_of_forest_bandits}\r\n$ Sandera: {hostages}\r\n$ Rampasan di kamp mereka: {possible_loot}",
+  "Serang\r\nTerlibat dalam pertempuran dengan regu Begal (hutan) sebanyak {number_of_forest_bandits} individu, terdiri dari petarung ringan.\r\n\r\nGereja Holy Sophia, diwakili oleh <hint=hint_relations_matriarch>Matriarch</hint>, akan berterima kasih ketika kamu menghancurkan kamp bandit.\r\n\r\n<b>Konsekuensi</b>\r\n$ Hubungan dengan Matriarch: <green>{b_improve}</green>\r\n$ Jika ada sandera di kamp, mereka akan dibebaskan jika menang.\r\n\r\n<b>Rampasan potensial:</b> {possible_loot}",
+  "~ \r\nRegumu mengalami kekalahan. \r\n\r\nHarapkan kotamu diserang oleh regu bandit sebanyak {part_of_number_forest_bandits} petarung dalam beberapa hari mendatang.",
+  "~\r\nKamp Begal (hutan) dihancurkan.\r\n\r\n$ Hubungan dengan <hint=hint_relations_matriarch>Matriarch</hint>: <green>{b_improve}</green>\r\n$ Rampasan: {loot}"
+]

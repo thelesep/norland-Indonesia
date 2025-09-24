@@ -1,0 +1,7 @@
+[
+  "Penyihir: Suap Uskup\r\nAnda meyakinkan Uskup untuk mengabaikan kedatangan penyihir di pemukiman Anda. Sebagai imbalannya, penyihir akan bersyukur kepada Anda.\r\n\r\n$ Biaya Suap: <hint=hint_resource_rune>{cost}</hint>",
+  "Tebus Narapidana\r\nSetelah tebusan, dia akan menjadi narapidana Anda dan akan merahasiakan asal-usulnya hingga Anda membebaskannya.\r\n\r\n$ Biaya Tebusan: <hint=hint_resource_rune>{gold}</hint>",
+  "Beli Anjing\r\nLord yang membeli anjing akan mendapatkan pendamping setia yang akan bersamanya seumur hidup.\r\n\r\n$ Harga: <hint=hint_resource_rune>{cost}</hint>",
+  "Izinkan Misa Merah\r\nBerikan 3 narapidana kepada para arkon sehingga mereka dapat melakukan Misa Merah di provinsi Anda, menghormati <hint=hint_dead_god_herecy>Dead God</hint>.\r\n\r\n$ Uskup akan melaporkan ini kepada Matriark, dan hubungannya dengan raja Anda akan menurun sebesar: <red>{rel_dec}</red>\r\n$ Penguasa Anda akan menerima berkah dari Dead God, yang sering mengungkap aspek tak terduga dari kepribadian dan kemampuan mereka.",
+  "Ketidaksehatan\r\nSetelah bangun di pagi hari, penguasa Anda {soul_uuid} menyadari bahwa dia telah kehilangan minat pada hubungan seksual.\r\n\r\nLebih tepatnya, dia tidak mampu melakukannya lagi karena alasan fisiologis aneh.\r\n\r\nKemungkinan besar, penyihir yang baru-baru ini Anda serahkan ke gereja berhasil melemparkan kutukannya.\r\n\r\nKondisi ini akan berlangsung selama {days} hari."
+]

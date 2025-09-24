@@ -1,0 +1,7 @@
+[
+  "Peningkatan  \r\n$ Penduduk rumah ini akan mendapatkan pikiran <green>{housing_mind}</green>.",
+  "Ultimatum dari uskup\r\nUskup sangat tidak puas dengan raja Anda, {soul_uuid_target}, dan ingin mereka dihukum. Dalam 1 hari, pemberontakan akan terjadi, dan tidak ada yang bisa mengubah hasilnya - kecuali raja Anda akan menyerahkan mahkota kepada lord lain.\r\n\r\nFanatik religius <hint=hint_persons_fanatic>fanatik</hint> akan bersatu menjadi regu yang akan membakar rumah-rumah dan membunuh siapa pun yang mereka anggap kurang taat. Target akhir mereka adalah {soul_uuid_target}, yang mereka percayai bertanggung jawab atas kemalangan mereka.\r\n\r\n<b>Petunjuk:</b> Untuk membatalkan pemberontakan, serahkan mahkota kepada {soul_uuid_crown_target}.\r\n{optional_bishop_followers}",
+  "Pembongkaran Tidak Mungkin  \r\nBangunan tidak bisa dibongkar selama kebakaran sedang berkobar di kota.",
+  "Relokasi Tidak Mungkin  \r\nAnda tidak bisa memindahkan bangunan selama kebakaran sedang berkobar di kota.",
+  "Ringkasan Para Lord\r\n{events}\r\n$ Klik kanan (<b>RMB</b>) untuk menutup notifikasi."
+]

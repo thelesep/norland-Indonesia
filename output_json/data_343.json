@@ -1,0 +1,7 @@
+[
+  "~\nKebijaksanaanmu menghormatimu. Dengan menjadi vasalku, kau akan mengamankan perlindunganmu - sebuah nilai yang jarang dipahami secara benar di zamanku. Baiklah, saya setuju.",
+  "~\nKau mencari vasalage karena putus asa. Musuh mengelilingimu, dan pertimbangkan ini: jika saya setuju, mereka juga akan menjadi musuhku. Saya nasihatkan kau perbaiki hubunganmu dengan mereka dulu, kemudian minta bantuan.",
+  "Lepaskan vasal\nKedaulatanmu atas {soul_uuid_king} dibubarkan, dan faksi ini tidak lagi menjadi <hint=hint_vassal>vasal</hint>mu.",
+  "~\nKau telah mengakhiri hubungan itu, dan {soul_uuid_king} tidak lagi menjadi <hint=hint_vassal>vasal</hint>mu.",
+  "[hint_DESCRIPTION]\n{soul_uuid_king} percaya bahwa dalam situasi saat ini, akan terbaik bagimu menjadi <hint=hint_vassal>vasal</hint> mereka.\n\n$ Kau punya <b>2 hari</b> untuk mempertimbangkan tawaran itu.\n$ Jika kau abaikan proposal itu, {soul_uuid_king} akan coba uji kekuatanmu dalam beberapa hari.\n$ Jika serangan ini ke kotamu berhasil dan Aula mu dibakar sampai rata dengan tanah, kau akan diakui sebagai vasal {soul_uuid_king} oleh seluruh dunia.\n{optional_player_is_vassal}\n{optional_possible_helpers}\n\n[hint_SENDER]"
+]

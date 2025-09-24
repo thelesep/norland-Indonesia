@@ -1,0 +1,7 @@
+[
+  "Orang-orang Compang-camping\r\nMereka adalah bandit terendah dan terlemah—mantan pengembara dan petani, diasingkan dari kota-kota karena kejahatan. Mereka tinggal di hutan dekat kota, berharap melancarkan serangan cepat ke rumah-rumah terdekat.\r\n\r\nBiasanya, mereka tidak mengancam para lord, karena yang bisa mereka harapkan hanyalah menculik seorang petani untuk tebusan atau mencuri makanan dari rumah pinggiran. Kadang-kadang, bagaimanapun, mereka membakar bangunan untuk menciptakan pengalihan.",
+  "Khotbah Sukacita\r\n{skill_name}: {skill_level}\r\n\r\n$ Setiap peserta dalam khotbah menerima <green>+{moral_add}</hint> ke suasana hati.\r\n$ Pikiran itu akan bertahan selama satu hari (kekuatannya akan menurun secara linier).",
+  "Tidak Tersedia\r\n{soul_uuid} harus memiliki setidaknya <hint=hint_resource_rune>{runes}</hint>",
+  "Workplaces\r\nAngka dalam kurung di bawah ikon petani di sudut kiri atas menunjukkan keseimbangan tempat kerja.\r\n\r\nJika positif, itu mewakili jumlah orang tidak bekerja di kota.\r\nJika negatif, itu mewakili jumlah pekerjaan yang tersedia (yaitu, berapa banyak pekerja yang kurang).",
+  "Orang-orang compang-camping menyerang!\r\nPertahankan kotamu!"
+]

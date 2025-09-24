@@ -1,12 +1,7 @@
 [
-  "[hint_mind_caption]\r\nThis feeling of helplessness is awful... It's unpleasant to be a victim of a <hint=hint_crime>crime</hint>!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nWhat could be better than a <hint=hint_speech_friendly>friendly conversation</hint>?\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nBad combination! Bad combination!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nMother Sophia favors me!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nIt's time to bid farewell to this world...\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\n<hint=hint_sick>It hurts</hint>but it doesn't seem too serious.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nHoly Sophia, that <hint=hint_sick>pain</hint>! I hope I get better!\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nThis is damn good <hint=hint_alcohol>drink</hint>! Maybe I'll have another?\r\n\r\nReason: Alcohol consumed: {number}.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI'm feeling an extraordinary surge of strength! <hint=hint_resource_nectar>Nectar</hint> works wonders!\r\n\r\nReason: Nectar consumed: {number}.\r\n[hint_mind_remain_time]",
-  "[hint_mind_caption]\r\nI URGENTLY need a drink!\r\n\r\nReason: <hint=hint_alcoholism>Alcoholism</hint>.\r\n[hint_mind_remain_time]"
+  "Pendukung Kekuasaan\n$ Menghormati mereka yang pasukannya lebih dari dua kali ukuran pasukannya sendiri.\n$ Meremehkan mereka yang pasukannya kurang dari setengah ukuran pasukannya sendiri.",
+  "Materialis\n$ Memiliki sikap baik terhadap tetangga yang memiliki lebih dari dua kali Holy Rings daripada dirinya.\n$ Memiliki sikap buruk terhadap tetangga yang memiliki kurang dari setengah Holy Rings daripada dirinya.",
+  "Religius\n$ Menghormati raja-raja fanatik.\n$ Tidak menyukai raja-raja agnostik.",
+  "Pembela Ketertiban\n$ Tidak menyukai raja-raja yang mentolerir kamp Begal (hutan) di wilayah mereka dan mereka yang berinteraksi dengan mereka.\n$ Menghargai mereka yang menghancurkan kamp Begal.",
+  "Mudah Terpengaruh\n$ Membawa dua kali lipat kebencian terhadap musuh teman-temannya dibandingkan raja-raja lain."
 ]
